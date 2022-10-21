@@ -1,0 +1,483 @@
+STATES
+USAID
+*******
+EO 13985 USAID Agency Equity
+Action Plan
+Submitted: 02/09/2022
+(1) Executive Summary
+The United States Agency for International Development (USAID) is an independent agency of
+the United States government that is primarily responsible for administering civilian foreign aid
+and development and humanitarian assistance. On behalf of the American people, USAID
+promotes and demonstrates democratic values abroad, and advances a free, peaceful, and
+prosperous world. USAID programs nearly $25 billion annually, through efforts in many sectors
+including economic growth, climate and environment, global health, food security, education,
+conflict prevention and stabilization, and humanitarian assistance. The Agency operates in more
+than 100 countries across Africa, Latin America and the Caribbean, Asia, Europe and Eurasia,
+and the Middle East, and implements program activities that address the key drivers of poverty
+and social disparities.
+USAID's equity assessment submitted in August 2021 outlined findings and 61 preliminary
+recommendations that USAID could use, if approved, to advance a values-based approach,
+update rules and regulations, expand our partner base, and become more consultative to achieve
+the President's goals regarding racial and ethnic equity in a foreign assistance context. The
+USAID Agency Equity Team (AET) prioritized the following recommendations for inclusion in
+the Action Plan: 1) continued development of the WorkwithUSAID platform, 2) enhanced
+implementation of USAID's nondiscrimination for beneficiaries policy, development and
+implementation of an Independent Accountability Mechanism, and advancement of Title VI
+protections at USAID, 3) lowered internal and external barriers for USAID awards, to include
+reduction of acquisition and assistance administrative burdens that negatively affect partner
+capacity, 4) designation of an Inclusive Development (ID) Advisor at each Mission and
+procurement of inclusive development support mechanisms managed through the Agency's ID
+Hub, and 5) implementation of a consistent approach to incorporate racial and ethnic equity and
+diversity into policy, planning, and learning.
+Together, these actions help reframe the ways in which USAID partners democratize the
+development process by integrating equity into Agency policies, strategies, and practices;
+enhance the ability of potential non-traditional partners to pursue USAID opportunities; prevent
+discrimination in Agency programs; and strengthen the Agency's capacity to advance inclusive
+development in our overseas programming. Further, to ensure the Agency adheres to these plans,
+the five actions that comprise this Equity Action Plan will also serve as the basis by which
+USAID measures its success in a new proposed external diversity, equity, inclusion, and
+accessibility (DEIA) Agency Priority Goal (APG) that will be included in the FY 2022 - FY
+2026 State-USAID Joint Strategic Plan (JSP).
+2
+(2) Summary of Early Accomplishments
+USAID's focus on inclusive development preceded the publication of Executive Order (EO)
+13985. However, since January 2021, USAID has made progress towards integrating equity into
+its policies and practices and facilitating the diversification of its partner base.
+Integrating Equity into Program Policy
+USAID's Bureau for Policy, Planning and Learning (PPL) developed policy updates in August
+2021, including one titled "Promoting Diversity, Equity and Inclusion in USAID Programming."
+This policy update acknowledges the urgency of addressing DEIA through an Agency-wide
+approach and focuses on USAID's objectives and methods to address marginalization, increase
+inclusion, and foster diversity through its global programming by utilizing an inclusive
+development approach. The forthcoming June 2022 USAID Policy Framework will provide new
+policy guidance, as needed, in addition to existing requirements.
+Expanding and Diversifying the Partner Base
+USAID's Administrator released updated guidance in October 2021 for the Agency's New
+Partnership Initiative (NPI) Action Plans that incorporates guidance from EO 13985. NPI Action
+Plans are strategic and operational documents within which operating units describe how they
+plan to expand their use of NPI's three Partnership Approaches during FYs 2022 and 2023. NPI
+Partnership Approaches are critical to diversifying the Agency's implementing partners,
+expanding engagement with local partners, and working with traditional partners in new ways to
+strengthen local capacity. This year, Missions/Operating Units (M/OUs) must also specifically
+outline plans for enhancing equity and inclusion through acquisition and assistance practices and
+activity implementation abroad.
+In addition to integrating equity into Agency procurement practices, the Agency has also
+reinvigorated efforts to build relationships with Minority Serving Institutions (MSI) through its
+MSI Partnership Initiative. This Initiative helps the Agency both build a pipeline of qualified
+candidates to diversify its workforce and supports capacity-building efforts directed to increase
+MSIs' participation in federal programs at USAID. Two Memoranda of Understanding (MOU)
+were signed in August 2021 and January 2022 with Delaware State University and Tuskegee
+University, two Historically Black Colleges and Universities (HBCU). Two additional MOUs
+will be signed within the coming months with Morehouse College and Alcorn State University.
+Strengthening Accountability Through Performance Management
+USAID collaborated with the State Department in June 2021 to add a key issue on racial equity
+to the FY 2021 Operational Plan (OP) and Performance Plan and Report (PPR). USAID will
+utilize the data collected from the key issue, along with other key issues on gender, youth,
+disability, LGBTQI+, and religious minorities, to better establish a baseline for investment in
+DEIA programming, have a more informed approach when allocating resources to advance racial
+equity, promote equitable delivery of government benefits, and support local organizations that
+advocate for equity for historically underserved or marginalized racial and ethnic groups, along
+with other local initiatives.
+3
+(3) Equity Action Plan
+Upon delivery of the Initial Findings and Recommendations Report, USAID conducted several
+prioritization sessions to determine the top five priorities of the initial 61 recommendations using
+a prioritization matrix¹ which highlighted impact and effort for implementing proposed
+recommendations. Those prioritized as high impact, regardless of level of effort associated with
+the task, were shared with key stakeholders and the AET for a voting exercise to rank the
+available options.
+Below are the top five priority recommendations that resulted from the prioritization exercise:
+1. Continue development of the WorkwithUSAID platform, a free resource hub built to
+empower new and existing partners with the knowledge and networks to navigate how to
+work with USAID;
+2. Enhance implementation of USAID's nondiscrimination for beneficiaries policy, develop
+and implement an Independent Accountability Mechanism, and advance Title VI
+protections2 at USAID;
+3. Lower internal and external barriers for USAID awards, to include reduction of
+acquisition and assistance administrative burdens that negatively affect partner capacity;
+4. Designate an Inclusive Development Advisor at each Mission focused on elevating
+considerations of marginalized groups in all of our programming and procure inclusive
+development support mechanisms managed through the Agency's Inclusive Development
+Hub;
+5. Implement a consistent approach to incorporate racial and ethnic equity and diversity into
+policy, planning, and learning.
+Each of the prioritized recommendations underwent an assessment of a) barriers to equitable
+outcomes, b) action and intended impact on barriers, c) tracking progress, and d) accountability
+to determine how each recommendation will meaningfully address the barriers identified in the
+USAID equity assessment. The results of this assessment can be found for each prioritized
+recommendation below.
+1 Priority Impact Matrix utilized by USAID to prioritize recommendations
+2 Code of Federal Regulations, Title 22 - Foreign Relations, PART 209 - NON-DISCRIMINATION IN
+FEDERALLY-ASSISTED PROGRAMS OF USAID - -EFFECTUATION OF TITLE VI OF THE CIVIL
+RIGHTS ACT OF 1964
+4
+Recommendation 1: Continue development of the WorkwithUSAID.gov platform, a free
+resource hub built to empower new and existing partners with the knowledge and networks
+to navigate how to work with USAID.
+A. Barrier to Equitable Outcomes
+While there have been many past efforts to diversify and expand the Agency's partner base, it is
+still challenging for new and local organizations to partner with USAID. Per data in the Global
+Acquisition and Assistance System (GLAAS), as recently as 2020, 67 percent of USAID's
+funding was directly awarded to just 25 partners.
+As evidenced by a recent poll conducted via USAID's LinkedIn account, organizations do not
+know where to start in order to partner with us. Organizations can struggle to navigate the
+complex requirements for funding eligibility, understand our government terminology, and sort
+through all of the systems in which they need to register. These bureaucratic hurdles have
+prevented USAID from partnering with small or local organizations, many of which represent
+underserved and historically marginalized populations around the world. This also represents a
+missed opportunity for the Agency to engage with partners that have the local experience,
+knowledge, and networks to ensure the best and most sustainable development outcomes in our
+host countries.
+B. Action and Intended Impact on Barrier
+To make it easier for small businesses, NGOs, faith-based organizations, minority-serving
+institutions, diaspora groups, and universities to partner with us, USAID's Office of Acquisition
+and Assistance, and the Bureau for Development, Democracy, and Innovation worked together to
+launch WorkwithUSAID.org (soon to be transitioned to WorkwithUSAID.gov). This new
+platform serves as the first step towards small businesses and local organizations in the US and
+overseas becoming a partner with USAID.
+WorkwithUSAID gives prospective partners a place to start, current partners a place to grow, and
+the Agency a place to build new partnerships. This free website complements USAID gov by
+offering interactive tools and resources to help organizations better understand the Agency and
+USG regulations as they prepare to pursue funding opportunities. WorkwithUSAID also provides
+open access to capacity-strengthening tools for organizations that might otherwise be deterred
+from pursuing a partnership with USAID. This website is unique because it is a one-stop-shop
+where anyone can access and benefit from our resources, regardless of who they are and where
+they work.
+Currently, there are five key components to the website:
+1. Partner Directory - allows organizations to create a profile and discover others in
+the development community;
+2. Pre-Engagement Assessment - allows organizations to evaluate their readiness to
+compete for USAID funding and receive a customized report to understand their capacity
+gaps;
+3. Library - provides a curated library of free tools and resources for organizational capacity
+building;
+4. Blog with helpful partner resources curated by M/OAA staff; and
+5
+5. Collection of FAQs about partnering with USAID.
+As new knowledge gaps are identified, we will continue to build out the website and add more
+language options to ensure that a lack of understanding around how the Agency operates will
+never be a barrier to partnership.
+C. Tracking Progress
+In the near term, USAID will track progress by reviewing the number of current and prospective
+partners that are registered in the Partner Directory and measuring the number of new potential
+partners that take the pre-engagement assessment. We will report this information quarterly. We
+will also track additional metrics, captured outside of WorkwithUSAID, including funding
+obligated to new local partners on an annual basis.
+Ultimately, with a website that is fully translated into multiple languages, new and local
+prospective partners are more easily able to partner with USAID - leveling the playing field to
+support diversity, equity, inclusion and accessibility. As USAID looks to engage more with new
+U.S. based and local partners, the Agency is able to use the Partner Directory to identify capable
+organizations to work with. Ultimately, this website will support the Agency's efforts to create a
+more diversified partner base.
+D. Accountability
+USAID's proposed external DEIA Agency Priority Goal (APG) will be reported on a quarterly
+and annual basis in performance.gov. The Management Bureau's Office of Acquisition and
+Assistance (M/OAA) will be responsible for reporting on the metrics and the outreach activities
+related to the website.
+6
+Recommendation 2: Enhance implementation of USAID's nondiscrimination for
+beneficiaries policy, develop and implement an Independent Accountability Mechanism
+(AM), and advance Title VI protections3 at USAID.
+A. Barrier to Equitable Outcomes
+USAID is committed to the protection of human rights and nondiscrimination for recipients of
+USAID services delivered through its programs in more than 100 countries to include acquisition
+and assistance. While USAID has had a nondiscrimination for beneficiaries policy since 2016, it
+is important to enhance implementation of this policy to ensure its effectiveness. Additionally,
+the Agency does not have a centralized, accessible mechanism to receive grievances or provide
+redress to beneficiaries who are victims of discrimination, nor one to receive and resolve
+complaints filed by a beneficiary or groups of beneficiaries (or their authorized representatives)
+who have experienced environmental, social, or economic harm they believe was caused by a
+USAID project or activity or who think they could potentially experience such harm. USAID
+program beneficiaries include people from marginalized or underrepresented groups, who in
+some cases may be adversely affected by our development projects and activities. These
+beneficiaries may also be at higher risk of experiencing discrimination based on their race,
+ethnicity, color, national origin, sex, gender identity, sexual orientation, disability, or other
+identity traits.
+B. Action and Intended Impact on Barrier
+USAID will implement a three-pronged approach to address this barrier. First, USAID intends to
+explore strengthening the implementation and oversight of its existing nondiscrimination for
+beneficiaries policies in several ways, including expanding training, publishing a beneficiaries
+bill of rights in multiple languages, increasing funding for community-led monitoring initiatives,
+and expanding engagement with communities and beneficiaries in the planning and evaluation of
+activities. Together, these approaches will increase the number of staff and implementing
+partners who are aware of and sensitized to the nondiscrimination for beneficiaries policy,
+promote awareness among beneficiaries of their rights under the policy, and strengthen
+compliance through improved monitoring.
+The Agency also plans to develop a USAID Accountability Mechanism (AM), which will serve
+as a means to receive and resolve complaints filed by a beneficiary or groups of beneficiaries (or
+their authorized representatives) who have experienced environmental, social, or economic harm
+caused by a USAID project or activity or could potentially experience such harm. AMs typically
+include a compliance review function, a dispute resolution or mediation function, and feedback
+capability. The AM will be consistent with Principle 31 of the UN Guiding Principles on
+Business and Human Rights, which defines an "effective" accountability mechanism as
+legitimate, accessible, predictable, equitable, transparent, rights-compatible, and a source of
+continuous learning.
+3 Code of Federal Regulations, Title 22 - Foreign Relations. PART 209 - NON-DISCRIMINATION IN
+FEDERALLY-ASSISTED PROGRAMS OF USAID _EFFECTUATION OF TITLE VI OF THE CIVIL RIGHTS
+ACT OF 1964
+7
+In addition, USAID will work with the U.S. Department of Justice - Civil Rights Division
+(DOJ/CRD) to help determine the best approach to reinvigorate the Agency's Title VI program,
+which will only apply to a small subset of Agency awards. USAID will also identify the
+organizations operating in the United States receiving federal financial assistance through
+contracts with provisions of providing assistance, collaborative agreements, grants, and other
+funding mechanisms to ensure applicability of the Title VI statute. More actions will be
+identified once the appropriate assessment is conducted and through our continued engagement
+with the DOJ/CRD. It is noted that the Agency's enhancement of its Title VI program will entail
+evaluation of its Title IX and other antidiscrimination programs given that the compliance
+procedures are tied together by regulation.
+C. Tracking Progress
+Enhanced Implementation of Nondiscrimination for Beneficiaries Policy: USAID anticipates
+using USAID University, an online training platform, to track how many staff complete online
+training covering the nondiscrimination for beneficiaries policy. Should USAID pursue
+publishing a beneficiaries bill of rights and/or increasing funding for community-led monitoring
+initiatives, it anticipates performing a baseline and post-intervention analysis of the number of
+beneficiary bills of rights posted in local languages and the amount of funding devoted to
+community-led monitoring, respectively.
+Independent AM: Mission Advisory Teams will conduct baseline and endline impact
+assessments on each complaint filed. There will also be progress reports and periodic follow-ups
+from Mission Management Teams to the Agency AM Team (AMT), which includes permanent
+members from Washington Bureaus. The AMT will write a final report at the resolution of a
+complaint.
+Title VI: In the short-term, USAID will first need to review how much of its financial assistance
+is subject to Title VI to effectively evaluate whether barriers exist within the Agency's
+programming.
+With enhanced implementation of USAID's nondiscrimination for beneficiaries policy, there will
+be substantially increased awareness among staff, implementing partners, and beneficiaries of
+USAID's zero-tolerance stance on discrimination against beneficiaries. With an effective
+Independent AM and Title VI program, USAID will be able to conduct inspections and reviews
+of projects or activities funded by the Agency and respond to any complaints filed.
+D. Accountability
+This recommendation is included as part of the Agency's proposed external DEIA APG with
+associated milestones and indicators. As part of the APG reporting process, the Agency will
+publicly report on the accomplishment of milestones on a quarterly and annual basis on
+performance.gov
+8
+Recommendation 3: Lowering internal and external barriers for USAID awards, to include
+reduction of acquisition and assistance administrative burdens that negatively affect
+partner capacity.
+A. Barrier to Equitable Outcome(s)
+USAID's existing acquisition and assistance processes present an administrative burden and can
+make proposal and application submissions cost-prohibitive for organizations, especially those
+serving historically marginalized groups. Often staffed by smaller teams and having limited
+operating budgets, potential partners from underrepresented groups may not be familiar with
+USAID's acquisition and assistance regulations, policies, or award processes and may not have
+the operational capacity to hire or designate writing teams to respond to solicitations.
+All organizations with limited operating capacity may be impacted by these barriers, such as
+those representing Minority Serving Institutions (MSIs), minority-owned small businesses, and
+local entities (e.g., faith-based organizations, local private sector partners, local
+non-governmental organizations, community organizations, and service providers).
+In Fiscal Year 2021, local organizations4 received 6.2 percent of USAID's total obligations
+(acquisition and assistance) through direct funding, even as awareness of the sustainable benefits
+of partnering with local organizations is surging.
+Through focus group consultations with external stakeholders, many also shared that applying
+for USAID awards can be cost prohibitive. Some particularly spoke of limited resources to hire
+contract/grant proposal/application writers and how proposal/application preparation usurps time
+from other operational and programming priorities. These barriers have stopped some
+organizations from pursuing acquisition and assistance opportunities with USAID.
+B. Action and Intended Impact on Barrier
+USAID will explore the flexibilities possible under the law to limit competition (where feasible),
+streamline proposal/application requirements (e.g., limiting length of written
+proposals/applications, using oral presentations in lieu of written content for certain
+proposal/application requirements, not requiring full work plans, M&E plans, organizational
+charts/staffing plans with initial proposals/applications, etc.), encourage use of flexible
+solicitation methods (e.g., phased acquisition/assistance) as appropriate, and minimize the
+compliance barriers that are preventing local organizations or marginalized groups from being
+competitive for awards. Examples of decreasing barriers include: selecting the appropriate type
+of award or subaward/subcontract that allows USAID to award to less experienced local
+organizations while minimizing financial and programmatic risks to the local organizations as
+well as to USAID; and sharing capacity strengthening resources that improve local
+organizations ability to comply with U.S. laws and regulations and achieve results in their
+communities with USAID funding (see Rec #1 re: WorkwithUSAID.org).
+4 If the SAM vendor country of incorporation, SAM vendor address country, and GLAAS place of performance
+match, the vendor is identified as local and tagged as 'SAM PoP Local.'
+9
+These actions can help external stakeholders better assess their competitiveness for USAID
+funding and reduce organizational effort and expense associated with proposal/application
+processes. For example, with either phased acquisition or assistance, initial submissions would
+be straightforward and less burdensome while allowing offerors/applicants to receive feedback
+on their likelihood of receiving an award before they decide to invest in subsequent phases.
+These types of flexible solicitations would enable new entrants to avoid hefty
+proposal/application preparation costs.
+C. Tracking Progress
+The Agency Industry Liaison will administer an annual partner survey to garner external
+stakeholder feedback on working with USAID. The rate of satisfaction with streamlined
+procurement processes will gauge the extent these actions have reduced barriers to equitable
+access to USAID funding opportunities.
+In the long-term, this recommendation will ultimately result in an increase in the percentage of
+external stakeholders who believe USAID's streamlined processes have made
+proposal/application submissions more pragmatic and cost effective for potential partners, and a
+more diversified partner base, regardless of funding level.
+D. Accountability
+This action will align with M/OAA's updated A&A Strategy (2022). M/OAA has social media
+platforms and Agency Industry Liaison outreach that serve as opportunities to dialogue with and
+receive feedback from partners and other external stakeholders. It also holds open Community of
+Practice calls regularly to promulgate lessons learned and best practices. In addition, these
+actions are included in the proposed external DEIA APG. M/OAA will be responsible for
+reporting progress against established milestones and metrics on a quarterly basis and annual
+basis in performance.gov
+10
+Recommendation 4: Designate an Inclusive Development Advisor at each Mission and
+procure inclusive development support mechanisms managed through the Agency's
+Inclusive Development Hub.
+A. Barrier to Equitable Outcome(s)
+USAID promotes a nondiscriminatory, inclusive, and integrated development approach that
+seeks to ensure that all people, including those who face discrimination and thus may have
+limited access to a country's benefits, legal protections, or social participation, are fully included
+and can actively participate in and benefit from development processes. USAID's Missions often
+have the funding, willingness, interested generalist staff, and political will to design
+programming that is inclusive of and equitable for marginalized and underrepresented groups.
+Unfortunately, Missions often lack the specific expertise and resources required to program on
+inclusive development. Most Missions do not have dedicated advisors to the full inclusive
+development portfolio, which entails having technical knowledge and expertise related to the
+challenges and barriers faced by numerous marginalized groups in the local context. Per ADS
+205 requirements, most Missions do have the required Gender Advisors, with some focused
+solely on gender equality issues and some on gender and inclusive development issues - which
+they report is too broad a workload that contributes to burnout.
+In addition, Missions face multiple challenges when seeking to directly partner with local
+organizations representing marginalized and underrepresented groups and topics. Challenges
+faced by such local organizations may include safety and security considerations, time
+sensitivity, the need for discretion, and complicated relationships with local governments.
+Combined, these factors often hinder a Mission's ability to develop programming that addresses
+the needs of marginalized and underrepresented groups and/or strengthen the capacity of the
+organizations that support these groups.
+B. Action and Intended Impact on Barrier
+To improve technical leadership at all USAID Missions, the Agency will begin ensuring that
+each Mission appoints an Inclusive Development Advisor, a Foreign Service (FS) or Foreign
+Service National (FSN) staff member who specializes on issues of inclusive development. This
+will be in addition to the current structure of Gender Advisors. In doing so, USAID would
+parallel how all Missions and many DC-based Operating Units already staff a Gender Advisor
+who specializes on issues of gender equality. The presence of a Gender Advisor has been cited
+as one of the most important factors in ensuring the integration of gender into USAID
+programming The proposed Inclusive Development Advisors will coordinate closely with the
+Gender Advisors to advance the Mission's work across the full inclusive development agenda.
+Inclusive Development Advisors serve as subject-matter experts on USAID's inclusive
+development framework, convene the Mission's Inclusive Development Working Group, launch
+Inclusive Development Analyses and other relevant approaches to gathering data and
+understanding local contexts, guide Mission staff in developing programming designed to
+integrate the needs of marginalized and underrepresented groups, spearhead the integration of
+inclusive development considerations in relevant policies, and establish guidance to advance the
+Mission's inclusive development approach. A small number of Missions have already
+11
+designated an Inclusive Development Advisor - these Missions lead the Agency in integrating
+the needs and priorities of marginalized and underrepresented groups into their programming
+and partnerships. To ensure staff can perform this function, the Agency's Inclusive
+Development Hub will continue to develop and facilitate instructor-led and asynchronous
+virtual training sessions on inclusive development topics.
+An Inclusive Development Advisor at each Mission is necessary to advance the Agency's
+vision for an inclusive and equitable approach to global development, but Missions must be
+provided with additional resources. These will be delivered in the form of two new inclusive
+development support programs to be procured by the Agency's Inclusive Development Hub.
+These mechanisms will increase the ability of missions to effectively support inclusive
+development objectives through informed, evidence-based programming by: 1) Increasing
+Mission capacity to pursue an inclusive development approach through expanding knowledge
+of the needs of marginalized and underrepresented groups in the country; 2) Increasing the
+capacity of local organizations serving marginalized and underrepresented groups to support
+their needs; and 3) Reducing the barriers to developing and managing inclusive development
+projects by providing access to mechanisms to support integration activities, small grants,
+capacity building, and rapid response. Additional activities will be implemented through these
+support programs as further gaps in USAID's ability to resource an inclusive development
+approach are identified.
+C. Tracking Progress
+USAID will use a variety of indicators to understand the reduction in barriers for organizations to
+engage with the Agency. These metrics will be measured on a quarterly basis. They include the
+percentage of Missions that have designated an Inclusive Development Advisor; the percentage
+of Missions that have further operationalized inclusive development by convening an Inclusive
+Development Working Group; the number of Missions that have bought-in to the central
+inclusive development programs to engage in inclusive development learning and adaptation
+activities; and the number of local organizations serving and managed by marginalized and
+underrepresented groups (including organizations led by youth, women, LGBTQI+ people,
+persons with disabilities, Indigenous peoples) that are supported with USAID resources.
+The longer term desired outcomes are integration of the needs and priorities of marginalized and
+underrepresented groups and individuals in vulnerable situations across all Agency efforts,
+increased opportunities for training and the dissemination of information to promote inclusion,
+and utilization of new funding opportunities to build the capacity and increase the number of
+local organizations that serve marginalized groups partnered with USAID.
+D. Accountability
+As noted above, USAID has a proposed external DEIA APG that will be reported on both
+quarterly and annually in performance.gov. Data will be collected by the Inclusive Development
+Hub, together with the Gender Equality and Women's Empowerment Hub, from Missions and
+program managers to inform these reports.
+12
+Recommendation 5: Implement a consistent approach to incorporate racial and ethnic
+equity and diversity into policy, planning, and learning.
+A. Barrier to Equitable Outcome(s)
+Evidence from data collected as part of the USAID Equity Assessment suggests that there are
+broad variations and inconsistencies in how USAID policies, planning process, and
+learning/evaluations incorporate DEIA. At present, neither USAID's strategic planning nor
+project/activity design guidance specifically requires Missions to address equity issues. Finally,
+there is currently limited local stakeholder participation in activities throughout the program
+cycle, including evaluation planning, design, implementation, and dissemination. The
+populations most impacted by this barrier are local partners and stakeholders, including host
+governments, civil society, faith-based organizations, academic institutions, and private sector
+players including those from underrepresented groups in the countries where USAID works.
+B. Action and Intended Impact on Barrier
+USAID will work on integrating DEIA into USAID policy formulation by:
+Incorporating DEIA as a major pillar of USAID's Policy Framework;
+Revising internal guidance on sectoral and thematic development policies and strategies
+(ADS Chapter 200) to ensure that both process and content embrace DEIA, including by
+creating expectations that policy drafters will seek out a diversity of voices both from the
+USAID workforce and from stakeholders in the countries where we work. ADS 200 will
+suggest that policy writers assess the needs of disadvantaged and marginalized groups in
+that sector/issue area and then articulate practices/principles to address their needs in
+future programming, recognizing the intersecting barriers that women and girls face;
+Releasing new/updated Agency policies that directly address DEIA, including Youth,
+Disability, Gender Equality and Women's Empowerment, Strategic Religious
+Engagement, LGBTQI+, and Local Capacity Development; and
+Articulating a Localization Reform Agenda that identifies actions the Agency will take to
+improve its ability to engage with local actors and local systems.
+USAID will ensure that planning and design processes integrate inclusive development and
+gender equality in programs and Mission operations by:
+Advising Missions on the application of DEIA principles and use of analytic findings
+throughout the course of Country Development Cooperation Strategies (CDCS)
+development and as part of activity design, including through assessments;
+Translating DEIA concerns identified in planning and design processes into monitoring,
+evaluation, and learning plans;
+Developing guidance for assessing progress during Midcourse Stocktaking and Portfolio
+Reviews; and
+Identifying milestones and measures to track progress toward Agency goals/objectives.
+USAID will work towards increased participation of local stakeholders in the evaluation/learning
+process by:
+13
+Recommending, where possible and appropriate, USAID evaluation contractors to use
+local experts, especially those from marginalized or underrepresented communities, as
+external evaluation team leaders for designing and conducting evaluations;
+Investing time/resources in building evaluation capacity of local experts where we work;
+Continuing to track the number of local experts engaged in USAID evaluations and
+learning from USAID Missions that are increasing the number; and
+Encouraging participatory evaluation and learning approaches that engage local
+stakeholders in evaluation design, interpretation, and use of evaluation findings.
+USAID is prioritizing these actions because they are focused on consistently building DEIA into
+formal processes, contribute to mutual learning between USAID and the local communities
+regarding program implementation, and will enhance USAID's contribution to equity in
+programmatic learning and sustainable outcomes.
+C. Tracking Progress
+USAID will use a number of factors to determine whether actions have eliminated or
+substantially reduced the barriers to effective integration of DEIA into policies, planning process,
+and learning/evaluation. Those include policy implementation assessments (PIAs), country
+development cooperation strategies (CDCS), mid-course stocktaking reviews, solicitations
+(Requests for Applications, Requests for Proposals, Notices of Funding Opportunities) issued at
+Mission and Bureau/Independent Office levels, number of USAID evaluations with one or more
+local experts included as a member of the team, and inclusion of DEIA as an Agency Priority
+Goal in the Joint Strategic Plan.
+If USAID is successful in implementation of these actions, one-hundred (100) percent of CDCSs
+and Performance Management Plan (PMP) articulate actions and programs to implement
+country-level DEIA objectives and track progress through data, and DEIA principles are
+incorporated into policies, sector strategies, initiatives, implementation guidance and tools to
+inform strategic planning, project and activity design and implementation across all sectors. The
+use of local expertise will be institutionalized into the process of analyzing, assessing and
+evaluating, to the extent that 70 percent of evaluation teams include local experts. USAID's
+cadre of development professionals among all hiring categories will be well-versed in DEIA
+policy and practice, and have increased capacity and resources (training, staffing and budget), to
+make significant progress on advancing the DEIA agenda. Finally, data from across the Agency
+is compiled and shared to accurately and consistently represent Agency progress toward DEIA
+goals via regular reporting mechanisms.
+Accountability
+There are a number of ways the Agency can hold itself to account for these actions including
+requiring PPL/Policy Office POCs for each policy workstream, including both new and revised
+policy documents, using inclusive development indicators to demonstrate attainment of
+sector-specific results that concurrently advance DEIA principles, requiring operating units to
+report in the evaluation registry on the participation of local experts in external evaluation teams
+for each complete external evaluation, and reporting progress in the proposed external DEIA
+APG both quarterly and annually on performance.gov.
+14

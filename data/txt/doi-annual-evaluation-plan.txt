@@ -1,0 +1,392 @@
+DOI FY 2023 Annual Evaluation Plan
+U.S. Department of the Interior
+FY 2023 Annual Evaluation Plan
+OF
+The
+is
+MARCH 3, 1819
+DOI FY 2023 Annual Evaluation Plan
+Table of Contents
+Introduction
+3
+Building Evidence through Evaluation
+3
+Significant Program Evaluations
+4
+1. Evaluating the impact of DOI financial assistance on species conservation abroad
+5
+2. Evaluating the effectiveness of measuring outcomes of invasive species control
+7
+3. Evaluating the effectiveness of Wildland Fire Management recruitment strategy
+9
+4. Evaluating the Bureau of Trust Funds Administration's pilot Interactive Beneficiary Kiosk
+11
+5. Evaluating the Earth Mapping Resources Initiative of the Minerals Resources Program
+13
+6. Evaluating Bureau of Indian Education Data and Student Achievement
+15
+Page 2 of 15
+FY 2023 Annual Evaluation Plan
+Introduction
+The Department of the Interior (DOI or the Department) plays an integral role in conserving and
+managing the Nation's natural resources and cultural heritage for the benefit and enjoyment of
+the American people. The Department is the steward of 20 percent of America's lands,
+managing national parks, national wildlife refuges, and other public lands. DOI works closely
+with states, tribes, and other partners to help accomplish shared natural and cultural resources
+management goals across the country. Its wide-ranging programs create economic
+opportunities and jobs for the American people. The Department has an important and unique
+mission to uphold and honor the Nation's trust responsibilities and commitments to American
+Indians, Alaska Natives, and affiliated indigenous communities. Key to this work are evidence-
+building activities and the results of evaluations which are used to make critical decisions about
+program operations, policy, and regulations, and to gain visibility into the impact of resource
+allocation on achieving program objectives.
+DOI is building program evaluation capacity that will improve the Department's implementation
+of the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act). The Fiscal Year
+(FY) 2023 Annual Evaluation Plan provides summary information on proposed significant
+evaluations planned for FY 2023. Evaluations use systematic data collection and analysis to
+address questions related to the implementation of a program, policy, or organizational factors
+surrounding a program, and for organizational learning and improvement purposes. The
+planned evaluations will assist in answering priority evidence-building questions included in the
+Department's learning agenda, as well as other significant evaluations. These evaluation plans
+support evidence-building for decision-making to improve the efficiency and effectiveness of
+the Department as outlined by the Office of Management and Budget (OMB) guidance M-19-23
+and M-21-27.
+Building Evidence through Evaluation
+Evidence includes fact finding, performance measurement, policy analysis, and program
+evaluation, and the role of each supports the DOI evidence-building enterprise. While evidence,
+in general, can be used to answer a wide array of questions, it is the role of evaluation,
+specifically, to provide insights into questions of effectiveness or efficiency regarding the
+programs being implemented in carrying out the DOI mission. The Evidence Act emphasizes
+collaboration and coordination to advance data and evidence-building functions and the DOI
+Evaluation Policy provides guidance on the conduct of evidence building activities aligned with
+evaluation standards in OMB M-20-12.
+The Department is developing the capacity to support program evaluations and building the
+knowledge, skills, and abilities to conduct these activities at the Department, bureau, office,
+and field levels. Based on the FY 2022-2026 Capacity Assessment, DOI currently has an
+underdeveloped evaluation capacity. To provide initial evaluation expertise and lay the
+groundwork for continuing to build evaluation capabilities, DOI should have a program
+evaluator to lead and facilitate these efforts. The DOI has requested FY 2023 funds specifically
+Page 3 of 15
+DOI FY 2023 Annual Evaluation Plan
+for program evaluation which will provide resources to coordinate and facilitate evaluation
+activities. A key success factor to improving DOI's evaluation culture is developing evaluation
+expertise and capacity within the evidence and evaluation community among bureaus and
+offices. The evaluations described in this plan will be conducted as DOI continues to build and
+improve evaluation capacity.
+Significant Program Evaluations
+The Department's evaluation policy allows latitude for bureaus and offices to define
+"significant" evaluations based on their own needs. However, DOI generally defines a significant
+program evaluation as an assessment using systematic data collection and analysis of programs,
+policies, or organizations intended to assess their effectiveness and impacts supporting or
+connected with one or more of the following.
+DOI Learning Agenda
+DOI Agency Priority or Agency Priority Goals (APGs)
+Cross-DOI or Cross-Government priority or initiative
+Congressional, Government Accountability Office (GAO), or Office of the Inspector
+General (OIG) high risk or high interest priority
+The evaluation plans summarize the DOI's significant evaluation activities for a given year. DOI
+provided evaluation planning guidance with budget formulation requests sent to bureaus and
+offices. Significant evaluation plans were provided to DOI's Evaluation Officer for review. For FY
+2023, significant evaluation plans address components of the DOI learning agenda. DOI
+anticipates that program evaluations may also be conducted by bureaus and offices based on
+factors reflecting significant evaluation to their organization as well as recommendations from
+the GAO and the DOI OIG.
+Page 4 of 15
+DOI FY 2023 Annual Evaluation Plan
+1. Evaluating the impact of DOI financial assistance on species
+conservation abroad
+Evaluation Question(s)
+What is the impact and effectiveness of DOI's U.S. Fish and Wildlife Service's (FWS) foreign
+assistance on species conservation abroad? This evaluation will investigate this question from
+two perspectives:
+1. Return-On-Investment: What factors predict highest impact and performance that can
+be used to inform grant-making decisions and program strategy?
+2. Conservation Effectiveness: What is the known effectiveness and frequency of
+conservation interventions supported by FWS financial assistance awards for foreign
+species conservation in Africa, Asia, and/or Latin America?
+Background Information, Strategic Alignment, and Data Planning
+In order to support the implementation of the Foreign Aid Transparency and Accountability Act
+of 2016 (FATAA), the Evidence Act, and Administration priorities, the FWS's International Affairs
+Program has been proactively engaged with OMB and partners to pilot new techniques to
+develop measurable outcomes for the agency's foreign assistance programs and to assess the
+effectiveness and impact of financial assistance on foreign species conservation. Evidence
+generated from this evaluation will enable more effectively support the health and recovery of
+endangered species; leveraging long-term planning and forecasting in planning for climate
+impacts on species, habitats, and ecosystems; and making evidence-based decisions guided by
+the best available science and data.
+This evaluation supports DOI Strategic Goal 2 and Strategic Objective 2.2 (Species, habitats, and
+ecosystems are protected, sustained, and healthy). Also, Strategic Goal 4 and Strategic
+Objective 4.1 (People, communities, and organizations benefit from DOI data, science, and
+information). Data to be gathered includes the following.
+1. Return-On-Investment Modeling:
+a. Annual population change derived from sites with repeated population survey data;
+b. Conservation spend data;
+C.
+Relevant covariates (e.g., protected area size, government effectiveness, human
+population density and gross domestic product);
+d. Species status, including population data, under varying conservation scenarios
+2. Conservation Effectiveness:
+a. Frequency of conservation interventions in DOI/FWS financial assistance awards;
+b. Effectiveness categories for conservation interventions from evidence
+clearinghouse.
+Page 5 of 15
+DOI FY 2023 Annual Evaluation Plan
+Plan for Evaluation
+Through engaging with key stakeholders (including the evidence clearinghouse, relevant subject
+matter experts and science-based specialist groups within the International Union for
+Conservation of Nature (IUCN) Species Survival Commission, and, applicants and recipients of
+DOI/FWS funds for foreign species conservation) an outcome evaluation to identify the results
+or effects of a program and an implementation evaluation to document what the program is
+doing, including the known effectiveness and frequency of interventions.
+Challenges
+Challenges include uncertainty in the population status of foreign species and data sensitivity;
+limited data on the effectiveness of conservation interventions; interpretation of results in the
+context of factors outside of Agency or recipient control (e.g., natural disasters, civil unrest).
+Dissemination and Use
+Results will be disseminated with partners and to the public in agency data repositories (e.g.,
+ServCat), peer-reviewed scientific literature, and through IUCN Species Specialist Groups, which
+reach a broad network of authorities and officials in foreign countries, subject matter experts in
+the field, and other key stakeholders.
+Page 6 of 15
+DOI FY 2023 Annual Evaluation Plan
+2. Evaluating the effectiveness of measuring outcomes of invasive
+species control
+Evaluation Question(s)
+To what extent are personnel and methodologies effective in assessing whether invasive plant
+and animals are under control on DOI managed lands and waters?
+Background Information, Strategic Alignment, and Data Planning
+As the largest land manger in the United States, DOI has a responsibility to manage invasive
+species and reduce their threats, adverse impacts, and spread. Congress, partners, tribes, and
+stakeholders expect DOI to effectively control invasive plants and animals, particularly those on
+DOI-managed lands and waters. This evaluation would improve DOI capabilities to report on
+performance measures, improve operations, and build confidence in the data and its use in
+decision-making.
+Invasive species pose a substantial threat to DOI equities and is a cross-DOI/cross-Government
+issue in which many agencies, including most DOI bureaus and offices, are involved. There is
+both Executive-level direction (e.g., Executive Order 13751 - Safeguarding the Nation from the
+Impacts of Invasive Species (2016)) and strong Congressional interest in Federal invasive species
+management activities. Invasive species management also intersects with the DOI's Learning
+Agenda priorities (e.g., invasive species can degrade ecosystem resilience, affect adaptation
+strategies, and diminish carbon sequestration in the face of climate change). This evaluation
+supports Strategic Goal 2 Conserve, protect, manage, and restore natural and cultural resources
+in the face of climate change and other stressors. Data collection for this evaluation will involve
+results of surveys and interviews as well as review of DOI data management processes and
+reports.
+Plan for the Evaluation
+The plan for this evaluation includes:
+Field level surveys and interviews;
+Program design/logic model(s) to describe operations on the ground;
+Data gathering and analysis of bureau invasive species data management processes and
+results from annual reporting of GRPAMA performance measures for invasive species
+control over time;
+Assessment of monitoring techniques (post-treatment effectiveness, population
+suppression, meeting resource management objectives); and,
+Policy review (as it pertains to control, data management, monitoring, and associated
+training).
+Page 7 of 15
+DOI FY 2023 Annual Evaluation Plan
+Challenges
+Challenges for conducting this evaluation include adequate resource allocation to complete the
+analysis. The breadth of the invasive species program is extensive and complex (most bureaus
+work on invasive species in some capacity, though this evaluation would likely focus on only
+those bureaus reporting on the control measure). Invasive species management is
+implemented in various divisions and program areas of a given bureau. Communication with
+the field varies (e.g., bureaus may not always know who is doing the work or how they are
+assessing that invasive species are under control). Numerous factors confound the aggregation
+of data among bureaus. Responsiveness of respondents may be limited.
+Dissemination and Use
+Results would be disseminated across the Department's invasive species programs at
+headquarters and field levels for use in staff and contractor training and to inform best
+practices and methodologies for invasive species data management and for monitoring the
+effectiveness of control efforts. Results will also be shared with DOI senior leaders for
+consideration and could be made more broadly available to DOI employees, as appropriate.
+Page 8 of 15
+DOI FY 2023 Annual Evaluation Plan
+3. Evaluating the effectiveness of Wildland Fire Management
+recruitment strategy
+Evaluation Question(s)
+How effective and efficient are the DOI Wildland Fire Management (WFM) recruitment efforts
+for fire management positions? What are the most effective methods to recruit an adequate
+quantity and quality of applicants? What are the attrition rates for newly hired employees and
+why? What are barriers or deterrents for potential applicants?
+Background Information, Strategic Alignment, and Data Planning
+In the past few years, the Wildland Fire Management program has experienced challenges in
+workforce recruitment. At all organizational levels, and in external constituent groups,
+discussion surrounding perceived issues and potential solutions is occurring. To provide clarity
+to the extent practical, and efficiently utilize appropriated funds, an evidence-based evaluation
+is needed to inform new and ongoing efforts to recruit quality candidates to meet critical
+vacancies. This evaluation will assess current recruitment practices and processes from
+recruitment planning through the first year of employment across the DOI Wildland Fire
+Program. This evaluation supports Strategic Objectives 2.1 (Lands, waters, and heritage are
+conserved for present and future generations) and 2.2 (Species, habitats, and ecosystems are
+protected, sustained, and healthy).
+Plan for the Evaluation
+The plan for conducting this evaluation includes:
+Surveying human resources staff at multiple organization levels;
+Surveying fire managers and supervisors at multiple organization levels;
+Surveying applicants and new hires;
+Analyzing data from staffing databases and other systems which support recruitment
+and onboarding;
+Conducting focus group follow-up based on outcomes of surveys and data analysis;
+Reviewing relevant research findings regarding effective best practices for recruitment;
+Consolidating findings;
+Making recommendations for actions needed; and
+Presenting report and briefing fire management leadership on findings and
+recommendations.
+Challenges
+Challenges for conducting this evaluation include adequate resource allocation to complete the
+analysis, challenges of multivariate complex social issue understanding and low to moderate
+level of cultural bias to accept findings.
+Page 9 of 15
+DOI FY 2023 Annual Evaluation Plan
+Dissemination and Use
+Results of this evaluation will be disseminated to OWF leadership, Bureau Fire Leadership and
+HR personnel as well as the Office of Human Capital within the DOI. Results of this evaluation
+will be used to support recommendations that improve recruitment strategies for fire
+management positions. Results will also provide an assessment at a program level of the health
+of recruitment efforts and identify areas where efficiencies may be gained across the wildland
+fire program.
+Page 10 of 15
+DOI FY 2023 Annual Evaluation Plan
+4. Evaluating the Bureau of Trust Funds Administration's pilot Interactive
+Beneficiary Kiosk
+Evaluation Question(s)
+Are the pilot Interactive Beneficiary Kiosks effective at providing service to beneficiaries as
+intended? Does the design of the pilot Interactive Beneficiary Kiosk allow for beneficiaries of
+various ages, geographic locations, and other attributes to access information about their trust
+accounts more easily? How cost effective are the pilot Interactive Beneficiary Kiosks at meeting
+beneficiary needs?
+Background Information, Strategic Alignment, and Data Planning
+The Interactive Beneficiary Kiosks pilot project was created to extend the Bureau of Trust Funds
+Administration's (BTFA) customer service capabilities throughout Indian Country. The pilot
+program was developed to determine if the use of kiosks allows BTFA to provide assistance to
+beneficiaries in remote and underserved areas. In FY 2021, BTFA initiated the pilot program and
+went through a lengthy and thorough design process to maximize the usability of the
+Interactive Beneficiary Kiosks.
+The Interactive Beneficiary Kiosks were designed specifically to meet the needs of a wide range
+of beneficiaries. There was extensive research performed as part of the pilot program to ensure
+that Interactive Beneficiary Kiosks would allow for access to information without barriers for
+the beneficiaries. The Interactive Beneficiary Kiosk evaluation will serve to determine how the
+service provided by the Interactive Beneficiary Kiosks during the pilot program is delivered
+relative to its design. This evaluation supports Strategic Goal 1: Promote well-being, equity, and
+justice for Tribes, American Indians, Alaska Natives, Native Hawaiians, and insular communities.
+Plan for the Evaluation
+This evaluation will be an implementation evaluation that looks at the interactions using the
+Interactive Beneficiary Kiosk as part of the pilot program and will collect metrics about the type
+of request made, the duration of the interaction, and the location where the Interactive
+Beneficiary Kiosk was used. The Interactive Beneficiary Kiosk pilot users will be included in
+BTFA's survey of call center users and that data will be included in the Interactive Beneficiary
+Kiosk Evaluation. The evaluation will also compare costs of installing kiosks in remote locations
+with costs to provide additional customer service staffing to beneficiaries in the same
+geographical areas.
+Challenges
+If, due to lack of funding, the Interactive Beneficiary Kiosk pilot program is not able to be
+implemented in the planned locations, the data collected for the evaluation may not produce a
+large enough population to determine if the Interactive Beneficiary Kiosks are delivering
+services as intended. It is also uncertain whether users will take the additional time to respond
+to survey questions at the end of their interaction.
+Page 11 of 15
+DOI FY 2023 Annual Evaluation Plan
+Dissemination and Use
+Results of this evaluation would be disseminated to BTFA senior leaders, program managers.
+Results will also be shared with DOI senior leaders for consideration as part of decision-making
+processes that affect beneficiaries. The results will inform the future Interactive Beneficiary
+Kiosks implementation and/or improvements.
+Page 12 of 15
+DOI FY 2023 Annual Evaluation Plan
+5. Evaluating the Earth Mapping Resources Initiative of the Minerals
+Resources Program
+Evaluation Question(s)
+How effective are the Earth Mapping Resources Initiative (MRI) activities, data, and products in
+providing value to stakeholders and end users?
+Who uses or benefits from Earth MRI activities, data, and products?
+How are the Earth MRI data being used?
+Does Earth MRI data deliver any unanticipated benefits to existing stakeholders, such as
+raising and or answering new questions of importance?
+Are there other potential end-users or stakeholders for Earth MRI that the program
+could serve?
+What is necessary to ensure long-term value and continued use of Earth MRI data and
+products beyond current activities?
+Background Information, Strategic Alignment, and Data Planning
+The program evaluation seeks to understand who is using Earth MRI data and if it meets the
+stakeholder needs, and to identify additional uses and users for Earth MRI data and how their
+needs can be served. Given the early maturity level of this activity, the results of this evaluation
+are expected to be extremely useful for refining the program as investments increase.
+The evaluation will focus on the value and use of Earth MRI-generated science, data, and
+information to stakeholder communities. The evaluation will focus on the types of data that
+support the goals of the Mineral Resources Program and their stakeholders: specifically,
+geologic, geophysical, and geochemistry data. Initial stakeholder focus will include other
+Federal agencies involved in the Federal Strategy to Ensure Secure and Reliable Supplies of
+Critical Minerals and the State Geological Surveys who are key partners in Earth MRI data
+acquisition. Stakeholders considered and consulted as part of this evaluation may expand based
+on input from the initial set of contacted stakeholders. This evaluation supports Strategic Goal
+3: Sustainably balance the use of resources while supporting communities and the economy.
+Plan for the Evaluation
+Stakeholder groups will be interviewed or surveyed, using standard social science methods, and
+following appropriate guidance for collection of data from human subjects. The evaluation will:
+Identify current and potential "use cases" for Earth MRI data and products, using both
+internal subject matter expert input and selected stakeholder input.
+For current use cases, interviews and surveys will focus on identifying what Earth MRI
+products are being used, how beneficial that information is, and whether different types
+of data or products that the program could produce would be more useful.
+Page 13 of 15
+DOI FY 2023 Annual Evaluation Plan
+For potential use cases, cases where scientists or stakeholder believe Earth MRI data
+should be useful but where it is not yet being used, interviews and surveys will focus
+more on "bottom up" descriptions of what data would be helpful for those use cases.
+The evaluation results will be independent conclusions of the researchers conducting the
+evaluation. The data collection will be cooperative and iterative, including evaluators,
+stakeholders, and program staff.
+Challenges
+The main challenge in this evaluation is the number of steps between the program's
+foundational data collection and the outcome-oriented goals of the program. The program has
+easily measured intermediate outcomes such as "the percentage of the Nation mapped."
+Measuring more value-focused outcomes such as "communities and stakeholders have the
+information needed to make informed decisions about nationwide critical mineral potential" is
+a new challenge for the program. There are many steps between data collection and decision-
+making. It is also important that the evaluators understand the Congressional and other
+constraints on the Program, so that recommendations for improvement can be implemented.
+Dissemination and Use
+To ensure that the evaluation is a learning experience for the program, significant discussion of
+the evaluators' results and conclusions will be planned into the schedule. Results from this
+evaluation will be communicated to the program, to the Energy and Minerals Mission Area, to
+the USGS, and to the DOI through a formal report and through presentations as requested.
+Page 14 of 15
+DOI FY 2023 Annual Evaluation Plan
+6. Evaluating Bureau of Indian Education Data and Student Achievement
+Evaluation Question( (s)
+How effectively is the Bureau of Indian Education (BIE) data being used to support improving
+student achievement?
+What organizational processes and data most affect education service delivery?
+What processes and data are being used for decisions affecting education service
+delivery and what are the outcomes?
+Background Information, Strategic Alignment, and Data Planning
+The BIE conducts an annual assessment for academic performance (mathematics and
+reading/language arts), graduation rates, and attendance. However, a mechanism to manage
+data associated with this assessment and use that information to improve student achievement
+remains a challenge. To obtain better student outcomes, the BIE structure should include
+identification of best practices, needs assessments, prioritization of those needs, and data-
+driven decision making on a consistent basis.
+An evaluation would determine the capacity of the program to analyze data associated with
+management activities, setting priorities, efficient and effective utilization of staff and
+resources, and effective management of relevant data. This would inform future investments,
+processes, and data gathering to support student achievement. This evaluation supports
+Strategic Objective 1.4: Bureau of Indian Education students have the education necessary for
+future success.
+Plan for the Evaluation
+This evaluation will employ a process evaluation to identify what processes and data exist and
+their potential connections to supporting student outcomes. This will inform providers and
+stakeholders of the connections with current decisions from data and the connection to
+program goals and objectives. Understanding this, the process evaluation method would
+identify the extent that program activities have been implemented based on previous data-
+informed decisions and results related to academic performance.
+Challenges
+BIE has limited capacity for conducting evaluations and identifying relevant processes and
+improving efficient data analysis and management.
+Dissemination and Use
+Results of this evaluation would be disseminated to BIE senior leaders, program managers, BIE
+schools and Tribes. Results will also be shared with DOI senior leaders for consideration as part
+of decision-making processes that affect Tribes and students. Results will be published to the
+public. The results will inform the future processes, data management, and investments at BIE
+to support improved student achievement.
+Page 15 of 15

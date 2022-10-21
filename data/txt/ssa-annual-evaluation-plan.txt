@@ -1,0 +1,978 @@
+Foundations for Evidence-Based
+Policymaking Act of 2018
+Fiscal Year 2023
+Evaluation Plan
+Securing today
+and tomorrow
+Social Security Administration I February 2022
+CONTENTS
+Contents
+2
+Introduction
+3
+Evaluations and Evidence-Building Activities
+4
+Project 1 - Retirement and Disability Research Consortium Service Delivery Focal Area
+4
+Project 2 - Racial Equity: Enhancing Existing Program Data on Race and Ethnicity
+5
+Project 3 - Racial Equity: Disparities in Disability Programs
+6
+Project 4 - Customer Knowledge and Preferences
+7
+Project 5 - Ticket To Work Optimization
+9
+Project 6 - Interventional Cooperative Agreement Program
+10
+Project 7 - Beyond Benefits Study
+11
+Project 8 - Promoting Work through Early Interventions
+12
+Project 9 - Work Disability: Functional Assessment Battery Research Study
+13
+Project 10 - Annual Report of the Board of Trustees of the Federal Old-Age and Survivors
+Insurance and Federal Disability Insurance Trust Funds
+15
+Project 11 - Annual Report of the Supplemental Security Income Program
+16
+Project 12 - Pre-Effectuation Review of Disability Determinations
+18
+Project 13 - Targeted Denial Review
+19
+Project 14 - Old-Age, Survivors, and Disability Insurance Stewardship Review
+20
+Project 15 - Supplemental Security Income Stewardship Review
+21
+Project 16 - Barriers Analysis
+23
+Selected Abbreviations
+DDS
+Disability Determination Services
+DI
+Disability Insurance
+FY
+Fiscal Year
+OASDI
+Old-Age, Survivors, and Disability Insurance
+OASI
+Old-Age and Survivors Insurance
+OCACT
+Office of the Chief Actuary
+OMB
+Office of Management and Budget
+RDRC
+Retirement and Disability Research Consortium
+SSA
+Social Security Administration
+SSAB
+Social Security Advisory Board
+SSI
+Supplemental Security Income
+INTRODUCTION
+The Fiscal Year (FY) 2023 Annual Evaluation Plan describes our most significant evaluation and
+evidence-building activities planned for FY 2023. We define significant activities as those required by
+law, address the President's priorities, or support the goals in our FYs 2022-2026 Agency Strategic
+Plan. We identified 16 activities for this Evaluation Plan.
+In addition to this Evaluation Plan, we will continue to describe our evaluation and evidence-building
+activities in three separate documents. In the Supplemental Security Income (SSI) Program Technical
+Materials Supporting Our Annual Budget, the section Extramural Research, Demonstrations, and
+Outreach describes many of our activities. Our FY 2021 Annual Performance Report includes an
+appendix titled Program Assessments that describes our ongoing studies and surveys designed to
+assess our programs. The Pilot Program Metrics section of the Limitations on Administrative Expenses
+section of our annual budget describes our pilot program evaluations. This FY 2023 Evaluation Plan
+identifies the most significant activities from these three documents, and it includes the additional
+information required by the Foundations for Evidence-Based Policymaking Act of 2018.
+When we develop our evaluation and evidence-building activities, we consult with internal and external
+stakeholders. For example, our Associate Commissioner for the Office of Research, Evaluation, and
+Statistics sends out an annual memo to the Deputy Commissioners from all our major offices to obtain
+information on their research and evaluation needs. Our Associate Commissioner for the Office of
+Research, Demonstration, and Employment Support holds regular meetings with representatives from
+all of our major offices to provide updates and obtain information on our demonstration projects. The
+external stakeholders that provide us with information on our research and evaluation activities include
+the Social Security Advisory Board (SSAB), the Congress, the Office of Management and Budget
+(OMB), and academics and practitioners who serve on the Technical Evaluation Panels we use to
+develop our research and demonstration projects.
+For each significant activity, we provide the information required in the Evidence Act and in the OMB
+guidance described in memorandum M-19-23. More specifically, we include:
+A title;
+A description of the key questions to be addressed by the evaluation activity or evidence-building
+activity;
+The information needed for the evaluation or study;
+The methods to be used;
+The anticipated challenges; and
+The dissemination strategy.
+Social Security Administration
+3
+FY 2023 Evaluation Plan
+EVALUATIONS AND EVIDENCE-BUILDING - ACTIVITIES
+Project 1 - Retirement and Disability Research Consortium Service
+Delivery Focal Area
+EVIDENCE-BUILDING QUESTION
+Our Service Delivery Focal Area for the Retirement and Disability Research Consortium (RDRC)
+identifies our interest in studies that help us identify and implement advancements in how we
+deliver quality, accurate, equitable, and timely service to our customers. Possible evaluation
+questions include:
+1. How do the various modes of Social Security service delivery affect customer satisfaction? Do
+they affect different socio-economic groups differently?
+2. How would simplifying administrative rules and requirements affect the Social Security
+Administration's (SSA) ability to offer accurate, efficient, equitable, and appropriate services to
+the public and the ability of program participants to make decisions in their best interest?
+3. What is the impact of the numerous financial exploitation schemes that target Social Security
+beneficiaries, and what approaches could be considered to prevent or halt them?
+4. Examine how other countries handle their Social Security claiming/service provision. In other
+words, what is their service model (field offices, websites, home visits, staffing, etc.)?
+5. How do other countries address improper payments, including any tolerances or minimum
+thresholds used, methods used for identifying improper payments, and steps to correct them?
+Context for the Evidence-Building Question: The RDRC is an interdisciplinary extramural research
+program that we fund through cooperative agreements with centers at Boston College, University of
+Michigan, University of Wisconsin-Madison, and the National Bureau of Economic Research.
+The RDRC has three main goals:
+1. Research and evaluate a wide array of topics related to Social Security's Old-Age, Survivors, and
+Disability Insurance (OASDI) and SSI programs and related federal policies;
+2. Disseminate information on these topics to policymakers, researchers, stakeholder organizations,
+and the public; and
+3. Provide training and education to scholars and practitioners in research areas relevant to these
+topics.
+All RDRC research and activities must be relevant to one of SSA's program areas or populations. We
+emphasize to the centers that we would like them to consider equity in all their research. In addition,
+each year we provide the centers with research focal areas. In addition to the focal area on service
+delivery, we included a focal area on "Disparities by Race and Ethnicity" in FY 2022 and we expect to
+include a focal area on equity in FY 2023. The current agreements run from FY2019 through FY2023.
+The centers' websites include completed research and other information.
+Information Needed for the Study: The RDRC centers identify the information that they need for their
+proposed evaluation or study in their grant proposal. As part of our technical review of each grant
+proposal, we assess whether the proposed information necessary for the evaluation or study is
+available and is appropriate for the proposed evaluation.
+Social Security Administration
+4
+FY 2023 Evaluation Plan
+Methods: We encourage research employing a variety of approaches (e.g., descriptive and causal
+studies, simulations), utilizing innovative methods, and drawing from new data sources (e.g.,
+Occupational Requirements Survey data, data collected for demonstration projects).
+Anticipated Challenges: The "improving service delivery" focal area is relatively new to the RDRC,
+and it might take RDRC researchers time to establish a research agenda on the new focal area. In
+addition, research on this topic often requires using SSA administrative data, which external
+researchers are typically unable to access. In the past, SSA researchers have collaborated with RDRC
+researchers to get around these data access issues and conduct studies on new priority areas. The
+collaboration has been successful in that it combines the program and data expertise from our research
+staff with the methods expertise from the RDRC research team. Although this collaboration model may
+be a way to promote service delivery research among the RDRC researchers, heavy workloads, and a
+declining number of possible SSA researchers may make it difficult to identify collaborators.
+Dissemination: One of the RDRC centers' main goals is to disseminate information on their research
+to policymakers, researchers, stakeholder organizations, and the public. The RDRC holds an annual
+meeting where researchers share findings with key stakeholders and receive feedback on their
+research. Each RDRC center has a website that contains policy briefs, working papers, and other
+information on their research. The RDRC centers publish their findings in professional journals and
+other outlets. We will use the RDRC research on the service delivery focal area to inform our efforts to
+deliver quality, accurate, equitable, and timely service to our customers.
+Project 2 - Racial Equity: Enhancing Existing Program Data on Race and
+Ethnicity
+EVIDENCE-BUILDING QUESTION
+To what extent can we effectively enhance existing program data on race and ethnicity through
+statistical techniques to be more reliable and higher quality?
+Context for the Evidence-Building Question: On January 20, 2021, the President signed Executive
+Order 13985 officially titled Advancing Racial Equity and Support for Underserved Communities. The
+Executive Order directs agencies to examine barriers and disparities by race and ethnicity in their
+programs and to begin taking actions to eliminate them. However, it also recognizes: (1) that many
+Federal datasets are not disaggregated by race, ethnicity, gender, disability, income, veteran status, or
+other key demographic variables, (2) that this lack of data has cascading effects and impedes efforts to
+measure and advance equity, and (3) gathering the data needed to advance equity is a necessary first
+step. We have initiated an agency-wide effort to enhance our existing program data on race and
+ethnicity that is necessary to examine where disparities and barriers exist in our programs and services.
+This information will be critical in our efforts to remove those barriers.
+Currently, we are working to improve our existing race and ethnicity data. This work is part of our
+Equity Action Plan, and it includes developing metrics for assessing the reliability and quality of that
+data, as well as using statistical methods for imputing race and ethnicity where needed.
+In FY 2022, we expect to begin developing techniques for enhancing the program data and metrics to
+measure the reliability and quality of that data.
+In FY 2023, we expect to use the enhanced data (either improved survey-matched, or statistically
+enhanced program data, or both) to quantify disparities and barriers and to expand publication of
+statistics and research that uses the program data on race and ethnicity. This work is part of a broader
+Social Security Administration
+5
+FY 2023 Evaluation Plan
+effort described in our Equity Action Plan to improve the collection of race and ethnicity data. In
+addition to our efforts to enhance existing data, we plan to explore options for collecting race and
+ethnicity data when people seek a new or replacement SSN card online, and we will determine whether
+we can expand our data exchange efforts to obtain and share race and ethnicity data for research and
+statistical purposes within our existing legal framework.
+Information Needed for the Study: We will use survey data and program data, including Census
+Bureau surveys and program data on disability applicants. We will also use research on statistical
+methods, algorithms, and techniques to impute race and ethnicity.
+Methods: We will identify metrics for determining the reliability and quality of race and ethnicity data
+based on the rate of missing values, conflicting values, and categories lost due to lack of data or
+sample size. We will use appropriate imputation procedures for addressing the completeness and
+quality of race and ethnicity data in our program data, including using personal characteristics and
+geographical area from surveys. We will compare imputations of race and ethnicity to the self-reported
+race and ethnicity in a pre-selected validation sample to assess the imputation method. Another
+validation approach may include conducting a survey of those where we impute race and ethnicity, and
+to compare their self-reported race and ethnicity to the imputation.¹
+Anticipated Challenges: To varying extents, SSA program data on race and ethnicity are missing for
+relevant program populations (e.g., applicants, beneficiaries, Federal Insurance Contributions Act -
+covered workers), especially for younger populations. Matching race and ethnicity data from surveys
+(e.g., Survey of Income and Program Participation (SIPP), Current Population Survey (CPS), Health
+and Retirement Study) to SSA program data may fill in some of these gaps; however, these surveys
+have relatively small sample sizes that limit their utility for certain program populations. We hope that
+work on enhancing race and ethnicity data in SSA program data and adding the American Community
+Survey (ACS) data linked to SSA program data might help resolve some of these challenges.
+Dissemination: We will publish our research on our Research, Statistics & Policy Analysis public-
+facing website.
+Project 3 - Racial Equity: Disparities in Disability Programs
+EVIDENCE-BUILDING QUESTION
+What disparities and barriers to benefits exist under current SSA disability programs by race,
+ethnicity, sex, and other communities facing barriers?
+Context for the Evidence-Building Question: On January 20, 2021, the President signed Executive
+Order 13985 officially titled Advancing Racial Equity and Support for Underserved Communities. The
+Executive Order directs agencies to examine barriers and disparities by race and ethnicity in their
+programs and to begin taking actions to eliminate them. We began an agency-wide effort to examine
+where disparities and barriers exist in our programs and services, and this effort is an important
+component of our Equity Action Plan. This information will be critical in efforts to remove those barriers.
+In FY 2021, we began publishing statistics by race and ethnicity on disability beneficiaries using the
+CPS Annual Social and Economic Supplement data. We started exploring how to analyze our disability
+program data and surveys for disparities by race and ethnicity in three phases of disability: the decision
+1 Baumeister, L., K. Marchi, M. Pearl, R. Williams, and P. Braveman. 2000. The validity of information on "race" and
+"Hispanic ethnicity" in California birth certificate data. Health Services Research 35(4):869-883.
+Social Security Administration
+6
+FY 2023 Evaluation Plan
+to apply for benefits, the award or denial decision, and post-entitlement actions such as continuing
+disability reviews.
+In FY 2022, we expect to produce preliminary analyses on race and ethnicity disparities in the disability
+programs. These analyses may only provide breakouts of each race and ethnicity group by sex and
+age, depending on the data source. We expect to work on how to add further breakouts or controls for
+factors such as impairment, lifetime earnings, geography, and other characteristics to estimate more
+precisely disparities and barriers by race and ethnicity.
+In FY 2023, we expect to produce more precise estimates of disparities by race and ethnicity in the
+disability programs. We expect to have enhanced data (either improved survey-matched data, or
+statistically enhanced program data, or both) to develop these more precise estimates, with disparities
+isolated at each step from application through to post-entitlement actions. If work proceeds quickly, we
+would like to document any disparities and barriers over time to gauge if they are changing and why.
+Information Needed for the Study: We need Census Bureau surveys (SIPP, CPS, and ACS), other
+survey data, and our own program data on applicants and beneficiaries. We need to ensure we have
+legal authority to use the data for research and statistics purposes, and to exchange it with Federal
+partners and other stakeholders to increase our capacity to use the data.
+Methods: We plan to use standard statistical methods for quantifying disparities and barriers by race
+and ethnicity, and metrics to determine whether disparities have changed over time. We also plan to
+conduct qualitative research with our program beneficiaries to shed light on barriers we are not aware
+of, deepen understanding of those we do, and to answer questions that quantitative analysis cannot
+address.
+Anticipated Challenges: Disability program data has a unique set of challenges when it comes to
+research and statistics because of missing data on some characteristics, in addition to missing data on
+race and ethnicity status. We hope that work on enhancing the program data on race and ethnicity,
+ongoing efforts to produce analytical disability program data, and adding the much larger American
+Community Survey data linked to our program data might help resolve those challenges by FY 2023.
+Dissemination: We will publish our research on our Research, Statistics & Policy Analysis public
+facing website.
+Project 4 - Customer Knowledge and Preferences
+EVIDENCE-BUILDING QUESTION
+How effective are our efforts to improve public knowledge of our programs and to meet the public's
+preferences for how they want to engage with us?
+Context for the Evidence-Building Question: We have made a concerted effort to understand our
+customers, inform and assist them in navigating our programs, and adjust to their preferences for
+delivering services. The redesign of the Social Security Statement and the expansion of services
+available in my Social Security are all a part of this larger agenda, as well as the inclusion of a priority
+question related to this effort in our FYs 2022 - 2026 Learning Agenda.
+We support surveys on program knowledge and customers' preferences for communications with us
+through the Understanding America Study (UAS). The main SSA surveys in the UAS include the 1)
+Social Security Retirement Program Knowledge survey, 2) Social Security Channels Preferences
+Social Security Administration
+7
+FY 2023 Evaluation Plan
+survey, and 3) Social Security Disability Program Knowledge survey. The Social Security Retirement
+Program Knowledge survey (also referred to as "What do People Know about Social Security") asks
+respondents questions that assess their knowledge of the Social Security retirement program and
+retirement planning more generally. The Social Security Channels Preferences survey asks
+respondents how they receive and/or would prefer to receive information on retirement planning from
+Social Security and other sources, including use of our online services. The Social Security Disability
+Program Knowledge survey, which was initially fielded in FY 2021, asks respondents about their views
+and knowledge of the Social Security disability program (and for those who ever applied for benefits,
+the survey asks about experiences with the program).
+UAS surveys are fielded on a regular basis following a rolling two-year cycle for the three surveys
+(retirement knowledge, channels preferences, and disability knowledge). The surveys help us track
+changes in program knowledge and communication preferences as respondents grow older and as we
+implement improvements to online services and communications. We will field the fourth Social
+Security Retirement Program Knowledge survey and the fourth Social Security Channels Preferences
+survey in FY 2022. We will field the second Disability Program Knowledge survey in FY 2023.
+With over 400 surveys completed on an internet panel that is approaching 10,000 respondents, the
+UAS allows us to study the public from several different angles. Surveys on health, retirement,
+employment, cognitive abilities, personality, financial literacy, consumer behavior, and other salient
+factors can be matched to a wealth of information about how people engage with our programs.
+In FY 2023, there will be an extensive set of responses, some longitudinal, on the Social Security
+questions that will be available for study. The respondents' personal characteristics from several other
+surveys will allow us to study differences in the Social Security findings from several different facets
+typically unavailable to other agency instruments.
+Below are some examples of our papers using UAS.
+Alattar, Laith, Matt Messel, and David Rogofsky. 2018. "An Introduction to the Understanding
+America Study Internet Panel," Social Security Bulletin, 78(2):13-28.
+Rogofsky, David, Richard E. Chard, and Joanne Yoong. 2018. "Insight into the Earned Income
+Tax Credit and Tax-Advantaged Retirement Savings," Social Security Bulletin, 78(2):1-11.
+Alattar, Laith, Matt Messel, David Rogofsky, and Mark A. Sarney. 2019. "The Use of
+Longitudinal Data on Social Security Program Knowledge," Social Security Bulletin, 79(4):1-9.
+Information Needed for the Study: We will use the UAS survey responses in the "comprehensive
+file" that matches respondents across several UAS surveys. UAS data is publicly available.
+Methods: We will analyze results from UAS surveys on Social Security knowledge and communication
+preferences by race and ethnicity, with additional analysis of the economic, educational, health, and
+other characteristics of each race and ethnicity group. We expect to present both descriptive statistics
+as well as multivariate statistical analyses, including regressions, with careful attention to choosing
+appropriate controls.
+Anticipated Challenges: We expect the sample size to continue growing to 10,000 but it may be
+slower than anticipated. Some of the smaller race and ethnicity categories may need to be aggregated
+into an 'other' category if their sample size is too small for questions asked of subsets of the population,
+like people who have read the Statement.
+Dissemination: We will publish our research on our Research, Statistics & Policy Analysis public-
+facing website.
+Social Security Administration
+8
+FY 2023 Evaluation Plan
+Project 5 - -Ticket To Work Optimization
+EVALUATION QUESTION
+What is the impact of improved communications with disability beneficiaries who are eligible to
+participate in the Ticket to Work (TTW) program on program participation?
+Context for the Evaluation Question: The Ticket to Work (TTW) program provides Social Security
+Disability Insurance (DI) beneficiaries and SSI recipients with access to employment-related services
+from agency-approved service providers and vocational rehabilitation agencies. We reimburse
+approved service providers and vocational rehabilitation agencies when their TTW clients meet
+specified employment-related outcomes. For DI beneficiaries and SSI recipients, the TTW program is a
+free and voluntary program that can help individuals obtain and maintain employment, if that is their
+desire, as well as participate in job training and workforce development opportunities.
+Prior to June 2011, we sent a "good news letter" plus a hard cardstock "Ticket" as part of our TTW
+outreach efforts to all newly awarded SSI recipients and DI beneficiaries with disabilities (with only
+minor exceptions). We suspended these TTW mailings abruptly in June 2011 and we did not restart
+them until March 2015 as an administrative cost savings measure. Using a regression-discontinuity
+research design, we found that stopping the mailer nearly halved TTW participation, dropping it from
+about 2.6 percent to 1.4 percent of Ticket-eligible beneficiaries and recipients when the mailers ceased.
+This evidence indicates that there is significant potential for TTW outreach materials, including the
+content and timing of TTW outreach materials, to increase TTW participation.
+The TTW Notice Optimization project will develop an evidence-based approach to targeting outreach to
+beneficiaries who are eligible to participate in the TTW program. The project seeks to increase
+participation in the TTW program; in it, we test changes to Ticket notices, including the types of notices
+we send, the language we use, and the timing of our notices. We worked closely with the General
+Service Administration (GSA), Office of Evaluation Sciences to develop the outreach and evaluation
+plans.
+The primary outcome of interest is Ticket assignment defined as signing up with a Ticket to Work
+service provider (Employment Network, Workforce Employment Network or Vocational Rehabilitation
+Agency) to develop a work plan and receive job support services to achieve that plan. The secondary
+outcomes of interest is employment above the substantial gainful activity level and Ticket payments.
+Information Needed for the Study: The information needed for the study comes from the data we
+use to administer our programs, including data on individuals who are sent TTW information, who
+assign Tickets, and who call the TTW Helpline. We store these data in the Disability Control File, the
+internet Ticket Operations Provider Support System, and contractor records.
+Methods: The TTW Optimization project uses a randomized controlled trial design that incorporates
+three separate tests-an initial notice test, a one-year notice test, and a two-year notice test. We use
+random assignment to allocate study participants into a treatment group that will receive the new TTW
+outreach materials or into a control arm. The current selection criteria exclude beneficiaries over age
+62 and those with diaries with medical conditions that are not expected to improve (except blind and
+deaf individuals). For each individual, we observe Ticket assignments at nine months after we send the
+respective notice (i.e., nine months post-intervention).
+Anticipated Challenges: The COVID-19 pandemic has led to a major disruption in the labor market.
+This will likely affect the results from our evaluation. We are implementing the project as planned, but
+we will need to consider and document the labor market environment as a factor potentially affecting
+Social Security Administration
+9
+FY 2023 Evaluation Plan
+our results. We extended the project for an additional nine months (for a total of 18 months of mailings)
+to increase the likelihood of identifying the impact of the mailings in a post-pandemic environment. We
+may also consider whether we can use geographic variation in the response to COVID-19 as a means
+to identify how COVID-19 affects our findings.
+Dissemination: GSA will publish an abstract on their website at the conclusion of the study. GSA will
+also write a paper about the project for publication in an academic journal. Additionally, we will use the
+results to improve Ticket outreach and share the findings with TTW stakeholders as appropriate.
+Project 6 - Interventional Cooperative Agreement Program
+EVALUATION QUESTION
+What are the impacts of interventional programs initiated in collaboration with states, private
+foundations, and other entities on the labor market, program participation, and economic
+outcomes of DI beneficiaries or SSI recipients?
+Context for the Evaluation Question: In May 2021, we announced the Interventional Cooperative
+Agreement Program (ICAP). In FY 2021, we plan to award three cooperative agreements. The
+cooperative agreements have a five-year project period with a base year and the four years for
+implementation and evaluation activities. In FY 2022, we will conduct startup activities with the initial
+awardees, including finalizing data agreements between the awardees and SSA, as well as receiving
+approval from OMB for their data collection packages. The projects will then proceed with
+implementation and evaluation plans for the remaining project period.
+The purpose of this new program is to allow us to enter into cooperative agreements to collaborate with
+States, private foundations, and other non-Federal groups and organizations who have the interest and
+ability to identify, operate, and partially fund interventional research, including interventions targeting or
+otherwise including underserved populations.
+ICAP will provide a process through which we can systematically review proposals from outside
+organizations (including States, private foundations, and other non-Federal groups and organizations)
+and enter into cooperative agreements with them for collaboration on interventional research. We plan
+to solicit new projects on a recurring basis (e.g., we plan to solicit and award three additional
+cooperative agreements in FY 2022). We hope to tap local, external knowledge about potential
+interventions relevant to beneficiaries who receive Social Security Disability Insurance (DI) benefits or
+SSI.
+ICAP research topics are as follows:
+Examining the structural barriers in the labor market, including for racial, ethnic, or other
+underserved communities, including people with disabilities, that increase the likelihood of people
+receiving or applying for SSDI or SSI benefits;
+Promoting self-sufficiency by helping people enter, stay in, or return to the labor force, including
+children and youth;
+Coordinating planning between private and human services agencies to improve the administration
+and effectiveness of the DI, SSI, and related programs;
+Assisting claimants in underserved communities apply for or appeal determinations or decisions on
+claims for DI and SSI benefits; and
+Social Security Administration
+10
+FY 2023 Evaluation Plan
+Conducting outreach to children with disabilities who are potentially eligible to receive SSI, and
+conducting outreach to their parents and guardians.
+Information Needed for the Study: The information collected will depend on the individual grant
+awardees project needs. We will finalize data sharing agreements and data collection instruments, as
+needed, during the first year of the project.
+Methods: The grant awardees will recommend specific research and evaluation methods. To improve
+participation of marginalized groups, ICAP will encourage applicants to include people of color, people
+from underserved communities, and people with lived experiences, as appropriate.
+Anticipated Challenges: We may face challenges finalizing data agreements, which may cause
+delays with starting activities for some grantees.
+Dissemination: We will post all reports from the projects on our public-facing website and provide
+information to committees and workgroups. We are developing a broader dissemination plan.
+Project 7 - Beyond Benefits Study
+EVALUATION QUESTION
+What services and supports help people exiting the DI or SSI programs maintain or achieve self-
+sufficiency without a need to return to receiving DI or SSI benefits?
+Context for the Evaluation Question: Based on medical improvement, we terminate the benefits of
+thousands of DI beneficiaries and SSI recipients each year. However, many individuals whose benefits
+are terminated later return to the disability rolls. About 30 percent of adult SSI-only recipients and 20
+percent of DI-only beneficiaries who stop receiving benefits because of medical improvement return to
+these programs within eight years. Among the DI beneficiaries whose benefits stop, few maintain
+employment or work above common thresholds of self-sufficiency.
+In FY 2019, we conducted a Technical Expert Panel (TEP) to discuss options for a demonstration to
+support individuals exiting DI due to medical improvement. The TEP recommended we study the
+services this population needs to support continued or improved self-sufficiency.
+We initiated the study based on the TEP's recommendation. We will gather evidence through surveys
+and focus groups. We will also use motivational interviewing to identify the duration and intensity of
+supports that are necessary for an intervention. The information gathered during the interviews will
+provide additional context on the needs of this population and how to motivate individuals who have
+been removed from the program to remain employed and self-sufficient.
+In FY 2021, we awarded a contract to conduct a study of the types of services and supports that
+individuals exiting the DI or SSI programs need to maintain or achieve self-sufficiency.
+In FY 2022, we will clear all data collection activities, per the Paperwork Reduction Act, and begin
+quantitative data collection and motivational interviewing pilot activities. We will set up interviewing
+activities and finalize the schedule with the contractor. We expect to complete all activities by the end
+of FY 2023 and receive a final report by FY 2024.
+Information Needed for the Study: We will gather information needed on the barriers to employment
+and other needs of this population using surveys, focus groups, and motivational interviewing. We will
+use SSA program data to construct the sampling frame and update data used in final analyses about
+Social Security Administration
+11
+FY 2023 Evaluation Plan
+the benefit status of participants. Final analyses will include scrutiny of SSA program data to provide
+summary work histories and earnings summaries. How administrative data will bear on research
+questions and what kind of analyses will be pursued will become more defined after the contract is
+awarded.
+Methods: We will conduct a small, non-random pilot of motivational interviewing to accomplish two
+goals. First, it will provide a sense of the duration and intensity of supports that are necessary for such
+an intervention. Second, it will assist data-gathering efforts by providing additional context to the needs
+of this population. We will also use appropriate statistical methods to summarize results from surveys,
+and we will develop and follow protocols for conducting focus group interviews.
+Anticipated Challenges: We do not anticipate any significant challenges with this project.
+Dissemination: We will post all reports from the project on our public-facing website. We will provide
+information to external stakeholders, including the SSAB, the Congress, and other interested
+stakeholders. We are developing a broader dissemination plan.
+Project 8 - Promoting Work through Early Interventions
+EVALUATION QUESTION
+Are early intervention programs successful at improving labor force participation and reducing the
+need for SSI program assistance for the populations targeted by each program?
+Context for the Evaluation Question: The Promoting Work through Early Interventions Project
+(PWEIP) is a joint undertaking of SSA and the Administration for Children and Families (ACF) within the
+U.S. Department of Health and Human Services.
+The project will identify, select, and evaluate programs likely to improve the employment and economic
+outcomes of individuals who have not yet applied for SSI and have little or no work history, current or
+foreseeable disabilities, but who do have ties to U.S. safety net programs (e.g., receiving Temporary
+Assistance for Needy Families or Supplemental Nutritional Assistance Program benefits). Evaluations
+of programs include impact assessments and implementation research. A select number of evaluations
+will also include a cost analysis.
+In FY 2019, we developed and entered a jointly financed cooperative arrangement with ACF and
+transferred $25 million to support the evaluation and/or service provisions of selected intervention
+programs. In FY 2020, we worked with ACF to identify and select programs to participate in an
+evaluation under ACF's Building Evidence on Employment Strategies (BEES) and Next Generation of
+Enhanced Employment Strategies (NextGen) projects. As of December 2021, we have selected six
+BEES programs and five NextGen programs.
+Because of the COVID-19 pandemic, ACF anticipates PWEIP contract activities will conclude in 2026
+rather than 2023. By the conclusion of the PWEIP in 2026, we aim to generate findings that will inform
+both agencies and contribute meaningfully to the broader field of disability and self-sufficiency research.
+Information Needed for the Study: We are collecting data at each project monitoring outcomes of the
+participants. We will provide ACF with de-identified individual-level disability data, analyze earnings
+data, and generate summary statistics about participants of SSA-funded programs. These data
+activities began in Fall 2021.
+Social Security Administration
+12
+FY 2023 Evaluation Plan
+Methods: We will support rigorous evaluation of existing employment support and training programs
+informed by evidence and shown to be promising for the population of interest. *The selected BEES
+and NextGen projects target a variety of populations who may be at-risk of receiving SSI, including
+individuals with mental health impairments, substance use disorders, recipients of Temporary
+Assistance for Needy Families and Supplemental Nutrition Assistance Program, and justice-involved
+individuals. Interventions will provide employment, training, and mental health services, including
+testing the Individualized Placement and Support (IPS) model in multiple settings. The evaluation will
+randomly assign participants of BEES/NextGen programs to a treatment or to a control group. The
+control group will receive the services and interventions normally offered by a given program. The
+treatment group will receive services offered as a part of early intervention(s) and work model(s) tested
+under a specific PWEIP program. Evaluations of each program will include impact evaluation and
+implementation research. A select number of evaluations will also include cost analysis. ACF
+contractors will conduct baseline, interim, and final surveys of participants at the time of enrollment, 12
+months later, and at the conclusion of the testing period, respectively. ACF will implement the PWEIP
+across various states and regions.
+All the PWEIP projects are serving people facing barriers.
+Anticipated Challenges: Recruitment and enrollment has been a challenge for some of the PWEIP
+projects because of COVID-19. Some programs have extended the enrollment period and others have
+made progress in enrollment, but it remains below expectations. We expect these challenges to
+continue and are planning to meet with ACF to discuss potential options. We will continue to monitor
+and document such challenges during the project.
+Dissemination: We will post all reports from the project on our public-facing website. We will provide
+information to external stakeholders, including the SSAB, the Congress, and other interested
+stakeholders. We will work with our Office of Communications to formalize a broader dissemination
+plan.
+Project 9 - Work Disability: Functional Assessment Battery Research
+Study
+EVIDENCE-BUILDING QUESTION
+To what extent does the Work Disability Functional Assessment Battery (WD-FAB) improve our
+ability to identify who to select for a continuing disability review (CDR) full medical review?
+Context for the Evidence-Building Question: The WD-FAB is a self-reported assessment of whole
+person function developed through a collaborative effort among SSA, the National Institutes of Health
+(NIH), and Boston University. The WD-FAB uses Item Response Theory and Computer Adaptive
+Testing to select the most relevant set of questions from an item bank covering eight components of
+function in the domains of Physical Function and Mental Health Function. We completed a prototype in
+2016 and version 3.1 of the tool in 2019.
+Through the WD-FAB study, we will test the use of the instrument in our medical CDR process. The
+primary objectives of the pilot study are to assess feasibility of integrating the WD-FAB into the CDR
+business process, examine relationships between single administrations of the WD-FAB and the CDR
+process, and explore relationships between a change in WD-FAB data and the CDR process. More
+specifically, we will compare WD-FAB data to CDR predictive model scores, responses to the CDR
+Mailer (Form SSA-455) questions, and CDR full medical review outcomes for participating
+Social Security Administration
+13
+FY 2023 Evaluation Plan
+beneficiaries. Since this is the first time we will administer the WD-FAB in the beneficiary population,
+the pilot study includes a secondary aim to understand how beneficiaries endorse symptoms related to
+whole person function.
+Information Needed for the Study: We will collect beneficiaries' responses to the WD-FAB to
+determine their correspondence with existing SSA medical CDR measures. In September 2020, we
+awarded a contract to gather the necessary data for the study. The contractor will initiate the first wave
+of data collection in Fall 2021 and the second wave of data collection in Spring 2022. We should
+complete data collection by August 2022.
+Methods: This pilot study is a descriptive, longitudinal study of a targeted sample of DI and SSI
+beneficiaries that will assess change in function by administering the WD-FAB to the same
+beneficiaries at two time points roughly 6 months apart. Information obtained during this evaluation of
+the WD-FAB in our CDR process will give us an initial evidence base to evaluate if the instrument can
+add value and supplement SSA's existing CDR business process activities (e.g., CDR predictive model,
+CDR Mailer - Form SSA-455, etc.) in identifying which beneficiaries should be selected for a CDR full
+medical review.
+We will select a stratified random sample from cases with medical CDR diaries that have come due in
+quarter 1 of FY 2022 (i.e., October 1, 2021-December 31, 2021) to identify the participant pool for the
+study. We will stratify the participant pool by predictive model score, diary type, and age. The
+contractor will then recruit study participants from the participant pool of 5,334 adult beneficiaries that
+we identify for them.
+We implemented procedures to obtain adequate response rates from beneficiaries who need to opt-in
+to participate in the study. Working with the NIH, we developed a power analysis to identify the
+appropriate number of beneficiaries to include in our participant pool to help address this challenge and
+ensure an adequate response from beneficiaries.
+To assess whether the WD-FAB improves our ability to identify who to select for a medical CDR, we will
+use linear regression models with the predictive model scores or responses to the CDR Mailer as the
+response variable and WD-FAB data as the predictor variables. The regression coefficients and their
+p-values will be used for exploratory analysis regarding the correlation between WD-FAB and predictive
+model scores or responses to CDR mailers. In addition, a linear regression will be fit using CDR full
+medical review decisions as the outcome measure and the changes in the WD-FAB data and the
+baseline WD-FAB scores as the predictor variables to provide preliminary results on how the WD-FAB
+score changes relate to initial CDR full medical review decisions.
+Anticipated Challenges: We might face challenges in obtaining final medical CDR outcomes within
+the study's timeframe - FY 2022. If enough final medical CDR determinations do not take place in FY
+2022, completion of the study analysis report will be delayed.
+Dissemination: We expect to receive an analysis report from NIH in FY 2023, and we will disseminate
+the report to internal and external stakeholders. We will post the report on our public-facing website.
+We will work with NIH and BU to disseminate the findings through conferences and other professional
+outlets.
+Social Security Administration
+14
+FY 2023 Evaluation Plan
+Project 10 - Annual Report of the Board of Trustees of the Federal Old-
+Age and Survivors Insurance and Federal Disability Insurance Trust Funds
+EVIDENCE-BUILDING QUESTION
+Do the Old-Age and Survivors Insurance (OASI) program and the Disability Insurance (DI)
+program have sufficient trust fund reserves and projected income to pay scheduled benefits over a
+prospective 75-year period?
+Context for the Evidence-Building Question: The Social Security Act (the Act) established the
+Board of Trustees to oversee the financial operations of the OASI and DI Trust Funds. The Act
+requires that the Board of Trustees, among other duties, report annually to Congress on the actuarial
+status and financial operations of the OASI and DI Trust Funds. This report provides a vast amount of
+descriptive data and analysis on the financial status of the OASI and DI Trust Funds. It also includes
+an assessment using systematic data collection and analysis of the program's capacity to pay
+scheduled benefits over the course of a prospective 75-year period. While the assessment includes
+information on several outcomes, two key outcomes of interest to policymakers are:
+1. The estimated date that each trust fund's reserves will be depleted, and
+2. The estimated percentage of scheduled benefits that the program would be able to support when
+the trust fund reserves are depleted.
+The report includes a description of the uncertainty in the outcomes using:
+1. Alternative deterministic scenarios (i.e., high-cost and low-cost scenarios);
+2. A stochastic model; and
+3. Sensitivity analysis on key assumptions.
+Our Office of the Chief Actuary (OCACT) conducts the vast majority of the research and analysis that
+support this annual report to Congress. OCACT uses the results of this annual assessment as a basis
+for evaluating legislative proposals that affect the trust funds. The Office of Retirement and Disability
+Policy uses the results of this assessment to develop our Modelling Income in the Near Term (MINT)
+microsimulation model that we use to evaluate the distributional effects of proposed changes to the
+programs. Policymakers rely on this information when considering changes to the program to improve
+program solvency or for other purposes. Thus, the assessment is foundational for other important
+evaluation activities that we perform on a regular basis.
+The assessment described in the annual report is among the most important activities that we support
+and disseminate, policymakers rely on this report to make important decisions on the future of the OASI
+and DI programs.
+Information Needed for the Study: The information needed for the assessment comes from a variety
+of sources. OCACT works closely with representatives for each Trustee to develop the demographic,
+economic, and program benefit assumptions that the Trustees use for the annual report. The
+information used to develop the assumptions comes from a variety of sources, including:
+1. Analyses of historical data and relationships related to each assumption from various sources,
+including other government agencies and private forecasters;
+2. SSAB Technical Panel on Methods and Assumptions Reports;
+3. RDRC research; and
+Social Security Administration
+15
+FY 2023 Evaluation Plan
+4. Other research relevant to the assumption.
+The report uses information from a variety of Social Security program data sources, program and survey
+data from other federal agencies, and data from other sources. OCACT identifies the information needed
+for the evaluation in their documentation on the assumptions and methods used for the short-range
+evaluation and for the long-range evaluation.
+Methods: The report includes both a descriptive study of the current trust fund status and an
+assessment that addresses the question, "Are program finances sufficient to pay scheduled benefits over
+a
+prospective 75-year period?' OCACT provides a detailed description of the methods used in each
+report in the following two documents available on our public-facing website.
+1. Long-Range OASDI Projection Methodology; and
+2. Short-Range Actuarial Projections of the OASDI Program, 2010.
+Anticipated Challenges: We do not anticipate significant challenges completing this assessment.
+Dissemination: We use a variety of dissemination methods. The report is available on our public-
+facing website. We send an electronic copy of the report to the President of the Senate, the Speaker of
+the House, and to the Congressional committees of jurisdiction. The day the Trustees release the
+report to the public, we issue a press release that describes the key findings and a link to the report on
+our website. Our Chief Actuary participates in a discussion with members of the press to provide
+information on the content within the report and to respond to their questions on the report. Our Chief
+Actuary also meets with external stakeholders to present the findings, including, members of the
+Congress and their staff, the SSAB, the Bipartisan Policy Center, the National Academy of Social
+Insurance, and various actuarial professional organizations. In recent years, our Chief Actuary has
+used social media (e.g., Facebook live) to disseminate the findings and to respond to questions from
+the public on the financial status of the program.
+Project 11 - Annual Report of the Supplemental Security Income Program
+EVIDENCE-BUILDING QUESTION
+What is the current status of the SSI program and what are the estimated number of SSI
+recipients and SSI program costs associated with administering the program over a prospective
+25-year period?
+Context for the Evidence-Building Question: The Personal Responsibility and Work Opportunity
+Reconciliation Act of 1996 (Public Law 104-193) directs the SSA Commissioner to report annually to
+the President and to the Congress on the status of the SSI program. The report includes an
+assessment of the status of the SSI program using systematic data collection and analysis. The report
+must include estimates of two important SSI program outcomes: (1) the estimated number of SSI
+recipients over a prospective period of at least 25 years, and (2) the estimated SSI program costs
+through a prospective period of at least 25 years. The report must also include a comprehensive
+description of the SSI program; a historical summary of statutory changes to the SSI program; and
+summaries of any relevant research on the SSI program by SSA or others. Other requirements of the
+report include historical and current data relating to:
+1. Claims intake and dispositions at all levels of decision making;
+2. Demographic information about recipients, including program cost and prior enrollment in other
+Social Security Administration
+16
+FY 2023 Evaluation Plan
+public benefit programs;
+3. Redeterminations, medical continuing disability reviews, and utilization of work incentives;
+4. Administrative costs; and
+5. State supplementation program operations.
+This assessment of the status of the SSI program, the estimated number of recipients over a
+prospective 25-year period, and the estimated program costs of the SSI program over a prospective 25-
+year period provides policymakers with extensive information that they can use when considering
+legislative changes, regulatory changes, or policy changes to the SSI program.
+Information Needed for the Study: The information needed for the assessment is described in the
+2020 annual report. The demographic and economic assumptions used in projections are based on the
+intermediate set of assumptions of the Annual Report of the Board of Trustees of the Federal OASI and
+Federal DI Trust Funds (Trustees Report) issued in that year. In addition, the projections are
+developed to be consistent with the projections in such Trustees Report. Beyond that, there are four
+main inputs to the current projection model for SSI recipients:
+1. Historical and projected estimates of the Social Security area population by single year of age and
+gender;
+2. Historical tabulations of the numbers of recipients in current-payment status and suspense status
+by whether the recipient is receiving payments based solely on age or due to disability, single year
+of age, and gender;
+3. Historical tabulations of the numbers of recipients transitioning into and out of SSI payment status
+by the same characteristics as in (2) above; and
+4. Historical tabulations of the total amount of federal SSI payments by the same characteristics
+mentioned in (2) above.
+Methods: The methods for conducting the projections are described in the 2020 annual report. Using
+the inputs for the projection of SSI recipients described in the information needed for the evaluation or
+study section, transitions into SSI payment status are projected separately for: (1) new recipients
+resulting from an application for program payments; and (2) returns to payment status from suspended
+status. Movements out of payment status are projected separately for: (1) terminations due to death;
+(2) suspensions due to excess income; and (3) suspensions of payment for all other reasons. The
+programmatic assumptions and methods are reexamined each year and, if warranted, revised
+considering recent experience and new information about future conditions. We also consider analyses
+of historical data and relationships related to each assumption from various sources, including other
+government agencies and private forecasters, as well as other research relevant to the assumption or
+set of assumptions.
+Anticipated Challenges: We do not anticipate significant challenges completing this assessment.
+Dissemination: We use a variety of dissemination methods. The report is available on our public-
+facing website. We send electronic copies of the report to the President, the Vice-President, and the
+Speaker of the U.S. House of Representatives. We also send electronic copies to the Congressional
+committees of jurisdiction and other interested Congressional members and staff.
+Social Security Administration
+17
+FY 2023 Evaluation Plan
+Project 12 - Pre-Effectuation Review of Disability Determinations
+EVIDENCE-BUILDING QUESTIONS
+What is the return rate of state disability determination services (DDS) initial and reconsideration
+allowances of disability program applications? What is the estimated federal benefit savings
+attributable to the pre-effectuation review?
+Context for the Evidence-Building Questions: Title Il of the Social Security Act (the Act) requires
+the review of at least 50 percent of all DI initial and reconsideration allowances made by state DDSs.
+We consider a disability allowance policy compliant when the evidence in the file is sufficient to
+determine disability and when the determination is consistent with the evidence, federal regulations,
+and operating policies and procedures.
+Section 221(c)(3)(C) of the Act requires us to report to the Committee on Ways and Means of the
+House of Representatives and to the Committee on Finance of the Senate on the pre-effectuation
+reviews of state DDS disability determinations conducted during the previous fiscal year. The
+legislative mandate specifies that the report include information on: (1) the numbers of such reviews;
+and (2) our findings based on such reviews of the accuracy of the state DDS determinations.
+In addition, Public Law 109-171, the Deficit Reduction Act of 2005, added section 1633(e) to Title XVI
+of the Act, requiring similar pre-effectuation reviews of specified levels of DDS allowances of
+applications by persons aged 18 or older for SSI benefits based on blindness or disability. Since FY
+2008, the required level of our SSI reviews is also at least 50 percent of initial and reconsideration
+allowances.
+In FY 2021, we established new pre-effectuation reviews of Federal Disability Processing Branch
+favorable initial and reconsideration determinations. Although the reviews of these branches mirror
+pre-effectuation reviews of DDSs, the above-mentioned statutes do not include cases adjudicated by
+the federal branches. We use the same predictive models based on data captured in our quality
+assurance samples and we use that data to score each case upon clearance to identify cases with a
+high probability of reversal.
+We use the findings from our assessment using systematic data collection and methods to identify
+areas where additional training or policy guidance is needed.
+Information Needed for the Study: Disability claim folders contain the evidence used to make
+decisions on claims, and we review this evidence during pre-effectuation reviews. We use data from
+our program data to estimate the program cost effects that result from the reviews of cases from the
+DDSs.
+Methods: We select cases for pre-effectuation review from the 50 states, the District of Columbia, and
+DI cases from the Commonwealth of Puerto Rico using a statistical model to identify allowances with a
+high probability of containing substantive errors (i.e., potential to reverse the determination from
+allowance to denial). For newly established pre-effectuation reviews, we select cases from eight
+Federal Disability Processing Branches.
+Quality reviewers within our disability quality review branches (DQB) review the cases to determine
+whether the evidence documented in the files is sufficient to determine disability and whether that
+determination made is consistent with the evidence and with federal regulations and operating policies
+and procedures.
+Social Security Administration
+18
+FY 2023 Evaluation Plan
+We record data on:
+The total number of cases reviewed;
+The number of decisional returns (i.e., the number of cases in which the quality review performed
+by the DQB did not agree with the outcome determined by the DDS);
+The number of documentation returns (i.e., the number of cases in which the quality review
+performed by the DQB revealed the evidence upon which the DDS based its decision was
+insufficient); and
+The total number of returns (decisional returns plus documentation returns).
+We compute the return rate as the total number of cases returned divided by the total number of cases
+reviewed, multiplied by 100.
+We use this data, combined with other data described in Table 2 in our Annual Report on Social
+Security Pre-effectuation Reviews of Favorable State Disability Determinations, to estimate the
+program cost effects attributable to the pre-effectuation review.
+Anticipated Challenges: We do not anticipate significant challenges completing this assessment.
+Dissemination: We send this annual pre-effectuation review report to Congress. The public may
+obtain this report on our public-facing website and data from our open data website.
+Project 13 - Targeted Denial Review
+EVIDENCE-BUILDING QUESTION
+What is the return rate of state DDS initial and reconsideration denials of disability program
+applications?
+Context for the Evidence-Building Question: The targeted denial review complements the pre-
+effectuation review. It examines the return rate of all state DDS and Federal Disability Processing
+Branch denials of applications for disability benefits. We draw the sample using a predictive model
+based on data captured in our quality assurance samples. We use that data to score each case upon
+DDS clearance to identify cases with a high probability of reversal.
+We review disability determinations made by the DDSs and Federal Disability Processing Branches in
+our 11 disability quality branches (DQB) in the Office of Quality Review field sites throughout the nation.
+Our central office gathers the data from these reviews to produce monthly targeted denial review
+reports for us at the national, regional, and state levels.
+During our review, we identify cases that are not compliant with national disability policy. When we find
+the disability determination does not comply with our policy and procedure, we cite a deficiency to the
+DDS. We use the findings from our assessment, using systematic data collection and methods, to
+identify areas where additional training or policy guidance is needed.
+Information Needed for the Study: Disability claim folders contain the evidence used to make
+determinations on claims. We review the evidence while conducting targeted denial reviews.
+Methods: We select cases for targeted denial reviews from the DDSs in the 50 states, the District of
+Columbia, 8 Federal Disability Processing Branches, and DI cases from the Commonwealth of Puerto
+Rico using a statistical model to identify allowances with a high probability of containing substantive
+Social Security Administration
+19
+FY 2023 Evaluation Plan
+errors (i.e., potential to reverse the determination from denial to allowance). Quality reviewers within
+our DQBs review the cases to determine whether the evidence documented in the file is sufficient to
+support the denial determination and whether the denial determination is consistent with Federal
+Regulations and operating policies and procedures.
+We record data on:
+The total number of cases reviewed;
+The number of decisional deficiencies (i.e., the number of cases in which the DQB's quality review
+performed did not agree with the outcome determined by the DDS);
+The number of documentation deficiencies (i.e., the number of cases in which the quality review
+performed by the DQB revealed the evidence upon which the DDS based its decision was
+insufficient); and
+The total number of deficiencies (decisional deficiencies plus documentation deficiencies) cited.
+We compute the return rate as the total number of cases returned divided by the total number of cases
+reviewed, multiplied by 100.
+Anticipated Challenges: We do not anticipate significant challenges completing this assessment.
+Dissemination: We make the data from targeted denial reviews available to the public on our public-
+facing open data website.
+Project 14 - Old-Age, Survivors, and Disability Insurance
+Stewardship Review
+EVIDENCE-BUILDING QUESTION
+What is the payment accuracy rate related to the non-medical aspects of the Old-Age, Survivors
+and Disability Insurance (OASDI) payments?
+Context for the Evidence-Building Question: The OASDI stewardship review provides an accuracy
+measurement of the non-medical aspects of OASI payments and DI payments. The non-medical
+aspects of OASI payments and DI payments include changes in payment amounts due to work activity
+(e.g., the annual earnings test for OASI, or the performance of substantial gainful activity for DI) or
+changes in payment due to application of a provision in the law (e.g., Windfall Elimination Provision,
+Government Pension Offset, Workers Compensation Offset). Payment errors include both
+underpayments (payments issued are less than what is due to beneficiaries) and overpayments
+(payments issued are more than what is due to beneficiaries).
+The OASI and DI stewardship review findings provide the basis for reports to monitoring authorities and
+meet the reporting requirements of the Improper Payments Information Act of 2019. Additionally, we
+use these findings to establish the OASDI payment accuracy performance measure in the Annual
+Performance Report.
+The OASDI stewardship review is an assessment using systematic data collection and analysis of our
+program and policies. The results are used to identify: (1) areas where additional training for our
+employees is needed; (2) whether we need to develop legislative proposals to address issues with
+administering the program (e.g., obtaining data on wage amounts from a payroll information provider);
+or (3) whether we need to pursue program changes or pilot projects to test alternatives to the current
+process and how we should design those changes.
+Social Security Administration
+20
+FY 2023 Evaluation Plan
+Information Needed for the Study: The information for this study is derived by quality reviewers
+interviewing a sample of OASI and DI beneficiaries, or their representative payees, and redeveloping all
+non-medical factors of eligibility to determine if the payment issued was correct according to the
+applicable statutes and/or regulations. We also use data from our program data, such as the Master
+Beneficiary Record, which includes the data related to the OASI or DI payment computations for
+beneficiaries.
+For each case in the sample with a payment error, the reviewers record a specific deficiency code that
+represents the error associated with the improper payment, the dollar amount of the payment error, and
+the specific cause of the error. There may be multiple deficiencies associated with a payment amount.
+We construct separate aggregate overpayment or underpayment amounts for these cases when we
+report our stewardship review findings.
+Methods: We base the stewardship review on a monthly sample of Title Il beneficiaries in current
+payment status. Each month, we selected approximately 88 OASI cases and 46 DI cases of
+beneficiaries residing in the United States. Annually, we also select 160 cases of beneficiaries who live
+outside of the 50 states or U.S. territories or receive U.S. totalization benefits. We interview the
+beneficiary or his or her representative payee, make collateral contacts as needed, and redevelop all
+non-medical factors of eligibility as of the sample month. The objective of the stewardship review is to
+identify improper payments and not to assess our compliance with policy and procedures or predict the
+impact of proposed changes to policies and procedures. Therefore, we assess payment accuracy
+based on all the developed factors of entitlement that have any potential to affect the payment issued in
+the sample month.
+Anticipated Challenges: We do not anticipate significant challenges completing this assessment.
+Dissemination: We report the findings from the OASDI stewardship review to OMB, provide a
+summary of the findings in the Annual Performance Report, and post the report on our public-facing
+website.
+Project 15 - Supplemental Security Income Stewardship Review
+EVIDENCE-BUILDING QUESTION
+What is the payment accuracy rate related to the non-medical aspects of SSI payments?
+Context for the Evidence-Building Question: Our SSI stewardship review provides estimates of
+payment accuracy related to the non-medical aspects of SSI payments. SSI is a means-tested
+program, and non-medical aspects of SSI payments may include living arrangements, resources,
+wages, and other eligibility factors. Payment errors include both underpayments (payments issued are
+less than what is owed to the recipient) and overpayments (payments issued are more than what is
+owed to the recipient).
+The stewardship review is a significant assessment tool for us. Its findings serve as the basis for
+reports to monitor authorities and satisfy the reporting requirements of the Payment Integrity
+Information Act of 2019. We use the stewardship data to identify error-prone areas and formulate
+initiatives to reduce improper payments.
+The SSI stewardship review is an assessment using systematic data collection and analysis of our
+program and policies. The results are used to identify: (1) areas where additional training is needed for
+our employees; (2) whether we need to develop legislative proposals to address issues with
+Social Security Administration
+21
+FY 2023 Evaluation Plan
+administering the program (e.g., obtaining data on wage amounts from a payroll information provider);
+or (3) whether we need to pursue program changes or pilot projects to test alternatives to the current
+process and how we should design those changes.
+Information Needed for the Study: The information for this study is derived by quality reviewers
+interviewing a sample of SSI recipients or their representative payees, and redeveloping all non-
+medical factors of eligibility to determine if the payments issued were correct according to applicable
+statutes and regulations. We compare the quality review findings with our program data, such as the
+Supplemental Security Record (SSR), which includes the data related to SSI payment computations for
+recipients.
+For each case in the sample with a payment error, the quality reviewer records the specific deficiency
+that caused the improper payment, and the dollar amount of the payment error associated with the
+specific deficiency. There may be multiple deficiencies associated with an SSI payment, and we
+construct separate aggregate overpayment or underpayment amounts for these cases when we report
+our stewardship review findings.
+Methods: We derive accuracy rates using data collected from the review of a national sample of SSI
+cases. For a case to be included in our sample, we must have issued a payment in at least 1 month of
+the fiscal year under review. Historically, the sample has included about 4,000 cases.
+The objective of the stewardship review is to identify and quantify improper payments. It involves
+interviewing SSI recipients, or their representative payee, and redeveloping all non-medical factors of
+eligibility to determine if the payments issued were correct according to the applicable statutes and
+regulations. We use the resources necessary to obtain all relevant evidence needed to assess
+payment accuracy for every case we review. Any difference between what was actually paid and what
+the reviewer determines should have been paid is expressed as an overpayment or underpayment
+error. It is not feasible operationally for us to conduct this review for all cases in the SSI universe on an
+ongoing basis. For this reason, the review is not ideally suited to predict or assess the impact of
+initiatives to reduce improper payments. The overpayment and underpayment accuracy rates are the
+percentage of all dollars paid that are free of overpayments or under payments. We calculate and
+report overpayment and underpayment accuracy rates separately. The data presented in the annual
+stewardship report is weighted, enabling us to project the findings to the entire population of SSI
+recipients.
+Annually, we reevaluate our study methodology and the data elements we capture, based upon audit
+findings and information needs identified throughout the year.
+Anticipated Challenges: We do not anticipate significant challenges completing this assessment.
+Dissemination: We report the findings from the SSI stewardship review to OMB, provide a summary
+of the findings in the Annual Performance Report, and post the report on our public-facing website.
+Social Security Administration
+22
+FY 2023 Evaluation Plan
+Project 16 - Barriers Analysis
+EVIDENCE-BUILDING QUESTION
+To what extent are our policies, procedures, and practices effective in promoting equal employment
+opportunities and creating greater diversity in our workforce?
+Context for the Evidence-Building Question: Our Office of Civil Rights and Equal Opportunity
+created a barrier analysis program that complies with Equal Employment Opportunity Commission
+guidelines. This program helps us create a barrier-free workplace and enable equal employment
+opportunities and a diverse workforce. We define a barrier as an agency policy, procedure, or
+practice that limits or tends to limit employment opportunities for members of a particular equal
+employment opportunity group such as groups based on sex, race, ethnic background, or disability
+status.
+The barrier analysis process is an investigation of triggers. We define triggers as any information that
+alerts the agency of the need for additional scrutiny to determine if a barrier truly exists. To identify
+triggers, we compare workforce data snapshots to benchmarks, and we note irregularities that may
+point to potential barriers. Some barriers are perceptional and based on employees' opinions as
+revealed in surveys such as the Federal Employee Viewpoint Survey administered by the U.S.
+Office of Personnel Management, and our exit surveys optionally completed by employees who
+separate from the agency.
+The goal of our investigation is to identify the root causes of barriers and develop plans to eliminate
+those barriers at all levels of the workplace. We will conduct a new barrier analysis in FY 2023 and use
+the information to develop a new action plan to eliminate barriers and help build an inclusive, engaged,
+and empowered workforce.
+Information Needed for the Study: We need data on the characteristics of our workforce employees,
+job applicants, and people selected for employment, promotion, and developmental opportunities such
+as our career development programs. We need data about equal employment opportunity complaints
+and labor union grievances, which may be obtained from the Office of Labor-Management and
+Employee Relations. We need to review Federal Employee Viewpoint Survey results and exit survey
+results, which our Office of Strategy, Learning, and Workforce Development collects.
+Methods: We use our administrative data to compare characteristics of job applicants and our
+workforce within specific job positions, grade levels (including the Senior Executive Service), offices,
+and career development programs to benchmarks that include the characteristics of our overall
+workforce. When we identify discrepancies between the characteristics within a specific group (e.g.,
+lower percentage of our Senior Executive Service members who have a disability compared to our
+benchmark), we conduct a root cause analysis that includes interviews with key stakeholders to identify
+whether our policies, procedures, and practices are barriers to equal employment opportunities. We
+then develop an action plan to eradicate the barriers. We also analyze data from the Federal Employee
+Viewpoint Survey and exit survey results, along with other data, to help us determine what factors
+contribute to identified triggers.
+Anticipated Challenges: Our ability to collect and analyze data through a variety of methods is limited
+to available data; and we are committed to fulfilling any labor negotiations required.
+Dissemination: We will disseminate the results of this evaluation project, as part of the Management
+Directive 715 (MD-715) Report to the Equal Employment Opportunity Commission as required. The
+report is made available to agency employees.
+Social Security Administration
+23
+FY 2023 Evaluation Plan
+Securing today
+and tomorrow
+SSA.gov
+Social Security Administration
+February 2022
+Foundations for Evidence-Based Policymaking Act of 2018 Documentation
+Produced and published at U.S. taxpayer expense

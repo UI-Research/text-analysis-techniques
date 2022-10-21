@@ -1,0 +1,236 @@
+UNITED STATES OFFICE OF PERSONNEL MANAGEMENT
+Annual Evaluation Plan
+Fiscal Year 2023
+UNITED
+STATES
+of
+RENSONNEL
+OPM.GOV
+MARCH 2022
+Evaluation and Evidence Building
+FY 23 Annual Evaluation Plan
+Pursuant to the Foundations for Evidence-Based Policymaking Act of 2018, the Office of Personnel
+Management (OPM) developed its FY 2023 Annual Evaluation Plan, which describes significant
+evaluation activities that the agency will undertake. For the FY 2023 Annual Evaluation Plan, any
+currently planned evaluation included in the FY 2022-2026 Learning Agenda is considered significant
+and will be included in the Plan. As OPM executes its Learning Agenda, the agency may plan additional
+evaluations to supplement the evaluations described here.
+The evaluations included in the FY 2023 plan are: an evaluation of the effect of the Federal Employee
+Paid Leave Act on Federal employees' use of leave, retention, career advancement, and performance; an
+evaluation of the effect of improvements to Federal Employees Health Benefits decision support tools on
+use, understanding of health plans, and plan selections; and a formative evaluation of agency retirement
+readiness approaches and the effect of educational programs on Federal employees' retirement knowledge
+and savings behaviors.
+OPM Annual Evaluation Plan - Federal Employee Paid Leave Act
+Program background
+The Federal Employee Paid Leave Act (FEPLA) provides 12 weeks of paid parental leave to certain
+Federal employees in connection with the birth of an employee's child or placement of a child with an
+employee for adoption or foster care. The law was passed on December 20, 2019, and went into effect on
+October 1, 2020.
+Anticipated benefits of the law include increased time for bonding between parent and child, improved
+health of the birth mother and child, preservation of annual and sick leave balances for future family
+needs, increased retention and engagement of the Federal workforce, and a positive impact to the U.S.
+economy by addressing women's declining labor force participation The Congressional Budget Office
+estimated that implementing FEPLA would cost $3.3 billion from 2021-2024².
+OPM is partnering with the Department of Labor (DOL) to evaluate these claims and to better understand
+how paid leave affects Federal employees and agencies.
+Questions to be answered
+OPM and DOL will collaborate to answer questions surrounding the effects of FEPLA. For FY 2023, the
+questions will focus on short-term uptake and effects of the law and will be dependent on data
+availability. Future evaluation questions may be proposed in the ongoing partnership.
+Potential key questions for the evaluation include:
+What are FEPLA leave taking patterns, and do those vary by employee demographics? Are leave
+taking patterns equitable across demographic groups?
+What is the effect of FEPLA on the number of days of leave taken, by leave type (for example,
+FEPLA, Family and Medical Leave Act, sick leave, annual leave)?
+What is the effect of FEPLA on short-term retention of employees following paid parental leave?
+What is the effect of FEPLA on employees' career advancement, including promotions, salary,
+and performance awards?
+Methods to be used
+OPM and DOL will analyze secondary administrative personnel data that OPM maintains in its Enterprise
+Human Resources Integration (EHRI) and Electronic Official Personnel Folder (eOPF) databases,
+conducting descriptive analyses and comparisons of outcomes prior to and following implementation of
+FEPLA.
+1 Paid Parental Leave, 85 Fed. Reg. 154 (August 10, 2020) (to be codified at 5 C.F.R. pt. 630)
+2 Congressional Budget Office Cost Estimate, H.R. 626 (Au
+Information needed for the evaluation
+OPM and DOL will leverage existing data including payroll data (use of leaves and use of paid parental
+leave by type of qualifying event), employee personnel status data (for example, retention status and base
+pay), employee performance data (for example, award hours and award pay), and employee demographic
+data (for example, gender, race and ethnicity, age, work schedule, and agency).
+Anticipated challenges
+There are two main challenges for the FEPLA evaluation:
+1.
+Data quality and completeness. At the time FEPLA was implemented, there were no existing
+payroll codes for those using paid parental leave; this data only started being reported with
+routine codes in April 2021. There are also data quality issues within the payroll data, as agencies
+use differing payroll systems and approaches that may or may not have accurate recording of
+leaves. To address this, OPM is proactively reviewing and cleaning FEPLA and leave data, while
+also working to improve the overall quality of payroll data. OPM may also limit the evaluation to
+payroll systems with sufficient data quality and completeness or change the scope of the
+questions to respond to data issues.
+2.
+Selecting the appropriate time period for comparison. For comparisons of before and after
+implementation of FEPLA, there are complicating factors regarding time periods for comparison,
+including the lack of payroll codes and the COVID-19 pandemic, which is anticipated to affect
+childbearing and leave taking patterns. As such, OPM and DOL will carefully consider the
+appropriate time periods for both before and after comparison and will interpret findings with
+caution.
+Dissemination
+OPM and DOL will share results with leadership at their respective agencies and other key stakeholders
+through reports and presentations. Findings will also be shared externally in OPM or DOL
+communications, publications, or websites.
+Due to concerns related to employee privacy, no public use file will be created.
+OPM Annual Evaluation Plan - Federal Employees Health Benefits
+Decision Support Tool
+Program background
+As the administrator of the country's largest employer-sponsored healthcare program - the Federal
+Employees Health Benefits (FEHB) Program - OPM has a unique and important role in advancing health
+equity through health literacy. As part of OPM's Equity Assessment under President Biden's Executive
+Order on Advancing Racial Equity and Support for Underserved Communities Through the Federal
+Government, OPM is focusing on improving health plan selection.
+The FEHB Program is market-based, and most Federal employees and annuitants enjoy a wide selection
+of health plan choices. For the 2021 plan year there are 276 nationwide and regional plan choices across
+the entire program. The plan choices include nationwide plans, regional plans, and specialized plans for
+specific employee groups. There are different plan types available, including fee for service plans, health
+maintenance organization plans, high deductible health plans, and consumer driven health plans, which
+offer different coverage structures.
+The primary tool that OPM makes available to employees and annuitants for learning about and
+comparing FEHB plans is its Plan Comparison Tool, originally developed in 2002. The tool gets more
+than 2.4 million-page views with more than 1.6 million unique users and 571,000 sessions in a year, and
+it is the most used tool on the OPM website. Although the tool allows users to input some basic
+information about their individual health needs, it does not offer information about many other factors
+that may be relevant to plan choice.
+OPM will conduct research to identify gaps in the current tool. Dependent on funding, OPM will then
+develop and pilot an improved decision support tool with more specialized features to assist employees in
+educating themselves about plan options and selecting a plan.
+OPM will evaluate the effect of improvements to the decision support tool on use, user satisfaction, plan
+knowledge, and plan selection. OPM will further refine the specific outcomes evaluated to align with the
+new tool's features.
+Questions to be answered
+The evaluation seeks to understand whether changes to the tool improve the user experience,
+understanding of health plans, and ability to select a plan that meets employee and annuitant needs.
+Potential key questions for the evaluation include:
+How many individuals are accessing OPM's decision support tools, before and after the
+improvements to the tool? To what extent do users engage with new tool features, including
+specific search capabilities?
+How satisfied are users with the current tool? How satisfied are they with the improved tool?
+Do tool users report increased comprehension of FEHB options? Increased confidence to select a
+plan? Does comprehension and confidence vary by user demographics?
+What are trends in FEHB plan selections, by demographic? Are more Federal employees enrolled
+in affordable plans?
+Methods to be used
+OPM will potentially employ several different methods to assess the improved tool. This includes
+analysis of administrative data, including comparing differences in tool website use and plan enrollment
+data before and after the launch of the new tool. OPM may also leverage its website customer experience
+surveys and the Federal Employee Health Benefits Survey to ask questions related to use of and
+satisfaction with the tool, as well as knowledge and confidence related to plan selection. Further, OPM
+may collect qualitative data from users through in-depth interviews and/or focus group discussions as
+OPM develops and pilots the tool improvements and features to understand user needs and feedback on
+the experience. This evaluation design is observational, as use of the decision support tool cannot be
+linked directly to changes in plan choices or differences in health outcomes given the nature of the data.
+Information needed for the evaluation
+OPM will use existing website data to review trends in website user views and tool site engagement.
+OPM may also use employee personnel data to assess FEHB plan enrollment, plan selections, and
+employee demographic data (for example, gender, race and ethnicity, and age). Through surveys and
+qualitative data, OPM may additionally capture employees' and annuitants' self-reported experiences
+with the tool, their satisfaction with its features, their health plan literacy, and their confidence in
+selecting a health plan.
+Anticipated challenges
+There are several challenges for the tool evaluation:
+1.
+Resource availability. OPM is intending to reimagine the plan comparison tool to a true decision
+support tool, but the implementation of changes is dependent on funding and staff capacity. OPM
+is seeking support and funding for this initiative through the Technology Modernization Fund. If
+this project does not receive funding, this evaluation will not proceed.
+2.
+Non-response/participation bias. None of the proposed data collection methods provide an
+exhaustive view of Federal employees' and annuitants' perceptions and behavior related to plan
+selection. Not all Federal employees and annuitants are eligible for FEHB or elect to enroll, and
+those perspectives may not be captured. Likewise, those who elect to respond to surveys or
+recruitment for qualitative research may differ from the average Federal employee or annuitant.
+To address this, OPM will seek to triangulate several data sources and reach out to different
+Federal employee groups to gain a fuller picture of tool perceptions and behaviors.
+3. Ability to link changes in the tool to plan selections. The goal of the tool is to improve Federal
+employees' and annuitants' ability to select a plan that meets their needs. However, as this
+evaluation is not proposing an experimental design due to feasibility constraints, it will be
+difficult to definitively link use of the tool to actual plan selection behavior. This evaluation may
+examine trends in plan selection but will appropriately describe the limitations of its approach in
+determining any causality.
+Dissemination
+OPM will share results with Healthcare & Insurance program staff and agency leadership. Reports may
+also be shared with benefits officers, Chief Human Capital Officers, and the Federal community, as
+appropriate. Findings will also be shared externally in OPM communications, publications, or its website,
+but no public use file will be created.
+OPM Annual Evaluation Plan - Retirement Readiness Initiatives
+Program background
+OPM's Retirement Services is responsible for the Government-wide administration of retirement benefits
+and services for Federal employees, retirees, and their families, serving approximately 2.7 million retirees
+and survivors. The Thrift Savings Plan (TSP) Open Elections Act of 2004 (Public Law 108-469) and 5
+U.S.C. 8350 gave OPM the responsibility to work with agencies across Government to educate Federal
+employees on the need for retirement savings and provide information to help them meet their retirement
+goals.
+Retirement Services implements the mandates described in 5 U.S.C. 8350 by working with benefits
+officers within each agency to encourage retirement readiness over a Federal employee's career. With the
+release of Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities
+Through the Federal Government, Retirement Services has begun a new undertaking to look at how
+agency benefit officer programs can better meet the retirement readiness goals of employees in
+underserved communities.
+While Federal employees have a robust set of options in building wealth and planning for retirement
+through both defined benefit and defined contribution programs, Federal employees still face gaps in
+retirement readiness. OPM believes that there is an opportunity to identify and enact targeted retirement
+readiness programs through benefits officers across Government during key career milestones with the
+goal of improving Federal employee retirement readiness. Given the importance of EO 13985, a new and
+targeted emphasis will be focused on potential barriers that members of underserved communities face in
+achieving retirement readiness.
+OPM's Retirement Services has requested resources in the FY 2023 budget to implement a formative
+evaluation of existing retirement readiness programs, working with agency benefits officers, key
+stakeholders, subject matter experts within government, and external researchers. OPM and agency
+partners will use the findings of the formative evaluation to identify promising agency retirement
+readiness practices and to develop evidence-based education about retirement savings. This formative
+evaluation may also inform subsequent outcome evaluations of these retirement readiness education
+efforts.
+Questions to be answered
+The formative evaluation seeks to review current retirement readiness programs to assess the feasibility of
+implementing future retirement readiness efforts.
+What is the status of agency retirement readiness plans?
+Do retirement readiness plans account for the characteristics of their agency such as mission, size,
+resources, geographic distribution? Do agency plans address retirement readiness in underserved
+communities?
+Do agency retirement readiness plans include programs that promote informed retirement
+decisions? What are the resources associated with these programs?
+What information is provided by agency retirement readiness education? What information is
+provided about retirement savings and investments?
+What evaluations of agency retirement readiness programs have been conducted? What outcomes
+were measured?
+What retirement readiness programs have showed improvements in key outcomes such as
+financial literacy and savings behaviors?
+Methods to be used
+If funding is approved, OPM will conduct literature reviews of retirement readiness programs, reviews of
+agency retirement readiness plans, interviews with agency benefits officers and other key stakeholders,
+and reviews of evaluations of existing interventions. This data would be used to analyze current
+retirement readiness efforts to define the most fruitful areas to target to improve retirement readiness.
+Anticipated challenges
+There are several challenges associated with this formative evaluation:
+1. Resource availability. OPM is requesting resources for this initiative, and the implementation of
+this formative evaluation is dependent on funding and staff capacity.
+2. Data availability. Some agencies may not have detailed retirement readiness plans or well-
+documented educational efforts. They may also not have conducted evaluations or maintained
+evaluation results.
+3. Capturing retirement readiness outcomes. Agencies may not have conducted robust
+evaluations of their retirement readiness efforts, and literature suggests that retirement readiness
+intervention effect sizes can be small, which may make changes difficult to detect. Additionally,
+even a large-scale and successful intervention would take many years to yield significant effects
+on Federal employee retirement readiness outcomes.
+Dissemination
+Retirement Services will share results with agency leadership through reports, presentations, and external
+publications. Results may also be shared with participating agency benefits officers and the Federal
+community, as appropriate. Findings may be shared in OPM communications or its website, but no public
+use file will be created.
+UNITED
+STATED
+U.S. Office of Personnel Management
+Office of the Chief Financial Officer
+1900 E Street, NW, Washington, DC 20415
+OPM.GOV
+CFO-03453-03-22

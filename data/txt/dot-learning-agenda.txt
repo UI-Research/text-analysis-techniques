@@ -1,0 +1,546 @@
+U.S. Department
+of Transportation
+Learning Agenda
+TABLE OF CONTENTS
+INTRODUCTION
+3
+SAFETY PRIORITY QUESTIONS
+4
+Focus Area: Drug-Impaired Driving (Excluding Alcohol)
+4
+Focus Area: Pedestrian and Cyclist Safety
+7
+Focus Area: Improving Aviation Safety and Efficiency
+11
+CLIMATE PRIORITY QUESTIONS
+13
+Focus Area: Reducing Transportation Greenhouse Gas Emissions
+13
+EQUITY PRIORITY QUESTIONS
+15
+Focus Area: Equity in the DOT Workforce
+15
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+2
+INTRODUCTION
+In accordance with the Foundations for Evidence-Based Policymaking Act of 2018, Public Law No. 115-435
+(Evidence Act) and Office of Management and Budget (OMB) Memorandum M-19-23, the United States
+Department of Transportation (DOT or the Department) is pleased to present DOT's Learning Agenda,
+which lays out the Department's plans for identifying and addressing priority questions relevant to the
+programs, policies, and regulations of the Department. Per OMB Memorandum M-19-23, the Learning
+Agenda documents the following:
+The strategic goals and objectives that the Learning Agenda will address;
+Priority questions to be answered;
+Activities that the Department will engage in to address priority questions;
+The timing of learning activities;
+Potential data, tools, methods, and analytic approaches to be used to answer priority questions; and
+Anticipated Department-specific challenges and proposed solutions to developing evidence to
+support leadership priorities.
+This document was created by the Office of the Chief Financial Officer and Assistant Secretary for Budget
+and Programs (OST-B), in collaboration with the Safety Council, Equity Task Force, Climate Change Center,
+and multiple Operating Administrations. The Safety Council, Equity Task Force, and Climate Change Center
+are internal, multi-modal groups at DOT that coordinate on improving the safety of our nation's
+transportation system, increasing equity in DOT's programs and internal operations, and supporting the
+Department's efforts to move toward net-zero transportation emissions. The team built upon the insights
+gleaned through development of the interim Learning Agenda, which established an initial understanding of
+the evidence-building activities that are being conducted around the Department to answer strategic and
+operational questions that support the Department's mission.
+In accordance with OMB guidance to align some or all priority questions to agency-wide strategic goals to
+ensure that resulting evidence is timely and relevant to agency needs, the Learning Agenda focuses on three
+of the six strategic goals outlined in DOT's FY 2022 - 2026 Strategic Plan: Safety, Equity, and Climate &
+Sustainability. OST-B coordinated with leadership and staff from the Safety Council, Equity Task Force, and
+Climate Change Center, and related Operating Administrations, to develop and receive approval on nine
+priority questions that build upon the work already being carried out in these areas. These groups conducted
+internal and external stakeholder outreach to gather feedback and inputs on the development of the priority
+questions included in this document. The Department plans to update the Learning Agenda on an annual
+basis.
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+3
+SAFETY PRIORITY QUESTIONS
+FOCUS AREA: DRUG-IMPAIRED DRIVING (EXCLUDING ALCOHOL)
+This focus area aligns with the Safety Strategic Goal and the Safe Public Strategic Objective of the DOT's
+FY 2022 - 2026 Strategic Plan.
+Overview
+Many substances can impair driving, including some over-the-counter and prescription drugs and
+illegal drugs. The most recent National Roadside Survey, conducted during 2013 and 2014, found a
+20% weekend nighttime prevalence of drug presence in drivers, a statistically significant increase from
+the 16% found in the 2007 national survey.¹ A recent study of five Level-1 trauma centers found that
+29% of drivers involved in serious injury and fatal crashes tested positive for at least one drug other
+than alcohol prior to the COVID-19 pandemic; this increased to 36% in the first four months of the
+pandemic.² The 2020 National Survey on Drug Use and Health estimated that 12,661,000 people aged
+16 and older drove under the influence of drugs during the 2020 calendar year. 3
+The presence of drugs is inconsistently tested after traffic events occur. There are challenges in
+determining whether the presence of drugs other than alcohol indicates impairment during an incident
+or crash because, unlike alcohol, measurements of other drug levels cannot reliably be used to
+determine impairment.
+Drug impairment is also severely underreported in police accident reports, including fatal traffic
+crashes. Data quality and availability vary widely between States, and cut-off levels used in laboratories
+to determine drug presence also vary widely.
+Relevant Operating Administrations
+National Highway Traffic Safety Administration (NHTSA)
+Priority Questions
+To what extent does drug impairment play a role in crashes?
+What are the barriers to States, law enforcement, and the judicial system in drug impairment
+identification and reporting?
+How effective are drug-impairment detection technologies in identifying drug-impaired drivers?
+Evidence Building Activities
+NHTSA will continue foundational fact-finding to guide its behavioral research and programmatic
+efforts on the drug-impaired driving (DUID) problem. These activities build evidence to inform
+technical assistance to States, program activities with law enforcement and other partners, and
+communications to the public. This includes:
+The National Roadside Survey (NRS) of driver drug use to determine the magnitude and scope
+of the problem and conducting trend analyses of changes since previous surveys. The NRS
+design will begin in FY 2022 with data collection to begin in FY 2024. NRS results will help
+NHTSA understand the prevalence of drugs among those who are driving or otherwise traveling
+at the time of sampling.
+1 https://rosap.ntl.bts.gov/view/dot/2097
+2
+https://rosap.ntl.bts.gov/view/dot/50941
+3
+ttps://www.samhsa.gov/data/release/2020-national-survey-drug-use-and-health-nsduh-release:
+U.S. DEPARTMENT OF TRANSPORTATION
+|
+LEARNING AGENDA
+4
+The National Survey of Drinking, Drug Use, and Driving Attitudes, which will inform
+countermeasure development and media messaging to prevent DUID. The attitudes and
+behaviors survey will be submitted for OMB clearance in FY 2022. The survey will be
+administered in FY 2023 and the final report will be completed in FY 2024.
+Continuation of expert panels and laboratory research with human subjects on the effects of
+drug use on behavior and driving ability. An ongoing study of the prevalence of drugs and
+alcohol in seriously and fatally injured road users helps researchers understand the presence of
+potentially impairing drugs in select trauma center catchment areas.
+Data collection from State and local records, stakeholder interviews, and focus groups will be
+used to examine barriers to the enforcement and judicial system in drug-impairment
+identification and reporting as well as adjudication processes for offenders.
+Regarding issues with existing DUID data, NHTSA has ongoing efforts to improve the drug data in the
+Fatality Analysis and Reporting System (FARS) and the data elements in the Model Minimum Uniform
+Crash Criteria. NHTSA will also assess its demonstration projects to support State toxicological
+laboratories that conduct DUID forensic toxicology. Statewide stakeholder meetings will inform efforts
+to improve DUID data.
+In FY 2020, NHTSA launched the Drug-Impaired Driving Criminal Justice Evaluation Tool to help
+States self-examine and improve their DUID systems, including toxicology, data, enforcement,
+adjudication, and treatment for offenders. The tool allows users to self-diagnose programs to reduce
+drug-impaired driving through a systematic review of activities, policies, and procedures intended to
+reduce impaired driving. The tool allows State, local, territorial, and tribal governments to identify gaps
+in drug-impaired driving programs, inform strategies to strengthen programs, and track progress over
+time against baseline results. It was developed through a Federal Register Notice and promoted
+through national webinars, conferences, newsletters, and NHTSA regional office outreach. A recent task
+order was awarded through FY 2023 to promote the availability of the tool. NHTSA will also provide
+technical and financial assistance and assess the tool for completeness and usability.
+NHTSA also conducts foundational fact-finding activities on DUID detection technologies, including
+laboratory research to examine the feasibility of a field test for marijuana impairment and field work on
+the feasibility of specific driving performance cues for identifying drug-impaired drivers for law
+enforcement. The initial feasibility study will be completed in FY 2023, with follow-on studies informed
+by the results. NHTSA recently launched a study to identify specific cues for law enforcement to
+identify drivers who may be under the influence of cannabis. Phase One of this study will be completed
+in FY 2023.
+Data Sources
+NHTSA will use data from the NRS to determine the scope and magnitude of drug-impaired driving
+across the country and track trends in drug presence in drivers. It is the only nationally representative
+data of its kind. NHTSA uses data from the Substance Abuse and Mental Health Services
+Administration's National Household Survey on Drug Use and Health and its own Nationally
+representative self-report surveys of driver attitudes and behaviors about drug use and driving to
+examine the scope and magnitude of the problem and conduct trend analyses. Government Census
+data is used to support national survey results.
+Existing data from State and local agencies are mined to inform a variety of project and assessment
+efforts. These are often supplemented with survey, interview, laboratory, and focus group data specific
+to those studies to address a variety of questions related to DUID. NHTSA also has data on drug-
+impaired driving FARS. An ongoing project seeks to identify other available data sources for use in
+DUID research.
+Anticipated Challenges and Mitigation Strategies
+U.S. DEPARTMENT OF TRANSPORTATION | LEARNING AGENDA
+5
+While NHTSA is working diligently to improve the DUID data in FARS, there are numerous limitations
+associated with the data in its current state.
+Existing data from States and local jurisdictions are often limited and inconsistent. To mitigate
+this challenge, NHTSA does extensive triage on the front end of research projects to find the
+best quality data available for a given project. NHTSA also identifies supportive partners to
+answer a specific question and collects supplemental data to support the work as needed.
+Roadside surveys that collect biological specimens to test for drug presence can be
+controversial and drivers may be hesitant to give samples. By conducting mock sample
+collections and reporting on the results, local media can assist with dispelling public
+misconceptions and misunderstandings. This also helps increase public acceptance and
+awareness on the purpose and importance of this type of data collection in their communities.
+Laboratory studies have similar challenges for recruiting potential subjects. Adherence to
+protocols and offering participant incentives improve recruitment efforts. Access to controlled
+substances can be challenging to conduct these studies. NHTSA only partners with laboratories
+that have the required certifications for obtaining and using these substances.
+National self-report survey administrators are often challenged with obtaining sufficient
+response rates. NHTSA uses rigorous data collection practices to ensure all responses received
+are accurate and usable. Potential respondents are also offered incentives to participate. This
+survey requires Paperwork Reduction Act (PRA) clearance. NHTSA strives to fast-track PRA
+clearance by using documented internal processes and ensuring staff are trained in the
+requirements for beneficial Information Collection Request packages.
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+6
+FOCUS AREA: PEDESTRIAN AND CYCLIST SAFETY
+This focus area aligns with the Safety Strategic Goal and the Safe Public and the Safe Design Strategic
+Objective of the DOT's FY 2022 - 2026 Strategic Plan.
+Overview
+Pedestrian and cyclist deaths have increased in the past 10 years. On average, about 17 pedestrians
+were killed each day on our nation's roadways in CY 2020, up from about 11 per day in CY 2009. In CY
+2020 alone, there were an estimated 6,236 pedestrian and bicyclist fatalities across the nation.4
+Pedestrian and Cyclist Risk Rates: Information is readily available on vehicle counts and mileage to
+discern crash risk rates in multiple units of analysis, even down to the segment and corridor levels.
+However, exposure and count information for pedestrian, bicyclist, and other vulnerable road users at
+the national level are limited in scope. From year to year, there are limited data available for DOT to
+determine whether changes in the fatality count are due to changes in walking or biking frequency or
+due to enhanced risk rates. It is therefore difficult to establish safety risk rates for pedestrians and
+cyclists comparable to vehicle exposure, which results in the Department making safety investments
+focused on where the data are available as opposed to where the risk is located.
+Road Configurations: Generally, FHWA has not identified specific road configurations or cross-sections
+that inherently put pedestrians and cyclists at the highest risk for crashes. There is strong evidence
+showing that crash risks and severity rise as the number of motor vehicles on the road increases, along
+with roadway widths, turning conflicts, and other contributing factors that accompany higher volumes
+of motor vehicles. Evidence also indicates that a disproportionate share of pedestrian fatalities occurs in
+suburban and exurban contexts along major signalized arterial roads. There are numerous design
+treatments that can be implemented to help decrease crash risk. However, it is important to analyze
+exposure data of the entire road network to better understand conflict areas.
+Equity and Vulnerability by Gender and Race: Black pedestrians experience disproportionately high
+fatality rates from traffic crashes, more than two times that of white pedestrians over the past decade.
+Based on NHTSA's preliminary estimates of crash fatalities in CY 2020, overall fatalities increased by
+7.2%, while non-Hispanic Black fatalities increased by 23%, highlighting how inequities in
+transportation fatalities is accelerating. Indian and Alaskan Native persons have the highest rate of
+deaths from traffic crashes, more than three to four times that of white pedestrians.5
+The Department is committed to ensuring there are no disparities in opportunities to safely walk or bike
+in underserved communities compared to more affluent communities. People with disabilities should
+be able to easily navigate walking and bicycling facilities and fully experience the safety benefits of
+those facilities. By ensuring that such facilities are accessible, everyone will benefit from the potential
+safety improvements (such as protected intersections and quick-build curb bulb outs), and deployment
+of these facilities will be hastened by having the best accessible design practices.
+Relevant Operating Administrations
+National Highway Traffic and Safety Administration (NHTSA) and Federal Highway Administration
+(FHWA)
+Priority Questions
+How can we gather and analyze additional information on pedestrian and cyclist risk to inform decision
+making on infrastructure and other safety interventions? (NHTSA/FHWA)
+4 ittps://crashstats.nhtsa.dot.gov/
+5
+https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars
+U.S. DEPARTMENT OF TRANSPORTATION
+|
+LEARNING AGENDA
+7
+What road configurations are associated with the highest risk of pedestrian and cyclist crashes?
+(FHWA)
+What are the equity considerations in reducing pedestrian and cyclist crashes? (NHTSA)
+How can FHWA address disparities in pedestrian crashes through infrastructure solutions?
+(FHWA)
+Evidence Building Activities
+Pedestrian and Cyclist Risk Rates: NHTSA will continue foundational fact-finding to
+understand how road user behavior could be influenced to limit risks to bicyclists and
+pedestrians. NHTSA collects and analyzes data related to who is at risk, where risks are
+highest, and what interventions are most likely to mitigate those risks. NHTSA is also
+conducting foundational fact-finding work to explore potential methodologies to collect robust
+pedestrian exposure data. These contribute to the Department's work to provide a safe
+transportation system.
+Assessing risk requires data on the locations and volume of people walking and biking (i.e.,
+exposure data). Exposure data requires volume counts and an inventory of the walking and/or
+bicycling network. Related projects to improve exposure data collection include:
+State Agency Collaboration: In FY 2022, the Office of Planning, Environment, and
+Realty (HEP) and Office of Highway Policy Information will initiate efforts to
+encourage more State agencies to submit walking and bicycling volume data to the
+Travel Monitoring Analysis System. The Highway Performance Monitoring System
+(HPMS) is being modified to allow States and local agencies to report bike lane and
+bike network data. Initially, the bike lane and network data will be optional and will
+become mandatory with the next edition of the HPMS reporting guidance, the HPMS
+Field Manual. More information can be found here.
+International Collaborations: The HEP and HSA will continue collaborating on a
+Global Benchmarking Program knowledge exchange with Australia and New Zealand,
+examining how those countries address pedestrian safety on urban signalized arterial
+roads. Among the preliminary findings, FHWA learned that Australia provides
+National guidance to its States on model road configurations for differing contexts that
+maximize safety. More information can be found here.
+Advanced Imaging Techniques: FHWA developed a vehicle-to-pedestrian test bed on
+the Turner-Fairbank Highway Research Center campus. This test bed includes thermal
+sensors that are being studied for their capabilities to detect and collect pedestrian,
+bicycle, and scooter data.
+Road Configurations: There are multiple research projects ongoing with the goal of
+understanding how road configurations and specific countermeasures may affect pedestrian
+and cyclist safety risks.
+Complete Streets Safety Analysis. This study will identify how multiple roadway
+countermeasures or factors, as measured through Crash Modification Factors, work in
+concert to improve safety through a Complete Streets treatment. Scope is under
+development and the study is estimated to be completed in FY 2023.
+Development of Pedestrian-Intersection Countermeasure Crash Modification
+Factors: This study includes the development of Crash Modification Factors
+treatments and strategies that could be applied at intersections for the convenience
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+8
+and safety of pedestrians. Specifically, this project will assess the geometric design of
+intersection corner radii to determine and characterize the resulting crash frequency
+and severity. The study will be completed in FY 2022.
+Assessment of Aesthetically Treated Crosswalks. This study assesses the impact that
+aesthetically treated crosswalks have on road user recognition and behavior at
+crosswalks, looking specifically at rainbow crosswalks. This study will be completed in
+FY 2023.
+Effective Selection of Crosswalk Design: This study includes field research to help
+identify contexts in which high-visibility crosswalk designs may improve safety for
+pedestrians and will produce a guidebook for practitioners on crosswalk design
+policies. This study will begin in FY 2023 and conclude in FY 2024.
+Equity and Vulnerability by Gender and Race: FHWA plans to continue collaborations to build
+and disseminate evidence of best practices to address disparities in traffic fatalities and
+serious injuries in disadvantaged communities.
+Equity in Safety Working Group: This group offers an equity-in-transportation safety
+primer, fact sheets, webinar series, and peer exchanges to distribute information
+about proven countermeasures to reduce disparities in fatalities and serious injuries.
+More information on public health studies and local practices can be found here.
+Complete Streets Initiative: The HEP will continue reviewing current Statewide
+pedestrian and/or cyclist plans and develop a report on the evidence-based practices
+that advance safety and accessibility across the highway network. The HEP is also
+supporting efforts to conduct a National Complete Streets Assessment that will
+capture best practices for Complete Streets implementation including efforts to
+incorporate equity considerations and reduce pedestrian and cyclist crashes.
+Additional Evidence-Building Activities: In future updates to the Learning Agenda, NHTSA
+and FHWA will explore:
+How to leverage Infrastructure Investment and Jobs Act programs and initiatives to
+improve pedestrian and cyclist exposure data and assess risk to vulnerable road users;
+How to enhance the partnership with the Maryland Transportation Institute and
+Maryland Department of Transportation in refinement of the Vulnerable Road User
+Density Exposure Risk Dashboard;
+Enhancing research and testing on vehicles that can sense the environment around
+them and communicate that information to other vehicles, infrastructure, and
+personal mobile devices (Vehicle-to-Pedestrian Communications);
+Continuing the development of Model Inventory of Roadway Elements to fully include
+pedestrian and bicycle infrastructure that improves safety, and developing analytics
+tools that can be used by agencies to identify needs and document progress; and
+Continuing exploration into the Safety Data Initiative to integrate existing data and
+new "big data" sources on pedestrian and cyclist safety.
+Data Sources
+There are three main types of data that will be employed to answer the priority questions: traffic crash
+data, roadway data, and data on the movement of people walking and biking.
+Traffic Crash Data
+U.S. DEPARTMENT OF TRANSPORTATION | LEARNING AGENDA
+9
+This includes data on gender and race from sources such as:
+Fatality Analysis Reporting System
+Other publicly available State and local crash data
+Highway Safety Information System (includes roadway data)
+SHRP 2 Naturalistic Driving Study Data
+Roadway Data
+This includes data on road attributes from sources such as:
+Highway Performance Monitoring System
+Integrated Transportation Information Platform
+Policy Information Data Platform
+National Performance Management Research Data System
+Other publicly available State and local data
+Pedestrian and Bicycle Movement Data
+National Household Travel Survey
+American Community Survey
+Location-based data (Cuebiq, Streetlight, Maryland Transportation Institute, etc.)
+Local and regional government counts of pedestrians and bicyclists
+Traffic Monitoring and Analysis System
+NHTSA uses several data sources to understand broader risks that impact pedestrian and cyclist safety.
+In addition to the sources below, NHTSA also conducts observational studies and demonstration
+projects and collects data to answer specific research questions on pedestrian and bicyclist behavior.
+Fatality Analysis Reporting System
+Crash Investigation Sampling System
+Crash Report Sampling System
+Centers for Disease Control and Prevention Vulnerable Populations Tool
+National Emergency Medical Services Information System
+Anticipated Challenges and Mitigation Strategies
+There are many ongoing pedestrian and cyclist safety studies within, and external to the Department,
+which presents a high risk for duplication of effort. To mitigate this, a working group of experts will be
+convened to track recent and planned studies and inform the best approach to answering the priority
+questions.
+There are multiple challenges with data collection related to all priority questions. Existing data sources
+on contributing pre-crash factors are limited. Additionally, post-crash data may not provide enough
+information to understand the equity considerations the Department needs to address. Data collection
+on attitudes related to specific interventions would support answering the priority questions, but survey
+administration would require PRA clearance. To address these limitations, the Department collaborates
+and coordinates across agencies to improve existing data collection in States and localities.
+Measuring a direct link between countermeasure implementation and crash and fatality reductions is
+challenging. NHTSA will use specific qualitative and quantitative implementation, process, and
+outcome measures to assess how well countermeasures are adopted, implemented, and evaluated. To
+further analyze implementation of effective countermeasures at the State and local levels, FHWA and
+NHTSA will develop performance measures to specifically address pedestrian and bicyclist safety.
+More information on this issue and additional planned studies can be found here.
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+10
+FOCUS AREA: IMPROVING AVIATION SAFETY AND EFFICIENCY
+This focus area aligns with the Safety Strategic Goal and the Safe Systems Strategic Objective of the
+DOT's FY 2022 - 2026 Strategic Plan.
+Overview
+Weather is a contributing factor in 35% of general aviation accidents, and 75% of those mishaps
+involve fatalities, according to both the Federal Aviation Administration (FAA) and the National
+Transportation Safety Board (NTSB). Without weather information, pilots are unable to make informed
+decisions, which leads to aviation accidents and flight interruptions.
+Weather camera images from FAA and non-FAA (e.g., State DOT-owned) weather camera systems are
+used for enhanced situational awareness and the images are made available free to the aviation
+community on a public website. When combined with other available textual weather products,
+weather camera images become a powerful "go-or-no-go" aeronautical flight decision tool.
+Implementation of the FAA weather camera service across the State of Alaska resulted in an 85%
+reduction in weather-related accidents and a 69% reduction in weather-related flight interruptions.
+The NTSB and the General Aviation Joint Steering Committee made recommendations to expand the
+FAA weather camera service throughout Hawaii and the continental United States. FAA concurs with
+this recommendation and seeks to build evidence to inform decisions on prioritizing weather camera
+locations.
+Currently, 234 cameras are installed across Alaska and Hawaii. FAA plans to expand its coverage to
+include the installation of weather cameras at 330 additional locations across Alaska and the
+continental United States. There are two major investment decisions related to which locations receive
+weather cameras. An investment analysis readiness decision will be made in Q2 of FY 2022 and the
+final investment decision will be made in FY 2023 Q2. The weather camera implementation schedule
+will be determined following the final decision.
+Relevant Operating Administrations
+Federal Aviation Administration (FAA)
+Priority Questions
+Which locations would most benefit from weather camera services?
+Evidence Building Activities
+To determine the locations that will benefit from weather camera services, FAA will conduct
+foundational fact-finding to analyze accident data to identify risk areas for weather-related accidents.
+Route data will also be analyzed to determine common mountain pass routes that would benefit from
+weather camera services. Input from stakeholder groups such as pilot organizations, operators, and the
+Flight Service will be collected to validate and refine the analysis.
+Prioritization of locations will be completed by conducting a cost-benefit analysis for each potential
+location. Benefits that will be considered include reduction in accident rates and efficiency savings
+resulting from a reduction in flight interruptions. Additional details on the methodology are under
+development and will be included in future iterations of the Learning Agenda. FAA will complete these
+analyses prior to the investment analysis readiness decision in FY 2022 and conduct additional analysis
+as needed to inform the final decision in FY 2023.
+Data Sources
+U.S. DEPARTMENT OF TRANSPORTATION
+|
+LEARNING AGENDA
+11
+FAA will use aeronautical data such as airport and weather station locations, NTSB accident data,
+terrain, and route information to determine the optimal locations for weather camera services.
+Stakeholders such as pilots and operators, Flight Service Specialists, and the National Weather Service
+will also be polled to assess and prioritize locations.
+Anticipated Challenges and Mitigation Strategies
+FAA has limited resources to implement and maintain camera services. Location selection will require
+input from a diverse group of stakeholders and will require analysis of a large and diverse set of data
+sources. A Stakeholder Engagement Plan will be created to expand the State DOT partnership program
+to encourage State DOTs to implement and maintain camera systems. FAA will provide the national
+network and website to distribute the camera images to the aviation community. Additional challenges
+specific to the methodology may be identified once it is fully developed.
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+12
+CLIMATE PRIORITY QUESTIONS
+FOCUS AREA: REDUCING TRANSPORTATION GREENHOUSE GAS EMISSIONS
+This focus area aligns with the Climate and Sustainability Strategic Goal and the Path to Economy-Wide
+Net-Zero Emissions by 2050 Strategic Objective of the DOT's FY 2022 - 2026 Strategic Plan.
+Overview
+Transportation is the largest source of greenhouse gas (GHG) emissions in the United States,
+accounting for 33% of total emissions in CY 2019. The Biden-Harris administration has announced an
+economy-wide goal of net-zero U.S. GHG emissions by CY 2050, with 50 to 52% reductions by CY
+2030 (compared to CY 2005 levels). To meet the President's goal and tackle the climate crisis, a
+comprehensive decarbonization strategy for the entire transportation sector across all modes is needed,
+including both DOT-specific authorities and other stakeholders in the transportation sector.
+The DOT Climate Change Center will coordinate with Federal partners to develop a whole-of-
+government approach to reducing transportation-related emissions. All DOT Operating
+Administrations will produce modal-specific action plans, which will identify clear, feasible actions that
+each Operating Administration will take to reduce emissions and reach key domestic milestones in the
+short (CY 2026), medium (CY 2040), and long term (CY 2050). The DOT Climate Change Center
+seeks to use evidence to develop these modal strategies and will continually build evidence to support
+plan updates.
+Relevant Operating Administrations
+All Operating Administrations
+Priority Questions
+Which DOT strategies are projected to be most effective in reducing transportation GHG
+emissions?
+Additional questions to be included in an FY 2023 Learning Agenda update, following
+development of the Department's decarbonization strategy.
+Evidence Building Activities
+In CY 2022, all Operating Administrations will submit proposed strategies to be included in their modal
+action plans. All submissions require evidence demonstrating forecasted impact through 2050,
+accounting for future mobility demand. Through partnerships with the Volpe Center and other Federal
+partners, Operating Administrations will have the opportunity to work with experts to improve the rigor
+of their models to establish accurate baselines and projected impact.
+Additionally, all modal action plans should include analysis or studies to demonstrate the projected
+impact of their strategies. The DOT Climate Change Center will review evidence-building priorities
+submitted by Operating Administrations to assess the effectiveness of strategic actions for
+decarbonization. This review will result in an update to the Department's Learning Agenda in early FY
+2023.
+In support of all activities described above, the Department will strengthen its evidence base by
+monitoring recent and ongoing transportation GHG emissions research conducted by DOT partners,
+including Federal partners, the National Bureau of Economics Research, the Transportation Research
+Board, colleges and universities, and the Volpe Center.
+Data Sources
+U.S. DEPARTMENT OF TRANSPORTATION
+|
+LEARNING AGENDA
+13
+To support emissions modeling, Operating Administrations will utilize data sources that include but are
+not limited to: DOT travel demand forecasts; GHG emissions data from the Environmental Protection
+Agency's report on Inventory of U.S. Greenhouse Gas and Emissions and Sinks; U.S. Department of
+Energy studies on reducing emissions from passenger cars and light and heavy trucks; analytical data
+from modeling results associated with the DOT strategy report and from Federal partners; and data
+from other transportation analyses conducted by DOT research partners.
+Additional data sources will be selected for specific studies and analyses in FY 2023.
+Anticipated Challenges and Mitigation Strategies
+Potential challenges for emissions modeling include:
+Resource constraints within Operating Administrations and Federal partners
+Data gaps at the modal level of detail
+Modeling capability limitations
+Projecting future mobility trends and potentially disruptive technologies
+To mitigate these challenges, the DOT Climate Change Center will coordinate with climate and data
+experts within DOT, as well as with Federal and university partners, to ensure that the best possible
+data and real-world inputs inform modeling and analysis.
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+14
+EQUITY PRIORITY QUESTIONS
+FOCUS AREA: EQUITY IN THE DOT WORKFORCE
+This focus area aligns with the Equity and Organizational Excellence Strategic Goal and the Workforce
+Development Strategic Objective of the DOT's FY 2022 - 2026 Strategic Plan.
+Overview
+To advance the DOT Equity goal in the FY 2022 - 2026 Strategic Plan, the Department aims for the
+share of DOT personnel by sex, disability, and ethnicity/race to mirror representation in the U.S. labor
+force and for earnings to be equal for all persons with the same skill sets regardless of sex, disability, or
+ethnicity/race. This is consistent with Executive Order No. 14035 on Diversity, Equity, Inclusion, and
+Accessibility in the Federal Workforce.
+The Department maintains detailed data on prospective and current employees as part of its core
+operations. As part of the equity assessments performed pursuant to Executive Order No. 13985 on
+Advancing Racial Equity and Support for Underserved Communities Through the Federal
+Government, the Department used this data to create a baseline summary of demographic data for
+applicants and employees, as well as earnings data for employees. The assessment suggested
+disproportionate diverse representation of differing magnitudes across Operating Administrations and
+occupations. The Department could better understand the diversity gaps through additional analysis of
+data collected from the Monster application platform.
+Relevant Operating Administrations
+All Operating Administrations
+Priority Questions
+What are the demographics of applicant pools for all DOT occupations?
+Evidence Type
+In answering this question, DOT plans to develop and implement strategies to increase diversity, with
+a focus on gender diversity, of the applicant pool for DOT's mission-critical occupations with
+underrepresentation of women, people of color, and people with disabilities. To support the
+development of these strategies, DOT is partnering with the Volpe Center to complete an analysis of
+hiring data.
+The Volpe Center will develop statistical models to assess the factors that significantly affect
+differences in hiring for the DOT workforce, and to identify the most influential factors affecting the
+eligible applicant pool. Statistical modeling can control for confounding factors (e.g., race and sex, job
+series, grade, and Operating Administration) to identify any primary factors that are associated with
+workforce differences. Volpe will also complete an exploratory analysis to better understand the
+characteristics of persons with disabilities applying to the DOT, as well as current DOT employees.
+The Volpe Center's analysis is estimated to be completed in summer 2022. The results will inform
+additional priority questions for future iterations of the Learning Agenda. These evidence-building
+activities will support future analyses around increasing the diversity of DOT applicant pools, including
+identifying evidence-based strategies for improving diversity, determining the return on investment of
+recruitment activities for diverse applicants, and assessing the extent to which current assessment
+tools unintentionally facilitate gender and diversity gaps in hiring.
+Data Sources
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+15
+Data sources that will be used to answer this question include:
+Self-reported applicant flow data obtained from the DOT staffing system segmented by
+occupation
+Hiring data from FAA, specifically for the Air Traffic Control position
+Anticipated Challenges and Mitigation Strategies
+Voluntary reporting of demographic data through the staffing system may result in incomplete data.
+Additionally, there may be discrepancies between the data pulled from these sources and the data
+provided by FAA.
+The Volpe Center will review the data for any potential gaps and compile data into a standardized
+format for statistical analysis. Data compilation will include identifying General Schedule classification
+equivalents for FAA positions.
+U.S. DEPARTMENT OF TRANSPORTATION |
+LEARNING AGENDA
+16

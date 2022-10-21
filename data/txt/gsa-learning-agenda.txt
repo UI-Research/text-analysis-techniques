@@ -1,0 +1,439 @@
+GSA
+U.S. General Services Administration
+U.S. General Services Administration
+FY 2022-2026 Learning Agenda
+March 28, 2022
+Table of Contents
+Our Plan
+3
+Learning Questions
+4
+Real Estate Solutions
+5
+Case for Learning
+5
+Learning Activities and Potential Approaches
+6
+Anticipated Challenges and Solutions
+7
+Utilization
+7
+Acquisition
+8
+Case for Learning
+8
+Learning Activities and Potential Approaches
+9
+Anticipated Challenges and Solutions
+10
+Utilization
+10
+Digital Government
+11
+Case for Learning
+11
+Learning Activities and Potential Approaches
+12
+Anticipated Challenges and Solutions
+12
+Utilization
+12
+Government Operations
+13
+Case for Learning
+13
+Learning Activities and Potential Approaches
+14
+Anticipated Challenges and Solutions
+14
+Utilization
+15
+Next Steps: GSA FY 2022-2026 Learning Agenda
+16
+2
+Our Plan
+The U.S. General Services Administration (GSA) is committed to ensuring a strong
+culture of evaluation, evidence-building, and learning. GSA's Learning Agenda sets a
+series of agencywide learning targets in alignment with GSA's strategic objectives and in
+collaboration with varied offices across GSA. Implementation of the Learning Agenda
+offers an opportunity to improve how GSA builds and uses evidence to better align
+performance, budget, strategic planning, policymaking, data, and evidence-building
+activities.
+In developing the Learning Agenda, GSA engaged internal and external stakeholders.
+Internally this included key stakeholders from across the agency, as they advised and
+helped develop questions for inclusion in the Learning Agenda. Externally this included
+insights shared by the Office of Management and Budget. These collaborative activities
+resulted in a final recommendation to the Administrator to ensure alignment with GSA's
+overarching priorities and strategy. GSA's Evaluation Officer worked closely with varied
+stakeholders with expertise in the program areas to ensure that the Learning Agenda is
+relevant, realistic, and meaningful.
+To develop a learning agenda grounded in the agency's strategic direction, GSA has
+identified key learning priorities that align to the strategic goals and objectives. They
+include a range of strategic and operational questions, and represent an evolution of
+GSA's prior learning priorities. GSA also received increased funding enabling us to build
+capacity by hiring additional dedicated evaluation specialists to progress our agenda.
+GSA's Learning Agenda is organized around GSA's strategic priorities: Real Estate
+Solutions, Acquisition, Digital Government, and Government Operations. GSA has
+prioritized four learning goals, with the intention of building a robust evidence base around
+these topic areas. GSA's Evaluation Officer is working closely with leadership from GSA
+program areas to ensure that the Learning Agenda is relevant, realistic, and meaningful,
+and directly in service of GSA's Strategic Plan and priorities. Over the coming months,
+GSA will gather external feedback on the updated agenda, including the public, state and
+local governments, the private sector and other expert input.
+GSA understands that there will be ongoing changes to investments and programs
+resulting from new legislation. As such, we view this document as living and subject to
+change. Current learning questions purposefully leave room to accommodate shifting
+priorities, and GSA expects updates to the Learning Agenda in response to changes to
+existing programs or new initiatives. Our intention is to maintain a continuous feedback
+cycle with leadership and key stakeholders to ensure that our Learning Agenda remains
+focused but flexible. GSA will include and prioritize updates to this document as capacity
+allows.
+3
+Learning Questions
+The Learning Agenda includes a range of strategic and operational questions, and short-
+and long-term learning targets. For each learning question, we have identified possible
+topics for further evidence-building currently under development and consideration.
+These projects may be supported by policy analysis, foundational fact-finding, program
+evaluation and/or performance measurement activities between fiscal years (FY) 2022
+and 2026. Further details on priority evaluation activities will be detailed in GSA's Annual
+Evaluation Plans. While the Annual Evaluation Plan will support progress on the Learning
+Agenda, these efforts will also have additional and independent workstreams and thus
+not fully overlap.
+4
+Real Estate Solutions
+Learning
+Question
+What technologies and solutions does the Federal workforce need
+to additionally improve effectiveness in a more responsive remote
+work setting?
+Learning Type
+Foundational fact-finding; operational; short term
+Program evaluation; strategic; short term and long term
+Lead Team
+Public Buildings Service
+Key Strategic
+Develop and offer integrated space and virtual workspace options
+Objective
+and services that maximize flexibility, particularly in anticipation of
+increased telework.
+Case for Learning
+The Public Buildings Service (PBS) aims to provide financially and environmentally
+sustainable, accessible, optimized, and responsive workspace solutions that enable a
+productive Federal workforce. This means developing and deploying innovative solutions
+that give Federal employees greater workspace flexibilities. GSA manages and maintains
+one of the nation's largest and most diverse real estate portfolios that supports more than
+50 agencies, and houses nearly 1 million Federal employees. PBS houses nearly 50% of
+the total Federal civilian workforce, which makes it the landholding agency that houses
+the most Federal civilians.
+This learning question helps PBS build the evidence needed to inform its strategic
+decisions about:
+Optimizing GSA's Real Estate Portfolio
+Reducing vacant inventory space, and
+Solution sets for customers that integrate real estate, human resource, and
+technology solutions
+This learning will generate evidence that enables actionable approaches to meeting
+customers' evolving needs, while remaining focused on right-sizing GSA's Federal real
+estate portfolio to be financially and environmentally sustainable.
+In addition, the impacts that COVID-19 will have on the demand for real estate portfolios
+are still unknown. It is vital that PBS understands the long- and short-term effects of the
+COVID-19 pandemic and how these effects will shape the demand of physical
+5
+workspaces, and what new workspace solutions PBS will need to offer that enable
+agencies to use a mix of on-site and remote work postures to perform their missions. PBS
+will work to balance these evolving needs with long-term real estate decisions, while also
+identifying where there are knowledge gaps and limitations that need to be resolved or
+filled in over time.
+Learning Activities and Potential Approaches
+PBS will answer this learning question through a variety of evidence-building activities
+over the span of the Learning Agenda period. Priority initiatives under consideration in
+service of this Learning Goal include:
+How will the return to facilities impact employee engagement, satisfaction, health,
+and productivity?
+What features of new, adaptive workspace solutions satisfy customer needs and
+real estate demands in the short- and medium-term?
+What programs and workspace solutions improve collaboration and engagement
+for the Federal workforce?
+What processes or procedures should be streamlined and scaled nationally, to
+achieve speed of delivery and a consistently high-customer real estate
+experience?
+What is the demand for PBS to provide other services and how will that demand
+influence holding and reinvestment strategies for real property so that assets
+retained are viable and sustainable?
+How are space requirements changing in terms of needed space and use of space
+in a more flexible work environment?
+What will be the impact on local communities of a dramatic and relatively rapid shift
+in the federal government's real estate footprint, and the constellation of partners
+reliant on the pre-pandemic patterns of the federal workforce?
+What strategies and technologies are most effective to efficiently operate and
+maintain Federal facilities and reduce adverse climate impacts?
+In the immediate term, PBS will integrate evidence-building initiatives and evaluation into
+its Workplace 2030 initiative and prioritize learning and evaluation as part of GSA's
+reentry plans. GSA will also explore agency collaborations to generate short-term,
+actionable evidence on varied reentry approaches, including possible collaboration with
+the Office of Personnel Management and the Office of Management and Budget, to
+directly inform PBS offerings and planning. GSA will also explore other potential
+collaborations on shared priorities with relevant agencies where there may be overlap in
+learning priorities.
+6
+Anticipated Challenges and Solutions
+Addressing the learning questions in a meaningful way will require continued data
+integration and refinement, and operational flexibility to incorporate testing and evaluation
+into implementation strategies. PBS will continue identifying data gaps, including data
+sources to which they do not yet have access, and where possible, develop and
+implement detailed plans for gaining access to and integrating the data to enhance the
+overall data architecture.
+As with all learning priorities, GSA will prioritize piloting and learning around GSA's
+reentry plan and workspace solutions needs, as part of a broader portfolio of
+governmentwide collaborations. To build rigorous evidence around GSA's broader
+offerings, agency partners will need to be willing to participate in embedded evaluation
+efforts. GSA has a strong track record of cross-agency collaboration and data sharing in
+service of rigorous evidence and learning, which can be leveraged in service of this
+learning priority.
+Utilization
+Evidence will inform PBS's approach and decisions on workspace solution offerings in
+the short and long terms. GSA will use evidence from the Workplace 2030 initiative to
+inform new services for Federal customers that support acquisition of furniture and IT
+equipment for teleworkers.
+7
+Acquisition
+Question
+What strategies are most effective at increasing participation in
+procurement and contracting opportunities for underserved
+communities and small businesses?
+Learning Type
+Foundational Fact-Finding; strategic and operational; short
+term
+Policy Analysis; operational; short term
+Program evaluation; strategic; long-term
+Lead Teams
+Federal Acquisition Service
+Office of Government-wide Policy
+Office of Small and Disadvantaged Business Utilization
+Key Strategic
+Aid U.S. economic growth by maximizing opportunities and
+Objective
+minimizing barriers for small and/or underserved businesses
+seeking to do business with GSA.
+Case for Learning
+The Federal Acquisition Service's (FAS) goal is to provide a modern, accessible, and
+streamlined acquisition system including solutions to support Federal agency customers
+and a robust marketplace connecting buyers to the suppliers and businesses that meet
+their mission needs. The Office of Small and Disadvantaged Business Utilization's
+(OSDBU) goal is to ensure small businesses have the maximum practicable opportunity
+to provide goods and services to the Federal Government. OGP helps agency partners
+prepare for the future of mission delivery by leveraging smart policy, analytical data, and
+dynamic program implementation across Government. Together, GSA seeks to refine its
+acquisition process to help small businesses better identify opportunities to engage with
+the Federal Government. GSA is committed to building the industrial base, breaking down
+barriers, and increasing Federal opportunities for small, disadvantaged, and
+socioeconomic businesses by instituting a multifaceted approach. ($58.7 billion¹ was
+earned from a percentage of FAS contract spend and applied to FAS procurement
+programs in FY 2020.) Examining equity in the programs has the potential to remove
+barriers and increase contract dollars awarded to underserved communities.
+This learning question helps OSDBU and FAS build the evidence needed to inform
+strategic decisions about:
+Where and when to make changes and investments, and
+1 Data obtained through GSA's Office of Enterprise Strategy Management for FAS's FSS, GWAC. and
+International Data Corporation (IDC) programs for FY 2020.
+8
+How to improve engagement with small businesses throughout the acquisition
+lifecycle.
+While GSA has made progress on meeting small business-related performance targets,
+this process will help GSA identify where to make future investments and how to further
+improve its engagements with small businesses.
+This learning will inform the shape and structure of small business acquisition
+programming, such as inreach and outreach engagements and e-tools for sharing
+information. It will also build actionable evidence around the acquisition process for small
+businesses and the acquisition workforce, informing programming to support small
+businesses and reduce existing hurdles.
+Learning Activities and Potential Approaches
+OSDBU and FAS will answer this learning question through a variety of evidence-building
+activities over the span of the Learning Agenda period. This section contains high-level
+examples of multi-year learning activities. Initial priorities will focus on potential disparities
+or success barriers for underserved communities in Federal contracting and identify areas
+for further evidence-building activities and evaluation.
+Illustrative activities and questions to further GSA's learning include:
+How do small and disadvantaged businesses (SDBs) fare in access to acquisition
+opportunities and outcomes relative to similarly situated peers across communities
+and in the broader marketplace of small businesses?
+What opportunities exist in GSA acquisition policy to streamline processes and
+eliminate potential barriers to entry and barriers to winning contracts for SDBs?
+What insights can the SDB community offer on their experiences, challenges, and
+successes to eliminate barriers and improve the SDB experience?
+What barriers to procurement and contracting opportunities stem from legislation
+or are associated with the FAR? What evidence-based changes can be
+implemented and what effect do they have to mitigate unintended consequences?
+What acquisition program or policy changes can address and reduce
+administrative barriers for GSA customers, especially those that have a
+disproportionate impact on underserved communities?
+What new tools and support does the acquisition workforce require to expand their
+outreach efforts?
+GSA is exploring collaborations with the Small Business Administration's Evaluation
+Office to support learning of mutual interest to both agencies.
+9
+Anticipated Challenges and Solutions
+Addressing the learning questions in a meaningful way will require continued data
+collection, integration, and refinement. FAS, in partnership with OSDBU, will identify data
+gaps, including data sources to which they do not yet have access, and develop a detailed
+plan for gaining access to and integrating the data to enhance the overall data structure
+in the first phase. FAS will build on its existing data strategy to improve the quality and
+utility of data that is available for use in decision-making This could include synthesizing
+and sharing data across the organization and from multiple sources, so that the data are
+accessible, reliable, and useful. In addition, it could highlight additional needs associated
+with current data and how to resolve them.
+Utilization
+Evidence will inform FAS's approach and decisions on offerings, operations, and policies
+in the short and long terms.
+10
+Digital Government
+Question
+How can GSA Technology solutions support effective service
+delivery to the public?
+Learning Type
+Foundational fact-finding; operational; short term
+Program evaluation and policy analysis; strategic; short and
+long term
+Lead Teams
+Technology Transformation Services
+Office of Customer Experience
+Office of Government-wide Policy
+Office of GSA IT
+Key Strategic
+Implement inclusive, accessible, and equitable design practices
+Objective
+that improve customer experience with technology and digital
+platforms.
+Case for Learning
+TTS (Technology Transformation Services) strives for a digital government that delivers
+for the public through trusted, accessible, and user-centered technologies. TTS helps
+agencies make their services more accessible, efficient, and effective with modern
+applications, platforms, processes, personnel, and software solutions and to empower
+the public with better access to Government information and resources. With a focus on
+unifying, improving, and standardizing the experience the public has while interacting with
+the Federal Government, TTS has a number of digital platforms it has developed.
+Evidence on how to best leverage these solutions, improve and expand the solutions,
+and meet customer and public needs will be in direct service to GSA's Learning Agenda.
+For example, TTS leads login.gov, USAGOV and US Web Design Systems. Login.gov
+offers users simple, secure access to online Government services. Users will be able to
+sign in with a single set of credentials for all participating Government programs. USAGov
+connects people with Government information more than 700 million times a year through
+its websites (USA.gov and USAGov en español), social media, publications, email, and
+phone calls to the USAGov Contact Center. And the U.S. Web Design System (USWDS)
+makes it easier to build accessible, mobile-friendly Federal Government websites for the
+American public. Given the reach and scale of TTS offerings, further evidence on how to
+best leverage these services to better serve the public will be key in assisting GSA in
+delivering on its mission.
+11
+Learning Activities and Potential Approaches
+TTS's wide range of offerings and services offers enormous potential for learning. Initial
+priorities to explore in service of GSA's Learning Agenda include:
+Does digital identity proofing create or remove barriers in accessing public
+services? How can login gov ensure equitable participation and better serve
+underserved communities?
+How can US web design systems improve accessibility? For whom?
+Does USA.gov improve information access to underserved communities?
+What technology improves the trust, experience, and engagement with
+digital services for tribal communities?
+How can vote.gov improve access to voter information and registrations for
+underserved communities?
+GSA evidence-building efforts will closely coordinate with and operate in support of GSA's
+ongoing equity assessments. Understanding more about the potential benefits of
+Login.gov to serve as a front door for digital services, as well as equity and accessibility
+considerations are critical to providing simple, secure login for everyone.
+Anticipated Challenges and Solutions
+Measurement of reach and impact on the public, resulting from TTS services and
+offerings, will continue to pose a challenge when developing evidence moving forward.
+Data on user outcomes on a broad scale are not consistently collected currently, and will
+require significant effort and resources to capture reliably. Further complicating these
+efforts, such user outcomes are often one or more degrees separated from the user's
+contact with TTS. As GSA explores promising modifications to programs and platforms
+with potential to enhance impact, statutory requirements may pose some limitations
+inhibiting the range of possible modifications. Further, embedding evaluation into TTS
+offerings and outreach may require changes in terms of client engagement and
+operations, adding additional complexity and requiring additional capacity.
+Utilization
+Evidence will inform TTS's approach and decisions on solutions and offerings in the short
+and long terms.
+12
+Government Operations
+Question
+What GSA programs and policies are effective at improving climate
+adaptation, resilience, and mitigation?
+Learning Type
+Program evaluation and policy analysis; operational and strategic;
+short and long term
+Lead Team
+Office of Government-wide Policy
+Key Strategic
+Provide centralized services and shared solutions that promote
+Objective
+cost savings and environmental sustainability, enabling agencies
+to focus on mission delivery.
+Case for Learning
+The Office of Government-wide Policy's (OGP) mission is to provide innovative solutions
+for the future of Government. OGP helps agency partners prepare for the future of mission
+delivery by leveraging smart policy, analytical data, and dynamic program implementation
+across Government. OGP aims to be the trusted partner leading to better Government
+with improved citizen experiences and savings. One key aspect of this is prioritizing an
+understanding of climate change risks and opportunities.
+This effort supports OGP's overall mission by modeling how we build and use evidence
+to improve internal operations and inform policy guidance across the Government.
+Progress will require continuing to improve the use of data for decision-making and
+accountability for the Federal Government, including for policy-making, innovation,
+oversight, and learning. OGP will use the best available science-based climate data and
+develop and use new data sources and tools to better inform decision-making, including
+through risk-informed processes to identify its vulnerability to climate disruptions. High-
+quality data will allow us to run rapid, low-cost tests and identify effective policy changes,
+and we will identify, prioritize, and make progress on data gaps.
+In formulating policy, OGP will work to advance equitable distribution of environmental
+risks and benefits and to avoid actions that may lead to increased risk of adverse climate-
+related outcomes, increased vulnerability to climate change, or diminished welfare, now
+or in the future.
+13
+Learning Activities and Potential Approaches
+OGP's diverse portfolio offers enormous potential for learning. Priority initiatives under
+consideration in service of this Learning Goal include:
+What programs or policies are effective at promoting greening of the fleet, including
+use of electric or other zero emission vehicles?
+What changes in federal travel policies are effective at improving climate
+adaptation, resilience and mitigation?
+Where are there opportunities to use the acquisition system to incentivize
+contractors to mitigate climate impact and plan for climate related risks?
+Which technologies, existing or emerging, enable GSA to minimize adverse
+impacts from climate and maximize greenhouse gas emissions mitigation?
+What strategies and technologies are most effective to efficiently operate and
+maintain federal facilities and reduce adverse climate impacts from operations or
+from severe weather events?
+OGP anticipates making progress on evidence gaps through program evaluation, policy
+analysis, and data investments. This learning work has both strong data systems to
+capitalize on, as well as data systems which can benefit from focused efforts and
+investment. The existing data can be used as a foundation for rapid cycle testing and also
+long-term evaluations in the years ahead. This will allow us to make short-term progress,
+generating actionable evidence in the near-term, which will inform longer-term strategic
+learning opportunities. A focus on this area will also allow us to identify and prioritize the
+data gaps, and invest resources to ensure GSA data systems support continuous
+improvement and innovation in its services and policy areas. GSA will explore additional
+learning opportunities across OGP portfolios.
+Anticipated Challenges and Solutions
+GSA will identify partner agencies and initiate data sharing activities to expand the
+available data. Fleet data, in particular, will require further investment and cooperation
+from partner activities, both within and outside of GSA, to serve as reliable indicators and
+outcomes for future evidence building activities.
+In addition, implementing changes to federally owned buildings to address climate threats
+depends on the availability of funding to perform repairs and modernizations.
+14
+Utilization
+Evidence will inform OGP's approach and decisions on governmentwide policies in the
+short and long term. Further details on evidence utilization plans forthcoming.
+15
+Next Steps: GSA FY 2022-2026 Learning Agenda
+GSA's Learning Agenda and Annual Evaluation plans will be adapted to account for any
+major changes to Administration or Agency strategic priorities. GSA will also refine and
+specify utilization targets, to ensure evidence generated has a clear and concrete
+application and use case detailed.
+GSA is planning to solicit additional external stakeholder feedback which, as
+implemented, will also inform Learning Agenda priorities and implementation. Upon
+publishing the Learning Agenda, GSA will develop a plan to gather external feedback and
+update the Learning Agenda as needed. Stakeholders engaged will include the public,
+State and local governments, and representatives of non-governmental researchers.
+16

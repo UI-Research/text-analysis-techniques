@@ -1,0 +1,1770 @@
+HUD Capacity
+Assessment for
+Research, Evaluation,
+Statistics, and
+Analysis
+OF
+Sin
+S.
+*
+AND
+IDDR
+U.S. Department of Housing and Urban Development I Office of Policy Development and Research
+HUD Capacity Assessment for Research,
+Evaluation, Statistics, and Analysis
+U.S. Department of Housing and Urban Development
+Office of Policy Development and Research
+March 21, 2022
+HUD Capacity Assessment
+Contents
+1. Background
+1
+2.
+Overview of HUD's Evidence-Building Capacity
+2
+Activities and Operations Being Assessed
+2
+How Evidence Building Supports HUD Offices
+3
+Balancing Competing Objectives for Evidence Building
+3
+Evidence-Building Personnel and Practices
+4
+Developing Human Capital for Evidence Building
+5
+3. Criteria for Evidence-Building Capacity Assessment
+5
+Coverage
+6
+Quality
+7
+Methods
+10
+Effectiveness
+11
+Independence
+12
+4. Perceptions of HUD Managers about Evidence-Building Capacity
+13
+HUD Senior Manager Survey
+13
+GAO Federal Managers Survey
+13
+Effective Data for Program Management
+14
+Effective Evaluation for Policy Development
+19
+Staff Skills and Tools for Evidence Building
+23
+5. Conclusion
+25
+6.
+Appendix A. OMB Circular A-11 (2021) Requirements for a Capacity Assessment
+27
+ii
+HUD Capacity Assessment
+1. Background
+The U.S. Department of Housing and Urban Development (HUD) administers a diverse array of programs
+including, among others, low-rent public housing, assisted multifamily housing, and tenant-based rental
+assistance; Federal Housing Administration (FHA) mortgage insurance; the Ginnie Mae guaranty on
+mortgage-backed securities; lead hazard control and healthy homes grants; investigation, compliance,
+and enforcement of fair housing and civil rights; and community development and housing block grants,
+homeless assistance grants, and disaster recovery support. Since HUD was established from its
+predecessor agencies in 1965, research, statistics, and using other evidence have been central in shaping
+policy.
+The Foundations for Evidence-Based Policymaking Act¹ (Evidence Act) signed into law in 2019 created
+several new mandates for federal agencies to undertake evidence building in a more systematic way.
+New officials must be appointed to oversee program evaluation, data governance, and statistical
+activities. Stakeholders must be consulted and multi-year learning agendas developed to identify
+research questions that need to be answered to inform policy. The Office of Management and Budget
+has defined a learning agenda as "a systematic plan for identifying and addressing policy questions
+relevant to the programs, policies, and regulations of the [organization]." Annual evaluation plans must
+be developed to help implement learning agendas. "Capacity assessments for research, evaluation,
+statistics, and other analysis"-suc as the assessment summarized in this document-must be
+conducted to gauge internal capabilities and needs to develop and use evidence effectively.
+In implementing the Evidence Act, HUD has had the advantage of an existing internal evaluation office,
+the Office of Policy Development and Research (PD&R), that had previously coordinated stakeholder
+consultation and development of two research agendas ("Research Roadmaps") 3,4 that covered
+overlapping five-year periods. HUD was initiating development of a third Research Roadmap when the
+Evidence Act was passed and integrated some of its newly required elements to develop the Learning
+Agenda.
+The Evidence Act's capacity assessment mandate, however, posed a new challenge for HUD and for
+PD&R. It broadened HUD's conceptual frame for evidence-building capacity beyond PD&R's regular
+research, evaluation, and statistical business. Under the Evidence Act, evidence-building capacity must
+include research, data collection, performance assessment, and analysis activities and needs throughout
+the Department explicitly in an enterprise-wide perspective. Government-wide directives and guidance
+on the content of the Capacity Assessment are clarified in OMB's Circular A-11. This Capacity
+1
+Public Law 115-435; ;https://www.congress.gov/115/plaws/publ435/PLAW-115publ435.pdf.
+2
+OMB. Circular No. A-11 (2021), section 290.7, What is a Learning Agenda (i.e., "Evidence-Building Plan")?
+https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf.
+3 HUD. 2013. HUD Research Roadmap: FY 2014-2018. https://www.huduser.org/portal/about/pdr roadmap.html,
+4
+HUD. 2017. Research Roadmap: 2017 Update. https://www.huduser.gov/portal/pdf/ResearchRoadmap-2017Update.pdf
+1
+HUD Capacity Assessment
+Assessment is integral to HUD's FY 2022-2026 Strategic Plan5 and will be updated periodically in
+subsequent strategic plans.
+2. Overview of HUD's Evidence-Building Capacity
+As required by the Office of Management and Budget, 6 this capacity assessment covers four categories
+of evidence-statistics, evaluation, research, and analysis-and assesses them in terms of five criteria-
+coverage, quality, methods, effectiveness, and independence. Discussion of the four categories of
+evidence is woven throughout this document. The balance of Section 2 addresses five required
+components of a capacity assessment. Section 3 provides a narrative assessment using the five criteria.
+Section 4 supplements the narrative assessment with data from a new survey of HUD managers about
+their perceptions of the current state of evidence building pertaining to their programs. Section 5
+provides a concluding summary.
+Activities and Operations Being Assessed
+The scope of this capacity assessment encompasses major active HUD program areas as well as key
+support functions that encompass evidence building related to program areas as a central function. The
+universe for the Government Accountability Office survey reported in Section 4 includes managers
+across the Department. The universe for HUD's survey of senior managers reported in the same section
+is
+slightly narrower. It includes senior managers with responsibilities for managing one or more major
+programs and selected managers involved in evidence building through evaluation, performance
+management, and data governance functions (N = 17). Program offices who participated in the survey
+include the following:
+Office of Public and Indian Housing-public housing and assisted housing programs
+Office of Housing-FHA mortgage insurance, assisted multifamily housing, housing counseling,
+and manufactured housing
+Office of Lead Hazard Control and Healthy Homes (OLHCHH)-lead hazard mitigation and
+healthy homes grants
+Office of Fair Housing and Equal Opportunity-fair housing and civil rights investigation,
+compliance, and enforcement
+Office of Community Planning and Development-community development block grants, HOME
+investment partnership grants, homeless assistance grants, disaster recovery grants, and other.
+Support offices included in the assessment include the following:
+Office of Field Policy and Management
+Office of Policy Development and Research
+Office of the Chief Financial Officer
+5
+HUD. HUD Draft FY22-26 Strategic Plan Focus Areas. https://www.hud.gov/HUD-FY22-26-Strategic-Plan-Focus-Areas
+6
+Circular A-11 (2021), https://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf. Section 290.13. See Part 6 in
+Appendix A of this document.
+2
+HUD Capacity Assessment
+Office of the Chief Information Officer
+Support functions not included in the universe for the HUD survey effort include legal counsel,
+administration, human resources, information technology, and public affairs.
+How Evidence Building Supports HUD Offices
+The Office of Policy Development and Research is HUD's central, independent office for evaluation,
+economic and statistical analysis, policy development support, and coordination of data governance.
+HUD's Evaluation Officer, Chief Data Officer, and Statistical Official positions are all located in PD&R. The
+development of a HUD Research Roadmap that informs the Learning Agenda has been initiated at
+intervals of roughly three years during the past decade since PD&R began development of the first
+Research Roadmap in FY 2012. It and subsequent Roadmaps take the needs of internal stakeholders
+from across the Department as a central input in prioritizing evidence-building work.
+Additional centers for evaluation and analytics are found across the Department. The Office of Lead
+Hazard Control and Healthy Homes has authorization to conduct evaluations of lead hazard mitigation
+protocols and study healthy homes technical issues. Offices of evaluation, policy development, and risk
+assessment found within various program offices also contribute to evidence building. Notable offices
+with such functions include the Office of Risk Management office in FHA; the Real Estate Assessment
+Center and the Office of Policy, Programs, and Legislative Initiatives in the Office of Public and Indian
+Housing; and the Office of Systemic Investigations within the Office of Fair Housing and Equal
+Opportunity. Their input on evidence-building needs is central to development of HUD's Learning
+Agenda, and they will benefit from increased coordination of evidence building under the authority of
+the Evidence Act and a new department-wide Program Evaluation Policy Statement.
+Balancing Competing Objectives for Evidence Building
+OMB guidance recognizes that federal agencies call upon evidence-building efforts and activities to
+address a range of needs in addition to informing policymakers: organizational learning-"the - process of
+improving actions through better knowledge and understanding";7 ongoing management of programs,
+performance, and strategic initiatives; interagency and private sector coordination; internal and external
+oversight; and accountability.
+To substantial extent, HUD evidence-building efforts successfully balance these competing objectives.
+This balance is reflected in diverse activities:
+HUD has established processes of executive reviews of strategic goals' and Agency Priority
+Goals' progress informed by performance dashboards. Information derived from evidence
+building is integrated into Annual Performance Plans.
+7 It has been noted that, "Scholars have proposed a variety of definitions of organizational learning." David A. Garvin. 1993.
+Building a Learning Organization. Harvard Business Review. July-August 1993. https://hbr.org/1993/07/building-a-learning
+organization, citing, above, one such definition, from C. Marlene Fiol and Marjorie A. Lyles. 1985. "Organizational Learning."
+Academy of Management Review. 10 (4). 1 Oct 1985. https://doi.org/10.5465/amr.1985.4279103
+3
+HUD Capacity Assessment
+PD&R engages with program offices on a quarterly basis to review evaluation and research
+progress and emerging needs. PD&R also presents quarterly research updates about major
+evaluations or policy topics to internal and external audiences.
+As part of HUD's iterative research roadmapping and Learning Agenda development process,
+PD&R seeks program office input to identify research questions that are emerging through
+policy developments and interactions with external stakeholders.
+PD&R conducts rigorous program demonstrations, evaluations, and research to support policy
+development and accountability, coordinates review of policy implications, and disseminates
+research products to diverse stakeholders. OLHCHH also undertakes rigorous program
+evaluations and environmental health research supporting their programs and policy. These
+complementary research efforts are fully integrated in HUD's evidence-building plans.
+Employee-led knowledge collaboratives share insights and undertake initiatives to advance
+mission-related common interests, information, and skill development across organizational
+boundaries.
+HUD makes significant annual investments in the American Housing Survey and other survey
+data assets to establish a data infrastructure for housing and community development policy,
+practice, and research.
+HUD routinely enhances data assets through data linkages and makes them available to
+researchers through data licensing and research data centers.
+HUD's Geocoding Service Center spatially enhances demographic and economic data to
+facilitate program decisions and improvements, as well as the assessment of fair housing and
+civil rights impacts-for example, marketing housing to underserved populations, locating new
+housing projects in accordance with HUD's site and neighborhood standards, and maximizing
+the use of accessible public and assisted housing units for households who need the particular
+features of these units.
+Opportunities to strengthen organizational learning are available in connection with internal assessment
+of various projects, as opportunities to conduct systematic "after action reviews" and document lessons
+learned frequently are carried out. Such methods have been found to improve the efficiency and
+consistent reliability of processes through better documentation, communication, and process maturity.
+Evidence-Building Personnel and Practices
+PD&R's research and evaluation staff was funded at 165 full-time equivalents in FY 2021, which included
+39 staff in headquarters and the field who support program operations with economic analysis of
+housing markets and 12 new positions to stand up the Office of the Chief Data Officer. The PD&R staff
+size and skill mix is marginally adequate for administering evaluation and research activities at current
+funding levels for the Research and Technology account, as the mandates of the Evidence Act have
+increased workloads. Dissemination of research findings includes contract support associated with the
+HUDUSER.gov web portal and online publications. Dissemination of best practices also includes
+Community Compass technical assistance funded through the Research and Technology account.
+4
+HUD Capacity Assessment
+Improving data quality, making effective use of administrative data assets, and strengthening HUD's
+open data program will require significant new investments in data governance and creating an
+enterprise solution.
+PD&R staffing is not adequate to complete all evaluation and research proposals identified for the office
+in HUD's Learning Agenda: not all research contracts could be administered nor all inhouse research
+opportunities pursued. A National Research Council (2008) review-which can be viewed as an
+independent capacity assessment that few agencies have available-concluded that PD&R should
+increase inhouse research. 8 PD&R efforts since then to increase inhouse capacity have included
+increasing to about 16 the number of staff with special sworn status for access to restricted Census
+data,9 developing a research data center to facilitate secure access, and leveraging opportunities for
+data linkages. Certain skillsets such as statisticians and research economists are in short supply. Inhouse
+researchers first focus on HUD's urgent needs such as developing program parameters, conducting
+regulatory impact assessments, supporting program office needs, and responding to Congressional
+requests. Such priorities leave little time for potentially high-value but non-urgent research. A
+substantial proportion of PD&R staff members with advanced social science degrees are employed in
+monitoring contract research rather than conducting inhouse research; maintaining contract research
+certifications requires extensive annual training that further reduces inhouse research time.
+Developing Human Capital for Evidence Building
+Evidence-building capacity within program activities could be usefully expanded in several directions.
+First, training in such evaluation principles as logic models, counterfactuals, research design, and
+randomization would strengthen awareness of the complementary roles of performance monitoring and
+formal evaluation. Broader availability of reliable administrative data extracts and contextual data,
+business intelligence systems, and dashboards could support real-time awareness of operational trends,
+outputs, and outcomes to enable material improvements in performance. Providing skilled assistance
+with advanced analytics and modeling could strengthen risk analysis and monitoring. Finally, clearer
+guidance about best practices for incorporating evidence requirements in grant programs would be
+beneficial.
+3. Criteria for Evidence-Building Capacity Assessment
+HUD's capacity to generate and use evidence through statistics, evaluation, research, or analysis may be
+assessed usefully on the basis of five criteria: the extent of coverage of evidence-building activity, quality
+of data, use of rigorous and appropriate methods, effectiveness of the activities for stakeholders, and
+independence.
+8 National Research Council. 2008. "Rebuilding the Research Capacity at HUD.' Washington, DC.
+  https://www.nap.edu/catalog/12468/rebuilding-the-research-capacity-at-hud
+9
+At least 18 HUD staff have obtained Special Sworn Status, including 4 whose status has lapsed. PD&R has 2 more analysts with
+pending status.
+5
+HUD Capacity Assessment
+In this section each criterion is applied to the four categories of evidence. The subcriteria used in making
+the assessments are listed for each criterion. The assessments reflect discussion among HUD career staff
+with decades of direct experience generating statistics, evaluation, research, and analysis at HUD. The
+assessments have an element of subjectivity but benefit from input from multiple perspectives and first-
+hand experience with the strengths and limitations of HUD's capacities in these areas.
+The four categories of evidence assessed using the five criteria are summarized in the following table:
+Categories of Evidence Assessed
+Statistics
+Evaluation
+Research
+Analysis
+HUD-sponsored
+Program evaluations,
+Descriptive data
+Policy analysis,
+surveys, administrative
+program
+analysis, inferential
+performance
+data, data linkages
+demonstrations,
+data analysis,
+measurement and
+randomized
+geospatial analysis,
+analysis
+controlled trials, case
+literature reviews,
+studies
+regulatory impact
+analysis
+Coverage
+Considerations: Comprehensiveness, appropriateness, targeting
+Statistics. The comprehensiveness, appropriateness, and targeting of HUD's statistical, evaluation,
+research, and analysis activities ensure that such evidence building provides substantial coverage of
+most programs with annual appropriations. HUD uses standard, recognized methodologies in conducting
+each of these evidence-building activities and relies on research roadmapping and Learning Agenda
+consultation processes to frequently reassess whether the scope, depth, and focus remain relevant for
+stakeholders. To improve the comprehensiveness, appropriateness, and targeting of statistical
+information, data linkage has been a key strategy. Data linkages strengthen the coverage of statistics to
+encompass policy domains such as health and education that overlap with HUD's core mission. Such
+linkages include both linkages with administrative data of federal sister agencies and linkages of
+administrative data with survey data.
+Evaluation. Formal program evaluations typically focus on major program policy questions with the
+most rigorous methods, so programs that are relatively small, stable, or difficult to evaluate may not be
+evaluated often. HUD has at times missed opportunities to conduct rigorous, large-scale evaluations and
+inform stakeholders about the impacts and cost effectiveness of some major initiatives. 10 Formal
+program evaluation also is constrained for programs that have low levels of evaluability because they
+operate through funding streams rather than defined program activities (for example, block grant
+programs) or through commitment authority (for example, FHA mortgage insurance and Ginnie Mae
+guaranties). Evaluation, research, and policy analysis supporting such programs typically have a
+10
+NRC, 2008: pages 3-10.
+6
+HUD Capacity Assessment
+narrower scope, focusing on specific policy issues rather than questions of overall impact or cost
+effectiveness. Data collection also may be limited to administrative data, or to purchases of commercial
+datasets related to mortgage markets.
+Research. The coverage of statistical, evaluation, research, and analysis activities is primarily guided by
+the stakeholder-informed research prioritization of HUD's learning agendas. This process prioritizes
+research that is more pertinent to evolving evidence-building needs rather than systematically
+undertaking evaluation or other research across HUD program areas according to a fixed schedule or
+structured comprehensive framework. Should increased evaluation resources become available, there is
+an opportunity to conduct a systematic assessment to increase the uniformity of coverage with regard
+to the National Research Council's 2008 recommendation for PD&R to "regularly conduct rigorous
+evaluations of all of HUD's major programs." 11 Generally, HUD has had sufficient financial and staff
+resources to complete only a fraction of research proposals featured in past Research Roadmaps.
+Analysis. The coverage of analysis activities for the purposes of program monitoring and performance
+management, while good, has potential for improvement. The HUDstat performance management
+system that HUD used for several years and was recognized as an advance reflecting leadership's
+commitment to data-driven decision-making¹² was subsequently mothballed, and a new system remains
+under development. Performance metrics and milestones could be enhanced by selection of more
+outcome metrics and contextualization of administrative data with external data sources, which could
+better support targeting. Identification of common data elements across program activities and
+standardization to the extent possible would make enterprise data more feasible and increase the utility
+of administrative data for improving program management and building evidence. The Office of the
+Chief Data Officer has identified such standardization as an early priority, beginning with a catalog of
+standard tenant data elements that will facilitate future data collections, and supporting a data
+inventory that will make the sources of data transparent for users.
+Quality
+Considerations: Availability, completeness, timeliness, accuracy, integrity, utility
+Statistics. Relating to the quality of statistical evidence, the national survey data that HUD and the
+Census Bureau collect are quite good as the agencies have jointly made numerous improvements in
+recent years. The National Research Council (2008) judged that providing public-use datasets is one of
+PD&R's most important functions and that the American Housing Survey even then was one of the
+federal government's richest datasets. Most of the subcriteria for this element-availability,
+completeness, accuracy, integrity, and utility-are free of notable deficiencies. The Census Bureau and
+HUD work closely to make improvements to development and cognitive testing of survey questions,
+11 Ibid. See page ES-2.
+12 HUDstat was a PerformanceStat or "stat" process in which ongoing, data-driven meetings involve agency leaders in
+identifying key challenges, diagnosing problems, devising solutions, and tracking results. See pages 27 and 30 in Feldman,
+Andrew, 2017. "Strengthening Results-Focused Government: Strategies to Build on Bipartisan Progress in Evidence-Based
+Policy.' Washington, DC: Brookings. https://www.brookings.edu/wp-
+content/uploads/2017/01/es 20170130 evidencebasedpolicy.pdf.
+7
+HUD Capacity Assessment
+sampling, survey field work, weighting, and making publicly available data from a number of national
+surveys. Surveys sponsored by HUD and conducted by the Census Bureau include the American Housing
+Survey, the Rental Housing Finance Survey, the Manufactured Housing Survey, and several other surveys
+tracking monthly, quarterly, or annual changes in the nation's housing. These surveys have been
+enhanced in recent years through engagement with data users, addition of topical modules, greater use
+of technology, improved statistical rigor, and much more matching to administrative records. HUD and
+the Census Bureau collaborate extensively on the complex process of preparing survey data for public
+release in timely ashion-usually about 12 months for a major survey such as the AHS. Processing steps
+include extensive quality checks, missing data imputation, weighting, and merging administrative data.
+Survey administrators need to take extra care in releasing data when there is a disruption in data
+collection, as recently occurred when the COVID-19 pandemic disrupted reporting on homeownership
+rates. Interagency collaborations to support rapid review and release of the experimental Pulse survey
+data during the pandemic offer lessons for other surveys. HUD also collaborates with the Census Bureau
+to make special purpose products available, such as monthly Housing Market Indicator reports and
+enhanced tabulations of the American Community Survey that are essential for Consolidated Planning
+assessments.
+Statistics based on administrative data are fairly good with respect to utility, objectivity, and integrity.
+HUD is notable for the data it collects on both the 4.6 million households with rental assistance and the
+more than 8 million households with FHA-insured mortgages. With these data, HUD has made
+substantial progress in interagency collaborations to match tenant data for the Department's largest
+public and assisted housing programs with Census surveys, National Center for Health Statistics surveys,
+and federal administrative data. Tenant data are fairly complete, and integrity of tenant incomes is
+supported by the availability of income data through HUD's Enterprise Income Verification system. Yet
+weaknesses in tenant data include incomplete address records that hinder geospatial analysis and less-
+frequent and modified reporting requirements for Moving to Work (MTW) agencies due to the various
+flexibilities that MTW agencies can implement. When high-frequency transactional data are not
+collected on the same individuals, the potential value of prediction methodologies such as Artificial
+Intelligence systems may be limited. Administrative data also have blind spots for such important things
+as what happens to households after they leave assistance or exit the FHA program. HUD is undertaking
+several targeted studies of post-exit outcomes using data linkages; such research could inform
+improvements to tenant data collection.
+Administrative data related to the Community Development Block Grant and other block grant programs
+are good for a general understanding of investments and approximate location of those investments,
+but improvements are warranted to support stronger evaluations of these flexible programs. Data on
+HUD programs serving Native American tribes are also very limited. The Homeless Management
+Information Systems operated by homeless service providers provide crucial individual-level data on
+system use, including prior and subsequent stays in specific programs. HUD's access to these critical
+data, however, is limited to annual national summary reporting because of privacy considerations. The
+Department also has additional work to do, under the oversight of the Chief Data Officer and the Data
+Governance Board, in complying with open data requirements of various statutes.
+8
+HUD Capacity Assessment
+Important non-HUD programs in which HUD has substantial interest, such as the Low-Income Housing
+Tax Credit and Opportunity Zones, have improved administrative data but would benefit from
+substantial further investment by HUD and the Department of the Treasury. Further advances for
+evidence-based policy in these critical areas would require significant improvements in coordination and
+possibly a statutory waiver to permit use of federal tax information for such purposes.
+HUD's Learning Agenda, like this Capacity Assessment, is a standalone component of HUD's Strategic
+Plan. The Learning Agenda includes, under the heading Enhanced Data and Methods, 14 proposed
+projects to strengthen the quality, utility, and access to HUD data assets. The Learning Agenda also
+documents deficiencies in data availability in a number of important areas that HUD is seeking to
+address:
+Low-Income Housing Tax Credit property addresses
+Opportunity Zones investments, activities, and outputs
+Post-exit outcomes of assisted renters
+Locations of activities funded by CDBG and HOME
+Energy consumption and expenditure data for public and assisted housing
+Lead hazard control grant administrative data
+Picture of Single-family FHA-insured households
+PHA waiting lists and admissions preferences
+Sexual orientation and gender identity data
+Evaluation. The quality of HUD's evaluation and demonstration work is very good. As provided by HUD's
+Program Evaluation Policy Statement, 13 the Department uses strong research designs when possible and
+makes the resulting reports and data available for further analysis. Since its founding HUD has supported
+a number of important demonstrations and other evaluations-employing rigorous experimental
+methods-that have led to major policy changes. The Experimental Housing Allowance Program
+demonstrations of the 1970s and subsequent research on the use of tenant-based rental assistance
+were instrumental in the creation and subsequent changes to what is now the largest housing assistance
+program run by HUD, the Housing Choice Voucher program. In recent years, data from such studies as
+Moving To Opportunity (impact of moving from high poverty to low poverty neighborhoods),
+Administrative Fee study (the cost to administer the Housing Choice Voucher program), and Family
+Options (studying interventions to address family homelessness) have been utilized by numerous
+researchers and policymakers. HUD makes these data available for further analysis through a
+combination of access at Census research centers, direct data licenses with researchers, and cooperative
+agreement research.
+13
+Office of Policy Development and Research, HUD. Published in 86,154 Federal Register 44738, (August 13, 2021). Docket No.
+FR-6278-N-01, FR Doc. 2021-44738.https://www.federalregister.gov/d/2021-17339.
+9
+HUD Capacity Assessment
+Research and Analysis. The quality of the Department's research and analysis efforts is also good. HUD
+has a core of research staff with skills well-suited for conducting a limited number of research studies
+and analyses with timeliness, accuracy, integrity, and utility. Availability of such work remains a
+constraint, however, because advanced research and analysis skillsets are more scarce than optimal
+levels.
+Methods
+Considerations: Range, Rigor, Suitability
+Statistics. The methods used for HUD's statistics are very good in terms of range, rigor, and suitability.
+National surveys, targeted surveys, centralized administrative data collection, locally retained
+administrative data (Homeless Management Information Systems), and other collections are all well-
+suited for specific contexts. Statistical data often are enhanced with geospatial information and several
+data linkage strategies and are released in a variety of open data products accessible to practitioners,
+policymakers, and researchers, subject to privacy protections. HUD also is developing an agency-wide
+Customer Experience (CX) capability.
+Evaluation. For evaluation as well, HUD uses a spectrum of research, data collection, and analytic
+methods selected to address specific evidence-building needs. The HUD Program Evaluation Policy
+Statement 14 commits the Department to using the most rigorous methods that are appropriate to the
+evaluation questions and feasible within budget and other constraints, covering impact evaluations,
+implementation or process evaluations, descriptive studies, outcome evaluations, and formative
+evaluations, and both qualitative and quantitative approaches. Program demonstrations using gold-
+standard random control trial methods have been central to PD&R's research portfolio for decades and
+have become dominant in recent years. Evaluations generally must use a treatment group and
+counterfactual when feasible to isolate the program impacts from other factors. HUD's guideline for
+rigor also requires that researchers seek to understand and correct for implicit bias in the formulation of
+research questions and methods.
+Research and Analysis. Research and analysis activities as well are covered by the Evaluation Policy's
+guidelines about rigor, independence, and ethics.
+HUD's Learning Agenda: Fiscal Years 2022-2026 discusses a wide range of methods that encompass all
+four categories of evidence:
+Program demonstrations
+Quasi-experimental evaluations
+Econometric analysis
+Descriptive statistical analysis
+Case studies
+Ethnographic methods
+14 Ibid.
+10
+HUD Capacity Assessment
+Literature reviews and systematic reviews
+Performance metrics and dashboards
+Surveys
+Advanced analytics
+Behaviorally informed program evaluation
+Effectiveness
+Considerations: Policy influence, program guidance, advances in theory
+HUD's statistics, evaluations, research, and analytics are meeting substantial needs of stakeholders, with
+particular strengths in the areas of homelessness policy and assisted housing policy. The National
+Research Council's (2008) review of PD&R's research and evaluation activities concluded that most of
+the work was "high quality, relevant, timely, and useful" and made "valuable contributions in several
+notable areas" but that inadequate funding had significantly eroded capacity to perform effectively. 15
+PD&R research efforts since the NRC review have sustained the quality of research, improved the
+availability and usefulness of data products, strengthened the emphasis on gold-standard experimental
+methods, involved stakeholders in establishing research priorities, and established a program evaluation
+policy to institutionalize consistent practices. These enhancements have been supported by sustained
+funding increases that began in FY 2010. PD&R's combined appropriation for core research, evaluations,
+and demonstrations totaled $72.2 million for FY 2021, representing a real increase of more than 20
+percent from average funding during the 3 years (FY 2006-FY 2008) preceding the NRC review. 16
+Statistics. HUD-sponsored statistical products such as the American Housing Survey (AHS) have provided
+the core of the nation's housing data infrastructure for decades, supporting reporting to Congress on the
+unmet need for affordable and assisted housing, providing data on structural characteristics and housing
+finance, and through its unique longitudinal design, information on conditions, use, and affordability of
+the housing stock. HUD is using an AHS research module to develop a preliminary Housing Insecurity
+index, which after testing and refinement may provide a major theoretical advance in the ability to
+associate housing problems with a range of household outcomes and the capacity to include a
+transferable module of housing insecurity questions in a variety of other surveys similar to the USDA
+Food Insecurity module.
+Evaluation. HUD's evaluation activities have good effectiveness. A majority of HUD managers who
+responded to GAO's 2020 survey reported that they have systematically tracked implementation of
+recommendations from evaluations (see exhibit 5, question 22i). Major randomized controlled trials
+over the years have provided seminal evidence about the usefulness of tenant-based rental assistance,
+tenant mobility policy, and permanent housing as a solution for family homelessness, transforming
+housing and community development legislation. Policy domains that have unmet needs include
+15
+National Research Council. Op. cit. See page ES-1.
+16 Totals for PD&R's Research and Technology account, excluding funding for University Partnerships and Technical Assistance.
+The FY 2006-FY2008 appropriations were $37.2 million, $50.1 million, and $50.8 million in current dollars
+11
+HUD Capacity Assessment
+intractable, "wicked" problems such as the housing affordability crisis, housing discrimination, self-
+sufficiency, community development, regulatory barriers, and disaster recovery and resilience. Such
+issues may bring further challenges such as a lack of reliable data, unacceptability of random assignment
+methods, or serious difficulty in establishing a counterfactual for evaluation; addressing such challenges
+satisfactorily may consume substantial resources over the Learning Agenda timeframe.
+Generally, HUD's evidence building is meeting the needs of stakeholders. Evaluations and other research
+products are disseminated appropriately, and the iterative outreach process of research roadmapping
+has given stakeholders the opportunity to communicate emerging issues and unmet needs in evaluation
+and research priorities, including needs identified through lived experiences of HUD beneficiaries.
+Research and Analysis. Research and analysis activities have fairly good effectiveness as well. Policy and
+program constraints, however, may limit responses to such evidence in some cases. There is potential to
+increase effectiveness of performance management by more systematically using outcome measures
+that are supported by metrics guided by program logic models, and by increasing availability and use of
+business intelligence systems for managers. These issues are discussed in relation to survey results
+shown in exhibits 2, 3, and 5.
+Independence
+Considerations: Organization, policy, culture
+Statistics. The independence of HUD's statistics is excellent for survey data and good for administrative
+data. HUD's partnership with the Census Bureau for major surveys provides highly qualified external
+review of decisions about the data, and the availability of these data through online table creators and
+dataset downloads ensures transparency about published reporting of the data. PD&R also releases
+administrative data for HUD-assisted households as user-friendly summary files and as public-use
+microdata (PUM) files and provides restricted-use access to external researchers through data licenses.
+Evaluation. The centralization of most major program evaluation for the Department within the
+independent office of PD&R serves well to ensure independence of HUD's evidence-building activities.
+The HUD Program Evaluation Policy Statement includes commitments to transparency and
+independence that ensure that the most critical evidence-building function, evaluation, is conducted
+without regard to whether findings are positive and are reported in a clear way. PD&R protects
+independence and objectivity in the design, conduct, and analysis of evaluations through competitive
+award to researchers who are free of conflicts of interest. The transparency policy provides that HUD
+will release methodologically valid evaluations without regard to the findings. Additionally, transparency
+is safeguarded by contract language that allows researchers to publish independently even if HUD
+should choose not to publish, for example, if HUD should have concerns about the validity of findings.
+HUD's Evaluation Policy also provides that HUD will, where possible, archive administrative and
+evaluation data for secondary use by interested researchers.
+Research and Analysis. Research and analysis have guarantees to independence similar to those of
+evaluation. HUD staff are permitted to publish the results of their scholarship and analysis in any forum,
+so long as they do not claim to speak for the Department. PD&R also publishes a peer-reviewed journal,
+12
+HUD Capacity Assessment
+Cityscape, that provides a venue for multi-disciplinary, independent contributions from internal and
+external authors about a wide range of housing and community development issues.17 The results of
+analysis conducted for performance management purposes are published in HUD's Annual Performance
+Reports 18 and on the Performance.gov website.
+4. Perceptions of HUD Managers about Evidence-Building Capacity
+HUD Senior Manager Survey
+PD&R undertook primary data collection for the Capacity Assessment by conducting a survey of HUD
+senior managers during late August and early September 2020. The survey instrument was developed
+under the oversight of the Evaluation Officer by a working group that included senior program
+evaluators and analysts involved in developing HUD's learning agenda.
+The core of HUD's survey comprised 17 affirmative statements that collectively reflect a well-rounded
+capability to generate and use evidence. The online survey was administered to a purposive sample of
+senior managers who have responsibility for one or more HUD programs, as well as additional managers
+who have responsibilities involving evidence building. Managers with responsibility for support functions
+were not included in this exploratory survey because their relationship to evidence building is expected
+to be somewhat different. Eighteen managers from across the Department responded to the survey, for
+a response rate of 56 percent.
+Participants were asked to report whether and how strongly they agree that each statement reflects
+their program. The results suggest that HUD managers perceive that the Department has a moderately
+good baseline capacity in these areas. Across all 17 statements (denoted Q1-Q17), an average of 20
+percent of respondents "strongly agree" and another 41 percent "agree" with the statements, totaling
+61 percent who strongly agree/agree. Several questions about data and evaluation received "not
+applicable" responses from managers engaged in budget, strategic planning, or evaluation as their
+primary program activity. The results of the HUD Senior Manager survey are presented in exhibits 3, 6,
+and 8 below.
+GAO Federal Managers Survey
+Concurrently with HUD's survey effort, the Government Accountability Office (GAO) administered its
+annual government-wide survey of federal managers. The 2020 GAO Federal Managers Survey (exhibits
+1, 2, 4, 5, and 7) placed a heavy emphasis on the use of performance data and evaluation for evidence
+building as envisioned by the Evidence Act. GAO has made available the results on "government
+performance and management issues" collected for individual agencies such as HUD.19
+17 See tps://www.huduser.gov/portal/periodicals/cityscape.html.
+18 See https://www.hud.gov/program offices/cfo/reports/cforept.
+19
+Government Accountability Office. 2021. "Supplemental Material: 2020 Federal Managers Survey: Results on Government
+Performance and Management Issues." https://www.gao.gov/products/gao-21-537sp.
+13
+HUD Capacity Assessment
+In this section, the results of the HUD survey and the GAO survey are considered in tandem as they
+pertain to three broad domains of evidence-building capacity:
+Effective Data for Program Management-accessible, reliable, and useful data for use in
+monitoring and measuring performance of programs.
+Effective Evaluation for Policy Development-progra demonstrations, evaluations, and
+research that provide rigorous evidence about program implementation, outcomes, impacts,
+and cost-effectiveness.
+Staff Skills and Tools for Evidence Building-human capacity to build and apply appropriate tools
+and methods to analyze data, statistics, and performance metrics for program improvement,
+and to understand the implications of evaluations for program management and policy.
+Effective Data for Program Management
+Together, GAO's survey and HUD's survey paint a somewhat positive picture of Effective Data for
+Program Management.
+In GAO's 2020 Manager Survey, about 73 questions relate primarily to the Effective Data for Program
+Management topic. A selection of 39 of these questions-whicl include a substantial emphasis on
+performance data-is presented in Exhibits 1 and 2.
+Exhibit 1 shows that similar proportions of HUD managers report (for questions 24a-24c) having the
+three main types of information available for use in their program management: administrative data,
+statistical data, and research and analysis. These information sources each received strong combined
+positive responses of "very great extent" or "great extent" (24.0-26.4 percent) in the GAO survey. A
+smaller fraction of managers provided negative responses, indicating that such information sources are
+not available for their program activities, with research and analysis being most frequently lacking with
+14.5 percent combined negative responses.
+Managers use such information for a wide variety of program management purposes (questions 25a-
+25m). Combined positive responses ranged from a low of 18.9 percent for allocating resources (25f) to a
+high of 28.4 percent for providing context for or explaining performance results (25d). The strongest
+combined negatives were using available data for allocating resources, at 17.1 percent, followed by
+refining program performance measures, at 13.7 percent (25e). The last two questions shown in Exhibit
+1 address institutional matters. Item 27f concerns the availability of measures and controls to protect
+data security and privacy and received combined positive responses totaling 48.4 percent. Question 27g
+assesses perceptions of top leadership commitment to using a variety of data and information sources
+for making program and policy decisions. Responses to this question in 2020 reflect combined positive
+responses of 23.0 percent.
+14
+HUD Capacity Assessment
+Exhibit 1. HUD Manager Responses to GAO on Information Sources and Usage
+for Program Management, 2020 (n = 90)
+24a. [Types of information available for program]: Administrative data
+11.2
+12.8
+15.4
+5.6
+4.9
+50.0
+24b. [Types of information available for program]: Statistical data
+13.0
+13.4
+13.8
+3.9
+6.3
+49.7
+24c. [Types of information available for program]: Research and analysis
+10.6
+13.8
+8.9
+8.2
+6.3
+52.2
+25a. [Use made of such information]: Providing context about the
+7.2
+18.8
+15.5 2.
+2
+54.6
+problem the program is designed to address
+25b. [Use made of such information]: Setting or revising program
+17.8
+16.7
+3.8
+5
+54.5
+priorities and goals
+25c. [Use made of such information]: Developing program strategy
+6.7
+20.7
+12.5
+4.6)
+.1
+54.5
+25d. [Use made of such information]: Explaining or providing context
+7.7
+20.7
+13.5
+3.7
+2.4
+52.1
+for performance results
+25e. [Use made of such information]: Refining program performance
+18.4
+9.2
+4.1
+9.6
+54.6
+measures
+25f. [Use made of such information]:Allocating resources
+13.6
+9.5
+11.2
+5.9
+54.6
+25g. [Use made of such information]: Identifying opportunities to
+7.7
+19.8
+15.5
+3.7
+1.2
+52.1
+improve program performance
+25h. [Use made of such information]: Identifying and sharing effective
+6.2
+17.2
+14.0
+9.2
+1
+52.4
+program approaches with others
+25i. [Use made of such information]: Adopting new program approaches
+16.9
+18.1
+6.42
+51.0
+or changing work processes
+25j. [Use made of such information]: Identifying opportunities to
+8.3
+14.9
+16.4
+3.4.
+53.3
+reduce, eliminate or better manage duplicative activities
+25k. [Use made of such information]: Coordinating program efforts
+18.4
+15.9
+4.8
+5
+52.2
+within your agency or with other external entities
+25l. [Use made of such information]: Identifying opportunities to
+6.0
+19.0
+12.1
+5.12.
+55.5
+support the program's activities to respond to the COVID-19 pandemic
+27f. My agency has information systems and processes in place to
+15.1
+33.3
+18.9
+6.8
+1.1
+38.3
+protect the privacy and security of its data
+27g. My agency's top leadership demonstrates a strong commitment to
+18.0
+19.3
+8.3
+71.7
+using a variety of data and information in decision making.
+0%
+20%
+40%
+60%
+80%
+100%
+Very great extent
+Great extent
+Moderate extent
+Small extent
+No extent
+Not Applicable or Missing
+15
+HUD Capacity Assessment
+Exhibit 2 summarizes some of the GAO survey's extensive coverage of performance measurement issues
+and use of performance information. Most of the questions shown received strong positive responses,
+usually with well over 20 percent of respondents choosing "Very great extent" or "Great extent.'
+Response patterns reflect strengths in several areas:
+availability of a variety of performance measures (3b, 4a-4g)
+use of performance information for program strategy, resource allocation, identifying
+performance problems, and taking corrective actions (6d-6g)
+routinely communicating performance information to stakeholders (8c)
+periodically reviewing performance information with senior managers (8d)
+strong leadership commitment to achieving results (14a)
+Seven of these 20 questions drew strong negative responses from HUD managers, with "Small extent" or
+"No extent" together exceeding 20 percent of responses. These seven questions suggest needs for
+improving evidence-building capacity in these areas, complicated by 4a and 8c, which each drew both
+strong positives and strong negatives:
+availability of performance measures of output costs and of equity (4a, 4f)
+routinely communicating performance information to stakeholders (8c)
+leadership commitment to using performance data for decisionmaking (14b)
+routine leadership communication of performance information (14c)
+leadership attention to using performance information for management decisionmaking (14d)
+increasing use of performance information for management decisionmaking over time (14e)
+16
+HUD Capacity Assessment
+Exhibit 2. HUD Manager Responses to GAO on Performance Information for Program Management,
+2020 (n = 90)
+3b. There are meaningful performance measures for my program(s)
+20.2
+34.4
+21.5
+6.9
+17.0
+4a. We have performance measures that tell us the amount of
+11.9
+20.7
+15.4
+19.0
+8.7
+24.4
+resources being used to develop, maintain or deliver the products or
+4b. We have performance measures that tell us how many things we
+24.3
+39.4
+10.8
+8.5
+17.0
+produce or services we provide (Output measures)
+4c. We have performance measures that tell us about the quality of
+14.3
+32.5
+18.2
+14.2
+3
+18.6
+the products or services we provide (Quality measures)
+4d. We have performance measures that tell us if we are operating
+12.4
+29.8
+19.5
+10.5
+8.6
+19.2
+efficiently (Process measures)
+4e. We have performance measures that tell us whether or not we
+12.6
+25.6
+25.1
+11.8
+6.4
+18.6
+are satisfying our customers (Customer service measures)
+4f. We have performance measures that tell us how the products or
+11.9
+23.0
+16.9
+11.0
+14.2
+23.1
+services we provide are distributed across different populations
+4g. We have performance measures that would demonstrate whether
+23.2
+34.7
+16.0
+5.6
+17.0
+or not we are achieving our intended results (Outcome measures)
+6d. [We use performance management information for:] Developing
+15.7
+27.0
+19.2
+5.8
+7.1
+25.2
+program strategy
+6e. [We use performance management information for:] Allocating
+17.0
+22.0
+20.3
+7.3
+5.9
+27.6
+resources
+6f. [We use performance management information for:] Identifying
+22.2
+26.2
+14.3
+9.5
+$
+24.3
+program problems to be addressed
+6g. [We use performance management information for:] Taking
+21.6
+28.0
+15.2
+6.82
+$
+26.0
+corrective action to solve program problems
+8c. I communicate performance information about my program(s) on
+18.7
+30.4
+23.0
+13.3
+7.4
+7.4
+a routine basis to internal and external stakeholders
+8d. The individual I report to periodically reviews with me the results
+19.4
+35.8
+22.2
+11.8
+4.7
+or outcomes of the program(s)
+13e. My agency is investing in resources to improve the agency's
+8.9
+24.6
+15.2
+13.7
+4.0
+33.6
+capacity to use performance information
+14a. My agency's top leadership demonstrates a strong commitment
+17.4
+35.2
+23.4
+10.2
+7.0
+6.9
+to achieving results
+14b. My agency's top leadership demonstrates a strong commitment
+16.8
+21.5
+25.0
+17.1
+5.4
+14.3
+to using performance information to guide decision making
+14c. My agency's top leadership communicates performance
+9.5
+23.8
+25.1
+26.1
+9.8
+5.7
+information throughout the organization on a routine basis
+14d. My agency's top leadership pays attention to the use of
+10.8
+19.2
+22.7
+20.5
+5,9
+20.9
+performance information in management decision making..
+14e. Compared to three years ago, my agency's top leadership pays
+12.7
+19.9
+20.4
+11.8
+14.4
+20.7
+more attention to the use of performance information in...
+0%
+20%
+40%
+60%
+80%
+100%
+Very great extent
+Great extent
+Moderate extent
+Small extent
+No extent
+Not applicable or Missing
+17
+HUD Capacity Assessment
+HUD's survey of senior managers included six questions addressing Effective Data for Program
+Management (exhibit 3). For these six questions, an average of 56 percent of the senior manager
+respondents chose combined positive responses of strongly agree or agree.
+Three of these questions, however, also generated some of the largest combined negative responses.
+Disagree or strongly disagree accounted for 28 percent of responses about availability of outcome data
+for households and individuals (Q1); 39 percent of responses about availability of outcome data for
+communities (Q2); and 33 percent of responses about business intelligence (BI) systems and data for
+tracking program performance (Q10). Q10 also accounted for the largest proportion of "strongly
+disagree" responses, at 11 percent, suggesting pockets of substantial need for better business
+intelligence data and systems.
+Although such BI systems are available in the Department, individual managers may not be aware of
+their availability or capabilities, or linkages to necessary data may need to be created. Several efforts are
+underway to improve capacity for using BI systems. The Office of the Chief Information Officer offers BI
+desktop applications as HUD-standard software for staff who request it and offers a suite of courses on
+how to use it effectively. To complement such technological skills, the Chief Data Officer is developing a
+data skills program that includes data management, data literacy, and data quality improvement.
+Exhibit 3. Senior Manager Responses on Effective Data for Program Management, 2020 (n = 18)
+1. I have reliable data for assessing how my programs affect
+17%
+39%
+6%
+28%
+11%
+outcomes for households and individuals.
+2. I have reliable data for assessing how my programs affect
+11%
+22%
+11%
+39%
+17%
+outcomes for communities.
+8. I have reliable data to identify fraud, waste, and abuse and to
+monitor compliance of program partners with their commitments
+6%
+33%
+28%
+17%
+17%
+and all applicable statutes and regulations.
+9. I receive data about program accomplishments that are useful,
+17%
+61%
+17%
+6%
+timely, and specific.
+10. I have business intelligence systems and data that allow me to
+track the spending, operations, and performance of programs and
+11%
+44%
+6%
+22%
+11%
+6%
+make strategic decisions in a timely way.
+11. I have data needed to support effective coordination with
+17%
+56%
+6%
+11%
+11%
+external partners.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Not applicable
+Taken together, the GAO survey and HUD survey suggest that the Department's moderately strong
+performance management capabilities could be strengthened by investments in better outcome data
+about communities and individual beneficiaries-including measures of equal opportunity and equity-
+and by better integration of supporting metrics that provide context and enable alignment of program
+outputs and outcomes with the resources consumed, consistent with program logic models.
+18
+HUD Capacity Assessment
+Limitations of the availability, robustness, and quality of administrative data generally pose an important
+constraint for evidence-based policy and programs. Upgrading administrative data requires attention to
+data infrastructure-no just information technology infrastructure. The robustness of administrative
+data collections may be constrained by statutory authorization or by concerns of excessive reporting
+burden for HUD's program partners-especially when collection of outcome data is considered. Data
+systems may lack safeguards to prevent submission of erroneous data or may suffer from chronic
+underreporting or missing data. Funding for development, modernization, and enhancement of
+administrative data systems has been limited, due in part to the persistently high cost of basic
+operations and maintenance of these systems. In many cases, administrative data could be
+strengthened substantially by providing dynamic linkage with external data sources and advanced
+analytic capabilities, but it is crucial to collect the needed data elements. For such reasons, a key
+component of the CDO's Data Program is improving data governance. Data governance provides
+guidance for data decisions involving policies, investments, and orchestration of people, process, and
+technology. Robust administrative data capabilities are essential for effective business intelligence
+systems and research.
+Effective Evaluation for Policy Development
+GAO's Manager Survey included numerous questions assessing managers' perceptions about evaluation.
+Unfortunately, only 43.5 percent of HUD managers responded that they had at least a small extent of
+familiarity with evaluation at the Department, with correspondingly large fractions of "not applicable" or
+missing responses to subsequent questions about evaluation (exhibit 5, 17a).
+Even smaller fractions of managers responded affirmatively to questions about past experience with
+evaluation activity either as an evaluator or evaluation client (exhibit 4). Only 7.5 percent reported
+managing evaluators (18b), and 14.2 percent reported serving on an evaluation team (18d). Almost 20
+percent, however, reported using the results of evaluations to make performance improvements (18e).
+Exhibit 4. HUD Manager Responses to GAO on Past Program Evaluation Roles,
+2020 (n = 90)
+18a. [Have served in this evaluation function]: Leader or member of an agency
+14.1
+29.4
+56.5
+team that identified or prioritized research questions for potential evaluation(s)
+18b. [Have served in this evaluation function]: Evaluator who has managed third
+34.3
+58.2
+parties responsible for conducting evaluation(s)
+18c. [Have served in this evaluation function]: Member of the program staff that
+20.5
+22.4
+57.1
+provided program information or context to evaluators
+18d. [Have served in this evaluation function]: Evaluator or member of a team
+14.2
+26.5
+59.3
+that conducted evaluation(s)
+18e. [Have served in this evaluation function]: Manager who has used the
+19.8
+21.9
+58.3
+results of the evaluation(s) to make performance improvement decisions
+0%
+20%
+40%
+60%
+80%
+100%
+Yes
+No
+Missing or Nonresponse
+19
+HUD Capacity Assessment
+The low response rates for GAO's survey questions about evaluation probably result from two main
+factors. First, significant numbers of HUD managers may have declined to respond or chosen "not
+applicable" for evaluation questions in GAO's survey because they are employed in support offices or
+functions such as budgeting, human resources, information technology, or the Inspector General, and
+thus do not operate "programs." Second, substantial numbers of staff are employed in program offices
+such as the Federal Housing Administration or Ginnie Mae that receive resources in the form of
+commitment authority rather than spending authority. Such program areas are subject to annual
+financial reporting requirements and have not been major clients for formal program evaluation in the
+recent past.
+Among respondents in the GAO survey who reported some degree of familiarity with program
+evaluation (exhibit 5, 17a) and completed followup questions (17b-22i), combined positive responses
+were generally more prevalent than combined negatives.
+20
+HUD Capacity Assessment
+Exhibit 5. HUD Manager Responses to GAO on Effective Evaluation for Policy Development,
+2020 (n = 90)
+17a. I am familiar with program evaluation(s) at my agency.
+14.6
+14.0
+10.1
+27.1
+29.4
+17b. I have access to program evaluation(s) I need to manage my
+15.3
+11.4
+8.6
+58.2
+program(s).
+19a. [Evaluation results are used for]: Implementing changes to improve
+13.4
+10.2
+6.0
+3
+62.4
+program performance
+19b. [Evaluation results are used for]: Adopting new program
+5.8
+13.4
+10.2
+6.2
+4
+61.0
+approaches, operations, or processes
+19c. [Evaluation results are used for]: Sharing effective program
+8.1
+15.8
+6.7
+8.41
+1
+59.9
+approaches or lessons learned
+19d. [Evaluation results are used for]: Allocating resources within the
+13.9
+11.4
+5.4
+5
+61.1
+program
+19e. [Evaluation results are used for]: Explaining or providing context
+16.6
+5.9
+8.3
+61.2
+for performance results
+19f. [Evaluation results are used for]: Informing the public about the
+6.44.5
+10.3
+6.7
+69.2
+program's performance, as appropriate
+20a. [For your programs]: Evaluations addressed issues important to key
+6.9
+9.8
+6.9
+4.81.1
+70.6
+stakeholders
+20b. [For your programs]: Evaluations were completed without undue
+7.5
+12.9
+2.7
+1
+72.8
+influence
+20c. [For your programs]: Evaluations were technically rigorous (i.e.,
+5.9
+11.1 2.7 4.1
+2.3
+74.0
+they produced accurate, valid, and high quality evidence)
+20d. [For your programs]: Evaluation results had clear implications for
+6.3
+12.9
+2
+8
+6.3
+2.3
+69.4
+program improvement
+20e. [For your programs]: Evaluation results were delivered in time to
+14.2
+1
+6 6.4
+.3
+70.5
+be useful
+20f. [For your programs]: Evaluation recommendations were feasible to
+13.6
+6
+7.6
+.1
+71.6
+implement with existing resources
+22a. [About evaluations of your program]: Agency top leadership was
+12.9
+64.6
+6
+76.2
+committed to using evaluations
+22b. [About evaluations of your program]: Congress supported the use
+1
+6.4
+4.6
+0.5
+84.8
+of evaluations
+2.1
+22c. [About evaluations of your program] Evaluations of my program
+1
+7
+12.7
+3.62
+2.5
+77.0
+were guided by an agency evaluation plan
+22d. [About evaluations of your program]: Evaluations were guided by
+1
+7
+12.7
+3.62
+2.1
+77.4
+agency evaluation policies
+22e. [About evaluations of your program]: Evaluations involved
+5.4
+8.3
+8.5
+7
+72.8
+consultation with key staff in my program
+22f. [About evaluations of your program]: Evaluations involved
+1
+11.3
+.106
+82.3
+consultation with key external stakeholders
+22g. [About evaluations of your program]: Disagreements among
+0.
+65.2
+6.9
+6
+85.8
+stakeholders were easy to resolve
+22h. [About evaluations of your program]: Evaluation results were made
+1
+8.3 1
+1.6
+84.0
+easily accessible and available to the public, as appropriate
+1.4
+22i. [About evaluations of your program]: My program systematically
+0
+6 12.7
+5.4
+6
+77.9
+tracked the implementation of evaluation recommendations
+0%
+20%
+40%
+60%
+80%
+100%
+Very great extent
+Great extent
+Moderate extent
+Small extent
+No extent
+Not Applicable or Missing
+21
+HUD Capacity Assessment
+The responses to the GAO question 17b, "access to program evaluations needed to manage my
+program," are worth noting. This question received combined negative responses of 11.3 percent,
+suggesting that a significant fraction of HUD managers have an unfulfilled need for a program
+evaluation. (Omitting not applicable and missing responses would increase this figure to 27 percent of
+responding managers.) This perceived need for evaluation may be related to the elevated level of
+negative responses to 19f regarding use of evaluation results to inform the public about program
+performance.
+HUD's Senior Manager survey included six questions related to the Effective Evaluation topic (exhibit 6).
+For these six questions, an average of 53 percent of respondents selected positive responses of strongly
+agree/agree.
+One question about data and evidence to improve program targeting, Q7, had significant negative
+responses of 28 percent. It should be noted that the wording of Q7 applies to data capacity about as
+much as it does to evaluation capacity.
+Three other questions in exhibit 6 also show negative responses exceeding 20 percent. These data
+suggest that lack of evidence about cost effectiveness (Q4) and lack of evidence about the impact of
+changes in program policy (Q5) are areas of concern for some senior managers. Such concerns point to a
+potential need for a systematic assessment of evidence-building needs across programs. Some senior
+managers also expressed a lack of influence over HUD's research agenda (that is, the Learning Agenda;
+Q12). Although HUD's program offices were engaged at multiple points in developing the Learning
+Agenda and past research roadmaps, it is possible that opportunities to participate were not broadly
+shared within all components of program offices. HUD will review the internal stakeholder participation
+process supporting future iterations of learning agenda development to ensure that the evidence-
+building needs of diverse components are captured.
+Exhibit 6. Senior Manager Responses on Effective Evaluation for Policy Development,
+2020 (n = 18)
+3. I have evidence about public benefits of my programs that
+17%
+28%
+39%
+17%
+policymakers find convincing.
+4. I have evidence about the cost-effectiveness of my program that
+11%
+44%
+17%
+17%
+6%
+6%
+policymakers find convincing.
+5. I receive useful and timely evidence about the effects of changes in
+6%
+33%
+33%
+17%
+6%
+6%
+program policies and regulations.
+6. I have access to the data and evidence that would be needed to
+justify a proposed change in program scale or design to achieve
+11%
+44%
+28%
+11%
+6%
+greater public benefits.
+7. I have the data and evidence that would be needed to strengthen
+11%
+44%
+6%
+22%
+6%
+11%
+program targeting to improve outcomes.
+12. I have opportunity to influence HUD's research agenda to answer
+22%
+44%
+11%
+17%
+6%
+policy-relevant questions related to my programs.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Not applicable
+22
+HUD Capacity Assessment
+Staff Skills and Tools for Evidence Building
+Exhibit 7 presents HUD's results for 18 questions from the GAO Manager Survey that relate staff skills
+and tools for evidence building.
+Combined negatives exceeded 20 percent of all responses for two questions: agency investment to
+ensure that performance information is of adequate quality (13c); and staff with the skills to collect,
+analyze, and use performance information (13d).
+If not applicable and missing responses are ignored, then combined negatives exceed 20 percent for
+several additional questions. Although these items suggest potential pockets of need, in each case
+combined positive responses exceeded combined negatives, reflecting substantial variation across the
+Department:
+investing to improve the agency's capacity to use performance information (13e)
+quarterly performance reviews include staff with relevant knowledge to facilitate problem
+solving and identify improvement opportunities (16e)
+program staff receive training in program evaluation (21d)
+agency staff (27c) and program staff (26a) with skills to collect, analyze, and use statistics,
+research, and analysis
+agency analytical tools (27b) and program staff access to such tools (26b) to collect, analyze, and
+use statistics, research, and analysis
+agency investment to improve capacity to collect, analyze, and use statistics, research, and
+analysis (27d)
+agency staff with skills to integrate findings from performance measurement, program
+evaluations, and additional types of information (27e)
+The large proportions of middling "moderate extent" responses to several questions-about staff skills
+(8b, 13d) and access to analytical tools to collect, analyze, and use performance information (8a)-
+suggest there may be potential to achieve significant gains in capacity at relatively modest cost. Several
+efforts are underway to improve capacity for using BI systems. The Office of the Chief Information
+Officer offers BI desktop applications as HUD-standard software for staff who request it and offers staff
+a suite of courses on how to use it effectively. This effort is complemented by new OCDO data program
+training being developed to strengthen data literacy and data management skills needed to populate BI
+systems and use evidence effectively.
+23
+HUD Capacity Assessment
+Exhibit 7. HUD Manager Responses to GAO on Staff Skills and Tools for Evidence Building,
+2020 (n = 90)
+3c. Program staff and I have a shared understanding of the
+31.4
+33.1
+14.4
+5.2
+15.9
+definitions used to measure performance
+8a. I have access to the analytical tools needed to collect, analyze,
+10.0
+30.9
+38.0
+15.6
+1.
+3.7
+and use performance information
+8b. Staff involved in the program(s) collectively have the knowledge
+16.9
+26.7
+36.5
+11.6
+17.2
+and skills needed to collect, analyze, and use performance
+13c. My agency is investing the resources needed to ensure that its
+8.0
+24.9
+22.0
+17.6
+5.9
+21.6
+performance information is of sufficient quality
+13d. My agency has staff with the knowledge and skills needed to
+11.1
+22.2
+32.4
+16.1
+4.8
+13.3
+collect, analyze, and use performance information
+13e. My agency is investing in resources to improve the agency's
+8.9
+24.6
+15.2
+13.7
+0
+33.6
+capacity to use performance information
+16b. [About quarterly performance reviews]: My agency has the
+1.
+10.0
+4.3
+.3
+81.7
+capacity to analyze the performance information needed for these
+16e. [About quarterly performance reviews]: These reviews include
+1
+6.5 4.43.2
+84.2
+staff with relevant knowledge to facilitate problem solving.
+21a. Program staff have the skills necessary to conduct program
+5.7
+14.7
+10.5
+5.0
+1.2
+63.0
+evaluations
+21b. Program staff have the skills necessary to understand program
+5.7
+17.4
+10.0
+2.71.2
+63.0
+evaluation methods, results, and limitations
+21c. Program staff have the skills necessary to implement evaluation
+5.7
+17.4
+9.3
+3.4
+1.2
+63.0
+recommendations
+21d. Program staff receive training in program evaluation (e.g.,
+13.0
+7.3
+6.9
+.5
+65.4
+formal classroom training, conferences, on the job training)
+26a. [About statistics, research and analysis]: Program staff
+.2
+12.6
+15.3
+10.3
+54.7
+collectively have the knowledge and skills needed to collect,
+26b. [About statistics, research and analysis]: I have access to the
+5.6
+12.7
+14.5
+10.2
+5
+53.6
+analytical tools needed to collect, analyze, and use these.
+27b. [About statistics, research and analysis]: My agency has the
+24.5
+21.6
+17.5
+1.1
+30.9
+analytical tools needed to collect, analyze, and use these.
+27c. [About statistics, research and analysis]: My agency has staff
+7.7
+21.5
+28.1
+14.3
+28.4
+with the knowledge and skills needed to collect, analyze and use
+27d. [About statistics, research and analysis]: My agency is investing
+11.7
+21.9
+13.8
+$
+44.6
+resources to improve its capacity to collect, analyze, and use these
+27e. My agency has staff with the knowledge and skills to integrate
+8.4
+16.5
+24.2
+12.0
+2.4
+36.6
+and compare findings from performance measurement, program
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Very great extent
+Great extent
+Moderate extent
+Small extent
+No extent
+Not applicable or Missing
+24
+HUD Capacity Assessment
+For the five Staff Skills questions contained in HUD's Senior Manager survey, an average of 76 percent of
+respondents selected strongly agree/agree (exhibit 8). Staff skills thus appear to be, in the eyes of
+responding senior managers, the least-weak area of HUD's evidence-building capacity. The strongest
+negative responses among these questions, 23 percent disagree/strongly disagree, were returned for
+Q17-which - like Q10 addresses the analytic tools and data assets available to staff.
+In comparison with the relatively small sample of senior managers, the HUD managers responding to the
+GAO survey were somewhat more negative concerning the adequacy of agency investments in good
+data, good systems, and adequate training to support effective performance analysis and management.
+Exhibit 8. Senior Manager Responses on Staff Skills and Tools for Evidence Building,
+2020 (n = 18)
+10. I have business intelligence systems and data that allow me to track
+the spending, operations, and performance of programs and make
+11%
+44%
+6%
+22%
+11%
+6%
+strategic decisions in a timely way.
+13. My staff has the capacity to understand evaluations and other
+39%
+33%
+17%
+11%
+research-based evidence that is relevant to improving outcomes.
+14. My staff has skills to identify and develop the information needed to
+33%
+50%
+6%
+6%
+6%
+run my programs.
+15. My staff has skills to tabulate, analyze and interpret the information
+28%
+44%
+17%
+6%
+6%
+needed to run and improve my programs.
+16. My staff has skills to communicate program purposes, processes, and
+56%
+33%
+11%
+outcomes.
+17. My staff has the tools and data assets needed to generate, analyze,
+22%
+39%
+11%
+17%
+6%
+6%
+and communicate information about my programs.
+0%
+20%
+40%
+60%
+80%
+100%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Not applicable
+5. Conclusion
+Reading together the results of the qualitative staff assessment, the GAO 2020 Manager Survey, and the
+HUD Senior Manager Survey, HUD's evidence-building capacity is seen to have significant strengths as
+well as areas needing improvement. Perceptions of staff skills range across the spectrum. It is likely that
+some offices have, at best, modest capacity to analyze data and evidence effectively. Large proportions
+of "[to a] moderate extent" responses to survey questions about staff skills suggest that, in numerous
+offices, investments in training may generate significant gains in analytic capacity at relatively modest
+cost. Generalized increases in demand for data analysis across the Department, however, also may
+require additional hiring of skilled staff.
+25
+HUD Capacity Assessment
+Topics for which survey respondents were most likely to return negative responses relate to inadequate
+data and systems for measuring and managing program performance. The responses to GAO's questions
+about the types of performance measures available to managers suggest significant gaps in performance
+information related to resource use and distributional outcomes, and effective use and communication
+of performance information (Exhibit 2). Senior managers responding to HUD's survey reported the lack
+of adequate information about outcomes or effects of HUD's programs on communities and on
+households, evidence for and effects of policy change (including program targeting policy), and the
+ability to monitor waste and performance of program partners (Exhibits 3 and 6). Such responses are
+consistent with this Capacity Assessment's review of the strengths and weaknesses of HUD's
+administrative data.
+The evidence lends credence to the substantial emphasis placed in the Evidence Act on the
+improvement and rationalization of data governance to support evidence-based policymaking.
+The survey findings complement the qualitative evidence of this Capacity Assessment, which frame a
+relatively strong program of evaluation, research, statistics and analytics that is centered in the Office of
+Policy Development and Research. The evaluation program draws strength from throughout the
+Department as the importance of building and deploying evidence effectively is increasingly well
+understood, and as program offices are engaged in identifying their learning and research priorities to
+develop the new Learning Agenda.
+26
+HUD Capacity Assessment
+6. Appendix A. OMB Circular A-11 (2021) Requirements for a Capacity
+Assessment
+20
+290.13 What is the Capacity Assessment for Statistics, Evaluation, Research, and Analysis that is
+required as part of the Evidence Act?
+The Evidence Act requires agencies to submit a Capacity Assessment for Statistics, Evaluation, Research,
+and Analysis (hereinafter referred to as "Capacity Assessment") every four years as part of their Strategic
+Plans. Led by the Evaluation Officer, in conjunction with the Statistical Official, Chief Data Officer, and
+other agency personnel, this requires agencies to conduct and provide an assessment of the coverage,
+quality, methods, effectiveness, and independence of the statistics, evaluation, research, and analysis
+efforts of the agency. Thus, agencies should assess their statistics, evaluation, research, and analysis
+activities against the following criteria:
+Coverage: what is happening and where is it happening?
+Quality: are the data used of high quality with respect to utility, objectivity, and integrity?
+Methods: what are the methods being used for these activities, do these methods incorporate
+the necessary level of rigor, and are those methods appropriate for the activities to which they
+are being applied?
+Effectiveness: are the activities meeting their intended outcomes, including serving the needs of
+stakeholders and being disseminated?
+Independence: to what extent are the activities being carried out free from bias and inappropriate
+influence?
+For each of the areas of assessment-statistics, evaluation, research and analysis-OMB encourages
+agencies to consider the above criteria and think about how those criteria apply for each of these activities
+within the agency.
+In considering the criterion above, agencies must also address the following as part of the Capacity
+Assessment for Statistics, Evaluation, Research, and Analysis:
+A list of the activities (e.g., programs, initiatives, etc.) and operations (e.g., administrative and
+support tasks) of the agency that are currently being evaluated and analyzed;
+The extent to which the evaluations, research, and analysis efforts and related activities of the
+agency support the needs of various divisions within the agency;
+The extent to which the evaluation, research, and analysis efforts and related activities of the
+agency address an appropriate balance between needs related to organizational learning, ongoing
+program management, performance management, strategic management, interagency and
+private sector coordination, internal and external oversight, and accountability;
+20
+Office of Management and Budget. 2021. "Circular No. A-11: Preparation, Submission, and Execution of the Budget."
+ttps://www.whitehouse.gov/wp-content/uploads/2018/06/a11.pdf (single file) or https://www.whitehouse.gov/wp-
+content/uploads/2018/06/a11 web toc.pdf (individual sections). Strategic planning, performance management, and evidence
+building topics are contained in Part 6. Additional guidance for the Capacity Assessment is found in sections 290.14 and 290.19.
+27
+HUD Capacity Assessment
+The extent to which the agency uses methods and combinations of methods that are appropriate
+to agency divisions and the corresponding research questions being addressed, including an
+appropriate combination of formative and summative evaluation research and analysis
+approaches;
+The extent to which evaluation and research capacity is present within the agency to include
+personnel and agency processes for planning and implementing evaluation activities,
+disseminating best practices and findings, and incorporating employee views and feedback; and
+The extent to which the agency has the capacity to assist agency staff and program offices to
+develop the capacity to use evaluation research and analysis approaches and data in the day-to-
+day operations.
+These specific requirements tie directly to the statutory criteria and address elements such as coverage
+(i.e., the list of activities and operations of the agency that are currently being evaluated or analyzed) and
+effectiveness (i.e., the extent to which these activities meet the needs of the agency and appropriately
+balance across those needs). In addition, these requirements touch on important areas like dissemination
+of findings from statistics, evaluation, research, and analysis activities (i.e., does the agency have processes
+and procedures in place to make sure findings are disseminated?), as well as the agency's capacity to use
+these findings (i.e., does the agency have processes, procedures, and trained staff in place to use the
+findings to support agency learning, improvement, and decision-making?) As agencies assess their capacity
+in the areas of coverage, quality, methods, effectiveness, and independence, it is important to consider not
+only whether and how the agency is doing those activities, but also whether they have staffing,
+infrastructure, and processes to do so. In that sense, this Capacity Assessment should be holistic,
+considering the agency's current capacity, but also what future capacity might be needed.
+The Capacity Assessment is expected to provide agencies with a baseline against which they can measure
+improvements to coverage, quality, methods, effectiveness, and independence of their statistics,
+evaluation, research, and analysis activities. The Capacity Assessment will provide senior officials with
+information needed to improve the agency's ability to support the development and use of evaluation,
+coordinate and increase technical expertise available for evaluation and related research activities within
+the agency, and improve the quality of evaluations and knowledge of evaluation methodology and
+standards.
+In conducting the assessment, agencies should draw on existing OMB guidance and policies, including, but
+not limited to:
+OMB Memorandum M-21-27, Evidence-Based Policymaking: Learning Agendas and Annual
+Evaluation Plans;
+OMB Memorandum M-19-23, Phase / Implementation of the Foundations for Evidence-Based
+Policymaking Act of 2018: Learning Agendas, Personnel, and Planning Guidance;
+OMB Memorandum M-20-12, Phase 4 Implementation of the Foundations for Evidence-Based
+Policymaking Act of 2018: Program Evaluation Standards and Practices;
+OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act;
+OMB Memorandum M-18-04, Monitoring and Evaluation Guidelines for Federal Departments
+and Agencies that Administer United States Foreign Assistance;
+Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of
+Information Disseminated by Federal Agencies; and
+28
+HUD Capacity Assessment
+OMB Statistical Policy Directives.
+In developing the Capacity Assessment, OMB encourages agencies to use a format, process, and structure
+that best meets their specific context. There is no template or specific format for this document, but OMB
+expects that each agency's assessment will include discussion and analysis of the five criteria (i.e.,
+coverage, quality, methods, effectiveness, and independence) for their statistics, evaluation, research,
+and analysis activities, including those specific components listed above. The Capacity Assessment must
+be a standalone component of the agency strategic plan. Agencies may include it as a separate section,
+chapter, appendix of, or document referenced in and posted along with, the strategic plan. If an agency
+chooses to include the Capacity Assessment as an appendix or separate referenced document, they must
+summarize the Capacity Assessment somewhere in the body of the strategic plan.
+29
+U.S. Department of Housing and Urban Development
+Office of Policy Development and Research
+Washington, DC 20410-6000
+OFF
+un the *
+April 2022
+EQUAL HOUSING
+OPPORTUNITY

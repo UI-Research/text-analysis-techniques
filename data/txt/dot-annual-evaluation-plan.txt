@@ -1,0 +1,411 @@
+FISCAL YEAR 2023
+EVALUATION PLAN
+U.S. DEPARTMENT OF TRANSPORTATION
+TABLE OF CONTENTS
+INTRODUCTION
+3
+Overview of Strategic Goals and Objectives
+4
+PLANNED EVALUATIONS FOR FY 2023
+6
+Federal Motor Carrier Safety Administration (FMCSA)
+6
+Federal Transit Administration (FTA)
+8
+ACRONYMS AND ABBREVIATIONS
+11
+U.S. Department of Transportation
+i
+INTRODUCTION
+The mission of the U.S. Department of Transportation is to deliver the world's leading transportation system,
+serving the American people and economy through the safe, efficient, sustainable, and equitable movement of
+people and goods.
+In accordance with the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act, Public Law No.
+115-435), the U.S. Department of Transportation (DOT OR the Department) is pleased to present the Fiscal Year
+(FY) 2023 Evaluation Plan. This plan describes the significant evaluation activities that are planned to occur in FY
+2023. It includes the key questions for each significant evaluation study and the associated information collections.
+It also outlines the Department's criteria for designating evaluations as "significant.'
+In addition to the evaluations described in this document, DOT intends to undertake additional evidence and
+evaluation projects going forward that will support the FY 2022 - 2026 Strategic Plan. The recent passage of the
+Bipartisan Infrastructure Law (BIL) also presents new opportunities to explore the effectiveness of programs and
+activities. For example, the Department has committed to incorporating evidence and evaluation work into the
+delivery of grant programs with a budget exceeding $1 billion. DOT will update its Evaluation Plan as it progresses in
+the implementation of BIL programs and ensure that it aligns with the Strategic Plan.
+As required by OMB Memorandum M-19-23, in developing a definition of significance, the Department considered
+factors such as:
+The importance of a program or funding stream to the Department's mission;
+The size of the program in terms of funding or population(s) served; and
+The extent to which the study would fill an important knowledge gap about the program, population(s) served,
+or the issue(s) the program was designed to address.
+DOT designates an evaluation as significant based on two criteria: the evaluation met the definition of a program
+evaluation as stated in the Evidence Act, and the evaluation has proposed funding in the FY 2023 budget request.¹
+This plan was created by the Office of the Assistant Secretary for Budget and Programs (OST-B). OST-B sought
+input from the Department-wide Performance Improvement Community and Evidence and Evaluation Working
+Group, in collaboration with the Office of the Chief Financial Officer from each Operating Administration. The
+Performance Improvement Community represents performance contacts from all Operating Administrations,
+designed to advance the Department's holistic use of evidence in decision-making. The Evidence and Evaluation
+Working Group is a working group of the Performance Improvement Community, comprised of subject matter expert
+representation from all Operating Administrations and the Office of the Secretary, in the areas of program evaluation,
+performance measurement, policy analysis, and research. This working group supports the Department in meeting
+all requirements under Title I of the Evidence Act, contributes to the maturation of the Department's capabilities
+in these areas, and fosters a culture of continuous learning and improvement through stakeholder engagement and
+education.
+OST-B is in the process of establishing more formal governance structures around conducting evaluations
+Department-wide, including the development and publication of the DOT Evaluation Policy as required by the
+Evidence Act. As the Department's capacity for evidence building matures, OST-B plans to provide additional
+guidance and resources for Operating Administrations around how to conduct evaluations and use the findings to
+inform programmatic and policy decisions.
+1 The Evidence Act defines program evaluation as "an assessment using systematic data collection and analysis of one or more programs,
+policies, and organizations intended to assess their effectiveness and efficiency."
+1
+FY 2023 Evaluation Plan
+Organizational Structure
+Congress established DOT in 1967, consolidating 31 transportation agencies and functions under the first U.S.
+Secretary of Transportation, Alan S. Boyd. Approximately 54,000 DOT employees continue to bring innovations and
+integrity to the work of improving the safety and performance of our multi-modal transportation system. Leadership
+of the Department is provided by the Secretary of Transportation, who is the principal advisor to the President in
+all matters relating to Federal transportation programs. The Office of the Secretary (OST) oversees nine Operating
+Administrations, each with its own management and organizational structure.
+F
+Federal Aviation
+Federal Highway
+Federal Motor Carrier Safety
+Administration (FAA)
+Administration (FHWA)
+Administration (FMCSA)
+Federal Railroad
+Federal Transit
+Great Lakes St. Lawrence Seaway
+Administration (FRA)
+Administration (FTA)
+Development Corporation (GLS)
+Maritime Administration
+National Highway Traffic
+Pipeline and Hazardous Materials
+(MARAD)
+Safety Administration
+Safety Administration (PHMSA)
+(NHTSA)
+Overview of Strategic Goals and Objectives
+The FY 2022 - 2026 Strategic Plan identifies six strategic goals, which are outcome-oriented, long-term goals for the
+major functions and operations of DOT. Each strategic goal has associated strategic objectives, which express more
+specifically the impact DOT is trying to achieve. The Department also establishes numerous performance goals that
+define what success looks like for each strategic objective, many of which support the transformational initiatives
+made possible by the IIJA. The graphic on the following page presents DOT's strategic goals and strategic objectives
+for FY 2022 - 2026.
+U.S. Department of Transportation
+2
+STRATEGIC GOALS
+STRATEGIC OBJECTIVES
+1.1
+SAFE PUBLIC
+1.2
+SAFE WORKERS
+SAFETY
+1.3
+SAFE DESIGN
+1.4
+SAFE SYSTEMS
+1.5
+CRITICAL INFRASTRUCTURE CYBERSECURITY
+2.1
+JOB CREATION AND FISCAL HEALTH
+ECONOMIC
+2.2
+HIGH-PERFORMING CORE ASSETS
+STRENGTH
+2.3
+GLOBAL ECONOMIC LEADERSHIP
+AND GLOBAL
+COMPETITIVENESS
+2.4
+RESILIENT SUPPLY CHAINS
+2.5
+SYSTEM RELIABILITY AND CONNECTIVITY
+3.1
+EXPANDING ACCESS
+3.2
+WEALTH CREATION
+EQUITY
+3.3
+POWER OF COMMUNITY
+3.4
+PROACTIVE INTERVENTION, PLANNING, AND CAPACITY BUILDING
+4.1
+PATH TO ECONOMY-WIDE NET-ZERO EMISSIONS BY 2050
+CLIMATE AND
+4.2
+INFRASTRUCTURE RESILIENCE
+SUSTAINABILITY
+4.3
+CLIMATE JUSTICE AND ENVIRONMENTAL JUSTICE
+5.1
+MATCHING RESEARCH AND POLICY TO ADVANCE BREAKTHROUGHS
+5
+5.2
+EXPERIMENTATION
+TRANSFORMATION
+5.3
+COLLABORATION AND COMPETITIVENESS
+5.4
+FLEXIBILITY AND ADAPTABILITY
+6.1
+CUSTOMER SERVICE
+6.2
+WORKFORCE DEVELOPMENT
+ORGANIZATIONAL
+6.3
+DATA-DRIVEN PROGRAMS AND POLICIES
+EXCELLENCE
+6.4
+OVERSIGHT, PERFORMANCE, AND TECHNICAL ASSISTANCE
+6.5
+SUSTAINABILITY INITIATIVES
+6.6
+ENTERPRISE CYBER RISKS
+3
+FY 2023 Evaluation Plan
+PLANNED EVALUATIONS FOR FY 2023
+The FY 2023 Evaluation Plan includes three significant evaluations from the Federal Motor Carrier Safety
+Administration (FMCSA) and the Federal Transit Administration (FTA). While DOT recognizes the breadth of
+assessment and analysis activities occurring across the Department, they do not currently meet the definition of
+significance as defined above. In future years, the Department hopes to broaden the scope of its Annual Evaluation
+Plan to include more Operating Administrations and OST offices.
+Federal Motor Carrier Safety Administration (FMCSA)
+Electronic Logging Device Rule - Regulatory Effectiveness Review
+The electronic logging device (ELD) rule is intended to help create a safer work
+environment for drivers, and make it easier and faster to accurately track, manage,
+and share records of duty status data. An ELD synchronizes with a vehicle engine to
+Overview
+automatically record driving time for easier, more accurate hours of service recording.
+FMCSA plans to begin this evaluation in FY 2023 and conclude in FY 2024. The
+evaluation will be performed by FMCSA's Office of Policy with contractor support and
+two or three subject matter experts (SMEs) from the Office of Compliance.
+Were the intended safety outcomes of the ELD rule achieved?
+Evaluation
+Question
+The final evaluation objectives and related questions will be identified during the
+planning/implementation phase of the evaluation.
+Safety risk data from Motor Carrier Management Information System, Safety
+Information
+Measurement System, and Fatality Analysis Reporting System to gather data on
+Needed
+carrier investigations, roadside inspections, carrier, and driver performance. Additional
+information will be collected from SMEs and industry.
+FMCSA will perform qualitative and quantitative analysis by collecting historical
+Methods
+and trend data from existing data systems. FMCSA will conduct pre- and post-ELD
+implementation analysis and conduct surveys and interviews to collect SME and
+industry information.
+Anticipated
+FMCSA does not anticipate any challenges associated with this evaluation.
+Challenges
+The final report will be issued internally containing Findings and Recommendations
+to guide FMCSA decision-making. FMCSA will develop and implement corrective
+Dissemination
+actions to the recommendations. Corrective actions could include but are not limited to
+changing rules, policies, and/or implementing training.
+U.S. Department of Transportation
+4
+Effectiveness of the Drug and Alcohol Clearinghouse Rule Data Reporting and Use
+FMCSA established the Commercial Driver's License Drug and Alcohol Clearinghouse
+(Clearinghouse) through a recent rulemaking. This new database contains information
+pertaining to violations of the DOT controlled substances (drug) and alcohol testing
+program for holders of commercial driver's licenses (CDLs). The Clearinghouse
+provides FMCSA and employers the necessary tools to identify drivers who
+are prohibited from operating a CMV based on DOT drug and alcohol program
+Overview
+violations and ensure that such drivers receive the required evaluation and treatment
+before operating a commercial motor vehicle (CMV) on public roads. An outcome
+evaluation will be performed four years after the Clearinghouse has been operational
+to understand its effectiveness, best practices, and opportunities for improvement.
+FMCSA plans to begin this evaluation in FY 2023 and conclude in FY 2024. The
+evaluation will be performed by FMCSA's Office of Policy with contractor support and
+two or three SMEs from the Office of Compliance.
+Evaluation
+Is the Drug and Alcohol Clearinghouse being used as intended by the regulation?
+Questions
+Is industry complying with data reporting and use requirements?
+Information
+Data and information will be collected from the Clearinghouse, other systems (to be
+Needed
+identified), interviews, and surveys.
+Methods
+FMCSA will perform qualitative and quantitative analyses that will be identified during
+the initial phase of the evaluation to identify specific data and information requirements.
+Anticipated
+Accessing the timely receipt of driver data located in systems outside FMCSA's control.
+Challenges
+The final report will be issued internally containing Findings and Recommendations
+to guide FMCSA decision-making. FMCSA will develop and implement corrective
+Dissemination
+actions to the recommendations. Corrective actions could include but are not limited to
+changing rules, policies, and/or implementing training.
+5
+FY 2023 Evaluation Plan
+Federal Transit Administration (FTA)
+Transit Asset Management Program Evaluation
+Transit asset management (TAM) is a business model that prioritizes funding based
+on the condition of transit assets to achieve and maintain a state of good repair (SGR)
+for the nation's public transportation assets. In accordance with the Moving Ahead
+for Progress in the 21st Century Act (MAP-21), the 2016 TAM final rule developed a
+framework for transit agencies to monitor and manage public transportation assets,
+improve safety, increase reliability and performance, and establish performance
+measures in order to help agencies keep their systems operating smoothly and
+efficiently. The regulations apply to all transit providers that are recipients or sub-
+recipients of federal financial assistance under 49 U.S. Code Chapter 53 and who own,
+operate, or manage transit capital assets used in the provision of public transportation.
+Transit agencies are required to develop TAM plans and submit their performance
+measures and targets to the National Transit Database on a regular basis.
+In 2019, FTA began a multi-year evaluation of the TAM program and associated TAM
+rule, which will be completed in FY 2023. To date, FTA and its partners at the John
+A. Volpe National Transportation Systems Center are evaluating the program in three
+dimensions:
+Overview
+Policy Change: Changes to Federal Policy and FTA grantmaking introduced
+or required by the TAM Rule, MAP-21, and the Fixing America's Surface
+Transportation Act, as well as related guidance development, communications,
+and outreach. Related findings often discuss changes within FTA, the way it
+interacts with grantees, and the ability of the rule to be implemented by transit
+agencies.
+Organizational Change: Updates to the organizational structure or organizational
+functioning of transit agencies, following either the TAM plan requirement or
+a move toward a TAM approach. Related findings include changes in agency
+processes, staffing structures, and outcomes of the asset management process.
+Industry Change: The intermediate- to long-term change in practice in the
+transit industry and at transit agencies to reflect a broad focus on improved asset
+management. Related findings include how agencies utilize data for decision
+making and the effects of uncertain funding on maintenance, operations, and
+capital spending.
+Policy Change
+Has the FTA final rule been an effective regulatory action in terms of the
+regulatory goals to advance performance management and TAM?
+Are there updates to the regulation would more effectively meet the goals of
+advancing performance management and TAM practices?
+Evaluation
+Have FTA's communications, guidance, and support effectively addressed the
+Questions
+challenges faced by transit agencies and grantees in the implementation of the
+TAM final rule?
+Do Tier 2 agencies benefited from developing the additional TAM plan elements,
+such that the potential economic benefit or cost savings outweigh the time and
+cost burden of developing those elements?
+Have transit agencies faced a higher-than-expected increase in the number of
+compliance findings or reviews as a result of the TAM plan requirement?
+U.S. Department of Transportation
+6
+Organizational Change
+Has the TAM final rule led to an overall move toward a comprehensive TAM culture
+within agency organizations throughout the transit industry?
+Have agency efforts to implement the TAM requirements led to changes in
+organizational structure or key functions? If yes, to what extent?
+Have the changes in organizational structure resulted in intended improvements
+to agency business processes, in terms of internal coordination, interagency
+collaboration, hiring, or other practices?
+Evaluation
+Industry Change
+Questions
+Has the implementation of the TAM requirements improved SGR of the nation's
+transit systems?
+Has the SGR backlog nationwide been reduced as a result of the requirements?
+Has the TAM plan and performance management requirements improved overall
+outcomes for the transportation system, including safety, service reliability,
+operations and maintenance costs, and system performance?
+Have agency efforts to implement the TAM requirements led to overall cost savings,
+economic improvement, or reduced taxpayer costs for transit operations?
+Since FY 2019, FTA has collected information from agency interview responses, FTA
+Information
+TAM Points of Contact survey responses, FTA TAM Points of Contact focus group
+Needed
+responses, agency asset inventories, agency narrative reports, agency credit reports,
+media tweets, program engagement data, and national peer exchange event registration
+data. Quantitative and qualitative data collection will conclude in FY 2022.
+FTA and the evaluation team are conducting the following evaluation activities:
+Agency interviews and focus groups: Interviewing agencies representing a range
+of FTA regions and agency types and holding focus groups with regional Points of
+Contact to collect qualitative data relevant to the evaluation questions.
+Analysis of agency-reported asset inventory data from the National Transit
+Database (NTD): Analyzing data that agencies are required to submit on their
+assets and the SGR of their systems to the NTD each year. The data cover four
+asset categories: revenue vehicles, service vehicles, facilities, and infrastructure.
+Also included are quantitative targets agencies set for performance measures, and
+information on agency finances.
+Methods
+Review of NTD Narrative Reports: The TAM Rule requires transit agencies to
+submit data on their assets and asset management process to the NTD, including
+qualitative descriptions of the asset management process. The evaluation team
+is conducting a content analysis of a representative sample of narrative reports to
+analyze trends across asset category and agency types.
+Review of agency credit reports: Analyzing agency credit ratings from Moody's
+Investors Service to identify connections between an agency's SGR and its
+financial health.
+Review of social media mentions of TAM-related topics: Using a Python script
+to scrape the Twitter feeds of transit-related media groups and general news
+organizations for tweets pertaining to transit. Feeding the data into a statistical
+computing software to analyze for TAM-related terms.
+7
+FY 2023 Evaluation Plan
+Quarterly data collection: Analyzing data that the TAM program collects quarterly
+on outreach activities and engagement with agencies. The data contribute to the
+overall program evaluation by documenting changes in agency engagement with
+FTA's TAM Program over time, as well as topics of interest for agencies.
+Methods
+Analysis of roundtable registration data on agency competency in TAM: The TAM
+program hosts annual roundtable events to connect recipient agencies, present
+information on TAM topics, and facilitate learning about the state of the practice.
+Registration for the event includes providing information related to agency staff
+and experience with TAM practices. The evaluation team is collecting and coding
+data from registrations to find emerging themes.
+The TAM program applies to a wide variety of organizations, from large multimodal
+transit systems with significant assets to small rural transit systems and Tribal transit
+operators. FTA has sought data from a cross-section of stakeholders to ensure that
+different types of stakeholders are represented in the responses.
+Anticipated
+Challenges
+The evaluation team expects that most of its future findings will reflect not only the
+impacts of the TAM program, but also potentially the impacts of the COVID-19
+pandemic on agencies and on industry-wide SGR. These impacts may be difficult to
+isolate, and future evaluation efforts may need to be tailored to attempt to distinguish
+between changes pre- and post-pandemic.
+The findings of the evaluation will be submitted in a report to the program managers,
+Dissemination
+who will then develop strategies for program improvement based on the results. A high-
+level summary of the findings will also be published on the TAM website.
+U.S. Department of Transportation
+8
+ACRONYMS AND ABBREVIATIONS
+CDL
+Commercial driver's license
+CMV
+Commercial motor vehicle
+DOT
+Department of Transportation
+ELD
+Electronic logging device
+FMCSA
+Federal Motor Carrier Safety Administration
+FTA
+Federal Transit Administration
+FY
+Fiscal year
+MAP-21
+Moving Ahead for Progress in the 21st Century Act
+NTD
+National Transit Database
+SGR
+State of good repair
+SME
+Subject matter expert
+TAM
+Transit Asset Management
+TIFIA
+Transportation Infrastructure Finance and Innovation Act
+VAM
+Vessel Acquisition Manager
+U.S. Department of Transportation
+9
+2
+U.S. Department
+of Transportation
+1200 New Jersey Ave SE
+Washington, D.C. 20590

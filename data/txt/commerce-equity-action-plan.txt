@@ -1,0 +1,995 @@
+UNITED STATES DEPARTMENT OF COMMERCE
+OF
+C
+any
+*
+which
+STATES
+OF
+U.S. DEPARTMENT OF COMMERCE
+EQUITY ACTION PLAN
+Executive Order 13985
+Advancing Racial Equity and Support for Underserved Communities Through the
+Federal Government
+OF
+AND
+noar
+NTIA
+S
+OF
+CANIONS
+&
+NTIS
+MINORITY BUSINESS
+DEVELOPMENT AGENCY
+U.S. DEPARTMENT OF COMMERCE
+bea
+,
+AND
+National Technicol Information Service
+STATES
+OF
+Bureau of Economic Analysis
+u.s. DEPARTMENT OF COMMERCE
+or
+OF
+INTERNATIONAL
+NIST
+T R A D E
+ADMINISTRATION
+Op
+STATES of
+United States
+un
+Census
+Bureau
+INDUSTRY AND
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+U.S. Department of Commerce
+Executive Order 13985
+Advancing Racial Equity and Support for Underserved Communities Through the Federal Government
+Cabinet-Level Equity Action Plan
+Submitted to the
+Domestic Policy Council and Office of Management and Budget
+Executive Order 13985, Advancing Racial Equity and Support for Underserved Communities Through the Federal
+Government was introduced on January 20, 2021. As a first action item in support of this executive order, Department of
+Commerce submitted the "Department of Commerce 200-Day Assessment Report" on August 9, 2021 - which was met
+with department-specific and general feedback from the Office of Management and Budget on September 22, 2021.
+This document, per Executive Order 13985, contains the Department of Commerce Equity Action Plan to meaningfully
+address the barriers and opportunities identified through the cabinet-level agency's equity assessment, which includes
+action items at the subcomponent level. This document will be used to help set public expectations and promote
+accountability as the agency develops its longer-term equity implementation strategy.
+Department of Commerce Subcomponent Bureaus
+Bureau of Economic Analysis
+National Institute of Standards and Technology
+Bureau of Industry and Security
+National Oceanic and Atmospheric Administration
+U.S. Census Bureau
+National Technical Information Service
+Economic Development Administration
+National Telecommunications and Information Administration
+Office of the Undersecretary for Economic Affairs
+U.S. Patent and Trademark Office
+International Trade Administration
+Office of the Secretary
+Minority Business Development Agency
+OF
+DOC Equity Action Plan I Page 1
+P
+any
+No
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+EXECUTIVE SUMMARY:
+The U.S. Department of Commerce (DOC or Department) plays a critical role in driving U.S.
+competitiveness. The Department has long declared that its mission is "to create the conditions for
+economic growth and opportunity." In the FY 22-FY26 Department of Commerce Strategic Plan, DOC
+Secretary Gina Raimondo commits the Department to a new mission statement: "to create the
+conditions for economic growth and opportunity for all communities." The addition acknowledges that
+global competitiveness and sustained economic growth require that all communities have an
+opportunity to participate in the 21st Century economy. In short, inclusive growth is good economics.
+We fail to meet our full potential as a nation unless we harness the talents and strengths of all parts of
+the country, including women, people of color, and others who are too often left behind.
+In pursuit of the new mission, the Department will drive both external-facing efforts to empower
+underserved communities in the economy and internal efforts to build a diverse, equitable, inclusive,
+and accessible organization.
+The following plan focuses on the Department's commitments to Advancing Racial Equity and Support
+for Underserved Communities through the Federal Government, as directed by Executive Order (EO)
+13985. The EO called for federal agencies to assess whether underserved communities face systemic
+barriers in equitably accessing services and develop a plan for addressing any barriers that were
+identified through an equity assessment.
+The Department of Commerce has laid the foundation for programing and policies that will reach a
+larger and more diverse audience, and address key barriers to economic success for historically
+underserved communities. Department leadership is committed to incorporating equity into every
+stream of work. In this report, we highlight three broad goals. Using the range of Commerce tools, from
+economic development dollars, to export promotion and business counseling, to data and technology
+knowledge, the Department will:
+Build innovation ecosystems in historically underserved communities.
+Equity Action #1: Close the digital divide: Through the National Telecommunications and
+Information Administration (NTIA), the Department will lead the Administration's efforts
+to bring reliable, affordable, high speed internet access to all Americans. NTIA will
+measure success both in terms of access and adoption, ensuring the broadband
+investments effectively connect millions of underserved Americans to the innovation
+economy.
+Equity Action #2: Ensure community development dollars advance racial equity and
+support underserved communities: Through the American Rescue Plan (ARP), the
+Economic Development Administration (EDA) received funding commensurate with its
+ambitious goals - to transform communities across America - spurring job creation,
+entrepreneurship, and innovation. In this new chapter, EDA has explicitly prioritized
+equity, ensuring investment dollars reach communities of color and rural communities
+that have been historically underserved.
+Grow businesses in underserved communities:
+Equity Action # 3: Grow Minority Business Enterprises (MBE): Through the Minority
+Business Development Agency (MBDA), authorized for the first time under the
+Infrastructure Investment and Jobs Act (IIJA), the Department of Commerce will support
+MBEs through technical assistance, access to capital, and access to contracts. MBDA will
+measure success by growth in revenue and employment of the MBEs served.
+OF
+DOC Equity Action Plan Page 2
+C
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+Equity Action #4: Strengthen small businesses in underserved communities by helping
+them be successful exporters: Through the International Trade Administration (ITA), the
+Department will double the number of businesses that receive export support services,
+prioritizing those from historically underserved communities. Through this initiative, ITA
+will increase business resilience, growth, and employment.
+Make Department of Commerce services, science, and data more accessible
+Equity Action #5: Increase access to the patent and trademark systems for inventors and
+entrepreneurs from historically underserved communities: The U.S. Patent and
+Trademark Office (USPTO) will increase engagement, expand training and increase pro
+bono services in order to expand access to the U.S. patent system. Expanding
+opportunity for all entrepreneurs will increase support for new business growth and
+enhance domestic competitiveness.
+Equity Action #6: Make Department of Commerce science and data more findable,
+accessible, and usable: Underserved communities face significant barriers in accessing
+the Department's data and science programs. To ensure all communities benefit from
+these resources, the Department is engaged in both bureau-specific and cross-
+department efforts to engage new stakeholders and develop new tools.
+BACKGROUND:
+On January 20, 2021, the President issued EO 13985, Advancing Racial Equity and Support for
+Underserved Communities Through the Federal Government, calling for federal agencies to assess
+whether underserved communities face systemic barriers in equitably accessing services and develop a
+plan for addressing any barriers that were identified through an equity assessment. As a first action item
+in support of this executive order, DOC submitted the "Department of Commerce 200-Day Assessment
+Report" on August 9, 2021.
+This assessment includes the following five pillars that are designed to guide the Department's
+commitment to creating a more equitable and inclusive economy:
+1. Investments: Support minority entrepreneurs through technical assistance and access to capital
+to nurture their companies at critical stages of development and growth.
+2. Capabilities and Knowledge Sharing: Develop tools and resources for minority entrepreneurs to
+successfully operate their companies.
+3. Opportunities: Create funding, training, and technical assistance programs and establish
+partnerships so that underrepresented groups can contribute to the emerging technologies
+space.
+4.
+People: Ensure people and families can thrive in their communities by realizing gains from their
+participation in the economy.
+5. Service Delivery: Ensure department services are data-driven and strengthened to meet the
+needs of underrepresented groups.
+As an immediate response to the assessment, the Department launched the DOC Diversity, Equity,
+Inclusion, and Accessibility Council (Council), also known as the DOC Equity Council, which is chaired by
+the Deputy Secretary and includes cross-bureau representation on the following committees:
+Accessibility
+Environmental Justice
+Gender
+LGBTQIA+
+OF
+DOC Equity Action Plan Page 3
+P
+any
+No
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+Measurement
+Race and Ethnicity
+Underserved Communities and Businesses
+Workplace Culture.
+The Council demonstrates senior leadership's commitment to cultivating a culture of fairness that is
+cross-cutting against both internal and external service delivery areas. The various committees will also
+help to ensure strategic alignment with other key EOs, such as EO 14035 on Diversity, Equity, Inclusion,
+and Accessibility in the Federal Workforce.
+SUMMARY OF EARLY ACCOMPLISHMENTS
+Since the release of EO 13985 on January 20, 2021, the Department has worked to address barriers to
+services through implementation of legislation and program design, and broad efforts to expand access
+and outreach to our core Department services.
+Build innovation ecosystems in historically underserved communities.
+NTIA: Launched the Office of Minority Broadband Initiatives (OMBI), to expand NTIA's reach to
+engage Historically Black Colleges and Universities (HBCUs), Tribal Colleges and Universities
+(TCUs), Minority Serving Institutions (MSIs), and their surrounding anchor communities. OMBI
+sits within NTIA's Office of Internet Connectivity and Growth (OICG) and was authorized by
+Section 902 of the Consolidated Appropriations Act of 2021.
+NTIA: As part of its Tribal Broadband Connectivity Program (TBCP), NTIA provided technical
+assistance webinars, tribal consultations, and direct outreach to individual, regional, and
+national tribal organizations. NTIA reached more than 300 tribes, prioritizing those with limited
+or inadequate access to broadband. This outreach resulted in over 300 applications representing
+more than 450 Federally recognized tribes and requesting nearly $6 billion in funds-more than
+6 times the $980 million available. Separately, NTIA helped over 1,000 participants prepare as
+potential applicants for the Connecting Minority Communities (CMC) Pilot Program, which
+received more than 200 applications with requests totaling approximately $833 million in
+funding (with $268 million available).
+USPTO: Chaired by the Secretary of Commerce, the newly launched Council for Inclusive
+Innovation (CI²) is designed to help develop a comprehensive national strategy to build a more
+inclusive innovation ecosystem.
+Grow businesses in underserved communities.
+MBDA: On November 15, 2021, President Biden signed the Minority Business Development Act
+of 2021 (Division K - Infrastructure Investment and Jobs Act PL. 117-58). The Act codifies the
+Minority Business Development Agency within the Department of Commerce and appoints an
+Under Secretary to lead MBDA. The Act establishes MBDA's mission to support and grow MBEs.
+It also calls upon MBDA to establish new regional offices, reach rural communities, establish an
+advisory council, and serve as federal coordination hub of all MBE-related federal programs, and
+conduct research and information pertaining to MBEs.
+MBDA: In FY20, MBDA invested approximately $10M under the Coronavirus Aid, Relief, and
+Economic Security (CARES) Act through thirty (30) awards to business and specialty centers and
+minority chambers of commerce. These awards provide education, training, and advising to
+small, minority-owned enterprises (SMEs) in their recovery efforts. In FY 21, MBDA received
+OF
+DOC Equity Action Plan Page 4
+P
+any
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+$25M in Coronavirus Response & Relief funding under the Consolidated Appropriations Act.
+MBDA is deploying these funds to its existing business and specialty centers to assist MBEs with
+preventing, preparing for, and responding to coronavirus in their recovery from the effects of
+COVID-19 crisis.
+ITA: Through the new Global Diversity Export Initiative (GDEI), ITA provides export assistance to
+U.S. businesses from underserved communities across America. ITA is uniquely positioned to
+leverage its network of trade professionals across the United States and around the world, as
+well as partner with national, regional, and local minority chambers of commerce, to help more
+businesses in underserved communities to identify export opportunities, access financing, and
+connect with potential international buyers and partners. Since its launch, ITA has selected a
+GDEI team lead to coordinate ITA's underserved community export efforts, signed strategic
+partnerships with key community stakeholders, and conducted a series of educational webinars
+and programs for outreach across the country.
+National Institute of Standards and Technology (NIST): Through the "Enhancing Diversity in
+Manufacturing" competitive award, four Manufacturing Extension Partnership (MEP) centers
+will increase student participation in industry internships across Minority-Serving Institutions-
+placing up to eight (8) interns in the first year and up to sixteen (16) interns in the second year.
+Make Department of Commerce services, science, and data more accessible.
+National Oceanic and Atmospheric Administration (NOAA): NOAA amended Sea Grant Program
+communications to use more inclusive language. The National Sea Grant Advisory Board
+established a sub-committee on social justice and resiliency.
+Census Bureau: Census launched a new 'Data for Equity' website on Census.gov) and added an
+Equity page on the COVID-19 Data Hub Census COVID-19 Data Hub to provide easy access to
+equity-focused tools. The tools allow users quick access to census county and tract data on
+social vulnerability and equity gaps from the Census Bureau's Community Resilience Estimates,
+the American Community Survey (ACS), the Census Planning Database, Census Business Builder,
+and Opportunity Atlas. Various federal agencies, such as the Federal Emergency Management
+Agency, Department of Health and Human Services, and Department of Agriculture (USDA) have
+utilized these data equity tools and training materials.
+ACTION PLANS:
+The Department of Commerce is committed to building on the above progress to advance its new
+mission: "to create the conditions for economic growth and opportunity for all communities."
+Equity Action #1: Closing the digital divide
+Barrier to equitable outcomes: Broadband is an engine for opportunity in the modern economy and a
+necessary foundation for inclusive growth. It can close geographic and economic gaps between rural and
+urban areas, transform distressed areas, drive global competitiveness, and increase national economic
+resiliency. Further, broadband is an essential component of modern life and has become a requirement
+to participate equally in education, employment, health care, and public safety services. Indeed, for
+many, broadband literally kept families connected to their jobs and schools through the worst of the
+COVID-19 pandemic. Yet many Americans-and disproportionately those living in rural areas, on Tribal
+lands, and in communities of color-do not have access to reliable, affordable, high-speed broadband,
+nor the tools to use such services, and to this day, in 2022, a digital divide persists. Maximizing
+broadband coverage and its meaningful use is imperative for national and individual success. The
+OF
+DOC Equity Action Plan Page 5
+C any
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+Department seeks to address these digital inequalities to promote not only the availability of reliable,
+affordable high speed broadband access but also the adoption and meaningful use of broadband for all
+Americans.
+Disproportionate broadband access: The Federal Communications Commission has been tasked
+with developing broadband maps which will identify on a location-by-location basis the number
+of households unserved by highspeed internet infrastructure. Using the current maps, we
+estimate that more than 30 million Americans live in areas where there is no broadband
+infrastructure that provides minimally acceptable speeds - a particular problem in rural
+communities and on Tribal lands.
+Disproportionate broadband adoption: According to the NTIA Internet Use Survey, 26% of
+Americans did not use the internet from home in 2019; however, for certain populations, the
+number was much higher: 32% of rural households did not use the internet at home, 33% of
+African American households did not use the internet at home, and 43% of low-income
+households (less than $25K/year) did not use the internet at home. According to the American
+Community Survey, conducted by the U.S. Census Bureau, in 2019, only 69% of households on
+federal Trust lands had a broadband subscription at home.
+Action and intended impact: To chart a path toward universal broadband access, affordability, and
+adoption, the Department will administer nearly $50B in grant funds through NTIA to invest in
+broadband infrastructure deployment, affordability, and digital inclusion efforts. The Department will
+focus its investments, outreach, and related technical assistance on those communities and other areas
+of the Nation that have largely been left behind in the digital revolution to ensure that all American's
+have an opportunity to participate equitably in the modern digital economy. NTIA will:
+Expand universal access through state and territory broadband grants: Through State and
+territory programs, NTIA will facilitate broadband infrastructure investments and grant
+programs focused on developing actionable plans for the respective communities to close the
+digital divide. In addition to building physical infrastructure in communities currently lacking
+reliable, affordable, high speed broadband, these grant programs will promote community
+engagement, requiring awardees to focus on those communities with the greatest needs,
+including Tribal nations, to provide input and insight on community broadband needs and
+initiatives to deploy broadband infrastructure in areas without broadband, but also to support
+the adoption of and meaningful use of broadband.
+Broadband equity, access, and deployment (BEAD) program: NTIA will distribute
+$42.45B among states, territories, D.C., and Puerto Rico for projects that support
+broadband infrastructure deployment and adoption. Eligible entities will receive initial
+funds to support broadband planning and related capacity efforts, from mapping,
+staffing state/territory broadband offices, to outreach and coordination with local
+communities. In the near term, NTIA will administer funds to support 56 states and
+territories with the development of Five-Year Broadband Action Plans to outline the
+respective State/Territory's efforts to close the digital divide. These plans must address
+local and community needs, including those of Tribal nations; identify those areas that
+need to be prioritized for Federal broadband investment; and propose solutions for the
+deployment of reliable, affordable, high speed broadband within that
+state/territory. After this planning phase and once the FCC releases location-based
+mapping of broadband availability, the remaining funding will be allocated based on a
+formula that considers the number of unserved and high-cost locations in the
+state. States and territories will then propose projects that meet the statutory priorities,
+OF
+DOC Equity Action Plan
+Page 6
+C
+which
+1
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+the first priority being funding to provide broadband to unserved areas (those below
+25/3 Mbps), followed by underserved areas (those below 100/20 Mbps), and then
+serving community anchor institutions (1/1 Gbps).
+Enabling middle mile broadband infrastructure program: NTIA will distribute $1B to
+expand and extend middle mile infrastructure to reduce the cost of connecting
+unserved and underserved areas to the internet backbone.
+Digital equity act: NTIA will distribute $2.75B to states and territories to promote digital
+inclusion and ensure all individuals and communities have the opportunity to acquire
+the same skills, technology, and capacity needed to engage in the nation's digital
+economy. In the near term, NTIA will administer the $60M State Digital Equity Planning
+Grant Program to support the development of Digital Equity Plans for all 50 states and
+the District of Columbia and Puerto Rico. These plans will require awardees to develop
+digital equity and inclusion plans and mechanisms to support broadband adoption and
+use across specific covered populations, including but not limited to communities of
+color, rural communities, and Tribal communities, inclusive of aging individuals,
+incarcerated people, veterans, people with disabilities, speakers of diverse languages,
+and low literacy populations. Once the planning phase concludes, NTIA will administer
+the $1.44B State Digital Equity Capacity Grant Program, a formula grant program for
+states and territories to implement their Digital Equity Plans. Finally, NTIA will
+administer the $1.25B Digital Equity Competitive Grant Program for specific political
+subdivisions to implement digital equity projects.
+In the upcoming planning periods for both the BEAD Program and the State Digital Equity
+Planning Grant Program, NTIA will provide proactive one-to-many and one-on-one technical
+assistance to states and territories to support their planning efforts. This includes specific
+technical assistance to support outreach and engagement with communities of color, rural
+communities, Tribal communities, and vulnerable populations to ensure planning efforts are
+inclusive and equitable.
+Expand affordable and reliable access to high speed broadband service through direct grants:
+Through its Broadband Infrastructure Program (BIP), Connecting Minority Communities (CMC)
+Pilot Program, and Tribal Broadband Connectivity Program (TBCP), NTIA will administer more
+than $1.5B in grant awards for projects in areas without broadband service to provide at least
+330,000 households with reliable and affordable access to high speed internet service and
+provide grants to HBCUs, TCUs, and MSIs to promote broadband adoption and use in their
+respective communities. In addition, through the Bipartisan Infrastructure Law, NTIA received an
+additional $2B to support the Tribal Broadband Connectivity Program.
+Through the TBCP, NTIA will fund projects that will provide more than 200,000 Tribal
+households with either reliable, affordable high-speed broadband access or subsidized or
+free broadband access.
+Through the BIP, NTIA is funding reliable, affordable high speed broadband infrastructure
+deployment to more than 130,000 homes in predominantly rural areas.
+Through the CMC Pilot Program, NTIA will award $268M in grant funding to HBCUs, TCUs,
+and MSIs for the purchase of broadband internet access service and eligible equipment or to
+hire and train information technology personnel. NTIA will provide metrics to track intended
+outcomes by May 2022, once all grant awards have been made.
+NTIA will provide on-going technical assistance support to all awardees to successfully
+implement their projects and to realize the intended outcomes.
+OF
+DOC Equity Action Plan
+Page 7
+any
+No
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+Tracking progress: NTIA will track its progress towards eliminating the digital divide by collecting
+performance and results data for grant-funded projects, such as TBCP, BIP, CMC. These data points will
+include but are not limited to the numbers of homes or locations passed by broadband, number of
+individuals or households receiving subsidized or free broadband services, and number of training hours
+provided to communities. NTIA will track the completion and submission of the State and Territory
+Digital Equity Plans and the Five-Year Broadband Action Plans. NTIA also will track its efforts to provide
+technical assistance to support all grant-funded efforts, from infrastructure deployment to planning and
+engagement with communities with the greatest broadband need. For planning grants, NTIA will be able
+to track results and success of planning efforts through the state and territory selection of subgrants for
+broadband infrastructure deployment in the BEAD Program and digital inclusion and equity projects in
+the state capacity grants for digital equity - representing a combined total of $42B in funding. Further,
+in 5-7 years from grant award, NTIA will be able to conduct an economic impact analysis for areas in
+which the Department invested funds for broadband efforts to assess its impact, from access and
+adoption, through improved economic, health, and educational outcomes.
+Accountability: The Department, acting through NTIA, intends to hold itself accountable by developing
+comprehensive plans, to include milestones for critical activities needed to support the successful
+implementation of its grant programs and technical assistance. NTIA will also conduct proactive
+outreach and engagement with communities of color, rural communities, and Tribal communities, as
+well as groups representing vulnerable populations to ensure understanding of their unique community
+needs, identify any associated barriers to promote their engagement with NTIA's programs, and obtain
+feedback on how NTIA could further support their communities.
+Equity Action #2: Ensure economic development dollars advance racial equity and support
+underserved communities:
+Barriers to equitable outcomes: Currently, underserved communities, particularly communities of color
+and rural communities, face several barriers when it comes to economic development and job creation.
+First, underserved communities face a legacy of discrimination in private lending, lower levels of wealth,
+and other systemic inequities that cannot be ignored by any policy maker. Second, many underserved
+communities are not aware of funding opportunities, such as grant programs to support economic
+development or technical assistance to aid in developing or implementing an economic plan. Third,
+many underserved communities lack capacity to effectively develop and/or implement an economic
+development plan. Even with sufficient funding, underserved communities often face inadequate
+access to resources, technical assistance, or networks needed to effectively carry out their plans. Lastly,
+economic opportunities or programs may unintentionally disadvantage these communities, which may
+stem from how these opportunities, programs, and/or services are designed, delivered, marketed, or
+evaluated. These are all barriers EDA aims to help overcome through more intentional program design,
+outreach, evaluation of programs and technical assistance.
+Actions and intended impact: To effectively advance equity, EDA is aiming to ensure the benefits
+achieved through its programs are equitably realized by all communities, including underserved
+communities, such as communities of color and rural communities. Specifically, EDA will track measures
+including but not limited to the following:
+Estimated jobs created and retained for underserved populations and geographies.
+Private investment funds leveraged for underserved populations and geographies.
+Total sum of funding secured by entrepreneurs in underserved population and geographies.
+OF
+DOC Equity Action Plan Page 8
+C
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+EDA sets Investment Priorities to provide an overarching framework to ensure its grant investment
+portfolio supports regional economies to prosper and become more resilient. In 2021, EDA revised its
+Investment Priorities to align with the Biden-Harris Administration Management Agenda. At the top of
+the list of these priorities is Equity, which EDA defines as follows: "Economic development planning or
+implementation projects that advance equity across America through investments that directly benefit
+1) one or more traditionally underserved populations, including but not limited to women, Black, Latino,
+and Indigenous and Native American persons, Asian Americans, and Pacific Islanders, or 2) underserved
+communities within geographies that have been systemically and/or systematically denied a full
+opportunity to participate in aspects of economic prosperity such as Tribal Lands, Persistent Poverty
+Counties, and rural areas with demonstrated, historical underservice." This definition closely aligns with
+EO 13985 on "Advancing Racial Equity and Support for Underserved Communities Through the Federal
+Government".
+To achieve the stated impact of raising wages, creating jobs and expanding business ownership in
+underserved communities, EDA has adopted specific measures across the historic $3B in funding for
+American Rescue Plan (ARP) programs. This investment will support bottom-up economic development
+focused on advancing equity, creating good-paying jobs, helping workers to develop in-demand skills,
+building economic resilience, and accelerating the economic recovery for the industries and
+communities hit hardest by the COVID-19 pandemic. Specifically, EDA is prioritizing equity through:
+Design programs with a focus on equity: EDA will ensure intentionality in the design of programs
+and Notices of Funding Opportunities (NOFO) to appropriately signal and stress the importance
+of equity and diversity in the programs it will ultimately fund.
+Conduct outreach and engagement across underserved communities: EDA will leverage the
+success of its 50+ webinars that have been conducted on ARP Programs that have reached over
+22,000 Americans as it continues to develop strategies with a deliberate focus on reaching
+underserved communities by partnering with different government and external parties to help
+reach these communities.
+Evaluate NOFOs with a focus on equity: EDA will make equity a prominent evaluation criterion in
+NOFOs, recruit and select a diverse group of experienced, qualified reviewers, and take a
+portfolio approach, particularly with the Build Back Better Regional Challenge and Good Jobs
+Challenge, to ensure diversity across various dimensions, such as but not limited to geography,
+industry, underserved community, vulnerable population, and entity type.
+Deliver technical assistance with a focus on equity: EDA will award grants to entities to provide
+technical assistance to grantees, particularly from underserved communities, to help ensure
+their success and execute against equity priorities.
+Tracking progress: EDA has set equity goals for each ARP program and will track progress toward those
+outcomes moving forward.
+Build Back Better Regional Challenge (BBBRC): The BBBRC provides transformative investments
+- up to $100M per grantee - to develop and strengthen regional industry clusters across the
+country, all while embracing economic equity, creating good-paying jobs, and enhancing U.S.
+competitiveness globally. EDA has funded a specific technical assistance partner for the BBBRC
+that is solely focused on equity and will be training all 60 finalists on how to advance equity
+more effectively in their coalitions. EDA will track its progress against the BBBRC by measuring
+estimated jobs created and retained for underserved communities and geographies, private
+investment funds leveraged by underserved communities and geographies, and total sum of
+funding secured by entrepreneurs in these communities. The bureau also intends to award a
+OF
+DOC Equity Action Plan
+Page 9
+C
+any
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+grant to a research provider to measure short and long-term impacts of its programs, specifically
+for underserved communities.
+Good Jobs Challenge: The Good Jobs Challenge aims to get Americans, particularly those from
+underserved communities, back to work by building and strengthening systems and
+partnerships that bring together employers who have hiring needs with other key entities to
+train workers with in-demand skills that lead to good-paying jobs. Equity is a key evaluation
+criterion, as evidenced through the following language: "The extent to which the application
+articulates a plan for ensuring that the project's benefits are shared across all affected
+communities and fairly between employers and workers. This includes the extent to which the
+application demonstrates the ability to serve trainees that benefit from federal and state
+programs like SNAP, TANF, and WIC." EDA will track its progress against the Good Jobs Challenge
+by measuring workforce development outcomes, such as metrics associated with recruits, jobs,
+wages, which will be assessed by key demographics. The bureau is in the process of finalizing
+these metrics and also intends to award a grant to a research provider to measure short and
+long-term impacts of its programs, specifically for underserved communities.
+Coal Communities Commitment: EDA has committed $300M of its $3B in ARP funding to coal
+communities, including $100M from the BBBRC and $200M from its Economic Adjustment
+Assistance (EAA) program, which have been systemically and/or systematically denied a full
+opportunity to participate in aspects of economic prosperity due to transitioning energy markets
+and inadequate resources for workers and communities affected by these changes. Additionally,
+EDA hired a Coal Communities Coordinator at the end of 2021 to focus on outreach, building
+capacity and technical assistance for coal communities. EDA will track its progress against the
+Coal Communities Commitment by measuring estimated jobs created and retained for coal
+communities, private investment funds leveraged by coal communities, and total sum of funding
+secured by entrepreneurs in coal communities. The bureau also intends to award a grant to
+a
+research provider to measure short and long-term impacts of its programs, specifically for coal
+communities.
+Indigenous Communities Challenge: EDA has allocated $100M of its $3B in ARP funding to the
+Indigenous Communities Challenge designed to fund a wide range of economic development
+activities for Tribal communities, which have been systemically and/or systematically denied a
+full opportunity to participate in aspects of economic prosperity. Additionally, EDA hired an
+Indigenous Communities Coordinator in Fall 2021 to focus on outreach, building capacity, and
+technical assistance for indigenous communities. EDA will track its progress against the
+Indigenous Communities Challenge by measuring estimated jobs created and retained for Tribal
+communities, private investment funds leveraged by Tribal communities, and total sum of
+funding secured by entrepreneurs in Tribal communities. The bureau also intends to award a
+grant to a research provider to measure short and long-term impacts of its programs, specifically
+for Tribal communities.
+Accountability: EDA will make public the deliverables and outcomes of the research it funds through its
+Research, Networks & Technical Assistance grants, as well as relevant metrics and measurements
+compiled from grantees during the period of performance.
+Equity Action #3: Grow minority business enterprises
+Barriers to equitable outcomes: Growing minority businesses enterprises (MBEs) can help reduce the
+racial wealth gap, increase employment and opportunity in majority-minority communities, and increase
+U.S. economic competitiveness. However, MBEs face systematic barriers to growth in the U.S. economy,
+which ultimately stymie the growth of the U.S. economy and its competitiveness. By 2044, minorities
+OF
+DOC Equity Action Plan I Page 10
+C
+any
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+will be the majority of the U.S. population, and minority workers and MBEs will represent a significant
+and growing share of the economy. But, according to a recent MBDA study, GDP contributions of
+employer MBEs will not catch up to the contributions of non-minority businesses until 2059, potentially
+leading to a persistent loss of $5.3T to the U.S. economy per year, or about 11% of the total economy. It
+is an economic imperative to grow MBEs and dismantle barriers to access economic opportunities.
+Disproportionate impact from COVID-19 From February to April 2020, the number of active
+African American-ownec businesses dropped 41%, Latino business ownership fell by 32%,
+and Asian American business ownership dropped by 26%, compared to a 17% decline for
+white business owners. In 2022, the Federal Reserve Bank released a report finding a that
+81% of Asian firms, 76% of Black firms and 74% of Hispanic firms were in poor financial
+compared with 55% of non-Hispanic White firms. to non-Hispanic White at 55%.
+Disproportionate access to capital: The most persistent barrier to the establishment,
+expansion, and growth of MBEs continues to be accessing capital. The U.S. Federal Reserve
+found that more than half of Black-owned businesses were turned down for loans, a rate
+twice as high as white business owners. MBEs are more likely than similarly situated white-
+owned businesses to have been denied credit, less likely to receive the full amount
+requested, and more likely to be discouraged from applying for credit for their business
+needs.
+Disproportionate access to contracts: Contracting barriers continue to exist for MBEs at the
+prime and the subcontractor levels. Examples of barriers include blocked or withheld
+network access, lack of timely bid notifications, held bids, pre-qualification requirements,
+bid shopping, and bonding and/or insurance. Small minority-owned firms are statistically
+less likely to win a federal contract than if they were participating in small business
+contracting assistance initiatives, such as SBA's 8(a) and HUBZone programs.
+Action and intended impact: As a newly authorized bureau, MBDA will seize the moment and serve as an
+interagency resource to support procurement, provide research and policy guidance to the broader
+community, and, above all, grow and nurture MBEs. In FY23, MBDA expects a budget increase, allowing
+the bureau to expand services and reach. A more effective and robust MBDA will build on historic
+successes.
+Deliver technical assistance: With additional appropriations, MBDA will expand the reach of its
+Business Center Program to provide more MBEs with one-on-one counseling and technical
+assistance to grow revenue and increase employment. The centers help MBEs to access capital
+and assist with procurement, contracting, increasing revenue, and other business needs.
+Specialty Centers target assistance to specific industries or services such as exporting, advanced
+manufacturing, and procurement. The Export Centers were created to generate increased
+financing, contract opportunities, and greater access to new and global markets. For the
+Advanced Manufacturing Centers, MBDA assesses regulatory changes in manufacturing in
+domestic and global markets, its economic impact, and needs for minority manufacturers. With
+needed appropriations, MBDA will launch a Rural Business Center Program, which will tailor the
+effective business center model to the unique needs of rural MBEs.
+Increase MBE's access to capital: To help MBEs access capital, MBDA will provide technical
+assistance to MBEs accessing Treasury's the State Small Business Credit Initiative (SSBCI)
+program. With the goal of increasing equity funding for MBEs, MBDA will support incubators
+and programs to help firms develop the necessary networks and experience to pitch investors.
+OF
+DOC Equity Action Plan I Page 11
+C
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+MBDA is finalizing program measures of success, but at a minimum they will include the number
+of firms served and the number of firms successfully applying for SSBCI and other programs.
+Access to contracts: MBDA will play a critical role in delivering on the Administration's goal of
+increasing the share of contracts going to small disadvantaged businesses (SDBs) by 50% by
+2025 - an unprecedented target projected to translate to an additional $100B to SDBs over five
+years. To meet this target, the MBDA will utilize its new authority under Title VI, section 100601
+of the MBDA Act, to inform, coordinate, and evaluate policies to increase MBE access to and
+awards of federal procurement opportunities. In this role, MBDA will advocate for equitable
+procurement practices within the Department of Commerce and across the Federal
+Government. Because of the bureau's unique perspective and expertise in working with MBEs,
+the Department was added as a voting member of the Category Management Leadership
+Council. Through its Federal Procurement Center (FCP), MBDA will provide business services
+including, but not limited to, developing a pool of federal contracting opportunities; direct
+matching of opportunities with qualified/vetted MBEs; relationship management and deal
+sourcing initiatives.
+Tracking progress: MBDA seeks to grow MBEs' capacity and revenue, and to support MBE-related jobs.
+Each program establishes specific metrics of success that track MBE outcomes and impact. MBDA and its
+network of program operators measure success through metrics such asdollars awarded related to
+capital and contracts, firms reporting an increase in profit and the number jobs created and retained.
+Accountability: With new resources and authority, MBDA's programs will require new accountability
+mechanisms. MBDA will be run by a newly authorized Senate-confirmed Under-Secretary who will be
+accountable to the Secretary, President, and U.S. Congress.
+Equity Action #4: Strengthen small businesses in underserved communities by helping them be
+successful exporters
+Barrier to Equitable Outcomes: Companies that export are less likely to go bankrupt and more likely to
+hire more workers and pay higher wages than non-exporters. Historically, small U.S. businesses in
+underserved communities have had limited awareness of the opportunities and benefits of exporting
+and have faced greater challenges to growing and adding new jobs. Some of those challenges include
+the requisite knowledge of export mechanics, financing, foreign legal and regulatory requirements,
+access to industry-specific market research, and avenues for meeting potential foreign partners and
+clients.
+According to the U.S. Census Bureau's 2018 Annual Business Survey, there were slightly more than 1M
+minority-owned employer businesses, yet only 28,500 of those businesses exported goods and services.
+Rural areas are particularly underserved, and rural communities can be found in all 56 states and
+territories. Hundreds of small rural cities and towns depend on just a handful of small businesses to
+provide non-farm employment. However, between 2008 and 2017, the rural labor-force participation
+rate fell by 4.1 percent. From its post-recession low, rural wage and salary employment has grown at an
+average annual rate of only 0.5 percent. Because these small rural businesses are located far from
+information, contacts, gateways, and services that facilitate export success, the Department of
+Commerce is critical in helping them to pursue export sales.
+The Department of Commerce export resources and support could have a significant and long-lasting
+economic impact on small businesses in underserved communities across the nation. Through the
+Department's U.S. & Foreign Commercial Service (US&FCS) network of 106 domestic offices, dedicated
+OF
+DOC Equity Action Plan I Page 12
+C
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+trade professionals cover hundreds of cities and rural areas across the nation, providing market
+intelligence, counseling, programs, and services that broaden the export horizons of small American
+businesses. The offices and staff have the capacity to connect exporters to US&FCS professionals
+strategically located at American Embassies and Consulates in 76 countries and to deliver programs,
+services, and customer-tailored assistance connecting small U.S. businesses to foreign partners and
+buyers.
+Action and intended impact: In March 2021, Secretary Raimondo challenged ITA to double the number
+of clients assisted in the next two fiscal years. Accordingly, ITA formulated an Agency Priority Goal (APG)
+to "accelerate its digital transformation to double annual number of clients assisted from 38,000 in FY
+2020 to 76,000 in FY 2023, with a particular focus on small and medium-sized enterprises (SMEs) and
+the nation's underserved communities."
+ITA will focus on enhancing its accessibility and assistance to businesses in underserved communities
+and is targeting to grow the number of unique export clients assisted in underserved communities from
+approximately 5,700 in FY20 to 11,500 by the end of FY23. ITA's strategy to make its assistance more
+readily available to businesses in the underserved community includes making improvements to
+information technology (IT) systems, enhancing its digital content, using omnichannel marketing, and
+creating dedicated events and services offerings. For example, in FY22 and FY23, ITA committed to:
+Enhance Digital Experience: ITA will implement a digital experience platform to provide clients with
+personalized access across ITA's digital touchpoints and to enable ITA to capture clients
+assisted online. ITA will modernize delivery of events and services through best-in-class technology
+solutions that expand access to ITA's assistance and improve participant tracking. ITA will also
+improve the quality of digital content and expand the breadth and depth of information available to
+clients on ITA's website (trade.gov). In addition, ITA will enhance marketing campaigns through IT
+automation and private-public sector best practices while also expanding outreach to businesses in
+underserved communities through the Global Diversity Export Initiative (GDEI), Women's Global
+Trade Empowerment program, and Rural Export Center (REC).
+Enhance GDEI: ITA selected a GDEI team lead to coordinate ITA's underserved community export
+efforts, established its GDEI website (https://www.trade.gov/global-diversity-export-initiative),and
+launched GDEI efforts with two educational webinars that drew over 1,000 GDEI U.S. SMEs from
+across the country.
+Tracking progress: ITA is already working on these strategic initiatives and tracking and reporting on its
+results on a quarterly basis. In FY22 Q1 (the first quarter ITA set targets for assistance to underserved
+businesses), ITA assisted over 2,000 small businesses in underserved communities and boosted its
+outreach and assistance to businesses in underserved communities through several key initiatives. ITA
+will continue to track data and milestones and report its results on a quarterly basis through the OMB's
+Performance.gov website.
+Accountability: ITA's culture upholds transparency and accountability as fundamental principles for
+exemplary public services. As such, the bureau reports on progress towards its goals for assisting small
+businesses in underserved communities will be made public on a quarterly basis through OMB's
+dedicated website.
+Equity Action #5: Increase access to the patent and trademark systems for inventors and
+entrepreneurs from historically underserved communities.
+OF
+DOC Equity Action Plan I Page 13
+P
+any
+No
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+Barriers to equitable outcomes: Patenting is an essential step in the innovation pipeline, allowing
+entrepreneurs to develop new products and driving the long-term competitiveness of an economy.
+Entrepreneurs from historically underserved communities often face barriers to obtaining patents.
+Recent research has demonstrated that the likelihood an individual will patent an innovation is
+determined by socioeconomic factors like parental wealth, race, gender, and geography. According to a
+recent study led by researchers at Harvard University, children born into families in the top 1% of
+income are nearly ten times as the rest of the populations likely to patent an innovation, White
+individuals are almost three times as likely to hold a patent as individuals who identify as African
+American and men are more than five times as likely as women to hold a patent. This research suggests
+that if these "lost Einsteins" patented at similar rates to White men born into families in the top 20% in
+terms of income, the U.S. would see more than four times as many inventors.
+Key barriers to obtaining intellectual property for historically underserved communities include:
+Limited exposure and knowledge of the value of intellectual property (IP) protection and limited
+experience with the IP system and the programs available to provide support.
+Limitations in local educational curricula or the absence of role models or networks of innovators to
+provide guidance or aspiration to join the IP ecosystem.
+High cost of obtaining legal assistance from IP practitioners.
+Actions and intended impacts: USPTO is undertaking several initiatives to address the barriers to the
+innovation ecosystem across historically underserved communities. USPTO will:
+Implement or enhance several initiatives to address the lack of exposure to IP information:
+USPTO will continue to leverage its new Tribal Nations Partnership with the U.S. Department
+of Interior Indian Arts and Crafts Board and not-for-profit Indian Dispute Resolution Service
+and the Acorn Project to provide online courses to Native American and Alaska Native artists
+on IP basics and on establishing or expanding their businesses via e-commerce. The class
+first launched in February 2022.
+USPTO will launch a pilot program AccessUSPTO, an outreach-based initiative to connect
+with national organizations with a focus on inclusion, such as the National Organization of
+Women Business Owners, National LGBT Chamber of Commerce, and National Urban
+League.
+Expand outreach to students and teachers to increase diversity, equity, and inclusion in IP:
+USPTO will initiate educational programs for HBCUs, TCUs, MSIs, Hispanic Serving
+Institutions (HSI), women's colleges, and community colleges to provide students and
+faculty with train-the-trainer IP professional development workshops and students with
+hands on real world transdisciplinary IP educational opportunities. The modules, which have
+been successfully used with Howard University, University of Puerto Rico, and University of
+Houston, will include training on IP basics, best practices for patent and trademark filers,
+and highlight local resources for independent inventors and small business owners.
+USPTO will expand its paid internship program for high schoolers to include the addition of a
+program for college students. These programs will enhance the interns' knowledge of the
+roles that USPTO and IP play in the innovation ecosystem, as well provide them with
+firsthand exposure to federal careers in IP.
+Increase stakeholders' knowledge of and access to the IP system:
+USPTO will implement the Stakeholder Application Readiness Training (StART), a program
+that provides training on the patent application process to inventors who represent
+themselves to increase the likelihood that an application will reach an examiner's docket
+OF
+DOC Equity Action Plan I
+Page 14
+C
+any
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+and receive a decision on patentability. The agency will look for increasing numbers of
+patent applicants who represent themselves, especially innovators from underserved
+communities, who complete the application process.
+USPTO will launch a Customer Ambassador Pilot, in which dedicated bureau personnel will
+assist a selected group of individual inventors or joint inventors in navigating through the
+patent application process, especially first-time filers from underserved communities, during
+the application process.
+USPTO plans to offer the First-time Filer Expedited Examination Petition, which will allow for
+a streamlined patent filing experience for first-time inventors to help them understand and
+navigate the examination process. For some first-time micro entity filers, wait times for the
+patent application process may act as a barrier, especially for those in underserved
+geographic and economic areas and more specifically, individuals that are underrepresented
+in the innovation space, particularly women, people of color, and veterans.
+Spearhead initiatives to support the Council for Inclusive Innovation (C12):
+USPTO will launch a community outreach program, in which volunteer USPTO employees
+will serve as IP educational ambassadors who increase IP awareness in their communities,
+especially historically underserved communities that have not been included in the
+innovation ecosystem.
+USPTO will update its website thru the Expanding Innovation Portal Program to include
+multi-lingual use and allow users to select information, tools and services based on their
+level of IP familiarity.
+USPTO will provide laptops with pre-loaded IP information to innovators in underserved
+communities through the Expanding Innovation Laptop Program.
+Alleviate financial barriers to obtaining IP legal assistance:
+The Trademark Trial and Appeal Board's (TTAB) Pro Bono Clearinghouse Program
+established a third-party clearinghouse to connect volunteer attorneys with independent
+trademark registrants/applicants or small business owners, especially MBEs, who need
+assistance on IP matters before the Board. The Patent Trial and Appeal Board (PTAB) will
+also launch a Pro Bono Clearinghouse Program for independent inventors and small
+business owners.
+USPTO will encourage additional law schools, including HBCUs, MSIs and HSIs, to participate
+in the USPTO Law School Clinic Certification Program as part of the Pro Bono and Patent
+Practitioner Expansion Programs.
+Tracking progress: To track progress on its initiatives, the USPTO has established working groups,
+specifically the Council for Inclusive Innovation (CI²), and the Economic Relief Working Group, that
+continuously monitor the agency's programs and offerings. They also conduct formal quarterly checks of
+metrics and compare them to program goals, and they evaluate stakeholder feedback.
+IP Exposure and Experience: USPTO will monitor the number of attendees for IP-related courses that
+are delivered to Native American and Alaska Native artists. The bureau will also measure success by
+tracking the number of organizations that agree to collaborate with outreach and external
+engagement efforts, as well as the level of participation in events by their members.
+DEIA in IP: USPTO will rely on participant survey results for educational programs to monitor success
+among HBCUs, MSIs, and HSIs. The bureau will also measure success with its paid internship
+programs through feedback from surveys, and with data on the number of students, especially from
+historically underserved communities, who express a new-found interest in pursuing a career in IP
+or in becoming inventors or entrepreneurs.
+OF
+DOC Equity Action Plan I Page 15
+C
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+Stakeholder Engagement with IP System: USPTO will track its progress through increases in the
+numbers of patent applicants who represent themselves and complete the application process,
+especially innovators or entrepreneurs from underserved communities. It will also monitor the
+number of participants with its ambassador program who complete the application process. USPTO
+will use the number of first-time filer petitions submitted to indicate the initiative's success
+Outreach and External Engagement through CI²: USPTO will track the number of educational
+programs initiated across historically underserved communities and increases in the number of
+attendees. The bureau will track user feedback and engagement rates for its enhanced website. In
+addition, it will success with its pre-loaded laptops initiative through the number of laptops
+distributed and feedback from users regarding their increased understanding of IP and ability to
+access IP resources and assistance.
+IP Legal Assistance: USPTO will track increases in practitioner participation, as well as the numbers
+of self-reported pro bono services provided before the TTAB and PTAB. The bureau will also monitor
+increased representation by participating law schools on IP matters before the TTAB.
+Accountability: In addition to measuring progress through the success metrics described above, USPTO
+will ensure that its programs align with the Biden-Harris Administration's goal to advance equity and
+evaluate ways to publicly share progress. In addition, quarterly progress reports will be submitted to
+the Secretary of Commerce and USPTO Director.
+Equity Action #6: Make Department of Commerce science and data more findable, accessible, and
+usable.
+Barrier to equitable outcomes: The Department is tasked with promoting job creation and economic
+growth by providing the data necessary to support commerce and constitutional democracy, fostering
+innovation by setting standards, conducting foundational research and development, and providing
+invaluable tools for domestic companies and entrepreneurs. The Department's bureaus and programs
+are well known to traditional stakeholder groups, most of which have been working with the
+Department for decades, but the Department recognizes that underserved communities may lack
+awareness of and/or access to some of its bureaus' programs and services.
+Several bureaus have relatively low visibility to the general population and do not have a formal
+program for outreach and external engagement among underserved communities. Research by the
+General Services Administration's (GSA) Office of Evaluation of Sciences reports that accessing
+programming is challenging for individuals, businesses, and communities that have not previously
+worked with the Federal Government. Burdensome administrative processes further compound issues
+of accessibility, which may discourage or preclude utilization of programs and services by underserved
+communities.
+Further, the Department identified several gaps that create barriers to the full and fair accessibility to
+department and bureau-level technological tools across underserved communities. While some
+bureaus' websites include interactive maps to capture geographic and demographic data, the data isn't
+granular and is not current enough to capture the impact of the Department's programs and services on
+the socioeconomic ecosystems in underserved communities. Moreover, some data systems are
+antiquated and do not enable reporting on progress with targets across these communities.
+For example, historically underserved communities - whether rural communities or disinvested urban
+areas-are particularly vulnerable to the effects of climate change. NOAA, the Federal Government's
+OF
+DOC Equity Action Plan I Page 16
+C
+any
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+provider of critical climate data, has the science resources and the programmatic supports to help
+historically underserved communities build resilience and prepare for climate shocks already underway,
+but has identified additional actions needed to ensure data effectively serves relevant communities.
+Similarly, NIST serves the nation by providing reference materials and data standards that ensure
+quality, benchmark performance, and aid domestic manufacturers in remaining competitive in the
+global economy across a wide range of technology fields. These measurement services typically require
+users to have in depth technical knowledge in their field to successfully implement the bureau's
+standards and maximize their value. Therefore, the barrier to equitable outcomes across underserved
+communities is often knowledge of how to gain access to and optimally utilize the standards - especially
+for SMEs.
+BEA and BIS recognize that the majority of their respective assets have been made primarily available in
+English. This is a significant barrier to driving both internal and external-facing DEIA-related goals as it
+presents challenges with effectively engaging underserved communities with multi-lingual populations.
+Action and intended impact: The Department will ensure an integrated approach to raising awareness
+and enhancing accessibility to programs and services through both department and bureau-level
+objectives. The Department commits to leveraging cross-bureau and strategic partnerships with
+external groups to drive a robust approach to outreach and engagement among underserved
+communities. As part of this outreach strategy, the Department will reinstitute its Center for Faith-Based
+and Neighborhood Partnerships. Additionally, the Department will deploy social media campaigns to
+enhance visibility by increasing its digital footprint across targeted audiences - to include promoting the
+DOC Speakers' Bureau which is designed to disseminate information on available programs and services.
+Prepare a Climate Ready Nation: NOAA will work across multiple programs to enhance
+community engagement to ensure historically underserved and socially vulnerable communities
+(HUSVC) can access the data and programs needed to build climate resilience.
+NOAA's National Weather Service will establish a cohesive Community Engagement
+Program (CEP) by restructuring existing programs. For example, StormReady will be
+recast as the Weather-Ready Communities Program to address a broader host of
+weather hazards that inordinately impact HUSVCs, such as floods, heat, cold, and air
+quality. The bureau will also establish equity as a requirement for credentialling
+Weather Ready Nation Ambassadors (WRNA) and will prioritize building the
+ambassadors' ability to engage targeted communities.
+NOAA will use recommendations from Climate and Equity Roundtables held in eight
+regions to complete regional climate and equity pilots to enhance resilience to flooding,
+heat, coastal inundation, and other climate hazards. The bureau will work more closely
+with community partners on implementing these pilots to increase participation from
+HUSVCs in planning and training sessions, as well as to customize the bureau's products
+and services where appropriate to address place and community-based needs. NOAA
+will develop a sustainable engagement plan to ensure these pilots can lead to long-term
+collaboration with vulnerable communities most at risk of climate impacts.
+NOAA's Climate-Smart Communities Initiative (CSCI), which is currently expected to
+launch in 2022, will prepare climate adaptation practitioners to work with communities
+in every state to develop and implement climate resilience plans. These training
+opportunities help to put equity at the center of these plans by ensuring that HUSVCs
+receive technical assistance with weather, water, and climate services and have access
+to useful federal data to supplement locally relevant data. NOAA will continue to work
+OF
+DOC Equity Action Plan I Page 17
+C
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+to increase access to climate-related learning by providing products in both English and
+Spanish. In addition, NOAA has offered virtual instructor-led trainings for Spanish-
+speaking audiences using simultaneous translation services.
+NOAA's Office of Education will continue to run grant and scholarship programs that
+connect people to climate science and products. These programs have provided
+opportunities for people to get hands-on experience and training in NOAA-related
+sciences and use it to pursue careers in related fields and increase community resilience
+to environmental hazards.
+Measure economic and social vulnerability: Census, which currently collects data across several
+demographic variables, will continue to use its recently launched CRE for Equity, which is a tool
+that measures an individual, household or community's capacity to absorb, endure, and recover
+from the socioeconomic impacts of a disaster. The tool operates as an easy-to-use dashboard
+that consolidates data to measure social vulnerability. The bureau continues to enhance the
+tool's application, which includes its use to identify investment priorities to address equity gaps
+in funding opportunities. Micro-level data from the SBPS, which leveraged ownership data from
+the Annual Business Survey (ABS), was used to create estimates of the effect of the pandemic on
+small businesses by owner race, sex, ethnicity, and veteran status.
+Expand access to technology and standards: NIST will continue to provide educational resources
+to assist new users on reference materials and data standards. The technology areas covered by
+these services are growing at an unprecedented rate, particularly in fields such as
+biotechnology, quantum science, artificial intelligence, and climate mitigation. To reduce the
+barrier for use of NIST standards, the bureau will widen its educational outreach to provide
+greater penetration across these fields, including participation in new industry forums,
+conferences, and meetings aimed at underserved communities - particularly emerging SMEs.
+Expand data scientist contracting opportunities: NTIS will continue to leverage its Joint Venture
+Partnership (JVP) Program to provide innovative data services across the federal landscape by
+partnering with private, non-profit, and/or academic entities that help to advance federal data
+priorities. The current partners consist of industry leaders in data discovery, accessibility,
+usability, interoperability, security, and privacy. NTIS redrafted its request for partners JVP,
+which included an increased focus on participation among underserved communities. To that
+end, the bureau also engaged MBDA to encourage participation through direct outreach and
+engagement at events. In addition to the 10,000 emails that were previously sent, NTIS issued
+additional notices to communities of interest.
+Use inclusive language to the reach multi-lingual populations: BEA and BIS will continue to
+produce more documents and data services in other languages as needed to reduce linguistic
+barriers to utilization - beginning with a focus on Spanish-speaking underserved communities.
+Tracking progress: The Department will track its progress based on its ability to create its next
+generation of technological tools that are not only easily findable, accessible, and usable by underserved
+communities, but can also help to expand the collection of demographic variables in datasets to better
+identify these communities.
+NOAA: NOAA will track its progress with outreach and external engagement among underserved
+communities through a set of metrics, such as the percentage of participants from historically
+underserved communities with the Citizen Science Program, the number of Weather Ready Nation
+Ambassadors focused on service equity, and the number of injuries and/or fatalities in HUSVCs
+following hazardous weather events.
+OF
+DOC Equity Action Plan I
+Page 18
+C
+which
+STATES OF
+U.S. Department of Commerce Equity Action Plan
+Executive Order 13985
+NIST: NIST has an existing system for tracking requests for its measurement services. However, this
+system is currently being updated to provide a greater opportunity to measure the reach and impact
+of NIST programs and/or services to underserved communities, as well as the full fields of science.
+NTIS: NTIS will measure its progress based on the number of new partnerships as part of JVP that
+help to drive participation among underserved communities.
+BEA: BEA will seek advance input from underserved communities when designing outreach and
+external engagement strategies.
+BIS: BIS' Export Administration Office will track trends in the utilization of the bureau's programs
+and/or services across underserved communities in which Spanish is the dominate language. These
+trends will be measured by the number of export control inquiries that are received after the
+production of bilingual supporting documents.
+Accountability: The Department has embedded the service equity goal in the FY22-FY26 Department of
+Commerce Strategic Plan - which will promote alignment with bureau-level strategies. To help ensure
+alignment, the DOC Equity Council launched a Race and Ethnicity Committee, which consists of cross-
+bureau representation, and is charged with driving the development of enterprise-wide equity action
+plans to ensure accountability at all organizational levels. In addition, the Department will continue its
+involvement with the Equitable Data Working Group (EDWG), which is a multi-disciplinary body that is
+charged with advancing a whole-of-government approach through the systematic measurement of
+inequities across underserved communities to help improve equitable data practices across the Federal
+Government.
+OF
+DOC Equity Action Plan I Page 19
+P
+any
+No
+STATES OF

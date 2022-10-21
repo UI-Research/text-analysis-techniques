@@ -1,0 +1,1018 @@
+Foundations for Evidence-Based
+Policymaking Act of 2018
+Fiscal Years 2022-2026
+Capacity Assessment
+Securing today
+USA
+and tomorrow
+Social Security Administration I
+February 2022
+CONTENTS
+Contents
+2
+Introduction
+3
+Requirements
+4
+1
+Activities and Operations being Evaluated and Analyzed
+4
+2
+Evaluations, Research, Statistical Activities, and Data Analysis To Support Various Divisions
+8
+3
+Balance Between Evaluation, Research, Statistics, and Data Analysis Needs
+12
+4
+Methods Are Appropriate
+16
+5
+Evaluation, Research, Statistics, and Data Analysis Capacity Present Within the Agency
+18
+6
+Develop Evaluation, Research, Statistics, and Data Analysis Capacity
+21
+Selected Abbreviations
+ALJ
+Administrative Law Judge
+CDR
+Continuing Disability Review
+DDS
+Disability Determination Services
+DI
+Disability Insurance
+OASDI
+Old-Age, Survivors, and Disability Insurance
+OMB
+Office of Management and Budget
+RDRC
+Retirement and Disability Research Consortium
+SSA
+Social Security Administration
+SSI
+Supplemental Security Income
+INTRODUCTION
+The Fiscal Years 2022-2026 Capacity Assessment provides a baseline that we will use to measure
+improvements to the coverage, quality, methods, effectiveness, and independence of our evaluation,
+research, statistics, and data analysis. We develop internal capacity through investments in our
+employees and our data infrastructure, and external capacity through partnerships with other Federal
+agencies, academic institutions, private sector contractors, and the National Academy of Sciences.
+Our evaluation capacity covers various types of evaluations including formative, process, outcome, and
+impact evaluations. Our offices that specialize in conducting research and evaluations have experience
+using quantitative methods, qualitative methods, and mixed methods for different purposes such as
+assessing agency operations, determining if we are implementing policies as intended, and deciding if
+we should implement new programs and policies. We made investments to enhance capacity in our
+office that is designated a statistical unit under the Confidential Information Protection and Statistical
+Efficiency Act (CIPSEA). We also invested in training and technology to improve data analysis. As our
+research, evaluation, statistical, and data analysis needs change, we make corresponding changes to
+our capacity to meet those needs.
+We organized our capacity assessment using requirements described in the Foundations for Evidence-
+Based Policymaking Act of 2018 (Evidence Act). The Evidence Act requires the Fiscal Years 2022-
+2026 Capacity Assessment to include the following information.
+1. A list of the activities and operations of the agency that are currently being evaluated and
+analyzed.
+2. The extent to which the evaluations, research, and analysis efforts and related activities of the
+agency support the needs of various divisions within the agency.
+3. The extent to which the evaluation research and analysis efforts and related activities of the
+agency address an appropriate balance between needs related to organizational learning, ongoing
+program management, performance management, strategic management, interagency and private
+sector coordination, internal and external oversight, and accountability.
+4. The extent to which the agency uses methods and combinations of methods that are appropriate
+to agency divisions and the corresponding research questions being addressed, including an
+appropriate combination of formative and summative evaluation research and analysis
+approaches.
+5. The extent to which evaluation and research capacity is present within the agency to include
+personnel and agency processes for planning and implementing evaluation activities,
+disseminating best practices and findings, and incorporating employee views and feedback.
+6. The extent to which the agency has the capacity to assist agency staff and program offices to
+develop the capacity to use evaluation research and analysis approaches and data in the day-to-
+day operations.
+In our capacity assessment, we provide information for each of these requirements.
+Social Security Administration
+3
+FY 2022 - 2026 Capacity Assessment
+REQUIREMENTS
+1
+ACTIVITIES AND OPERATIONS BEING EVALUATED AND ANALYZED
+List of the activities and operations of the agency that are currently being evaluated and
+analyzed.
+We identify the activities and operations that we are currently evaluating or conducting evidence-
+building activities in four separate documents that we publish on an annual basis. We describe many of
+our planned research and evaluations in our Annual Report on Section 234 Demonstration Projects that
+we submit to the Congress, and in a section of the Supplemental Security Income Program Technical
+Materials Supporting Our Annual Budget titled Research, Demonstration Projects, and Outreach. Our
+Annual Performance Report includes an appendix titled Program Assessments that describes our
+ongoing studies and surveys to assess the effectiveness of our programs. A description of our pilot
+program evaluations is located in the Pilot Program Metrics section of the Limitations on Administrative
+Expenses section of our Annual Budget. Below, we identify the list of research and evaluation activities
+that we describe in more detail in these documents.
+Demonstration Projects
+Our Annual Report on Section 234 Demonstration Projects that we deliver to the Congress each year
+provides additional information on the following demonstration projects.
+Promoting Work through Early Interventions Project: Identifies, selects, and evaluates programs likely
+to improve the employment and economic outcomes of individuals who have not yet applied for SSI
+and have little or no work history, have current or foreseeable disabilities, and have ties to U.S.
+safety net programs.
+Retaining Employment and Talent After Injury/Illness Network (RETAIN) Demonstration Evaluates early
+interventions that focus on the early coordination of health care and employment-related supports
+and services to help injured or ill workers remain in the workforce.
+Promoting Readiness of Minors in SSI (PROMISE): Evaluates interventions that improve the health,
+education, and post-school outcomes of children who receive SSI, including the completion of
+postsecondary education and employment.
+Ohio Direct Referral Demonstration: Evaluates the effectiveness of providing direct referrals to
+vocational rehabilitation services for 18 and 19 year-olds who are, or may become, SSI or SSDI
+beneficiaries.
+Supported Employment Demonstration (SED) Evaluates whether offering evidence-based
+interventions of integrated vocational, medical, and behavioral health services to individuals with
+behavioral health challenges can significantly reduce the demand for disability benefits and help
+individuals remain in the labor force.
+Promoting Opportunity Demonstration (POD): Evaluates the effect of a $1 for $2 benefit offset with
+simplified work incentives for DI beneficiaries on earnings, benefit payments, and the DI Trust Fund.
+Lessons Learned from SSA Demonstrations: Assesses the lessons learned from prior tests of
+new policies.
+Social Security Administration
+4
+FY 2022 - 2026 Capacity Assessment
+Additional Activities in FY 2022 Research, Demonstration Projects, and Outreach Exhibit
+The Research, Demonstration Projects, and Outreach section of our Supplemental Security Income
+Program Technical Materials Supporting Our Annual Budget describes additional research and
+evidence-building activities that we plan to complete.
+Ticket to Work (TTW) Notice Optimization: Evaluates the impact of targeting outreach to TTW-eligible
+beneficiaries on participation in the TTW program and employment.
+Ticket to Work Evaluation: Assesses TTW program operations and experiences of the services users.
+Beyond Benefits Study: Identifies the types of services and supports that individuals exiting the DI or
+SSI programs need to maintain or achieve self-sufficiency.
+National Beneficiary Survey: Collects data from a nationally representative sample of DI beneficiaries
+and SSI recipients on a wide range of topics not available in our administrative data or in other
+public databases. These data include health and functional status, health insurance coverage,
+interest in work, barriers to work, use of services, work history, income, and experience with Social
+Security programs.
+Disability Research Surveys: Includes three surveys. The first of the three surveys will be an
+additional round of the NBS, awarded in FY 2021 and fielded in FY 2023. The second will be
+awarded in FY 2023 and fielded in FY 2025, and it will focus on helping us better understand SSDI
+and SSI applicants' experiences, their use of services, and the pathways they take before and after
+application. We will identify the topics for a final survey based on input from stakeholders, such as
+agency leaders, OMB, or Congress.
+Disability Perceptions Survey: Assesses the knowledge, perceptions, and opinions working-age
+adults have about the DI program.
+Understanding America Study Enhancements: Informs our evaluation of the public's knowledge of
+Social Security programs through an innovative, nationally representative longitudinal
+internet panel.
+Occupational Information System (collaboration with Bureau of Labor Statistics): Updates information on
+the requirements of work in the national economy.
+Work Disability - Functional Assessment Battery (WD-FAB) Data Collection: Provides the necessary data
+to evaluate the potential uses and value of the WD-FAB in our CDR process.
+SSA-National Institutes of Health Research on Data Analytics and the Work Disability-Functiona
+Assessment Battery (WD-FAB): Provides in-depth analysis of our existing data and continues to
+provide us support related to evaluating the WD-FAB in our CDR process. The WD-FAB may
+provide uniform information about individuals' self-reported functional ability that we can use to
+inform our disability data collection and determination processes.
+Advisory Services to Assist SSA with Disability Issues: Continues our work on research into disability
+issues through a five-year contract (awarded in FY 2018) with the National Academy of Sciences
+(NAS). NAS established a new standing committee of medical, vocational, and other experts to
+assist with policy issues.
+Interventional Cooperative Agreement Program (ICAP): Facilitates collaboration with States, private
+foundations, and others who have the interest and ability to identify, operate, and partially fund
+interventional research.
+Retirement and Disability Research Consortium (RDRC): Comprises four competitively selected
+research centers based at the University of Michigan, Boston College, the National Bureau of
+Social Security Administration
+5
+FY 2022 - 2026 Capacity Assessment
+Economic Research (NBER), and the University of Wisconsin-Madison that are broadly charged
+with planning, initiating, and maintaining a high quality, multidisciplinary research and evaluation
+program that covers retirement, disability, and Social Security program issues.
+Blanket Purchase Order Agreement for Time Sensitive Research Projects: Provides an alternate research
+channel for policy and program assessments and studies related to social science, medical, or
+vocational rehabilitation topics.
+Health and Retirement Study: Provides data on health and economic well-being after retirement that
+is not available in our program data.
+Census Bureau Surveys: Provides supplemental data from two Census Bureau data collections
+efforts: (1) the Survey of Income and Program Participation; (2) the new "Ask US" Panel.
+Activities in Annual Performance Report "Program Assessments"
+The Program Assessments appendix of our Annual Performance Report includes information on the
+following evidence-building activities.
+Office Visitor Surveys (Biennial): Measures customer satisfaction with our in-person service and
+includes the field office and hearing office segment, and the Social Security Card Center segment.
+Prospective Client Survey (Biennial): Measures the service expectations and preferences of the
+upcoming wave of retirees.
+Retirement Application Survey (Biennial): Measures customer satisfaction with the retirement
+application process and identifies service expectations and preferences for future service among
+recent retirees.
+Federal Information Security Modernization Act Report (Annually): Measures whether our overall
+information technology security and privacy programs and practices comply with the Federal
+Information Security Modernization Act of 2014.
+Safeguard Review (Triennial): Assesses the use of Federal tax information and the measures we
+employ to protect this information.
+Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal
+Disability Insurance Trust Funds (Annually): Assesses the financial and actuarial status of the two
+Social Security trust funds.
+Annual Report to Congress on Medical Continuing Disability Reviews (Annually): Assesses medical
+CDRs conducted for a completed fiscal year (FY), including actuarial estimates of the lifetime
+savings in OASDI, SSI, Medicare, and Medicaid benefits resulting from the reviews conducted
+during that fiscal year.
+Annual Report of the Supplemental Security Income Program (Annually): Assesses the status of the SSI
+program and provides 25-year projections of program participation and costs.
+Assessment of the Continuing Disability Review Enforcement Operation Predictive Model (Annually):
+Assesses the results of a predictive model used to score work issue CDR cases to ensure that
+cases most likely to result in overpayments are prioritized to help prevent the accrual of greater
+overpayments.
+Human Capital Evaluations (Annually): Monitors and assesses how well human capital policies and
+programs support our mission accomplishments and is a critical step in assessing organizational
+performance and determining how to improve processes.
+Social Security Administration
+6
+FY 2022 - 2026 Capacity Assessment
+Management Directive 715 Report (Annually): Describes the status of our efforts to establish and
+maintain effective equal employment affirmative action programs under Section 717 of Title VII of
+the Civil Rights Act of 1964 and effective affirmative action programs under Section 501 of the
+Rehabilitation Act of 1973.
+Pre-Effectuation Review of Disability Determinations (Annually): Assesses the accuracy of initial and
+reconsideration disability allowances made by DDSs as required in the Social Security Act.
+Targeted Denial Review (Annually): Assesses the accuracy of initial and reconsideration disability
+denials made by the DDSs.
+Retirement, Survivors, and Disability Insurance Stewardship Review (Annually): Assesses the accuracy of
+payments to persons receiving Social Security retirement, survivors, or disability benefits.
+Supplemental Security Income Stewardship Review (Annually): Assesses the accuracy of payments to
+persons receiving SSI benefits by reviewing all non-medical factors of eligibility and payment.
+Supplemental Security Income Transaction Accuracy Review (Annually): Assesses the adjudicative
+accuracy of SSI initial claims, redeterminations, and limited issues to ensure compliance with
+operational policy.
+Retirement, Survivors, and Disability Insurance Transaction Accuracy Review (Triennial): Assesses
+recently processed retirement, survivors, and disability insurance claims to ensure compliance with
+operational policy.
+Enumeration Accuracy Report (Triennial): Assesses the accuracy of original Social Security numbers
+assigned during the fiscal year.
+Activities in FY 2022 "Pilot Program Metrics"
+The Pilot Projects Metrics sub-section of the Limitations on Administrative Expenses section of our
+annual budget submission includes information on the following active pilot projects.
+Ticket to Work Notice Optimization: The Ticket to Work and Work Incentives Improvement Act of
+1999 established the Ticket to Work program that provides DI and SSI beneficiaries with more
+options for receiving employment services. This project tests modified versions of the notices we
+send to beneficiaries and changes to the notice schedule to determine if the changes reduce the
+barriers to assigning a Ticket.
+SSA Mobile Wage Reporting Pilot: Mobile Knowledge-based Wage Reporting is a mobile phone
+application available in the Apple and Google play stores for SSI recipients, their representative
+payees, and their spouses. This pilot will determine the viability of new technologies to replace the
+existing mobile wage reporting application with a hybrid application.
+OARO Hearing Recordings and Transcriptions Incubation: This pilot explores using technology to
+generate written transcripts from the previously recorded hearings. There is the potential for
+significant savings in time and resources for the agency. Additionally, the pilot will determine the
+viability of using automation to process previously recorded hearings into official court transcripts,
+including an automated workflow where possible.
+Office of Quality Review Group Il Deficiencies Pilot: The goal of this pilot is to reduce improper
+payments by quickly identifying deficiencies related to onset and/or disability cessation dates and
+assigning the correct code on reviews with minimal human intervention by leveraging Intelligent
+Medical Analysis GENeration (IMAGEN) to accelerate the use of Artificial Intelligence (AI). This will
+Social Security Administration
+7
+FY 2022 - 2026 Capacity Assessment
+aid in the reduction of decision errors made on CDR cessations, childhood disability benefit claims,
+and established onset dates for prior denial periods with well-defined results.
+Office of Hearings Operations (OHO) Hearing Recordings & Transcriptions Pilot: OHO is currently
+conducting video disability hearings using MS Teams. Currently, the DRAP system records the
+audio for disability hearings. For this pilot, we are testing the MS Teams recording function to
+record disability hearings. We will leverage MS Teams live transcription and closed captioning
+features to create a text transcript of the disability court hearing in real time as the hearing occurs.
+By investing in recording hearings in MS Teams, there is the potential for significant savings in time
+and resources for the agency. Additionally, MS Teams recordings would automate and simplify
+creation of official court hearing transcripts needed for disability hearing appeals.
+Video Interviews for Workloads: During the COVID-19 pandemic, we piloted a new MS Teams
+service delivery option for certain Social Security replacement cards in November 2020 at 100 of
+our highest enumeration workload offices. The initial results of the pilot are promising, and we will
+continue to assess this new service delivery option as we roll it out nationally.
+United States Postal Service (USPS) Proof of Concept (PoC) for Digital Identity: If customers are unable
+to verify their identity online for a my Social Security account, they may verify their identity in-person
+to begin the registration process. This method is known as in-person proofing (IPP) and is currently
+available only at our field offices. The USPS PoC will allow customers to verify their identity in- -
+person at certain USPS facilities.
+Headquarters Mail Digitization Pilot: In March 2021, we developed a 12-month pilot to digitize
+approximately 96,000 pieces of mail we receive in six headquarters components. Using our
+Headquarters Mail Service Center, we will sort incoming mail and bulk ship to our scanning vendor.
+The scanning vendor will open, prepare, scan, and save the images to a shared server.
+Participating employees will be able to access the electronic mail from the server and process their
+workloads virtually.
+2
+EVALUATIONS, RESEARCH, STATISTICAL ACTIVITIES, AND DATA ANALYSIS TO
+SUPPORT VARIOUS DIVISIONS
+The extent to which the evaluations, research, and analysis efforts and related activities of the
+agency support the needs of various divisions within the agency
+Our evaluations, research, statistical activities, and data analysis efforts meet the needs of various
+divisions within the agency. We regularly monitor our capacity to support evaluations, research,
+statistical activities, and data analysis needs of various divisions within the agency; and we hire and
+train employees to ensure we are meeting agency-wide needs. We make investments in data and in
+our IT infrastructure that provide a foundation for the evaluations, research, and analysis efforts and
+related activities. We identify and obtain external expertise that our various divisions use to support
+their needs. As we continue to expand our evidence-building activities, we will reassess these needs
+and request additional resources, as appropriate.
+We have several offices that work closely with other divisions within the agency to ensure that our
+evaluation, research, statistical, and data analysis efforts meet agency-wide needs. These offices
+communicate regularly with the various divisions within the agency to assess needs on a regular basis,
+and they develop plans to meet their needs. Below, we describe how our evaluation, research,
+statistical, and analytics offices identify and support the evaluation needs of our various divisions.
+Social Security Administration
+8
+FY 2022 - 2026 Capacity Assessment
+Our Office of Research, Evaluation, and Statistics (ORES) obtains information on a regular basis
+on the research and evaluations needs of various divisions within the agency and sends an annual
+memorandum to the Social Security Advisory Board that requests information on their priorities for
+agency research and evaluation activities. ORES uses this information to set their research plan for
+in-house research and evaluations. ORES has conducted in-house research and evaluations that
+address the needs of various divisions by providing information on: changes to the Social Security
+Statement, the income of the aged population; disability trends; modernizing the DI and SSI
+disability determination process; the methods and assumptions used for the Annual Report of the
+Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance
+Trust Funds (Trustees Report); and the relationship between State and local government pension
+programs and the OASDI program. ORES also uses the information to set the plan for research and
+evaluations conducted by external entities such as the Retirement and Disability Research Consortium
+(RDRC) centers and external organizations under the Blanket Purchase Order Agreement for Time
+Sensitive Research Projects. These two external resources include the capacity to conduct quick
+turnaround projects that various divisions may use to support research, evaluations, and evidence-
+building activities.
+ORES is also an OMB designated statistical unit under the Confidential Information Protection and
+Statistical Efficiency Act (CIPSEA) and is responsible for producing and disseminating core
+statistical products (publications and tables) about Social Security. These statistical products
+support the needs of various divisions within the agency and inform external stakeholder research
+and evaluation activities. ORES is obligated to carry out four fundamental responsibilities as a
+statistical unit:
+1. Produce and disseminate relevant and timely information. ORES is a team of researchers with
+long-standing SSA careers who built and maintained knowledge about Social Security and other
+economic programs and policies, and who have analyzed the implication of those programs and
+policies. Through development of our research agenda, particularly the RDRC research agenda
+and discussion at the annual RDRC conference, ORES seeks input from various divisions within
+the agency and from external stakeholders including the Social Security Advisory Board, the
+Office of Management and Budget, and the broader research community. ORES also regularly
+interacts with the Social Security Advisory Board (SSAB) to exchange information about
+research interests. ORES collects public and private sector input through our website
+(https://www.ssa.gov/policy/).
+ORES recently made major investments in modernizing statistical publication processes, and
+built a state-of-the-art data analysis platform that various divisions within the agency use to
+conduct evidence-building activities (information on the platform is located here). ORES uses
+its web presence to disseminate statistical information and reports (https://www.ssa.gov/policy/).
+2. Conduct credible and accurate statistical activities. ORES ensures the use of sound statistical
+methods and accuracy with our rigorous research and disclosure review processes. ORES
+provides references within statistical tables and research papers that explain data collection,
+limitations, and sources of error. ORES provides publication schedules and notifications on our
+website (https://www.ssa.gov/policy/).
+3. Conduct objective statistical activities. ORES maintains functional separation and
+independence from the operational and enforcement side of SSA. ORES never provides data
+or participates in actions intended to directly affect the rights, privileges, or benefits of a
+particular individual. We have independent data access controls, and ORES research is
+impartial.
+4. Protect the trust of information providers by ensuring the confidentiality and exclusive statistical
+use of their responses. ORES maintains functional separation from the operational and
+enforcement side of SSA, employs disclosure protection techniques, and only use data we
+Social Security Administration
+9
+FY 2022 - 2026 Capacity Assessment
+collect or obtain from other federal statistical agencies for research and statistical (non-
+enforcement) purposes.
+We monitor our capacity to fulfill our responsibilities as a designated statistical unit, and we make
+requests for staff and resources. As we implement the requirements for statistical units under Title
+III of the Evidence Act, we will reassess our needs and request the necessary resources to carry
+out our responsibilities.
+Our Office of Research, Demonstration, and Employment Support (ORDES) has worked with
+teams in other offices to support impact evaluations and data analysis on the DI and SSI programs.
+ORDES conducts beneficiary surveys to supplement information available in administrative records
+that can help the agency answer important questions about individuals' experiences with the
+disability programs. ORDES leads a cross-agency demonstration workgroup and encourages
+participants to suggest topics for future projects. They brief Congressional staff on research results
+and solicit ideas for new demonstration projects. ORDES maintains research partnerships with
+other Federal agencies and seeks input from internal stakeholders to inform future research and
+analytical activities.
+Our Office of Quality Review (OQR) conducts agency-level research, analysis, and special
+projects to support the needs of various divisions within the agency; more specifically, the office
+offers advice and recommendations on a range of issues related to quality and performance
+management in each of the agency's core business processes. OQR supports internal customers
+including the Commissioner, the Principal Deputy Commissioner, and component-level Deputy
+Commissioners. OQR also provides services to external customers including Congress, the Office
+of Management and Budget, the Office of the Inspector General (OIG), and financial auditors.
+Our Office of Appellate Operations (OAO) provides adjudicators and policymakers with data-
+driven feedback on the performance of the hearings process in accordance with the direct
+delegation of authority from the Commissioner to the Appeals Council. OAO collects and analyzes
+nationwide data on policy compliance of adjudicators and performance of the SSA disability
+adjudication process. OAO also shares findings with other agency components for use in feedback
+to adjudicators and staff, improvements in training, and clarification of agency policies and
+procedures. In collecting and analyzing nationwide data, OAO also tracks and analyzes court
+case trends.
+Our Office of Analytics and Improvement (OAI) collaborates with agency divisions and
+technology experts to perform analyses of agency data, provide management consultation, and
+develop innovative business solutions to drive agency priorities, improve operations efficiency,
+increase organizational performance, and meet strategic goals and objectives.
+Our Office of the Chief Actuary (OCACT) provides technical and consultative services to support
+the needs of various divisions within the agency, the Commissioner, and the Board of Trustees of
+the Social Security trust funds. OCACT conducts research and analyses to support the Annual
+Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal
+Disability Insurance Trust Funds (OASDI Trustees Reports), which are available to the public here:
+https://www.ssa.gov/oact/TR/2021/index.html. OCACT conducts research and analyses to support
+the Annual Report of the Supplemental Security Income Program (SSI Reports), which are
+available here: https://www.ssa.gov/OACT/ssir/SSI21/index.html. In addition to these major annual
+reports, OCACT conducts research and analyses published as notes located here:
+https://www.ssa.gov/oact/NOTES/actnote.html;and published as studies located here:
+https://www.ssa.gov/oact/NOTES/actstud.html. OCACT disseminates statistical data on the
+program that are available here: https://www.ssa.gov/OACT/ProgData/benefits.html and
+https://www.ssa.gov/oact/ProgData/funds.html. OCACT also conducts analyses of comprehensive
+Social Security Administration
+10
+FY 2022 - 2026 Capacity Assessment
+legislative proposals located here: https://www.ssa.gov/oact/solvency/index.html and individual
+provisions that are available here: https://www.ssa.gov/oact/solvency/provisions/index.html
+Our Office of Systems (OS) supports various divisions within the agency on their data analysis
+and evaluation needs in a number of ways, including through the Advanced Data Analytics Lab (ADAL)
+that primarily uses agency administrative data to conduct innovative program evaluations, policy
+evaluations, predictive analytics, descriptive analytics, data quality analysis, prototype new
+technologies and machine learning projects. OS also leads the continual development and
+expansion of the Enterprise Data Warehouse (EDW), which provides our employees and program offices
+with access to our master data files and management information data, as well as the infrastructure
+to perform the data analysis necessary for our research and evaluation activities. The EDW
+provides the foundation for our research, evaluation, statistics, and data analysis activities.
+We adjust our research and evaluation activities as the needs of our divisions change. For example, as
+we invested in modernizing our information technology infrastructure to improve service delivery, we
+also invested in broader research and evaluations to improve service delivery-including creating a
+new service delivery focal area for our Retirement and Disability Research Consortium (RDRC)
+grantees. Updating the occupational information used to administer the disability program is another
+agency priority. We invested in a new survey to develop updated occupational information to
+eventually help us make disability decisions, and we completed extensive analysis of the new data to
+determine how to best use the data for our programs.
+While we respond to internal needs, we also adjust our activities to reflect broader, external factors.
+We continue to conduct studies seeking to improve the labor force participation of our disability
+beneficiaries, testing the effects of alternative policies and services on employment and benefit
+outcomes. In recent years, we also collaborated with other agencies to test interventions that may help
+people maintain their attachment to the workforce and prevent or delay application for
+disability benefits.
+Finally, we seek external expertise to support the research and evaluation needs of various divisions
+within our agency. In addition to working with private contractors on various research and evaluation
+projects, we developed the following programs that provide our various divisions with more timely
+research and evaluation expertise to support our programs, policies, and operations.
+A contract with the National Academy of Sciences (NAS) to conduct research that informs our
+disability programs. NAS established a standing committee of medical, vocational, and other
+experts to assist us with policy issues. It manages Federal Advisory Committee Act (FACA)
+compliant consensus study committees; organizes and leads workshops with subject matter
+experts; and plans and organizes outreach conferences with members of the public.
+A Retirement and Disability Research Consortium (RDRC) cooperative agreement that comprises four
+competitively selected research centers based at the University of Michigan, Boston College, the
+National Bureau of Economic Research (NBER), and the University of Wisconsin-Madison. The
+centers perform valuable research and evaluation of retirement and disability policy, disseminate
+results, provide training awards, and facilitate the use of our program data by outside researchers.
+To give SSA flexibility to fund projects outside of the annual project award cycle, we include funds
+in each center's budget for "quick-turnaround projects," or QTPs. The primary goal of QTPs is to
+respond to a high-priority research area that may not have been a priority when the focal area list
+was developed. A recent example of an SSA-initiated call for QTPs is a request for research on the
+impacts of COVID-19. This resulted in three projects being funded-two awarded in May 2020 and
+one awarded in June 2020.
+Social Security Administration
+11
+FY 2022 - 2026 Capacity Assessment
+A new Interventional Cooperative Agreement Program (ICAP) that will facilitate collaboration with States,
+private foundations, and others who have the interest and ability to identify, operate, and partially
+fund interventional research related to the DI and SSI programs.
+A Blanket Purchase Order Agreement for Time Sensitive Research Projects aimed at providing an
+alternate research channel for policy and program assessments and studies related to social
+science, medical, or vocational rehabilitation topics.
+3
+BALANCE BETWEEN EVALUATION, RESEARCH, STATISTICS, AND DATA
+ANALYSIS NEEDS
+The extent to which the evaluation research and analysis efforts and related activities of the
+agency address an appropriate balance between needs related to organizational learning,
+ongoing program management, performance management, strategic management, interagency
+and private sector coordination, internal and external oversight, and accountability.
+Our evaluation, research, analysis, and related activities strike an appropriate balance between needs
+related to organizational learning, ongoing program management, performance management, strategic
+management, interagency and private sector coordination, internal and external oversight, and
+accountability. In this section, we organize the evaluation, research, analysis, and related activities by
+the Deputy Commissioner-level office that oversees such activities and describe how the activities
+address an appropriate balance between various needs.
+1. Our Office of Analytics, Review, and Oversight (OARO) specializes in evaluating program
+operations and management and provides feedback to our operational components on their
+performance based on quality reviews and special studies. These reviews support organizational
+learning in that they identify the prevalence of specific deficiencies when conducting a particular
+workload. When deficiencies on a specific policy or workload are prevalent, we use the reviews to
+identify training needs. The OARO studies support ongoing program management, performance
+management, strategic management, internal and external oversight, and accountability. The
+OARO organization includes our Chief Data Officer who is leading the development of our
+Enterprise Data Strategy (EDS). The EDS is designed to ensure that we can provide timely,
+accurate, objective, and relevant statistical data to drive agency-wide evidence-based decision-
+making. The EDS will include a strategic vision and tactical roadmap that lays out the key steps of
+an actionable plan to implement the strategy.
+2. Our Office of Retirement and Disability Policy (ORDP) specializes in broader policy analysis that
+involves estimating the effect of broader changes to programs and policies. ORDP often
+collaborates with other Federal agencies, State agencies, and the private sector when conducting
+these evaluations. Thus, ORDP studies support organizational learning related to the effects of
+program or policy changes, and also support interagency and private sector coordination. ORDP
+reports the results of its research and demonstration projects in an annual report to Congress,
+which has external oversight over the work and supports accountability. In addition, ORES,
+organizationally located within ORDP, is a principal federal statistical unit under the Confidential
+Information Protection and Statistical Efficiency Act (CIPSEA) and has responsibilities for producing
+and disseminating core statistical products (publications and tables) about Social Security. These
+statistical products support and inform organizational learning and program management.
+3. Our Office of the Chief Actuary (OCACT) conducts research and evaluation studies to support
+organizational learning, program management, internal and external oversight, and accountability
+Social Security Administration
+12
+FY 2022 - 2026 Capacity Assessment
+by planning and directing a program of actuarial estimates and analyses relating to our OASDI
+programs and SSI program, and to proposed changes in those programs.
+OARO includes three sub-offices (OAI, OAO, and OQR) that conduct research, evaluation efforts, and
+related activities that support organizational learning, ongoing program management, performance
+management, strategic management, internal and external oversight, and accountability. For example,
+OQR conducts assessments and studies on many of our program operations, including the following
+studies.
+The Pre-effectuation Review of Disability Decisions and the Targeted Denial Review of Disability Decisions
+assess the quality of disability decisions that are made by DDSs located in the 50 states, the District
+of Columbia, and Puerto Rico. These reviews support organizational learning by providing feedback
+on disability decision deficiencies to the DDSs and identifying potential training needs. They support
+ongoing program and performance management as we use the results of the assessment for
+performance metrics, and we include the results in our Annual Performance Report. The reviews
+support internal and external oversight, as well as accountability, as we use the results to assess
+DDS performance. We provide Congress an annual report of the results.
+The OASDI Stewardship Review and the SSI Stewardship Review assess the payment accuracy rate
+related to the non-medical aspects of payments. These reviews support organizational learning by
+providing us with feedback on the sources of payment errors and identifying potential training
+needs. They support ongoing program and performance management as we use the results of the
+evaluation for performance metrics. We summarize the results in our Annual Performance Report.
+The evaluations meet the reporting requirements of the Improper Payments Information Act of 2019
+and support external oversight and accountability by providing the results in reports to monitoring
+authorities. Additionally, they support internal oversight and accountability as we use these findings
+to establish the Title Il Payment Accuracy Performance Measure in the Agency Strategic Plan.
+Special studies throughout the year to evaluate the efficiency and/or accuracy of our various other
+workloads. We generally conduct these studies to support organizational learning, program
+management, performance management, strategic management, internal oversight, and
+accountability.
+OAO contributes to organizational learning, program management, performance management, internal
+oversight, and accountability by providing adjudicators and policymakers with data-driven feedback on
+the performance of the hearings process in accordance with the direct delegation of authority from the
+Commissioner to the Appeals Council. In FY 2010, OAO established a Division of Quality to implement
+the provisions of the regulations that permit the Appeals Council to consider a random or selective
+sample of un-appealed hearing decisions for possible own motion review. OAO's quality reviews
+include the following activities.
+Post-effectuation Quality Reviews of ALJ Decisions. In FY 2011, OAO's Division of Quality began
+conducting post-effectuation reviews in the form of focused quality reviews of ALJ decisions. Post-
+effectuation means the ALJ decision is final, and the agency will not take any further action on the
+case. The Division of Quality conducts post-effectuation focused quality reviews, in part, to identify
+(a) recurrent decisional issues for incorporation into future focused training and (b) where the
+agency may need to change policy or hearing office procedures.
+Pre-effectuation Quality Reviews of ALJ Decisions. Beginning in FY 2011, OAO's Division of Quality
+began conducting pre-effectuation reviews of randomly selected favorable hearing decisions before
+we made any payments to claimants. The Division of Quality conducts pre-effectuation reviews, in
+part, to (a) address error-prone adjudication issues and (b) focus on error-prone patterns involving
+impairments or other specific criteria.
+Social Security Administration
+13
+FY 2022 - 2026 Capacity Assessment
+Special studies. OAO's Division of Quality occasionally conducts other studies, such as the FY 2016
+Appeals Council remand order study, for quality purposes.
+OAI performs research, evaluations, and related activities that include the analyses of agency data.
+OAI provides management consultation and develops innovative business solutions to drive agency
+priorities, improve operations efficiency, increase organizational performance, and meet strategic goals
+and objectives. OAI works collaboratively with other components to enhance SSA's programs and
+processes through data analytics, developing innovative business solutions, and enhancing value
+realization with program management support. In these efforts, OAI operates in five major
+functional areas:
+Division of the Analytics Center of Excellence: Supports evidence-based policies and decision-
+making across the agency using artificial intelligence, machine learning, and advanced analytics.
+Designs, manages, and updates predictive models and provides statistical analysis in support of
+agency program integrity and quality review efforts.
+Division of Analysis, Development, and Support: Develops custom applications that streamline
+processes, visualizes data, and provides in-depth data analysis.
+Division of Programmatic Support: Identifies case processing efficiencies using data analysis and
+programmatic expertise and develops automated assistance software that support frontline
+payment-related activities and workloads.
+Division of Continuous Improvement Programs: Assesses processes, programs, policies, and
+procedures to identify areas of improvement and possible solutions through documenting business
+processes, workflow diagrams, and/or surveys. Develops complex business process simulation
+models and enables budget and resource planning and decision making by providing key data.
+Division of Enterprise Program Management Operations: Increases Programs and Projects' (P/PM)
+delivery success, promotes enterprise-wide P/PM standards, enhances value realization, and
+strengthens the P/PM profession across the agency through enhanced decision-making and
+business capabilities.
+OAI leverages our modern Enterprise Data Warehouse (EDW) and Big Data Platform (BDP) to provide
+advanced analytical support including artificial intelligence, machine learning, and natural language
+processing solutions to serve all agency components.
+Some examples of OAI's efforts to foster and nurture evidence-based decision-making are as follows.
+Insight is an innovative decision support software that uses natural language processing and
+artificial intelligence to automatically "read" the text of disability decisions and identify potential
+quality issues. Insight also offers case-specific reference information and powerful tools to help
+adjudicators efficiently issue high quality decisions. Utilizing Insight will improve the quality,
+consistency, and efficiency of the disability adjudication process. It is a core project in our IT
+Modernization (Disability) Plan and our CARES Plan.
+Enumeration Reports and Data Visualization Dashboards. OAI has designed, developed, and
+deployed management information reports including data charts and visualizations that are updated
+weekly to allow executives to monitor enumeration workloads across various service delivery
+channels such as online and in field offices. In addition, OAI has created a data dashboard that
+provides year over year comparisons and monthly updates for the enumerations workload, broken
+out by service delivery channel and for citizens and non-citizens. Most recently, OAI added an
+additional reporting dashboard focused specifically on the enumerations workload conducted
+through Microsoft Teams. This report allows SSA leadership to track and assess the
+implementation of the new Microsoft Teams interview capability during its phased rollout.
+Social Security Administration
+14
+FY 2022 - 2026 Capacity Assessment
+Court Remands Dashboard. OAI has designed and delivered visual graphical dashboards that
+merge data from multiple administrative systems to improve strategic decision making. Specifically,
+it provides data about final agency decisions on claims made in Federal courts; it is used to identify
+any needed adjustments in allocation of personnel resources; and it is used to assess whether the
+recent changes to the disability regulations and program rules are meeting the expectations for
+improved outcomes in Federal courts.
+ORDP conducts research, evaluations, and related activities that support organizational learning,
+program management, strategic management, interagency coordination, internal and external
+oversight, and accountability. Below, we provide several examples that demonstrate our activities are
+striking a good balance at meeting these various objectives.
+We will collect information about the service, medical, and employment needs of working-age
+adults exiting Social Security disability programs because of medical improvement. The Beyond
+Benefits Study will include qualitative and quantitative data collection as well as small-scale use of
+Motivational Interviewing to gain more insight into the needs and barriers with respect to promoting
+sustained and substantial work activity leading to self-sufficiency among those leaving the disability
+rolls. The information collected will help to identify potential interventions and inform policy
+recommendations that may help these individuals achieve successful employment outcomes.
+The development of a number of SSA questions that the Census Bureau added to their new
+Household Pulse Survey (HPS), which they launched to learn about the national COVID-19 response.
+The Census Bureau selected six of our questions to include in the HPS Phase 2 Questionnaire,
+which they began fielding on August 19, 2020. Findings from this survey will help SSA evaluate
+trends in benefit applications during the COVID-19 pandemic, including applications for OASDI,
+SSI, and Medicare.
+An Interventional Cooperative Agreement Program (ICAP) that will allow us to collaborate with states,
+private foundations, and others who have the interest and ability to identify, operate, and partially
+fund interventional research. The research and interventions under this program will target the
+increased employment and self-sufficiency of individuals with disabilities (whether beneficiaries,
+applicants, or potential applicants of the DI or SSI programs) that could lead to a reduction in DI or
+SSI participation. Projects may also address agency priorities such as assisting claimants in
+underserved communities apply for DI or SSI benefits or conducting outreach to children with
+disabilities who are potentially eligible to receive SSI. This program will provide a process through
+which we can systematically review demonstration proposals from outside organizations and enter
+into agreements to collaborate with these non-Federal groups.
+Research and analysis to inform the occupational information used for the disability determination
+process. This includes a collaboration with the Bureau of Labor Statistics on the Occupational
+Requirements Survey (ORS) that provides us with the data we need on the requirements of work.
+ORDP research staff also completed extensive research and data analysis documenting recent
+trends in the requirements of work in the modern economy to support revised regulations.
+Research and analysis to inform the assumptions and methods used for the Annual Report of the
+Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust
+Funds. This includes analysis of demographic trends, economic trends, and beneficiary trends.
+OCACT conducts research and evaluation studies that support organizational learning, ongoing
+program management, performance management, strategic management, interagency coordination,
+Social Security Administration
+15
+FY 2022 - 2026 Capacity Assessment
+and accountability. Below, we provide several examples that demonstrate our activities are striking a
+good balance at meeting these various objectives.
+Annual evaluations of the operations of the Federal Old-Age and Survivors Insurance Trust Fund
+and the Federal Disability Insurance Trust Fund, including work on the Annual Report of the Board of
+Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds
+(OASDI Trustees Report). OCACT performs the evaluations and projections for the report; and the
+OASDI Trustees review and signoff on the report. This evaluation provides a foundation for many
+of our evaluation activities because an important outcome in many of our evaluations is the program
+cost effect on the trust funds.
+Annual assessment of the operations of the SSI program that supports organizational learning,
+program management, strategic management, external oversight, and accountability. This includes
+leading the agency's work on the Annual Report of the Supplemental Security Income Program (SSI Report).
+This evaluation provides a foundation for many of our evaluations related to changes in the SSI
+program because an important outcome in many of our evaluations is the effect on SSI payments
+and SSI program costs or savings.
+Actuarial and demographic research on social insurance and related program issues that supports
+organizational learning and program management, including:
+- the research and analysis that informs the methods and assumptions within the OASDI Trustees
+Report that is posted on our website: https://www.ssa.gov/oact/TR/2021/index.html; and
+- other actuarial studies and notes that supplement the OASDI Trustees Report, SSI report, or
+provide information on the program that are posted here: https://www.ssa.gov/oact/pubs.html,
+Projections of our future workloads. This is critical to our planning and budgeting process and
+supports program management and strategic management.
+4
+METHODS ARE APPROPRIATE
+The extent to which the agency uses methods and combinations of methods that are appropriate
+to agency divisions and the corresponding research questions being addressed, including an
+appropriate combination of formative and summative evaluation research and analysis approaches.
+We use rigorous methods and combinations of methods that are appropriate to agency divisions and
+the corresponding research questions being addressed, including an appropriate combination of
+formative and summative evaluation research and analysis approaches. We have extensive
+experience developing, implementing, and analyzing surveys, as well as analyzing survey data from
+other sources, to support our evidence-building activities. When we need additional information before
+implementing a large-scale demonstration project or new program, we conduct formative evaluations to
+determine whether the project or program is feasible, appropriate, and acceptable. Our research and
+demonstration projects use an appropriate combination of evaluation methods, including both process
+evaluations to evaluate whether the program or policy change is being implemented as intended, and
+impact evaluations to estimate the effect of the change on specific outcomes. We conduct process and
+outcome evaluations of our programs on a regular basis, and we use evaluation methods that are
+rigorous, well-documented, and appropriate.
+Social Security Administration
+16
+FY 2022 - 2026 Capacity Assessment
+We have extensive experience supporting and analyzing survey data from other sources, as well as
+developing and fielding our own surveys to support evidence-building activities. Below, we provide
+several examples of the surveys we used for evidence-building purposes.
+We use survey data from the Understanding America Study to build an evidence base on the public's
+service delivery preferences, as well as knowledge of the OASI, DI, and SSI programs.
+We conduct our own surveys to build evidence on the public's service delivery preferences, their
+internet use preferences, and their satisfaction with the services that we deliver online, in our field
+offices, and by our teleservice centers.
+We are planning to conduct a Disability Perceptions Survey to gather information on knowledge,
+perceptions, and opinions working adults have about the disability programs.
+We have extensive experience conducting formative evaluations, and our evaluation policy explicitly
+encourages the use of formative evaluations when appropriate. Below, we provide several examples of
+our formative evaluations.
+We designed and conducted the Benefit Offset Pilot Demonstration (BOPD) to test the feasibility of a
+national demonstration providing a $1 reduction in DI benefits for every $2 in earnings, in
+combination with employment supports.
+As recommended by one of our Technical Evaluation Panels (TEP), we are conducting the Beyond
+Benefits Study to collect information about the service, medical, and employment needs of a study
+population consisting of disability beneficiaries who are likely to exit the DI or SSI programs due to a
+medical CDR. The study will also involve small-scale motivational interviewing to gain more insight
+about their needs and barriers with respect to promoting sustained and substantial work activity
+leading to self-sufficiency among this population. We expect the results of the study will provide
+evidence on the feasibility of program improvements and innovations that may help the study
+population return to work and become self-sufficient and provide policymakers an evidentiary base
+from which to consider changes to the DI or SSI programs.
+We are collaborating with the Department of Labor (DOL) on the RETAIN project, which includes a
+first phase that is a formative evaluation of ways to improve the early coordination of health care
+and employment-related supports and services, train health care providers in occupational best
+practices, and facilitate communication and return-to-work efforts between workers, their
+employers, and their health care providers. Based on findings from the formative evaluation, we will
+fund a second phase to expand and implement the strategies that have the most potential to
+increase employment and reduce future reliance on our disability programs.
+We use randomized controlled trial (RCT) designs, when appropriate, to test policy changes.
+Information on our demonstrations projects that use RCT designs is available in our annual report to
+Congress, which is available to the public here: https://www.ssa.gov/disabilityresearch/demos.htm.
+Below, we provide examples of some of our program evaluations that are RCTs.
+The Promoting Readiness of Minors in SSI (PROMISE) demonstration project tests whether
+interventions that improve the health, education, and post-school outcomes of children who receive
+SSI results in long-term reductions in the children's reliance on SSI. The evaluation of PROMISE
+includes a process evaluation on how the programs were implemented and operated, an impact
+evaluation based on an RCT that estimates the effects on youth and family outcomes, and an
+analysis of the cost-effectiveness of the PROMISE projects.
+The Supported Employment Demonstration (SED) evaluates whether offering evidence-based
+packages of vocational, medical, and mental health services to recently denied DI and SSI
+applicants (ages 18 to 50 with a mental impairment) can reduce the demand for DI benefits. The
+Social Security Administration
+17
+FY 2022 - 2026 Capacity Assessment
+SED evaluation uses an RCT design to estimate the impact of SED on outcomes, and it includes
+process evaluation and a cost-benefit analysis.
+The Promoting Opportunity Demonstration (POD) tests the effects of reducing the DI benefit amount by
+$1 for every $2 that a beneficiary earns above a threshold below the level of Substantial Gainful
+Activity along with simplified work incentives, on employment, benefits paid, and the DI Trust Fund.
+This demonstration uses an RCT design for the impact evaluation and includes a process
+evaluation, participation evaluation, and cost-benefit analyses.
+We use appropriate methods for our other evaluations, which are reviewed and assessed by external
+organizations. For example, OCACT describes the methods used for their assessment of the status of
+the OASI and DI Trust Funds, as well as their assessment of the SSI program on our website:
+https://www.ssa.gov/oact/pubs.html. An external auditing firm, working with our Office of the Inspector
+General, conducts an annual review and assessment of the methods and assumptions that OCACT
+uses for the Annual Report of the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal
+Disability Insurance Trust Funds. In addition, once every four years, the Social Security Advisory Board
+commissions an expert technical panel on the methods and assumptions used for the Annual Report of
+the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds
+(https://www.ssab.gov/research/2019-technical-panel-on-assumptions-and-methods-a-report-to-the-
+board/). The panel reviews and provides recommendations on the report. The publicly available
+documentation and extensive external reviews help to ensure that the methods and assumptions
+OCACT uses for their reports are rigorous, well documented, and appropriate.
+Following leading industry best practices, OARO uses a wide variety of internal controls to ensure that
+its analytical work and any accompanying analysis is complete, accurate, reliable, and performed in
+accordance with industry analytical standards. In all of OARO's analytical work, these standards
+include rigorous validation and testing of all programs used to extract, process, and analyze data,
+technical peer review of data development of analysis, and the development and maintenance of
+technical documentation that details sources, methods, and procedures used in conducting our
+analytical work. External auditors and oversight organizations routinely review our policies, procedures,
+and methodologies for conducting such work. These reviews consistently find that OARO is operating
+within the Federal Agency internal control standards and guidelines pertaining to policies and
+procedures that govern the performance of analytical work.
+5
+EVALUATION, RESEARCH, STATISTICS, AND DATA ANALYSIS CAPACITY
+PRESENT WITHIN THE AGENCY
+The extent to which evaluation and research capacity is present within the agency to include
+personnel and agency processes for planning and implementing evaluation activities,
+disseminating best practices and findings, and incorporating employee views and feedback.
+We continually monitor our personnel involved in implementing evaluations, research, statistics, and
+data analysis activities, as well as disseminating the results of such activities, and we hire and train
+employees to maintain a sufficient capacity. Our capacity includes external resources to supplement
+and support our personnel on these activities. The external resources include research and evaluation
+expertise from our RDRC centers (Boston College, NBER, University of Michigan, and University of
+Wisconsin-Madison), the National Academy of Science, a Blanket Purchase Order Agreement for Time
+Sensitive Research Projects, the Interventional Cooperative Agreement Program (ICAP), and private
+contractors.
+Social Security Administration
+18
+FY 2022 - 2026 Capacity Assessment
+In addition, we have built an evidence-building infrastructure that enhances our capacity. Our
+infrastructure, as well as our efforts to further develop it, are described below.
+Planning and Implementation Evaluation Infrastructure
+Our Research and Demonstration Project Guidebook provides agency employees with information
+on agency processes for planning and implementing evaluation activities. The Government
+Accountability Office (GAO) reviewed our guidebook and determined that it was consistent with
+research practices and GAO standards and that the guidebook addressed GAO recommendations
+regarding coordinating with internal and external stakeholders as we implement evaluations. We
+are currently reassessing our guidebook against guidance outlined in OMB memorandum M-20-12
+and will use the results to make necessary revisions. In the interim, we are communicating
+changes in evaluation strategies and practices throughout the agency through regular meetings
+with staff.
+We developed an Agency Evaluation Policy consistent with OMB guidance in M-20-12 that outlines
+the standards the agency will use when planning and implementing evaluation activities. We
+developed the policy with input from our other offices that have expertise in this area, and we
+distributed the policy to all Deputy Commissioner level offices for their review and concurrence. We
+posted the policy on our website: https://www.ssa.gov/data.
+As part of our planning and implementation of evaluation activities, all of our offices that conduct
+evaluations develop project plans that pre-specify evaluation activities. These plans help to ensure
+that our evaluations meet the standards identified in our Agency Evaluation Policy and contribute to
+keeping the evaluations within scope.
+We use Technical Expert Panels (TEPs) when necessary to obtain guidance on policy,
+implementation, and evaluation issues. The TEPs highlight potential barriers to success and
+suggest alternative strategies to improve upon the original proposals. The reports are available to
+the public on our website: https://www.ssa.gov/disabilityresearch/demos.htm.
+We conducted a project to identify lessons learned from planning and implementing evaluations of
+our major demonstration projects. This project included evaluation experts from academia and the
+private sector who reviewed our prior demonstration projects and provided insights on how we can
+apply lessons learned to inform the design and implementation of future evaluations. The results
+from this project will advance our efforts to conduct rigorous evaluation and evidence-building
+activities.
+Dissemination of Best Practices Infrastructure
+We have a Contracting Officer's Representative (COR) Workgroup that shares best practices on
+developing and managing research and evaluation contracts. This community of practice shares
+guidance on topics such as developing a Statement of Work and Independent Government Cost
+Estimates, as well as tips for ongoing project management.
+Our Business Intelligence Competency Center (BICC) is a collaborative structure and community for
+sharing business intelligence activities, applications, tools, and best practices across the agency.
+We define business intelligence as the process for using a standardized set of tools and techniques
+to turn broad raw data into meaningful information to drive decision-making, optimize performance,
+and improve stewardship. The BICC also provides guidance to implement the agency's BI strategy
+and the Enterprise Data Warehouse (EDW) initiative.
+Social Security Administration
+19
+FY 2022 - 2026 Capacity Assessment
+Our Analytics Center of Excellence (ACE) organizes the Data Science Technology Exchange, which is a
+series of training seminars on various data science topics. The ACE team identifies the topics and
+presenters for these seminars, organizes the seminars, and our Office of Learning records videos of
+these seminars so that our employees can access them at any time.
+Infrastructure for Dissemination of Findings by SSA
+Our internet site (www.ssa.gov) provides the public with access to information on our evaluation
+activities. Our evaluation findings are found in our Annual Performance Report
+(https://www.ssa.gov/agency/budget-and-performance.html); our disability research site
+(https://www.ssa.gov/disabilityresearch/);our actuarial resources site (https://www.ssa.gov/oact/);
+and our research, statistics, and policy analysis site (https://www.ssa.gov/policy/).
+Our Office of Research, Evaluation, and Statistics (ORES) publishes on a quarterly basis the
+Social Security Bulletin, which contains research and evaluation articles related to retirement
+programs, disability programs, and means-tested programs, including the programs we administer.
+The Bulletin has a diverse readership of policymakers, government officials, academics, graduate
+and undergraduate students, business people, and other interested parties.
+ORES, as an OMB designated statistical unit, publishes data and statistics on programs
+administered by the Social Security Administration-the Old-Age, Survivors, and Disability
+Insurance program and Supplemental Security Income program. Our flagship statistical publication
+the Annual Statistical Supplement to the Social Security Bulletin has been published annually since
+1940. The data in the Supplement and our other statistical publications provide a base for
+research, policy analysis, and proposals for changing the programs.
+Our employees publish findings in leading professional journals, present findings at professional
+forums, and present findings to our external stakeholders including Congress, the Social Security
+Advisory Board, OMB, and other Federal agencies. ORDP and the Office of Communications
+worked with our Chief Actuary to use social media to communicate findings from the Annual Report of
+the Board of Trustees of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust
+Funds.
+Infrastructure for the Dissemination of Findings by External Organizations
+One of the primary functions of our four Retirement and Disability Research Consortium (RDRC)
+centers-Boston College, the National Bureau of Economic Research (NBER), the University of
+Michigan, and the University of Wisconsin-Madison-is to disseminate information on research and
+evaluations related to Social Security programs to policymakers, researchers, stakeholder
+organizations, and the general public.
+The Department of Labor's (DOL) Clearinghouse for Labor Evaluation and Research (CLEAR), which
+reviews studies in a variety of labor-related topic areas that are determined in collaboration with the
+DOL Chief Evaluation Office and DOL agency staff, disseminates findings from several of our
+evaluations. The vast majority of our evaluations included in CLEAR received a causal evidence
+rating of "high causal evidence", indicating that DOL is confident that the estimated effects from our
+evaluations are solely attributable to the intervention examined.
+Social Security Administration
+20
+FY 2022 - 2026 Capacity Assessment
+Infrastructure for Incorporating Employee Views and Feedback
+Our employees review and provide feedback on: (1) research and evaluation technical proposals
+from contractors, (2) grant proposals from the RDRC centers and other entities, and (3) the annual
+RDRC research agenda.
+Our employees identify topics, research and evaluations, and provide input into the content of our
+Learning Agenda, our Evaluation Plan, our Evaluation Policy, and other research and evaluation
+studies.
+We incorporate our employees' views and feedback into our annual extramural research plan that
+we submit as part of the annual budget process.
+We have an internal peer review process for our research and evaluation activities, during which
+employees participate with external scholars to review and provide feedback on research and
+evaluation reports before we consider them ready for dissemination.
+6
+DEVELOP EVALUATION, RESEARCH, STATISTICS, AND DATA ANALYSIS
+CAPACITY
+The extent to which the agency has the capacity to assist agency staff and program offices to
+develop the capacity to use evaluation research and analysis approaches and data in the day-to-
+day operations.
+We continually monitor our capacity to assist agency staff and program offices to develop the capacity
+to use evaluation, research, statistics, and data analysis in the day-to-day operations, and we make the
+necessary investments to ensure we have sufficient capacity in this area. While most of our offices
+need to evaluate policies and programs to some extent, they generally rely on our offices with
+significant expertise in supporting other divisions with using evaluation, research, statistics, and data
+analysis approaches in day-to-day operations. Below, we describe our major offices with this capacity
+and how they assist agency staff and program offices to develop the capacity to use evaluation
+research and analysis approaches in day-to-day operations.
+ORDP is the agency lead for implementing the Evidence Act. Our designated Evaluation Officer
+and Statistical Official have leadership positions within ORDP, and played an active role working
+with other major offices to identify their research and evaluation needs, and to incorporate them into
+our Learning Agenda and Annual Evaluation Plan. ORDP has also developed a new senior-level
+position of Chief Research Officer who is working with the Evaluation Officer to develop and
+implement the Learning Agenda and Evaluation Plan. The Evaluation Officer and Chief Research
+Officer developed an agency-wide Evaluation Policy, and actively promote the policy to other
+divisions within the agency. The Evaluation Officer encourages other divisions within the agency to
+participate in training sessions and presentations on research and evaluation topics offered by the
+Evidence Team within the Office of Management and Budget, the Federal Committee on Statistical
+Methodology, the Committee on National Statistics, and other organizations. In addition, ORDP
+oversees our Contracting Officer's Representative (COR) Workgroup. The primary offices within ORDP
+with the capacity to assist agency staff and program offices with using evaluation, research,
+statistics, and data analysis approaches in the day-to-day operations are: the Office of Research,
+Evaluation, and Statistics (ORES); the Office of Research, Demonstration, and Employment
+Support (ORDES); and the Office of Disability Policy (ODP).
+ORES, as an OMB designated statistical unit under the Confidential Information Protection and
+Social Security Administration
+21
+FY 2022 - 2026 Capacity Assessment
+Statistical Efficiency Act (CIPSEA), has responsibilities for producing and disseminating core
+statistical products and research datasets from administrative records and other sources to serve
+the needs of SSA components and key external stakeholders. These statistical and data products
+support and inform organizational learning and program management.
+The ORES Associate Commissioner serves as SSA's Statistical Official as required by the
+Evidence Act, and she provides advice to our various divisions on statistical policy, techniques, and
+procedures as part of our efforts to develop agency-wide capacity to use appropriate statistical
+approaches and data in our day-to-day operations. Our Statistical Official coordinates the RDRC
+Research-in-Progress Seminar Series where RDRC researchers present their findings. The seminar
+series is open to employees across the agency and attendance has grown significantly over the
+years. She also coordinates an Annual RDRC Research Conference that is open to our employees and
+to external stakeholders. Both events are specifically aimed at highlighting key research and
+analysis findings relevant to our various divisions and are an important component of our efforts to
+assist agency staff and program offices to use evaluation, research, statistics, and data analysis in
+the day-to-day operations. We monitor our capacity to fulfill our responsibilities as a designated
+statistical unit, and we make requests for staff and resources when we have well-justified needs. As
+we implement the requirements for statistical units under Title III of the Evidence Act, we will
+reassess our needs and request the necessary resources to carry out our responsibilities.
+OARO has a primary role in implementing the Evidence Act and the Federal Data Strategy Action
+Plan. Our designated Chief Data Officer has a leadership position within OARO and is working with
+our other designated officials to complete the requirements within the Evidence Act. OARO directly
+supports the agency's mission, goals, and service principles by reviewing program quality and
+effectiveness; making recommendations for program improvement using feedback from the
+adjudication of cases, predictive modeling, and advanced data analysis; coordinating the agency's
+detection and prevention of fraud; and responding to recommendations of external monitoring
+authorities. OARO leads our Business Intelligence Competency Center and our Analytics Center of
+Excellence. Both centers assist agency staff and program offices to develop the capacity to use
+evaluation research and analysis approaches and data in the day-to-day operations. There are four
+offices within OARO that work with agency staff and program offices to develop the capacity to use
+evaluation research and analysis approaches and data in the day-to-day operations, including: the
+Office of Analytics and Improvements (OAI), the Office of Appellate Operations (OAO), the Office of
+Quality Review (OQR), and the Office of Program Integrity (OPI).
+OCACT plays a primary role in evaluating the financial status of the OASI, DI, and SSI programs
+under current law, and how proposed changes to the programs will affect the programs' financial
+status. For example, OCACT supports our various divisions, Congress, and the Administration by
+assessing the effects of proposed legislative changes and proposed regulations. OCACT provides
+our various offices expert consultation on the design and implementation of research and evaluation
+projects. OCACT also conducts extensive research and analysis that the Commissioner and the
+Board of Trustees use by as the foundation for the Annual Report of the Board of Trustees of the
+Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds, and it leads the
+inter-component work on the Annual Report of the Supplemental Security Income Program. OCACT
+makes important contributions to other regular evaluations that the agency conducts for Congress
+and other external stakeholders.
+os plays a major role in implementing the Evidence Act and the Federal Data Strategy, and it
+assists agency staff and program offices to develop the capacity to use evaluation research and
+analysis approaches and data in the day-to-day operations. One of their major contributions is the
+development and expansion of our Enterprise Data Warehouse (EDW), which provides our staff and
+Social Security Administration
+22
+FY 2022 - 2026 Capacity Assessment
+program offices with access to our data, as well as the infrastructure to perform advanced analytics.
+The EDW provides the foundation for our research, evaluation, and data analysis activities.
+OS also oversees our Advanced Data Analytics Lab (ADAL). ADAL staff use our master data files to
+conduct advance data analytics for many of our major offices. The results of ADAL analyses are
+often used as input in senior executive decisions and actions. ADAL services include program
+evaluation, policy evaluation, predictive analytics, descriptive analytics, data quality analysis,
+prototyping new technologies, and machine learning exercises.
+We are committed to hiring and developing staff with the specialized knowledge and skills needed to
+conduct rigorous research and evaluations. We provide our employees with training opportunities to
+develop the capacity to use evaluation research and analysis approaches and data in our day-to-day
+operations. For example, our employees participated in, or are scheduled to participate in, the
+following training.
+The Joint Program on Survey Methodology's Big Data for Social Science course that OMB arranged
+with the University of Maryland, which covers the key big data tools in a non-intimidating way to
+social and data scientists.
+The Evaluation and Evidence Training Series hosted by OMB and the Office of Evaluation Sciences
+within the General Services Administration.
+The Federal Data Science Pilot Training Program hosted by the Chief Information Officer Council and
+is
+designed to assist agencies in filling a critical skills gap by training current Federal employees in
+emerging data science skills.
+Courses from Claremont Graduate University's The Evaluators' Institute, which offers a variety of
+courses that, provide evaluators with the capacity that they need to conduct high quality
+evaluations.
+As we expand our evidence-building activities, we are seeking new training opportunities for all of our
+employees. For example, we are exploring training opportunities for our senior executives that can
+help them better understand the results of our evaluations and use data and research more effectively
+in managing our programs. We are exploring additional training opportunities for our technical staff that
+will allow them to enhance their expertise on evaluation methods and research techniques. Finally, we
+are exploring training opportunities for our non-technical staff so that they will better understand the
+importance of evaluations for supporting evidence-based policymaking.
+Social Security Administration
+23
+FY 2022 - 2026 Capacity Assessment
+Securing today
+and tomorrow
+SSA.gov
+in
+Social Security Administration
+February 2022
+Foundations for Evidence-Based Policymaking Act of 2018 Documentation
+Produced and published at U.S. taxpayer expense

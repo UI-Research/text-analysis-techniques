@@ -1,0 +1,830 @@
+Department of Commerce (DOC)
+FY 23 Annual Evaluation Plan
+Introduction and Background
+The Foundations for Evidence-Based Policymaking Act
+of 2018 ("Evidence Act") requires that agency
+Evaluation Officers coordinate the development of an
+Annual Evaluation Plan that is published concurrent
+with the agency Annual Performance Plan. The Annual
+Evaluation Plan describes "significant" evaluations and
+related information for the subsequent fiscal year. The
+SIGNIFICANT
+list to the right provides the criteria DOC considered
+EVALUATIONS
+when designating projects as significant evaluations. All
+evaluations presented in this draft FY 23 plan are
+Significant evaluations meet
+supported by funding in the FY 23 President's Budget.
+one or more of the
+following criteria:
+In addition to Annual Evaluation Plans, CFO Act
+agencies are required to develop multi-year Learning
+Agendas. The Learning Agenda describes both
+Fundamental to the
+evaluations and other evidence that will be developed
+DOC Mission
+to support effective implementation of the
+Department's new 5-year Strategic Plan. A Capacity
+Assessment reporting the agencies resources for
+Aligns with leadership
+accomplishing the Learning Agenda is also required.
+priorities
+Both the Learning Agenda and the Capacity Assessment
+are published with the FY 22/26 Department Strategic
+Has potential to create
+Plan.
+a major advance in
+benefits from an
+Plan Development Process
+investment, efficiency
+and/or customer
+The Annual Strategic Review (ASR) completed in the
+experience
+spring of 2021 was used to propose evaluation
+questions for the FY 23 Evaluation Plan. The cross-
+Supports economic
+functional, multi-bureau Strategic Objective (SO) Teams
+that conduct the review on each so were asked to
+recovery and/or
+suggest programs/initiatives/processes for evaluation.
+resilience
+Questions from the ASR were revised and refined based
+on Administration priorities and through the process of
+developing the Strategic Plan and Learning Agenda for
+FY 22/26. The Evaluation Plan was also influenced by Congressional interests, as reflected in
+1
+questions posed during confirmation hearings; leadership discussions with community groups
+and stakeholders; and Executive Orders issued by the White House.
+Most notably, Executive Order (E.O.) 13985 is integral to the plan. The E.O. directs Federal
+agencies to "pursue a comprehensive approach to advancing equity for all, including people of color
+and others who have been historically underserved, marginalized, and adversely affected by
+persistent poverty and inequality." This plan emphasizes the development of information
+needed to ensure all American's have full access to the services and products of the Department
+of Commerce. In the fall of 2021, additional input on the plan was received through a "listening
+session" that included organizations that represent historically underserved communities and
+populations.
+Caveat Regarding Methodologies
+The questions, methodologies and data sources presented in this plan reflect current knowledge
+and initial thinking and will be adjusted as activities get underway. Internal experts and/or
+academics will be engaged to develop the detailed approach to evaluating a program or policy.
+In addition, an internal peer review process will be employed to refine questions and
+methodologies and identify the best sources of data.
+Dissemination of Evaluation Findings
+At significant milestones in the evaluation process, drafts and preliminary findings will be
+shared with internal stakeholders and staff of collaborating organizations. When evaluation
+projects are complete, the reports will be posted on the public-facing websites of the
+sponsoring bureaus. However, documents will not be posted if there are legal restrictions on
+access to the information, e.g., for security or privacy reasons.
+Significant evaluation findings are often presented at conferences and workshops to the
+appropriate communities of practices. Some evaluations are published in peer-reviewed
+journals as an objective measure of quality and to make the results more accessible.
+Types of Evaluations
+The project descriptions in this Evaluation Plan describe projects as being primarily in one of
+four categories. The categories are defined below and are excerpted from OMB M 20-12.
+However, OMB M 20-12 also provides that "evaluations can also examine questions related to
+understanding the contextual factors surrounding a program, as well as how to effectively
+target specific populations or groups for a particular intervention. They can provide critical
+information to inform decisions about current and future programming, policies, and
+organizational operations. Finally, evaluations can and should be used for learning and
+improvement purposes, as well as accountability purposes."
+2
+Formative Evaluation is typically conducted to assess whether a program, policy, or
+organizational approach, or aspect thereof, is feasible, appropriate, and acceptable before it is
+fully implemented. It may include process and/or outcome measures. However, unlike outcome
+and impact evaluations - which seek to answer whether the program, policy, or organization
+met its intended goals or had the intended impacts - a formative evaluation focuses on
+learning and improvement and does not aim to answer questions of overall effectiveness.
+Impact Evaluation assesses if a program, policy, or organization, or aspect thereof, causes an
+increase in impact compared to those of a counterfactual. In other words, this type of
+evaluation estimates and compares impacts (e.g., increased jobs, business revenue), with and
+without the program, policy, or organization, or a feature of the program or policy. Impact
+evaluations include both experimental (i.e., randomized controlled trials) and quasi-
+experimental designs (i.e., a comparison group with similar demographics). An impact
+evaluation can help answer the question, did the intervention lead to the observed outcome
+or impact?"
+Outcome Evaluation measures the extent to which a program, policy, or organization has
+achieved its intended outcome(s) and focuses on outputs and outcomes to assess effectiveness.
+Unlike an impact evaluation, it typically cannot discern causal attribution. For instance, it can
+report if the number of jobs increased in a Federally assisted business but cannot conclude that
+the assistance caused the number of jobs to increase. An outcome evaluation can help answer
+the question "were the intended outcomes of the program, policy, or organization achieved?'
+Process or Implementation Evaluation assesses how the program or service is delivered
+relative to its intended theory of change, and often includes information on content, quantity,
+quality, and structure of services provided. These evaluations can help answer the question,
+"was the program, policy, or organization implemented as intended?" or "how is the program,
+policy, or organization operating in practice?" Process evaluations are significant because an
+overly complex or time-consuming service delivery process can undermine the level of
+outcome/impact achieved even if the basic concept underpinning a program is sound.
+3
+Table of Contents
+Section 1: Improved Statistics to Support Better and More Equitable Management of the Economy
+4
+Section 2: 2030 Census Research and Planning
+6
+Section 3: Economic Advances from EDA American Rescue Programs
+7
+Section 4: Trade Enforcement
+9
+Section 5: SelectUSA's Services Roll Out
+10
+Section 6: Minority Businesses Participation in Manufacturing
+12
+Section 7: Assessments by the National Academies of Science, Engineering and Medicine (NASEM)
+14
+Section 8: The National-Level Economic Effect of the Manufacturing Extension Partnership (MEP)
+16
+Section 9: Deployment of Impact-based Decision Support Services (IDSS) to Underserved Communities
+17
+Section 10: Needs of Underserved Communities Impacted by Climate Change
+19
+Section 11: Offshore Wind Energy Effects
+20
+Section 12: Providing Exceptional Customer Experiences at USPTO
+22
+Section 13: Inclusive and Strong Intellectual Property (IP) Ecosystem
+23
+Evaluation and Evidence-Building Activities Descriptions
+Section 1: Improved Statistics to Support Better and More Equitable Management of the
+Economy
+Lead Bureau: Bureau of Economic Analysis (BEA)
+FY 23 Significant Evaluation Question: What data and measurement challenges will be a major
+obstacle in the development of measures of the economic health of various population
+segments at the state level?
+Related Strategic Objective(s):
+Strategic Goal 4 - Expand Opportunity and Discovery through Data
+Strategic Objective 4.2- Modernize economic and demographic statistics to better meet
+business, policymaker, and community needs
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: The COVID-19
+pandemic has impacted economic growth and added to concern about the distribution of
+income. Though BEA has developed prototype estimates of the national distribution of income
+and is developing a distribution of state income, these estimates need further work both
+regarding data that can be used and in measurement techniques. The refined distribution
+4
+statistics will equip policymakers with the information they need to further support the
+economic recovery and drive future investment and economic development decisions.
+Type of Evaluation (formative, process, outcome, impact): Formative Evaluation
+Methodology/Approach for Evaluation: A Formative Evaluation will be conducted to assess
+the feasibility of improving and accelerating publication of statistics, consistent with Gross
+Domestic Product (GDP), on national measures of personal income distribution. Improvements
+include new and more timely data sources, better measurement tools, and continuation of the
+development of prototype state-level measures. The evaluation will also assess the feasibility of
+developing and delivering first-of-their-kind prototype statistics on business investment for
+each state, with the goal of producing annual measures of these statistics.
+New methodologies are developed based on academic research that has been modified to
+consider national accounts (GDP) methods, definitions, and production needs.
+Equity Component of Methodology: Methodology will focus on regional and income
+distribution measures, allowing for a better understanding of how policy can target specific
+communities.
+Contractor/Academic or Unit Who Will Do the Research: BEA Office of the Chief Economist
+and Regional Economics Directorate
+Data Source: Available - Federal data sources include - but not are not limited to - BEA's
+measures of personal income, personal disposable income and consumer spending, Census
+Bureau/Bureau of Labor Statistics (BLS) Current Population Survey data, Internal Revenue
+Service (IRS) Statistics of Income data, BLS Consumer Expenditure Survey data, data from the
+Congressional Budget Office, Federal Reserve Board Survey of Consumer Finance data, etc.
+Need to Find or Create - New data sources will be identified, purchased, and integrated as
+necessary, consistent with FY 23 funding.
+Challenges: The primary challenge is using existing data sources developed for other purposes
+and devising adjustments so that the data fits the definition and scope of the intended
+measures BEA would like to develop. In most circumstances, the bureau also requires data that
+is publicly available (for transparency purposes) and produced on a regular basis for use in the
+ongoing production of the BEA developed measures.
+Dissemination: BEA will publish research as BEA Working Papers and in academic journals,
+present at conferences, and engage with external advisory committees. Newly developed
+statistics will be disseminated following existing procedures and made available on the BEA
+website.
+5
+Section 2: 2030 Census Research and Planning
+Lead Bureau: Census Bureau
+FY 23 Significant Evaluation Questions: What results and lessons learned from the 2020
+Census can be used to inform the design of the 2030 Census to increase effectiveness and
+efficiency?
+Related Strategic Objective(s):
+Strategic Goal 4 - Expand Opportunity and Discovery through Data
+Strategic Objective 4.2 - Modernize economic and demographic statistics to better meet
+business, policymaker, and community needs
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: The decennial
+census is the largest civilian mobilization in the Nation, comparable in scope only to military
+mobilizations for war. This expansive effort requires a complex operational design, including
+processes to ensure a complete and well-integrated design that supports the program strategy.
+The process produces operational and IT solutions needed to test the design and conduct the
+2030 Census. Lessons learned from the 2020 Census will guide the rigorous assessment,
+research, and testing phase of the2030 operational design.
+Type of Evaluation (formative, process, outcome, impact): This is a process evaluation.
+Methodology/Approach for Evaluation: This evaluation will assess aspects of the 2020
+Decennial approach and research and test possible improvements to establish the initial
+operational design for the 2030 Census, guided by four high-level Enhancement Areas:
+Streamline data collection to minimize respondent burden
+Modernize group quarters enumeration to address the complex and evolving living
+situations
+Integrate data processing with data collection to identify and address issues in real-time
+Streamline the operational support infrastructure to improve effectiveness
+The evaluation will identify 2020 Census "lessons learned" through interviews with leadership,
+staff, and stakeholders. This qualitative approach and quantitative analyses of 2020 will be used
+to develop questions on the quality and effectiveness of operations. The questions will drive
+the research and testing leading to the initial operational design for the 2030 Census.
+Equity Component of Methodology - The second Enhancement Area focusing on modernizing
+the approach to enumerating people in Group Quarters will have a strong focus on improving
+enumeration methods for some of the most underserved populations (e.g., persons
+experiencing homelessness, transitory populations, etc.).
+6
+Contractor/Academic or Unit Who Will Do the Research: Staff in the Decennial, Research &
+Methodology, and Demographic Directorates at the U.S. Census Bureau, as well as contract
+support provided by the Mitre Corporation.
+Data Sources: 2020 Census operational assessments, evaluations, and lessons learned.
+Challenges: The need for resources for conducting research and testing early in the decade
+must be clearly articulated to Congress. In past censuses, much of the infrastructure,
+particularly information technology, that has been built for the census has been
+decommissioned after the major operations and data releases have been completed, only to be
+rebuilt for the next census cycle. For the 2030 Census, the Census Bureau proposes to "flatten
+the peak" by investing in research, IT systems, and program management early in the decade,
+maximizing the potential to capitalize and build on the innovations implemented for the 2020
+cycle with the goal of reducing the funding needed later in the decade when compared to
+previous cycles.
+Need to find or create additional data sources to support innovations around data collection
+methodologies for housing units and group quarters.
+Dissemination: Throughout the process of developing and testing the design for a Decennial
+Census, briefings are held for experts and the public. Input is requested. The operating design is
+routinely scrutinized by highly regarded experts in the different components of the execution
+approach.
+Section 3: Economic Advances from EDA American Rescue Plan Programs
+Lead Bureau: Economic Development Administration (EDA)
+FY 23 Significant Evaluation Questions:
+Question 1 - To what extent do the funds provided by EDA's American Rescue Plan (ARP)
+programs substantially reach historically underserved populations and geographies?
+Question 2 - What are the long-standing baseline economic conditions in communities
+receiving an award from EDA's American Rescue Plan suite of programs?
+Related Strategic Objective(s):
+Strategic Goal 2 - Foster Inclusive Capitalism and Equitable Economic Growth
+Strategic Objective 2.1 - Drive equitable, resilient, place-based economic development and job
+growth
+7
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: Addressing
+economic disparities in historically underserved populations and geographies is critical to EDA's
+mission. EDA is prioritizing research on awards made under the American Rescue Plan, and the
+long-term economic conditions within underserved communities prior to the awards. Findings
+will identify improvements needed to ensure these communities are better served and have
+the foundation needed for long-term economic development. Research into these questions
+will provide the baseline information needed for future evaluations.
+Type of Evaluation (formative, process, outcome, impact): Formative Evaluation
+Methodology/Approach for Evaluation: EDA expects to use a mix of quantitative and
+qualitative analyses using EDA award data, modeled tract-level demographic data, and grantee
+questionnaire responses. Additionally, EDA will work with external researchers to collect
+baseline data on economic conditions both pre-award and during project deployment. A
+significant component of this research will be assessing the data/approach used to target
+benefits and the data available to track economic progress for small geographies.
+Equity Component of Methodology: Competitive applications for EDA awards must be
+responsive to one or more of EDA's investment priorities, including the Equity investment
+priority. For an applicant to meet the Equity investment priority, they must demonstrate their
+economic development planning or implementation project "advances equity across America
+through investments that directly benefit 1) one or more traditionally underserved populations,
+including but not limited to women, Black, Latino, and Indigenous and Native American
+persons, Asian Americans, and Pacific Islanders or 2) underserved communities within
+geographies that have been systemically and/or systematically denied a full opportunity to
+participate in aspects of economic prosperity such as Tribal Lands, Persistent Poverty Counties,
+and rural areas with demonstrated, historical underservice.
+A key component of this research will be to determine the extent to which EDA's American
+Rescue Plan-funded projects reflect this investment priority.
+Contractor/Academic or Unit Who Will Do the Research: EDA expects to contract/award
+third-party entities to support these evaluations.
+Data Source: Available - Universe of all EDA awards made under the American Rescue Plan,
+including project types and geographic project location details (complete data set expected by
+the end of FY 2022).
+Need to Find or Create - 1) Modeled, tract level demographic data. 2) Grantee responses to
+equity questionnaire. 3) Long-term baseline economic data in specific geographies relative to
+EDA awards.
+8
+Challenges:
+A government-wide definition for "underserved" does not exist. EDA will be using
+definitions developed for its equity investment priority, which may not align with other
+agencies.
+Existing EDA grants management systems lack a sophisticated way for tracking detailed
+project location data, which is mostly captured in open text fields. Work towards a new
+EDA grants management system is underway but is expected to extend into FY 23. Given
+this, ARP Act project location capture will happen with its existing system in place.
+Obtaining permission, via Paperwork Reduction Act, to augment existing data collection
+processes to include questions geared towards equity.
+Because part of this evaluation will rely on grantee responses, grantee non-response
+could be a challenge, particularly with increased reporting requirements.
+Work on modeled, tract-level demographic data is just beginning with a third-party
+research partner. Project timeline development is under way and could extend into FY
+23.
+EDA uses a competitive grant process to fund its evaluation work. An appropriate,
+competitive application must be received, reviewed, and awarded prior to FY 23.
+Dissemination: Report(s) on this research will be available on the EDA website. Lessons
+learned on the approach and data adequacy will be presented in newsletters and/or workshops
+for the Federal, non-profit, and academic community researching equity issues.
+Section 4: Trade Enforcement
+Lead Bureau: International Trade Administration (ITA)
+FY 23 Significant Evaluation Question: Have resources been effectively deployed to enforce
+U.S. trade laws? How do the configuration/deployment of Enforcement and Compliance (E&C)
+resources correlate with results in trade law enforcement?
+Related Strategic Objective(s):
+Strategic Goal 1 - Drive U.S. Innovation and Global Competitiveness
+Strategic Objective 1.4 - Protect national security interests and enforce trade rules
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: ITA trade
+enforcement activity continues at historic high levels due to a record surge in requests for use
+of antidumping/countervailing duty trade laws to protect U.S. industries from unfairly traded
+imports. Greater understanding of the impact of E&C's resource allocation will help to inform
+ITA's plans for maximizing mission success.
+9
+Type of Evaluation (formative, process, outcome, impact): Process and Outcome Evaluation.
+Methodology/Approach for Evaluation: Examination of actual E&C processes V. process design
+utilizing existing internal information and customer feedback. Data/information compiled
+(including review of administrative and outcome data, personnel interviews, and workflow
+mapping) will compare the level/type of current resource allocation with
+antidumping/countervailing duty trade law action and results.
+Equity Component of Methodology: N/A.
+Contractor/Academic or Unit Who Will Do the Research: Enforcement and Compliance staff
+Data Source: Available - E&C standard operating procedures, resource plans, relevant
+statistics, interviews with staff and stakeholders
+Need to Find or Create - N/A.
+Challenges: E&C actions are only one part of the United States government trade remedy law
+enforcement mechanism. E&C is responsible for determinations of dumping and/or unfair
+subsidization; the International Trade Commission is responsible for determinations of injury to
+domestic industry, and Customs and Border Patrol are responsible for imposition of trade
+remedy duties. It may prove difficult to fully ascertain the impact of E&C's resource
+deployment when considering broad questions like the US government's success in enforcing
+U.S. trade laws. As these challenges are beyond Commerce Department control, E&C will focus
+on its role in U.S. enforcement of these laws and attempt to discern how its resource allocation
+affects the part of the U.S. mission for which it is accountable.
+Dissemination: Findings of the research will be discussed with other agencies in the trade law
+enforcement space; findings will be available to the public depending on the sensitivity of the
+information.
+Section 5: SelectUSA's Services Roll Out
+Lead Bureau: International Trade Administration (ITA)
+FY 23 Significant Evaluation Questions: How have SelectUSA services affected different
+industries and U.S. communities?
+Have recent efforts to broaden and deepen SelectUSA Service delivery been effective? Are
+further process or policy changes needed to extend the benefits equitably?
+Related Strategic Objective(s):
+Strategic Goal 1 - Drive U.S. Innovation and Global Competitiveness
+10
+Strategic Objective 1.3 - Increase international cooperation and commerce
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: ITA and the
+Department will use foreign direct investment to build back better. There is particular emphasis
+on more/better assistance to underserved communities and building a more resilient supply
+chain. Knowing the outcome and equity of past SelectUSA work and methods of delivery are
+essential to targeting the most effective program interventions.
+Type of Evaluation (formative, process, outcome, impact): Process and Outcome evaluation.
+Methodology/Approach for Evaluation: The approach will utilize geo-coded outcome
+information (Client-verified WIN data) sourced from ITA's Salesforce platform onto an ArcGIS
+map. Another tool will be similarly geo-coded dimensions of analysis (such as industry, socio-
+economic indicators, cluster effects, deal value, deal jobs, and inverted cluster analysis) from
+the Census Bureau's American Community Survey (ACS). Analysis will be conducted at the
+county level to better understand the share of SelectUSA program impacts that benefit
+underserved communities versus other demographics. Further analysis will examine and
+identify underserved communities where SelectUSA impacts have not been observed. This will
+generate program recommendations for targeted, proactive Economic Development
+Organization (EDO) outreach.
+Depending on the availability of resources, an audit of SelectUSA's WINs over time will also be
+undertaken. Interviews with former clients will be used and new data (Client-verified WINs)
+logged into Salesforce when an investment announcement is made. External economic factors
+that influence how much is invested 6 months, 2 years, etc. will be factored into the analysis.
+Interviews and survey data will provide insight into SelectUSA's influence on investments.
+Equity Component of Methodology: Socio-economic indicator dimensions such as household
+income, poverty rates, and unemployment rates at the U.S. County level, crossed with inverse
+clusters in ArcGIS, will identify geographies that have experienced less SelectUSA-assisted
+WINs. By engaging directly with those geographies, SelectUSA hopes to equitably offer services
+to disadvantaged communities through evidence-based interventions.
+Contractor/Academic or Unit Who Will Do the Research: SelectUSA Investment Research
+Team (In-house contract staff).
+Data Source: Available - American Community Survey (ACS), Census; SelectUSA Master WINs
+Spreadsheet (Derived from Salesforce).
+Need to Find or Create - Any official definition of disadvantaged communities/persons from a
+DOC statistical authority, publicly available at the county level would be ideal. Proxies will be
+used until this data is available.
+11
+Challenges: Data quality management in Salesforce is an ongoing effort that is essential to the
+reliability of evaluation work.
+The lack of a definition for disadvantaged businesses and lagged data publication at the county
+level (ACS data needed for 2020 will not be available until March 2022) is also a challenge. ITA
+will consult with the Census Bureau and explore adapting EDA's definition of underserved
+communities.
+Measurement challenges may be addressed by a limited pilot or demonstration project in
+selected locations to refine the research approach.
+Dissemination: The final report will be available on a public facing website and presented to
+stakeholders in meetings and/or workshops.
+Section 6: Minority Businesses Participation in Manufacturing
+Lead Bureau: Minority Business Development Agency (MBDA)
+FY 23 Significant Evaluation Questions: To what extent do minority business enterprises
+(MBEs) participate, innovate, and compete in manufacturing?
+What Minority Business Development Agency (MBDA) interventions most effectively increase
+minority business enterprises (MBEs) participation, innovation, and competitiveness in
+manufacturing? What interventions increase MBEs' ability to participate, innovate, and
+compete in manufacturing?
+Note: The Minority Business Development Act of 2021 directed MBDA to research questions
+related to minority businesses filling gaps in the US supply chain and the viability of alternative
+sources of financing for minority businesses. After dialogue needed to refine the questions, their
+scope, and identify funding, additional MBDA questions may be added to this Evaluation Plan.
+Related Strategic Objective(s):
+Strategic Goal 1 - Drive U.S. Innovation and Global Competitiveness
+Strategic Objective 1.1 - Revitalize U.S. manufacturing and strengthen domestic supply chains
+Strategic Objective 1.3 - Increase international cooperation and commerce
+Strategic Goal 2 - Foster Inclusive Capitalism and Equitable Economic Growth
+Strategic Objective 2.1 - Drive equitable, resilient, place-based economic development and job
+growth
+12
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: The MBDA
+Advance Manufacturing Center (AMC) promotes the growth and global competitiveness of
+large, medium, and small businesses owned and operated by minority groups. The program
+specializes in providing business development services and capacity building. These services are
+designed to complement other Federal manufacturing services. This research will identify
+operational needs of minority manufacturers, with a view to guiding MBDA programs, and
+possibly overall Federal actions taken, to provide equitable access to manufacturing
+opportunities.
+Type of Evaluation (formative, process, outcome, impact): Assessing data sets available for
+measuring minority business participation in manufacturing is a formative evaluation. The study
+will establish statistical benchmarks among firms of similar characteristics to those served by
+the AMC program and analyze the effectiveness of different types of interventions, i.e., impact
+evaluation.
+Methodology/Approach for Evaluation: The formative evaluation will compare alternative
+sources of existing data on industry and firm-specific characteristics (e.g., value of capital
+assets, employees, firm age, financial condition, demographics, locations, size, export
+destinations, and industry presence). The impact analysis will use a quasi-experimental design
+to compare business size, growth, etc. of business receiving different types of assisted with
+unassisted businesses with similar characteristics. The results will suggest further research on
+effective ways of supporting minority manufacturers' growth; risk factors; innovation,
+technology, workforce needs; and opportunities for targeted government assistance. To
+provide comparative analysis to a wider universe of firms, data from other agencies (i.e., SBA,
+ITA, NIST, Federal Reserve) will be studied for minority manufacturing characteristics, types of
+assistance provided, international market challenges, regional factors, or the level of
+specialization in certain industrial sectors. Statistical indicators will be calculated to provide
+cross-comparisons among different data segments as well as visualization of trends, industry
+components, firm characteristics, etc. The results will be reported in dashboards to allow
+consistent and accessible overviews of the data.
+Equity Component of Methodology: The study will help identify factors that support the
+success of minority-owned business: African Americans, Hispanic Americans, Native Americans,
+Alaska Native Americans, Asian and Pacific Americans and Subcontinent Asian Americans.
+Contractor/Academic or Unit Who Will Do the Research: This study will be conducted through
+collaboration with the US Census Bureau and with the support of academics engaged directly
+through an IPA and/or in cooperation with the GSA Office of Evaluation Sciences.
+Data Source: Available - The study will use data from MBDA's, Customer Relationship
+Management system which is the repository for the MBDA's Business Center and Specialty
+Center client data. Comparison group data is from the Census Bureau and NIST Manufacturing
+Extension Partnership. Further analysis will use data from other federal agencies (i.e., NIST
+MEP, Governors of the Federal Reserve, SBA, BEA).
+13
+Need to Find or Create - Additional data may be available through organizations such as
+minority chambers of commerce, minority serving academic institutions, and other entities
+serving minority businesses. Research on options is part of this project.
+Challenges: Availability of information on race and ethnicity, which can be overcome by using
+imputation algorithms. Sample-selection bias may require two-step estimators or similar
+techniques.
+Dissemination: The research report and findings will be available on the MBDA website and will
+be presented to stakeholders at workshops/conferences and in newsletters.
+Section 7: Assessments by the National Academies of Science, Engineering and Medicine
+(NASEM)
+Lead Bureau: National Institute of Standards and Technology (NIST)
+FY 23 Significant Evaluation Questions: What are the technical merit, relevance, and impact of
+NIST's laboratory programs? The questions are answered by assessing the following:
+1.
+The organization's technical programs.
+2.
+The portfolio of scientific expertise within the organization.
+3.
+The adequacy of the organization's facilities, equipment, and human resources.
+4.
+The effectiveness by which the organization disseminates its program outputs.
+Related Strategic Objective(s):
+Strategic Goal 1 - Drive U.S. Innovation and Global Competitiveness
+Strategic Objective 1.1 - Revitalize U.S. manufacturing and strengthen domestic supply chains
+Strategic Objective 1.2 - Accelerate the development, commercialization, and deployment of
+critical and emerging technologies
+Strategic Goal 3 - Address the Climate Crisis through Mitigation, Adaptation, and Resilience
+Efforts
+Strategic Objective 3.1 - Increase the impact of climate data and services for decisionmakers
+through enhanced service delivery and improved weather, water, and climate forecasts
+Strategic Goal 4 - Expand Opportunity and Discovery through Data
+Strategic Objective 4.1 - Implement evidence-based decision making within the Department of
+Commerce to increase program and policy impact
+14
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: NIST asks the
+NASEM to conduct an annual assessment of a portion of the NIST laboratories. A panel of
+independent technical experts conducts the study. These NASEM experts assess the technical
+merit, relevance, and quality of NIST's laboratory programs in the context of NIST's mission,
+which is "to promote U.S. innovation and industrial competitiveness by advancing
+measurement science, standards, and technology in ways that enhance economic security and
+improve our quality of life." The results of the findings are used to shape future NIST research
+directions and focus for specific NIST technical programs.
+Type of Evaluation (formative, process, outcome, impact): Process and Outcome Evaluation
+Methodology/Approach for Evaluation: Study committees typically gather information
+through 1) meetings that are open to the public and that are announced in advance through
+the Academies' website; 2) the submission of information by outside parties; 3) reviews of the
+scientific literature; and 4) the investigations by the committee members and staff. In all cases,
+efforts are made to solicit input from individuals who have been directly involved in, or who
+have special knowledge of the problem under consideration. The technical merit is assessed
+using several criteria, such as the number of publications and the impact factor of the journals
+they are published in, number of patents or invention disclosures, level of external stakeholder
+interest and engagement, and participation in technology transfer activities.
+Equity Component of Methodology - Equity is not a component of this assessment, but the
+committee must include experts with the specific expertise and experience needed to address
+the study's statement of task. The National Academies value diversity and equity and strive for
+a culture of inclusion in all work and activities, including the study process. NASEM brings
+together recognized experts from diverse disciplines and backgrounds who might not otherwise
+collaborate. NASEM is entirely responsible for the selection of panel members, and NIST has no
+say in the members selected unless to point out areas of conflict of interest.
+Contractor/Academic or Unit Who Will Do the Research: National Academies of Science,
+Engineering and Medicine (NASEM)
+Data Source: NIST's research labs
+Determined - Engineering Lab's Smart Manufacturing Program, Physical Measurement Lab's
+Boulder campus
+Undetermined - Material Measurement Lab's divisions to be assessed - TBD
+Challenges: Uncertainty associated with the telework and remote work policies makes it
+challenging to plan for meetings.
+Dissemination: Meetings that are part of the review are open to the public and are announced
+in advance through the Academies' website. The final report and findings will be available on
+the NIST website.
+15
+Section 8: The National-Level Economic Effect of the Manufacturing Extension Partnership
+(MEP)
+Lead Bureau: National Institute of Standards and Technology (NIST)
+FY 23 Significant Evaluation Questions: What are the estimated outcomes of MEP projects,
+including:
+Jobs created and retained
+Sales created and retained
+Cost savings
+Investments
+Related Strategic Objective(s):
+Strategic Goal 1 - Drive U.S. Innovation and Global Competitiveness
+Strategic Objective 1.1 - Revitalize U.S. manufacturing and strengthen domestic supply chains
+Strategic Objective 1.2 - Accelerate the development, commercialization, and deployment of
+critical and emerging technologies
+Strategic Goal 4 - Expand Opportunity and Discovery through Data
+Strategic Objective 4.1 - Implement evidence-based decision making within the Department of
+Commerce to increase program and policy impact
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: MEP Centers
+deliver technical assistance to primarily small- and medium-sized manufacturing establishments
+to help them improve their productivity and competitiveness. The Centers assist with product
+development, new investments, and improved products and processes and provide tools and
+resources for business expansion and business continuity planning that contribute to cost
+savings. These improvements increase the productivity, profitability, and competitiveness of
+client establishments, which in turn improves the economy by creating jobs, increasing
+earnings, and expanding the tax base. Each year, NIST MEP surveys their clients using an
+independent third-party vendor (Fors Marsh Group) to estimate the overall effect of NIST MEP
+on the U.S. economy.
+Type of Evaluation (formative, process, outcome, impact): This is an Outcome Evaluation.
+Methodology/Approach for Evaluation: Using a model developed by Regional Economic
+Models, Inc. (REMI), the study estimates the indirect and induced effects of the reported
+increase in jobs, sales, cost savings, and investments by MEP clients. Three scenarios are
+presented to estimate the output of NIST MEP:
+16
+Scenario 1 is the unconstrained approach in which it is assumed that an increase in sales
+of one establishment does not affect or reduce the sales across other establishments.
+This scenario is included to serve as an upper bound on the estimates.
+Scenario 2 assumes that competition among establishments mitigates the overall effects
+of the estimated increase in sales and employment, since establishments that do not
+benefit from the services rendered by MEP may lose market share to those that do and
+thus grow less quickly than they would have otherwise.
+Scenario 3 estimates the fraction of reported outcomes required for the program to
+break even, as measured by the projected tax increases covering the annual cost of the
+program for FY2020 ($146 million). This allows the study to determine whether the cost
+of MEP is justified by the benefits it generates.
+Equity Component of Methodology - The survey is administered to MEP clients across the
+country, covering all the geographical regions of the U.S.
+Contractor/Academic or Unit Who Will Do the Research: Consulting support will be
+contracted.
+Data Source: Self-reported survey on the outcomes of MEP 10,839 clients from across the
+country. Of the clients surveyed in FY2020, 8,500 (78.4%) responded to the survey.
+Challenges: This analysis does not construct a control group of randomly selected companies
+to compare the performance of creating new and retained jobs and sales or on cost savings and
+investments. This limits the causality that can be assigned to MEP efforts in assisting
+establishments. Because of self-selection bias, establishments opting to use MEP services may
+also be more inclined to invest in workforce training, equipment, and other technology on their
+own.
+Dissemination: The final report and findings will be posted on the NIST website.
+Section 9: Deployment of Impact-based Decision Support Services (IDSS) to Underserved
+Communities
+Lead Bureau: National Oceanic and Atmospheric Administration (NOAA)
+FY 23 Significant Evaluation Questions: How well are Impact-based Decision Support Services
+(IDSS) being provided to benefit the communities they serve, especially in historically
+underserved and socially vulnerable communities (HUSVCs), and those communities that are
+particularly vulnerable to climate hazards?
+17
+Does NWS have the necessary people, technology, and expertise to support and deliver IDSS to
+emergency managers and HUSVCs?
+Related Strategic Objective(s):
+Strategic Goal 3 - Address the Climate Crisis through Mitigation, Adaptation, and Resilience
+Efforts
+Strategic Objective 3.1 - Increase the impact of climate data and services for decisionmakers
+through enhanced service delivery and improved weather, water, and climate forecasts
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: Ninety-eight (98)
+percent of all presidentially declared disasters are related to weather, leading to approximately
+500 deaths per year and nearly $15 billion in damage. The Nation is facing fast-growing societal
+needs and demands for new and expanded weather, water, and climate products and services
+across all sectors of communities, as well as providing IDSS across all government levels.
+Furthermore, the nation continues to experience a growing number of record-breaking extreme
+weather and water events throughout the entire year under the influence of climate change.
+Emergency managers tell NOAA that the NWS's improved impact-based forecasts,
+communicated through trusted relationships, have more effectively supported their life-saving
+work. This customer service-based approach helps emergency managers and communities
+make better decisions when responding to extreme weather and water events
+Against this backdrop, NWS needs to enhance relationships with communities and
+organizations to ensure that products and services reach everyone in the country, regardless of
+socio-economic status, race, language, or other factors that might lead to inequitable access.
+In FY 21, NWS conducted a Service Equity Assessment in response to E.O. 13985. The
+assessment identified the need for an in-depth review of access to IDSS by all HUSVCs. The
+research will bolster understanding required to improve how life-saving decision support
+services are delivered and meet the needs of these communities. Every community should be
+responsive and resilient in the face of extreme weather and water events.
+Type of Evaluation (formative, process, outcome, impact): Implementation Evaluation.
+Methodology/Approach for Evaluation: NWS currently conducts three surveys of customers:
+1) Annual Core Partner survey that covers the full breadth of NWS services provided,
+2) Episodic Core Partner survey on specific weather, water, and climate events and
+3) University of Oklahoma Center for Risk and Crisis Management, Weather and Society Survey.
+Survey findings will be used to identify unmet service needs, resource requirements and
+process deficiencies.
+Equity Component of Methodology: The NWS proposed surveys will help conduct a preliminary
+review of how NOAA services are supporting HUSVCs and what improvements are needed.
+18
+Contractor/Academic or Unit Who Will Do the Research: NWS Headquarters, Field Offices,
+and contractors.
+Data Source: Available - 1) Annual Core Partner survey, 2) Episodic Core Partner survey
+3) Initial Service Equity Assessment, 4) University of Oklahoma Center for Risk and Crisis
+Management, Weather and Society Survey
+Challenges: Assessing IDSS message consistency among partners and forecast offices with
+different structures and staffing. Evaluating survey data or developing a methodology that
+specifically measures the impact on vulnerable communities with varying needs.
+Dissemination: Findings will be published on NOAA's public facing website.
+Section 10: Needs of Underserved Communities Impacted by Climate Change
+Lead Bureau: National Oceanic and Atmospheric Administration (NOAA)
+FY 23 Significant Evaluation Questions: Does NOAA's service delivery model meet the needs of
+underserved communities impacted by climate change?
+Related Strategic Objective(s):
+Strategic Goal 3 - Address the Climate Crisis through Mitigation, Adaptation, and Resilience
+Efforts
+Strategic Objective 3.1 - Increase the impact of climate data and services for decisionmakers
+through enhanced service delivery and improved weather, water, and climate forecasts
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: NOAA's mission is
+to understand and predict changes in climate, weather, the ocean, and coasts; share that
+knowledge and information with federal agencies, states, and the public; and conserve and
+manage coastal and marine ecosystems and resources. NOAA provides climate information that
+helps safeguard communities from hazardous natural events, and helps businesses make
+decisions to operate more efficiently. NOAA's management programs for oceans and coastal
+areas help enhance both the current and future productivity of these economically vital
+resources. NOAA conducted a Service Equity Assessment of high impact programs and is further
+investigating barriers identified in the Equity Assessments to assure the needs of vulnerable
+underserved communities are met.
+Type of Evaluation (formative, process, outcome, impact): Process Evaluation.
+Methodology/Approach for Evaluation: As part of the requirements of E.O. 13985, NOAA is
+developing a comprehensive approach to assess and advance equity and effective service
+19
+delivery to underserved communities. NOAA identified high impact programs for a Service
+Equity Assessment (per OMB Guidance) and assessed these programs to identify access barriers
+faced by underserved communities.
+As a next step, and to comply with E.O. 13985, NOAA will develop plans to further assess and
+address barriers to access that were identified by the equity assessment. In FY 21, in
+collaboration with GSA's Office of Evaluation Sciences (OES), NOAA developed service delivery
+changes designed to improve equitable delivery of NOAA services that help communities better
+prepare for climate change impacts. In FY 22/23, NOAA and OES will identify behavioral best
+practices and potential program changes to address these barriers. The evaluation will include
+gathering information on content, quantity, quality, and structure of services provided.
+Equity Component of Methodology: The findings will allow NOAA to strengthen its service
+delivery to underserved communities affected by climate change.
+Contractor/Academic or Unit Who Will Do the Research: GSA Office of Evaluation Services.
+Data Source: The service-delivery model produced with OES in FY21 will help identify data that
+the Equity Assessment Teams will need to collect to assess service delivery. Data will be
+generated based on engagement and collaboration with stakeholders from underserved
+communities and local government organizations. Various engagement mechanisms will be
+used including formal surveys, councils, workshops, requests for comments, and requests for
+information.
+Challenges: NOAA may need to develop and get approval of new Information Collection
+Requests (ICRs,) as required under the Paperwork Reduction Act, to conduct necessary surveys
+within the timeframe.
+Dissemination: The information will be disseminated to the public and NOAA's stakeholders
+via webinars, workshops and/or roundtable discussions. This information will potentially
+provide increased access (web traffic) to tools that help communities become more resilient in
+the face of climate change, and equity measures.
+Section 11: Offshore Wind Energy Effects
+Lead Bureau: National Oceanic and Atmospheric Administration (NOAA)
+FY 23 Significant Evaluation Questions: What survey process revisions will be needed for
+NOAA fisheries assessments and forecasts of the effects of planned offshore energy activities
+20
+on fishing, fisheries revenues, protected resources, and ecosystem productivity? How can the
+processes be improved?
+Related Strategic Objective(s):
+Strategic Goal 2 - Foster Inclusive Capitalism and Equitable Economic Growth
+Strategic Objective 2.1 - Drive equitable, resilient, place-based economic development and job
+growth
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: Offshore wind
+energy development requires NOAA to engage in numerous environmental reviews, including
+Essential Fish Habitat consultations under the Magnuson-Steven: Fishery Conservation and
+Management Act (MSA), Section 7 consultations under the Endangered Species Act (ESA), and
+incidental take authorizations under the Marine Mammal Protection Act (MMPA). NOAA's
+expertise in managing ocean species and habitats is critical to supporting the Administration's
+priority of deploying 30 gigawatts of offshore wind by 2030, by facilitating responsible
+renewable energy development while considering fishing interests and protecting species and
+ecosystems.
+Offshore wind energy development is expected to have significant adverse impacts on NOAA
+scientific surveys because NOAA aircraft and vessels will not be able to safely operate within
+wind energy areas following current survey designs and protocols. New survey designs and
+methods will be required to address the anticipated changes in habitats in and around offshore
+wind developments.
+Type of Evaluation (formative, process, outcome, impact): Process Evaluation.
+Methodology/Approach for Evaluation: New survey designs and methods will be required to
+address the anticipated changes to existing survey areas lost to offshore wind farm
+infrastructure. Current approaches will be assessed, and new approaches will be developed and
+tested using simulation models and actual pilot tests. NOAA is planning to mitigate the effects
+of offshore energy activities on NOAA scientific surveys and will fund the scientific survey needs
+in the Northeast and Mid-Atlantic. NOAA is also assessing and developing Federal survey
+mitigation programs for impacted surveys along the West Coast, Gulf of Mexico, and South
+Atlantic.
+Contractor/Academic or Unit Who Will Do the Research: NOAA Fisheries' Science Centers and
+the Headquarters' Office of Science and Technology
+Data Source: Existing studies of European wind energy projects, and their effects, will inform
+consultations and forecasts for equivalent U.S. areas. Existing oil rig infrastructure in the Gulf of
+Mexico also provides a reference for anticipated effects of infrastructure on fisheries and
+protected species. Surveys of U.S. Exclusive Economic Zones in areas of proposed offshore wind
+energy projects will also provide baseline data on fisheries and endangered species for
+21
+comparison as projects are proposed in U.S. waters. As offshore wind energy projects are
+added, research will be expanded to include studies of the new areas.
+Challenges: NOAA will conduct and partner internationally on reviews of existing studies of
+impacts from offshore wind farms that compete with other blue economies and involve
+conservation concerns. Providing economic analyses on implications of offshore wind farm
+operations on commercial and recreational fisheries, aquaculture, and endangered species is
+important in determining the best approaches to supporting the Administration's priority of
+deploying 30 gigawatts of offshore wind while protecting ecosystems.
+Dissemination: Input, review, and decisions will be shared through the One Federal Decision
+process, a cooperative relationship among federal agencies for timely processing of
+environmental reviews and authorizations decisions on proposed major infrastructure projects
+Section 12: Providing Exceptional Customer Experiences at USPTO
+Lead Bureau: U.S. Patent and Trademark Office (USPTO)
+FY 23 Significant Evaluation Questions: What is the quality of the patent and trademark
+process based on customer experience? What factors contribute to customer satisfaction
+scores on initial application forms. USPTO will examine the factors that enhance and detract
+from the first-time website visitor experience to identify potential process improvements.
+Related Strategic Objective(s):
+Strategic Goal 5 - Provide 21st Century Service with 21st Century Capabilities
+Strategic Objective 5.3 - Equitably deliver exceptional customer experience
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: The customer
+journey for all trademark filers funnels through the initial application forms. For FY 21,
+customers submitted almost 944,000 product class trademark applications, which is a 28%
+increase over FY 20 totals. Understanding and improving the initial application forms and
+process will benefit all customers, particularly those who are new to the process or not assisted
+by an attorney.
+On the patent side, customers submitted almost 650,654 patent applications in FY 21 and the
+USPTO website received over 41 million unique page views. Preliminary findings indicate that
+first-time patent users have greater trouble navigating, understanding terms, and knowing
+where to go to file for a patent compared to return users. Examining the factors for these
+challenges and addressing them would improve their experience and make the process more
+accessible to all filers including underserved populations.
+22
+Type of Evaluation (formative, process, outcome, impact): Process Evaluation
+Methodology/Approach for Evaluation: The approach will utilize human-centered design
+methodologies, which place end users, or customers, at the center of the research question and
+problem-solving approach. The USPTO collects, analyzes, and reports on customer attitudes,
+sentiment, and behavior based on surveys, interviews, focus groups, and user testing. USPTO is
+an OMB designated High Impact Service Provider. Lean Six-Sigma tools for process evaluation
+and re-engineering will be employed to address customer identified issues and concerns.
+Equity Component of Methodology - Receiving feedback directly from a representative
+sampling of our customers gives voice to all customers and prospective customers, including
+those from underrepresented groups.
+Contractor/Academic or Unit Who Will Do the Research: The research will be completed by
+USPTO staff and contractors providing the customer feedback survey tool.
+Data Source: Available - USPTO's customer feedback surveys on the website, login, and
+trademark filing system. Customer behavior data on the website. Website usability testing
+results.
+Need to Find or Create: None.
+Challenges: Challenges include (1) collecting, combining, and analyzing datasets from multiple
+sources, (2) maintaining multiple skillsets necessary for collection, analysis, and dissemination
+of data across business units and offices therein.
+Dissemination: Findings and recommendations will be posted on the USPTO website.
+Section 13: Inclusive and Strong Intellectual Property (IP) Ecosystem
+Lead Bureau: U.S. Patent and Trademark Office
+FY 23 Significant Evaluation Questions: Can new metrics be developed to improve
+understanding of the participation of women and other underrepresented groups in the patent
+system, and what local economic factors influence their participation?
+Related Strategic Objective(s):
+Strategic Goal 1 - Drive U.S. Innovation and Global Competitiveness
+Strategic Objective 1.5 - Promote accessible, strong, and effective intellectual property rights to
+advance innovation, creativity, and entrepreneurship
+23
+Rationale for Topic's Priority and How the Evaluation Findings will be Used: America's long-
+standing economic prosperity and global leadership in innovation depends on a strong, vibrant,
+and balanced intellectual property system. To maximize the potential of the Nation, it is
+critically important that all Americans can innovate, seek IP protection, and reap the rewards
+from innovation through entrepreneurship and commercialization. This includes
+underrepresented groups based on demographic characteristics, geography, and economic
+conditions. New metrics and approaches are needed to inform decision-making about how to
+increase access and how to expand the use of IP for all Americans.
+Type of Evaluation (formative, process, output, impact): Formative Evaluation
+Methodology/Approach for Evaluation: The USPTO will compile a new dataset containing
+demographic information about inventors on patents, the locations where these inventors
+reside, as well as socio-economic aspects of the inventors' locations. New metrics will be
+constructed and assessed. Descriptive statistics and regression models will be used to better
+understand how the socio-economic factors characterizing inventors' locations influence their
+participation in the patent system.
+Equity Component of Methodology - The question addresses equity based on individuals'
+demographic characteristics such as gender and race.
+Contractor/Academic or Unit Who Will Do the Research: The evaluation questions will be
+answered by USPTO staff, contractors, and an academic collaborator.
+Data Source: Available - USPTO administrative data on patent and trademark filings, grants,
+registrations, and prosecution histories.
+Need to Find or Create - A new dataset that combines USPTO data with information on
+individuals, their residence locations, and various socio-economic characteristics such as level
+of educational attainment.
+Challenges: (1) collecting and compiling data on individuals; (2) locating and integrating
+location-specific socio-economic information from multiple sources.
+Dissemination: Findings and recommendations will be posted on the USPTO website.
+24

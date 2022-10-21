@@ -1,0 +1,592 @@
+U.S. GOVERNMENT
+ITHENTICATED
+INFORMATION
+GPO
+29683
+Rules and Regulations
+Federal Register
+Vol. 86, No. 105
+Thursday, June 3, 2021
+This section of the FEDERAL REGISTER
+INFORMATION CONTACT section of this
+primary function of this position.3 The
+contains regulatory documents having general
+document.
+agency evaluation policy "should guide
+applicability and legal effect, most of which
+NRC's Agencywide Documents
+the agency's activities throughout the
+are keyed to and codified in the Code of
+Access and Management System
+evaluation lifecycle." 4 The Office of
+Federal Regulations, which is published under
+(ADAMS): You may obtain publicly-
+Management and Budget (OMB) has
+50 titles pursuant to 44 U.S.C. 1510.
+available documents online in the
+provided guidance on establishing an
+The Code of Federal Regulations is sold by
+ADAMS Public Documents collection at
+agency evaluation policy based on
+the Superintendent of Documents.
+https://www.nrc.gov/reading-rm/
+"approaches that Federal agencies have
+adams.html To begin the search, select
+found useful. This guidance includes
+"Begin Web-based ADAMS Search." For
+"[e]nsuring that the agency evaluation
+NUCLEAR REGULATORY
+problems with ADAMS, please contact
+policy incorporates the evaluation
+COMMISSION
+the NRC's Public Document Room (PDR)
+standards" recommended by OMB.
+10 CFR Chapter I
+reference staff at 1-800-397-4209, at
+OMB developed these evaluation
+301-415-4737, or by email to
+standards through an interagency
+[NRC-2020-0262]
+pdr.resource@nrc.gov. The final
+council that "reviewed an extensive list
+Evidence-Building and Evaluation
+of source documents to identify widely
+Evidence-Building and Evaluation
+Policy Statement, in its entirety, is in
+accepted standards for evaluation."
+Policy Statement
+the attachment to this document.
+The interagency council identified the
+Attention: The PDR, where you may
+following evaluation standards:
+AGENCY: Nuclear Regulatory
+Commission.
+examine and order copies of public
+relevance and utility, rigor,
+ACTION: Policy statement; issuance.
+documents is currently closed. You may
+independence and objectivity,
+submit your request to the PDR via
+transparency, and ethics.
+email at PDR.Resource@nrc.gov or call
+The Evidence Act focuses on the
+SUMMARY: The U.S. Nuclear Regulatory
+1-800-397-4209 between 8:00 a.m. and
+importance of sound evidence-building,
+Commission (NRC) is issuing an
+Evidence-Building and Evaluation
+4:00 p.m. (EST), Monday through
+which includes evaluation, to make
+Policy Statement that describes the
+Friday, except Federal holidays.
+informed evidence-based decisions. The
+evaluation standards developed by the
+general standards that guide the NRC's
+FOR FURTHER INFORMATION CONTACT:
+interagency council, including an
+"evidence-building" activities,
+Matthew Meyer, Office of the Executive
+consistent with the Foundations for
+additional standard developed by the
+Director for Operations, U.S. Nuclear
+Evidence-Based Policymaking Act of
+NRC (collaboration), are applicable to
+Regulatory Commission, Washington,
+all of the NRC's evidence-building
+2018. The policy statement is intended
+DC 20555-0001, telephone: 301-415-
+activities.
+to provide agency personnel and
+6198, email: Matthew.Meyer@nrc.gov.
+Historically, the NRC has relied on
+stakeholders with a clear understanding
+SUPPLEMENTARY INFORMATION:
+high-quality evidence obtained from
+of the expectations related to the NRC's
+external entities and through its own
+standards for evidence-building
+I. Background
+capacity. In recent years the agency has
+activities, which includes analyses,
+The Foundations for Evidence-Based
+begun evidence-building activities to
+research, assessments, and evaluations
+Policymaking Act of 2018 ("Evidence
+support licensing new or novel nuclear
+performed by the agency for
+Act") became law on January 14, 2019
+technologies, including advanced, non-
+programmatic, operational, regulatory,
+(Pub. L. 115-435), to enhance evidence-
+light water reactor designs; accident
+and policy decision making. These
+building activities, make data more
+tolerant nuclear fuel; and digital
+standards include rigor, relevance and
+accessible, and strengthen privacy
+instrumentation and controls.9
+utility, transparency, collaboration,
+protections.¹ "[T]he Evidence Act
+Additionally, the NRC has increasingly
+independence and objectivity, and
+creates a new paradigm by calling on
+sought to rely on evidence-based
+ethics.
+agencies to significantly rethink how
+metrics to improve internal agency
+DATES: This policy statement is effective
+they currently plan and organize
+performance including budgeting and
+on June 3, 2021.
+evidence-building, data management,
+financial management. 10 The NRC has
+ADDRESSES: Please refer to Docket ID
+and data access functions to ensure an
+developed an evidence-building and
+NRC-2020-0262 when contacting the
+integrated and direct connection to data
+evaluation policy statement to enhance
+NRC about the availability of
+and evidence needs.' 2 The Evidence
+its existing evidence-building activities
+information for this action. You may
+Act requires each agency to name an
+obtain publicly-available information
+Evaluation Officer. At the NRC, the
+35 U.S.C. 313(d)(3).
+related to this action by any of the
+Director of the Office of Nuclear
+4 Office of Management and Budget, M-20-12,
+following methods:
+Regulatory Research holds this position
+"Phase 4 Implementation of the Foundations for
+Evidence-Based Policymaking Act of 2018: Program
+Federal Rulemaking Website: Go to
+and must "establish and implement an
+Evaluation Standards and Practices," Appendix C
+https://www.regulations.gov and search
+agency evaluation policy" to fulfill a
+(March 10, 2020) (M-20-12).
+for Docket ID NRC-2020-0262. Address
+5 M-20-12, Appendix C.
+questions about NRC dockets to Dawn
+1 Public Law 115-435, 132 Stat 5529 (2019).
+6 Id.
+Forder; telephone: 301-415-3407;
+2 Office of Management and Budget, M-19-23,
+7 Id. at 2.
+email: Dawn.Forder@nrc.gov. For
+"Phase 1 Implementation of the Foundations for
+8 Id. at 3-5.
+Evidence-Based Policymaking Act of 2018: Learning
+9 Nuclear Regulatory Commission, NUREG-1350
+technical questions contact the
+Agendas, Personnel, and Planning Guidance," 2
+2019-2020 Information Digest, at 4 (August 2019).
+individual listed in the FOR FURTHER
+(July 10, 2019).
+10 Id. at 7.
+29684
+Federal Register/ 86, No. 105 / Thursday, June 3, 2021/Rules and Regulations
+through the activities directed in the
+Dated: May 28, 2021.
+The NRC's Principles of Good
+Evidence Act. The NRC envisions that
+For the Nuclear Regulatory Commission.
+Regulation, which include
+this approach will strengthen the
+Wesley W. Held,
+independence, efficiency, clarity,
+agency's oversight of existing uses of
+Acting Secretary of the Commission.
+reliability, and openness, have guided
+nuclear technology, enhance the
+the agency's regulatory activities and
+agency's readiness to license and
+Note: The following attachment will not
+decisions using evidence and scientific
+regulate new and novel nuclear
+appear in the Code of Federal Regulations:
+methods. The principles focus on
+technologies, and further the NRC's
+meeting the agency's important safety
+ongoing efforts to improve its internal
+Attachment-Evidence-Building and
+and security mission while
+Evaluation Policy Statement
+processes.
+appropriately considering the interests
+The purpose of this Evidence-
+of stakeholders, including licensees;
+II. Public Comments
+Building and Evaluation Policy
+State, local, and Tribal governments;
+The NRC published the Proposed
+Statement is to describe the general
+nongovernmental organizations; and the
+Evaluation Policy Statement in the
+standards that govern the NRC's
+public. The agency's openness principle
+Federal Register for a 30-day comment
+planning and conduct of evidence-
+explicitly recognizes that the public
+period on December 8, 2020 (85 FR
+building. Evidence-building includes
+must be informed about and have an
+79042). The NRC received a total of nine
+activities such as analysis, assessment,
+opportunity to participate in the
+public comments.
+research, and program evaluation
+regulatory process.
+These comments were generally
+(evaluation). 11 The Foundations for
+Evidence-building is used to inform
+supportive of the policy statement and
+Evidence-Based Policymaking Act of
+agency activities and actions, such as
+the NRC's commitment to ensuring that
+2018 requires an agency evaluation
+licensing, oversight, budgeting, program
+its regulatory decisions are supported
+policy to guide the agency's evaluation
+improvement, accountability,
+with evidence and sound technical
+activities throughout the evaluation
+management, rulemaking, guidance
+bases. However, commenters also
+lifecycle. The NRC is committed to
+development, and policy development.
+requested that the NRC clarify the
+using evidence and scientific methods
+The emphasis on evidence is meant to
+applicability of the policy statement to
+when making evidence-based decisions.
+support innovation, improvement, and
+evidence-building activities other than
+The NRC is an evidence-based
+learning. Examples of how the NRC
+"evaluation" as that term is defined in
+organization with a culture of
+carries out evidence-building include
+the Evidence Act (5 U.S.C. 311(3)), such
+continuous learning and improvement.
+(1) identifying, evaluating, and resolving
+as licensing, inspection, rulemaking,
+The NRC's evidence-building activities
+safety issues; (2) ensuring that an
+generic communication, and other
+use objective technical analyses and
+independent technical basis exists to
+regulatory activities (including
+assessments to document decisions with
+review licensee submittals; (3)
+backfitting analyses, and environmental
+explicitly stated rationale. Furthermore,
+evaluating operating experience and
+reviews performed under the National
+the NRC commits to implementing the
+results of risk assessments for safety
+Environmental Policy Act). The NRC
+standards of rigor; relevance and utility;
+implications; (4) supporting the
+agrees and has revised the proposed
+transparency; collaboration;
+development and use of risk-informed
+policy statement to clarify that the
+independence and objectivity; and
+regulatory approaches; (5) conducting
+general standards articulated in the
+ethics in the conduct of its evidence-
+research with scientific integrity; and (6)
+policy statement apply to all agency
+building activities. This policy
+ensuring that licensing and oversight
+*evidence-building" activities. This
+statement describes these general
+findings are supported by evidence.
+includes not only "evaluations"
+standards.
+Evidence-Building Standards
+conducted to review the effectiveness
+The Commission, as a collegial body,
+The NRC uses the following standards
+and efficiency of NRC programs,
+formulates policies, develops
+policies, and organizations, but other
+when conducting evidence-building
+regulations governing nuclear reactor
+activities.
+types of evidence-building such as
+and nuclear material safety, issues
+1. Rigor-The NRC is committed to
+regulatory analyses, compliance
+orders to licensees, and adjudicates
+using rigorous evidence-building
+analyses, and performance assessments.
+legal matters. The collegial decision-
+methods by qualified staff with relevant
+A complete table of the comments
+making process results in actions
+education, skills, and experience to
+received on the proposed policy
+reflecting the collective judgment of a
+ensure findings are appropriate and
+statement and NRC staff responses to
+group aided by professional and
+feasible within statutory, budgetary, and
+those comments is available in ADAMS
+administrative staff and advisory
+other constraints.
+under Accession No. ML21070A196.
+committees, such as the Advisory
+Rigorous evidence-building requires
+III. Procedural Requirements
+Committee on Reactor Safeguards. Strict
+inferences about cause and effect to be
+requirements govern the admission and
+well founded (internal validity); clarity
+Congressional Review Act
+consideration of "evidence" when the
+about the populations, settings, or
+This policy statement is not a rule as
+Commission acts in its adjudicatory
+circumstances to which results can be
+defined in the Congressional Review
+capacity. This policy applies to the
+generalized (external validity); and the
+Act (5 U.S.C. 801-808).
+NRC's non-adjudicatory functions.12
+use of measures that accurately capture
+the intended information (measurement
+Paperwork Reduction Act
+11 The Evidence Act defines "evaluation" as "an
+reliability and validity). The NRC's
+This Policy Statement does not
+assessment using systematic data collection and
+evidence-building activities are
+contain new or amended information
+analysis of one or more programs, policies, and
+organizations intended to assess their effectiveness
+conducted by qualified staff with
+collection requirements and, therefore,
+and efficiency" (5 U.S.C. 311(3)). "Evaluation can
+relevant education, skills, and
+is not subject to the Paperwork
+look beyond the program, policy, or organizational
+experience for the methods undertaken.
+Reduction Act of 1995 (44 U.S.C. 3501
+level to include assessment of projects or
+The NRC's evidence-building activities
+et seq.).
+interventions within a program" (OMB M-20-12).
+The NRC's rules of practice and procedure in
+use appropriate designs and methods
+The text of the Evidence-Building and
+10 CFR part 2 govern the Commission's
+that adhere to widely accepted scientific
+Evaluation Policy statement is attached.
+adjudicatory process.
+principles to answer key questions
+Federal Register/ Vol. 86, No. 105 /Thursday, June 3, 2021 /Rules and Regulations
+29685
+while balancing goals, scale, timeline,
+thinking, creative problem solving,
+BUREAU OF CONSUMER FINANCIAL
+feasibility, and available resources.
+unbiased findings, and honest feedback.
+PROTECTION
+Additionally, the NRC's Information
+The NRC emphasizes trust, respect, and
+open communication to promote a
+12 CFR Part 1026
+Quality Program 13 ensures that all
+information relied on by the NRC is
+positive work environment that
+subject to rigorous quality standards.
+maximizes the potential of all
+[Docket No. CFPB-2020-0023]
+2. Relevance and Utility-The NRC
+individuals, which improves evidence
+RIN 3170-AA83
+ensures that evidence-building activities
+building and evaluation activities. A
+are relevant and provide useful findings
+collaborative environment leverages
+Higher-Priced Mortgage Loan Escrow
+to inform agency activities, actions, and
+expertise from subject matter experts
+Exemption (Regulation Z); Correcting
+stakeholders.
+and enables peer reviews to ensure
+Amendments
+The NRC performs evidence-building
+rigorous evidence-building. The NRC
+activities to examine questions of
+conducts research and collaborates with
+AGENCY: Bureau of Consumer Financial
+importance and serve the information
+organizations that develop consensus
+Protection.
+needs of stakeholders. The NRC
+standards to improve data and methods
+ACTION: Final rule; official
+presents findings that are clear, concise,
+used in risk analysis. The NRC
+interpretations; correcting amendments.
+actionable, and available within a
+collaborates with national laboratories,
+SUMMARY: This document corrects the
+timeline that is appropriate to the
+Agreement States, other Federal
+Official Interpretations (Commentary) to
+questions under consideration. The
+agencies, universities, and international
+NRC's evidence-building priorities
+Regulation z. Specifically, the Bureau of
+organizations.
+Consumer Financial Protection (Bureau)
+consider legislative requirements; the
+5. Independence and Objectivity-As
+NRC's strategic goals, objectives, and
+is adding a comment to its Commentary
+strategies; and the interests and views of
+an independent Federal agency, the
+that it included in a recent higher-
+NRC is committed to conducting
+stakeholders.
+priced mortgage loan escrow exemption
+3. Transparency-The NRC is
+evidence-building activities that are
+final rule but that was not incorporated
+committed to conducting evidence-
+independent and based on objective
+into the Code of Federal Regulations
+building activities in an open and
+assessments and analysis of all relevant
+(CFR) due to an omission in an
+transparent manner, which keeps
+information.
+amendatory instruction. The Bureau is
+stakeholders informed.
+The NRC was established as an
+also revising a comment that it included
+The NRC's evidence-building
+independent agency to regulate civilian
+in the same recent final rule, but that
+activities are conducted openly and the
+uses of radioactive material. The NRC's
+inadvertently did not appear in a
+public must be informed about and have
+evidence-building activities are
+subsequently effective final rule.
+an opportunity to participate in the
+independent and objective to maintain
+DATES: The corrections are effective on
+NRC's regulatory process. As a
+credibility and integrity. The
+June 3, 2021.
+regulator, the NRC listens to, respects,
+implementation of evidence-building
+FOR FURTHER INFORMATION CONTACT:
+and analyzes different views from its
+activities, including the selection and
+Joseph Devlin, Senior Counsel, Office of
+stakeholders. The NRC ensures open
+assignment of the staff, should be
+Regulations, at 202-435-7700 or https://
+channels of communication are
+appropriately insulated from factors that
+reginquiries.consumerfinance.gov/.If
+maintained between internal and
+may affect objectivity, impartiality, and
+you require this document in an
+external stakeholders, including
+professional judgment. Evidence-
+alternative electronic format, please
+Congress, other government agencies,
+building is inclusive and the NRC seeks
+contact CFPB_Accessibility@cfpb.gov.
+licensees, nongovernmental
+input from a broad range of stakeholders
+SUPPLEMENTARY INFORMATION:
+organizations, individual members of
+in setting priorities, identifying
+the public, and international and
+questions, and assessing the
+I. Background
+domestic nuclear communities. The
+implications of findings. The NRC
+The Bureau is issuing this document
+NRC takes reasonable measures to make
+strives for objectivity in the planning
+to correct two comments in the Bureau's
+all information, including information
+and conduct of evidence-building
+Commentary to Regulation Z, which
+about the NRC's evidence-building
+activities.
+implements the Truth in Lending Act.¹
+activities (including their purpose,
+6. Ethics-The NRC is committed to
+In the final rule titled "Higher-Priced
+objectives, design, findings, and
+conducting evidence-building activities
+Mortgage Loan Escrow Exemption
+methods), broadly available and
+that adhere to Government-wide ethics
+(Regulation Z)" (Escrow Exemption
+accessible. The NRC releases public
+standards to protect the public and
+Final Rule), published in the Federal
+evidence-building findings in a timely
+maintain public trust.
+Register on February 17, 2021 (86 FR
+manner and archives the data for
+The NRC's evidence-building
+9840), the Bureau included Paragraph
+secondary use by stakeholders, as
+activities comply with relevant legal
+35(b)(2)(vi)(B) in its commentary text for
+appropriate.
+4. Collaboration-The NRC is
+requirements and are conducted in a
+the rule, but omitted the related
+manner that is free from conflicts of
+committed to working collaboratively
+amendatory instruction to add that
+interest, undue influence, the
+specific paragraph to the Commentary.
+when conducting evidence-building
+activities and draws on the expertise of
+appearance of bias, and safeguards the
+This omission was a scrivener's error.
+dignity, rights, safety, and privacy of
+The Bureau is therefore issuing this
+subject matter experts to ensure
+participants. The NRC complies with
+correction to ensure that Paragraph
+diversity in perspectives.
+The NRC fosters a collaborative work
+Governmentwide ethics standards
+35(b)(2)(vi)(B) is incorporated into the
+environment that encourages diverse
+contained in Federal statutes and
+Commentary published in the CFR.
+views, alternative approaches, critical
+regulations, which are intended to
+Additionally, the Bureau is amending
+ensure that every citizen can have
+the CFR to revise a comment that the
+13 Management Directive 3.17, "Information
+confidence in the integrity of the
+Bureau amended in the Escrow
+Quality Program," ensures that peer review is
+Federal Government.
+Exemption Rule but that inadvertently
+conducted on all influential scientific information
+[FR Doc. 2021-11637 Filed 6-2-21; 8:45 am]
+and highly influential scientific assessment that the
+BILLING CODE 7590-01-P
+1 15 U.S.C. 1601 et seq.
+agency intends to disseminate.

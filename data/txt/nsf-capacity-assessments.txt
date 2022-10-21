@@ -1,0 +1,1440 @@
+National Science Foundation
+Capacity Assessment
+Final Report
+March 2022
+This report describes the National Science Foundation's design, implementation, and
+findings of (1) an integrated assessment of data maturity and capacity for evidence
+generation and use and (2) an analysis of ongoing evidence-building activities.
+Table of Contents
+Executive Summary
+2
+Introduction
+4
+Section 1: Organizational Capacity Assessment
+6
+A. Framework
+7
+Phase 1: Identify NSF Needs and Pilot the Framework
+7
+Phase 2: Hone the Framework and Diversify Perspectives
+7
+B. Methodology
+11
+Selecting Participants
+11
+Collecting Data
+13
+Assigning Maturity Ratings
+15
+C. Enterprise-Level Findings
+17
+Key Takeaways
+17
+Enterprise-Level Maturity Ratings
+18
+Theme-Level Observations
+20
+Conclusions
+21
+Section 2: Analysis of NSF's Inventory of Evidence-Building Activities
+22
+A. Methodology
+23
+Data Sources
+24
+Document Review
+24
+Limitations
+25
+Quality Assurance
+25
+B. Findings
+26
+Inventory
+26
+Relevance and Utility
+26
+High Quality and Rigor
+30
+Independence and Objectivity
+31
+Transparency and Reproducibility
+31
+Ethics
+32
+Conclusions
+32
+Next Steps
+33
+Appendix
+34
+A. Requirements Coverage
+34
+B. List of Evidence-Building Activities
+35
+NSF
+NSF Final Capacity Assessment
+March 2022
+1
+Executive Summary
+Spinning brown dwarf with narrow colored atmospheric bands
+Credit: NASA/JPL-Caltech
+This report presents the design and methodology of the National Science Foundation's (NSF) Capacity
+Assessment, findings from the analysis, and next steps to act on the findings. As designed, the Capacity
+Assessment complies with the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) and
+Federal Data Strategy. Findings will help guide improvements to bolster agency capacity to produce useful
+evidence for decision-making.
+NSF's Capacity Assessment includes two components:
+An organizational capacity assessment - Section 1 of this report
+This assessment seeks to measure agency maturity in four foundational themes:
+1. Building a culture that values data and promotes public use
+2. Governing, managing, and protecting data
+3. Promoting efficient and appropriate data use
+4. Generating evidence and supporting evidence generation and use
+The findings presented in this report are based on all 10 eligible Directorates and Offices, or
+120 agency staff. Data were collected through focus groups and a review of supporting artifacts
+(documents that demonstrate existing policies, processes, or practices).
+An analysis of NSF's inventory of evidence-building activities - Section 2 of this report
+NSF compiled a comprehensive inventory of "statistics, evaluation, research, and analysis efforts"
+that were ongoing during fiscal year 2021 and met other selection criteria used to identify agency
+evidence-building efforts. This inventory is based on data collected through multiple sources:
+(1) NSF Directorates and Offices providing information to prepare the annual budget request;
+(2) Evaluation and Assessment Capability Section (EAC), which provides support to NSF Directorates
+and Offices; (3) information collection requests submitted to the Office of Management and
+Budget (OMB); and (4) grants, cooperative agreements, and contracts executed in support of
+agency evidence-building activities.
+NSF
+NSF Final Capacity Assessment
+March 2022
+2
+Findings from the organizational assessment show that NSF has a culture that values data and evidence, with
+leadership setting a strong tone regarding the Foundation's commitment to evidence-based decision-making
+On average, NSF operates in the middle stages of data and evidence maturity for each foundational theme
+assessed (data culture, data governance, data use, and evidence generation and use). Variation in maturity
+across Directorates and Offices revealed pockets of excellence and innovation, with some NSF organizations
+operating at high levels of maturity. For example, these Directorates and Offices had well-established and
+enforced data governance processes or conducted studies to generate useful evidence for decision-making
+Highly mature efforts may provide models to adopt or build on in developing an agencywide strategy that
+leverages NSF's culture of evidence in support of consistent practices and procedures.
+Analysis of evidence-building activities shows that, in FY 2021, NSF is pursuing 39 formal activities. Most of
+these activities are conducted in support of the agency's mission, benefit stakeholders across the entire
+agency, address a variety of questions to meet a wide range of needs, and rely on methodologies (from
+rigorous program evaluations to exploratory policy analysis) that are well aligned with the research questions.
+Findings from the analysis of ongoing studies aligned with those of the organizational assessment and
+underscored both the value that NSF places on evidence and the need for some targeted improvements.
+The following emerged as the most salient candidates for agencywide improvements:
+Establishing agencywide procedures and standards in areas such as documentation,
+quality reviews, and change management will support data science and analysis and the
+creation of sound tools to generate reliable and consistent findings.
+Improving alignment of data architecture and goals for increased reliance on data
+SS
+will enable more flexible and independent data integration, analysis, and analytics tools
+development.
+Developing an NSF data skills training plan or guidance on data-related training will
+help align upskilling efforts with NSF's vision for future data capabilities.
+F
+Providing guidance on evidence-generating activities will increase capacity across the
+agency to produce useful evidence for decision-making.
+The main finding of the analyses presented in this report is important for the agency's future: NSF values
+data and has a strong culture of using evidence to inform decisions. Further embracing and strengthening,
+rather than changing, our culture is our next step. The question is, how? The distribution of organizational
+assessment scores and of evidence-building activities across NSF units suggests that NSF's data culture
+developed organically and in a decentralized manner over time. To further mature data and evidence
+capabilities, NSF will build on existing pockets of excellence to (1) formalize agencywide policies, standards,
+and procedures related to data and evidence and (2) advance efforts to upskill staff as part of our workforce
+strategy and in alignment with our Strategic Plan.
+NSF
+NSF Final Capacity Assessment
+March 2022
+3
+Introduction
+This Capacity Assessment Report presents (1) the design and methodology of the National Science Foundation's
+(NSF) organizational maturity assessment (of data and evidence use and generation) and analysis of NSF's
+inventory evidence-building activities, (2) findings from both the organizational assessment and inventory
+analysis, and (3) planned next steps for the agency to act on the findings. These efforts respond to article
+nine of Title | of the Foundations for Evidence-Based Policymaking Act of 2018, Public Law No. 115-435
+(Evidence Act), follow guidance provided by the Office of Management and Budget (such as OMB M-19-23
+and OMB Circular A-11), and align with NSF's focus on generating and using evidence for decision-making.
+The goal of this Capacity Assessment is to produce actionable findings that can guide improvement efforts
+to bolster agency capacity to produce useful information to inform decisions. To this end, NSF's Capacity
+Assessment includes two components:
+An organizational capacity assessment
+Section 1 of this report
+An analysis of NSF's inventory of evidence-building activities
+Section 2 of this report
+Aurora Australis and Milky Way over IceCube laboratory
+Credit: Yuya Makino, IceCube/NSF
+NSF
+NSF Final Capacity Assessment
+March 2022
+4
+The design of this Capacity Assessment is based on
+.a careful review of existing legislation, OMB guidance, and agency needs and priorities to determine
+the goals of the Assessment and the range of capabilities needed to support agency efforts to generate
+and use evidence. The Assessment will also enable NSF to determine the extent to which agency efforts
+in the areas outlined in the Evidence Act-statistics, evaluation, research, and analysis-meet the criteria
+of coverage, high quality, appropriate methods, effectiveness (in meeting stakeholder needs), and
+independence.
+three foundational decisions to ensure the Assessment produced useful information and was conducted
+efficiently. Specifically, NSF decided to:
+1. Integrate efforts. NSF designed an organizational capacity assessment that integrated two related
+efforts-the data maturity assessment required under the Federal Data Strategy and the capacity
+assessment required under the Evidence Act-to avoid redundancies, reduce burden, and build
+efficiencies.
+2. Assess capacity at two levels. NSF designed two components-one focused at the organizational
+level and one at the activity level-to thoroughly examine the maturity of infrastructure, processes,
+and people capabilities supporting data and evidence generation and use.
+3. Measure both evidence generation and evidence use. NSF intentionally decoupled evidence
+generation from evidence use to measure capacity in these distinct areas. As a result, the organizational
+assessment framework makes clear distinctions between capabilities for evidence generation versus
+use and instances where capabilities can impact both areas.
+Appendix A shows the alignment of NSF's design with the Evidence Act requirements.
+NSF
+NSF Final Capacity Assessment
+March 2022
+5
+Section 1
+Organizational Capacity Assessment
+This section presents the framework, methods, and enterprise-level findings of NSF's
+organizational capacity assessment. Enterprise-level findings are based on all eligible
+NSF units (10 Directorates and Offices).
+Rapidly rotating brown dwarf
+Credit: International Gemini Observatory/NOIRLab/NSF/AURA/J. da Silva
+A. Framework
+NSF designed an organizational assessment focused on four themes: (1) building a culture that values data and
+promotes public use, (2) governing, managing, and protecting data, (3) promoting efficient and appropriate
+data use, and (4) generating evidence and supporting evidence generation and use. This assessment combines
+legislative requirements for evidence-building activities (focus of the Evidence Act) with foundational data
+capabilities (focus of the Federal Data Strategy). The assessment framework was developed collaboratively
+by NSF staff with subject matter and methodological expertise across three NSF units-the Evaluation and
+Assessment Capability (EAC) Section; the National Center for Science and Engineering Statistics (NCSES); and
+the Office of Budget, Finance, and Award Management (BFA)-as well as a contractor with deep expertise in
+maturity assessments. Together these collaborators form the assessment team.
+Phase 1: Identify NSF Needs and Pilot the Framework
+The assessment team reviewed industry and government maturity
+Engaging stakeholders in
+models, including the Federal Government Data Maturity (FGDM)
+design and implementation
+model, the Capability Maturity Model Integration, the Stanford
+Data Governance Maturity Model, the DataFlux Maturity Model,
+The assessment team worked
+and several others. The FGDM became the foundation for NSF's
+closely with Directorate and
+tailored model to cover measurement goals of the Evidence Act
+Office liaisons to (1) preview
+and Federal Data Strategy. Once approved by NSF's Evidence Act
+and receive feedback on the
+and Data Governance Steering Committee, the assessment team
+framework, (2) identify and
+completed a pilot test with individuals from five NSF Directorates
+recruit participants, and (3)
+and Offices.
+organize presentations of
+Directorate- and Office-level
+Phase 2: Hone the Framework and Diversify Perspectives
+findings.
+An after-action review with participants in the initial pilot test
+Liaisons tended to be data
+of the assessment led to revisions. These included removing
+analytics officers and other
+redundant capability areas and questions, expanding the scoring
+technical or data savvy staff
+rubric, and highlighting evidence generation and use in a separate
+across NSF. Their feedback,
+theme within the framework (Theme 4). These revisions enabled
+combined with that received
+NSF to streamline the number of capabilities from 50 to 36 while
+during the first phase, increased
+increasing usefulness of insights, particularly those pertaining to
+the coverage and balance of
+evidence generation and use. During the second phase, NSF also
+perspectives in the design of
+engaged data savvy Directorate and Office liaisons which increased
+the assessment. In addition,
+the coverage and balance of perspectives in the assessment.
+their participation enabled the
+successful implementation
+The final integrated data maturity and evidence capacity assessment
+of the organizational capacity
+framework is displayed in Exhibit 1.
+assessment across the agency.
+NSF
+NSF Final Capacity Assessment
+March 2022
+7
+Exhibit 1 - NSF Integrated Data Maturity and Evidence Capacity Assessment Framework
+This framework is based on the Federal Government Data Maturity Model and adapted to integrate a focus on
+evidence generation and use. Information about the 36 capabilities identified in the framework was collected
+through (1) focus groups with agency staff and (2) artifacts provided by focus group participants.
+4
+12
+36
+Foundational
+Dimensions
+People, Process, and
+Themes
+of Interest
+Infrastructure Capabilities
+Data Capacity Needs Assessment
+Data Capacity Building
+Building a Culture that
+Data Personnel
+Use of Data to Guide Decision-Making
+Values Data and Promotes
+Data Culture
+Data Demand and Use Frequency
+Public Use
+Accountability and Public Confidence
+Change Management
+Operating Model
+Policies and Standards
+Data Governance
+Privacy Considerations
+Data Protection
+Classification, Retention, and Disclosure
+Data Operations
+Data Requirements
+Governing, Managing,
+Data Quality
+Architectural Fit and Alignment
+and Protecting Data
+Platform and
+Data Tools
+Architecture
+Data Quality Approach
+Data Inventory
+Monitoring and Reporting
+Metadata Management
+Accessibility of Inventory
+Collaboration and Sharing Spaces
+Analytics
+Techniques for Insight
+Promoting Efficient and
+Capabilities
+Managing Tiered Access
+Appropriate Data Use
+Data Access
+Open Data
+Engage to Share Data Asset Knowledge
+Ongoing Efforts
+Evidence Relevance
+Evidence Utility
+Balance of Needs
+Generating
+Evidence Independence
+High-Value
+Evidence Resourcing - Supply
+Generating Evidence
+Evidence
+Evidence Resourcing - Demand
+....
+and Supporting Evidence
+Supporting
+Evidence
+Evidence Resourcing - Training and Development
+Generation and Use
+Generation
+Evidence Infrastructure
+and Use
+Evidence Policies
+Evidence Procedures and Practices
+Expectation of Use
+Available Funding
+Leadership Support
+NSF
+NSF Final Capacity Assessment
+March 2022
+8
+Theme 1
+Building a Culture that Values Data and Promotes Public Use
+This theme focuses on NSF leadership and staff attitudes related to managing and using data to promote
+data skills and public accountability. Capabilities in this theme strongly support evidence-building areas,
+including generating learning priorities, designing and conducting studies, communicating findings, and
+documenting the use of findings. This theme assesses how well the agency:
+Incentivizes and supports learning among all staff
+Manages changes associated with learning, feedback, and improved data capabilities
+Creates a culture that promotes the robust management and use of data and evidence
+Ensures data maintained by the agency support performance measurement to help the public and
+external partners understand agency outcomes and decisions
+Theme 2
+Governing, Managing, and Protecting Data
+This theme focuses on providing trusted, protected, and usable (well-documented) data that support
+business- and mission-driven information needs. Data governance, management, and protection
+capabilities are necessary to support NSF evaluation principles, such as high quality, rigor, and ethics. This
+theme assesses how well the agency:
+Governs data-related decisions across the data lifecycle
+Protects data through the appropriate use of leading data security standards, procedures, controls, and
+technology
+Identifies data quality issues and provides methods to remediate them
+Ensures that data requirements are specified upfront and incorporated as appropriate into the data
+lifecycle
+Provides the best-fit technology to support NSF's objectives through the ingestion, curation, storage,
+archival, dissemination, reporting, and analysis of data assets
+Provides comprehensive documentation for data assets in accessible repositories
+NSF
+NSF Final Capacity Assessment
+March 2022
+9
+Theme 3
+Promoting Efficient and Appropriate Data Use
+This theme focuses on providing data consumers access to the information needed to inform everyday
+decisions. Efficient and appropriate data use capabilities ensure NSF staff use data in decision-making.
+This theme assesses how well the agency:
+Equips staff with the analytical skills and tools needed to design, conduct, and facilitate the use of findings
+from studies
+Creates mechanisms to promote use of data in policy, planning, and operations
+Makes NSF data available and easy to access in a controlled and secure manner
+Theme 4
+Generating Evidence and Supporting Evidence Generation and Use
+This theme focuses on activities that generate high-value evidence and appropriately supporting evidence
+generation and use. Going one step further than theme three, these capabilities provide NSF staff with the
+results of analyses (such as point estimates) to be used in decision-making, and also insights and actionable
+recommendations to make the best decision possible. This theme assesses how well the agency:
+Records ongoing evaluation and analysis activities to support organizational decisions
+Generates evidence that is relevant and responsive to users' needs
+Maintains independence and avoids bias in evidence generating activities
+Aligns staff with appropriate skills to its evidence-generation and use needs
+Provides guidance on evidence generation and drives an expectation of evidence use
+Delivers the requisite leadership support and financial resources to achieve goals related to evidence
+generation and use
+Small icebergs and pancake ice near Palmer Station
+Credit: Ken Keenan
+NSF
+NSF Final Capacity Assessment
+March 2022
+10
+B. Methodology
+Selecting Participants
+NSF pursued a two-phased approach to selecting participants. In the first
+phase, the assessment team identified the universe of NSF Directorates and
+Offices to be included (10 units, six Directorates and four Offices). In the
+second phase, the assessment team identified key individuals within those
+units. Participants represented different roles across data and evidence
+generation and use (more details on page 12). Deep engagement within each
+Directorate or Office enabled the team to generate enterprise-level results
+and provide each Directorate and Office with its specific unit-level results.
+NSF considered sampling NSF units-for example, stratifying units by type
+(such as Directorates versus Offices) or data/evidence capabilities (more
+or less mature)-but did not need to resort to sampling given widespread
+interest across eligible Directorates and Offices and deep engagement of
+liaisons who facilitated implementation.
+The results presented in Section C are based on all eligible NSF units and
+individuals who participated. See Exhibit 2 for detailed information regarding
+participant selection and data collection.
+Melting ice in the Arctic Ocean
+Credit: Zhangxian Ouyang, University of Delaware
+NSF
+NSF Final Capacity Assessment
+March 2022
+11
+Exhibit 2 - Participant Selection and Data Collection
+Participant Selection
+Phase I: NSF units
+10 Directorates/Offices
+Office of the Director, Office of Integrative Activities, EAC
+Office of Budget, Finance, and Award Management
+Office of Information and Resource Management
+Directorate for Biological Sciences
+Directorate for Computer and Information Science & Engineering
+Included
+Directorate for Education and Human Resources
+Directorate for Engineering
+Directorate for Geosciences
+Directorate for Mathematical and Physical Sciences
+Directorate for Social, Behavioral and Economic Sciences, National Center
+for Science and Engineering Statistics (Themes 1-3 only)
+1. Four smaller NSF units within the Office of the Director (Office of the
+General Counsel, Office of Legislative and Public Affairs, Office of Diversity
+and Inclusion, Office of International Science and Engineering) that receive
+data-and evidence-related support from those included in this assessment
+Excluded
+2. Two NSF units ineligible for this assessment due to their oversight or
+consultative functions-namely the Office of the Inspector General and
+National Science Board
+Some Directorates/Offices have data and evidence-building capabilities
+concentrated in one subdivision (division/section/front office), while others
+Phase II: Participant
+have capabilities distributed across subdivisions (with staff assigned to
+selection within NSF units
+divisions/programs). Where capabilities are concentrated/centralized, that
+(adjusted to variation
+subdivision was included (for example, the EAC Section in the Office of
+in organizational structures)
+Integrative Activities). Where those capabilities are decentralized, selected
+staff across subdivisions within that Directorate or Office participated to
+ensure adequate representation (for example, Directorate for Engineering).
+Data Collection
+Phase I
+Pilot test with four focus groups comprised of 21 individuals across five
+(completed in 2020)
+Directorates and Offices
+Phase II
+15 focus groups comprised of 72 individuals across seven NSF units (five
+(completed all data
+Directorates and two Offices)
+collection by Spring 2021)
+Phase III
+12 focus groups, including seven comprised of 27 individuals from two NSF
+(completed in Summer
+units (one Directorate and one Office), and five additional theme four-specific
+2021)
+focus groups comprised of nine individuals from five Directorates
+NSF
+NSF Final Capacity Assessment
+March 2022
+12
+Collecting Data
+Data for this assessment were collected through focus groups and
+supporting artifacts:
+Focus groups. By relying on focus groups, NSF sought to
+(1) maximize valuable, balanced insights through robust dialogue;
+(2) minimize burden on participating Directorates and Offices;
+(3) enable probing to ensure a common understanding of key
+terminology; and (4) develop an approach that can be replicated as
+part of a cycle of recurring assessments to monitor progress.
+Through the focus groups, the assessment team gathered insights
+related to the current state of people, process, and infrastructure
+capabilities from representatives of each participating Directorate
+and Office. To doso, facilitators asked questions to walk participants
+through the set of capabilities that comprise the dimensions and
+themes of the framework and prompt participants to discuss their
+presence or absence, relative maturity, roadblocks to increasing
+maturity, and ideas for improvement.
+Focus group meetings lasted approximately 90 minutes and
+included three to eight participants in each group. Participants
+generally joined one of three groups designed for:
+Raw data managers, such as individuals that collect, store,
+protect, and document data
+Curated data users, such as individuals who use data to produce
+results or inform decisions
+Evidence generators and users, such as individuals completing
+studies in NSF's learning agenda, disseminating findings
+(internally or externally), or using them for decisions
+Some Directorates and Offices elected to have individuals
+participate in more than one focus group when their job duties
+spanned multiple roles. Directorate and Office leadership generally
+joined the evidence generators and users focus group.
+Milky Way in winter night sky near McMurdo Station
+Credit: Joshua Swanson
+NSF
+NSF Final Capacity Assessment
+March 2022
+13
+Artifacts. To support assertions regarding capabilities, participants were
+given the opportunity to provide artifacts-that is, documentation reflecting
+capabilities in practice. Artifacts include standards, policies, standard operating
+procedures (SOPs), job aids, and other written materials of varying levels of
+formality. The assessment team provided each participating NSF Directorate
+and Office with a list of artifacts of interest at the assessment kickoff meeting
+and, for the duration of data collection, accepted additional documentation
+arising from the focus groups. For example, during focus group meetings, if
+individuals referred to a standard approach to data or metadata management,
+the assessment team requested a copy of the SOP outlining that approach.
+The assessment team's review of these artifacts provided an important source
+of information for analysis.
+Gentoo penguin leaping off ice flow into Mikkelsen Harbor
+Credit: Kelton W. McMahon, Graduate School of Oceanography, University of Rhode Island
+NSF
+NSF Final Capacity Assessment
+March 2022
+14
+Using butterfly wing color patterns to study genotype-phenotype relationships
+Credit: Riccardo Papa, Department of Biology, University of Puerto Rico
+Assigning Maturity Ratings
+The assessment team developed a six-point scale to rate capabilities based on current state maturity, relying on
+the contractor team's knowledge of industry data maturity standards and approaches in use by other maturity
+models and other agencies. The scale provides ratings ranging from Not Initiated to Optimizing (Exhibit 3).
+Exhibit 3 - NSF Organizational Capacity Assessment Maturity Scale
+Maturity
+Rating
+Characteristics
+Optimizing
+People, process, or technology capabilities are fully embedded into the operational
+5.50 - 6.00
+culture of the organization with a mechanism for continuous improvement.
+Performing
+4.50 5.49
+People, process, or technology capabilities are expected by the organization and
+are monitored using defined metrics.
+Piloting
+People, process, or technology capabilities have been established based on best
+3.50 - 4.49
+practices but are not widely accepted or used.
+Defining
+Planning and/or activities to define the people, process, or technology capabilities
+2.50 3.49
+are underway, or capabilities are being defined and validated with stakeholders.
+Initiating
+Issues being debated, use cases being discussed, and/or ad hoc activities being
+1.50 2.49
+performed related to people, process, or technology capabilities.
+Not
+No evidence of issues being debated, use cases being discussed, or ad hoc activities
+Initiated
+1.00 - 1.49
+being performed related to people, process, or technology capabilities.
+NSF
+NSF Final Capacity Assessment
+March 2022
+15
+Each Directorate/Office received a maturity rating for each capability based on an analysis of focus group
+discussions and a review of relevant artifacts. Capability-level maturity ratings were averaged to produce ratings
+at the dimension and theme levels. Multi-level maturity ratings facilitate identification and prioritization of both
+broad areas of focus and specific targets for improvement to drive increased maturity.
+The assessment team provided a briefing to each participating Directorate/Office to walk through the assessment
+ratings and discuss some of the key observations supporting the ratings. These briefings gave participants an
+opportunity to provide feedback and begin discussing potential next steps to act on assessment findings within
+their respective Directorate/Office.
+Finding the cause of the little Ice age
+Credit: Gifford H. Miller, INSTAAR, University of Colorado Boulder
+Quality Assurance Approach
+The assessment includes a quality assurance approach that leverages quality reviews, socialization activities, and a
+strong partnership between NSF and contractor teams. Quality assurance activities include:
+Building data validation checks into assessment tools and templates
+Completing multiple levels of review to integrate subject matter expertise and verify alignment with agency
+quality standards
+Obtaining iterative feedback on work products from key stakeholders (e.g., NSF assessment team members,
+Directorate/Office liaisons)
+NSF
+NSF Final Capacity Assessment
+March 2022
+16
+C. Enterprise-Level Findings
+Key Takeaways
+Exhibit 4 presents high-level findings that highlight strengths and opportunities for improvement. These
+findings are supported by the detailed assessment results summarized below.
+Exhibit 4 - Key Takeaways from NSF's Organizational Capacity Assessment
+Drawing on its culture, which values data, will help NSF mature data capabilities and
+promote increased use of evidence in decision-making
+Establishing procedures and standards in areas such as documentation, quality reviews,
+and change management will enable easier access to data and tools, promote consistency
+across the agency, and facilitate analysis and tools development to generate reliable findings
+Improving alignment of data architecture and goals for increased reliance on data will
+enable more flexible and independent data integration, analysis, and analytics tools development
+Developing an NSF data skills training plan or guidance on data-related training will
+help align upskilling efforts with NSF's vision for future data capabilities
+Filling gaps in guidance for accessing and using data will decrease the learning curve and
+help staff work more efficiently (examples: data access and quality procedures, tools rollout and
+change management, analysis documentation)
+Helicopter transporting fossil specimen in Antarctica
+Credit: Eva Koppelhus
+NSF
+NSF Final Capacity Assessment
+March 2022
+17
+Enterprise-Level Maturity Ratings
+The three data collection phases of the organizational capacity assessment resulted in an enterprise-level view
+of maturity at the dimension and theme levels (Exhibit 5). These enterprise-level maturity ratings represent
+unweighted averages of capability ratings across participating NSF Directorates and Offices.
+Exhibit 5 - NSF Maturity Ratings by Dimension
+Theme 4: Assessing & Improving Capacity
+Theme 1: Building a Culture That
+or Generating & Using Evidence
+Values Data & Promotes Public Use
+Defining 2.96
+Data Personnel
+Defining 3.07
+Agency Appropriately Supports
+Evidence Generation & Use
+Data Culture
+5
+4
+Ongoing Studies Generate
+Data Governance
+High-Value Evidence
+3
+2
+1
+Data Protection
+Data Access
+Data Operations
+Analytics Capabilities
+Data|Inventory
+Platforms & Architecture
+Data Quality
+Theme 3: Promoting Efficient
+Theme 2: Governing, Managing,
+& Appropriate Data Use
+& Protecting Data
+Defining 3.27
+Defining 2.78
+At each maturity level, people, process, or technology capabilities are
+Objectivity and Independence
+Optimizing
+fully embedded and
+This assessment was designed and
+5.50 - 6.00
+continuously improved.
+implemented by a team that included NSF
+Performing
+expected, monitored, and widely
+staff and contractors. NSF staff ensured
+4.50 - 5.49 -
+used.
+that the assessment was tailored to meet
+Piloting
+NSF needs and that appropriate staff (in
+3.50 - 4.49 -
+functioning in some parts
+of the team/organization.
+target roles or positions) were identified for
+Defining
+participation. To ensure that the findings
+2.50 - 3.49
+.being planned, formalized,
+reported are free of bias, and therefore
+and/or validated.
+uphold the principle of objectivity and
+Initiating
+...under discussion or performed
+independence in NSF's Evaluation Policy,
+1.50 - 2.49
+only on an ad hoc basis.
+the analysis of data collected and the
+Not Initiated
+development of maturity ratings were
+not defined or in place.
+1.00 - 1.49 -
+conducted by contractor staff without any
+NSF involvement.
+NSF
+NSF Final Capacity Assessment
+March 2022
+18
+NSF operates mostly in the middle (defining and piloting) stages of data and evidence maturity across the
+dimensions (Exhibit 5). However, these average ratings conceal large variation across Directorates and
+Offices (Exhibit 6). The variability in ratings reveals pockets of excellence and nnovation-Directorate and
+Offices across NSF supporting the design, development, pilot testing, deployment, and use of data analytics
+and studies to generate useful evidence for decision-making. These efforts may provide a good foundation
+to develop a strategy for improvements.
+Exhibit 6 - Variability of Maturity Ratings, by Dimension
+6.0
+5.5
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+supports & (Use
+210000
+&
+3.1
+4.1
+Reading the chart
+The length of the box represents the distance between the lower and upper quartiles.
+The solid line in the box marks the median value.
+The dashed line marks the average.
+The "whiskers" represent minimums and maximums (unless there is an outlier).
+The open dot represents an outlier, a data point that is more than 1.5 times the length of the box away from its respective
+quartile.
+Note: A box with no whiskers or outliers means the lower and/or upper quartile is equal to the minimum and/or maximum.
+NSF
+NSF Final Capacity Assessment
+March 2022
+19
+Theme-Level Observations
+Below are highlighted observations currently under discussion within the agency.
+Theme 1
+Building a Culture that Values Data and Promotes Public Use
+Leadership sets a strong tone at the top on data-driven decision-making.
+Directorates and Offices are energized about data and analytics.
+Leadership is aware of the need to build data skills capacity strategically.
+Data skills training plans are informal or ad hoc.
+There is room to improve training and guidance on use of available data and tools.
+Theme 2
+Governing, Managing, and Protecting Data
+Agency has active engagement in enterprise-level data governance groups.
+Many data tools are available to staff, but adoption is uneven at present.
+Many staff members only interact with data policies and standards during NSF annual training courses.
+Requirements for and feedback on new Directorate- and Office-level data assets and analyses are
+inconsistent or ad hoc.
+Staff take initiative on data quality checks; most data quality checks are ad hoc and completed manually.
+Theme 3
+Promoting Efficient and Appropriate Data Use
+NSF fosters innovation and collaboration through a robust set of learning communities to support
+informal mentoring and training.
+Teams actively balance privacy considerations and opportunities for external dissemination.
+Most teams have a few skilled data practitioners; leadership acknowledges the need to broaden base
+of data analytics skills.
+Agency-level approach to tiered access (a security model with trust tiers that determine access) has not
+been applied to Directorate/Office-leve data assets in a consistent manner.
+Theme 4
+Generating Evidence and Supporting Evidence Generation and Use
+Agency developed an inventory of ongoing evaluation and analysis activities.
+Agency is working to increase the value of generating evidence through identifying, prioritizing,
+completing, and considering results of evidence-generating activities in a more formal and consistent
+manner.
+Capacity is a limiting factor in the ability to engage in evidence generation and use.
+Leadership is vocal about supporting evidence-related activities but aligning resources with goals is a
+challenge.
+NSF
+NSF Final Capacity Assessment
+March 2022
+20
+Conclusions
+The organizational assessment demonstrates NSF's commitment to data maturity and evidence generation
+and use. Although NSF has a strong data culture and staff with strong analytical capabilities, the enterprise-
+level ratings indicate several areas for improvements. NSF is already encouraging the development of
+strategies and prioritization of improvements to increase data maturity and evidence generation and use (as
+explained in the Next Steps section).
+Linking Key Observations to Capacity Assessment Requirements
+Below are selected examples of insights aligned with Capacity Assessment requirements.
+Considering the extent to which NSF's "evaluations, research and analysis efforts, and related activities" are
+Use of evidence in decision-making appears to be highly valued and
+supported by leadership; supervisors and leaders expect team members
+to participate in evidence-related activities and use available evidence to
+Supporting and balancing
+support decision-making wherever possible.
+agency needs
+Teams view NSF's annual strategic review process as an effective
+mechanism to obtain deeper insights into leadership priorities and
+identify research topics for the year.
+There is high interest across the agency in upskilling on evidence
+generation and use.
+Using appropriate
+methodologies
+Agency should consider identifying and further publicizing existing
+trainings (internal and external) to enable agency staff to learn more
+about evidence generation methods and responsible use of evidence.
+Determining current agency capacity for
+Planning and implementing
+There are currently limited staff within Directorates/Offices who have the
+evaluation activities,
+requisite time and expertise to support evidence generation activities.
+disseminating best practices
+and findings, and incorporating
+Some assessment participants were either unaware of, or unfamiliar
+employee views and feedback
+with, NSF guidance on evidence-related activities.
+Assessment participants noted that their teams need additional staff to
+Carrying out capacity-building
+support demand for evaluation, research, and analysis in support of the
+activities in order to use
+mission.
+evaluation research and analysis
+approaches and data in the day-
+NSF may want to consider assessing its current resource capacity and
+to-day operations
+conducting a gap analysis to identify and prioritize the gaps in key
+evidence-related capabilities.
+NSF
+NSF Final Capacity Assessment
+March 2022
+21
+Section 2
+Analysis of NSF's Inventory of
+Evidence-Building Activities
+Per the Evidence Act, this section summarizes NSF's "assessment of the coverage,
+quality, methods, effectiveness, and independence of the statistics, evaluation,
+research, and analysis efforts of the agency."
+Researchers in Puerto Rico study butterfly wing colors to understand genotype-phenotype connections
+Credit: Riccardo Papa, Department of Biology, University of Puerto Rico
+A. Methodology
+As required by the Evidence Act, NSF's inventory of evidence-building activities includes "statistics, evaluation,
+research, and analysis" activities ongoing in FY 2021 (Exhibit 7). These include activities active between October
+2020 (the beginning of the fiscal year) and April 2021, when data collection for this analysis was conducted.
+When appropriate, throughout this document, we use the terms "activities" and "studies" interchangeably to
+refer to these evidence-building activities.
+Exhibit 7 - Activities included in and excluded from NSF's inventory of evidence-building efforts
+Included
+Excluded
+Evidence-building activities focused on NSF
+Activities not focused on NSF, not controlled by NSF, or
+decisions and investments
+that form part of regular operations
+Evaluation of an NSF program, policy, strategy,
+NSF grant-funded activities that are not focused on
+initiative, or operations
+NSF's programs, operations or work
+Statistics, such as the funding rate, at any level
+Activities not focused on NSF, such as state-of-the-
+(e.g., agency, directorate, division, program)
+field reviews and nationally representative statistical
+surveys
+Research, including landscaping studies and
+literature reviews
+Grants/cooperative agreement project-level
+evaluations where NSF has no direct control over the
+Analysis, such as desk reviews to create logic
+execution of the work
+models, workforce analyses, and Committee of
+Visitors' reports
+Routine operational activities, including risk and
+budget analyses
+Rufous hummingbird
+Credit: Sarah Frey, Oregon State University
+NSF
+NSF Final Capacity Assessment
+March 2022
+23
+Data Sources
+Data for this initial inventory were collected from existing sources:
+Yearly data call to NSF Directorates and Offices in support of the preparation of the annual budget request
+EAC supported projects (evaluations and other types of evidence-building activities)
+Approved OMB Paperwork Reduction Act information collection requests
+Active NSF grants, cooperative agreements, and contracts in support of evidence-building activities
+And verified by:
+EAC liaisons at NSF Directorates and Offices. A list of activities verified to date is presented in Appendix B.
+Document Review
+For each study or activity, existing documentation was collected and reviewed to code each activity along
+the dimensions shown below, as NSF aligned the Evidence Act requirements with the principles in NSF's
+Evaluation Policy. For example, the required assessment of using "methods and combinations of methods
+that are appropriate to the corresponding research questions being addressed" is aligned with the NSF
+principle of high quality and rigor. Appendix A provides a detailed description of this alignment.
+Documentation reviewed included, when available, statements of work, project plans, work plans, analysis
+plans, quality assurance plans, dissemination plans, and information collection request packages. These
+enabled NSF to assess the following characteristics through a desk review of documents (constraints are
+discussed in the limitations section below):
+9
+characteristics of relevance and utility
+These characteristics focus on classifying activities by typology, focus, stakeholders, and use.
+characteristics of high quality and rigor
+These measure the design and execution of the activity, considering the balance of needs.
+1
+characteristic of independence and objectivity
+This characteristic reflects our assessment of insulation from undue influence.
+5
+characteristics of transparency and reproducibility
+Afocus on transparency and reproducibility signals a commitment to quality, replication, and dissemination.
+1
+characteristic of ethics
+This indicates compliance with applicable federal laws as well as protection of human subjects.
+NSF
+NSF Final Capacity Assessment
+March 2022
+24
+Limitations
+The Evidence Act requirements for this analysis are ambitious. In particular, the constructs of interest
+as aligned with the NSF Evaluation Principles-such as utility and ethics-are difficult to measure. This is
+particularly true for the "current" efforts that are the target of this analysis as stipulated in the Evidence
+Act. For example, it is difficult to assess ethical conduct or level of rigor of work that is in the design or
+exploratory phases. And even if measured, these may change over time. In addition, for this first response
+to these requirements, NSF sought to rely on existing data sources to avoid developing an approach that
+increased burden on stakeholders. This necessarily generated some limitations in the depth of information
+available, as the analysis relies heavily on original plans (available through proposals or work plans for
+studies conducted), instead of final reports. For these reasons, the coding schemes created for analysis
+are constrained in their ability to measure the target characteristics of ongoing evidence-building activities.
+Ethics-for instance-is reduced to one data point. Albeit an important one-compliance with legislation
+and human subject protections as documented in requests for clearance-this measure fails to capture
+other agency efforts to promote ethical conduct, such as well-enforced procedures to identify conflicts of
+interest. The methodological approach adopted for this analysis aimed to balance several factors, such as
+the resources invested, burden generated, reproducibility over time, and potential utility of the findings. This
+valuable initial experience will provide a solid foundation to consider revisions in the future as NSF seeks to
+monitor its portfolio of evidence-building activities.
+Quality Assurance
+The design of this analysis, the coding schemes developed, and the estimates generated were submitted
+to quality assurance review by independent researchers (that is, researchers not involved in the design or
+analysis) with appropriate technical expertise, extensive research experience, and knowledge of the Evidence
+Act. The first review focused on (1) alignment of the analytic approach (including the coding schemes) with
+the Evidence Act requirements and (2) assessment of a sample of documents for agreement with the codes
+assigned to them. This quality assurance review found agreement across all constructs except for one: degree
+of rigor. Upon review, staff concluded that many activities were too new for degree of methodological rigor to
+be determined with high reliability. As a result, this dimension was excluded. Instead, the measure of degree
+of
+rigor focused only on the alignment between the proposed methodology and the research question(s).
+The second review focused on reproducing all estimates reported here for accuracy. They were all verified.
+Sunrise over the Arctic
+Credit: Kim Kenny
+NSF
+NSF Final Capacity Assessment
+March 2022
+25
+B. Findings
+Inventory
+NSF's inventory of evidence-building activities includes:
+39
+activities spanning
+Directorates and Offices
+25
+External contracts
+12
+Internal efforts
+2
+Grants and cooperative agreements
+The sections below provide an analysis of the characteristics of these efforts along the required dimensions
+and aligned with the NSF Evaluation Policy Principles.
+Relevance and utility
+Current evidence-building activities support most Directorates and Offices at NSF, particularly the Office
+of the Director (OD). Ongoing activities support the needs of 8 of 9 Directorates and Offices. Nearly three
+quarters of the studies originate in three units-namely, the Office of the Director (44 percent) and the
+Directorates for Education and Human Resources (15 percent) and Engineering (13 percent) (Exhibit 8).
+This is to be expected, as the Office of the Director is home to several offices and focuses on work that is
+of value agencywide, which is a criterion for prioritizing evidence-building efforts. Similarly, the Directorate
+for Education and Human Resources is a hub for agency initiatives to grow and diversify the workforce;
+monitoring and evaluating these initiatives has been a longstanding agency priority.
+Exhibit 8 - Distribution of FY 2021 evidence-building activities by Directorates and Offices
+GEO, 8%
+OIRM,
+5%
+SBE, 5%
+CISE,
+OD, 44%
+EHR, 15%
+ENG, 13%
+BFA, 5%
+BIO, 3%
+3%
+Source: NSF analysis of its FY 2021 inventory of evidence-building activities.
+Notes: N=39. OD=Office of the Director, EHR = Directorate for Education and Human Resources, ENG=Directorate for Engineering,
+GEO=Directorate for Geosciences, BFA= Office of Budget, Finance and Award Management, OIRM = Office of Information and
+Resource Management, SBE = Directorate for Social Behavioral and Economic Sciences, BIO = Directorate for Biological Sciences,
+CISE = Directorate for Computer and Information Science and Engineering. Percentages in graphics add up to more than 100
+percent due to rounding.
+NSF
+NSF Final Capacity Assessment
+March 2022
+26
+The studies in NSF's portfolio of evidence-building activities address a variety of questions related
+to the agency's mission and operations. Some questions focus on the efficacy of agency policies and
+programs (such as NSF's Anti-Harassment Conference Policy and the Convergence Accelerator program),
+others focus on describing activities (such as the prevalence and characteristics of projects related to
+nanotechnology), and yet others focus on people (for example, on counting and describing the demographic
+characteristics and educational and employment outcomes of participants in NSF programs). Questions
+about agency operations often focus on improving service delivery (a good example is whether removing
+proposal deadlines reduces proposals' dwell time, on average).
+The agency's mission drives evidence-building activities at NSF. Most studies (33 studies or 85 percent)
+support mission-strategic research, with 27 focused on programs and 6 focused on policy (not shown in
+graphs for simplicity). The remaining evidence-building efforts (6 or 15 percent) are focused on operations,
+such as statistics on funding rates. Analyzing these studies by areas of focus highlighted in the Evidence
+Act and shown in Exhibit 9 shows that these efforts address a wide range of needs. The most common
+needs relate to agency performance management (ongoing program management, strategic management,
+organizational learning, and performance management).
+Exhibit 9 - Distribution of activities highlighted in the Evidence Act
+Ongoing Program Management
+Strategic Management
+Organizational Learning
+Performance Management
+Internal and External Oversight
+Accountability
+Interagency and Private Sector Coordination
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+Source: NSF analysis of its FY 2021 inventory of evidence-building activities
+Note: N=39.
+NSF
+NSF Final Capacity Assessment
+March 2022
+27
+Most current efforts are foundational fact-finding studies, that is, research and analysis efforts
+that are mostly descriptive or exploratory. Current studies were coded using two different typologies
+- one included in the Evidence Act itself and the other in OMB guidance (OMB M-19-23). Using the Evidence
+Act typology, evaluations and statistics make up 39 percent of the reported activities (see Exhibit 10, left
+graph). Research and other types of analyses make up the remainder. Using the classification defined in
+OMB M-19-23, the majority of activities (59 percent) are foundational fact finding while program evaluation
+and performance measurement account for 18 percent each. The remaining two studies are policy analyses
+(5 percent) (see Exhibit 10, right graph). Of the evaluations included in either typology, four are summative
+evaluations and one is a formative evaluation.
+Exhibit 10 - Characteristics of activities
+Evidence Act Typology
+M-19-23 Typology
+Program
+Evaluation 1
+Statistics 2
+Evaluation
+Performance
+Measurement
+18%
+21%
+18%
+18%
+Policy
+Analysis
+5%
+21%
+41%
+59%
+Foundational
+Research 3
+Other Analysis
+4
+Fact Finding
+Source: NSF analysis of its FY 2021 inventory of evidence-building activities
+Notes: N=39 for each graph. Values may not add to 100% due to rounding.
+1
+Evaluations are systematic assessments of the effectiveness or efficiency of programs, policies,
+strategies, or organizations. Example: Evaluating the Sustainability of the NSF ADVANCE Program.
+2
+Statistics includes work focused on providing statistical estimates and do not contain
+in-depth analysis and conclusions found in evaluation or research studies. Example: National
+Nanotechnology Initiative Program Analysis.
+3
+Research includes studies that seek to answer a research question(s) but are not evaluations.
+Example: Merit Review Survey.
+4 Other types of analyses include desk reviews to create logic models, workforce analyses, and
+portfolio reviews by Committee of Visitors. Many of these projects are exploratory analyses that
+provide background information for future evaluations. Example: Geoscience Education and
+Diversity Programs Committee of Visitors.
+NSF
+NSF Final Capacity Assessment
+March 2022
+28
+Regardless of the program or NSF unit originating the study, findings are likely to be useful across
+the Foundation. Evidence-building activities may be designed to produce evidence that applies to:
+A single stakeholder - for example, a single program, such as the Centers for Chemical Innovation
+Program, or division, such as Committee of Visitor portfolio reviews
+Multiple stakeholders - for example, an intervention that is implemented across multiple
+directorates, such as the Research Experiences for Undergraduates Program
+The agency as a whole - such as policies that apply across the Foundation
+The review of current activities revealed that, at the planning stage, most of them (62 percent) were focused
+solely on the stakeholder commissioning the study, a small share (5 percent) on multiple stakeholders, and
+a third (33 percent) on agencywide efforts (Exhibit 11). This finding aligns with the earlier one indicating that
+nearly half of the studies are initiated by the Office of the Director.
+However, even if a study is commissioned by or conducted for a single stakeholder, findings may be relevant
+across the Foundation. Coded as the potential relevance of each evidence-building activity based on topic or
+programmatic overlaps, the results suggest that ongoing studies may indeed generate findings that would
+be useful to multiple stakeholders. For example, the evaluation of an innovation training program may be
+commissioned in response to the needs of one program, but results may be potentially useful for other
+programs related to technology transfer. Coding and analyzing potential relevance suggests that 42 percent
+of the evidence-building activities originated by single stakeholders (10 of 24) may be relevant to multiple
+stakeholders or the entire Foundation (Exhibit 11). Consequently, nearly 60 percent of ongoing studies will
+potentially benefit multiple agency stakeholders, including programs, divisions, and directorates. This finding
+underscores the value of single stakeholder initiatives and the importance of dissemination activities.
+Exhibit 11 - Relevance of activity to stakeholder groups
+The left-hand vertical axis shows the distribution of the planned relevance of the current activities. The right-
+hand vertical axis shows how this distribution changes if results are shared with other relevant stakeholders.
+n=13
+agencywide
+agencywide
+n=13
+Source: NSF analysis of its FY 2021
+inventory of evidence-building
+activities.
+n=2
+multiple stakeholders
+multiple stakeholders
+n=2
+A single stakeholder activity is
+agencywide
+n=1
+defined as relevant to a single
+program, for example, the Secure
+and Trustworthy Cyberspace
+Program, or division, such as
+multiple stakeholders
+n=9
+Committee of Visitor portfolio
+reviews. A multiple stakeholder
+activity is a specific type of
+intervention that is replicated
+n=24
+single stakeholder
+across multiple units at NSF, such
+as the Research Experiences for
+Undergraduates Program (REU).
+single stakeholder
+n=14
+Agencywide activities focus on
+topics relevant to the entire
+Agency, such as anti-harassment
+policies that apply across the
+Foundation.
+NSF
+NSF Final Capacity Assessment
+March 2022
+29
+High quality and rigor
+Most current NSF studies are non-experimental and often rely on descriptive analyses.
+The characteristics of evidence-building activities pursued (say, an impact versus a descriptive study) will vary
+based on the goals, available time, resources, and data needed. Analysis of current NSF studies revealed
+that, in FY 2021, most (37 out of 39, or 95 percent) are non-experimental, meaning that they do not seek to
+establish causal relationships (Exhibit 12). More specifically, among current studies:
+Nearly half are descriptive analyses
+Nearly one third are systematic reviews
+One study is quasi-experimental (to estimate impacts) and two use benchmarking (to contextualize
+estimates)
+The remaining are correlation analyses and reviews of the literature
+Studies use methodologies that are well-aligned with the research questions. Two-thirds of current
+studies rely solely on either quantitative methods (49 percent) or qualitative methods (18 percent). The
+remaining third (31 percent) use both qualitative and quantitative methods. (One study is in the design
+phase and does not yet have a confirmed methodology.) Most importantly, nearly all studies (90 percent)
+use methodologies that are appropriate and sufficiently rigorous for answering the given questions. For
+example, an analysis of partnerships seeks to describe the types and prevalence of partnerships in projects
+and programs across the Foundation. This study appropriately uses a non-experimental approach and
+a descriptive methodology. Another study is a formative evaluation that seeks to establish participant
+demographic characteristics and education and workforce outcomes compared to benchmarks of interest.
+To answer this question, a non-experimental approach with benchmarking is being employed.
+Exhibit 12 - Methodologies of evidence-building activities
+Quasi-Experimental
+Causal Analysis
+3%
+Benchmarking Studies
+5%
+Correlational Analyses
+10%
+Not Experimental
+Descriptive Analyses
+49%
+Systematic Reviews
+28%
+Literature Reviews
+3%
+Not Determined Yet
+3%
+Source: NSF analysis of its FY 2021 inventory of evidence-building activities
+Notes: N=39. One study is in the planning phase and exact methods have not been determined. Percentages do not
+add to 100 due to rounding.
+NSF
+NSF Final Capacity Assessment
+March 2022
+30
+Nearly half of FY 2021 NSF studies have quality assurance plans in place. The last measure used to
+assess (potential for) high quality was the existence of documented quality assurance plans, which nearly
+half of the studies (18 or 46 percent) had. The absence of a quality assurance plan does not necessarily imply
+that the given effort will not be subjected to quality assurance (this report is illustration of that fact), but
+does increase the risk that such reviews may be overlooked. This is an area where developing agencywide
+guidance may help, as suggested by findings of the organizational capacity assessment.
+Independence and objectivity
+Independence and objectivity are influential factors in deciding whether studies are conducted
+internally or externally. NSF strives to ensure the credibility and usefulness of its evidence-building
+activities. To this end, many factors are considered when planning a study. These include availability of staff
+with relevant expertise and without conflicts of interest; access to data; security and privacy; and available
+financial resources. In FY 2021, consideration of these factors resulted in a portfolio of studies that are
+mostly being conducted externally (31 or 79 percent), with close oversight from NSF staff. The remaining
+evidence-building activities are being conducted internally by staff with appropriate expertise (such as, social
+scientists, science analysts, or data analytics officers) either in the NSF units interested in the results or in
+other units that can provide expert support with independence and objectivity.¹ For example, the analysis
+of partnerships, which requires a deep understanding of NSF data systems, is being conducted internally by
+staff that are not otherwise involved in NSF's portfolio of partnership projects or programs. In contrast, the
+evaluation of NSF's agencywide harassment prevention efforts is being conducted externally.
+Transparency and reproducibility
+About half of current studies have written plans to disseminate findings and data. A commitment
+to disseminating findings and data (with supporting documentation) to appropriate audiences signals
+transparency and supports reproducibility. One way to assess this commitment in current studies is
+to measure whether these studies have written dissemination plans. Such plans state expectations for
+release, identify target audiences, and provide other relevant information, such as the expected timeline
+and documentation to be released. These plans are influenced by many factors, particularly privacy and
+security concerns. About half of the FY 2021 studies (20 or 51 percent) have a written dissemination plan.
+These include plans to release findings and data externally (3), internally (5), or a combination of both (12
+dissemination plans include intended release of some findings internally only and others externally as well)
+(Exhibit 13). Almost a quarter (9 or 23 percent) of these plans included the production of documents to
+support reproducibility. The absence of a dissemination plan does not necessarily imply that findings or data
+will not be released, but it may signal that plans for such release are not being prioritized early on as they
+may depend on the usefulness of the findings and/or the quality of the data collected. The advent of the
+learning agenda may help promote the development of dissemination plans, as conversations regarding use
+and dissemination are taking place in the very early stages of developing learning agenda questions.
+1
+One activity is still in the planning stages.
+NSF
+NSF Final Capacity Assessment
+March 2022
+31
+Exhibit 13 - Target audiences of dissemination plans
+External
+Audiences
+8%
+Internal
+13%
+Audiences
+No
+49%
+Dissemination
+Plan
+31%
+External
+and Internal
+Audiences
+Source: NSF analysis of its FY 2021 inventory of evidence-building activities
+Note: N=39. The "no dissemination plan" category includes one study that is too nascent to have a plan in place.
+Ethics
+NSF is complying with an important legislative mechanism to promote the protection of human
+subjects and reduction of burden on the public (in addition to the utility of data collections). One aspect
+of ethics that is measurable is compliance with federal laws and regulations, in particular the Paperwork
+Reduction Act (PRA) which governs many evidence-building activities. More than a third of NSF's FY 2021
+evidence-building activities (36 percent) are subject to PRA OMB approval. These either have received
+OMB clearance for their data collection activities (10 or 26 percent) or have documented plans to submit
+information collection requests to OMB (4 or 10 percent).
+Conclusions
+Consistent with the results of the organizational assessment, the analysis of the inventory of NSF's FY
+2021 studies demonstrates the Foundation's commitment to evidence-building activities. These activities
+are designed to meet a wide range of agency needs, from rigorous program evaluations to exploratory
+policy analysis, and use methods that are well aligned with their research questions. Consequently, they are
+often and appropriately non-experimental. As NSF leverages the yearly development of learning agendas
+engaging staff across the agency and external stakeholders, the balance of technical approaches is likely
+to change, particularly in favor of studies that support causal inferences and include quality assurance and
+dissemination plans.
+NSF
+NSF Final Capacity Assessment
+March 2022
+32
+Next Steps
+Aurora Australis over Amundsen-Scott South Pole Station
+Credit: Patrick Cullis; Source: U.S. Antarctic Program photo Library
+NSF has begun disseminating the capacity assessment results to staff across the agency, starting with the
+agency's Leadership Team and the EAC Coordination Group, which is comprised of representatives from every
+unit at NSF. Based on findings and consultations with leadership and staff, NSF is developing a draft strategy
+to drive improvements and increase maturity levels over the next few years. This strategy will establish areas
+of short- versus long-term focus, improvement targets, timelines, and initiatives to close gaps between actual
+and target maturity levels.
+Over FY 2022-FY 2023, NSF will focus on data governance, protections, operations, and personnel. Actions
+in these areas range from policy development (such as a data quality policy) to guidance (on topics such as
+non-response bias analysis) to hands-on trainings to upskill staff (such as a tailored training with NSF
+administrative data to leverage text analytics and external data for monitoring and evaluation). NSF will consider
+expanding the capacity assessment in FY 2023 to highlight the areas of statistics, evaluation, research and
+analysis. NSF will also update the improvement strategy for FY 2024-FY 2025. To ensure a successful
+expansion, the assessment team has documented the methodological approach and, as the final step
+of this assessment, will be designing the next one.
+NSF
+NSF Final Capacity Assessment
+March 2022
+33
+Appendix A - Requirements Coverage
+The table below shows the alignment between the Capacity Assessment requirements of Title | of the Evidence
+Act and the two components of NSF's Capacity Assessment.
+Evaluation
+Organizational
+Activity
+Evidence Act
+Evidence Act Requirements
+Policy
+Capacity
+Capacity
+Requirements (9A-D)
+(4 evidence types & 5 criteria)
+Principles
+Assessment
+Assessment
+Statistics
+A list of activities and
+operations of the agency that
+Evaluations
+are currently being evaluated
+Research
+and analyzed (9)(A)
+Analysis
+The extent to which the
+Coverage: Relevance
+evaluations, research, and
+analysis efforts and related
+activities support the needs of
+Coverage: Utility
+divisions within the agency (9)(B)
+The extent to which the
+evaluations, research, and
+Relevance & Utility
+analysis efforts and related
+activities address an appropriate
+balance of needs for learning
+Coverage: Balance of Needs
+and management, performance
+and strategic management,
+interagency and private sector
+coordination, and oversight and
+accountability (9)(C)
+Quality/Methods: Methodological Fit
+The extent to which the agency
+uses methods and combinations
+Quality/Methods: Methodological Rigor
+High Quality & Rigor
+of methods that are appropriate
+to agency divisions and the
+Quality/Methods: Quality Assurance
+corresponding research
+Independence and Objectivity
+questions being addressed (9)(D)
+Independence and
+Objectivity/Transparency
+Independence and Objectivity:
+and Reproducibility
+Reproducibility
+Effectiveness: Dissemination
+Transparency and
+The extent to which evaluation
+Reproducibility
+and research capacity is present
+Ethics: Research Conduct
+Ethics
+within the agency to include
+personnel and agency processes
+Effectiveness (supply): Evidence
+for planning and implementing
+Builders and Brokers/Translators
+evaluation activities,
+disseminating best practices
+Effectiveness (demand): Evidence Users
+and findings, and incorporating
+Capacity for Effectiveness: Infrastructure
+employee views and feedback
+(9)(E)
+Capacity for Effectiveness: Policies,
+procedures, practices
+The extent to which the agency
+Capacity for Effectiveness: Culture
+has the capacity to assist agency
+staff and program offices to
+develop the capacity to use
+Capacity for Effectiveness: Funding
+evaluation research and analysis
+approaches and data in the
+Capacity for Effectiveness:
+day-to-day operations (9)(F)
+Leadership Support
+NSF
+NSF Final Capacity Assessment
+March 2022
+34
+Appendix B - List of Evidence-Building Activities
+The list below displays NSF's "statistics, evaluation, research, and analysis" activities ongoing between October 2020
+and April 2021, when data collection for this analysis was conducted.
+Anti-Harassment Conference Policy Evaluation
+Anti-Harassment Term and Condition Study
+Assessing LSAMP Two-Year College Activities Through Analysis of National Student Clearinghouse Data
+Board on International Scientific Organizations (BISO) Theory of Change
+Capacity Assessment Inventory
+Convergence Accelerator Participant Surveys
+Customer Satisfaction Survey for the NSF Electronic Research Administration Forum
+Data Analytic and Assurance Services (Organizational Assessment)
+Data Collection and Analytic & Technical Support Services
+Directorate for Social, Behavioral and Economic Sciences Office of Multidisciplinary Activities Committee of Visitors
+Division of Biological Infrastructure Committee of Visitors
+Division of Earth Sciences Committee of Visitors
+Division of Human Resource Development Committee of Visitors
+Education and Training Application (ETAP)
+Evaluating the Sustainability of the NSF Advance Program
+Evaluation of Emerging Frontiers in Research and Innovation - Research Experience and Mentoring Program
+Evaluation of NSF's Secure and Trustworthy Cyberspace
+Evaluation of the Convergence Accelerator
+Evaluation Support Services for the NSF INCLUDES Initiative
+Exploration of Partnerships
+Exploring Convergence Research: An Initial Examination of What It Means and What It Hopes To Accomplish
+Geoscience Education and Diversity Programs Committee of Visitors
+Graduate Research Fellowship Program Pilot Data Collection
+I-Corps: Virtual Training, Evaluation, and Tracking of Program Impact
+Intergovernmental Personnel Act (IPA) Program Annual Report
+Linking of the SDR To the NSF Grants Database
+Marketing/Outreach Survey: NSF SBIR/STTR Program
+Merit Review Analyses and Assessment (PI and Reviewer Survey)
+Merit Review Report (Funding Rates)
+Minority-serving Institutions Report
+National Nanotechnology Initiative Program Analysis
+NSF Audience Survey
+NSF International Research Experiences for Undergraduates: A Comparative Analysis of the IRES and REU Programs
+NSF
+NSF Final Capacity Assessment
+March 2022
+35
+NSF Research Traineeship (NRT) Program
+PMIAA Workforce Development
+Program-Level Database and Associated Support for Engineering Research Center (ERC) program in ENG/EEC and
+Nanotechnology Science and Engineering Center (NSEC) Program
+Proposal Panel Experiments
+Recommendations For Enabling Earth Science Through NSF'S Geophysical Facility-A Portfolio Review of EAR
+Seismology and Geodesy Instrumentation
+Strategic Review of the "Missing Millions"
+NSF
+NSF Final Capacity Assessment
+March 2022
+36
+NSF
+National Science Foundation
+www.nsf.gov
+Iceberg in Rosita Harbor, South Georgia Island
+Credit: Kelton W. McMahon, Graduate School of Oceanography, University of Rhode Island

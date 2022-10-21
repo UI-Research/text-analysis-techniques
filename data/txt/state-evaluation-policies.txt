@@ -1,0 +1,339 @@
+Department of State Program and Project
+Design, Monitoring, and Evaluation
+Policy
+RIMENT
+E
+STATES
+OF
+November 2017
+Department of State Program and Project
+Design, Monitoring, and Evaluation
+Policy
+PURPOSE
+The Department of State is committed to using design, monitoring, evaluation, and data analysis best
+practices to achieve the most effective U.S. foreign policy outcomes and greater accountability to our
+primary stakeholders, the American people. This policy identifies best practices and establishes
+requirements to enable the Department to more fully characterize and account for the various ways
+bureaus and independent offices utilize their resources to achieve bureau, office, and Department-level
+goals and objectives. The purpose of the policy is to establish a clear line of sight from what the
+Department wants to achieve as documented in its strategic plans, to how the Department intends to
+achieve it through key programs and projects, to data on whether these efforts are working as intended
+based on monitoring, evaluation, and learning activities. This policy applies to new and ongoing bureau
+and independent office efforts across diplomatic engagement and foreign assistance. Bureaus and
+independent offices should maintain documentation pertaining to the completion of 18 FAM 300
+requirements, as they are subject to audit by the OIG or GAO.
+AUTHORITIES
+The authorities relevant to the Design, Monitoring, and Evaluation Policy are found in:
+The Foreign Assistance Act of 1961
+Foreign Aid Transparency and Accountability Act of 2016
+Program Management Improvement Accountability Act of 2016
+Government Performance and Results Act Modernization Act of 2010
+E-Government Act of 2002
+Clinger-Cohen Act of 1996
+DEFINITIONS
+Baseline: Data that are collected before or at the start of a program, project, or process and provide a
+basis for planning and/or assessing subsequent progress and impact.
+Evaluation: The systematic collection and analysis of information about the characteristics and
+outcomes of programs, projects, or processes as a basis for making judgments, improving effectiveness
+and informing decisions about current and future programs, projects, and processes. Evaluation is
+1 I Page
+distinct from assessment, which may be designed to examine country or sector context to inform
+program or project design.
+Goal: The highest-order outcome or end state to which a program, project, process, or policy is
+intended to contribute.
+Impact: A result or effect that is caused by or attributable to a program, project, process, or policy.
+Impact is often used to refer to higher-level effects that occur in the medium- or long-term, and can be
+intended or unintended and positive or negative.
+Logic Model: A rigorous methodology used for program or project design that focuses on the causal
+linkages between project inputs, activities, outputs, short-term outcomes, and long-term outcomes. It is
+a visual representation that shows the sequence of related events connecting a planned program's or
+project's objectives with its desired outcomes.
+Monitoring: An ongoing system of gathering information and tracking performance to assess progress
+against established goals and objectives.
+Objective: A statement of the condition or state one expects to achieve toward accomplishing a
+program, process, or project goal.
+Performance Indicator: A particular characteristic or dimension used to measure intended changes.
+Performance indicators are used to observe progress and to measure actual results compared to
+expected results.
+Performance Management: The systematic process of collecting, analyzing, and using performance
+monitoring data and evaluations to track progress, influence decision-making, and improve results.
+Pilot: Any new, untested approach that is implemented to learn of its potential feasibility and
+efficacy/effectiveness because it is anticipated to be replicated or expanded in scale or scope.
+Process: A systematic series of actions or steps taken to achieve a particular end.
+Program: A set of activities, processes, or projects aimed at achieving a goal or objective that is typically
+implemented by several parties over a specified period of time and may cut across sectors, themes,
+and/or geographic areas.
+Program design: The process of analyzing the context, identifying the root causes of issues to be
+addressed, and constructing logic and a theory of how and why a proposed program, project, or process
+will work.
+Project: A set of activities intended to achieve a defined product, service, or result with specified
+resources within a set schedule. Multiple projects often make up the portfolio of a program and support
+achieving a goal or objective.
+2 I Page
+Situational Analysis: A review of the current state or conditions that could affect the design,
+implementation, or outcome of a program, project, or process.
+IDENTIFYING AND DEFINING PROGRAMS AND PROJECTS WITHIN A
+BUREAU OR INDEPENDENT OFFICE
+a. To implement 18 FAM 300, bureaus and independent offices must first identify the major
+programs and/or projects they undertake to achieve the broader outcomes specified in the
+objectives or sub-objectives of their strategic plan. How a bureau or independent office
+identifies or characterizes its major programs or projects may be informed by factors such as the
+characteristics of the accounts managed, organizational structure, the countries in which the
+bureau or independent office executes activities, portfolio definitions within a particular bureau
+or independent office, or other factors.
+b. Bureaus and independent offices must consult with the Office of U.S. Foreign Assistance
+Resources (F) or the Bureau of Budget and Planning (BP) when identifying their major programs
+or projects.
+PROGRAM/PROJECT DESIGN
+a. The core of program/project design is constructing the logic of how and why a program or
+project is intended to work. The process involves determining the program/project alignment to
+higher-level strategies, conducting situational analyses, identifying the root causes of the issues
+or problems to be addressed, establishing goals and objectives, and creating a program logic
+model or project charter and schedule. Bureaus should maintain documentation of program
+and project design.
+b. Bureaus and independent offices must complete the following in the design phase:
+1) Alignment to Higher-Level Strategies: When initiating a program or project, assess
+how it can best align with and advance existing strategies or other high-level
+directives. In addition to relevant national- and agency-level guidance or strategies,
+these include relevant Joint Regional Strategy (JRS), Functional Bureau Strategy
+(FBS), Integrated Country Strategy (ICS), and the Sustainable Development Goals
+(SDGs).
+2) Situational Analysis: Conduct a review of the current state or conditions surrounding
+the program or project idea that could affect its design, implementation, or
+outcome. This analysis should include an external assessment of political/legal,
+security, cultural, economic, environmental, infrastructure, institutional, and other
+relevant conditions or factors in order to understand and define baseline and
+context.
+3) Goals and Objectives: Programs and projects must have clearly stated goals and
+objectives that reflect an understanding of the problem, need, or issue to be
+addressed.
+3 I Page
+4) Logic Model: The logic model (or equivalent) articulates how and why the program
+or project is expected to contribute to achieving the program/project goals and
+objectives. The logic model documents expected linkages between program/project
+inputs, activities, outputs, and outcomes, and sets the foundation against which
+progress can be monitored and evaluated.
+5) Project Charter: Projects must have either a logic model or a project charter that
+defines the project goal(s), justification, scope, stakeholders, and key deliverables.
+6) Project Schedule: Projects must have a milestone schedule or Gantt chart with
+appropriate amount of detail for the complexity of the project.
+C.
+The guidance for 18 FAM 300, the Department's Program Design and Performance Management
+Toolkit, and the TeamWork@State website provide guidelines, examples, and templates for
+these steps.
+MONITORING
+a.
+Monitoring data indicate what is happening and help determine if implementation is on track or
+if any timely corrections or adjustments may be needed to improve efficiency or effectiveness.
+Monitoring data can also indicate when an evaluation is needed to understand how or why
+certain results are being observed, and can provide useful inputs into planning or conducting an
+evaluation.
+b. All bureaus and independent offices must develop a monitoring plan for their programs or
+projects, and incorporate its use into program and project management. Monitoring plans
+involve regular, ongoing data collection against key performance indicators or milestones to
+gauge the direct and near-term effects of activities and whether desired results are occurring as
+expected during implementation.
+c.
+All bureaus and independent offices are also required to establish a methodology for collecting
+baseline data, and implement it to document baselines. Baseline data collection methodology
+should take into account the operating environment and other relevant contextual factors
+gleaned from a situational analysis, including what approaches will be taken to summarize the
+baseline in scenarios where it is not possible to capture data prior to the onset of the program
+or project. Bureaus and independent offices should maintain performance monitoring plan
+documentation and all data that the bureau or independent office collects in support of the
+performance monitoring plan.
+d. Building on the logic model or project charter, bureaus and independent offices must:
+1) Develop performance indicators to monitor progress and to measure actual results
+compared to expected results.
+2) Establish a methodology for collecting baseline data. Baseline data should usually be
+collected before or at the start of a program or project to provide a basis for planning and
+monitoring subsequent progress.
+3) Set targets for each performance indicator to indicate the expected change over the course
+of each period of performance.
+4 I Page
+4) Develop a monitoring plan that documents all of the indicators and baselines, milestones,
+and targets for each indicator. The monitoring plan should also include data collection
+frequency for each indicator. Data for each performance indicator should be collected at the
+frequency feasible and necessary to effectively manage and monitor progress and results,
+conduct internal learning, and meet external reporting or communication requirements.
+e. The guidance for 18 FAM 300 as well as the Department's Program Design and Performance
+Management Toolkit provides guidelines, examples, and templates for these steps.
+EVALUATION
+a. Bureaus and independent offices should conduct evaluations to examine the performance and
+outcomes of their programs, projects, and processes at a rate commensurate with the scale of
+their work, scope of their portfolio, and the size of their budget.
+b. At a minimum, all bureaus and independent offices are required to complete at least one
+evaluation per fiscal year. Also, those who receive and directly manage foreign assistance
+program funds must conduct evaluations of their large programs once in each program's
+lifetime, or once every five years for ongoing programs, projects, or processes. "Large" is
+defined as meeting or exceeding the median cost of programs, projects, or processes for that
+bureau or independent office. Additionally, pilots should be evaluated before replicating or
+expanding.
+C. Bureaus and independent offices conducting extensive, multi-year evaluations should consult
+with F and/or BP on meeting the threshold requirements of one per year if an evaluation is
+occurring over multiple years. Bureaus and independent offices should consult the policy
+guidance for more specific criteria and guidelines.
+d. Bureaus and independent offices may conduct internal, external, and collaborative evaluations.
+They may conduct evaluations with their own staff without contracting to outside firms or
+organizations if:
+1) The bureau or office has trained evaluation staff with the requisite knowledge and
+experience commensurate with the complexity of the evaluation proposed; and
+2) The evaluation staff is not accountable to the managers of the program to be
+evaluated.
+e.
+GAO and OIG reports are not considered bureau evaluations for the purposes of this policy, but
+bureaus and independent offices are encouraged to use such reports to inform the planning of
+evaluations, as applicable.
+Bureau Evaluation Coordinators
+Each bureau or independent office must identify a point of contact with decision-making authority to
+serve as the Bureau Evaluation Coordinator to ensure that the evaluation function is fully operational
+and integrated into the planning and decision-making process. He or she will serve as the main point of
+contact in the bureau on evaluation and will coordinate monitoring and evaluation activities and interact
+with BP and F on the bureau's compliance with this policy.
+5 | Page
+Bureau Evaluation Plans
+All bureaus and independent offices are required to develop and submit a Bureau Evaluation Plan (BEP).
+Bureaus and independent offices should consult the guidance for specific timelines on when the BEP is
+due, what system it should be submitted in, and what information the BEP should include.
+Considerations for Evaluation
+a. A primary consideration in selecting a program, project, management operation, process, or
+service for evaluation should be the information needs of the commissioning bureau or
+independent office, which should prioritize those needs and then decide what should be
+evaluated. When planning for evaluation, keep in mind the following:
+1) Usefulness: The information, ideas, and recommendations generated by
+evaluations should serve the needs of the Department in general, and the
+commissioning units in particular. Evaluations should help the Department improve
+its management practices and procedures as well as its ongoing activities by
+critically examining their functioning and the factors that affect them. Evaluation
+findings should also be considered when formulating new policies and priorities.
+2)
+Methodological Rigor: Evaluations should be "evidence based," meaning they
+should be based on verifiable data and information that have been gathered using
+the standards of professional evaluation organizations. The data can be both
+qualitative and quantitative.
+3) Independence and Integrity: Bureaus should ensure that evaluators and other
+implementing partners are free from any pressure or bureaucratic interference.
+Independence does not, however, imply isolation from managers. Active
+engagement of bureau staff and managers, as well as implementing partners, is
+necessary to conduct monitoring and evaluation, but Department personnel should
+not improperly interfere with the outcomes.
+b. In addition, bureaus and independent offices should examine whether the proposed evaluation
+is technically feasible, i.e., relevant data can be gathered, fieldwork can be undertaken when
+necessary, and experts are available to conduct it. Moreover, the bureau or independent office
+must consider the availability of funds. Evaluations can be expensive, especially those requiring
+extensive fieldwork overseas. Therefore, if adequate funds are not available, evaluations that
+require considerable funding should be postponed for the next fiscal year. Finally, bureaus and
+offices should take into account political sensitivities and constraints. The consent and support
+of senior officials are necessary in order to undertake evaluations involving highly politically
+sensitive issues. Bureaus and offices should ensure senior-level awareness and clearance of such
+evaluation activities.
+C.
+For specific guidance on when to evaluate a program, please consult the policy guidance.
+Types of Evaluations
+Bureaus and independent offices are free to conduct all kinds of evaluations depending upon their
+needs, resources, and preferences. However, the most common types of evaluations that they conduct,
+or are likely to conduct, include performance evaluations, process evaluations, and outcome/impact
+evaluations. Descriptions of these and other evaluation types may be found in the guidance.
+6 I Page
+Collaborating with Other Bureaus, Offices, Agencies and Organizations on
+Evaluations
+a.
+The evaluation policy recognizes that bureaus and independent offices do not always directly
+implement programs. In many cases, they provide funds to other agencies, operating units, or
+international organizations to carry out a program. In such cases, there are two options:
+1) Ensure the implementing organization carries out evaluations consistent with
+the policy and disseminates a final evaluation report; or
+2) Conduct collaborative evaluations with the implementing partners or
+organizations.
+b. In general, bureaus and independent offices are encouraged to undertake collaborative
+evaluations with other entities, including other bureaus or offices, U.S. government agencies,
+universities and colleges, non-governmental organizations, and bilateral or multilateral partners.
+A collaborative evaluation is one conducted jointly by more than one bureau, office, agency, or
+international partner for which a written agreement defining the roles and responsibilities for
+the collaboration is in place. Collaborative evaluations facilitate mutual learning among
+participating organizations as well as reduce the costs to the bureau or office as they are shared
+among the participating organizations. Under the State Department evaluation policy,
+collaborative evaluations count as one full evaluation toward the policy's evaluation
+requirement for each bureau or independent office that is party to the agreement.
+Evaluation Use
+a. Bureaus and independent offices must consider evaluation findings to make decisions about
+policies, strategies, priorities, and delivery of services, as well as for planning and budget
+formulation processes. For example, evaluation findings should be used to course-correct in
+interim years of a bureau's multi-year strategic plan, or to shape that plan initially.
+b. When planning an evaluation, bureaus and independent offices must develop evaluation
+dissemination plans that delineate all stakeholders and ensure potential users of the evaluation
+will receive copies or have ready access to them. Once the evaluation is completed, bureaus and
+independent offices should respond to evaluation recommendations with a written summary to
+bureau or independent office leadership. This will allow management to discuss the
+recommendations and outline whether they concur, create a plan for implementation, and
+designate a point of contact and timeframe for implementing each recommendation. Bureaus
+and independent offices must monitor their progress on follow-up to the recommendations
+through a document such as a recommendation tracker. The tracking document should be used
+until recommendations are implemented. See the guidance for further details.
+Dissemination Requirements for Evaluations
+a. All bureaus and independent offices must maintain copies of final evaluation reports for
+appropriate dissemination in accordance with policy requirements and the dissemination plan
+for the evaluation and for ongoing learning.
+7 | P a g e
+b.
+Unless reports, statements of work, and summaries of evaluation results are classified, they will
+be posted internally, where they will be accessible to all State bureaus and independent offices
+for discussion and learning.
+C.
+Evaluations that are unclassified, but warrant administrative control and protection from public
+or other unauthorized disclosure, should be marked Sensitive But Unclassified (SBU) in
+accordance with 12 FAM 541. Classified evaluations must be marked with appropriate
+classification markings.
+d. Foreign assistance-funded evaluation reports will be posted publicly within 90 days of
+publication unless they are sensitive, in which case a publishable summary will be posted.
+Classified evaluation reports are exempt from publication.
+e. Consult the guidance for additional information and report templates.
+DATA ANALYSIS AND LEARNING
+a. All bureaus and independent offices - in consultation with posts when applicable - should
+analyze monitoring and evaluation data to gain valuable insight into ongoing progress and
+projected future results that could affect implementation. Before analyzing monitoring data,
+bureaus and independent offices should check it for accuracy and quality, and make
+adjustments or caveats to their use of the data as necessary. Data Quality Assessments
+(DQAs) should be used to confirm the data reported meets the Department data quality
+standards. The Program Design and Performance Management Toolkit provides guidelines,
+examples, and templates for these steps.
+b. Learning takes place when a team engages in thoughtful discussion of information with a
+focus on understanding how and why various aspects of a program, project, or process are
+progressing in order to look for opportunities to make positive changes, and not as an
+opportunity to place blame or impose penalties. Bureaus and independent offices should
+regularly discuss available data to determine whether the right data are being collected to
+inform decisions, or if ongoing monitoring and/or evaluation plans should be modified to
+collect information more useful to decision makers.
+IMPLEMENTATION
+Budgeting For Program Design, Monitoring, and Evaluation Activities
+While acknowledging that the Department may face funding constraints, managers should recognize the
+importance of design, monitoring, and evaluation and identify resources for it. The Department's grant
+and contract regulations allow performance monitoring and evaluation as program or project costs. The
+guidance for 18 FAM 300 provides methodologies for determining program funds to be set aside for
+monitoring and evaluation (M&E) during budget formulation. Appendix D of the Program Design and
+Performance Management Toolkit describes different data collection methods and their relative
+expense.
+8 I P a g e
+Transfer of Foreign Assistance Funds
+a. When a Department of State bureau or independent office transfers foreign assistance
+funds to other federal agencies or institutions, the State bureau or independent office is
+responsible for ensuring the appropriate procedures are in place at the receiving institution
+for managing, monitoring, and evaluating the outcome(s) pertaining to the use of those
+funds commensurate with 18 FAM 301.1-2, 18 FAM 301.1-3, and 18 FAM 301.1-4, and for
+establishing what information the receiving institution must supply to the State Department
+to ensure sound management of the resources. At a minimum, the State Department
+bureau must obtain from the receiving institution records of how the funds were used,
+sufficient monitoring data associated with the funds to determine if adequate progress and
+results are being achieved, and any evaluation findings related to the outcomes achieved
+with the funds.
+b. When foreign assistance funds are transferred to a Department of State bureau or
+independent office from another federal agency or institution, the State bureau or
+independent office must ensure the appropriate procedures for managing the funds in a
+way commensurate with 18 FAM 301.1-2, 18 FAM 301.1-3, and 18 FAM 301.1-4 are
+established and executed.
+Programs or Projects Fully Designed and Managed at Post
+When the responsibility for establishing the goals, objectives, implementation, monitoring, and
+evaluation of programs or projects is held solely at post, the responsibility for executing the
+requirements of 18 FAM 300 rests with post staff, in consultation with the appropriate functional or
+regional bureau.
+9 I Pag e

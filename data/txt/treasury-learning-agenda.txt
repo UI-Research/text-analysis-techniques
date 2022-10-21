@@ -1,0 +1,853 @@
+Treasury FY 2022-2026 Learning Agenda
+FY 2022-2026 Department of the Treasury
+Learning Agenda
+Table of Contents
+What is a Learning Agenda?
+2
+Background
+2
+Approach to Developing Treasury's Learning Agenda
+2
+Linking to Other Learning and Planning Processes
+3
+Section 1: Overview of Treasury's Learning Agenda
+4
+Section 2: Planned Activities for Implementing the Learning Agenda
+8
+Background
+8
+Goal 1: Equitable Economic Growth and Recovery
+8
+Goal 2: Enhance National Security
+13
+Goal 3: Protect Financial Stability and Resiliency
+14
+Goal 4: Combat Climate Change
+15
+Goal 5: Modernize Treasury Operations
+16
+1
+Treasury FY 2022-2026 Learning Agenda
+What is a Learning Agenda?
+Background
+The Foundations for Evidence-Based Policymaking Act of 2018 ("Evidence Act") requires agencies to
+develop an evidence-building plan every four years as part of the agency strategic plan. Referred to as a
+learning agenda, this plan identifies the priority questions that, if addressed, will build evidence useful to
+improving the administration and outcomes of the programs, policies, and regulations of an agency. The
+learning agenda must identify the agency's planned activities to answer these questions as well as the
+data, methods, and analytical approaches that the agency may use to develop evidence and support
+policymaking. In the learning agenda, agencies must also address anticipated challenges to building
+evidence and proposed solutions to those challenges.
+Approach to Developing Treasury's Learning Agenda
+As part of developing the FY 2022-2026 Strategic Plan, Treasury stakeholders identified priority questions
+aligned to strategic objectives where the Department wishes to strategically build evidence through research,
+evaluation, statistics, and analysis to inform decision-making (see Section 1 for an overview of the questions).
+The Department engaged over 200 stakeholders, including policy, program, and management officials,
+subject matter experts, and senior leaders, in drafting the plan. Learning agenda questions, along with other
+strategic plan content, were vetted through bureau and office planning teams, bureau heads, policy office
+leadership, and other key accountable officials including members of Treasury's Data Governance Board.
+In addition, Treasury conducted targeted outreach to external stakeholder groups through its strategic plan
+public engagement efforts to understand how the Department can better strengthen its partnership with the
+public in implementing equitable economic growth and recovery, financial stability, and climate priorities. Of
+the more than 150 comments received, over a third recommended that Treasury engage more actively with
+community-based organizations. Specifically, commenters recommended Treasury increase outreach efforts
+to improve the access of Treasury programs and opportunities in communities that are disproportionately
+impacted by economic and environmental inequities. The feedback emphasized a need for Treasury to focus
+on partnering with trusted community organizations to advance equity in access to financial services and
+recovery program funds, climate initiatives, and overall customer experience. Responses to OMB's Equity
+Request for Information¹ further underscored these recommendations and highlighted the need for
+improved data collection, disaggregation, and data sharing across the federal government. These
+recommendations informed the planning and prioritization of the implementation of the learning agenda
+(see Section 2), particularly for questions and activities around taxpayer experience (Treasury Objective 1.1),
+recovery programs (Treasury Objectives 1.3 and 1.4), climate initiatives (Treasury Objective 4.2), and data
+(Treasury Objective 5.3).
+Finally, Treasury considered the results of surveys, outreach, and other issue-specific external stakeholder
+engagement efforts led by bureaus and offices in the development of the learning agenda questions. For
+example, the IRS developed a bureau-level learning agenda (which informed the Treasury learning agenda)
+using information from external customer survey data, Treasury Inspector General for Tax Administration
+(TIGTA) reports on IRS operations and processes, and Taxpayer Advocate Service (TAS) Most Serious
+Problems documentation. The Office of Recovery Programs (ORP) engaged with federal government
+1 In 2021, as part of efforts to identify methods for assessing and advancing equity through the Federal
+government, OMB issued a Request for Information (RFI) to seek input, information, and recommendations from
+a
+broad array of stakeholders on available methods, approaches, and tools to assess whether agency policies and
+actions equitable serve all individuals and communities, particularly those
+2
+Treasury FY 2022-2026 Learning Agenda
+partners, recipient and grantees, and advocacy groups to inform program design, develop guidance for
+reporting, promote equity in program implementation, and inform evaluation opportunities. As part of the
+annual learning agenda update process, Treasury intends to seek input from external stakeholders, including
+recipient and grantees of Treasury programs, non-governmental researchers, and the communities and
+individuals the Department serves.
+The planned activities described in Section 2 are primarily focused on FY 2022 and FY 2023 and do not
+encompass all ongoing evidence-building activities within the Department's bureaus and offices. As Treasury
+matures its evidence-building capacity, strengthens enterprise-wide coordination of evidence and evaluation
+activities, and builds foundational evidence for each of the priority questions, the learning agenda will be
+updated to include additional planned activities and further discussions on related data, methods, and
+analytical approaches used for answering these questions. Treasury will continue to engage with the
+Department's evidence community, federal partners, and external researchers and evaluators to identify
+additional resources and opportunities to answer the questions in the learning agenda.
+Linking to Other Learning and Planning Processes
+Within Treasury, the Internal Revenue Service (IRS) and the Bureau of the Fiscal Service (Fiscal) have
+developed learning agendas in alignment to their bureau-level priorities and the Treasury Strategic Plan and
+Learning Agenda. Additionally, Treasury's Office of Recovery Programs (ORP) intends to develop a learning
+agenda that complements the Treasury Strategic Plan and their program needs. Other Treasury offices and
+bureaus, including the Office of Economic Policy, Office of Tax Policy, and Office of Financial Research,
+conduct extensive research and analysis activities as their core mission and will be key partners in
+implementing Treasury's Learning Agenda.
+Where possible, this learning agenda identifies opportunities to partner with other agencies to develop
+evidence in support of shared priorities, such as working with the Department of Housing and Urban
+Development to understand the impact of emergency rental and mortgage assistance programs on housing
+stability. Further, we identify areas clearly aligned with efforts underway led by the White House and Office
+of Management and Budget (OMB), including the draft President's Management Agenda (PMA) learning
+agenda, released by OMB for public input in December 2021, and the American Rescue Plan (ARP) Equity
+Learning Agenda. Several of the questions on the draft PMA learning agenda align with Treasury priorities,
+including questions focused on advancing equity (Treasury Objective 1.3), strengthening the Federal
+workforce (Treasury Objective 5.1), and improving customer experience (Treasury Objective 5.4).
+3
+Treasury FY 2022-2026 Learning Agenda
+Section 1: Overview of Treasury's Learning Agenda
+Treasury's mission is to maintain a strong economy by promoting conditions that enable equitable and
+sustainable economic growth at home and abroad, combating threats to, and protecting the integrity of
+the financial system, and managing the U.S. government's finances and resources effectively. For FY
+2022-2026, Treasury has identified five goals and 19 objectives to advance this mission consistent with
+the Biden-Harris Administration's priorities and values.
+Treasury's FY 2022-2026, Strategic Goals:
+1. Promoting equitable economic growth and recovery: We will address systemic issues in the
+financial system, strengthen economic resiliency for all Americans, and partner internationally
+to advance equitable global recovery and sustainable growth.
+2. Enhancing national security: As foreign and domestic actors threaten American economic and
+national security, we will strengthen bi-lateral and multi-lateral partnerships to defeat these
+threats and take a leading role in protecting the U.S. and international financial systems from
+abuse.
+3. Protecting financial stability and resiliency: To improve financial resiliency ahead of the next
+inevitable crisis and reduce associated costs to the economy, we will address vulnerabilities in
+core financial markets through responsible regulatory reforms.
+4. Combatting climate change: We will work alongside our domestic and international partners to
+respond ambitiously to tackle the challenges of climate change, adapt to an already changing
+climate, mitigate the risks, and position the global economy for clean and sustainable growth.
+5. Modernizing Treasury operations: We will focus on a set of enterprise-level improvements to
+improve mission delivery across Treasury, including building and retaining a workforce that
+represents the diverse people and communities the Department serves, enabling work routines
+of the future to respond to lessons learned from the pandemic work environment,
+strengthening decision-making through improved use of data, and increasing trust in
+government by building consistent customer experiences.
+This table on the following page lists all 31 questions identified in the Treasury FY 2022-2026 Strategic
+Plan as the priority questions to address each strategic objective under these five goals. The table also
+notes where questions may be aligned to other learning agendas and where no activities are currently
+planned. Treasury intends to explore additional opportunities to partner with other agencies and
+identify additional resources to fund evidence-building activities in support of these questions.
+4
+Treasury FY 2022-2026 Learning Agenda
+Strategic Objective
+Learning Agenda question
+Planned Activities?
+1.1 Tax
+How can the IRS/TTB address taxpayer needs and
+Planned activities
+Administration and
+preferences to deliver a better taxpayer experience?
+described in Section 2
+Policy
+How can the IRS/TTB simplify interactions for taxpayers,
+No projects identified;
+such as providing more self-service options, improving
+anticipated alignment
+processes for filing, responding to audit notices or
+with PMA learning agenda
+examinations, correcting returns, and remitting payments?
+How can the IRS/TTB use information reporting, artificial
+Planned activities
+intelligence, data, and advanced analytic techniques to
+described in Section 2
+reduce the tax gap, improve compliance, and diminish
+repeat noncompliance?
+To what extent do barriers and bias in the tax code prevent
+Planned activities
+equity and fairness in the administration and enforcement of
+described in Section 2;
+the tax code and access to direct payments?
+anticipated alignment
+with PMA and ARP Equity
+Learning Agendas
+1.3 Economically
+To what extent are American Rescue Plan (ARP) programs
+Planned activities
+Resilient
+being implemented equitably?
+described in Section 2;
+Communities
+What is the impact and/or outcomes of ARP programs on
+anticipated alignment
+households, businesses, and governments?
+with ARP Equity Learning
+Agenda
+What are the impacts and/or outcomes of the Emergency
+Planned activities
+Capital Investment Program, Rapid Response Program, and
+described in Section 2
+Minority Lending Programs on Community Financial
+Development Institutions (CDFIs) or minority depository
+institutions (MDIs)?
+How does the CDFI Fund impact and boost investments in
+No projects identified
+low-income communities in the long term, including
+Persistent Poverty Counties?
+1.4 Resilient Housing
+What strategies deployed in the recovery from COVID-19
+Planned activities
+Market
+best prevented evictions and foreclosures? How can we
+described in Section 2;
+track evictions nationwide?
+anticipated alignment
+with ARP Equity and HUD
+Learning Agendas
+What are strategies to reduce the cost of production or
+No projects identified for
+preservation of affordable housing while still making it high
+FY22-23; anticipated
+quality and resilient to climate change?
+alignment with HUD
+Learning Agenda
+2.1 Cyber Resiliency
+How can Treasury strengthen its situational awareness of
+Planned activities
+of Financial System
+cybersecurity threats in the financial sector and encourage
+described in Section 2
+and Institutions
+greater industry participation in the Office of Cybersecurity
+and Critical Infrastructure Protection (OCCIP) initiatives?
+2.2 Economic
+What would best facilitate cross-Treasury coordination on
+No projects identified
+Measures to Advance
+policy issues that leverages all Treasury tools and authorities
+National Security
+to advance national security objectives?
+5
+Treasury FY 2022-2026 Learning Agenda
+Strategic Objective
+Learning Agenda question
+Planned Activities?
+2.3 Modernizing
+How can Treasury best measure the effectiveness of its
+Planned activities
+Sanctions Regime
+sanctions policies and leverage those insights to design and
+described in Section 2
+implement effective sanctions policies in the future?
+2.4 Transparency in
+How will developments in digital assets and other Fintech
+No projects identified
+the Financial System
+innovations affect illicit finance threats?
+3.1 Financial System
+To what extent did nonbank financial firms and activities
+No projects identified
+Vulnerabilities
+contribute to market stress in March 2020?
+What additional data and analytical methods could be used
+No projects identified
+to improve the monitoring of cyclical vulnerabilities?
+3.2 Resilient
+How can Treasury improve its analysis of evolving securities
+No projects identified
+securities markets
+markets, and how should it consider various tradeoffs when
+making recommendations to improve their resiliency?
+3.3 Financial
+How is Treasury currently using artificial intelligence,
+No projects identified
+innovation
+machine learning models, and alternative data in financial
+services (e.g., underwriting) and what further guidance,
+oversight, or regulation might be necessary to enable
+innovation that better serves and protects consumers?
+How can Treasury improve the delivery of government
+Planned activities
+payments to hard-to-reach populations (e.g., unbanked)?
+described in Section 2;
+anticipated alignment
+with PMA learning agenda
+What are the risks and opportunities regarding the use of
+No projects identified
+technology by financial institutions (regtech) and by the
+official sector (suptech) to conduct compliance and oversight
+functions?
+4.2 Climate
+How does Treasury ensure climate policies protect
+Planned activities
+Incentives and
+communities disproportionately impacted by climate-related described in Section 2
+Investments
+risk?
+4.4 Sustainable
+How can Treasury most effectively build capacity and
+No projects identified
+Treasury Operations
+climate literacy for climate adaption and sustainable
+operations?
+Which professional communities of interest and
+No projects identified
+organizations should be prioritized for rebuilding climate
+change expertise?
+What investments does Treasury need to make to address
+Planned activities
+Treasury's climate vulnerabilities, and how much will it cost?
+described in Section 2
+5.1 Recruit and
+How can Treasury increase representation with respect to its
+No projects identified;
+Retain a Diverse &
+public-facing call-center workforce?
+anticipated alignment
+Inclusive Workforce
+To what extent has increased diversity in management and
+with PMA learning agenda
+leadership positions influenced organizational performance
+or improved employees' sense of inclusion?
+6
+Treasury FY 2022-2026 Learning Agenda
+Strategic Objective
+Learning Agenda question
+Planned Activities?
+5.2 Future Work
+How are Treasury's customers' needs changing, how are
+Planned activities
+Routines
+employee needs changing, and how do you foster innovation
+described in Section 2;
+and collaboration in a hybrid organization?
+anticipated alignment
+with PMA learning agenda
+5.3 Better Use of
+How can Treasury combine its debt portfolio data with
+No projects identified;
+Data
+disaggregated demographic data to inform equity
+anticipated alignment
+assessments?
+with PMA learning agenda
+What are ways to improve data collection, use, and sharing
+in order to improve Treasury's ability to deliver services and
+make programmatic and policy decisions more equitably?
+5.4 Customer
+What are effective strategies for serving hard to reach
+No projects identified;
+Experience Practices
+customers, particularly those who lack access to reliable
+anticipated alignment
+internet, banks/financial institutions, and the credentials
+with PMA learning agenda
+required to verify their digital identity?
+What is the right beacon metric for measuring customer
+Planned activities
+experience for the department?
+described in Section 2
+7
+Treasury FY 2022-2026 Learning Agenda
+Section 2: Planned Activities for Implementing the Learning Agenda
+Background
+For 14 of Treasury's 31 learning agenda questions, we have identified planned activities for FY 2022 and
+FY 2023, described in this section. These activities do not reflect all evidence-building activities carried
+out within the Department. As Treasury matures its enterprise-wide evidence capacity, including
+governance processes, the learning agenda will be updated with additional identified plans. The tables
+below describe the planned activities for these prioritized questions, including high level information,
+where possible, on data, methods, analytical approaches, and anticipated challenges.
+Goal 1: Equitable Economic Growth and Recovery
+Strategic Objective 1.1: Tax Administration and Policy
+Enhance tax compliance and service; improve tax policy design.
+How can the IRS/TTB address taxpayer needs and preferences to deliver a better taxpayer experience?
+Lead: Internal Revenue Service (IRS)
+Support: Alcohol and Tobacco Tax and Trade Bureau (TTB)
+Background
+The IRS seeks to improve taxpayer experience through a strategy that incorporates leading
+practices of customer service and ultimately creates a proactive, convenient, seamless,
+personalized, and effective interaction for taxpayers. As reflected in the 2021 Taxpayer
+First Act report to Congress, the IRS has developed a six-pillar strategy for improving
+taxpayer experience over the next 10 years. The IRS conducted in-depth research and
+devoted months to engaging a wide array of stakeholders to develop this strategy. As the
+IRS implements this strategy, it plans to continue an evidence-based approach that
+includes research and analysis projects on taxpayer experiences and strengthened data
+and analytics capabilities to promote an agency-wide understanding of taxpayer
+experience and emerging needs and expectations.
+Planned
+The IRS is working to understand the most effective methods to measure taxpayer needs
+Activities
+and preferences and will subsequently seek to address these needs. In FY23, the IRS is
+planning four projects in FY23 which are focused on establishing, baselining, and
+strengthening measures of taxpayer needs and preferences to identify opportunities to
+deliver a better taxpayer experience. Activities 2-4 are included in Treasury's FY 2023
+Evaluation Plan.
+Activity #1
+Business Online Account (BOLA) Foundational Research: The IRS will analyze phone call
+records, user engagement/interactions, CSAT surveys, behavioral insights, and interviews
+to understand challenges business taxpayers face, and map the online account customer
+journey. A challenge associated with this project is the need for a viable process for
+authorizing an individual to act on behalf, and the IRS will work to address this in
+developing a comprehensive BOLA product and experience. The IRS also anticipates
+resource challenges to implementing improvements to the BOLA product and experience
+but intends to use this research to understand which online account product features or
+services would greatly improve the business taxpayer experience and prioritize
+investments accordingly.
+Activity #2
+Taxpayer Experience Analytics: The IRS will use Natural Language Processing techniques
+and machine learning to analyze customer experience data, including individual master
+file, notice delivery system, online services, and survey data, to identify opportunities to
+improve taxpayer experience and for process improvements. The IRS anticipates
+8
+Treasury FY 2022-2026 Learning Agenda
+challenges related to the pros and cons of each machine learning technique and will work
+to compare techniques using common objectives and criteria. Additionally,
+implementation of recommendations for process improvements would require buy-in
+from multiple stakeholders and often requires changes to established processes,
+procedures, and training, furthering the need for a robust evidence base prior to adopting
+any recommended process improvements.
+Activity #3
+Customer Callback Expansion: The IRS will evaluate the effects of Customer Callback (CCB)
+and opportunities to gather feedback and maximize the expanded use of CCB to improve
+taxpayer experience by monitoring performance trends and measuring progress of CCB
+applications deployed against IRS Modernization Plan reportable measures and industry
+benchmarks for Key Performance Indicators (KPIs). Anticipated challenges include limited
+implementation bandwidth and limited CCB offerings, difficulty managing parallel evolving
+design applications and infrastructure upgrades, and variation in CCB acceptance based on
+individual customer behavior.
+Activity #4
+Customer Expectation Surveys: The IRS will use surveys, focus groups, and behavioral
+insights to understand current customer experience and needs and expectations of SB/SE
+taxpayers and tax professionals. This will include the 2022 Customer Expectations,
+Experience, and Needs (CEEN) survey for small business and self-employed taxpayers and
+the 2023 Tax Professional Engagement Survey for the tax professional community.
+Gathering data from a representative sample of SB/SE taxpayers and practitioners can be
+challenging, meaning data gathered may need to be treated as directional and qualitative,
+rather than quantitative.
+How can the IRS/TTB use information reporting, artificial intelligence, data, and advanced analytic
+techniques to reduce the tax gap, improve compliance, and diminish repeat noncompliance?
+Lead: Internal Revenue Service (IRS)
+Support: Alcohol and Tobacco Tax and Trade Bureau (TTB)
+Background
+Improving compliance with the tax code and reducing the tax gap, defined as the amount
+of true tax liability that is not paid voluntarily and timely, are critical to the IRS's mission
+and vision of enforcing the law with integrity and fairness and upholding the integrity of
+the nation's tax system. The IRS seeks to take full advantage of advances in technology to
+inform decision-making and improve operational outcomes. The IRS's Research, Advanced
+Analytics, and Statistics (RAAS) group also coordinates with the Alcohol and Tobacco Tax
+and Trade Bureau (TTB) to apply leading practices and learnings from IRS projects to TTB's
+tax administration and enforcement activities.
+Planned
+The IRS is planning four projects in FY23 which will involve using new data or analytic
+Activities
+advances to identify emerging noncompliance issues and address the tax gap.
+Activity #1
+Negative Capital Accounts Validation: The IRS will build a dataset using existing e-filed
+partnership returns to investigate negative capital accounts. The IRS will build a dataset
+with partnership information and use the dataset to look at partnerships in a holistic way.
+Activities will focus on understanding how the IRS can use available data to better
+understand partnership, estimate a partner's outside basis and at-risk amount, and
+enhance partnership workload selection for Small Business/Self-Employed (SB/SE) and
+Large Business & International (LB&I) division audits. Anticipated challenges include
+managing and analyzing data which may be difficult to separate, merge, and reconcile,
+which may contribute to difficulty distinguishing legitimate from illegitimate negative
+capital accounts using the return data alone.
+9
+Treasury FY 2022-2026 Learning Agenda
+Return Preparer Scoring Model: The IRS will explore opportunities to develop a model to
+sort return preparers into different treatment streams and rank preparers for
+egregiousness within treatment streams. The IRS will use the return preparer database
+and preparer-level data and unsupervised soft clustering approaches to find meaningful
+and interpretable preparer clusters. The IRS anticipates difficulty producing interpretable
+results and reaching conclusions due to varying standards of egregiousness and the size of
+treatment streams.
+Big Data Analytics and IRS Criminal Investigation: The IRS will explore opportunities to use
+Big Data Analytics and artificial intelligence to improve selection of potential criminal
+cases, drive field office level criminal tax case selection strategies, and drive other
+actionable insights. Challenges to this project include identifying, obtaining, staging, and
+integrating the necessary and appropriate datasets, including external data sources, and
+assessing model fairness, bias, and disparate impact. The IRS will also work to determine
+the appropriate way of communicating the insights from the project.
+Exempt Organization Noncompliance Initiative: The IRS will leverage existing data sources
+and data provided to other agencies (including Suspicious Activity Reports (SARs) filed with
+the Financial Crimes Enforcement Network (FinCEN), Small Business Administration (SBA)
+Paycheck Protection Program (PPP) loan information, and data from pay.gov) to explore
+opportunities to use analytic approaches and tools to identify fraud in the exempt
+organization space and identify lessons learned to further refine its approach. Anticipated
+challenges include coordination and communication between IRS divisions, data
+limitations, data storage and access, and employee resources and expertise.
+Are there barriers and bias in the tax code that prevent equity and fairness in administration and
+enforcement of the tax code or access to direct payments?
+Lead: Departmental Offices (Office of Tax Policy)
+Support: Internal Revenue Service (IRS)
+Background
+In 2020 and 2021, the Treasury Department, the Bureau of the Fiscal Service, and the
+Internal Revenue Service (IRS) rapidly sent out three rounds of direct relief payments
+during the COVID-19 crisis, and payments from the third round continue to be disbursed to
+Americans. These stimulus payments provided Americans with relief from the pandemic,
+putting money directly into their bank accounts so that they can pay bills, put food on
+their tables, and otherwise provide for their families. Most of the EIPs were provided
+automatically to those whose eligibility could be determined using tax return information
+from prior years. But this strategy alone would have left out millions of Americans because
+many lower-income individuals-amon whom people of color are disproportionately
+represented-ar not required to file tax returns. To address this challenge, Treasury and
+the IRS partnered with other federal agencies and community organizations-and
+conducted significant outreach-ultimately making more than 26 million payments to
+those who did not file tax returns in 2019 or 2020.
+Planned
+Treasury's Office of Tax Policy (OTP), with support from the IRS Research, Applied
+Activities
+Analytics and Statistics (RAAS) Division, is examining whether and how eligible adults and
+families received an Economic Impact Payment (EIP), and is estimating equity impacts of a
+letter campaign about such payments. Once this work is completed, OTP plan to publish
+statistics on the composition of EIP recipients, including estimates of race and ethnicity
+and other demographic characteristics. As with all research using tax data, this report will
+carefully follow long-standing data protection protocols to prevent disclosure of taxpayer
+10
+Treasury FY 2022-2026 Learning Agenda
+information. OTP hopes to have results on the first and second round of EIPs in 2022, with
+results on the third round in 2023.
+Strategic Objective 1.3: Economically Resilient Communities
+Promote equitable financial recovery and growth through support and flow of capital to small businesses,
+industry, households, and communities.
+To what extent are American Rescue Plan (ARP) programs being implemented equitably? What is the
+impact of ARP programs on households, businesses, and governments?
+Lead: Departmental Offices: Office of Recovery Programs (ORP)
+Support: Departmental Offices: Office of Economic Policy (EP)
+Background
+Treasury is currently engaging with internal and external stakeholders for ORP programs to
+understand the most relevant and urgent questions around topics including federal
+emergency program stand-up, promoting equity at the state and local government level,
+and maximizing program outcomes while mitigating barriers to access and undue burden
+on program participants. The ORP Learning Agenda will include questions focused on
+specific programs authorized by the American Rescue Plan (ARP), the Consolidated
+Appropriations Act of Fiscal Year 2021, and the Coronavirus Aid, Relief, and Economic
+Security (CARES) Act, as well as questions about the broader impact of recovery programs
+that will generate evidence to inform future economic recovery and growth efforts.
+Further, the ARP Implementation Team is developing an ARP Equity Learning Agenda,
+which provides an overarching framework to guide the understanding of ARP investments
+on questions of equity, including Treasury questions.
+Planned
+In FY22 and FY23, Treasury intends to conduct initial descriptive analyses to understand
+Activities
+the geographic and demographic distribution of funds. Treasury is working to identify and
+prioritize evaluation questions for each program, including questions such as:
+How equitable was the distribution of program funds?
+What are the effects of funds on priority outcomes?
+How did technical assistance and outreach efforts affect program implementation
+and equity in distribution of funds?
+In addition to program-specific questions, Treasury is interested in looking across recovery
+programs to understand how funds overlapped in certain areas or how programs may have
+interacted to contribute to priority outcomes. Treasury will examine how the Department's
+levers or tools can incentivize grantees to focus on the priority efforts of 1) ensuring funds
+are allocated to communities with the most demonstrated needs and 2) removing barriers
+to receiving the funds for low-income communities and communities of color.
+The Office of Economic Policy (EP) is responsible for analyzing and reporting on current and
+prospective economic developments in the U.S. economy and assisting in the
+determination of appropriate economic policies. Since the beginning of the COVID-19
+pandemic, EP has conducted evaluations, analysis, and research to develop evidence and
+inform decision-making for recovery programs. In FY 2022 and FY 2023, EP will conduct
+descriptive and impact evaluations to answer the questions identified above. Additionally,
+Treasury is working with the General Services Administration (GSA)'s Office of Evaluation
+Sciences to identify potential evaluations to answer short-, medium-, and long-term
+priority questions. Treasury is also exploring opportunities to leverage Federal resources
+(including the ARP National Evaluation contract) and to partner with external researchers
+11
+Treasury FY 2022-2026 Learning Agenda
+to evaluate the impact of ARP programs by answering the questions included above, in the
+ORP Learning Agenda, and the ARP Equity Learning Agenda.
+What are the impacts and/or outcomes of the Emergency Capital Investment Program (ECIP), Rapid
+Response Program, and Minority Lending Programs on Community Financial Development Institutions
+(CDFIs) or minority depository institutions (MDIs)?
+Lead: Departmental Offices: Office of Domestic Finance (DF) and the Community Development Financial
+Institutions (CDFI) Fund
+Background
+The Consolidated Appropriations Act of FY 2021 provided $12 billion of emergency support
+for CDFIs and Minority Depository Institutions (MDIs) to help communities respond to the
+economic hardships created by the COVID-19 pandemic. The CDFI Rapid Response Program
+(RRP) provided $1.25 billion in emergency funding which was distributed rapidly and
+broadly to address immediate needs in response to the pandemic. The Emergency Capital
+Investment Program (ECIP) invests $9 billion in CDFIs and MDIs, supporting their efforts to
+provide loans, grants, and forbearance for small and minority-owned businesses and
+consumers in low-income and underserved communities. The authorizing statute also
+required that the Secretary of the Treasury conduct a study of the impact of the programs
+on low- and moderate-income and minority communities.
+Planned
+By June 2022, Treasury will conduct and deliver to Congress an initial exploratory
+Activities
+evaluation to describe how funding from the ECIP and CDFI RRP programs was distributed
+among participating institutions and the communities they serve, including low- and
+moderate-income and minority communities, and to observe program outcomes that can
+inform the design of a robust impact evaluation. Treasury has partnered with the General
+Services Administration (GSA)'s Office of Evaluation Sciences (OES) to conduct this initial
+exploratory evaluation and to identify opportunities for impact evaluations of these
+programs. OES will analyze data from ECIP and RRP applications and awards as well as
+recent historical CDFI data, including consumer loan reports, transaction level reports,
+annual certification reports, and certification applications, to examine the distribution of
+program funds to low-and moderate-income communities. To the extent possible, the
+analysis will be disaggregated by ethnic group. Following the initial study, Treasury will
+consider opportunities for evaluation approaches and methods based on OES's
+understanding of available data and potential for causal inference.
+Strategic Objective 1.4: Resilient Housing Market
+Together with HUD and other federal agencies, promote a stable and resilient housing market that expands
+fair and equitable access to homeownership and affordable rental opportunities and protects taxpayers.
+What strategies deployed in the recovery from COVID-19 best prevented evictions and foreclosures? How
+can we track evictions nationwide?
+Lead: Departmental Offices: Office of Recovery Programs (ORP) and Domestic Finance (DF)
+Support: Departmental Offices: Office of Economic Policy (EP)
+Background
+The Consolidated Appropriations Act of 2021 charged Treasury with administering the
+Emergency Rental Assistance (ERA), which provides up to $25 billion in funds to assist
+households that are unable to pay rent or utilities. The American Rescue Plan (ARP)
+provided an additional $21.55 billion in ERA funds. Additionally, ARP authorized the
+Homeowner Assistance Fund (HAF) and provided nearly $10 billion for state, territorial,
+and Tribal governments to provide relief to vulnerable homeowners to prevent mortgage
+delinquencies and defaults, foreclosures, loss of utilities or home energy services, and
+displacement of homeowners experiencing financial hardship. In FY 2021 and FY 2022,
+Treasury issued guidance and published promising practices to encourage recipient
+12
+Treasury FY 2022-2026 Learning Agenda
+governments to remove barriers that prevent participants or beneficiaries from accessing
+relief funds.
+Planned
+Treasury intends to assess equity in program implementation and evaluate program
+Activities
+outcomes for both ERA and HAF. Treasury is exploring the feasibility of a descriptive
+analysis to understand where ERA and HAF funds were distributed and will evaluate the
+effect of funds on financial, income, and housing stability.
+Additionally, Treasury seeks to understand how the strategies deployed in the recovery,
+including strategies adopted by Treasury in implementation of the ERA and HAF programs
+and strategies that Treasury encouraged grantees to adopt, prevented evictions and
+foreclosures. Treasury is exploring opportunities to engage with federal partners, including
+HUD, to conduct evaluations of the emergency housing programs to inform future
+recovery efforts. In the short-term, Treasury will focus on understanding the effectiveness
+of strategies to prevent evictions and foreclosures. In the medium- and long-term,
+Treasury may explore how the results of these evaluations may inform considerations for
+the development of a national eviction prevention infrastructure.
+Goal 2: Enhance National Security
+Strategic Objective 2.1: Cyber Resiliency of Financial Systems and Institutions
+Harden assets and systems of Treasury and the broader financial system to promote financial system
+resiliency.
+How can Treasury strengthen its situational awareness of cybersecurity threats in the financial sector and
+encourage greater industry participation in the Office of Cybersecurity and Critical Infrastructure
+Protection (OCCIP) initiatives?
+Lead: Departmental Offices: Office of Domestic Finance, Office of Cybersecurity and Critical Infrastructure
+Protection (OCCIP)
+Background
+Treasury Office of Cybersecurity and Critical Infrastructure Protection (OCCIP) coordinates
+the Department's efforts to enhance the security and resilience of financial services sector
+critical infrastructure and reduce operational risk. The office works closely with financial
+sector companies, industry groups, and government partners to share information about
+cybersecurity and physical threats and vulnerabilities, encourage the use of baseline
+protections and best practices, and respond to and recover from significant incidents.
+Planned
+OCCIP seeks to strengthen its threat sharing and risk assessment programs in the coming
+Activities
+years. In FY21, OCCIP engaged with Treasury's Federally Funded Research and
+Development Center operated by MITRE to assess innovative information-sharing
+paradigms that advance mission performance and enhanced Financial Services Sector
+resiliency from cyber and all-hazards threat. MITRE's research focused on potential
+approaches to enhance its situational awareness of cybersecurity threats by driving
+information-sharing and encouraging greater industry participation in OCCIP initiatives.
+MITRE interviewed industry stakeholders and leading practices for information-sharing
+and Public-Private Partnerships (PPPs), ultimately developing a Simplified Alternatives
+Analysis framework and providing preliminary recommendations for OCCIP to implement
+to gain stakeholder support. In FY 2022 and FY 2023, OCCIP intends to continue building
+upon this research and exploring opportunities to implement these recommendations.
+Strategic Objective 2.3: Modernize Sanctions Regime
+Modernize the development, implementation, enforcement, and maintenance of U.S. sanctions to ensure
+that sanctions remain a streamlined and effective foreign policy and national security tool.
+13
+Treasury FY 2022-2026 Learning Agenda
+How can Treasury best measure the effectiveness of its sanctions policies and leverage those insights to
+design and implement effective sanctions policies in the future?
+Lead: Departmental Offices: Office of Terrorism and Financial Intelligence
+Background In 2021, Treasury conducted a broad review of the economic and financial sanctions that it
+administers and enforces and issued recommendations to preserve and enhance their
+effectiveness in supporting national security and U.S. interests now and in the future2.
+Treasury's review engaged hundreds of sanctions stakeholders, including former Treasury
+officials from both parties; key interagency partners including the Department of State,
+Department of Justice, and USAID; Members of Congress and their staffs; small and large
+commercial businesses and financial institutions; academics; non-governmental
+organizations; and the governments of our allies and partners abroad. Treasury's review
+found that while sanctions remain an essential and effective policy tool, they also face new
+challenges including rising risks from new payments systems, the growing use of digital
+assets, and cybercriminals, as well as situations where careful calibration can help limit the
+impact of sanctions on the flow of legitimate humanitarian aid to those in need.
+Planned
+Treasury will conduct additional evidence-building work to support implementation of the
+Activities
+recommendations included in the 2021 Sanctions Review.
+Goal 3: Protect Financial Stability and Resiliency
+Strategic Objective 3.3: Financial Innovation
+Encourage responsible financial sector innovation.
+How can Treasury improve the delivery of government payments to hard-to-reach populations (e.g.,
+unbanked)?
+Lead: Departmental Offices: Office of Domestic Finance
+Support: Bureau of the Fiscal Service
+Background
+Treasury seeks to promote a financial system that delivers inclusive access to financial
+services that effectively meet the needs of market participants while maintaining financial
+stability and market integrity. Emerging financial technologies have accelerated aspirations
+for a more equitable and inclusive financial system. Many innovations in digital finance
+(e.g., digital currency) remain nascent, with risks and benefits yet to be assessed. But the
+Department can and should do more to reach those whose financial needs remain unmet
+by the financial services sector. Expanding access to digital financial services (payments,
+credit, saving, insurance) is a key component to increasing financial inclusion, domestically
+and internationally. Treasury should encourage the responsible use of innovative financial
+technology, both across the financial sector and in its own programs, to deliver affordable
+and secure financial services that better serve consumers and small businesses. Failing to
+do so could result in financial regulation becoming unresponsive to the needs and
+expectations of the public. Treasury seeks to improve delivery of payments to the public
+by leveraging private sector technology. Treasury's commitment to transition to electronic
+payments from physical payments (e.g., checks) has the potential to advance both its
+financial inclusion and net-zero carbon goals.
+Planned
+The Office of Domestic Finance and the Bureau of the Fiscal Service are planning several
+Activities
+activities to develop evidence around barriers to receiving government payments and
+opportunities for improving efficiency while maintaining payment integrity and
+accessibility. The Bureau of the Fiscal Service led an Agency Priority Goal (APG) in FY 2020
+and FY 2021 aimed at increasing electronic payments and will continue to explore
+2
+Treasury 2021 Sanctions Review
+14
+Treasury FY 2022-2026 Learning Agenda
+opportunities to increase electronic payments and the efficiency and security of Treasury-
+disbursed payments through another APG and research and evaluation projects. In FY
+2022 and FY 2023, Fiscal Service will lead an APG focused on creating a modern, seamless,
+inclusive, and secure Federal payment experience for the public that meets customer
+needs while reducing costs, expanding financial inclusion, and improving climate
+sustainability. As it works to achieve this APG and improve the delivery of government
+payments to hard-to-reach populations, Fiscal Service will work to build evidence in
+support of this learning agenda question.
+Goal 4: Combat Climate Change
+Strategic Objective 4.2: Climate Incentives and Investments
+Create and promote incentives and policies for the private sector to invest in climate-friendly and resilient
+projects and activities.
+How does Treasury ensure climate policies protect communities disproportionately impacted by climate-
+related risk?
+Lead: Departmental Offices: Office of Economic Policy and Office of Domestic Finance
+Background
+Climate-related financial risks may affect financial stability and the broader economy, but
+there are challenges in assessing such risks and in evaluating the need to mitigate such
+risks. Executive Order 14030, Climate-Related Financial Risk³, calls for action across the
+Executive Branch to assess and mitigate such risks in coordination with the independent
+financial regulatory agencies. Necessary steps include developing and executing
+approaches to measure and monitor impacts on the financial sector, government,
+businesses, and households. Addressing these issues will ensure that investors and
+institutions can appropriately gauge climate-related investment risks and opportunities
+and that such risks are not amplified by adverse developments within the financial sector
+or government budget.
+Treasury, in its leadership role on the Financial Stability Oversight Council (FSOC) and the
+Financial Literacy and Education Commission (FLEC), seeks to advance climate priorities,
+including strengthening disclosures of climate-related financial risks and transitioning
+away from fossil fuels, while ensuring that climate policies and investments are designed
+to protect the economy from the impacts of climate change and do not disparately impact
+low-income communities and communities of color.
+Planned
+Treasury is working to better understand financial risks to households, especially in low-
+Activities
+income and historically disadvantaged communities, posed by climate change and climate
+transition. In October 2021, the FLEC launched an effort to study the impact of climate
+change on households and communities. This effort is part of the Biden-Harris
+Administration's whole-of-government approach to tackling climate change and will bring
+together all FLEC agencies, and additional agencies, to write a comprehensive report with
+the goal of identifying priority policy actions to increase household and community
+financial resiliency. The report will explore financial risks to households and communities,
+especially low-income and historically disadvantaged communities, of climate change and
+climate transition. The FLEC will work to develop an understanding of:
+How households, communities, and the smallest businesses experience financial
+resilience in the face of climate change and climate transition, supported by
+resilience-supporting financial products and financial infrastructure supporting
+environments.
+3
+Executive Order 14030, Climate-Related Financial Risk
+15
+Treasury FY 2022-2026 Learning Agenda
+How to map climate-related financial risks, and identify which groups and regions
+will be most impacted; and
+What tools and best practices could be effective at addressing risks and
+vulnerabilities and how to implement them equitably.
+Strategic Objective 4.4: Sustainable Treasury Operations
+Improve the Department of the Treasury's overall environmental and energy sustainability and invest in
+Treasury Bureaus' adaptation and resiliency efforts to address climate change impacts on operations and
+services.
+What investments need to be made to address Treasury's climate vulnerabilities and how much will it
+cost?
+Lead: Departmental Offices: Office of Management
+Background
+Executive Order 14008, Tackling the Climate Crisis at Home and Abroad4, identifies the
+immediate need for comprehensive action to address the catastrophic impacts of climate
+change. It emphasizes that U.S. leadership-and that of federal agencies-wil be required
+to significantly enhance global action and achieve the necessary policy outcomes on
+climate change. Treasury is committed to using its broad and far-reaching policy influence
+to lead and support implementation of this EO and identify the actions and investments
+Treasury must take to address the department's vulnerabilities.
+Planned
+Treasury's Climate Action Plan includes an initial assessment of Treasury's vulnerability to
+Activities
+climate change effects and a strategy for identifying and building climate resilience at
+Treasury facilities and in critical supply chains, to effectively sustain Treasury's mission.
+Treasury is working to evaluate and assess the ongoing risks from climate change, identify
+primary vulnerabilities and prospective impacts to Treasury operations and mission-
+related functions, including its international work, and to implement effective planning.
+Treasury's policy also directs Treasury bureaus to integrate climate change adaptation
+planning and actions into their programs, policies, and operations.
+Goal 5: Modernize Treasury Operations
+Strategic Objective 5.2: Future Work Routines
+Transform the Department's work routines to support changing mission and workforce needs.
+How are our customers' needs changing, how are employee needs changing, and how do you foster
+innovation and collaboration in a hybrid organization?
+Lead: Departmental Offices: Office of Management
+Background
+The convergence of the COVID-19 pandemic and climate crisis has resulted in a critical
+decision point for Treasury about its long-term physical, IT, and human capital
+infrastructure. Treasury has an integrated vision for transforming work routines to support
+changing mission and workforce needs and the needs of the agency's customers. To
+achieve this integrated vision, Treasury must modernize the Department's workplace
+infrastructure and work routines to meet a "whole person" culture, maintain
+competitiveness, and enable a "new normal" for an engaged and inclusive workforce of
+the future.
+Planned
+Treasury seeks to understand how customer and employee needs are changing and is
+Activities
+working to foster innovation and collaboration in an environment that is continuously
+transforming. Treasury's Office of Management has launched surveys and focus groups to
+4
+Executive Order 14008, Tackling the Climate Crisis at Home and Abroad
+16
+Treasury FY 2022-2026 Learning Agenda
+increase its understanding of employee needs throughout the COVID-19 pandemic.
+Several bureaus are also establishing pilots and demonstration projects to evaluate new
+work arrangements and workplace designs such as remote work and hoteling.
+Management, in coordination with bureau leadership and the human capital, information
+technology, and operations communities, is working to integrate the results of outreach
+efforts and leading practices across government to shape future planning.
+Strategic Objective 5.4: Customer Experience Practices
+Mature and embed strong customer experience practices across the Department, establishing Treasury's
+reputation for consistently positive experiences.
+What is the right beacon metric for measuring customer experience for the department?
+Lead: Departmental Offices: Office of Management
+Background
+Treasury's bureaus and offices serve a wide range of customers including American
+households, the financial sector, state and local governments, and other federal agencies.
+Since 2018, the IRS has been designated as a federal High Impact Service Provider (HISP)5
+and has developed annual action plans to improve customer experience and performance
+of designated services. In 2022, Treasury was also designated as a HISP at the department
+level. In response to the designation and to Treasury leadership identifying Maturing
+Customer Experience Practices as a strategic objective, Treasury formed an enterprise-
+level customer experience (CX) leadership team consisting of senior officials from
+Treasury's bureaus and offices and is working to develop a broader CX Community of
+Practice to promote successful adoption of CX practices through collaboration and
+information sharing. While components of Treasury have invested in developing evidence
+around bureau- or office-specific customer experience metrics, Treasury currently lacks
+enterprise-wide metrics for measuring customer experience for the Department.
+Planned
+The leadership team, with the support of the Community of Practice, will conduct an
+Activities
+annual enterprise wide CX capacity assessment and action planning. As part of these
+efforts to mature enterprise level CX practices, these groups will work to identify and
+operationalize potential metrics that can be used to consistently measure CX across the
+department.
+5 Performance.gov - Department of the Treasury
+17

@@ -1,0 +1,832 @@
+USA
+Social Security Administration (SSA)
+Equity Action Plan in Agreement with EO 13985
+February 10, 2022
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Table of Contents
+Executive Summary
+2
+Summary of Early Accomplishments
+4
+Areas of Focus
+9
+Action Plan to Identify Inequities in Our Programs and Services
+9
+Action Plan to Identify and Address Systemic Barriers to Program Participation
+11
+Action Plan to Ensure Equitable Service for Unrepresented Claimants in the Disability
+Application Process
+14
+Action Plan to Increase Gender Equity and Equality in Our Programs
+17
+Action Plan to Increase Equitable Access to Our Research Grants and Procurement Opportunities
+for Historically Black Colleges and Universities, Minority Serving Institutions, and Small and
+Disadvantaged Businesses
+19
+Conclusion
+21
+1
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Executive Summary
+Social Security is the nation's largest federal program, serving as an insurance program and
+safety net for millions of people. Our vision is to provide income security for the diverse
+populations we serve, including those in underserved communities, 1 people with disabilities,
+workers, and their families. Our intent is to serve all who are eligible for our programs.
+However, the design of our administrative system can pose barriers to people who have few
+resources and may need our programs the most. To reduce barriers in our administrative system,
+we will increase collection of race and ethnicity data to determine whether our programs are
+equitably serving our applicants and beneficiaries, revise our policies and practices to expand
+options for service delivery, ensure equitable access to unrepresented claimants in the disability
+application process, decrease burdens for people who identify as gender diverse or transgender in
+the Social Security Number card application process, and increase access to our research grant
+programs for Historically Black Colleges and Universities and Minority Serving Institutions and
+procurement opportunities for small and disadvantaged businesses.
+Since 1987, there has been a huge decline in race and ethnicity data in our records. This makes it
+more difficult for us to monitor the fair treatment of people of color in our programs. To
+determine whether administrative barriers disproportionately affect some groups more than
+others, we will increase the collection of the race and ethnicity of the people participating in our
+programs.
+The process of applying for our programs and services was initially designed to be carried out
+primarily in-person due to the difficulty and length of the Supplemental Security Income (SSI)
+program application. Although we have more than 1,200 field offices across the country, people
+in rural areas and on Native American reservations may not have a field office nearby or may
+have limited transportation options to travel to a field office that is far away. Further, people
+who work in jobs that do not provide paid leave may lose earnings if they take time off to come
+to a field office. People of color and women are disproportionately likely to hold jobs that do not
+provide benefits such as paid leave. This adds a greater barrier to accessing our programs. To
+improve access to our programs and services, we are reducing the need for in-person visits
+through simplified, online applications and expansion of online and telephone services.
+Claimants applying for Disability (DI) or SSI Disability must obtain and submit many
+documents, including medical evidence. Some claimants get attorney or non-attorney
+representatives to assist with this process. However, representatives' fees are based on awarded
+1
+Executive Order No. 13985, 86 FR 7009 (January 20, 2021). Advancing Racial Equity and Support for Underserved
+Communities Through the Federal Government. The Executive Order defines the term "underserved communities" as
+populations sharing a particular characteristic, as well as geographic communities, that have been systematically denied a full
+opportunity to participate in aspects of economic, social, and civic life such as Black, Latino, and Indigenous and Native
+American persons, Asian Americans and Pacific Islanders and other persons of color; members of religious minorities; lesbian,
+gay, bisexual, transgender, and queer (LGBTQ+) persons; persons with disabilities; persons who live in rural areas; and persons
+otherwise adversely affected by persistent poverty or inequality.
+2
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+back benefits. This is a disincentive for representing SSI Disability applicants in favor of DI
+applicants, whose benefits are typically higher. There is evidence that although African
+American people are more likely to have a disability², they are less likely to be approved for
+disability benefits than White people. 3 Considering this, we will assess whether African
+American claimants are less likely to have a representative than White claimants, research
+whether claimants who have representatives are more likely to receive disability benefits, reach
+out to claimants who do not have representatives to prepare them for their disability hearings and
+inform them of their right to representation, and work with professional associations of
+representatives to create incentives to increase their representation of disability program
+applicants.
+An additional administrative challenge is that our forms (e.g., Application for a Social Security
+Card) provide for a sex designation to identify only as either male or female. This can pose
+burdens for people who identify as gender-diverse or transgender.4 We also require people
+to
+provide legal or medical documentation to change their sex designation on our records. To
+reduce these administrative burdens, we will explore self-attestation to change a person's sex
+designation on our records without requiring legal or medical documentation.
+Finally, the share and dollar amount of research contracts and grants that go to Historically Black
+Colleges and Universities (HBCUs) and Minority Serving Institutions (MSIs5 is
+disproportionately low. We plan to expand our engagement with these institutions and increase
+opportunities to support research aligned with our DI and SSI programs and the diverse
+populations we serve. We also want to strengthen our ties and promote our contracting
+opportunities to small and disadvantaged businesses, which include woman-owned small
+businesses, service-disabled veteran-owned businesses, and small business contractors in
+Historically Underutilized Business (HUB) Zones.
+We will hold ourselves accountable by reporting our progress to Congress, the Executive Office
+of the President, and external stakeholders advocating for the diverse populations we serve.
+2 Goodman, N. et al., National Disability Institute, Financial Inequality: Disability, Race, and Poverty in America (2019).
+Accessed on February 10, 2022 from https://www.nationaldisabilityinstitute.org/wp-content/uploads/2019/02/disability-race-
+poverty-in-america.pdf.
+3 U.S. Government Accountability Office, GAO-HRD-92-56, Social Security: Racial Difference in Disability Decisions
+Warrants Further Investigation (1992).
+4 Gender diverse: This term is an umbrella term used to describe gender identities that demonstrate a diversity of expression
+beyond the binary framework of male or female e.g., non-binary, intersex, gender non-confirming persons, genderqueer, or X
+gender. Accessed on February 10, 2022 from https://genderrights.org.au/information-hub/what-is-gender-diversity/
+Transgender: People with a gender identity that is different from the sex assigned to them at birth. Someone who was assigned
+the male sex at birth but who identifies as female is a transgender woman. Likewise, a person assigned the female sex at birth but
+who identifies as male is a transgender man. A person who has a gender identity other than the traditional definitions of male or
+female may simply self-identify as transgender. Moreover, some people who would fit this definition of transgender do not
+identify themselves as such, and identify simply as men and women, consistent with their gender identity.
+5 MSIs include Predominantly Black Institutions (PBIs), Hispanic-Serving Institutions (HSIs), Tribal Colleges and Universities
+(TCUs), Asian American and Native American Pacific Islander Serving Institution (AANAPISI), Alaska Native- or Native
+Hawaiian-Serving Institutions (ANNHSI), and Native American Non-Tribal Institutions (NANTI).
+3
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Summary of Early Accomplishments
+To identify inequities in our programs and services, we introduced methods to increase our
+data collection on race and ethnicity. On November 4, 2021, we issued guidance to our front-
+line employees to encourage applicants to voluntarily provide race and ethnicity data during the
+Social Security Number (SSN) card application process. We also updated the instructions for the
+Application for a Social Security Card to encourage members of the public to provide voluntary
+responses to race and ethnicity questions.6
+We have begun identifying and addressing systemic barriers to program participation by:
+Conducting an extensive analysis of every question on the lengthy and complicated SSI
+application to determine which questions could be removed or revised. Based on our
+analysis, we plan to simplify the SSI application process. This includes clarifying some
+questions for improved readability by applicants and our front-line employees. We are
+also developing an online version of the SSI application that tailors the questions an
+applicant receives based on their responses.
+Developing a new online tool (targeted for release in March 2022) that receives requests
+to schedule appointments for people who want to file for SSI and other benefits (e.g.,
+Supplemental Nutrition Assistance Program7) This online tool records the appointment
+request date as a person's protective filing date, commonly known as the date a person
+initially notifies us of their intent to apply for benefits. The protective filing date secures
+the person's SSI application filing date if they file within 60 days.
+8
+Creating and running a national communications campaign from September through
+November 2021 in support of the Administration's effort to inform non-tax filers,
+including SSI beneficiaries, of their potential eligibility for the Child Tax Credit. Code
+for America, a non-governmental organization that identifies uses of technology to break
+down barriers and improve government service, estimates that our campaign generated
+34,313 filed claims of which 15,710 were found eligible. This amounted to $56 million
+in tax benefits and was the second highest number of referrals to GetCTC.org.
+Working together with the Department of Labor and the Equal Employment Opportunity
+Commission to examine current and potential research on employment discrimination-
+one of the root causes of income inequality-and how employers can be held
+accountable.
+Asking for public comments on how to streamline the Continuing Disability Review
+(CDR) form and improve the form's readability. To further reduce burden for
+beneficiaries, we are developing an online version of the CDR form.
+6 Application for a Social Security Card. Accessed on February 10, 2022 from https://www.ssa.gov/forms/ss-5.pdf.
+7 We assist Social Security Income applicants and recipients with completing a SNAP application only if they live in a SSI
+household, as defined in SI 01801.005, Overview of Supplemental Nutrition Assistance Program (SNAP) Benefits, and per our
+Memorandum of Understanding with the U.S. Department of Agriculture/Food and Nutrition Service.
+8 GN 00204.100, Protective Filing. Accessed on February 10, 2022 from https://secure.ssa.gov/poms.nsf/Inx/0200204010
+9
+In partnership with the Department of Treasury, Code for America provided us with this data.
+4
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Engaging a diverse group of external stakeholders at the regional and national levels,
+including Tribal nations, to reach people from underserved communities during the
+COVID-19 pandemic.
+We established partnerships with more than 3,000 community- and faith-based
+organizations and recruited 650 field office employees to serve as Vulnerable
+Populations Liaisons. These field office liaisons receive referrals and process
+SSI applications from these organizations. We also promoted 100 of our field
+office employees to the newly created position of Vulnerable Populations
+Experts to review quality, timeliness, and consistency of the applications
+received from these organizations. Our outreach efforts with these organizations
+helped us obtain 1,743 SSI applications that we might not have obtained
+otherwise.
+We meet with the advocate stakeholder workgroups led by agency executives on
+a bimonthly basis. We also meet with sub-workgroups on a biweekly basis, all
+to develop evidence-based policy recommendations that we can pursue to
+address the needs of people facing barriers in accessing our services.
+We used stakeholder input to adjust our policies and procedures and to expand
+our online and telephone services so that people can conduct business with us
+without having to visit one of our field offices. In FY 2021, we released a
+Change of Address application to allow callers who properly verify their identity
+to change their address and/or telephone number without needing to visit one of
+our field offices.
+We are implementing our "Tribal Consultation and Call to Action Plan" to
+strengthen Tribal consultation, increase outreach efforts, and improve service
+delivery.
+Hosting a National Disability Forum with nearly a thousand attendees, in September
+2021, which focused on "Equity in SSA Programs: Hidden Barriers," and included
+panelists from our stakeholder community. The panelists represented more diverse
+interests than prior forums. As a result of the feedback received during the forum, we
+will assess our medical evidence rules to adequately reflect a broader set of healthcare
+providers who serve people facing barriers in accessing healthcare. We will also consider
+revising the list of healthcare providers who qualify as "acceptable medical sources."
+Meeting with advocate groups representing the Asian American and Native American
+Pacific Islander, Black, Hispanic, and elder communities. We developed and published
+our Fiscal year (FY) 2022-2023 Language Access Plan on December 2, 2021 with
+relevant insights from these conversations. The Language Access Plan aligns with our
+limited English proficiency policy and our strategic planning efforts for FYs 2022-2026.
+Issuing a temporary final rule for the musculoskeletal disorders listings to help address
+COVID-19 pandemic related barriers that prevented people from timely access to
+healthcare. The rule temporarily changes the "close proximity of time" requirement from
+four months to 12 months to reflect a reasonable timeframe for medical evidence
+showing the level of severity needed to meet a musculoskeletal disorder listing. This
+5
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+temporary rule will remain in effect through the emergency pandemic period. We will
+continue to assess related information that will allow us to respond to public comment at
+the appropriate time.
+Revising our In-Kind Support and Maintenance policy to increase the tolerance from $5
+to $20. We use this tolerance to determine if a SSI recipient is paying an equal share of
+their household expenses in certain living arrangements. The revised policy reduces
+administrative burdens on SSI recipients because it limits the number of times that we
+redetermine their eligibility and benefit levels. It may also increase SSI applicants'
+eligibility for benefits or recipients' benefit amounts.
+As an initial step to ensuring equitable service for unrepresented claimants in the disability
+application process, we provided training to our judges to raise awareness of unconscious bias
+in the context of legal decision making. As a result of the training, we are looking at ways to
+improve services and bring awareness to our judges of equity issues in the disability application
+process. Because of the September 2021 National Disability Forum noted above, we are
+considering ways to encourage representation of disability program applicants, especially SSI
+disability applicants. For instance, we are evaluating whether the current maximum fee of
+$6,000 that attorney and non-attorney representatives receive under the fee agreement process is
+enough.
+To increase gender equity and equality, in June 2021, we submitted a report to the White
+House Gender Policy Council (GPC). This report informed the Government-wide strategy on
+gender equity and equality. In July and August 2021, we attended the first and second rounds of
+GPC Interagency Working Group meetings centered on issues such as women's economic
+security and labor force participation, women and girls' education and leadership, gender-based
+violence, and women's health and rights. On February 3, 2022, we issued guidance to our field
+office employees on Accepting Documents with a Non-binary Sex Designation or "X" for
+Enumeration Requests (original SSN card application, replacement SSN card applications, and
+updates to our NUMIDENT record) when evidentiary documents include non-binary sex
+designation, such as an X.10
+To increase equitable access to our research grant programs and procurement
+opportunities for Historically Black Colleges and Universities (HBCUs), Minority Serving
+Institutions (MSIs), and small and disadvantaged businesses, we had meetings with these
+institutions and businesses in Summer 2021. These stakeholders reported a lack of awareness of
+our research grant programs and procurement opportunities and recommended that we establish
+direct communications with HBCUs, MSIs, and small and disadvantaged businesses. To
+increase our engagement with these institutions, we have:
+10 EM-22005, Accepting Documents with a Non-binary Sex Designation or "X" for Enumeration Requests. Accessed on
+February 10, 2022 from http://policynet.ba.ssa.gov/reference.nsf/Inx/02022022010306PM
+6
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Developed a Request for Applications designed to increase collaboration by
+predominantly White research institutions with HBCUs and MSIs by encouraging
+applicants to:
+Engage with HBCUs, MSIs, scholars of color, and people from underserved
+communities, including people with disabilities.
+Use Community Engaged Methods as part of their project design, which asks for
+the inclusion of people from the most affected communities in the development of
+research design, data collection, analysis, and publishing of findings.
+Incorporate people of color, people from underserved communities, and/or those
+with lived experiences (i.e., people from the most affected communities) as part
+of the research team.
+Increased outreach to HBCUs in the Analyzing Relationships between Disability,
+Rehabilitation, and Work program. 11
+Increased the amount of individual grant funding from $10,000 to $15,000 to
+make these opportunities more attractive to graduate students, including those
+from HBCUs. We increased the funding amount to be closer to the amount
+currently offered by other programs that fund graduate research. This effort may
+increase diversity among researchers working on our projects, improve collection
+of research data that are more representative of the populations we serve, and
+ensure that our research dollars are spent in an equitable manner.
+Encouraged the four Retirement and Disability Research Consortium (RDRC) 12 centers
+to expand their researcher networks to include scholars from HBCUs. Eight out of 71 FY
+2021's RDRC projects involve scholars from HBCUs. 13 We also provided funding
+for
+three new training programs, one of which is run by the University of Illinois Chicago, a
+designated MSI.
+Awarded a grant of $ $10,000 to Delaware State University, an HBCU, to conduct
+disability research.
+Developed a list of 34 HBCUs to target for marketing opportunities.
+We attend monthly interagency workgroup meetings with the White House Initiative on
+Advancing Educational Equity, Excellence, and Economic Opportunity through Historically
+Black Colleges and Universities. 14 At these meetings, we share best practices and information
+about Federal opportunities for HBCUs relating to grants and contracts. We developed an
+11 Policy Research, Inc. Analyzing Relationships between Disability, Rehabilitation and Work Small Grant Program. Accessed
+on February 10, 2022 from https://ardraw.policyresearchinc.org/
+12 Social Security Administration's Extramural Projects. Accessed on February 10, 2022 from
+https://www.ssa.gov/policy/extramural/#RDRC.
+13 These scholars are from Bowie State University, Florida Agricultural & Mechanical University, Hunter College (City
+University of New York), Howard University, Spelman College, University of Illinois, Chicago, University of Maryland Eastern
+Shore, University of Minnesota - Twin Cities, and University of New Mexico.
+14 U.S. Department of Education, White House Initiative on Advancing Educational Equity, Excellence, and Economic
+Opportunity through Historically Black Colleges and Universities. Accessed on February 10, 2022 from
+https://sites.ed.gov/whhbcu/
+7
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+HBCU Competitiveness Strategy Framework Plan outlining specific actions to drive HBCU
+initiatives, covering two years (2020-2022). We are in the process of developing a new HBCU
+Competitiveness Strategy Framework Plan. This Plan includes some of the actions in the
+original plan, as well as new ones to drive HBCU initiatives throughout the agency. 15 Both plans
+are designed to support our agency strategic planning efforts. We have rebranded our presence
+with HBCUs in the Washington, Baltimore, and Virginia areas via their HandShake platform for
+sharing opportunities within the Federal government. We partnered with the Department of
+Education to advertise our internship opportunities in their monthly newsletter.
+Beyond the activities directly related to our five focal areas for equity above, we have taken
+action that will more broadly promote equity. As of October 1, 2021, we elevated the Office of
+Civil Rights and Equal Opportunity (OCREO) to an independent office reporting directly to the
+Office of the Commissioner. This realignment complies with the Elijah E. Cummings Federal
+Employee Antidiscrimination Act of 2019. 16 OCREO oversees our Diversity, Equity, Inclusion,
+and Accessibility (DEIA) program including the Diversity and Inclusion (D&I) Council and the
+eight Special Emphasis Program Advisory Councils. Part of OCREO's work involves contract
+services to conduct mediation on a national basis and the development of an Implicit Bias
+Training curriculum. This realignment also ensures that DEIA and Equal Employment &
+Opportunity matters receive the full support of agency leadership.
+15 The Competitiveness Strategy identifies three HBCU goals to: share job vacancies with HBCUs, link internship opportunities
+to job vacancies by providing opportunities to HBCU students and ask for grant proposals from HBCUs to support agency
+research.
+16 5 CFR 724.
+8
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Action Plan to Identify Inequities in Our Programs and Services
+Barriers to Equitable Outcome(s)
+Incomplete race and ethnicity data in our records hampers our ability to determine whether our
+programs are equitably serving our applicants and beneficiaries. If we can improve the
+collection of race and ethnicity data, it expands our ability to conduct distributional analyses.
+These analyses evaluate how applicants and beneficiaries are faring under current policies or
+under potential changes. Most importantly, improved data will help us determine whether
+different groups are underrepresented in our programs, provide insight into which programs are
+particularly important to different communities, and examine whether there are differences in
+benefit levels based on race and ethnicity. Collecting and analyzing race and ethnicity data
+provides greater insight into developing potential solutions that will identify and correct
+inequities in our programs and services and improve service delivery to the diverse groups of
+people we serve.
+From 1936 to 1987, we obtained data on race and ethnicity when people applied for a Social
+Security Number (SSN) card. During this process, people could voluntarily provide us with race
+and ethnicity information. In 1987, we implemented enumeration at birth (EAB), which allows
+parents to request a SSN when completing forms in the hospital after their child is born.
+However, hospitals do not collect data on the race and ethnicity of the child, so we have obtained
+relatively little race and ethnicity data since starting this process. While most enumeration now
+takes place at birth, some enumeration still occurs later in life, such as when a person seeking
+lawful permanent resident status requests an SSN (i.e., automated enumeration beyond entry)
+and when a person applies for a replacement SSN card. Currently, we do not collect race and
+ethnicity data through these automated enumeration processes. However, if someone goes to one
+of our field offices to make this request, they have the option to provide their race and ethnicity.
+As a result of these developments, we have race and ethnicity data for only 59 percent of living
+SSN holders.
+Action and Intended Impact on Barrier
+To address the barriers identified above, we will:
+Examine and publish:
+12 tables in the Annual Statistical Supplement providing data by race and
+ethnicity for Social Security beneficiaries for whom we have more complete data
+to determine any inequities in our programs.
+Research and Statistics Note on characteristics of Social Security and SSI
+beneficiaries (update of the popular 2015 Research and Statistics Note17)
+Modeling in the Near Term (MINT) projection model profiles of each race and
+ethnicity group in 2022, 2030, 2050, 2070 with earnings, benefit amounts,
+income, poverty, health, and wealth.
+17 Bailey, M.S. and Hemmeter, J., Characteristics of "Noninstitutionalized DI and SSI Program Participants, 2013 Update (2015).
+Accessed on February 10, 2022 from https://www.ssa.gov/policy/docs/rsnotes/rsn2015-02.html
+9
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+MINT fact sheets on disparities between racial and ethnic groups (including
+benefits, income, wealth, and poverty).
+Retirement and Disability Research Consortium working papers, which include a
+focal area for FY 2022 on Disparities by Race and Ethnicity with 22 research
+projects.
+Explore options for collecting race and ethnicity data when people seek a new or
+replacement SSN card online.
+Determine whether we can expand our data exchange efforts to obtain and share race and
+ethnicity data for research and statistical purposes within our existing legal framework.
+Examine statistical methods that may allow us to improve the quality of our program's
+race and ethnicity data.
+Conduct ongoing distributional analyses to identify disparities in customer experience by
+race, ethnicity, gender, age, and geography and collaborate with our external stakeholders
+to address such disparities.
+Tracking Progress and Accountability
+To measure the outcomes of our proposed actions, we will:
+Assess our progress with publishing research and statistics detailing the demographic
+makeup of our program populations to examine inequities in our program participation,
+thereby exploring changes to our policies and procedures to increase access to our
+programs.
+Track changes in the number of people who voluntarily provide race and ethnicity data in
+office visits or online when requesting a new or replacement SSN card to evaluate the
+effectiveness of our approaches to collecting this data and revising these approaches, if
+necessary, to ultimately improve service delivery.
+Assess whether it is possible to establish partnerships with other government agencies to
+obtain and share race and ethnicity data for research and statistical purposes and, if so, to
+better understand the experiences of applicants and beneficiaries with our programs.
+Track our progress on employing methods to improve the quality of our program's race
+and ethnicity data to evaluate whether we are serving our applicants and beneficiaries in
+an equitable manner.
+To hold ourselves accountable, we will:
+Report our progress to Congress and the Executive Office of the President.
+Resume publishing research and statistics providing race and ethnicity data so that other
+institutions and stakeholders may conduct their own research to determine whether our
+programs are equitable.
+Measure progress in improving program data on race and ethnicity as part of performance
+plans for Senior Executive Service employees with oversight for this work.
+Conduct routine analysis of available race and ethnicity data within the agency and
+establish comparisons to appropriate datasets and data sources available elsewhere.
+10
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Action Plan to Identify and Address Systemic Barriers to Program Participation
+Barrier to Equitable Outcomes
+Structural barriers such as labor market discrimination 18 result in higher levels of unemployment
+and lower wages for African American people and Latino people at every level of education. 19
+Since Social Security benefits are based on years worked and prior wages, labor market
+disparities drive differences in Social Security benefits. Data prior to 2010 show that the benefit
+levels for White men were considerably larger than the benefit levels for people of color and
+White women, on average.
+20
+In addition, occupational segregation - the disproportionate representation of people of color21
+and women22 in jobs that have lower pay levels and are less likely to provide benefits such as
+employer-sponsored retirement plans 23 - leave people of color and women with less income and
+fewer retirement resources. Social Security benefits typically make up a larger share of total
+income24 for people of color and White women than White men, and there is a greater need for
+SSI benefits. Further, even though the SSI program provides access to multiple assistance
+programs, many recipients and their families live at or below the poverty level.
+The complexity of our SSI program-driven in, part, by legislative, regulatory, and sub-
+regulatory requirements- can create burdens for program applicants. This is also true for our
+front-line employees who assist applicants and claimants in completing forms and review
+processes. Many of our customers, particularly those from populations facing barriers cannot
+conduct business with us online. Often, this is due to limited access to technology, housing
+insecurity, lack of credit history, difficulty understanding the procedures to establish online
+accounts, or reliance on third parties for assistance.
+To better address the administrative burdens facing our applicants, we want to take actions to
+ensure these applicants are receiving benefits for which they qualify. In particular, the length
+18
+Quilian, L., et al., Proceedings of the National Academy of Sciences, The persistence of racial discrimination in hiring (2017).
+Accessed on February 10, 2022 from https://www.pnas.org/content/pnas/114/41/10870.full.pdf.
+19
+Kijakazi, K., et al., Urban Institute, African American Economic Security and the Role of Social Security (2019). Accessed on
+February 10, 2022 from
+ps://www.urban.org/sites/default/files/publication/100697/african_american_economic_security_and_the_role_of_social_secur
+ity.pdf.
+20 Social Security Administration, Annual Statistical Supplement, 2010 - OASDI Current-Pay Benefits: Summary (5.A).
+Accessed on February 10, 2022 from https://www.ssa.gov/policy/docs/statcomps/supplement/2010/5a.pdf.
+21
+Hamilton, D et al., Economic Policy Institute, Whiter Jobs, Higher Wages -Occupational segregation - and the lower wages of
+black men (2011). Accessed on February 10, 2022 from https://files.epi.org/page/-/BriefingPaper288.pdf
+22
+Baxter, E., American Progress, What Occupational Data Show About the Causes of the Gender Wage Gap (2015). Accessed
+on February 10, 2022 from https://www.americanprogress.org/article/what-occupational-data-show-about-the-causes-of-the-
+gender-wage-gap/.
+23 Copeland, C., Employee Benefit Research Institute, Employment-Based Retirement Plan Participation: Geographic Differences
+and Trends, 2013 (2014). Accessed on February 10, 2022 from https://www.ebri.org/publications/research-publications/issue-
+briefs/content/employment-based-retirement-plan-participation-geographic-differences-and-trends-2013-5451.
+24
+Social Security Administration, Section 9, Importance of Social Security Relative to Total Income (2014). Accessed on
+February 10, 2022 from https://www.ssa.gov/policy/docs/statcomps/income_pop55/2014/sect09.p
+11
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+and complexity of the SSI application can seem daunting for many applicants. Further,
+recipients who receive SSI benefits are required to continually report their earnings to us.
+Recipients can report their earnings through multiple avenues (i.e., calling or writing a local field
+office, using the automated toll-free SSI Telephone Wage Reporting Service, the free SSI Mobile
+Wage Reporting Smartphone app, or the my Social Security online wage reporting tool).
+Many, still, may find this reporting requirement difficult.
+We also understand that many applicants cannot access our online or telephone services and have
+limited ability to make an appointment (e.g., due to housing insecurity or medical reasons).
+They may have experienced even greater difficulty reaching us during the COVID-19 pandemic,
+thereby impacting their participation in our programs. Our actuaries found that the number of
+SSI applications in 2021 was about 25-30 percent lower than pre-pandemic levels in 2019.
+Further, during the COVID-19 pandemic, we have been providing limited in-person services to
+people with appointments to address critical needs. Given the situation, this likely creates
+additional barriers for some.
+Action and Intended Impact on Barriers
+To address the barriers identified above, we will:
+Establish Agency Priority Goals (APG) for fiscal year (FY) 2022-2023 focused on equity
+and improving the customer experience.
+Explore development of an office that partners with Tribal Nations. This office will host
+timely national consultations with Tribal government officials designed to inform our
+policy and communication with Indian Tribes and Tribal officials, including natives from
+Alaska; They will also ensure Native Americans can access DI and SSI benefits,
+especially in remote locations.
+Explore establishing a Customer Experience (CX) office that reports directly to the
+Office of the Commissioner. The CX office will support and fulfill our commitments in
+EO 14058, Transforming Federal Customer Experience and Delivery to Rebuild Trust in
+Government.
+25 The following work is already underway:
+Collect feedback from our customers on their experiences with our programs and
+services, identify any pain points, and explore ways to reduce the burden on
+customers when applying for and participating in our programs
+Continue to simplify forms by:
+Clarifying questions on our SSI application for improved readability by
+applicants and our front-line employees.
+Exploring data exchanges to limit an applicant's need to provide the same
+information to multiple Federal agencies and increase access to and equity
+in government services.
+Improve our service delivery by providing alternatives to in-person visits and
+increasing the number of online forms (e.g., SSI). Also, developing a mobile-
+25 Executive Order No. 14058, 86 FR 71357 (December 16, 2021). Transforming Federal Customer Experience and Service
+Delivery to Rebuild Trust in Government.
+12
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+accessible, online process so that any person applying for or receiving services
+from the agency can upload forms, documentation, evidence, or correspondence
+associated with their transaction, whenever possible.
+Maintain a public policy of technology neutrality with respect to acceptable forms
+of electronic signatures, whenever possible.
+Revise our regulations, forms, instructions, or other guidance to remove
+requirements that applicants or beneficiaries must provide physical signatures,
+whenever possible.
+Support applicants and beneficiaries to identify other benefits they may be
+eligible for and integrate our data and processes with those of other Federal and
+State entities, whenever possible. For example, we will continue our
+collaboration with the United States Department of Agriculture, Food and
+Nutrition Services to increase the participation of SSI applicants and recipients in
+the Supplemental Nutrition Assistance Program.
+Continue our collaboration with the Department of Labor, Equal Employment
+Opportunity Commission, and other Federal agencies to determine means of holding
+employers accountable when they unlawfully discriminate in hiring and work practices.
+Conduct research activities on our DI and SSI programs to learn about barriers applicants
+and beneficiaries face and implement changes to these programs, as appropriate.
+Tracking Progress and Accountability
+To measure the outcomes of our proposed actions, we will:
+Conduct customer feedback surveys across various journeys and touch points in our
+programs to improve service delivery to our customers.
+Track increases in the percentage of applicants, new recipients, and total recipients in our
+DI and SSI programs to evaluate the effectiveness of changes to our policies and
+practices.
+Assess the effects of changes to our service delivery methods on their accessibility, use,
+efficiency, security, equitable service delivery, and equitable customer experience.
+To hold ourselves accountable, we will:
+Report our progress to the Executive Office of the President.
+Embed a metric in performance plans for Senior Executive Service employees with
+oversight of this work for both equitable service delivery and customer experience.
+Continue engagement with our executive branch partners, external stakeholders, the
+public, and Congress (as appropriate) to increase access to information about our
+programs and program participation by people from underserved communities.
+13
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Action Plan to Ensure Equitable Service for Unrepresented Claimants in the Disability
+Application Process
+Barriers to Equitable Outcomes
+The DI and SSI programs provide benefits to claimants who cannot work because they have a
+medical condition that is expected to last at least one year or result in death. In determining
+whether a claimant is eligible for disability benefits, we (i.e., Disability Examiners at the State
+Disability Determination Service offices, administrative law judges, and administrative appeals
+judges) rely on medical evidence, work history information, and testimony from the claimant and
+any other relevant sources (e.g., a third-party, medical expert, or vocational expert).
+While claimants can choose to appoint an attorney or non-attorney representative at any point in
+the disability application process, many do not. For example, some claimants may be reluctant
+to pay a portion of their awarded back benefits to a representative, they may not understand how
+a representative could assist them in the application process, or they may not have access to free
+or
+low-cost legal services, to name a few. 26 However, research shows that having
+a
+representative during the disability appeals process increases the possibility of being awarded
+benefits. For instance, a Government Accountability Office report found that claimants who had
+a representative at the hearing level were granted disability benefits at a rate nearly three times as
+high as applicants who did not have a representative.27 Representatives can obtain the necessary
+evidence (e.g., claimant's medical records or work history information). They can also request
+that we assist in the development of medical evidence. We do this by sending the claimant to an
+examination with one of our medical experts. This ensures that the claimant's file is as complete
+as possible.
+Despite our efforts to inform claimants about their right to representation after their application
+has been denied at the initial, reconsideration, or hearing level, our data show that in 2020, 34
+percent of claimants were unrepresented at the reconsideration level and 23 percent of claimants
+were unrepresented at the hearing level.² 28 A closer look at the data at the hearing level shows
+that in 2020, nearly 62.5 percent of dismissals were for cases where the claimant did not have a
+representative. We note that our data did not capture the specific reasons these cases were
+dismissed at the hearing level.
+26 Abt Associates, Claimant Representative Demonstration Technical Experts Panel Meeting Final Report (2019). Accessed on
+February 10, 2022 from
+https://www.ssa.gov/disabilityresearch/documents/Claimant_Representative_Demo_TEP_report_508a%20final_Final.pdf.
+27 U.S. Government Accountability Office, GAO-18-37. Additional Measures and Evaluation Needed to Enhance Accuracy and
+Consistency of Hearings Decisions (2017).
+28
+SSA's Representative Rates by Adjudicative Level FY 2011 - FY 2020. Accessed on February 10, 2022 from
+https://www.ssa.gov/foia/resources/proactivedisclosure/2020/Representative%20Rates%20by%20Adjudicative%20Level%20FY
+%202011%20-%20FY%202020.docx.
+14
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+We are also concerned that while evidence indicates that African American people are more
+likely to have a disability29, they are less likely to be approved for disability benefits than White
+people. 30 It is unclear whether a lack of representation is a contributing factor. We are
+committed to evaluating and improving our internal processes to increase equitable service to
+unrepresented claimants in the disability application process.
+Action and Intended Impact on Barrier
+To address the barriers identified above, we will:
+Evaluate the impact of internal processes on outcomes for unrepresented claimants in the
+disability application process by:
+Analyzing existing program data and external data to identify and examine
+sources of any potential bias in the disability application process as well as factors
+that might play a role in access to representation or might cause disparities in the
+rate of allowances for applicants (e.g., by race, ethnicity, age, or medical
+condition).
+Inviting proposals through our research programs to test new strategies to assist
+people in underserved communities in applying for or appealing their decisions on
+claims for DI and SSI benefits.
+Conducting more targeted denial reviews to identify incorrect denials at the
+reconsideration level.
+Developing a research study to identify and address potential bias within the
+Quick Disability Determination process. 31
+Conducting mandatory training on unconscious bias for all agency employees,
+including employees who make decisions on eligibility for DI and SSI disability
+benefits. The intent of this training is to disrupt and correct any negative biases
+that might interfere with the decision-making process.
+Evaluating whether the current maximum fee of $6,000 that representatives
+receive under the fee agreement process is enough.
+Work with the National Organization of Social Security Claimants' Representatives, a
+specialized bar association for attorneys and advocates, and the National Association of
+Disability Representatives, a professional organization of Social Security claimants'
+representatives, to increase representation for DI and SSI claimants. This is especially
+the case for SSI claimants as they tend to have lower levels of representation.
+Continue to reach out to unrepresented claimants to prepare them for the hearing process
+and explain their right to representation.
+29 Goodman, N et.al., National Disability Institute, Financial Inequality: Disability, Race, and Poverty in America. Accessed on
+February 10, 2022 from https://www.nationaldisabilityinstitute.org/wp-content/uploads/2019/02/disability-race-poverty-in-
+america.pdf.
+30
+U.S. Government Accountability Office, GAO/HRD-92-56, Social Security: Racial Difference in Disability Decisions
+Warrants Further Investigation (1992).
+31 Quick Disability Determination cases are initial cases that are electronically identified as having a high potential that the
+claimant is disabled, evidence of the claimant's allegations can be easily and quickly obtained, and the case can be processed
+quickly in the Disability Determination Services (DDS).
+15
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Explore collaborations with pro-bono and low-cost legal service groups near our field
+offices and hearing offices to increase representation at earlier stages in the disability
+application process.
+Tracking Progress and Accountability
+To measure the outcomes of our proposed actions, we will:
+Track the percentage of claimants obtaining representation at all levels of the disability
+process and outcomes on their claims to evaluate and revise our internal processes, as
+appropriate, and ultimately, to increase access to representation and equity in program
+participation
+Evaluate the sufficiency of the maximum fee that representatives receive under the fee
+agreement process to incentivize representation of more disability program applicants.
+Increase the percentage of represented claimants at all levels of the disability application
+process.
+To hold ourselves accountable, we will:
+Report our progress to the Executive Office of the President.
+Continue engagement with our executive branch partners, external stakeholders, and
+Congress (as appropriate) on increasing representation of DI and SSI applicants.
+16
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Action Plan to Increase Gender Equity and Equality in Our Programs
+Barriers to Equitable Outcomes
+Currently, to process applications for an original Social Security Number (SSN) card, our
+systems require an applicant to identify their sex using one of the two binary sex markers (M or
+F). While the face of a SSN card does not include an applicant's sex information, our systems do
+collect this information. Our current process allows people to update their sex designation
+information if they provide evidence such as a passport, state-issued amended birth certificate,
+court order, or medical certification.32 We recognize that our current policy and systems' design
+pose administrative burdens for gender-diverse and transgender people. To ensure equitable
+service to gender-diverse and transgender people, we are exploring policy and systems changes,
+including self-attestation without evidence for the SSN card application process.
+Although there has been some movement towards streamlining administrative processes to
+update information on identity documents at the Federal and State level, we understand that
+transgender people still experience difficulties in obtaining accurate records, which may lead to
+harassment, refusal of service, loss of employment, and other complications in their lives.
+According to a 2016 report, only 11 percent of respondents reported that all their identity
+documents had the name and gender they preferred, while 68 percent reported that none of their
+identity documents had the name and gender they preferred. 33 At the time this survey was
+conducted, only 59 percent of respondents had updated their Social Security record. More recent
+data shows there are an estimated 1.4 million people who self-identify as transgender in the
+United States. 34 Further, there are 15 States who now allow for X gender markers on birth
+certificates and 21 States allow X gender markers on driver's licenses.35
+In addition to the barriers faced by transgender people, we cannot process applications for
+original SSN cards, including cards issued automatically via the enumeration at birth (EAB)
+process, if an applicant provides a non-binary sex marker (e.g., X). Instead, the applicant (or
+parent or guardian) must apply for an original SSN card in our field office. From May 2021 to
+November 2021, 401 applications for an SSN card for children could not be processed through
+EAB because of a non-binary sex marker on the supporting birth certificate. However, we
+continue to help these parents or guardians at our field offices to complete the original SSN card
+process for their children.36
+32 RM 10212.200, Changing Numident Data for Reasons other than Name Change. Accessed on February 10, 2022 from
+http://policynet.ba.ssa.gov/poms.nsf/Inx/0110212200.
+33 Movement Advancement Project, National Center for Transgender Equality, Transgender Law Center. Understanding Issues
+Facing Transgender Americans. Accessed on February 10, 2022 from ittps://www.lgbtmap.org/file/understanding-issues-
+facing-transgender-americans.pdf.
+34
+UCLA School of Law Williams Institute. How Many Adults Identify as Transgender in the United States? Accessed
+on
+February 10, 2022 from https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/
+35
+Movement Advancement Project. Identity Document Laws and Policies. Accessed on February 10, 2022 from
+https://www.lgbtmap.org/equality-maps/identity_document_laws.
+36
+EM-22005, Accepting Documents with a Non-binary Sex Designation or "X" for Enumeration Requests. Accessed on
+February 10, 2022 from http://policynet.ba.ssa.gov/reference.nsf/lnx/02022022010306PN
+17
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Action and Intended to Impact on Barriers
+To address the barriers identified above, we will:
+Host listening session(s) with advocates, medical professionals, and stakeholders to learn
+about improving policy, service, and access to our disability programs for people in the
+LGBTQIA+ community.
+Explore the development of a self-attestation policy for change of sex designation for the
+SSN card application process with input from our executive branch partners and external
+stakeholders.
+Survey methods of collecting data on sex designation for research and statistical purposes
+through the SSN card application process.
+Conduct agency-wide training to inform our employees on unconscious bias that may
+impact equitable service to the public, including gender-diverse and transgender people.
+Publish revisions to existing policies, notices, relevant publications, and online resources
+to add gender-neutral language, where appropriate.
+Tracking Progress and Accountability
+To measure our progress, we will:
+Track the development of a self-attestation policy for the SSN card application process to
+reduce administrative burdens for gender-diverse and transgender people.
+Require employees' completion of agency-wide training on unconscious bias and use of
+agency-wide policy aimed at reducing administrative burdens for and improving our
+service delivery to gender-diverse and transgender people.
+Track the publishing of revisions to notices, relevant publications, and online resources to
+add gender neutral language, where appropriate, and improve service delivery to gender
+diverse and transgender people.
+To hold ourselves accountable, we will:
+Report our progress to Congress and the Executive Office of the President.
+Continue existing and appropriate equity-related performance standards in Senior
+Executive Service employees' and other employees' performance plans, where
+applicable, to ensure successful implementation of the actions identified above.
+Conduct an annual survey of our employees to assess their understanding and
+responsiveness to agency-wide guidance and trainings.
+Continue engagement with our executive branch partners, external stakeholders, and
+Congress (as appropriate).
+18
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Action Plan to Increase Equitable Access to Our Research Grants and Procurement
+Opportunities for Historically Black Colleges and Universities, Minority Serving Institutions,
+and Small and Disadvantaged Businesses
+Barrier to Equitable Outcomes
+Our data indicates that our research grants and procurement opportunities are reaching a very
+limited number of Historically Black Colleges and Universities (HBCUs), Minority Serving
+Institutions (MSIs), and small and disadvantaged businesses. For example, from 2003 to the
+present, we have awarded almost $369 million in research contracts to 10 contracting
+organizations. Of these, only one is a small and disadvantaged business and was awarded a
+contract of just over $1 million. During the same period, research grants have been awarded to
+50 different institutions, of which, only one of the primary grantees was an HBCU and one
+subgrantee was based at an MSI.
+We held conversations with stakeholders to learn about potential barriers in the acquisition
+process for HBCUs, MSIs and small and disadvantaged businesses. They discussed the lack of
+our outreach to these institutions and the competitive advantage that current contractors and
+grantees gain from their long-term relationships with us and familiarity with our processes. The
+existing contractors and grantees may have also benefited financially from the lengthy
+engagement with the government and other large institutions. Their financial status makes it
+easier for them to outcompete other contractors and grantees that may not have the same long-
+term relationships.
+Since we rely on research to learn about the diverse people we serve, how they are affected by
+our programs, and ways in which our programs can be improved to better serve the public, we
+recognize the importance of engaging with researchers who represent the diversity of the
+American public.
+Action and Intended Impact on Barriers
+To address the barriers identified above, we will:
+Develop equity-based guidelines to increase access to and encourage participation in
+grant opportunities by HBCUs and MSIs in the following ways:
+Conduct outreach to learn more about barriers faced by HBCUs and MSIs and
+determine what steps we can take to reduce these barriers.
+Establish new and leverage existing relationships with HBCUs and MSIs and
+professional organizations by consistently sharing information with them about
+our upcoming grant opportunities to the extent allowed under Federal law.
+Expand existing partnerships with States, private foundations, and other non-
+Federal groups and organizations by including HBCUs and MSIs in our research
+programs.
+19
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+Draft our Requests for Applications to encourage the Retirement and Disability
+Research Consortium to partner with HBCUs and MSIs when conducting their
+research studies on the DI and SSI programs.
+Implement leading practices to increase access to and encourage participation in
+procurement by small and disadvantaged businesses in the following ways:
+Conducting outreach and targeted market research to learn more about barriers
+small and disadvantaged businesses face and determine what steps we can take to
+reduce these barriers.
+Ensuring equitable distribution to HUBZone small businesses when searching the
+Amazon Business account as permissible by Federal law.
+Enhancing the content of our acquisition forecast to provide more information to
+small and disadvantaged businesses.
+Increasing the publishing of Requests for Information to identify small and
+disadvantaged businesses capable of fulfilling our procurement needs.
+Prioritizing our efforts in both sole source and competitive environments to
+increase our ability to exceed our fiscal year small business goals and further
+assist in meeting the President's 15 percent small business goal by 2025.37
+Exploring new methods to improve contracting processes in partnership with the
+Small Business Administration.
+Reviewing and adjusting our stewardship practices, policies, and procedures to
+boost opportunities for small and disadvantaged businesses on both small and
+large contracts.
+Ensuring coordination among our contracting personnel, the requesting
+component, the Office of Small and Disadvantaged Business Utilization, and the
+Office of Civil Rights and Equal Opportunity.
+Establish a framework and process to ensure grant recipients of Federal funds are
+complying with anti-discrimination civil rights provisions, and all procurement
+solicitations and awards include the appropriate terms and conditions required to
+implement law or executive order applicable to the acquisition (e.g., Equal Opportunity
+clause(s)).
+Tracking Progress and Accountability
+To measure our progress, we will:
+Track the percentage of research grants and procurement opportunities that are awarded
+to HBCUs, MSIs, and small and disadvantaged businesses to evaluate and improve our
+outreach and engagement efforts and increase equitable access to our research grants and
+procurement opportunities.
+Track the number of published research studies that apply new approaches (e.g.,
+community-based methodologies) to improve our understanding of the diverse
+37 Office of Management and Budget, Memo-22-03 on Advancing Equity in Federal Procurement (2021). Accessed on February
+10, 2022 from https://www.whitehouse.gov/wp-content/uploads/2021/12/M-22-03.pdf
+20
+SEC
+Social Security's Equity Action Plan in Agreement with EO 13985
+communities and their needs and revise our programs and policies in an equitable
+manner.
+To hold ourselves accountable in the following ways, we will:
+Report our progress to the Executive Office of the President.
+Embed a metric in performance plans for SES employees with oversight of this work.
+Enforce compliance with antidiscrimination civil rights policies and law, both internal
+and external to the agency.
+Ensure that the Office of Small and Disadvantaged Business Utilization continues to have
+access to senior leadership and agency acquisition officials to increase the probability of
+participation by small and disadvantaged businesses.
+Obtain feedback from external stakeholders to ensure that we are conducting effective
+engagement and outreach to MSIs and small and disadvantaged businesses.
+Conclusion
+Our programs are intended to provide or improve income security for the diverse group of people
+we serve. However, systemic barriers external and internal to the agency hinder our ability to
+ensure equitable access to our programs and services. We have and intend to continue to identify
+the sources of these barriers, take actions to address them-sometimes in collaboration with our
+executive branch partners and external stakeholders-and measure the results over time.
+21

@@ -1,0 +1,2023 @@
+VA
+U.S. Department
+of Veterans Affairs
+DEPARTMENT OF VETERANS AFFAIRS
+FY 2023 ANNUAL EVALUATION PLAN
+VA FY 2023 Annual Evaluation Plan
+Table of Contents
+Background and Approach
+3
+Criteria For Significance and Topic Selection
+3
+VA Criterion #1: Existing Lines of Inquiry
+4
+VA Criterion #2: Mission Focus on Veterans
+4
+VA Criterion #3: Care and Services for At-Risk, Marginalized, Underserved and
+Vulnerable Veterans
+5
+VA Criterion #4: Alignment of Learning Agenda with Evaluation Plans
+5
+VA Criterion #5: Nomination Using Administrations' Existing Prioritization
+5
+VHA Evaluation Plans
+6
+A. Access
+6
+A.1. MISSION 401 Underserved Facilities and Populations
+6
+A.2 Evaluating the Effectiveness of Virtual Care at VHA
+9
+B. Suicide Prevention and Mental Health
+13
+B.1 Caring Letters for Veterans Crisis Line Callers
+13
+B.2 Clinical Informatics and Data Management Office (CIDMO)
+18
+C. Opioids and Substance Use Disorder
+21
+C.1 The Stratification Tool for Opioid Risk Mitigation (STORM)
+21
+C.2 Post-Incarceration Engagement (PIE)
+23
+D. Impact of COVID-19
+29
+VHA Evaluation Plans - Under Development
+33
+Military Environmental Exposures
+33
+Women's Health
+34
+VBA Topic Identification Process
+34
+VBA Topic Identification Process
+35
+VBA Evaluation Plans
+35
+A. VR&E Longitudinal Study (PL 110-389, Section 334)
+35
+B. Post-Separation Transition Assistance Program (PSTAP) Assessment
+Outcome Study
+39
+Page 2 of 45
+VA FY 2023 Annual Evaluation Plan
+BACKGROUND AND APPROACH
+The Foundations for Evidence-based Policymaking (EBP) Act of 2018 (P.L. 115-435,
+"Evidence Act") requires cabinet-level agencies including the Department of Veterans
+Affairs (VA) to create and use Learning Agendas, Annual Evaluation Plans and
+Capacity Assessments. In guidance documents, the Office of Management and Budget
+(OMB) specified requirements for these deliverables.
+The VA Learning Agenda and the VA Capacity Assessment documents are appendices
+to the VA Fiscal Year (FY) 2022-2028 Strategic Plan. This VA FY 2023 Annual
+Evaluation Plan accompanies the VA Annual Performance Plan and Report, per statute
+and is fully aligned with the Learning Agenda, as discussed below.
+Since the Evidence Act became law in early 2019, the chartered VA Foundations for
+Evidence-Based Policymaking Working Group (FEBPWG) has superintended efforts to
+meet the statutory requirements of the Evidence Act across VA. The FEBPWG has over
+200 representatives from the Veterans Benefits Administration (VBA), Veterans Health
+Administration (VHA), National Cemetery Administration (NCA) and staff offices
+supporting implementation of the Evidence Act. The FEBPWG and its membership
+facilitate the completion and approval of the Evidence Act deliverables, including this
+Annual Evaluation Plan.
+CRITERIA FOR SIGNIFICANCE AND TOPIC SELECTION
+The Evidence Act requires agencies to identify "significant" evaluations and address
+them in its Annual Evaluation Plan, as well as provide a definition of "significant." Since
+the passage of the Evidence Act, VA has viewed the opportunity of publicizing its most
+significant evaluation and research priorities as fully consistent with its vital mission on
+behalf of Veterans and their families and welcomes the chance to further advocate for
+them by focusing attention on important issues.
+VA engages in thousands of peer-reviewed evaluations and research studies each year
+and none of them are considered insignificant. All are used to advance service delivery,
+improve access, enhance quality and contribute to their respective fields of inquiry both
+within VA and for Veterans and others. For example, as part of the internal solicitation
+protocol for research and evaluation proposals across the Office of Research and
+Development (ORD), VHA has a well-established set of criteria to verify significance:
+Programmatic or policy importance or value of the evaluation and its value to
+Veterans health care and health outcomes
+Whether the evaluation addresses a new topic or topic that has not been
+resolved
+Whether it addresses a critical question related to barriers to optimal service
+Whether if completed successfully, there is a pathway for the results to inform
+improvements
+Based on these criteria proposals are identified for implementation after peer review
+and the results and findings are likewise peer-reviewed. To select those evaluations
+most suited to the requirements of the Annual Evaluation Plan and the intent of the
+Page 3 of 45
+VA FY 2023 Annual Evaluation Plan
+Evidence Act, OMB suggested criteria (Memorandum 19-23, footnotes 21 & 61) for
+identification of significance of evaluations:
+1. Importance of a program or funding stream to the agency mission
+2. The size of the program in terms of funding or people served
+3. The extent to which the study will fill an important knowledge gap regarding
+the program, population(s) served, or the issue(s) that the program was
+designed to address
+To maximize the value of implementing the Evidence Act provisions on behalf of
+Veterans, their families and caregivers the VA FEBPWG considered these criteria and
+identified several VA-specific criteria consistent with guidance to further narrow down
+our most significant issues and evaluations. These criteria were introduced for the initial
+Annual Evaluation Plan covering FY 2022, and they continue to reflect the emphasis in
+both the FY 2022-2028 Strategic Plan and the prior Annual Evaluation Plan on at-risk,
+marginalized, underserved and vulnerable Veterans and their families.
+VA Criterion #1: Existing Lines of Inquiry
+(Consistent with guidance criterion #3)
+VA's current efforts entail thousands of evaluations every year, conducted with a variety
+of means and for many reasons, including statutory requirements. Evaluation
+practitioners therefore seek to focus on existing lines of inquiry embodied in current
+evaluation studies and efforts. Practitioners think that all areas of national importance
+are currently being addressed at some point in the evaluation lifecycle.
+Those identifying potential evaluations were required to attest that their pursuit of those
+questions could be completed using existing funds under current services, whether by
+reprioritization of existing budgets, or identification of evaluations that were already
+anticipated. For those efforts, or aspects of efforts (such as, but not limited to, providing
+additional subpopulation demographics to account for equity, diversity and inclusion
+considerations), which are not already within the scope of current services, priority
+resource proposals have been developed.
+VA Criterion #2: Mission Focus on Veterans
+(Consistent with guidance criterion #1)
+VA acknowledges that there are several challenges it faces both with respect to our
+direct mission-driven care and services, as well as our administrative functions.
+However, VA chooses to focus initial efforts under the Evidence Act on purely Veteran-
+facing topics. By doing so, efforts to address the requirements of the Evidence Act will
+additionally stimulate internal VA interest and external stakeholder attention on the most
+important issues facing Veterans and their families.
+In addition, as organizations outside of VHA (which is highly mature in its capacity to
+build and use evidence based on VA's Capacity Assessment) build their own evaluation
+capacity, VA will broaden its focus to include administrative and other program offices
+that are not primarily Veteran-facing.
+Page 4 of 45
+VA FY 2023 Annual Evaluation Plan
+VA Criterion #3: Care and Services for At-Risk, Marginalized, Underserved and
+Vulnerable Veterans
+(Consistent with all guidance criteria)
+VA's FY 2022 - FY 2028 Strategic Plan encompass myriad areas in which VA impacts
+Veterans - truly every aspect of the life journeys of Veterans - requiring a focus on a
+meaningful subset of our Strategic Objectives. An immediate consensus emerged that
+to rally attention and effort to VA's public evaluation activities under the Evidence Act
+we would focus on the most compelling of our Objectives, namely enhancing care and
+services for at-risk, marginalized, underserved and vulnerable Veterans, such as those
+facing addiction, suicide, military environmental exposures and Coronavirus Disease -
+2019 (COVID-19).
+This focus aligns, as discussed below, the VA Learning Agenda with this Annual
+Evaluation Plan.
+VA Criterion #4: Alignment of Learning Agenda with Evaluation Plans
+(Consistent with all guidance criteria)
+Early in VA's deliberations, it became clear that the virtues of pursuing a rigorous set of
+evaluations that would be showcased to many stakeholders due to the very public
+nature of the Evidence Act requirements, such as wide public dissemination of findings,
+meant that our longer-term Learning Agenda should be closely tied to Annual
+Evaluation Plan studies. In this way, both documents would focus attention on issues of
+wide public concern and be complementary. The goal is to provide preliminary
+evaluation findings to policymakers early in the span of the Strategic Plan to address
+initial, broader questions while providing further details with evaluations later in the
+cycle.
+Therefore, a critical criterion in VA for "significance" is an evaluation which directly
+supports VA's Learning Agenda.
+VA Criterion #5: Nomination Using Administrations' Existing Prioritization
+(Consistent with all guidance criteria)
+The FEBPWG decided that those individuals who were responsible for carrying out
+such Agendas and Plans should use their existing, documented priorities (which align to
+VA's Strategic Plan) to nominate a set of questions and research topics. Those
+professionals are located organizationally within the major VA Administrations - the
+Veterans Benefits Administration (VBA), the Veterans Health Administration (VHA) and
+the National Cemetery Administration (NCA). The FEBPWG worked with the
+Administrations to focus their nominations based on the overarching VA criteria.
+Each Administration has their own strategy and business documents that tie directly to
+the VA-level Strategic Plan, and they are familiar with the most significant issues they
+face that address the above criteria. In addition, VHA enters the Evidence Act process
+already recognized as a thought leader in program evaluation and implementation
+sciences, while VBA has a substantial process-analytic foundation but not one focused
+heretofore on evaluation. (For VBA and other offices needing to develop their evaluation
+Page 5 of 45
+VA FY 2023 Annual Evaluation Plan
+and evidence-building and -use capacity, VA's Capacity Assessment and related budget
+initiatives address such gaps.)
+This federated approach ensures that policymakers are able to obtain the most salient
+findings addressing the most significant issues they are likely to face, while the
+Administrations are able to pursue questions they are capable of addressing in this
+Annual Evaluation Plan using the current and likely state of knowledge, expertise and
+analytic capacity they encompass.
+In the following sections, VHA and VBA identify the means they used to nominate
+evaluation topics which were subjected to the above criteria for inclusion in this Annual
+Evaluation Plan, and present specific plans to address Learning Agenda topics.
+VHA EVALUATION PLANS
+VHA will address care for at-risk, marginalized, underserved and vulnerable Veterans
+with focused evaluations on enhancing access to care, suicide prevention, opioids and
+substance use disorder and the impact of COVID-19.
+A. Access
+A.1. MISSION 401 Underserved Facilities and Populations
+Learning Agenda Question: How can VA ensure that Veterans have access to timely
+care in their preferred setting?
+Evaluation Question: How effective are the underserved scores and subsequent
+mitigation strategies in addressing facility-level underservedness?
+Timeline: Activities will continue in FY 2023. Efforts to obtain decisive evidence in this
+area will be ongoing with no likely firm end date. Rather, each year VHA will learn more
+about VHA's supply of health care, Veteran demand for health care and the best
+approaches with which to address both.
+Background: Most Veterans who are enrolled in VHA care live in areas with limited
+access to health care services. Approximately 16% of Veterans live within primary care
+shortage areas and 70.2% live in mental health care shortage areas. i To improve
+Veteran access to quality care, VA implemented the Maintaining Internal Systems and
+Strengthening Integrated Outside Networks Act of 2018 (MISSION). ii,iii In compliance
+with Section 401 of the MISSION Act, the Office for Veterans Access to Care (OVAC),
+in collaboration with other research and operations offices, developed scoring
+algorithms to identify underserved VA medical facilities in both primary care and mental
+health care. Each year, the most underserved facilities are required to develop action
+plans explaining how they intend to improve Veteran access to care at their facilities.
+Study objective: The objective of this evaluation is to study the effectiveness of the
+underserved scores and mitigation strategies at measuring and addressing facility-level
+underservedness, to continually improve the statistical models used and to expand
+these models to identify underservedness relative to specialty care. The evaluation will
+also take into consideration priority populations (i.e., underserved, marginalized
+populations) as outlined in the recent Executive Order 13985 (Advancing Racial Equity
+Page 6 of 45
+VA FY 2023 Annual Evaluation Plan
+and Support of Underserved Communities Through the Federal Government), issued
+January 27, 2021.
+Study design and data sources: Models are developed using the economic principles of
+supply and demand. Both a quantitative longitudinal cohort study and a qualitative study
+design will be employed to evaluate their effectiveness. Data to be analyzed include
+administrative data on health care use (from VHA's Corporate Data Warehouse),
+Veteran demographics and facility and market characteristics, as well as interviews with
+key stakeholders.
+Analysis:
+Assessment of Scoring Methodologies
+The evaluation will assess how well the scoring methodologies for primary care
+measure underservedness. It will also assess individual variables to ensure they are
+important components in the measure of underservedness and worth keeping in the
+algorithm (e.g., wait times, capacity, Veteran demographics). Should the evaluation
+show that individual variables do not add any information of value to the model,
+refinements will be made ahead of future underserved score calculations to either
+replace or improve those variables.
+Assessment of Mitigation Strategies
+In 2019, OVAC submitted the first annual report to Congress that included the action
+plans from the top seven underserved facilities. The facilities centered their mitigation
+strategies in three areas: personnel-focused (recruit and retain high-need providers),
+virtual care-focused (increase virtual care capacity) and infrastructure-focused (increase
+physical space, as needed). OVAC and its partners will track a variety of metrics
+constructed using administrative data and site visits and interviews to evaluate the
+effectiveness of these mitigation strategies at addressing facility-level underservedness.
+Evaluators will interview local leadership to determine what mitigation strategies (e.g.,
+personnel strategies, telehealth modalities, physical space) were employed to improve
+access to care. This information will then be used to assess how well those strategies
+worked by evaluating changes in access measures and underserved scores.
+Regression models will be used to control for potential confounding factors and to test
+the statistical significance of between group differences. To reflect what mitigation
+strategies were, in fact, implemented, evaluators will include a set of indicator variables
+in the underserved models in place of the proposed action plan data. The analysis will
+also include a comparison of underservedness between the facilities required to submit
+action plans (top 20 most underserved) and those that were not. Evaluators will
+estimate the effectiveness of the program by measuring the extent to which the action
+planning group demonstrates greater improvement than the comparison group on
+various metrics (e.g., underserved score, hiring, utilization of technology-based care).
+Implementation into Specialty Care
+Lastly, statistical models like the one used for primary care will be developed for
+specialty care. These different areas of care require unique approaches given the
+differences in the types of care provided and how that care is delivered. New models
+will be developed with the input of OVAC and the Office of Specialty Care.
+Page 7 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2023
+Q1
+Model development - primary care, specialty care
+Calculate this year's underserved scores (primary care, specialty care)
+Quantitative evaluation data analysis - assess variable integrity and
+effectiveness at measuring underservedness
+Qualitative evaluation data collection and analysis - disseminate email
+surveys to and conduct phone interviews with local leadership, analyze
+impact of implemented mitigation strategies
+Q2
+Submit underserved scores to national/local leadership
+Compile and submit final evaluation report
+Q3
+Debrief with national/local leadership to improve model and evaluation
+process-conduct phone interviews upon request, provide scoring
+breakdowns for specific facilities, incorporate feedback into model
+refinement in Q4
+Q4
+Model refinement-incorporate leadership feedback from Q3 into model,
+update data sources and datasets when available, include new variables
+where appropriate
+Quantitative evaluation data analysis - assess variable integrity and
+effectiveness at measuring underservedness
+Plan analyses for expanded evaluation focused on virtual care for other
+services such as mental health
+Qualitative evaluation data collection and analysis - disseminate email
+surveys to and conduct phone interviews with local leadership, analyze
+impact of implemented mitigation strategies
+Compile and submit next cycle's interim evaluation report
+FY 2024
+Q1
+Model development-primary care, specialty care
+Calculate this year's underserved scores (primary care, specialty care)
+Quantitative evaluation data analysis-assess variable integrity and
+effectiveness at measuring underservedness
+Qualitative evaluation data collection and analysis - disseminate email
+surveys to and conduct phone interviews with local leadership, analyze
+impact of implemented mitigation strategies
+Q2
+Submit underserved scores to national/local leadership
+Compile and submit final evaluation report
+Q3
+Debrief with national/local leadership to improve model and evaluation
+process-conduct phone interviews upon request, provide scoring
+breakdowns for specific facilities, incorporate feedback into model
+refinement in Q4
+Page 8 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2024
+Q4
+Model refinement - incorporate leadership feedback from Q3 into model,
+update data sources and datasets when available, include new variables
+where appropriate
+Quantitative evaluation data analysis - assess variable integrity and
+effectiveness at measuring underservedness
+Qualitative evaluation data collection and analysis - disseminate email
+surveys to and conduct phone interviews with local leadership, analyze
+impact of implemented mitigation strategies
+Compile and submit next cycle's interim evaluation report
+Anticipated challenges: Evaluators anticipate that the newness of the underserved
+program may make evaluation difficult. With only three years of data, changes in
+underservedness may be hard to quantify. Thus, quantifying the program's overall
+impact may also prove difficult. Additionally, every care specialty has unique access
+challenges. Developing new models will require multiple iterations and meeting
+congressional deadlines for annual underserved designations may be difficult while still
+maintaining statistical integrity. To address this, evaluators will continually update the
+models to include the most recent and granular data possible as well as improve model
+form whenever issues or concerns arise, be they from the evaluation team or external
+stakeholders. Lastly, COVID-19 significantly impacted FY 2020 and FY 2021 data.
+Determining how to best account for these disruptions to care delivery will be
+challenging and may take several years to finalize.
+Dissemination: OVAC began to receive annual evaluation reports from its research
+partners in FY 2021Q2. The findings will also be shared with Congress in the program's
+annual congressionally mandated reports. Evaluators will share findings with local and
+national leadership as requested. Evaluators will also produce deidentified and/or
+aggregated results that can be shared with the public. This cycle of dissemination will
+continue so long as model development and evaluation continue.
+Anticipated milestones:
+Point of contact: The Partnered Evidence-based Policy Resource Center (PEPReC) is
+responsible for this evaluation. PEPReC can be reached at peprec@va.gov.
+A.2 Evaluating the Effectiveness of Virtual Care at VHA
+Learning Agenda Question: How can VA ensure that Veterans have access to timely
+care in their preferred setting?
+Page 9 of 45
+VA FY 2023 Annual Evaluation Plan
+Evaluation Questions:
+1. What has been the adoption rate of virtual care among VHA providers and how
+has it varied geographically?
+2. Does virtual care utilization improve clinic functionality and efficiency and
+increase access to care?
+3.
+Does virtual care utilization affect patient outcomes and how do outcomes differ
+across underserved and marginalized Veteran groups?
+4. Does virtual care affect provider retention and turnover?
+5. Are there unintended consequences of virtual care utilization?
+Timeline: The project started in FY 2021 and will run through FY 2024.
+Background: Most Veterans who are enrolled in VHA care live in areas with limited
+access to health care services. Approximately 16% of Veterans live within primary care
+shortage areas and 70.2% live in mental health care shortage areas. iv VA was a pioneer
+and adopted virtual care services in 2003 to reduce the access barriers Veterans face.
+By 2018, VA had provided over a million virtual care services. As part of the MISSION
+Act of 2018, VA established the "Anywhere to Anywhere" virtual care initiative to ensure
+that all VA providers in outpatient mental health and primary care service lines were
+capable and experienced with providing telehealth services into the Veteran's home by
+2021.
+The COVID-19 pandemic brought an unprecedented public health emergency, requiring
+VA to lean heavily on virtual care rather than face-to-face care so it could continue
+serving Veterans safely. Going forward, it is important to understand how virtual care
+has been adopted and scaled-up by VHA and how and whether virtual care should be
+continued and promoted post-pandemic when in-person care is safer.
+Study objective: The objective is to evaluate the use and effectiveness of virtual care on
+four broad categories: patient outcomes, clinic efficiency, access to care and retention
+and turnover among provider workforce.
+Study design and data sources: Evaluators will assess the geographic variation in the
+growth of various types of virtual care (e.g., telemedicine, Veteran Virtual Connect and
+clinical resource hubs). Evaluators will develop economic models that evaluate the
+effect of virtual care on patient outcomes, clinic efficiency, access to care and retention
+and turnover among provider workforce.
+The model parameters will be estimated using data from multiple sources. VHA health
+administrative data (from VHA's Corporate Data Warehouse) will provide information on
+clinic efficiency, access to care and certain patient outcomes such as continuity of care
+and readmission rates. Veteran satisfaction measures from the Survey of Healthcare
+Experience of Patients (SHEP) will provide information on patient satisfaction with
+virtual care. For the provider turnover and retention analysis, the study will use provider
+characteristics and preferences from the All Employee Survey. The study will control for
+Veteran characteristics in its models; these Veteran characteristics will come from the
+Survey of Enrollees. In addition, the study will control for a number of local area
+characteristics, which will be derived from various data sources, such as the Area
+Health Resources Files, Bureau of Labor Statistics, Census Bureau and the Centers for
+Page 10 of 45
+VA FY 2023 Annual Evaluation Plan
+Medicare and Medicaid Services. Stakeholder interviews and feedback from academic
+subject matter experts will inform model improvement, in particular how aspects of care
+delivery, patient outcomes, clinic efficiency, access to care and provider turnover and
+retention are measured.
+Analysis: Evaluators will document the geographic variation in the growth of various
+types of virtual care (e.g., telemedicine, Veteran Virtual Connect and clinical resource
+hubs) over time. Evaluators will estimate the impact of virtual care on patient outcomes,
+such as patient satisfaction, continuity of care and frequency of adverse events;
+whether virtual care has the potential to improve access to care, especially in certain
+areas; and the impact of virtual care on retention of the provider workforce and on clinic
+efficiency (accounting for the potential learning curve) in terms of producing more visits
+per day.
+Evaluators will also investigate whether there are certain administrative processes that
+make virtual care more efficient, such as scheduling protocols that intermix in-person
+and virtual care appointments or consolidate virtual care to certain days of the week.
+Evaluators will identify geographical areas or Veteran subpopulations that may benefit
+from virtual care more than others and identify specialties that may benefit from virtual
+care more than others.
+Economic models will be developed in primary care first, due to more detailed data and
+procedure coding. A model will be developed for each outcome measure within the
+broad categories of patient outcomes, clinic efficiency, access to care and retention of
+the provider workforce. Each model will be designed to focus on identifying the effect of
+virtual care usage on the respective outcome measure. Economic models will be
+grounded in a conceptual framework based on economic theory of supply and demand.
+The models will include supply factors, including the use of virtual care and demand
+factors, such as measures of alternative health coverage for Veterans, socioeconomic
+measures, racial composition and other demographics of Veterans. These models will
+be estimated via multivariate regression. Evaluators will translate these concepts into an
+empirical model and use regression estimation to test hypotheses, such as whether
+virtual care had an impact on clinic efficiency, for example. Potential confounders are
+that the demand for VHA services changed (due to COVID-19) while supply or use of
+virtual care changed dramatically. Evaluators will investigate whether potential natural
+experiments exist that create variation in the use of virtual care that is not related to
+demand shifts.
+Throughout the development process, evaluators will seek feedback from local
+leadership and other researchers to improve the model by assisting how to measure
+certain supply variables. Local leadership will also provide a better understanding of the
+application to policy. After the model on primary care is developed and tested for
+robustness, model development will expand to include specialty care. Since each
+division of care may be different in terms of its use, implementation and recording of
+virtual care, the data and models developed may be different for each one.
+Anticipated challenges: Prior to 2020, the use of virtual care was not widespread. In
+2020, health care clinics were required to rapidly adopt and implement this type of care.
+Due to the timeline for implementing virtual care, the data may not be clean or readily
+Page 11 of 45
+VA FY 2023 Annual Evaluation Plan
+available for all clinics. Thus, documenting the variation in virtual care and quantifying
+its impacts may be limited to areas that do provide clean data. Moreover, the external
+validity of the findings may need to rely on stronger assumptions.
+Dissemination: The VHA Chief Strategy Office (CSO) will receive annual evaluation
+reports from the Partnered Evidence-based Policy Resource Center (PEPReC).
+Evaluators will share findings with local and national leadership as requested.
+Evaluators will also produce deidentified and/or aggregated results that can be shared
+with the public through conference presentations, academic publications and media
+outlets.
+Anticipated milestones:
+FY 2023
+Q1
+Incorporate virtual care into PEPReC's existing model on access to
+primary care
+Ascertain relevant measures necessary for the model
+Assess integrity and effectiveness of measures
+Estimate the access to primary care model using the data collected
+Develop and estimate model that evaluates the impact of virtual care on
+clinic efficiency in specialty care clinics
+Q2
+Discuss preliminary findings of access to primary care models & clinic
+efficiency in specialty care models with national/local leadership and other
+researchers
+Refine all models, incorporating feedback from leadership and
+researchers
+Update data if applicable
+Use access to primary care model to generate policy simulations
+Develop and estimate model that evaluates the impact of virtual care on
+patient outcomes in specialty care clinics
+Q3
+Develop a conceptual model that evaluates the impact of virtual care on
+the primary care provider workforce
+Interview providers to understand qualitatively their perspective on virtual
+care
+Develop measures that quantify aspects of the provider workforce (e.g.,
+turnover and burnout)
+Ascertain other measures necessary for the model
+Assess integrity and effectiveness of measures
+Estimate the model using the data collected
+Q4
+Discuss all findings with national/local leadership and other researchers
+Refine all models, incorporating feedback from leadership and
+researchers
+Update data if applicable
+Develop and estimate model that evaluates the impact of virtual care on
+access to specialty care
+Compile and submit next cycle's interim evaluation report
+Page 12 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2024
+Q1
+Develop and estimate model that evaluates the impact of virtual care on
+specialty care provider workforce
+Use specialty care access and clinic efficiency models to generate policy
+simulations
+Develop plan to address other policy relevant questions, such as:
+Evaluate whether virtual care affects Veteran demand for community
+care relative to in-house care
+Identify areas that would benefit the most from virtual care
+Identify specialties that would benefit the most from virtual care
+Evaluate the potential expansion of production due to virtual care
+capacity
+Identify administrative processes that make virtual care more efficient
+Q2
+Expand to more specialties beyond the initially selected 3-5 specialties
+Discuss all findings with national/local leadership and other researchers
+Refine all models, incorporating feedback from leadership and
+researchers
+Update data if applicable
+Q3
+Implement plan to address other policy relevant questions (FY 2024Q2)
+Q4
+Compile and submit next cycle's interim evaluation report
+Point of contact: The Partnered Evidence-based Policy Resource Center (PEPReC) is
+responsible for this evaluation. PEPReC can be reached at peprec@va.gov.
+B. Suicide Prevention and Mental Health
+B.1 Caring Letters for Veterans Crisis Line Callers
+Learning Agenda Question: What strategies work best to prevent suicide among
+Veterans?
+Evaluation Question: Are Caring Letters an effective and sustainable intervention to
+reduce suicide behaviors among Veterans?
+Timeline: Ongoing; the project began in FY 2020 and will continue through FY 2023.
+Background: Suicide is a leading cause of death in the Veteran population. Veterans
+accounted for 13.5% of all deaths by suicide among U.S. adults in 2017. vi Suicide rates
+vary depending on service branch, age, sex/gender and other factors.vii Reducing rates
+of Veteran suicide is VA's top clinical priority. The President's Roadmap to Empower
+Veterans and End a National Tragedy of Suicide (PREVENTS) takes an all-inclusive,
+public health approach to suicide prevention. This roadmap prioritizes suicide reduction
+research, implementation strategies and emphasizes the need for program evaluations
+to ensure better suicide prevention for Veterans. The Commander John Scott Hannon
+Veterans Mental Health Care Improvement Act also expands VA and VHA efforts to
+prevent Veteran suicide and improve mental health outcomes. To this end, there are
+several ongoing suicide prevention programs and interventions being evaluated for their
+effectiveness in the Veteran population.
+Page 13 of 45
+VA FY 2023 Annual Evaluation Plan
+Previous studies, including a 1976 randomized control trial of Caring Contacts in the
+civilian population and later, studies in multiple different countries and populations, have
+shown that Caring Contacts is an effective method of suicide prevention, in which
+caring, non-demanding messages of support are sent to high-risk individuals.
+viii
+Contacts can be digital (text messages) or physical (postcards or letters).
+Caring Contacts was adapted for implementation in the Veteran population in 2019 for
+emergency department visits and piloted at one VA facility with positive feedback. The
+Veterans Crisis Line (VCL) Caring Letters initiative is expected to have the largest reach
+of all Caring Contact implementations yet and targets all Veterans from VHA who call
+VCL, VA's suicide telephone hotline. While the Quality Enhancement Research Initiative
+(QUERI) funded partnered evaluation of this program is planned for three years (FY
+2020 - FY 2023), the Caring Letters program, in which Veterans will receive letters over
+the course of a year after their call, is intended to become a permanent part of VCL care
+for callers.
+Study objective: This evaluation aims to determine the effects of Caring Letters on care
+utilization, mental health outcomes and suicide behaviors of VCL callers, identify
+facilitators and barriers to program implementation and conduct a budget analysis of
+program costs.
+The primary aim of this evaluation is to evaluate the effects of Caring Letters on clinical
+outcomes (including incidence of VA-documented suicide attempts) and clinical
+utilization rates (including VA inpatient mental health hospitalization and outpatient
+mental health utilization). An additional exploratory aim will be to examine rates of all-
+cause mortality and suicide for Veterans who receive Caring Letters compared to the
+comparison cohort of Veterans from the two years prior to the launch of the Caring
+Letters campaign. Since this is a new population for the use of the intervention, the
+project will also evaluate the effects of two different Caring Letter signatories (VA
+Counselor and a Peer Veteran) by randomizing each enrolled Veteran to one of two
+conditions. The evaluation will also examine facilitators and barriers to implementing the
+Caring Letters program using the RE-AIM (Reach, Effectiveness, Adoption,
+Implementation, Maintenance) framework and will include budget impact analyses.
+Study design and data sources: As an effectiveness-implementation hybrid design this
+evaluation focuses on both clinical effectiveness and implementation goals. This
+evaluation includes a randomized and a non-randomized component. In the randomized
+portion of the study, all Veterans who meet the inclusion criteria will receive nine caring,
+non-demanding letters over the course of a year following their call to VCL, randomized
+by signatory (by provider or by peer). Participants were included in the evaluation cohort
+if they called VCL during the evaluation period (6/22/2020 - 6/30/2021) and were an
+identifiable VCL caller (e.g., not an anonymous caller); had a valid mailing address on
+file with the VA; and were calling about themselves (i.e., not calling about a loved one).
+Quantitative and qualitative analyses will be conducted. Quantitative data sources will
+consist of secondary VA data that are collected as a part of routine care and/or clinical
+management. These include the VCL data repository, Corporate Data Warehouse
+(CDW), suicide attempt data and DOD-VA Suicide Data Repository and mortality data.
+Qualitative data sources include program documentation content analysis for
+Page 14 of 45
+VA FY 2023 Annual Evaluation Plan
+implementation evaluation, as well as surveys and stakeholder interviews that include
+Veterans' perspectives.
+In the non-randomized portion of the study, clinical outcomes and clinical utilization will
+be compared among Veterans who called the VCL after June 2020 (when Caring
+Contacts began to be mailed) and among Veterans who called the VCL from June 2018
+to May 2020. This pre-post design will provide data on differences in outcomes among
+VCL callers who do and do not receive letters.
+Analysis: For the randomized portion of the evaluation (comparison of letter signatory),
+differences in outcomes for pre-post and signatory comparisons will be analyzed with
+chi-square tests, a Wilcoxon rank-sum test, logistic regression, zero-inflated Poisson, or
+negative binomial models. Analysis for this intervention utilizes the RE-AIM framework.
+For the non-randomized portion of the evaluation (comparison of letters VS no letters),
+evaluators will compare outcomes among the randomized cohort to outcomes from a
+matched comparison cohort of VCL callers from two years prior to the program's launch
+in 2020. Outcomes will be assessed using VHA administrative data. Differences in
+outcomes will be analyzed with chi-square tests, Wilcoxon rank-sum tests, logistic
+regression, zero-inflated Poisson, or negative binomial models.
+Evaluators will assess the program's reach by measuring the total number of eligible
+Veterans as well as the number reached. Analyses will include the number of cards
+sent, the number of undeliverable cards, as well as the number of opt-outs. Data will be
+compiled into a master file in CDW, pulled from a backup of the VCL database
+(Medora), postal receipt information provided by the printing contractor and opt-out
+feedback provided to the general e-mail or the VA311/VCL line.
+Ongoing effectiveness analyses will examine increased use of resources, incidence and
+frequency of documented suicide attempts, rates of inpatient mental health
+hospitalization, emergency department visits and engagement in mental health care.
+Upon completion of the evaluation period, effectiveness analyses will look at rates of
+suicide and all-cause mortality as well (suicide analyses will be delayed due to standard
+delays in the availability of national cause of death data). Maintenance analyses will
+determine guidance and recommendations for sustainability and future VA use of the
+Caring Letters program.
+An additional budget impact analysis will incorporate the cost of materials, staff time
+devoted to launching and maintaining the program and pre- and post-intervention
+comparisons of care utilization, to determine the mean costs of the program, measured
+by patient/month.
+A qualitative analysis component will provide insight into the effectiveness of the
+intervention at different points in the evaluation and will be used to track implementation
+barriers and facilitators. As part of the stakeholder interview process evaluators will
+inquire about the perceived helpfulness of the letters and Veterans will self-report on
+their care and resources. This data will be provided to VCL for continued program
+quality improvement.
+Anticipated challenges: A significant challenge of this intervention is being able to
+isolate the impact of the intervention from the effect of COVID-19 on outcomes among
+Page 15 of 45
+VA FY 2023 Annual Evaluation Plan
+VCL callers. Pandemic aside, because this is the largest implementation of a Caring
+Contacts project to date, logistics of continuously enrolling a large number of patients
+into the intervention will require careful coordination between the different groups
+involved working on participant data design and tracking, program implementation,
+printing and qualitative/quantitative evaluation.
+Dissemination: Regular quarterly reports on the intervention's reach will be compiled
+and provided to VA leadership, particularly the Office of Mental Health and Suicide
+Prevention (OMHSP). Insights on the program's impacts, as well as associated costs,
+can be used to guide future implementation at the local and regional levels. Once the
+program evaluation is complete, the evaluation team will share findings with the key
+stakeholders. We will also tailor results reporting in consultation with communication
+leads to reach a broader audience of Veterans through media and publications. Since
+this will be the largest Caring Letters program to date, the results of this evaluation will
+also inform Caring Letters programs within and beyond the VCL and VA system.
+Additional dissemination activities will include peer-reviewed journal articles and
+promotional materials developed by the Center for Information Dissemination and
+Education Resources (CIDER), a QUERI resource center.
+Anticipated milestones:
+FY 2023
+Q1
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+Q2
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+Q3
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+Page 16 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2023
+Q4
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+FY 2024
+Q1
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+Q2
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+Q3
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+Q4
+Quarterly stakeholder reporting, incorporating total cards sent,
+undeliverable cards, number of opt-outs, percentage of target population
+reached
+Ongoing data collection for program fidelity, implementation barriers and
+facilitators and budget tracking
+Ongoing analyses: baseline comparison group, pre-post, cross-arm
+comparison
+Point of contact: This evaluation is being led by Dr. Mark Reger of VA Puget Sound
+Healthcare System in collaboration with the Partnered Evidence-based Policy Resource
+Center (PEPReC). PEPReC can be reached at peprec@va.gov and Dr. Reger can be
+reached at mark.reger@va.gov.
+Page 17 of 45
+VA FY 2023 Annual Evaluation Plan
+B.2 Clinical Informatics and Data Management Office (CIDMO)
+Learning Agenda Question: What strategies work best to prevent suicide among
+Veterans?
+Evaluation Question: How do facility-level differences in mental health staffing and
+operations impact mental health access, utilization and outcomes?
+Timeline: The CIDMO project began in FY 2020 and is expected to continue in
+upcoming fiscal years.
+Background: Suicide was the tenth leading cause of death in the United States in 2018.
+Though they represent only 5 percent of the total population, Veterans die by suicide at
+a disproportionately high rate, accounting for more than 13 percent of all deaths by
+suicide. The risk to Veterans is highest in the first two years post-discharge and remains
+persistently high in the six years following military service.ix Nearly 60% of the Veterans
+who died by suicide in 2017 had been diagnosed with a mental health condition in the
+past two years, making improving the continuity of mental health care for transitioning
+Veterans a key lever for suicide prevention. To help address this issue and assist
+Servicemembers transition to VA care, VA, Department of Defense (DoD) and
+Department of Homeland Security (DHS) implemented the Joint Action Plan that
+expands access to mental health treatment and suicide prevention services during the
+first year post-service.X
+Study objective: The study objective is to estimate causal effects of mental health
+capacity, both in and outside of VHA and efficiency, on engagement in mental health
+care among a cohort of recently separated Veterans, as well as on the likelihood of a
+Veteran experiencing a suicide-related event (SRE) or other serious adverse event
+(SAE). This information has rich practical application to key operational issues such as
+optimal size of a mental health clinic, clinic efficiency improvements and the geographic
+distribution of resources.
+Study design and data sources: The evaluation uses econometric methods to develop a
+value analysis model and planning framework for Veterans' mental health care. The
+model estimates changes in mental health treatment engagement and SREs/SAEs
+among Veterans seeking care facilities with varying levels of mental health staffing. The
+project employs data from numerous sources including the VHA Corporate Data
+Warehouse (CDW) and Department of Defense and Department of Veterans Affairs
+Infrastructure for Clinical Intelligence (DaVINCI). Analysis of SREs and SAEs relies on
+data from VA surveillance systems, including the VA-Suicide Prevention and Application
+Network (SPAN), the Comprehensive Suicide Risk Evaluation (CSRE) and the Suicide
+Behavior and Overdose Report (SBOR).
+Analysis: The project focuses on developing metrics to identify measures of value
+relating mental health staffing to two specific outcomes: treatment engagement and
+SREs/SAEs. When evaluating engagement in mental health treatment among recently
+separated Veterans, the evaluation has two outcomes of interest: engagement within
+the first 12 months post-discharge and time to first engagement. The evaluation will
+utilize descriptive analysis and discrete time hazard models with instrumental variables
+Page 18 of 45
+VA FY 2023 Annual Evaluation Plan
+to introduce exogenous variation in mental health capacity and efficiency. In addition,
+the evaluators will control for individual- and area-level characteristics.
+Relative to the analysis of SREs and SAEs, evaluators are working to refine initial
+modeling efforts. As suicide mortality is relatively rare within the datasets being utilized,
+the analysis of SREs/SAEs is critical as they are inextricably linked to mental health.
+The project identifies SREs as being inclusive of death by suicide, suicide attempts,
+suicidal self-directed violence and undetermined self-directed violence. These events
+are captured through numerous surveillance systems which rely on accurate reporting
+and documentation. The evaluators will use instrumental variable analysis to correct for
+statistical limitations, such as ascertainment bias, that may arise from the use of these
+datasets.
+Anticipated challenges: The primary challenges encountered and anticipated are
+statistical limitations inherent to the datasets under analysis. First, evaluators are
+working to address the issue of ascertainment bias associated with the recording of
+mental health outcomes. Ascertainment bias poses a significant challenge as outcomes
+(SREs) are only recorded to the extent that they are known to providers within the VHA
+system. Failing to account for ascertainment bias may result in the model failing to
+identify an effect of capacity on SREs.
+The evaluators also anticipate other methodological challenges relative to facility-level
+differences. For example, operational practices may vary from facility to facility in ways
+that are difficult to assess via administrative data, as well as differences in the collection
+and documentation of that data. Similarly, it will be difficult to fully account for regional
+differences in community need for mental health treatment services.
+Dissemination: Since implementation, evaluators have disseminated findings to both
+research and operational partners. This practice will continue as the evaluation
+progresses. Evaluators also plan to share findings through academic, peer-reviewed
+journals, as well as presentations at relevant subject matter conferences.
+Anticipated milestones:
+FY 2023
+Q1
+Identify specific components of mental health capacity and efficiency and
+other clinic organization variables that need to be assessed for their
+impact on patient care for inclusion into model
+Identify sites which would benefit most greatly from new mental health
+capacity
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+Enhance dissemination efforts through publication, conference
+presentation, policy brief, or other communication materials
+Page 19 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2023
+Q2
+Integrate clinic efficiency and other clinic organization variables into model
+Identify sites which would benefit most greatly from new mental health
+capacity
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+and in what manner
+Enhance dissemination efforts through publication, conference
+presentation, policy brief, or other communication materials
+Q3
+Integrate clinic efficiency and other clinic organization variables into model
+Conduct initial analysis of efficiency and other clinic organization variables
+on treatment engagement and SREs/SAEs
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+and in what manner
+Enhance dissemination efforts through publication, conference
+presentation, policy brief, or other communication materials
+Draft interim report of findings for operational partners
+Q4
+Continue analysis of efficiency and other clinic organization variables on
+treatment engagement and SREs/SAEs
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+and in what manner
+Disseminate interim report to operational partners
+Enhance dissemination efforts through publication, conference
+presentation, policy brief, or other communication materials
+FY 2024
+Q1
+Continue analysis of efficiency and other clinic organization variables on
+treatment engagement and SREs/SAEs
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+and in what manner
+Maintain multimodal dissemination efforts
+Q2
+Continue analysis of efficiency and other clinic organization variables on
+treatment engagement and SREs/SAEs
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+and in what manner
+Maintain multimodal dissemination efforts
+Page 20 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2024
+Q3
+Identify components of capacity and efficiency that need to be further
+assessed, based on the advice of operations partners. These components
+may include scheduling practices, composition of mental health staff,
+proportion of group therapy visits, cancellation no-show rates,
+unscheduled work and return visit frequency
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+and in what manner
+Draft interim report of findings for operational partners
+Maintain multimodal dissemination efforts
+Q4
+Conduct feasibility study of assessing components of mental health
+capacity and efficiency that have been identified by operations partners as
+needing analysis. These components may include scheduling practices,
+composition of mental health staff, proportion of group therapy visits,
+cancellation no-show rates, unscheduled work and return visit frequency
+Consult regularly with the Office of Mental Health and Suicide Prevention,
+the Access Office and other operational partners to solicit feedback on
+what aspects of mental health operational practices should be assessed
+and in what manner
+Disseminate interim report to operational partners
+Maintain multimodal dissemination efforts
+Point of contact: The Partnered Evidence-based Policy Resource Center (PEPReC) is
+responsible for this evaluation. PEPReC can be reached at peprec@va.gov.
+C. Opioids and Substance Use Disorder
+C.1 The Stratification Tool for Opioid Risk Mitigation (STORM)
+Learning Agenda Question: How can VHA provide clinically appropriate pain
+management to Veterans while simultaneously decreasing dependence on opioids?
+Evaluation Questions:
+1. Does STORM improve opioid safety, as measured by the probability that a patient
+experiences a serious adverse event?
+2. Do patient outcomes differ when STORM policy language outlines consequences
+for failing to meet minimal case review targets?
+Timeline: Initial evaluation completed in FY 2020; evaluation extension anticipated
+through FY 2023.
+Background: The opioid epidemic has ravaged communities in the United States, with
+Veterans facing an increased likelihood of developing opioid use disorder (OUD) due to
+a variety of unique military stressors. xii, xiii,xiv In 2018, over 900,000 Veterans treated in
+VHA had an opioid prescription. XV,XVi VA developed the Stratification Tool for Opioid Risk
+Mitigation (STORM) in 2017 to help clinical providers better identify Veterans who might
+Page 21 of 45
+VA FY 2023 Annual Evaluation Plan
+be particularly vulnerable to negative opioid-related outcomes. xvii VA issued a policy
+notice that required clinicians to conduct case reviews and identify appropriate risk
+mitigation strategies for patients who were identified as high-risk for opioid-related
+adverse events by STORM.XVili
+Study objective: The STORM evaluation is a multiyear effort that aims to determine if
+the use of the STORM tool decreases the rate of opioid-related adverse outcomes and
+whether the inclusion of consequences for failing to meet the minimum case review
+target would affect both the behavior of VHA providers and the opioid-related adverse
+event rate.
+Study design and data sources: The evaluation is an interventional, cluster randomized
+trial that uses a stepped-wedge design to measure both the effectiveness of VHA's case
+review policy and the STORM dashboard in identifying patients at a high-risk of opioid-
+related serious adverse events (SAEs). Demographic, diagnostic, pharmacy and health
+care utilization data are pulled from the VHA Corporate Data Warehouse (CDW).
+Analysis: The evaluation includes two interventions. In the first intervention, VHA
+facilities are required to review patients with different risk levels as identified by the
+STORM tool. For the first nine months of the evaluation, the facilities include patients in
+the top 1% of risk. After that, half the facilities are randomly selected to increase their
+case review load to include patients identified in the top 5% of risk. All participating VHA
+facilities case review rates are reviewed using VHA administrative data 18 months after
+the initial start date.
+In the second intervention, VHA facilities are randomly selected into two groups. One
+group will receive a policy memo indicating consequences if case review completion
+targets are not met, the other will receive a memo without any mention of the
+consequences. Like the first part of the evaluation, participants' case review rates are
+reviewed using VHA administrative data 18 months after initiation.
+The primary outcome variables measured for both interventions are opioid-related SAEs
+- opioid overdose, accidental falls and possible and confirmed suicide attempts - which
+will be identified using ICD-10 codes. The rate of opioid related SAEs will be compared
+between a treatment group (high risk patients as identified by the STORM dashboard)
+and a control group (patients who were not displayed on the dashboard) over the
+course of two years. Patients are censored from the study if they experience one of the
+SAEs, die, or leave the study.
+The data is analyzed using an intention-to-treat approach with patient-month-level
+survival analysis for both parts of the evaluation (effectiveness of policy memo and
+effectiveness of the STORM tool).
+The evaluators will conduct quantitative analyses to evaluate the effects of the differing
+policy approaches and patient inclusion on the STORM tool's high-risk list on time to
+first opioid-related SAE, using data from the dashboard and CDW. The evaluators will
+examine the consequences of expanding the risk strata at each step wedge on patient
+load, case review rates and risk mitigation rates. These findings will help inform future
+policy roll outs and implementation initiatives.
+Page 22 of 45
+VA FY 2023 Annual Evaluation Plan
+Evaluators will also conduct exploratory analyses in addition to the analyses outlined in
+the clinical trial protocol. These additional analyses will seek to understand (1) whether
+there are any racial/ethnic disparities in outcomes among individuals in the top 5% of
+high-risk patients, (2) the impact of the STORM roll-out on provider practice patterns
+and (3) the impact of the STORM roll-out on outcomes for patients diagnosed with
+OUD.
+Anticipated challenges: Evaluators found that the expansion of case review
+requirements, from the top 1% of high-risk patients to the top 5% of high-risk patients,
+dramatically increased mental health providers' workload. If the STORM dashboard is
+implemented at this level with no additional changes (e.g., additional staffing), this could
+pose a challenge for mental health providers in the future, potentially leading to provider
+burnout. Another notable challenge to this work is that VHA is unable to observe
+prescriptions and opioid-related adverse events that occur outside of the VHA system.
+This knowledge gap and how it impacts STORM, will likely be an area of future study.
+Dissemination: Evaluators have presented the evaluation protocol at the 2017 Academy
+Health National Health Policy Conference and as a VHA cyber-seminar in 2020. The
+findings from the evaluation were presented by poster at the RX Summit in April 2021
+and were presented at the Academy Health Annual Research Meeting in June 2021,
+where one of the abstracts was chosen as best of conference. In addition, they have
+also published research articles in peer-reviewed journals showcasing the design and
+protocol of the study and have presented findings, internally, to VA researchers,
+physicians and policy makers. Dissemination efforts will be updated as more results
+become available.
+Anticipated milestones:
+FY 2023
+Q1
+Finalize data collection from STORM dashboard
+Finalize evaluations of STORM policy and dashboard
+Perform secondary analyses of STORM intervention and impact on
+patient outcomes to inform VA best practices in pain management
+Q2
+Update findings on STORM's impact on patient outcomes and private
+practice
+Final dissemination of reports to operational partners and implementation
+teams
+Q3
+Finalize evaluation report synthesizing qualitative and quantitative findings
+Q4
+Finalize publication of findings in peer-reviewed journals and presentation
+of findings at conferences
+Point of contact: The Partnered Evidence-based Policy Resource Center (PEPReC) is
+responsible for this evaluation. PEPReC can be reached at peprec@va.gov.
+C.2 Post-Incarceration Engagement (PIE)
+Learning Agenda Question: How can VHA provide clinically appropriate pain
+management to Veterans, especially those from underserved and marginalized
+populations, while simultaneously decreasing dependence on opioids?
+Page 23 of 45
+VA FY 2023 Annual Evaluation Plan
+Evaluation Questions:
+1. Does PIE improve linkage with and engagement in mental health and substance
+use treatment and housing for reentry Veterans?
+2. Is there an association between peer specialist fidelity to the PIE model and the
+use of higher intensity implementation strategies?
+Timeline: The current iteration of the PIE program launched in FY 2021 and will run
+through FY 2025.
+Background:
+Justice-involved populations, including Veterans, have a considerable burden of chronic
+physical and behavioral health conditions including alcohol use disorder, mental illness
+and SUD. xix,xx,xxi The risk of homelessness is high, with 30% experiencing some
+homelessness post-release, compared to 6% among the general population of adult
+men.xxii The VA's Health Care for Re-Entry Veterans (HCRV) specialists assess needs
+pre-release, link VA-eligible Veterans with appropriate services including housing and
+treatment for mental health and substance use disorders upon release and provide
+short-term case management post-release.
+Many of the Veterans in the HCRV program have mental health and/or substance use
+disorders. The HCRV program is designed to promote successful community
+reintegration and to prevent homelessness upon release. A retrospective study of
+Veterans who had an HCRV outreach visit in fiscal years 2008-2013 found that 57%
+had been diagnosed with a mental health disorder, 47% had a substance use disorder
+and 35% had both.XXiii
+The PIE program was designed to add a peer support component to HCRV services
+and to integrate these peer services into HCRV to provide more comprehensive support
+for reentry Veterans. PIE is an enhancement to VA's HCRV program. PIE complements
+the existing HCRV service array through the addition of intensive peer support
+specialists who can help bridge resources and services across multiple contexts
+including correctional facilities, community-based organizations and VA. Working with
+HCRV specialists, peer specialists assist reentry Veterans leaving prison or jail to
+connect with VA and the community resources they need. PIE peer specialists can help
+Veterans with pre-release planning, provide day of release support (including transport
+from the prison or jail to parole/probation and to their pre-arranged housing) and then
+deliver tailored services post-release for approximately 6-12 months.
+PIE was one of four innovative practices that was pilot tested as part of the VA Bridging
+the Care Continuum Quality Enhancement Research Initiative (Bridge QUERI) program
+from 2015-2020. Bridge QUERI sought to improve the health of vulnerable Veterans by
+improving diagnosis, outreach, linkage and engagement with specialty care. Evaluation
+of the PIE program found that when compared with a historical comparison group,
+participants in the PIE intervention were significantly more likely to receive substance
+use treatment (86% vs 19%, p<.0001) and to be engaged in mental health services
+(93% versus 64%, p<.003). The recidivism rate for the 43 male Massachusetts PIE
+participants who were released less than one year from prison or jail was 7% compared
+with the statewide rate of 17% for those released from prisons run by the
+Page 24 of 45
+VA FY 2023 Annual Evaluation Plan
+Massachusetts Department of Correction in 2016, the most recent year that data are
+available. xxiv In addition, most of the PIE participants achieved permanent housing.
+The PIE intervention is grounded in a growing body of evidence regarding the role of
+peer-specialists in efforts to help link and support engagement in health care and
+community support services. XXV A cluster randomized controlled trial (cRCT) involving
+Veterans with mental illness showed greater improvement in patient activation
+(knowledge, skill, confidence and attitudes for managing health and treatment) in
+Veterans with peers on their case management teams, compared to Veterans whose
+case management teams did not have a peer. xxvi Eleven studies conducted outside VA,
+including RCTs, quasi-experimental and correlational studies, have shown
+improvements in hospitalization rates, treatment engagement, appointment no-shows,
+social functioning and unmet needs through the use of peer support.XXVI PIE seeks to
+build on these findings within the justice-involved Veteran population.
+Study objective:
+PIE aims to improve access to and engagement in mental health and substance use
+treatment services, with the goal of ultimately reducing homelessness and the likelihood
+that Veterans being released from jails and prisons will commit crimes in the future. To
+achieve this, PIE will first identify pre-implementation barriers to adopting PIE and adapt
+implementation strategies for each of the six sites that are implementing the PIE model.
+Second, PIE will evaluate the effectiveness of high- versus low-intensity implementation
+strategies on Veteran engagement with services and on fidelity to the model. Each site
+will begin with a low intensity, baseline implementation strategy (educational
+outreach/academic detailing) and in successive waves will add a higher intensity
+implementation (facilitation) on a rolling basis. Finally, PIE will develop an
+Implementation Playbook that may sustain the PIE peer support model and may be
+adopted by VAs to enhance services and outcomes for Veterans leaving incarceration.
+Study design and data sources:
+The study will use a stepped wedge implementation-effectiveness study design to
+examine both effectiveness of PIE as an intervention by assessing barriers to
+implementation, as well as the effectiveness of the implementation strategies at
+instituting and sustaining the PIE intervention at the site by evaluating the effectiveness
+of high- versus low-intensity implementation strategies on Veteran engagement with
+services and on fidelity to the mode.
+PIE will be implemented in six VA medical centers across the U.S. for a minimum of 18
+months with additional time for follow-up evaluation. Implementation will be staggered at
+the six sites and began in FY 2021 and is expected to continue through FY 2025. The
+PIE program will be embedded with VA medical centers' Veterans Justice Programs,
+which includes HCRV as well as and Veterans Justice Outreach (VJO) program.
+Additionally, in three of the six sites, the Housing Urban Development - Veterans Affairs
+Supportive Housing (HUD-VASH) program will also be involved in the PIE
+implementation. In those sites, the peer support specialist will function as an
+interdisciplinary member of the HUD-VASH team and will be trained in the PIE model as
+well as the HUD-VASH program.
+Page 25 of 45
+VA FY 2023 Annual Evaluation Plan
+Aim 1. PIE utilizes Rapid Assessment, Response and Evaluation (RARE) processes in
+each of the six PIE sites to 1) understand the practice setting and ecological system in
+which it operates and 2) determine whether adaptations will need to be made to the
+implementation strategies or the evidence-based practice. The RARE model leverages
+qualitative and quantitative research methods to facilitate both process evaluation as
+well as rapid iteration of the PIE intervention as necessary. Formative qualitative
+interviews will be conducted with key stakeholders including HCRV case managers at
+each site and with HUD-VASH staff at the sites using a hybrid HUD-VASH/HCRV peer
+to better understand the context.
+Aim 2. PIE utilizes a Hybrid Type III effectiveness-implementation cluster randomized
+stepped wedge trial. Instead of starting all intervention and control sites together, this
+design staggers the introduction of the implementation strategies such that all sites
+begin with low intensity implementation strategies and after approximately six months
+move into higher intensity implementation strategies in successive waves (three waves
+of two sites each). Evaluators anticipate that higher intensity implementation strategies
+will result in increased fidelity to the intervention and may result in greater linkage and
+engagement with appropriate treatment and housing services.
+For implementation strategy tracking, Computerized Patient Record System notes
+(which include a template for entering PIE-related fidelity information) entered by the
+peer support specialist will be audited and then documented work will be summarized
+for each site monthly. Regular audits and feedback will allow evaluators to assess
+fidelity and consistency to the model. To gather information on effectiveness outcomes,
+including data on healthcare usage, overdose rates and linkage to permanent housing,
+data from the CDW and Homeless Operations Management and Evaluation System
+(HOMES) will be utilized. Additionally, the VINElink website will be used for information
+on criminal recidivism.
+Analysis:
+Aim 1. PIE will use rapid analysis techniques, using brief summaries of interview audio
+recordings or interview notes and data templates to summarize unique elements of
+each practice setting and ecological system which may need adaptation. These data will
+be used by the PIE team to make fidelity consistent adjustments for each site including
+changes in implementation strategies and in some cases elements of the intervention
+itself.
+Aim 2. Effectiveness outcomes will be assessed using the standard modeling approach
+for analysis of stepped wedge designs as described by Hussey and Hughes.XXViii
+Specifically, PIE will estimate the effect of transitioning to a higher-intensity
+implementation strategy from a baseline low intensity strategy on each effectiveness
+outcome using mixed effects regression models. The covariate of primary interest will
+be a fixed effect for the implementation strategy and models will include a fixed effect to
+account for temporal trends and a random effect for study site to account for clustering
+of individuals within sites. The specific functional form of these models will depend on
+the distribution of the outcome of interest (e.g., logistic models for dichotomous
+outcomes; linear models for continuous outcomes). PIE will examine within-site
+changes in outcome measures evaluated under the proposed design.
+Page 26 of 45
+VA FY 2023 Annual Evaluation Plan
+In addition to assessing within-site changes in these measures and while accounting for
+similarities/differences in site-level characteristics across participating sites, PIE will
+take advantage of the cascading implementation start times of the stepped wedge
+design to (i) cross-sectionally compare sites that are undergoing versus yet to undergo
+implementation and (ii) examine the impact of secular trends on the observed changes
+in the measures.
+Anticipated challenges:
+PIE anticipates several challenges as the evaluation progresses. First, there are
+concerns that the number of in-person visits between peer support specialists and
+Veterans might be limited by external factors, in particular the COVID-19 public health
+emergency and the geographic distance between veterans and peer specialists. In
+addition, the rules of the local correctional facility may determine and impact pre-release
+visits as well as the ability to transport on the day of release. From an internal
+operations standpoint, the ability to hire, train and onboard peer support specialists
+expediently is a concern. Lastly, the collaboration with HUD-VASH is a new aspect of
+the PIE program and as such will require time before it is optimized.
+Dissemination: Over the course of the evaluation, the evaluators will update research
+and operational partners, with initial reports made in FY 2022Q1. Evaluators plan to
+share findings through academic, peer-reviewed journals, as well as presentations at
+relevant subject matter conferences.
+Anticipated milestones:
+FY 2023
+Q1
+Continue implementation of PIE intervention within the designated VA
+medical center sites
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Collaborate with HUD-VASH and develop iterative processes to improve
+collaboration
+Synthesize findings relative to implementation strategies
+Q2
+Continue implementation of PIE intervention within the designated VA
+medical center sites
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Synthesize findings relative to implementation strategies
+Continue publication of findings in peer-reviewed journals and
+dissemination to key stakeholders
+Page 27 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2023
+Q3
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Finalize implementation of PIE intervention within the designated VA
+medical center sites
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Continue publication of findings in peer-reviewed journals and
+dissemination to key stakeholders
+Q4
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Continue publication of findings in peer-reviewed journals and
+dissemination to key stakeholders
+FY 2024
+Q1
+Continue implementation of PIE intervention within the designated VA
+medical center sites
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Collaborate with HUD-VASH and develop iterative processes to improve
+collaboration
+Refine findings relative to implementation strategies
+Initiate development of Implementation Playbook
+Q2
+Continue implementation of PIE intervention within the designated VA
+medical center sites
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Continue refinement of findings relative to implementation strategies
+Continue development of Implementation Playbook
+Continue publication of findings in peer-reviewed journals and
+dissemination to key stakeholders
+Q3
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Finalize implementation of PIE intervention within the designated VA
+medical center sites
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Continue development of Implementation Playbook
+Continue publication of findings in peer-reviewed journals and
+dissemination to key stakeholders
+Page 28 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2024
+Q4
+Continue analyses on PIE's direct impact on patient outcomes, including
+patient engagement in mental health and SUD care
+Continue analyses on PIE intervention effect on homelessness and
+recidivism
+Initiate finalization of Implementation Playbook
+Continue publication of findings in peer-reviewed journals and
+dissemination to key stakeholders
+Point of contact: The Center for Healthcare Organization & Implementation Research
+(CHOIR) is responsible for this evaluation. Contact: Beth Ann Petrakis,
+BethAnn.Petrakis@va.gov.
+D. Impact of COVID-19
+Learning Agenda Question: How has COVID-19 affected VHA care, including care
+delivery and Veteran health outcomes such as all-cause mortality?
+Evaluation Questions:
+1. How did the COVID-19 pandemic affect all-cause Veteran mortality?
+2. How did the COVID-19 pandemic affect virtual care utilization?
+3. Did virtual care utilization moderate the relationship between COVID-19 and
+Veteran mortality?
+Timeline: The evaluation started in FY 2021 and will run through FY 2024.
+Background: As the ongoing COVID-19 pandemic continues to impact the world at
+large, Veterans of the US Armed Forces are also experiencing increases in morbidity
+and mortality due to the virus. The Veteran population may be at higher risk than the
+general population, due to their higher comorbidity burden and average age which have
+been associated with severe COVID-19 illness. xxix,xx
+Nationally, studies estimate that
+all-cause mortality among the general population increased by approximately 20% from
+March to October 2020. xxxi These provisional estimates are based on nationwide age
+distributions, prevalence rates and historical mortality. However, there is a dearth of
+research using individual-level data or on sub-national excess mortality estimates.
+The COVID-19 pandemic presented a challenge for VA, requiring VA to lean heavily on
+virtual care rather than face-to-face care so it could continue serving Veterans safely. xxxii
+Going forward, it is important to understand how virtual care has affected health care
+delivery, how it has contributed to the health outcomes of Veterans, as well as the
+extent to which virtual care utilization has changed over time and across VA sites during
+the COVID-19 public health emergency. The pandemic presents a natural experiment
+and grants the ability to observe both the consequences of stalled routine/elective care
+for Veterans' short- and long-term health outcomes and the role of virtual care in
+mitigating those
+Study objective(s): The Partnered Evidence-based Policy Resource Center (PEPReC)
+COVID-19 evaluation is a multiyear effort to determine impact of the pandemic on all-
+cause Veteran mortality and virtual care utilization. PEPReC will assess whether the
+Page 29 of 45
+VA FY 2023 Annual Evaluation Plan
+transition from in-person to virtual care utilization moderated the relationship between
+COVID-19 and excess mortality in 2020, in addition to assessing differences among the
+urban and rural populations.
+Study design and data sources: Data on Veteran-level demographics, health services
+utilization, comorbidities and dates of death will be obtained from the CDW, which
+incorporates death data from the Veterans Benefits Administration and Social Security
+Administration (SSA). Data on county-level COVID-19 deaths and confirmed cases will
+be extracted from Johns Hopkins University Coronavirus Resource Center, as well as
+hospital-level COVID-19 capacity data recently made public by the Department of
+Health and Human Services. xxxiv,xxxy
+In the first phase of the evaluation, PEPReC will develop county-level predictive models
+for Veteran mortality using data from 2015-2019 and apply estimates to data from 2020.
+Differences in observed and estimated probability of death will produce estimates of
+excess mortality among Veterans associated with the COVID-19 pandemic. Results will
+be validated against county-level COVID-19 burden (i.e., confirmed cases and deaths).
+A priori, it is expected that counties with greater excess mortality in 2020 will also
+experience greater COVID-19 burden, on average.
+During the second phase, PEPReC will examine changes in Veterans' access to care
+(e.g., wait times, satisfaction) and health services utilization during the pandemic, with a
+specific focus on virtual care. Evaluators will identify facility-level variation in the timing
+of the transition from in-person to virtual care, the volume of virtual care and the COVID-
+19 burden within each facility's catchment area will be assessed. The variation in
+county-level COVID-19 burden will be leveraged as a natural experiment to identify
+whether facilities with greater adoption of virtual care experience fewer excess deaths
+on average, compared to facilities with similar levels of COVID-19 burden but lower
+rates of virtual care adoption. Analyses will control for historical trends in virtual care
+adoption prior to the COVID-19 pandemic.
+Analytic approach: The analysis for the first phase will proceed as follows. First,
+evaluators will create a dataset with aggregate mortality at the county-month level using
+data from CDW and SSA. This dataset will also include county-year-level summary data
+for socio-demographic background (e.g., age, gender, marital status, priority group) and
+prevalence of Quan-Elixhauser comorbidities. xxxvi
+Second, the 2015-2019 data will
+"train" a variety of mortality risk prediction models including negative binomial, Poisson,
+quasi-Poisson and generalized estimating equation (GEE) regression models. These
+models were chosen because they are either most appropriate for count outcomes
+(Poisson), help address issues with overdispersion (negative binomial), or have
+statistical properties making them robust to misspecification of correlation structure
+(GEE). The best-performing model will be selected using two measures of predictive
+validity within the training dataset: mean squared error (MSE) and mean average
+prediction error (MAPE). The resulting coefficients from the preferred model will then be
+used to generate county-level predictions for 2020; observed mortality will be divided by
+expected mortality to generate risk-adjusted observed-to-expected (O/E) ratios.
+The next phase will examine sensitivity of these results to various other specifications
+and functional forms to ensure that our estimates are robust. Lastly, linear regression
+Page 30 of 45
+VA FY 2023 Annual Evaluation Plan
+models will be used to examine the association between our estimates of excess
+mortality among Veterans and county-level measures of COVID-19 burden.
+During phase two, the same identification strategy outlined in phase one will be used to
+examine an expanded set of outcomes, including virtual-care utilization, in-person
+utilization, wait times and patient satisfaction, among others. The work done in the first
+phase will validate the approach for characterizing the burden of COVID-19 and how the
+pandemic impacted these additional outcomes. Lastly, linear regression models will
+again be used to examine the association between our estimates of excess mortality
+among Veterans and county-level measures of COVID-19 burden. However, models will
+now include a measure of virtual care access (e.g., percentage of pre-COVID in-person
+volume that was transitioned to virtual care) and an interaction between the COVID-19
+and virtual care measures. This final step will allow evaluators to identify whether the
+transition to virtual care moderates the relationship between local COVID-19 burden
+and excess Veteran mortality.
+Anticipated challenges: There are a few study limitations. First, there are potential
+reporting delays in Veteran deaths and a lack of data on confirmed COVID-19
+diagnoses, especially in the pandemic's early stages. Cause-of-death data is imported
+into the CDW annually and as data tends to lag two years, cause-of-death data is not
+available for 2020. Thus, evaluators cannot attribute excess deaths during the
+pandemic to specific causes. Analyses will be repeated once these data become
+available to decompose excess mortality into those deaths directly related to COVID-19
+versus other causes. For sparsely populated rural areas, estimates for changes in
+mortality or utilization may be less precise due to the limited number of VA enrollees.
+Second, prior to 2020, the use of virtual care was not widespread. In 2020, VA clinics
+were required to rapidly adopt and implement this type of care. Evaluators anticipate
+that, due to the timeline for implementing virtual care, the data may not be clean or
+readily available for all clinics. Thus, documentation of variations in virtual care
+utilization (including different modalities) may be limited to areas that do provide clean
+data. Moreover, the external validity of our findings may need to rely on stronger
+assumptions.
+Dissemination: Evaluators will publish research articles in peer-reviewed journals
+documenting the impact on Veteran outcomes. They will present findings, both internally
+and externally, to researchers, physicians and policymakers. The study design, analytic
+code and aggregate county-month dataset will be made available to VA researchers
+interested in COVID-19 analyses.
+Anticipated milestones:
+FY 2023
+Q1
+Develop a conceptual model that evaluates the impact of COVID-19 on
+Veteran satisfaction surveys
+Develop measures of satisfaction surveys
+Ascertain other measures necessary for the model
+Assess integrity and effectiveness of measures
+Page 31 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2023
+Q2
+Discuss preliminary findings of the effect of COVID-19 on satisfaction
+surveys with national/local leadership and other researchers
+Refine the specification model, incorporate feedback from leadership and
+researchers
+Update data if applicable
+Q3
+Develop a conceptual model that evaluates the impact of virtual care on
+Veteran satisfaction with care
+Select measures of Veteran satisfaction
+Ascertain other measures necessary for the model
+Assess integrity and effectiveness of measures
+Estimate patient outcome models using the data collected
+Document the geographic variation in health care utilization, including use
+of virtual care and its effect on Veteran satisfaction
+Q4
+Discuss preliminary findings of Veteran satisfaction models with
+national/local leadership and other researchers
+Refine the model, incorporate feedback from leadership and researchers
+Update data if applicable
+Compile and submit next cycle's interim evaluation report
+FY 2024
+Q1
+Develop a conceptual model that evaluates the impact of COVID-19 on
+Veteran health outcomes
+Develop measures of health outcomes
+Ascertain other measures necessary for the model
+Assess integrity and effectiveness of measures
+Q2
+Discuss preliminary findings of the effect of COVID-19 on Veteran health
+outcomes with national/local leadership and other researchers
+Refine the specification model, incorporate feedback from leadership and
+researchers
+Update data if applicable
+Q3
+Develop a conceptual model that evaluates the impact of virtual care on
+Veteran health outcomes
+Select measures of Veteran health outcomes
+Ascertain other measures necessary for the model
+Assess integrity and effectiveness of measures
+Estimate Veteran health outcomes models using the data collected
+Document the geographic variation in health care utilization, including use
+of virtual care and its effect on Veteran health outcomes
+Q4
+Discuss preliminary findings of Veteran satisfaction models with
+national/local leadership and other researchers
+Refine the model, incorporate feedback from leadership and researchers
+Update data if applicable
+Compile and submit next cycle's interim evaluation report
+Page 32 of 45
+VA FY 2023 Annual Evaluation Plan
+Point of contact: The Partnered Evidence-based Policy Resource Center (PEPReC) is
+responsible for this evaluation. PEPReC can be reached at peprec@va.gov.
+VHA EVALUATION PLANS - UNDER DEVELOPMENT
+VHA is constantly expanding its evidence development and evaluation activities into
+new research and policy areas. Many of these new endeavors, once finalized, will be
+included in future Annual Evaluation Plans. Currently, detailed evaluation plans are
+under development, funding is being secured and evaluation partners are being
+identified. This Annual Evaluation Plan serves to highlight the Department's advocacy
+for such emerging priorities. Below is a summary of preliminary work to develop
+evaluations regarding two high-priority topics.
+Military Environmental Exposures
+Over three million US Servicemembers have deployed to Iraq, Afghanistan, Kuwait,
+Qatar, Djibouti, United Arab Emirates, Syria, Kyrgyzstan and surrounding areas since
+February 24, 1991 - many of whom had burn pit smoke and other environmental
+exposures (e.g., other air pollutants, chemicals, radiation, occupational hazards, warfare
+agents) that can lead to poor health outcomes. There is also growing urgency to
+address the potential health effects of military environmental exposures of post-9/11
+deployed Veterans more proactively and comprehensively.
+VHA's Office of Research and Development (ORD) and Office of Patient Care Services,
+Health Outcomes Military Exposures (HOME) are focused on investigating the
+associations between environmental exposures and long-term health effects and the
+Gulf War Veterans' Illnesses Research Advisory Committee recommended to the VA
+Secretary a comprehensive clinical research structure to enhance clinical care delivery
+and evaluation in this area. Congress also mandated the VA/Department of Defense
+(DoD) Airborne Hazards and Open Burn Pit Registry (AHOBPR).
+Future VA Annual Evaluation Plans will aim to address the following Learning Agenda
+questions:
+To what extent have military environmental exposures harmed Veterans during
+their period of service, especially regarding latent or chronic adverse health
+effects?
+What is the impact of the collaborations across the different federal agencies on
+the implementation of programs and policies related to military environmental
+exposures experienced by Veterans?
+What are the best strategies to implement state of the art evaluation and care
+models to provide effective care for Veterans exposed to military environmental
+exposures?
+Current evidence-based practices focus on Veterans who have been harmed from
+Agent Orange or diagnosed with different illnesses associated with service in the Gulf
+War. Potential evaluation partners for this topic include ORD-affiliated investigators and
+evaluations will leverage data included in the AHOBPR, VHA's Corporate Data
+Warehouse, DoD Manpower Data Center, CDC and National Academy of Science,
+Page 33 of 45
+VA FY 2023 Annual Evaluation Plan
+Engineering and Medicine. Surveys and clinical assessments are also under
+consideration.
+Women's Health
+Women comprise approximately 17% of current military forces (16% of enlisted and
+19% of officers) and approximately 877,000 women served in the military from the start
+of military operations after 9/11 through the end of FY 2020. As the fastest growing
+segment of the Veteran population, these women Veterans may face challenges with
+the existing VA structures that were built around the health and economic needs of men
+from prior eras.
+Thus, VHA must adapt to ensure women Veterans receive the health care they deserve
+- including mental health care and obstetrics/gynecological care - as well as the social
+and economic supports they need to thrive. The Quality Enhancement Research
+Initiative (QUERI), the VA Office of Women's Health, VA Center for Women Veterans
+and other research and operations partners will work together to study how well VHA
+serves women Veterans now and where there is room for improvement.
+Future Annual Evaluation Plans will aim to address the following Learning Agenda
+questions:
+How can VHA use virtual care modalities to improve women Veterans' access to
+VHA care?
+How can VHA ensure women Veterans secure and maintain post-deployment
+employment and economic stability?
+Ongoing evidence-based practices include a virtual diabetes prevention program and a
+post-9/11 women Veterans unemployment analysis. Potential evaluation partners for
+this topic include the Salt Lake Clinical Evaluation Center (SALIENCE): QUERI
+Women's Health Employment Project and the VA Women's Health Research Network.
+Evaluations will include a study conducted in response to the FY 2021 National Defense
+Authorization Act and may also leverage data from the CDW.
+VBA TOPIC IDENTIFICATION PROCESS
+VBA's Approach to Evaluation Identification Linked to VA's Significance Criteria: To
+address the poverty element of VA's FY 2022 - 2028 Strategic Plan, all three studies
+VBA evaluators will undertake in FY 2023 examine income and employment status as
+central measures of interest. VBA examines homelessness in a study focused on the GI
+Bill and examines military-to-civilian transition in a study evaluating the Transition
+Assistance Program (TAP).
+Finally, as part of its efforts to support the President's Executive Order: Advancing
+Racial Equity and Support for Underserved Communities Through the Federal
+Government, VBA is taking steps to ensure that each of its evaluations sufficiently
+include demographic categories that can reveal if program delivery and outcomes are
+equitable. Specific plans note where efforts will be taken to expand administrative data
+to account for these demographics.
+Page 34 of 45
+VA FY 2023 Annual Evaluation Plan
+VBA TOPIC IDENTIFICATION PROCESS
+VBA's Approach to Evaluation Identification Linked to VA's Significance Criteria: To
+address the poverty element of VA's FY 2022 - 2028 Strategic Plan, studies undertaken
+in FY 2023 examine income and employment status as central measures of interest and
+military-to-civilian transition in a study evaluating the Transition Assistance Program
+(TAP).
+Finally, as part of its efforts to support the President's Executive Order: Advancing
+Racial Equity and Support for Underserved Communities Through the Federal
+Government, VBA is taking steps to ensure that each of its evaluations sufficiently
+include demographic categories that can reveal if program delivery and outcomes are
+equitable. Specific plans note where efforts will be taken to expand administrative data
+to account for these demographics.
+VBA EVALUATION PLANS
+Topic Nomination: In FY 2023, VBA will focus its evaluation efforts on military-to-civilian
+transition and the effects on Veteran well-being. Both studies represent Veteran-facing,
+program-focused evaluations of established programs (TAP, the GI Bill and Chapter 31
+(Veteran Readiness and Employment (VR&E), formerly known as Vocational
+Rehabilitation and Employment).
+A. VR&E Longitudinal Study (PL 110-389, Section 334)
+Learning Agenda Question: Does the completion of the Chapter 31 program lead to
+more successful post program outcomes as compared to Veterans who discontinue
+from the program?
+Given VBA's focus on supporting smooth military-to-civilian transitions, there is an
+interest in understanding the needs of particular underserved and vulnerable subgroups
+during such transitions. As stated in the VBA Strategic Plan, VBA has a commitment to
+evaluating this topic to better inform VBA efforts to provide equitable and effective
+support to Servicemembers during this crucial time. Related to this work, VBA
+completed an extensive literature review of peer-reviewed journals, scientific sources
+and scholarly articles, with an emphasis on sources that cover the military-to-civilian
+transition, integration and reintegration into civilian social structures, transition stress,
+community reintegration and support structures, identity and military culture,
+engagement of Servicemembers and Veterans and user-oriented design. 1 In this
+analysis, VBA discovered the need for additional research focused on particular
+transition needs and new challenges. The review also identified the need to better
+understand the applicability of skills obtained from the military experience to the civilian
+context. Recommended research also includes the construct of working with
+transitioning Servicemembers as a family unit both pre-and post-separation.
+1 Veteran's Benefits Administration, "Military-to-Civiliar Readiness: The Past, Present and Future of the
+Transition Process," ittps://www.benefits.va.gov/transition/docs/military-to-civilian-readiness.pdf.
+Page 35 of 45
+VA FY 2023 Annual Evaluation Plan
+Evaluation Question: What significant differences in post program outcomes (i.e.
+income, home-ownership, employment) exist between those completing the Chapter 31
+program compared to those who leave the program voluntarily?
+Timeline: Ongoing; The Congressionally mandated Longitudinal Study is a 20-year
+study. Cohort 1 (FY 2010) has completed 11 years of participation, Cohort Il (FY 2012)
+has completed nine (9) years of participation and Cohort III (FY 2014) has completed
+seven (7) years of participation. The Longitudinal Study is set to be completed in 2035.
+Background: The Veteran Readiness and Employment (VR&E) program, known as the
+Chapter 31 program, assists Veterans and Servicemembers with service-connected
+disabilities and an employment barrier to prepare for, obtain and maintain suitable
+employment. VR&E provides comprehensive services to include vocational
+assessment, rehabilitation planning and employment services. For Veterans with
+service-connected disabilities so severe they cannot immediately consider work, the
+VR&E program offers services to improve their ability to live as independently as
+possible in their families and communities.
+Study design and data sources: As participants are followed over the 20 years of the
+study and as more VR&E participants exit the program, additional information will be
+available on the long-term outcomes of Veterans and the key programmatic and
+demographic factors influencing these outcomes. The study includes three cohorts and
+collects data on gender, age, program track, education, employment and other relevant
+factors.
+Section 334 of Public Law 110-389 requires VA to report to Congress on 16 specific
+data elements. The data elements are listed below for reference. The specific outcomes
+of interest in the mandate are employment, income, home ownership and use of
+supplemental programs.
+Table 1 - Data Elements Mandated by PL 110-389 § 334 to be Collected for the VR&E
+Longitudinal Study
+Domain
+Measure
+Source of data
+Background
+The number of individuals participating in
+Administrative Data
+characteristics
+vocational rehabilitation programs under
+this chapter who suspended participation
+in such a program during the year
+Background
+The average number of months such
+Administrative Data
+characteristics
+individuals served on active duty
+Background
+The distribution of disability ratings of
+Administrative Data
+characteristics
+such individuals
+Background
+The types of other benefits administered
+Administrative Data
+characteristics
+by the Secretary received by such
+individuals
+Background
+The number of such individuals enrolled
+Survey
+characteristics
+in an institution of higher learning, as
+that term is defined in section 3452(f) of
+this title
+Page 36 of 45
+VA FY 2023 Annual Evaluation Plan
+Domain
+Measure
+Source of data
+Background
+The average number of academic credit
+Survey
+characteristics
+hours, degrees and certificates obtained
+by such individuals during the year
+Background
+The average number of visits such
+Survey
+characteristics
+individuals made to Department medical
+facilities during the year
+Background
+The average number of visits such
+Survey
+characteristics
+individuals made to non-Department
+medical facilities during the year
+Background
+The average number of dependents of
+Survey
+characteristics
+each such Veteran
+Employment
+The average number of months such
+Survey
+individuals were employed during the
+year
+Employment
+The average annual starting and ending
+Survey,
+salaries of such individuals who were
+Administrative Data
+employed during the year
+Income
+The average annual income of such
+Survey
+individuals
+Income
+The average total household income of
+Survey
+such individuals for the year
+Homeownership
+The percentage of such individuals who
+Survey
+own their principal residences
+Use of other public
+The types of Social Security benefits
+Survey
+program benefits
+received by such individuals
+Use of other public
+Any unemployment benefits received by
+Survey,
+program benefits
+such individuals
+Administrative Data
+The VR&E Longitudinal Study data sources used for analysis include self-reported
+survey data and VBA administrative data.
+Survey Data
+A survey questionnaire is distributed to a sample of Longitudinal Study participants at
+the beginning of each fiscal year. The domains of interest used to stratify the sample for
+the VR&E Longitudinal Survey are gender, age and program track. Participants are
+invited to complete the survey initially through an online Web survey and then by mail or
+phone over a 12-week period. The survey provides VA with information not available
+through VA resources such as employment, homeownership, income and overall
+satisfaction with the program. A link is provided to the study's Technical Appendices to
+address questions regarding response rates and non-responses.²
+VBA Administrative Data
+2
+VR&E Longitudinal Study Technical Appendices.
+https://www.benefits.va.gov/VOCREHAB/docs/VRE2019 LongStudy.pdf
+Page 37 of 45
+VA FY 2023 Annual Evaluation Plan
+At the end of each fiscal year, VR&E provides data on all Longitudinal Study
+participants such as claimant participation, outcomes and general demographics. This
+information includes such data elements including, but not limited to: case status at the
+end of the year, program track, age, gender, serious employment handicap and
+combined service-connected disability rating.
+The VBA administrative variables used for the analysis are:
+Case status
+Program track
+Extended evaluations
+Serious employment handicap (SEH) flag
+Gender
+Age
+Length of active-duty service (in months)
+Combined disability rating percentage
+Pre-rehabilitation level of education
+Pre-rehabilitation annual salary
+Primary diagnosis
+Era of service
+Branch of service
+Rank upon exit from military
+Training type for which a subsistence allowance is received
+Date of a case status change
+Race, gender identity and ethnicity data are currently unavailable to report for this study.
+Analysis: With additional data collected over time, VA can examine substantive trends in
+outcomes. Specifically, VA will be able to draw comprehensive comparisons between
+those who achieved rehabilitation (those who completed a program) and those who
+discontinued from the program.
+Anticipated challenges: The VR&E Longitudinal Study requires contractual support to
+survey participants, analyze data and develop the report to Congress. Contractual
+support is dependent on available general operating expense funding. Another
+challenge is that the study is not designed to demonstrate causality or the impact of
+program participation on outcomes of interest. Instead, the study can provide
+information on self-reported outcomes and can examine relationships between
+outcomes and program participation, demographic characteristics, or other data points.
+Dissemination: The final reports submitted to Congress are available to the public on
+the VA website.
+Anticipated milestones:
+FY 2023
+Q1
+Survey distributed to participants
+VBA administrative data received
+Page 38 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2023
+Q2
+Survey period completed
+Survey and VBA administrative data analyzed
+First draft of report delivered to VA
+Q3
+Report concurred by VA
+Q4
+Report to Congress delivered by July 1
+Point of contact: Lisa J. Thomas (lisa.thomas4@va.gov), Program Analyst
+B. Post-Separation Transition Assistance Program (PSTAP) Assessment
+Outcome Study
+Learning Agenda Question: To what extent is VA's Transition Assistance Program
+supporting the transition needs of newly separated Veterans and what changes are
+needed to improve TAP for future performance?
+Evaluation Questions: Investigators will seek to answer the following questions:
+1. To what degree do Transitioning Servicemembers (TSMs) who participate in
+TAP experience life satisfaction and positive/negative short-term and long-term
+outcomes?
+2.
+Is TAP effective in preparing TSMs for their transition, measured at three
+checkpoints by the cross-sectional portion (six months/12 months and 36
+months post separation)?
+3.
+Is TAP effective in preparing TSMs for their transition as they progress through
+their transition journey, measured by the longitudinal portion?
+4.
+What effect does TAP participation have on Veterans in the six life domains
+(employment, education, health, relationships, finances and well-being).
+5.
+Does the full TAP training increase Veterans' knowledge, awareness and
+access to benefits and services available to them? How can VA and the
+interagency partners modify/revise training and/or operational activities aimed at
+enhancing the knowledge, awareness and access to benefits and services
+available to Veterans?
+Timeline: FY 2023
+Background: Transition Assistance Program (TAP) - Each year, approximately 250,000
+Servicemembers transition from military to civilian life in the United States. While each
+transition is different, some of the most common issues facing newly separated
+Servicemembers include: 1) Reconnecting with family; 2) Entering the workforce; and 3)
+Enrolling in VA benefits and service programs.
+TAP is delivered through the U.S. Department of Defense (DoD) in cooperation with VA,
+the Departments of Labor (DOL), Education (ED), Homeland Security (DHS), the Small
+Business Administration (SBA) and the Office of Personnel Management (OPM). TAP
+provides a cohesive and outcomes-based program that standardizes the transition
+process and better prepares Servicemembers to achieve successful outcomes in their
+post-military lives.
+Page 39 of 45
+VA FY 2023 Annual Evaluation Plan
+Study objective: The objective of the study is to aid VA in the continual improvement of
+TAP and ensure TSMs receive the information on benefits and services they need in the
+most effective manner to improve their short and long-term outcomes in the life domains
+of employment, education, health, relationships, finances and well-being.
+Study design and data sources: The PSTAP is comprised of two separate assessment
+instruments currently in use (initial survey launched in June of 2019) used to assess
+TAP as well as provide holistic feedback and information used to improve transition and
+other VA activities.
+1. Annual cross-sectional survey of three cohorts that provides a point-in-time set
+of results across the post-separation space
+2. Annual longitudinal survey of Veterans that "opt-in" to be part of a longer-term
+study from a cross-sectional survey that provides trends over time and more
+focused investigation. PSTAP reports are located at: VBA's PSTAP Reports.
+PSTAP uses various analytical methods to develop the reports/findings, such as
+statistical modeling and regression analysis on various sections to determine the
+relative importance and weight of the information to Veterans. Regression analysis is
+conducted to identify which courses have the most impact on increasing satisfaction
+with TAP. An additional regression model is run on the entire respondent population to
+identify possible demographic differences that may influence satisfaction with TAP. To
+understand the factors that have a significant impact on the transition of Veterans to
+civilian employment and their relationship to TAP, a statistical model was built using
+logistic regression. The model analyzes which challenges were most impactful to
+Veterans' overall satisfaction with TAP using the question: "Overall, the program was
+beneficial in helping me gain the information and skills I needed to prepare me for my
+transition and post-military life".
+Analysis: VA and other agency's administrative data will be combined to provide a
+holistic profile of Veterans' transition and their long-term outcomes.
+Cross-Sectional Survey:
+Given every year to a different two-month group of Veterans at three time
+frames: six months, 12 months and 36 months post-separation
+Provides point-in-time results on all the life domains, and how the utility of
+TAP/VA Benefits and Service usage impacts general long-term outcomes
+Longitudinal Survey:
+Given each year to the same group of Veterans based upon the voluntary
+participation of the cross-sectional cohort
+Provides information over time as to how each Veteran is progressing
+across their personal transition and how the utility of TAP/VA Benefits and
+Service usage impacts their specific long-term outcomes
+The two surveys have sections dedicated to evaluating the delivery, content and utility
+of the information received during the TAP classes using batteries of Likert scale
+questions. The questions are modeled on the Transition Assistance Participant
+Page 40 of 45
+VA FY 2023 Annual Evaluation Plan
+Assessment given to TSMs after they take the TAP classes prior to separation from
+military service.
+The PSTAP TAP evaluation section utilizes the following relevant questions for the
+overall TAP experience:
+1. TAP evaluation section top line question on a Likert scale response: "To
+what extent do you agree or disagree with each of the following statements
+about TAP?"
+a. Overall, the program was beneficial in helping me gain the information
+and skills I needed to prepare me for my transition and post-military
+life.
+b. Overall, the program enhanced my confidence in transition planning.
+C. Overall, I used what I learned from the program during my transition.
+These questions are analyzed individually as well as aggregated to provide an overall
+assessment of the program as indicated by the PSTAP participants. Overall utility
+during transition is captured in a separate Likert scale question for each TAP module;
+"When considering the course information for each TAP module, how useful was the
+content during your transition?"
+Additionally, the two surveys (cross-sectional and longitudinal) also contain more in-
+depth Likert scale questions specifically about the VA portion of TAP to garner a deeper
+understanding of the VA course and ensure it is meeting TSM needs. The questions in
+this section assess how well the VA TAP course addresses overall understanding of VA
+benefits and services for both the Veteran and their family, how to apply for benefits,
+preparing for economic well-being, changes in personal life, homelessness prevention,
+obtaining VA health and mental health care.
+Both surveys also ask the participants what benefits they have applied for or intend to
+apply for in the future.
+The data regarding life satisfaction is gathered using several batteries of Likert scale
+question that address individual aspects that contribute to life satisfaction as well as
+several direct questions soliciting participants feedback on their life satisfaction:
+1. Section header for satisfaction: "Now we would like to ask some final
+questions about your overall satisfaction and well-being"
+2. Main direct question: "Thinking about your own life and personal
+circumstances, how satisfied are you with your life as a whole?'
+3. Overall battery covers satisfaction with:
+a. Standard of living
+b. Health
+C. Life achievement
+d. Personal relationships
+e. Feeling of safety
+f.
+Community integration
+g. Future security
+h. Spirituality or religion
+Page 41 of 45
+VA FY 2023 Annual Evaluation Plan
+All these sections are used collectively to evaluate how well TAP and specifically VA's
+portion are meeting the needs of the Veterans and where they can be improved.
+The PSTAP instruments are comprised of sections to investigate Veteran information in
+each of the life domains, as well as the overall sentiments of TAP. Most questions use a
+Likert scale format with several opportunities for free text comments. The questions are
+both objective and subjective to ensure a holistic view of the Veteran's transition are
+captured. The survey instruments are included in each year's report appendices and are
+available at: https://benefits.va.gov/TRANSITION/tap-assessments.asp
+The assessment data is also combined with sets of VA administrative data to further
+expand the scope of the overview to include information already known to VA, such as
+benefit utilization health care enrollment and interactions with all VBA Lines of Business
+and a host of other information in VA's databases.
+PSTAP analysts constructed weights to conduct a nonresponse bias analysis (NRBA).
+Weights adjust the number of responses so that the proportion of survey respondents
+by key characteristics matches the proportion in the survey universe. The weights
+account for: 1) the probability of selection; 2) potential nonresponse bias. Since PSTAP
+was a census (that is, all Veterans in each cohort received an invitation to complete the
+survey), the probability of selection was the same for all (set to 1). To adjust for
+nonresponse, the weights were adjusted for differences in response rates among
+groups based on the known characteristics of respondents and non-respondents.
+The NRBA compared the characteristics of the survey respondents to the entire survey
+universe (non-respondents and respondents combined) using administrative data
+available for each cohort. The analysis uses both weighted and unweighted data to
+check for statistically significant differences between respondents and non-respondents.
+This process serves as a check for nonresponse bias, as well as a test of the
+effectiveness of the weights in mitigating bias.
+Anticipated challenges: None
+Dissemination: The PSTAP reports and associated appendices are published each year
+to coincide with the following year's execution. The 2020 PSTAP report was released in
+June 2021 when the 2021 PSTAP invitations were sent to the participants.
+The release is coordinated based on a formal communication plan including a press
+release, social media engagement, internal and external stakeholder communications
+and VA blogs. The reports/appendices are posted on the Internet at
+ittps://benefits.va.gov/TRANSITION/tap-assessments.asp.
+Anticipated milestones:
+Page 42 of 45
+VA FY 2023 Annual Evaluation Plan
+FY 2023
+Q1
+Analysis and draft of the 2022 PSTAP report
+Q2
+Finalization of 2022 PSTAP Report with internal and external
+stakeholders
+Development of the public release communications plan
+Q3
+Public Release of the 2022 PSTAP Report
+Initiation of the PSTAP 2023 data collection
+Q4
+Completion of the PSTAP 2023 data collection
+Points of contact: William Brinley (William.Brinley@va.gov) lead analyst; Dr. Lawrencia
+Pierce (Lawrencia.Pierce@va.gov), evaluation manager.
+Page 43 of 45
+VA FY 2023 Annual Evaluation Plan
+i Ohl, M, Carrell, M, Thurman, A. Availability of healthcare providers for rural Veterans eligible for
+purchased care under the Veterans choice act. BMC Health Services research. (2018)
+ii Veterans Access, Choice and Accountability Act of 204, Pub. L. No. 113-146, STAT. 1754 (2014)
+iii VA MISSION Act of 2018, Pub. L. No. 115-182, STAT. 2372 (2018)
+iv
+Ohl, M, Carrell, M, Thurman, A. Availability of healthcare providers for rural Veterans eligible for
+purchased care under the Veterans choice act. BMC Health Services research. (2018)
+V Veteran Affairs (VA) Health Services Research & Development (HSRD). Spotlight on telehealth
+[Internet]. Washington DC; VA HSRD; [2020 Jul; cited 2021 Apr 05]. Available from: Impacts of
+Telemental Healthcare for High-Risk Veterans with Opioid Use Disorder during COVID-19
+(https://www.hsrd.research.va.gov/news/feature/telehealth-
+ 0720.cfm#:~:text=VA%20was%20an%20early%20adopter%20of%20telehealth%20care%20starting%20i
+,million%20telehealth%20visits%20in%202018).
+vi US Department of Veterans Affairs. 2019 National Veteran Suicide Prevention Annual Report. (2019)
+vii Griffith J. Suicide in the Army National Guard: An Empirical Inquiry. Journal of Suicide and Life-
+Threatening Behavior. (2012)
+viii
+viii Motto, J.A. (1976). Suicide Prevention for High-Risk Persons Who Refuse Treatment. Suicide and
+Life-Threatening Behavior, 6(4).
+ix M. S. Bauer, C. Miller, B. Kim, R. Lew, K. Weaver, C. Coldwell, K. Henderson, S. Holmes, M. N. Seibert,
+K. Stolzmann, A. R. Elwy and J. Kirchner, "Partnering with health system operations leadership to
+develop a controlled implementation trial," Implementation Science, p. 11:22, 2016.
+x
+US Department of Veterans Affairs, " 2019 National Veteran Suicide Prevention Annual Report," 2019.
+xi M. S. Bauer, C. J. Miller, R. Lew, K. Stolzmann, J. Sullivan, R. Riendeau, J. Pitcock, A. Williamson, S.
+Connolly, A. R. Elwi and K. Weaver, "Effectiveness of Implementing a Collaborative Chronic Care Model
+for Clinician Teams on Patient Outcomes and Health Status in Mental Health," JAMA Network Open,
+2019.
+xii Centers for Disease Control and Prevention. Understanding the Epidemic. (2017)
+xiii Teeters J, Lancaster C, Brown D. Substance use disorders in military veterans: prevalence and
+treatment challenges. Subst Abuse Rehabil. (2017)
+xiv Seal KH, Shi Y, et al. Association of mental health disorders with prescription opioids and high-risk
+opioid use in US veterans of Iraq and Afghanistan. JAMA. (2012)
+XV Minegishi T. Changes in VA Opioid Prescribing Patterns Over Time. (2019). Unpublished.
+xvi
+U.S. Government Accountability Office. Veterans Health Care Services for Substance Use Disorders
+and Efforts to Address Access Issues in Rural Areas. (2019)
+xvii Oliva EM, Bowe T, Tavakoli, Development and Applications of the Veterans Health Administration's
+Stratification Tool for opioid risk Mitigation (STORM) to Improve Opioid Safety and prevent Overdose and
+Suicide.
+Psychology Serv. (2017)
+xviii Minegishi, T. Garrido, M. Pizer, S. Frakt, A. Effectiveness of Policy and Risk Targeting for Opioid-
+related Risk Mitigation: a Randomized Programme Evaluation with Stepped-Wedge Design. BMJ Open.
+(2017)
+xix Kim B, et al., Coordinating across correctional, community and VA systems: applying the Collaborative
+Chronic Care Model to post-incarceration healthcare and reentry support for veterans with mental health
+and substance use disorders. Health Justice. 2019 Dec 12;7(1):18
+xx Binswanger, I.A., et al., Release from Prison - A High Risk of Death for Former Inmates. New England
+Journal of Medicine, 2007. 356(2): p. 157-165.
+xxi Tsai, J., et al., Risk of incarceration and other characteristics of Iraq and Afghanistan era veterans in
+state and federal prisons. Psychiatr Serv, 2013. 64(1): p. 36-43.
+xxii lbid.
+xxiii
+Finlay, A.K., Stimmel, M., Blue-Howells, J. et al. Use of Veterans Health Administration Mental Health
+and Substance Use Disorder Treatment After Exiting Prison: The Health Care for Reentry Veterans
+Program. Adm Policy Ment Health 44, 177-187 (2017) Available from SpringerLink
+https://link.springer.com/article/10.1007/s10488-015-0708-Z)
+Page 44 of 45
+VA FY 2023 Annual Evaluation Plan
+xxiv
+Papagiorgakis, G. One Year Recidivism Rates 2016 Release Cohort. Massachusetts Department of
+Correction, December 2018.Available from Massachusetts Department of Corrections
+(https://www.mass.gov/doc/one-year-recidivism-rates-2016-release-cohort/download)
+XXV
+Simmons, M.M., et al., A two-state comparative implementation of peer-support intervention to link
+veterans to health-related services after incarceration: a study protocol. BMC Health Services Research,
+2017. 17(1): p. 647.
+xxvi Chinman, M., et al., A Cluster Randomized Trial of Adding Peer Specialists to Intensive Case
+Management Teams in the Veterans Health Administration. The Journal of Behavioral Health Services &
+Research, 2015. 42(1): p. 109-121.
+xxvii
+lbid.
+xxviii Hussey, M. A., & Hughes, J. P. (2007). Design and analysis of stepped wedge cluster randomized
+trials. Contemporary clinical trials, 28(2), 182-191.
+xxix Imam, Zaid, et al. Older age and comorbidity are independent mortality predictors in a large cohort of
+1305 COVID-1: patients in Michigan, United States. Journal of internal medicine 288.4 (2020): 469-476.
+XXX
+Richardson, Safiya, et al. "Presenting characteristics, comorbidities and outcomes among 5700
+patients hospitalized with COVID-19 in the New York City area." Jama 323.20 (2020): 2052-2059.
+xxxi Rossen, Lauren M., et al. "Excess deaths associated with COVID-19, by age and race and ethnicity-
+United States, January 26-October 3, 2020." Morbidity and Mortality Weekly Report 69.42 (2020): 1522.
+xxxii Heyworth L, Kirsh S, Zulman D, Ferguson JM, Kizer KW. Expanding access through virtual care: The
+VA's early experience with Covid-19. NEJM Catalyst Innovations in Care Delivery. 2020 Jul 1; 1(4).
+xxxiii Griffith, KN, Buntin, MB. Opportunities to improve value in health following the COVID-19 pandemic
+[Internet]. Health Affairs Blog. 2020 Oct 21 [cited 2021 Apr 6]. Health Affairs Forefront.
+xxxiv Johns Hopkins University of Medicine. COVID-19 data in motion. Johns Hopkins University of
+Medicine: Baltimore, MD; 2021. [cited 20 Apr 2021]. Available from: University of Queensland Library
+(https://guides.library.uq.edu.au/referencing/vancouver/datasets)
+XXXV Department of Health and Human Services (HHS). Hospital utilization by facility. HHS, Washington,
+DC; 2021. [cited 20 Apr 2021]. Available from: https://protect-public.hhs.gov/pages/hospital-utilization
+xxxvi
+Quan, Hude, et al. Coding algorithms for defining comorbidities in ICD-9-CM and ICD-10
+administrative data. Medical care. 2005: 1130-1139.
+Page 45 of 45

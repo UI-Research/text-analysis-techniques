@@ -1,0 +1,2780 @@
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+DEPARTMEN
+U
+OF
+With honor and integrity, we will safeguard the American people, our homeland, and our values.
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+About this Report
+The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) requires that the
+U.S. Department of Homeland Security (DHS) issue an evidence-building plan (or learning agenda)
+aligned with the Department's strategic plan describing priority questions and how they will be
+addressed through the Department's evidence building.
+The DHS FY 2022-2026 Learning Agenda describes a subset of the Department's future evidence-
+building activities that align with strategic priorities and how the results of evidence-building
+activities will be used. The learning agenda is a plan for the Department's strategic and
+coordinated investment of resources in evidence building to ensure the best evidence is available
+for pressing decisions and high-priority functions.
+As required, the DHS FY 2022-2026 Learning Agenda is published at the DHS public website
+and at Evaluation.gov with the Department's other Evidence Act plans and reports.
+DHS invites feedback on the DHS FY 2022- 2026 Learning Agenda and continued collaboration
+from relevant communities on potential priority questions, data, methods, and analytic
+approaches that could guide these and future DHS evidence-building activities. Public feedback
+and input may be submitted to: dhslearningagenda@hq.dhs.gov.
+Contact Information
+For more information, contact:
+Michael Stough, Evaluation Officer
+Department of Homeland Security
+Office of the Chief Financial Officer
+Program Analysis and Evaluation Division
+245 Murray Lane SW
+Mailstop 200
+Washington, DC 20528
+i
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Contents
+About this Report
+i
+Overview
+1
+Introduction
+1
+Learning Agenda Development
+1
+Engage External Stakeholders
+2
+Gather Component Questions
+2
+Identify Department Priorities
+3
+Develop Study Plans
+4
+Publish and Disseminate
+4
+Learning Agenda Framework
+4
+Learning Agenda Summary
+6
+Study Plans
+9
+Strategic Goal 1: Counter Terrorism and Homeland Security Threats
+9
+G1-Q1
+In what ways do service interventions funded through violence and domestic
+terrorism prevention grants contribute to DHS goals for reducing individuals radicalizing to
+targeted violence and terrorism?
+9
+Strategic Goal 2: Secure U.S. Borders and Approaches
+10
+G2-Q1
+What "push" and "pull" factors at the national and local levels predict
+increases/decreases in the numbers of noncitizens arriving at the Southwest Border?
+10
+G2-Q2 What effect, if any, have changes in southern land border controls had on
+migrant encounters at sea?
+11
+G2-Q3 How accurate were DHS's estimates of the benefits and costs in the regulatory
+impact analysis for the regulation, "Standards to Prevent, Detect, and Respond to Sexual
+Abuse and Assault in Confinement Facilities"?
+12
+G2-Q4 What, if any, person and case characteristics predict higher likelihood of specific
+immigration enforcement outcomes and time between border encounter and final
+outcome?
+14
+G2-Q5
+What factors, if any, help predict rates and lengths of nonimmigrant
+overstays?
+15
+G2-Q6 What, if any, person and case characteristics predict higher likelihood of
+receiving specific immigration benefits?
+16
+ii
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+G2-Q7 What are the characteristics of people who naturalize? What demographic
+variables among lawful permanent residents are correlated with the likelihood and timing
+of naturalization?
+18
+G2-Q8 What are characteristics of people who online file compared to paper file for
+immigration benefits?
+19
+G2-Q9 What is the degree and source of variability in USCIS utilization and completion
+rates, across adjudicative staff, at USCIS field offices?
+20
+G2-Q10 To what extent can available data predict adjudications actions sufficiently to
+warrant automation of steps toward completion or to automate whole processes?
+21
+Strategic Goal 3: Secure Cyberspace and Critical Infrastructure
+23
+G3-Q1
+How are stakeholders using cyber, critical infrastructure (CI), and emergency
+communications (EC) products and services they receive from CISA? To what extent do
+these products and services add value, such as increasing awareness and closing gaps in
+capabilities, plans, and policies? What factors prevent stakeholders from using cyber/CI/EC
+products they receive?
+23
+G3-Q2
+Do all subgroups of the target population participate in and perceive value and
+utility of national convenings as mechanisms of information exchange about security and
+risk resilience? What gaps and unmet needs, if any, exist?
+24
+G3-Q3
+To what extent has the all-hazards communications unit position-specific training
+and stakeholder communication unit program enhanced interoperability by (1) creating,
+maintaining, and deploying a qualified group of people to fulfill Communications Unit
+(COMU) roles in federal, state, local, tribal, and territorial (SLTT) partner organizations and
+(2) enhancing integrated, collaborative, communications planning?
+25
+Strategic Goal 4. Preserve and Uphold the Nation's Prosperity and Economic Security
+27
+G4-Q1 Which facilities should have Transportation Worker Identification Card (TWIC)
+readers to appropriately manage risk?
+27
+G4-Q2 What are the most significant sources of variation in transportation security
+sector (TSS) operators' implementation of cyber security technology and processes? What
+do TSS operators report as enablers and barriers to implementation, and what gaps/unmet
+needs could TSA address?
+28
+G4-Q3
+Where does the majority of federally managed fishing activity (both inside the
+U.S. Exclusive Economic Zone and nearby) occur, by season and species?
+29
+Strategic Goal 5. Strengthen Preparedness and Resilience
+30
+G5-Q1
+How do individuals' preparedness behaviors change over time?
+30
+G5-Q2
+How do household income and other demographic characteristics influence the
+decision to purchase flood insurance?
+31
+iii
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+G5-Q3
+To what extent is FEMA's training and education enterprise providing equitable
+delivery of curricula to state, local, tribal, and territorial (SLTTs) constituents?
+32
+G5-Q4 What indicators, measures, methods, and data can better support the evaluation
+of Homeland Security Grant Program (HGSP) effectiveness as it pertains to maintaining and
+improving state, local, tribal and territorial (SLTT) and national preparedness?
+33
+G5-Q5
+What indicators, data, methods, tools, and frameworks can FEMA use to build
+evidence and address disparities in achieving equitable outcomes across FEMA programs
+(e.g., direct federal assistance and grants) across the agency?
+35
+G5-Q6 To what extent were COVID Public Assistance obligations align with areas of
+social vulnerability and high case rates in socially vulnerable areas?
+36
+Goal 6: Champion the DHS Workforce and Strengthen the Department
+37
+G6-Q1 Does level of Independent Test Agent (ITA) support throughout the acquisition
+lifecycle correlate with the adequacy of an acquisition program's test and evaluation
+outputs (operational effectiveness, suitability, and resilience)?
+37
+G6-Q2
+What are the estimated costs and benefits of DHS vehicle fleet electrification
+given specialized/lav enforcement requirements?
+38
+G6-Q3
+What effects has the adoption of maximum telework flexibilities had on the DHS
+mission and support for the DHS mission? What subgroups of the DHS workforce benefit
+the most/least from telework flexibilities?
+39
+G6-Q4 What effects has adoption of a standard utilization rate (UR) of 150 sq.
+ft./person had on the Department's real property footprint? What factors support and
+hinder implementation of the 150 sq. ft./person standard?
+41
+G6-Q5 What metrics/indicators can be used to reliably predict cost to maintain materiel
+readiness requirements for deployed systems in CBP's stated five Enduring Mission Priority
+Outcomes: Combating Transnational Organized Crime, Counter Terrorism, Facilitate Lawful
+Travel, Secure the Border, and Facilitate Lawful Trade and Protect Revenue?
+42
+DHS Data Priorities for Evidence Building
+43
+Administrative and Operational Data Systems
+44
+Statistical Data and Data Compilation Assets
+45
+DHS Survey and Assessment Data Assets
+46
+Other Federal and Non-Federal Data Sets
+47
+Study Types, Data Collection Methods, Analytic Approaches for Evidence Building
+48
+Study Types
+48
+Data Collection Methods
+51
+Analytic Approaches
+53
+iv
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Challenges and Mitigating Strategies for Evidence Building
+54
+Common Challenges
+55
+Mitigating Strategies
+56
+Appendix A. List of Abbreviations and Acronyms
+60
+V
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Overview
+Introduction
+The U.S. Department of Homeland Security (DHS) has a diverse and complex mission to prevent
+attacks and mitigate threats against the United States and our allies, respond to national
+emergencies of all kinds, and advance American prosperity and economic security. Since DHS was
+established from its predecessor agencies in 2003, the Department has continued to expand and
+mature capabilities to use data and analysis in shaping strategy and operations.
+DHS has developed this DHS FY 2022-2026 Learning Agenda to empower Department
+decisionmakers to achieve their objectives while fostering organizational learning. The learning
+agenda supports the Department's implementation of the Foundations for Evidence Based
+Policymaking Act of 2018¹ (Evidence Act) by engaging stakeholders in identifying and prioritizing
+areas for evidence to improve program or policy effectiveness, assess progress toward outcomes,
+study pilot initiatives and programmatic adjustments, and inform resource management.
+Evidence may come from program evaluation, performance measurement, policy analysis, and
+research or statistics conducted for foundational fact finding.
+The DHS FY 2022-2026 Learning Agenda describes a subset of the Department's future evidence-
+building activities that align with strategic priorities and how the results of evidence-building
+activities will be used. Except where limitations to public disclosure are noted, DHS intends to
+disseminate results on its public website to enable broad use in DHS management activities and
+by external stakeholders. DHS will update the learning agenda annually to reflect progress toward
+the original priority questions, shifting learning priorities, changing contexts within which the
+Department operates, and emerging evidence needs for which new questions and plans will be
+added. DHS invites feedback on the DHS FY 2022-2026 Learning Agenda and continued
+collaboration from relevant communities to inform these and other evidence-building activities
+that may be included in annual updates.
+Learning Agenda Development
+DHS engaged internal and external stakeholders throughout fiscal year (FY) 2021 to develop the
+learning agenda. Collaboration with stakeholders ensures that the Department's learning agenda
+addresses questions that are relevant, salient, and meaningful to stakeholders inside and outside
+the Department, and that the learning that results from evidence building will be timely and
+useful for their decision making. Stakeholder engagement is described below in the context of
+each stage of the learning agenda development process, and is ongoing. Exhibit 1 and the
+sections that follow outline the key stages in the DHS FY 2022-2026 Learning Agenda
+development process.
+1 Pub. L. No. 115-435, 132 Stat. 5529 (2019)
+1
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Exhibit 1. DHS Learning Agenda Development Process
+Engage
+Gather
+Identify
+External
+Component
+Department
+Develop
+Publish and
+Questions
+Priorities
+Study Plans
+Disseminate
+Stakeholders
+Engage External Stakeholders
+DHS conducted external stakeholder engagement for the learning agenda using well-established
+mechanisms and relationships. DHS solicited public input regarding questions or studies that
+could guide DHS evidence-building activities through two Requests For Information (RFI). 2
+3
+Social media campaigns and email outreach to 27,000 private sector partners and committee
+members representing industry and trade groups, professional associations, nongovernmental
+organizations, advocacy groups, community groups, and the public invited participation in the
+RFIs.
+Members of the public, industry, research, and state and local government communities
+submitted 17 responses through the Federal Registry and email. In addition, DHS directly
+engaged other federal agencies, including the Office of Management and Budget, and reviewed
+priorities of the Administration and Congress in executive orders and memoranda, Congressional
+hearings, and Government Accountability Office (GAO) audits.
+Gather Component Questions
+DHS gathered employee input for the learning agenda through a variety of activities. Annual
+Strategic Reviews, an internal management process conducted to improve program outcomes,
+provided the first opportunity to engage senior officials and mission program staff in surfacing
+learning priorities. Briefings with Component senior leaders on the learning agenda development
+activities sought their priority questions and invited Components' participation.
+DHS Components, led by Component members of the DHS Evaluation Officer Council, planned
+and conducted Component-specific internal stakeholder engagement activities, using meetings,
+workshops, working groups, executive taskers, and employee engagement forums to identify and
+prioritize Components' learning agenda questions and proposals. Their activities considered
+input from external stakeholder engagement, as well as Administration and Department
+leadership priorities. The DHS Evaluation Officer provided flexible tools and guidance to support
+Component efforts and hosted weekly webinars and office hours to promote awareness and
+workforce engagement in Component-led activities.
+The participating Components listed below advanced 122 priority questions and proposals that
+were considered for this learning agenda. More organizations within DHS will participate in
+subsequent annual activities to update and amend the learning agenda.
+2 See Request for Information: Evidence Building Activities, 85 FR 71353 (DHS, 2019)
+3 See Request for Information: Evidence Building Activities, 86 FR 8921 (DHS, 2020)
+2
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Operational Components
+U.S. Customs and Border Protection (CBP)
+Cybersecurity and Infrastructure Security Agency (CISA)
+Federal Emergency Management Agency (FEMA)
+U.S. Immigration and Customs Enforcement (ICE)
+Transportation Security Administration (TSA)
+U.S. Citizenship and Immigration Services (USCIS)
+U.S. Coast Guard (USCG)
+U.S. Secret Service (USSS)
+Support Components and Executive Leadership Offices
+Countering Weapons of Mass Destruction Office (CWMD)
+Federal Law Enforcement Training Center (FLETC)
+Intelligence and Analysis (I&A)
+Management Directorate (MGMT)
+Office of Strategy, Policy, and Plans (PLCY)
+Science & Technology Directorate (S&T)
+Identify Department Priorities
+DHS systematically prioritized a set of relevant questions and scientifically rigorous evidence
+building from Components' proposals. A working group of 13 senior Department officials and
+technical experts,4 with responsibilities for enterprise-wide coordination and governance of
+evidence building and data, conducted multiple rounds of systematic review, deliberation, and
+prioritization of the Components' priority questions and proposals. The results of a criterion-
+based review of questions and accompanying proposals submitted by Components served as the
+basis for the working group's prioritization of questions and proposals with high relevance to
+Administration priorities and high potential to provide scientifically rigorous, timely evidence for
+decision making.
+The working group recommended 30 priority questions and proposals to the DHS Deputy's
+Management Action Group for inclusion in the learning agenda. Those 30 priority questions
+addressed 47 of the 122 Component priority questions when accounting for similar or related
+questions. The working group has been reconstituted as a coordination body to continually
+promote collaboration and unity of effort across evidence building activities.
+4 The working group includes the DHS Evaluation Officer (who is also the Performance Improvement Officer),
+the DHS Statistical Official, the DHS Chief Data Officer, the DHS Chief Economist, senior scientific officials from
+S&T, senior operations research experts, and their deputies.
+3
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Develop Study Plans
+Component members of the DHS Evaluation Officer Council and question champions identified
+teams to assist the DHS Evaluation Officer in developing study plans. The teams provided subject
+matter, evidence-building, and data expertise needed to draft plans for inclusion in the DHS FY
+2022-2026 Learning Agenda. Teams considered the Learning Agenda Working Group's feedback
+in their planning and engaged additional stakeholders as needed.
+Twenty-seven (27) study plans were fully developed during this stage. DHS will establish
+additional teams as needed to plan evidence building that may be proposed in future annual
+updates of this learning agenda.
+Publish and Disseminate
+The DHS FY 2022-2026 Learning Agenda is published at the DHS public website and
+evaluation.gov. The DHS public website will host future updates on and findings of the evidence
+building undertaken from the learning agenda as well as amendments to the learning agenda
+that reflect evolving needs. DHS intends to release reports, summaries, and key findings that are
+appropriate and accessible for external stakeholders and the public, except in the few cases for
+which disclosure limitations are noted in the study plans.
+As DHS envisions continual stakeholder engagement on the learning agenda, we invite feedback
+on the published DHS FY 2022-2026 Learning Agenda and continued collaboration from relevant
+external communities on questions in which data and expertise reside outside DHS, external
+researchers have interest in supporting DHS evidence building, and questions reflect shared
+priorities or have broad implications beyond DHS.
+Learning Agenda Framework
+The DHS FY 2022-2026 Learning Agenda is organized according to the strategic goals in the
+Department's strategic plan.5 For each goal, the learning agenda identifies priority questions that
+build evidence and foster organizational learning. The strategic goals are:
+Goal 1: Counter Terrorism and Homeland Security Threats
+Goal 2: Secure U.S. Borders and Approaches
+Goal 3: Secure Cyberspace and Critical Infrastructure
+Goal 4: Preserve and Uphold the Nation's Prosperity and Economic Security
+Goal 5: Strengthen Preparedness and Resilience
+Goal 6: Champion the DHS Workforce and Strengthen the Department
+As required by the Evidence Act, the DHS FY 2022-2026 Learning Agenda questions consider a
+broad range of Administration and Department priorities such as domestic terrorism,
+immigration, cybersecurity, infrastructure, climate, equity, COVID-19, and the federal workforce.
+5 The DHS Strategic Plan Fiscal Years 2020-2024 (DHS, 2020)
+4
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+The organization of the DHS FY 2022-2026 Learning Agenda is as follows:
+The Learning Agenda Summary section outlines summary information for each priority question:
+the primary DHS strategic goal and objective number addressed by the question, or
+crosscutting if multiple goals are addressed;
+the proposed evidence-building activity(s) for each priority question, including
+foundational fact finding (FFF), policy analysis (PA), performance measurement (PM), and
+program evaluation (PE);
+the fiscal year in which evidence building will start; and
+the timeframe for expected results, indicated short term (ST) if results are expected FY
+2022-2024 and long term (LT) if results are expected in FY 2025-2026, or if the activity is
+recurring.
+The Study Plans section is organized by strategic goal and provides plans for each priority
+question. The study plans describes:
+the strategic or operational background for the priority question and the primary strategic
+objective addressed;
+the proposed evidence building, including the evidence-building activity(s), data,
+methods, analysis, and tools needed; and
+the anticipated use and dissemination of findings from evidence building.
+Three sections provide additional information about DHS evidence building.
+The Data Priorities section describes general data types and named data sets that are
+proposed for DHS evidence building.
+The Study Types, Data collection Methods, and Analytic Approaches section provides
+more explanation of commonly used and aspirational aspects of DHS evidence-building
+activities.
+The Challenges and Mitigating Strategies section describes barriers to evidence building
+that are common across DHS organizations and collective solutions DHS is deploying to
+overcome such barriers.
+The information included in this plan has been collaboratively developed with the Components
+that are the principal producers and users of the evidence and meets Evidence Act and OMB
+requirements. The details provided ensure that DHS stakeholders have a clear and collective
+understanding of what priority evidence building is intended and how it will be used to inform
+decision making in the next four years.
+5
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Learning Agenda Summary
+Exhibit 2 provides a summary of the learning agenda's evidence-building questions and plans.
+Exhibit 2. Summary of DHS Evidence Building Questions and Plans
+Question
+Strategic
+Evidence
+Planned
+Expected
+ID
+Priority Question
+Objective
+Building
+Start
+Results
+Strategic Goal 1: Counter Terrorism and Homeland Security Threats
+In what ways do service interventions funded through
+violence and domestic terrorism prevention grants
+G1-Q1
+1.2
+PM, PE
+FY22
+LT
+contribute to DHS goals for reducing individuals
+radicalizing to targeted violence and terrorism?
+Strategic Goal 2: Secure U.S. Borders and Approaches
+What "push" and "pull" factors at the national and local
+G2-Q1
+levels predict increases/decreases in the numbers of
+2.1
+FFF
+FY22
+LT
+noncitizens arriving at the Southwest Border?
+What effect, if any, have changes in southern land border
+G2-Q2
+2.1
+FFF
+FY22
+LT
+controls had on migrant encounters at sea?
+How accurate were DHS's estimates of the benefits and
+G2-Q3
+costs in the regulatory impact analysis for the regulation,
+2.3
+PE
+FY22
+ST
+"Standards to Prevent, Detect, and Respond to Sexual
+Abuse and Assault in Confinement Facilities"?
+What, if any, person and case characteristics predict
+higher likelihood of specific immigration enforcement
+G2-Q4
+2.3
+FFF
+FY22
+LT
+outcomes and time between border encounter and final
+outcome?
+G2-Q5
+What factors, if any, help predict rates and lengths of
+2.3
+FFF
+FY22
+LT
+nonimmigrant overstays?
+G2-Q6
+What, if any, person and case characteristics predict
+2.4
+FFF
+FY22
+LT
+higher likelihood of receiving specific immigration benefits?
+What are the characteristics of people who naturalize?
+What demographic variables among lawful permanent
+G2-Q7
+2.4
+FFF
+FY22
+LT
+residents are correlated with the likelihood and timing of
+naturalization?
+What are the characteristics of people who online file
+G2-Q8
+2.4
+FFF
+FY22
+ST
+compared to paper file for immigration benefits?
+What is the degree and source of variability in USCIS
+G2-Q9
+utilization and completion rates, across adjudicative staff,
+2.4
+FFF
+FY22
+ST
+at USCIS field offices?
+To what extent can available data predict adjudications
+G2-Q10
+actions sufficiently to warrant automation of steps toward
+2.4
+FFF
+FY22
+ST
+completion or to automate whole processes?
+Note: Evidence building includes the following: FFF is foundational fact finding, PA is policy analysis, PM is
+performance measurement, and PE is program evaluation. Expected results includes the following: short term (ST) if
+results are expected FY 2022-2024 and long term (LT) if results are expected in FY 2025-2026, or if the activity is
+recurring.
+6
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Question
+Priority Question
+Strategic
+Evidence
+Planned
+Expected
+ID
+Objective
+Building
+Start
+Results
+Strategic Goal 3: Secure Cyberspace and Critical Infrastructure
+How are stakeholders using cyber, critical infrastructure
+(CI), and emergency communications (EC) products and
+services they receive from CISA? To what extent do these
+G3-Q1
+products and services add value, such as increasing
+3.2
+PM, PE
+FY22
+ST
+awareness and closing gaps in capabilities, plans, and
+policies? What factors prevent stakeholders from using
+cyber/CI/EC products they receive?
+Do all subgroups of the target population participate in and
+G3-Q2
+perceive value and utility of national convenings as
+3.2
+PE
+FY23
+ST
+mechanisms of information exchange about security and
+risk resilience? What gaps and unmet needs, if any, exist?
+To what extent has the all-hazards communications unit
+position-specific training and stakeholder communication
+unit program enhanced interoperability by (1) creating,
+G3-Q3
+maintaining, and deploying a qualified group of people to
+3.2
+PM, PE
+FY23
+ST
+fulfill Communications Unit (COMU) roles in federal, state,
+local, tribal, and territorial (SLTT) partner organizations
+and (2) enhancing integrated, collaborative,
+communications planning?
+Strategic Goal 4: Preserve and Uphold the Nation's Prosperity and Economic Security
+Which facilities should have Transportation Worker
+G4-Q1
+Identification Card (TWIC) readers to appropriately
+4.2
+FFF, PA
+FY22
+ST
+manage risk?
+What are the most significant sources of variation in
+transportation security sector (TSS) operators'
+G4-Q2
+implementation of cyber security technology and
+4.2
+FFF
+FY22
+ST
+processes? What do TSS operators report as enablers
+and barriers to implementation, and what gaps/unmet
+needs could TSA address?
+Where does the majority of federally managed fishing
+G4-Q3
+activity (both inside the U.S. EEZ and nearby) occur, by
+4.3
+FFF
+FY22
+LT
+season and species?
+Goal 5: Strengthen Preparedness and Resilience
+How do individuals' preparedness behaviors change over
+G5-Q1
+5.1
+FFF
+FY22
+LT
+time?
+How do household income and other demographic
+G5-Q2
+characteristics influence the decision to purchase flood
+5.1
+FFF
+FY22
+LT
+insurance?
+To what extent is FEMA's training and education
+G5-Q3
+enterprise providing equitable delivery of curricula to state,
+5.1
+FFF
+FY22
+LT
+local, tribal and territorial (SLTT) constituents?
+Note: Evidence building includes the following: FFF is foundational fact finding, PA is policy analysis, PM is
+performance measurement, and PE is program evaluation. Expected results includes the following: short term (ST) if
+results are expected FY 2022-2024 and long term (LT) if results are expected in FY 2025-2026, or if the activity is
+recurring.
+7
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Question
+Priority Question
+Strategic
+Evidence
+Planned
+Expected
+ID
+Objective
+Building
+Start
+Results
+What indicators, measures, methods, and data can better
+support the evaluation of Homeland Security Grants
+G5-Q4
+Program (HGSP) effectiveness as it pertains to
+5.1
+PM
+FY22
+ST
+maintaining and improving state, local, tribal and territorial
+(SLTT) and national preparedness?
+What indicators, data, methods, tools and frameworks can
+FEMA use to build evidence and address disparities in
+G5-Q5
+achieving equitable outcomes across FEMA programs
+5.3
+FFF, PM
+FY22
+LT
+(e.g., direct federal assistance and grants) across the
+agency?
+To what extent were COVID Public Assistance obligations
+G5-Q6
+distributed to areas of social vulnerability and high case
+5.3
+PE
+FY22
+LT
+rates in socially vulnerable areas?
+Goal 6: Champion the DHS Workforce and Strengthen the Department
+Does level of Independent Test Agent (ITA) support
+throughout the acquisition lifecycle correlate with the
+G6-Q1
+adequacy of an acquisition program's test and evaluation
+6.1
+PE
+FY23
+LT
+outputs (operational effectiveness, suitability, and
+resilience)?
+What are the estimated costs and benefits of DHS vehicle
+G6-Q2
+fleet electrification given specialized/law enforcement
+6.3
+PA
+FY22
+ST
+requirements?
+What effects has the adoption of maximum telework
+flexibilities had on the DHS mission and support for the
+G6-Q3
+6.3
+PE
+FY22
+ST
+DHS mission? What sub-groups benefit most/least from
+telework flexibilities?
+What effects has adoption of a standard utilization rate
+G6-Q4
+(UR) of 150 sq. ft./person had on the Department's real
+6.3
+PE
+FY22
+ST
+property footprint? What factors support and hinder
+implementation of the 150 sq. ft./person standard?
+What metrics/indicators can be used to reliably predict cost
+to maintain materiel readiness requirements for deployed
+systems in CBP's stated five Enduring Mission Priority
+G6-Q5
+6.3
+PM
+FY22
+LT
+Outcomes: Combating Transnational Organized Crime,
+Counter Terrorism, Facilitate Lawful Travel, Secure the
+Border, and Facilitate Lawful Trade and Protect Revenue?
+Note: Evidence building includes the following: FFF is foundational fact finding, PA is policy analysis, PM is
+performance measurement, and PE is program evaluation. Expected results includes the following: short term (ST) if
+results are expected FY 2022-2024 and long term (LT) if results are expected in FY 2025-2026, or if the activity is
+recurring.
+8
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Study Plans
+Strategic Goal 1: Counter Terrorism and Homeland Security Threats
+G1-Q1 In what ways do service interventions funded through violence and domestic
+terrorism prevention grants contribute to DHS goals for reducing individuals
+radicalizing to targeted violence and terrorism?
+DHS Strategic Objective: 1.2 Detect and Disrupt Threats
+Timing of Activities: FY 2022-2024
+Strategy or Operation Background
+Individuals radicalizing to targeted violence and terrorism are a national problem that presents
+in different ways among individuals. The DHS Targeted Violence and Terrorism Prevention (TVTP)
+program provides federal support for whole-of-society, locally-based initiatives aimed at
+preventing radicalization, recruitment, and recidivism through the provision of educational,
+technical, and financial assistance. The intended result of these services is preventing individuals
+from radicalizing to violence and providing "off ramps" for individuals that are radicalized to
+reduce the likelihood of mobilizing to violence. The short period of time that these programs
+have operated, combined with many factors that influence the radicalization to violence among
+individuals, leaves this effort open for the development of more robust performance
+measurement and evaluation efforts.
+Evidence Building
+Performance Measurement activities will enhance existing grant performance management with
+new DHS-developed performance indicators and measures for short- to long-term outcomes that
+contribute to TVTP program goals and objectives. Program Evaluation includes primarily
+nonexperimental outcome evaluation, but may include impact evaluation, supplemented with
+case study analysis of completed TVTP grant projects to determine the extent to which and in
+what ways grants have (1) strengthened community resilience through adaptive social
+capabilities, (2) improved likelihood of referral and self-referrals to community-based
+interventions prior to criminal conduct, and (3) prevented recruitment and deradicalization of at-
+risk individuals.
+Non-Disaster Grants system contain data on grant services and products, participation,
+partnerships, networking, and project-defined outcomes. New data to collect through
+performance measures, quantitative surveys, qualitative interviews/focus groups, or
+observations (during site visits) may include information from federal grant recipients and their
+stakeholders related to DHS-required TVTP program outcomes and new performance measures.
+Analytic approaches may include descriptive and inferential statistics for quantitative data,
+qualitative data analysis, and case study analysis. Third-party research support is anticipated.
+9
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Evidence Use and Dissemination
+Understanding the effectiveness of targeted violence and terrorism prevention practices on
+outcomes will allow DHS, its federal partners, and grant recipients to better shape policies and
+programs to implement the national strategic terrorism and targeted prevention strategy
+consistent with the Constitution and other applicable law and policy. This effort constitutes a first
+step to establish a comprehensive evaluation approach for the broader Center for Prevention
+Programs and Partnerships (CP3) portfolio.
+Evidence building may engage or be used by CP3, the DHS Science & Technology (S&T) Center of
+Excellence for National Counterterrorism Innovation, Technology, and Education researchers,
+DHS S&T Social Science Technology Center researchers, CP3 Regional Prevention Coordinators,
+FEMA grant recipients, and state and local prevention stakeholders.
+Strategic Goal 2: Secure U.S. Borders and Approaches
+G2-Q1 What "push" and "pull" factors at the national and local levels predict
+increases/decreases in the numbers of noncitizens arriving at the Southwest Border?
+DHS Strategic Objective: 2.1 Secure and Manage Air, Land, and Maritime Borders
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+Secure, well-managed borders are needed to protect the U.S. against threats from abroad and to
+safeguard and expedite the flow of lawful trade and travel. DHS employs near real-time trend
+analysis to produce operational planning profiles that inform short-term staffing requirements,
+but the Department lacks a long-term model of the underlying social, economic, security, U.S.
+policy, and demographic factors that influence immigration.
+Evidence Building
+Foundational Fact Finding begins with an evidence review of scholarly research publications and
+other reports to assist researchers in identifying potential country- and local-level factors and
+data to include in the statistical analysis. Relevant data will be acquired and integrated so that
+statistical analysis can be conducted to (1) examine relationships among noncitizen border
+encounters at the Southwest Border (SWB), noncitizens' residence, and country- and local-level
+factors and (2) develop a model that accurately forecasts land-based SWB encounters.
+Critical data systems include the U.S. Border Patrol (USBP) E3 System and the Office of Field
+Operations (OFO) Unified Secondary system. These and other administrative/operational data
+include historic land border encounters and noncitizens' prior residence (i.e., country, state, city)
+before encounter. New data to acquire are country- and local-level economic, security, and
+environmental conditions from researchers and other federal agencies (e.g., U.S. Department of
+State (DOS) and U.S. Agency for International Development) through open data and data sharing
+10
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+agreements. Analytic approaches may include descriptive and inferential statistics as well as
+advanced data mining and analytics. Third party research support is anticipated.
+Evidence Use and Dissemination
+Understanding and anticipating the numbers of expected encounters at the SWB is critical for
+appropriately resourcing DHS operations and coordinating partnerships to reduce unauthorized
+flows. Understanding factors that influence migration to the SWB, including root causes like
+economic and security conditions as well as dislocation associated with environmental change
+and natural disasters, may inform other DHS strategic program efforts, such as interventions
+within noncitizens' communities of residence.
+Evidence building may engage or be used by the DHS Office of Policy, the CBP Planning, Analysis,
+and Requirements Evaluation Directorate, ICE Enforcement and Removal Operations, ICE
+Strategy and Operations Analysis unit, ICE Office of the Principal Legal Advisor, DHS Intelligence
+and Analysis, USCG Marine Law Enforcement, USCIS Refugee and Asylum and International
+Operations division, and other federal partners at Department of Justice, Department of Health
+and Human Services, DOS, U.S. Agency for International Development, and the National Security
+Council.
+G2-Q2 What effect, if any, have changes in southern land border controls had on migrant
+encounters at sea?
+DHS Strategic Objective: 2.1 Secure and Manage Air, Land, and Maritime Borders
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+Sophisticated smuggling enterprises, border tunnels, go-fast vessels, and other elusive travel
+methods allow noncitizens and human smugglers to evade border security at designated ports of
+entry. DHS deploys a combination of people, technology, infrastructure, and aviation and marine
+assets across U.S. land and sea borders and approaches between designated ports of entry. These
+assets improve situational awareness of the people, vehicles, aircraft and marine vessels
+approaching U.S. land and sea borders and interdiction, as needed, to thwart attempts at
+unlawful entry through maritime pathways. Annually reported performance measures include
+migrant interdiction effectiveness in the maritime environment and, separately, rate of
+interdiction effectiveness along the SWB between ports of entry.6
+6 See http://www.dhs.gov/performance-accountability
+11
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Evidence Building
+Foundational Fact Finding includes integration of relevant data and statistical analysis to
+examine relationships among noncitizen at-sea encounters, land border encounters, and land
+border controls. The activity will also attempt to build a predictive model for at-sea encounters,
+or a comprehensive land-marine model of migrant total flow.
+USCG Marine Law Enforcement, USBP E3, and OFO Unified Secondary systems include
+administrative/operational data for historic at-sea encounters, land border encounters, and land
+border controls and, for some data, include state, local, and international law enforcement
+partner reporting. Analytic approaches may include descriptive and inferential statistics and
+advanced data mining and analytics. This effort may leverage the USCG's planned Surveyor data
+aggregation system and tools, or their successors. Given the dependence on evidence and models
+in priority question G2-Q1, the start and completion of this work may be delayed.
+Evidence Use and Dissemination
+Understanding whether and how maritime migration flow changes with stronger or weaker land
+border controls and interdiction rates allows DHS to optimize its allocation and positioning of
+maritime patrol assets to maximize interdictions of noncitizens and human smugglers attempting
+unlawful entry to the U.S.
+Evidence building may engage or be used by USCG Office of Maritime Law Enforcement; CBP Air
+and Marine Operations, CBP Office of Field Operations, U.S. Border Patrol, ICE Enforcement and
+Removal Operations, ICE Homeland Security Investigations, USCIS, DOS Bureau of Population,
+Refugees, and Migration, DOS Office to Monitor and Combat Trafficking in Persons, Department
+of Defense, Drug Enforcement Agency, Federal Bureau of Investigation, Southern California and
+Florida Regional Coordinating Mechanisms, state and local law enforcement, and international
+partners.
+G2-Q3 How accurate were DHS's estimates of the benefits and costs in the regulatory impact
+analysis for the regulation, "Standards to Prevent, Detect, and Respond to Sexual
+Abuse and Assault in Confinement Facilities"?
+DHS Strategic Objective: 2.3 Enforce U.S. Immigration Laws
+Timing of Activities: FY 2022-2023
+12
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Strategy or Operation Background
+Executive Order (E.O.) 12866 of September 30, 1993, Regulatory Planning and Review,7 begins
+with the premise, "The American people deserve a regulatory system that works for them and
+improves the performance of the economy without imposing unacceptable or unreasonable
+costs on society regulations that are effective, consistent, sensible, and understandable." It is
+with these and related societal goals in mind that an assessment of both the potential costs and
+benefits of the intended regulation is generally performed by Federal regulatory agencies when
+they propose new regulations. E.O. 12866 directs that agencies shall assess both the costs and
+the benefits of intended regulations "and, recognizing that some costs and benefits are difficult
+to quantify, propose or adopt a regulation only upon a reasoned determination that the benefits
+of the intended regulation justify its costs." It further advises that such decisions should be based
+on "the best reasonably obtainable scientific, technical, economic, and other information
+concerning the need for, and consequences of, the intended regulation." The Executive Order
+recognizes that reasoned prediction of the benefits and costs of an intended regulation is
+generally, challenging. Accordingly, it is useful for agencies to analyze costs and benefits
+retrospectively in order to determine how accurate their predictions have been by examining the
+actual costs and benefits of their regulations.
+Different regulatory agencies face their own unique challenges in performing analyses of costs
+and benefits due to the characteristics of their subject areas. DHS's regulations involving the
+management of confinement facilities belongs to a unique subject area that warrants special
+consideration in the development of regulatory analyses at DHS. By retrospectively assessing
+costs and benefits performed for a recent regulation in this area, DHS will be able to learn more
+about the efficacy of its predictive analytical methods, which will better enable DHS to perform
+more accurate benefit-cost analyses in this subject area moving forward. For this purpose, DHS
+chose the analysis for a significant, relatively recent regulation for which the prediction of
+benefits and costs were challenging: Standards to Prevent, Detect, and Respond to Sexual Abuse
+and Assault in Confinement Facilities. 8
+Evidence Building
+Program Evaluation activities include a summative economic analysis, or evaluation, to
+determine actual benefits and costs of the rule, compared with the original projection of costs
+and benefits. Existing data may include all of the data that DHS used in developing the original
+regulatory analysis (for example, data on costs of personnel, training, documentation, and audits
+and industry estimates of unit avoidance values for sexual abuse), plus any other, more-recent
+data from the same sources. An evidence review, such as a literature review, may provide
+7 Executive Order (E.O.) 12866 of September 30, 1993, Regulatory Planning and Review (Executive Office of the
+President, 1993)
+8 Standards to Prevent, Detect, and Respond to Sexual Abuse and Assault in Confinement Facilities: Final Rule 79
+Fed. Reg. 13.099 (DHS, 2014)
+13
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+alternative sources of related information from scholarly research publications, research and
+analysis reports of other federal agencies, or other federal staff with subject matter expertise in
+the topic area of the regulation. Analytic approaches may include descriptive and inferential
+statistics, benefit-cost or break-even analysis, and qualitative data analysis. Third party research
+support is anticipated.
+Evidence Use and Dissemination
+Comparing actual benefits and costs of the rule with the original analysis baseline and projected
+estimates, and how critical assumptions informed those estimates, will provide valuable lessons
+for improving DHS regulatory analyses. Recommendations on how DHS assessments of costs and
+benefits could be improved, as suggested from findings, will be shared among DHS regulatory
+economists who work in related areas so that their own assessments of costs and benefits may
+benefit from these recommendations in the future.
+Evidence building may engage or be used by ICE Office of Regulatory Affairs and Policy, DHS Office
+of the General Counsel Regulatory Affairs Law Division, regulatory agencies within DHS, and
+regulatory agencies in other Departments that perform similar work.
+G2-Q4 What, if any, person and case characteristics predict higher likelihood of specific
+immigration enforcement outcomes and time between border encounter and final
+outcome?
+DHS Strategic Objective: 2.3 Enforce U.S. Immigration Laws
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+The U.S. immigration enforcement system is the most complex of the Department's interagency
+missions and until recently data systems have hindered analysis of individuals' history across the
+enforcement lifecycle. DHS established and continues to mature an immigration data domain
+to standardize immigration data collection and link records across the Department, though a
+Department-wide approach to collecting critical individual data needed to identify
+individuals from underserved groups such as race, ethnicity, sexual orientation and gender
+identity (SOGI), and disability is still needed. One intended result is improved analysis of
+structural factors and individual characteristics that influence enforcement outcomes and end-
+to-end processing times, including disparate outcomes in immigration enforcement. DHS
+summarizes immigration enforcement in the Immigration Enforcement Actions Annual Flow
+Report,9 and the annual Enforcement Lifecycle Report10 describes final or most current outcomes
+associated with previous SWB encounters.
+9 See https://www.dhs.gov/immigration-statistics/enforcement-actions
+10 See https://www.dhs.gov/immigration-statistics/special-reports/enforcement-lifecycle
+14
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Evidence Building
+Foundational Fact Finding includes continued data integration and then statistical analysis to
+examine specific relationships between noncitizen individual factors and enforcement outcomes,
+individual factors and end-to-end processing times, case factors and enforcement outcomes, and
+case factors and end-to-end processing times. Individual characteristics are citizenship and
+country's willingness to accept deportees, statelessness, sex, language, age, family status,
+immigration status at time of arrest, and criminality. Case factors include initial disposition, arrest
+location, detention center, basis of claim, transfers, Alternatives to Detention enrollment, legal
+representation, court location, and immigration judge. Enforcement outcomes include positive
+credible/fear determinations, removals, removals in absentia, unexecuted removals, and relief
+from return.
+The Office of Immigration Statistics (OIS) Statistical Immigration System of Record contains most
+of the information needed on individual characteristics, case factors, outcomes, and processing
+times. Additional DHS administrative data that may support evidence building include ICE
+Alternatives to Detention data, DHS Prison Rape Elimination Act data, other data collected by the
+Immigration Detention Ombudsman and Office for Civil Rights and Civil Liberties (CRCL). New
+data to collect or acquire include race, ethnicity, SOGI status, and disability from certain
+noncitizens. DHS will attempt to access these data from other federal statistical data (e.g., U.S.
+Census data) through restricted use data licenses and data linking. Alternatively, DHS may
+consider creating new, standardized form fields for collecting these data across the immigration
+data domain. Analytic approaches may include descriptive and inferential statistics. Third party
+research support is not anticipated.
+Evidence Use and Dissemination
+Understanding how individual characteristics and case-related factors influence enforcement
+outcomes and processing times can help DHS identify issues that warrant further analysis and
+evaluation, improve enforcement processes and enforcement priorities, reduce litigation risk,
+and mitigate disparate enforcement outcomes. Evidence building may engage or be used by the
+DHS Office of Policy, Office of the Immigration Detention Ombudsman, CRCL, the CBP Planning,
+Analysis, and Requirements Evaluation Directorate, ICE Enforcement and Removal Operations,
+ICE Office of the Principal Legal Advisor, the Department of Justice Executive Office for
+Immigration Review, the Department of Health and Human Services Office of Refugee
+Resettlement, organizations providing legal orientation programs, and numerous external
+immigration research and advocacy organizations.
+G2-Q5 What factors, if any, help predict rates and lengths of nonimmigrant overstays?
+DHS Strategic Objective: 2.3 Enforce U.S. Immigration Laws
+Timing of Activities: FY 2022-2026
+15
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Strategy or Operation Background
+While only a small percentage of nonimmigrant visitors overstay their authorized period of
+admission, overstayers make up 40-50 percent of the total U.S. unauthorized immigrant
+population. DHS has instituted various initiatives to proactively prevent overstay violations, such
+as direct notifications to nonimmigrant visitors, outreach, and education programs. Yet the
+Department has only recently developed reliable data on certain nonimmigrant exits, and data
+on overstayers is contingent on the Department's still-evolving ability to track nonimmigrant
+adjustments of status and departures through land ports of entry. Each fiscal year, DHS publishes
+an annual Entry/Exit Overstay Report11 that provides country-by-country overstay rates for a
+subset of air and sea nonimmigrant classes of admission.
+Evidence Building
+Foundational Fact Finding includes data integration, additional data validation, and then
+statistical analysis to examine relationships among individual factors, visa type/class of
+admission, likelihood of overstay, and length of overstay. These data will be incorporated into
+the OIS Statistical Immigration System of Record to improve statistics reported in OIS's
+Estimates of the Unauthorized Immigrant Population Residing in the United States.
+Existing data from the OIS Statistical Immigration System of Record and CBP Arrival and
+Departure Information System provide information on nonimmigrant individual characteristics
+(such as country of birth, sex, race, ethnicity, language), citizenship, visa type/class of admission,
+inflow-outflow, and overstay resolutions. Additional research and data on visa issuance and
+overstays may be acquired from the DOS. Analytic approaches may include descriptive and
+inferential statistics. Third party research support is not anticipated.
+Evidence Use and Dissemination
+Understanding whether and what factors predict future visa overstays can inform DHS and DOS
+policies about visa issuance and admissions, improve preventative measures to deter violations,
+and ensure appropriate resourcing for DHS visa overstay enforcement operations. The OIS will
+also use available data on overstay lengths to strengthen its estimates of the resident
+unauthorized population. Evidence building may engage or be used by DHS Office of Policy, CBP
+Office of Field Operations, ICE Homeland Security Investigations, and the Department of State
+Offices of Consular Affairs and Fraud Prevention.
+G2-Q6 What, if any, person and case characteristics predict higher likelihood of receiving
+specific immigration benefits?
+DHS Strategic Objective: 2.4 Administer Immigration Benefits to Advance the Security and
+Prosperity of the Nation
+11 See https://www.dhs.gov/publication/entryexit-overstay-report
+16
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Timing of Activities: FY 2022-2025
+Strategy or Operation Background
+DHS adjudicates about eight million requests for immigration benefits a year; however, until
+recently, data systems have hindered analysis of individuals' history across the benefits lifecycle,
+including the pathways noncitizens follow in transitioning from temporary nonimmigrants to
+lawful permanent residents to naturalized citizens. DHS established and continues to mature an
+immigration data domain to standardize immigration data collection and practices and link
+records across the Department. A Department-wide approach to collecting critical individual
+characteristics such as race, ethnicity, and SOGI is still needed.
+DHS currently summarizes immigration benefits in separate annual reports: U.S. Nonimmigrant
+Admissions,
+12
+Refugees and Asylees,13 U.S. Lawful Permanent Residents (LPRs), 14 and U.S.
+Naturalizations. 15 This study would serve as the basis of a future Immigration Benefits Lifecycle
+Report that maps non-citizens' pathways across different nonimmigrant statuses and identifies
+case- and individual-level factors that are associated with different application rates and results,
+including potential disparities in benefits outcomes.
+Evidence Building
+Foundational Fact Finding includes data integration and then statistical analysis to examine
+relationships among case- and individual-level factors and benefit applications and outcomes for
+each application type.
+Critical data systems for evidence building include the OIS Statistical Immigration System of
+Record and USCIS Electronic Immigration System, USCIS Computer Linked Application
+Information Management System, and Central Index System. These existing data provide
+information on individual characteristics, case factors, adjudicator characteristics,
+application/form, and benefit outcomes. Individual characteristics are country of birth, country
+of nationality, sex, education, occupation, and limited data on race, ethnicity, and language. Case
+factor data includes nonimmigrant and LPR class of admission, relationship to US sponsor, and
+adjudicator. Key benefit outcomes include nonimmigrant visa renewal, adjustment to LPR status,
+and naturalization. New data to collect or acquire include race, ethnicity, SOGI, education,
+language, occupation, and English language proficiency for some noncitizens. DHS will attempt
+to access these data from other federal statistical data (e.g., U.S. Census data) through restricted
+use data licenses for data linking to DHS data; alternatively, DHS may consider creating new,
+standardized form fields for collecting these data across the immigration data domain. Analytic
+12 See https://www.dhs.gov/immigration-statistics/nonimmigrant
+13 See https://www.dhs.gov/immigration-statistics/refugees-asylees
+14 See Ittps://www.dhs.gov/immigration-statistics/lawful-permanent-resident:
+15 See https://www.dhs.gov/immigration-statistics/naturalizations
+17
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+approaches may include descriptive and inferential statistics. Third party research support is not
+anticipated.
+Evidence Use and Dissemination
+Understanding how noncitizen individual characteristics and case-related factors influence
+specific outcomes enables DHS to identify issues that warrant further analysis and evaluation,
+improve immigration benefits processes and programs, reduce DHS litigation risk, and mitigate
+disparate outcomes in the benefits system. Evidence building may engage or be used by the DHS
+Office of Policy, CRCL, USCIS Field Operations Directorate, USCIS Ombudsman, USCIS Office of
+Citizenship, USCIS Office of Policy, and numerous external immigration research and advocacy
+organizations.
+G2-Q7 What are the characteristics of people who naturalize? What demographic variables
+among lawful permanent residents are correlated with the likelihood and timing of
+naturalization?
+DHS Strategic Objective: 2.4 Administer Immigration Benefits to Advance the Security and
+Prosperity of the Nation
+Timing of Activities: FY 2022-2025
+Strategy or Operation Background
+The U.S. immigration system must be responsive to the flow of demand from around the world
+while safeguarding security and prosperity of the Nation. DHS provides customer-oriented
+immigration benefits and information services at home and abroad that promote rights,
+responsibilities, and importance of citizenship. A seven-agency Interagency Working Group is
+currently developing a comprehensive national strategy to promote naturalization for qualified
+noncitizens. The intended result is more noncitizens lawfully reaching their potential in the U.S.
+through naturalization.
+On a periodic basis, DHS reports on characteristics of people who naturalized,16 describing
+demographic and socio-economic characteristics of lawful permanent residents (LPR) that
+naturalized in a particular timespan (typically, five years). DHS also reports trends in
+naturalization rates17 describing naturalization for immigrants who obtained LPR status by
+immigrant cohort, region and country of birth, and class of admission. The statistics produced
+from this priority question will support future updates and provide new information for
+expanding these reports.
+16
+Characteristics of People Who Naturalized Between FY 2015 and FY 2019 (DHS, 2021)
+17
+Trends in Naturalization Rates: FY 2018 Update (DHS, 2021)
+18
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Evidence Building
+Foundational Fact Finding involves statistical analysis to describe group characteristics of people
+who naturalize and statistical comparison of characteristics and outcomes of different LPR
+cohorts. An analysis of time-to-event (event being naturalization) will estimate and describe the
+naturalization-eligible population and identify factors that increase probability to naturalize.
+Data from the USCIS Electronic Immigration System, USCIS Computer Linked Application
+Information Management System, and Central Index System data, mainly collected in I-485 and
+N-400s forms, provide information on individual, socioeconomic, and case characteristics.
+Individual and socioeconomic characteristics include region and country of birth, age, gender,
+marital status, education attainment, and income. Case characteristics includes years in LPR
+status and class of admission. No new data collection is anticipated. Analytic approaches may
+include descriptive and inferential statistics. Third party research support is not anticipated.
+Evidence Use and Dissemination
+Understanding trends in the characteristics of people who naturalize, factors that increase
+probability of naturalization, and projected future naturalization volume enables DHS to better
+promote naturalization through national and community-level outreach efforts, support
+workload planning for efficient naturalization request processing, and inform rulemaking for
+naturalization fees.
+Evidence building may engage or be used by USCIS' Office of Citizenship, Field Operations
+Directorate, Office of Performance and Quality, and Office of the Chief Financial Officer, as well
+as the Interagency Working Group on Promoting Naturalization, which includes Departments of
+Labor, Health and Human Services, Education, and others. Organizations preparing lawful
+permanent residents for citizenship or conducting outreach to lawful permanent residents about
+citizenship would also benefit from understanding existing naturalization trends to tailor services.
+G2-Q8 What are characteristics of people who online file compared to paper file for
+immigration benefits?
+DHS Strategic Objective: 2.4 Administer Immigration Benefits to Advance the Security and
+Prosperity of the Nation
+Timing of Activities: FY 2022-2024
+Strategy or Operation Background
+The U.S. immigration system must be responsive to the flow of demand from around the world
+while safeguarding security and prosperity of the Nation. DHS has established electronic filing
+procedures for a select number of application and petitions for immigration benefits that
+provides information needed to make immigration decisions to appropriate agencies elec-
+tronically and in real-time, yet only 30-60 percent of those applications are filed online. Increasing
+19
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+the proportion of online filers improves public access to government information and services,
+and government efficiency in adjudication of applications and petitions for immigration benefits.
+Evidence Building
+Foundational Fact Finding involves statistical analysis to describe group characteristics and
+statistical comparison of people who do and do not online file.
+Critical data systems include USCIS Electronic Immigration System, USCIS Computer Linked
+Application Information Management System, and Enterprise Citizenship and Immigration
+Services Centralized Operational Repository (eCISCOR). These existing administrative/
+operational data contain information on individual and socioeconomic characteristics and
+application or petition type. Individual and socioeconomic characteristics include region and
+country of birth, age, gender, marital status, education, and income. Although new data
+collection is not anticipated, the results of evidence building may inform future research and
+related data collection to better understand benefits, deterrents, and challenges of online filing
+from program customers. Analytic approaches may include descriptive and inferential statistics.
+Third party research support is not anticipated.
+Evidence Use and Dissemination
+Understanding trends in the characteristics of applicants and petitioners that do and do not
+online file could assist DHS in identifying potential inequities among the two populations. Further,
+factors that correlate to filing behaviors may indicate whether or not the service is accessible and
+usable by everyone who needs it and may shed additional light on barriers to entry for use of
+these services. These new understandings may help DHS improve the online filing process to
+better address customer needs and identify where additional analysis or evaluation is needed.
+Evidence building may engage or be used by USCIS' Office of Performance and Quality, Citizenship
+and Applicant Information Services, Office of Information Technology, Office of Information and
+Document Production, Office of Policy and Strategy, External Affairs Directorate, Public Affairs,
+and multiple other USCIS offices and directorates responsible for immigration services.
+Immigrant stakeholder groups and researchers may also benefit from this research.
+G2-Q9 What is the degree and source of variability in USCIS utilization and completion rates,
+across adjudicative staff, at USCIS field offices?
+DHS Strategic Objective: 2.4 Administer Immigration Benefits to Advance the Security and
+Prosperity of the Nation
+Timing of Activities: FY 2022
+20
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Strategy or Operation Background
+DHS adjudicates about eight million requests for immigration benefits a year, and variability
+exists across adjudicative staff, at DHS (USCIS) field offices and Service Centers, and across
+workload streams. DHS regularly assesses adjudication efficiency metrics such as the utilization
+rate (the percentage of officer work time devoted to adjudication) and completion rate (the time
+it takes to adjudicate each benefit type, on average). This information is critical for determining
+optimal agency staffing, staffing needed to address the backlog, and new or changing workloads.
+Evidence Building
+Foundational Fact Finding includes statistical analysis of benefit adjudication to include
+a
+comparison of utilization and completion rates across adjudicative staff and field offices by
+application/petition form types. Adjudication milestones and workload effort will also be
+reviewed to understand variation in efficiency metrics and correlation with other operational
+factors that may affect these rates.
+Critical data systems include the USCIS Electronic Immigration System, USCIS Computer Linked
+Application Information Management System, and eSTAT. Existing data includes the aggregated
+efficiency metrics used in annual performance measures, but the analysis relies on detailed and
+comprehensive information on milestones, history action codes, process time stamps, and officer
+case histories. Existing data are sufficient for form types that have already transitioned into the
+USCIS Electronic Immigration System (ELIS). Data from forms that are not yet in ELIS may be less
+comprehensive. Policy, guidance, and other information will be gathered and reviewed as
+needed to identify relevant operational factors, such as individual-level data entry practices or
+office-level management practices that may be needed to fully understand sources of variability.
+Analytic approaches may include descriptive and inferential statistics and advanced data mining
+and analytics. Third party research support is not anticipated.
+Evidence Use and Dissemination
+Understanding trends in adjudication between officers and offices will help DHS to identify best
+practices for efficiency, optimize interview scheduling, and help to reduce case backlogs. The
+analysis will improve the accuracy and utility of the efficiency metrics that are key inputs to
+staffing allocation models. If successful, the analysis will be scaled to include the USCIS Service
+Center Operations Directorate. Evidence building may engage or be used by USCIS operational
+directorates, Field Operations Directorate, Project Management Office, Office of Performance
+and Quality, and the Office of the Chief Financial Officer. Disclosure of findings will be limited to
+DHS.
+G2-Q10 To what extent can available data predict adjudications actions sufficiently to
+warrant automation of steps toward completion or to automate whole processes?
+DHS Strategic Objective: 2.4 Administer Immigration Benefits to Advance the Security and
+Prosperity of the Nation
+21
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Timing of Activities: FY 2022-2023
+Strategy or Operation Background
+The eight million requests for immigration benefits received by DHS annually arrive unevenly
+across the year, creating surges that challenge the inelasticity of DHS workforce, facilities, and
+budgets. DHS is working towards greater transparency in its operations, reductions in application
+backlogs, and revised methods of estimating completion times for all application types.
+Automating adjudication processes across the immigration benefits portfolio would allow DHS to
+be more responsive to customer demand. These improvements would provide applicants,
+employers, and communities a much-needed sense of economic and social stability. Automation
+could result in reallocation of resources to more valuable workloads, or, for example, prevent
+need for increasing costs while simultaneously decreasing the length of time an applicant waits
+for their results, thus reducing barriers to immigration.
+Evidence Building
+Foundational Fact Finding includes statistical analysis to examine which factors, if any, in the
+immigration benefit life cycle can be used as the basis of a model for predicting case approvals,
+specifically. An assumption in this research is that denials should be handled by humans.
+The analysis will use only those data which affect the legal evaluation of a case. For example,
+individual characteristics such as country of birth are valid because they are required to know
+if
+a visa is available for entry, whereas data on race or eye color are not relevant. Critical
+administrative/operational data include case factors (such as preference category or relationship
+to US sponsor) and contextual factors such as risk indicators (such as Treasury Enforcement
+Communication System hits or known association with fraud). The evidence building aims to test
+if currently available data and analytical systems are sufficient to perform the research; thus, no
+new data collection is anticipated. Analytic approaches may include descriptive and inferential
+statistics, advanced data mining and analytics, and network analysis. Third party research support
+is not anticipated.
+Evidence Use and Dissemination
+Several preceding learning agenda questions provide foundational analyses about sources of
+variation in immigration benefit processes and outcomes to help identify conditions under which
+automation is most needed and appropriate. In this research, understanding what variables can
+be used to assess or index case complexity will help to properly identify cases for which
+automated application processing is appropriate. Further, understanding the extent to which
+current cases can undergo automated processing helps DHS to better align its staffing resources.
+A meaningful derivative use of the data, for example, is that if DHS can precisely predict outcomes
+in processes, the same data may support workload forecasting.
+22
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Evidence building may engage or be used by USCIS' Office of Performance and Quality, Office of
+the Chief Data Officer, Field Operations Directorate, Fraud Detection and National Security,
+Service Center Operations, Office of Performance and Quality, Office of the Chief Financial
+Officer, multiple USCIS offices and directorates responsible for immigration services, and the
+DHS OIS. Disclosure of findings will be limited to DHS.
+Strategic Goal 3: Secure Cyberspace and Critical Infrastructure
+G3-Q1 How are stakeholders using cyber, critical infrastructure (CI), and emergency
+communications (EC) products and services they receive from CISA? To what extent do
+these products and services add value, such as increasing awareness and closing gaps
+in capabilities, plans, and policies? What factors prevent stakeholders from using
+cyber/CI/EC products they receive?
+DHS Strategic Objective: 3.2 Strengthen the Security and Resilience of Critical Infrastructure
+Timing of Activities: FY 2022
+Strategy or Operation Background
+Critical infrastructure supports our Nation's national security, public health and safety and
+economic growth. These vital services must be protected against an increasing set of digital,
+physical, man-made and natural threats to avoid devastating disruptions to the economic
+security, health, and well-being of all Americans. Critical infrastructure is susceptible to
+cyberattacks and natural disasters. To strengthen the security and resilience of critical
+infrastructure, DHS works with federal, state, local, tribal, and territorial (SLTT) and private sector
+stakeholders through national programs. Through these programs, which are primarily voluntary,
+DHS conducts vulnerability and consequence assessments, supports exercises, and provides
+information and solutions for countering emerging threats and hazards.
+Evidence Building
+Program Evaluation includes non-experimental outcome evaluations of CISA's High Value Assets
+(HVA) and National Exercises programs. The evaluations may address process evaluation
+questions but will primarily examine the extent to which participating stakeholders access,
+understand, and use cyber, CI, and EC products and services to take risk-mitigating corrective
+actions. The findings of the program evaluation may inform new performance measure
+development or revision of existing measures.
+Existing data include stakeholder satisfaction and short-term stakeholder corrective actions from
+the HVA Assessment database, National Exercises After Action Reports, and customer
+satisfaction surveys, such as from the HVA Survey administered by the U.S. Office of Personnel
+Management. New data to collect through quantitative surveys and qualitative interviews/focus
+groups include CISA stakeholders' views of the value and utility of CISA products and services,
+23
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+the long-term corrective actions taken, factors that influence stakeholders' use of CISA products
+and services, the benefits and unintended consequences of use, and unmet needs that could be
+addressed by improving HVA, Exercises, or other CISA programs. Analytic approaches may
+include descriptive statistics and qualitative data analysis. Third party research support is
+anticipated.
+Evidence Use and Dissemination
+Understanding stakeholders' use of products and services and the factors that influence
+voluntary compliance, enables DHS to more effectively serve its stakeholders. This information
+helps DHS identify priority areas for improvement and, in response, refine the portfolio of
+products and services to secure high rates of compliance with standards and guidelines.
+Evidence building will engage, or be used by, CISA's operational divisions charged with developing
+and executing products and services (Cybersecurity, Infrastructure Security, Emergency
+Communications, Integrated Operations, Stakeholder Engagement, and the National Risk
+Management Center). Evidence may also be used by external stakeholder governance and
+coordinating councils, and the target stakeholder populations for CISA services and products.
+G3-Q2 Do all subgroups of the target population participate in and perceive value and utility
+of national convenings as mechanisms of information exchange about security and
+risk resilience? What gaps and unmet needs, if any, exist?
+DHS Strategic Objective: 3.2 Strengthen the Security and Resilience of Critical Infrastructure
+Timing of Activities: FY 2023
+Strategy or Operation Background
+Critical infrastructure supports our Nation's security, public health, safety, and economic growth.
+These vital services must be protected against an increasing set of digital, physical, man-made
+and natural threats to avoid devastating disruptions to the economic security, health, and well-
+being of all Americans. To strengthen the security and resilience of critical infrastructure, DHS
+works with federal, SLTT, and private sector stakeholders through national programs. National
+convenings, including councils (Federal Senior Leadership Council and SLTT Government
+Coordination Councils), committees, and informal sector management forums, enable
+information exchange between DHS and its stakeholders.
+Evidence Building
+Program Evaluation includes non-experimental outcome evaluation of CISA's national
+convenings. The evaluation may include process evaluation questions but will primarily examine
+the extent to which DHS staff and participating stakeholders believe that the national convenings
+(1) provide information that is meaningful, practical, and specific and (2) offer unique
+opportunities to exchange information across sectors.
+24
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Existing administrative/operational data contain information on delivered convenings,
+stakeholder participation in convenings, and stakeholder satisfaction; these data will expand with
+the administration of new Paperwork Reduction Act-approved questions that are not yet in use.
+New data to collect or acquire may include in-depth information from DHS staff and stakeholders
+through quantitative surveys and qualitative interviews/focus groups about the value and utility
+of national convenings as mechanisms for relationship-building and information exchange across
+sectors, how information obtained from the convenings has been used to improve DHS programs
+to mitigate risk, and unmet needs that could be addressed with improvement to the convenings
+or other CISA programs. Analytic approaches may include descriptive statistics and qualitative
+data analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Developing a better understanding of the extent to which national convenings offer meaningful
+information exchange between CISA and its stakeholders will enable improvements to CISA
+products and services. Specifically, the evaluation will be used to identify areas for improvement
+in
+how CISA collaborates and interacts with stakeholders and, in response to prioritized practices
+that best support information exchange for infrastructure security and risk resiliency.
+Evidence building may engage and/or be used by CISA's Stakeholder Engagement Division,
+operational divisions (Cybersecurity, Infrastructure Security, Emergency Communications,
+Integrated Operations), and the target stakeholder populations for the convenings.
+G3-Q3 To what extent has the all-hazards communications unit position-specific training and
+stakeholder communication unit program enhanced interoperability by (1) creating,
+maintaining, and deploying a qualified group of people to fulfill Communications Unit
+(COMU) roles in federal, state, local, tribal, and territorial (SLTT) partner organizations
+and (2) enhancing integrated, collaborative, communications planning?
+DHS Strategic Objective: 3.2 Strengthen the Security and Resilience of Critical Infrastructure
+Timing of Activities: FY 2023
+Strategy or Operation Background
+Information exchange, situational awareness, and resource prioritization among emergency
+managers, first responders, and across public and private sectors is vital during catastrophic
+incidents and events. DHS provides targeted training, technical assistance, and strategic advice
+and guidance to prepare and support a diverse cadre to fill a variety of critical emergency
+communications response roles in federal and SLTT partner organizations. The intended result of
+these efforts is a qualified cadre of COMU-credentialed responders that can enable continuity of
+communications during a catastrophic incident or event. Other research and reporting from the
+Nationwide Communications Baseline Assessments and SAFECOM Nationwide Surveys help DHS
+25
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+to identify evolving capability needs and gaps, major market shifts, and progress toward
+establishing and sustaining emergency response communications.
+Evidence Building
+Performance Measurement includes the development of new incident measures for emergency
+communications and State Interoperability Markers. Current measures include (1)
+communications leader training and adoption and (2) communications exercise objectives. All
+state measures are self-assessed and scored by states as one of three levels: defined, initial, or
+optimized. New measures may indicate the rate of accomplishing national emergency goals,
+number of jurisdictional conflicts, and rates of backup power, overlapping coverage, and route
+diversity. Program Evaluation will consist of a non-experimental outcome evaluation with
+embedded process evaluation questions to determine COMU role-specific training effectiveness
+and areas for improvement.
+Existing data, such as number and type of COMU-credentialed responders support performance
+measurement and program evaluation. New data to collect for program evaluation may include
+information on satisfaction and self-reported learning from trainees through quantitative surveys
+and qualitative interviews and focus groups. Incident communications position utilization,
+activities performed, and communications and IT management structure for incidents and
+planned events will be gathered through Incident Communications Activity Reports. Analytic
+approaches may include descriptive statistics and qualitative data analysis. Third party research
+support is anticipated.
+Evidence Use and Dissemination
+Understanding availability, readiness, and use of trainees for specific types of COMU roles and
+how they enrich communications planning in Federal and SLTT partner organizations enables DHS
+to update training products and services, recommend improvements to the National Incident
+Management System and Incident Command Systems architecture, and better assist partner
+organizations in prioritizing and addressing COMU gaps.
+CISA's Emergency Communications Division (ECD) leads these efforts on behalf of the
+Department to assure vital information exchange, situational awareness, and resource
+prioritization among emergency managers, first responders, and across public and private sectors
+is both reliable and resilient during catastrophic incidents and events. Evidence-building would
+be used by the CISA Emergency Communications Division to engage FEMA, Federal, and SLTT
+partners, and technical assistance providers to improve plans that build and sustain capabilities
+to maintain readiness.
+External stakeholder governance and coordinating councils, such as SAFECOM and the National
+Council of Statewide Interoperability Coordinators (NCSWIC), will also benefit from the evidence.
+SAFECOM is a stakeholder-supported public safety communications program administered by
+CISA working with federal government entities to improve emergency response providers' inter-
+26
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+jurisdictional and interdisciplinary emergency communications interoperability across regional,
+SLTT, and international borders. NCSWIC is comprised of Statewide Interoperability Coordinators
+and their alternates from the 56 States and territories. NCSWIC works with public safety
+responders in their respective regions, state, or territory to create governance structures that
+promote and enhance interoperable communications.
+Strategic Goal 4. Preserve and Uphold the Nation's Prosperity and Economic
+Security
+G4-Q1 Which facilities should have Transportation Worker Identification Card (TWIC) readers
+to appropriately manage risk?
+DHS Strategic Objective: 4.2 Safeguard the U.S. Transportation System
+Timing of Activities: FY 2022-2024
+Strategy or Operation Background
+Critical maritime infrastructure security requires protecting facilities from unauthorized access
+that occurs when established security measures are circumvented, eluded, or violated.
+Installation of Transportation Worker Identification Card (TWIC) readers at maritime facilities
+regulated under the Maritime Transportation Security Act could be used to integrate perimeter
+security, access control, and personnel security. TWIC readers could be a cost-effective approach
+to
+detecting threats of and reducing risks posed by unauthorized access to or within specific
+maritime facilities.
+Evidence Building
+Foundational Fact Finding includes ongoing research to develop an assessment methodology
+that assigns a quantitative risk level to select appropriate maritime facilities. Policy Analysis
+includes formative economic analysis that will use the developed risk model to assess costs and
+benefits (benefit-cost analysis) of TWIC at certain high-risk facilities.
+CISA Chemical Facility Anti-Terrorism Standards and marine facility Risk Management Plans data
+provide information about maritime facility chemicals of interest inventory, personnel,
+vulnerability, site security, management plans, and security breaches at high-risk maritime
+facilities. New data to be collected or acquired include marine facility risk-related threats and
+consequences through a quantitative survey of maritime facilities and total costs of TWIC Readers
+from industry data. Analytic approaches may include descriptive and inferential statistics as well
+as benefit-cost or break-even analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Understanding the relative costs and risk-reduction benefits of TWIC readers at specific maritime
+facilities allows DHS to determine whether and for which facilities new or revised rulemaking
+27
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+should mandate TWIC reader installation. DHS must report the assessment to Congress under
+the Maritime Transportation Security Act.
+Evidence building may engage or be used by USCG Office of Standards Evaluation
+and Development, USCG Office of Port and Facility Compliance, CISA Risk and Data Analysis
+Section, USCG Office of Regulatory and Administrative Law, DHS Office of General Counsel
+Regulatory Affairs Law Division, TSA Enrollments Services and Vetting Program, and industry.
+G4-Q2 What are the most significant sources of variation in transportation security sector
+(TSS) operators' implementation of cyber security technology and processes? What do
+TSS operators report as enablers and barriers to implementation, and what
+gaps/unmet needs could TSA address?
+DHS Strategic Objective: 4.2 Safeguard the U.S Transportation System
+Timing of Activities: FY 2022
+Strategy or Operation Background
+The U.S. transportation system's cyber environment and infrastructure are vulnerable to a wide
+range of continuously evolving risks stemming from both cyber and physical threats and hazards.
+DHS assesses and provides security and mitigation guidance through several outreach and
+information sharing activities. The intended result is that transportation systems sector (TSS)
+owners and operators mitigate the most significant cyber risks to transportation infrastructure
+that could impact national security, public health and safety, and economic security and improve
+the resiliency of the TSS. DHS monitors how TSS owners and operators implement risk mitigation
+in accordance with the National Institute of Standards and Technology (NIST) Cybersecurity
+Framework. 18 DHS is currently building measures to monitor cybersecurity incidents that have an
+actual or potential operational impact and has issued three security directives and three national
+security program amendments, which require owners and operators of certain pipeline, railroad,
+public transit, and aviation sectors to report cybersecurity incidents to DHS.
+Evidence Building
+Foundational Fact Finding includes a needs assessment that examines the needs of the target
+populations that, when addressed, result in improved implementation of risk-mitigating critical
+cybersecurity technology and processes across TSS operator characteristics. The assessment will
+explore the nature and causes of those needs, set priorities for the future, and consider what
+adjustments in the Department's approach could better support TSS operators in advancing
+resilience of the TSS.
+18
+NIST Cybersecurity Framework Version 1.1 (NIST, 2018)
+28
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Critical data for evidence building come from the TSS NIST Cybersecurity Framework Survey and
+Validated Architecture Design Reviews (VADRs). 19 These existing data include TSS operator
+characteristics (sector, size, ownership), security posture, and number and nature of
+recommended risk mitigation activities undertaken. Collectively these data may provide initial
+insights to challenges of adopting the NIST Cybersecurity Framework,20 including mitigation
+activities, and serve as the foundation of case studies. New data to collect from TSS operators
+through a quantitative survey and qualitative interviews/focus groups include barriers and
+challenges to implementation of risk mitigation. Analytic approaches may include descriptive and
+inferential statistics, qualitative data analysis, and case study analysis. Third party research
+support is anticipated.
+Evidence Use and Dissemination
+Understanding factors that influence implementation of risk mitigation across different sectors
+and operators will enable DHS to improve its approach (including exercising its statutory and
+regulatory authorities in different ways and to the extent necessary) for ensuring the resilience
+of the transportation security sector. Evidence building may engage or be used by TSA Security
+Operations and Operation Support directorates, CISA's Vulnerability Management, National Risk
+Management Center, Stakeholder Engagement, and Cybersecurity Division. Results could also be
+used by sector risk management agencies, policy makers, industry partners and higher education
+centers to inform decision making and further research.
+G4-Q3 Where does the majority of federally managed fishing activity (both inside the U.S.
+Exclusive Economic Zone and nearby) occur, by season and species?
+DHS Strategic Objective: 4.3 Maintain U.S. Waterways and Maritime Resources
+Timing of Activities: FY 2022
+Strategy or Operation Background
+The U.S. has the largest Exclusive Economic Zone (EEZ) in the world, encompassing over 2.25
+million square miles and 90,000 miles of coastline. DHS, in partnership with the National
+Oceanographic and Atmospheric Administration (NOAA), provides at-sea enforcement of
+applicable fisheries regulations. The intended result is achieving national goals for living marine
+resource conservation and management, including protection of marine mammals and
+endangered species.
+19 In 2021, TSA conducted over 50 VDARs on pipelines. In 2022, TSA has leveraged contracted support to make
+Cyber Security Evaluation Tool (CSET) available to all surface transportation owner/operators to perform self-
+evaluations. CSET® is a stand-alone desktop application that guides asset owners and operators through a
+systematic process of evaluating Operational Technology and Information Technology.
+20
+NIST Cybersecurity Framework Version 1.1 (NIST, 2018)
+29
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Evidence Building
+Foundational Fact Finding includes data integration and statistical analysis to establish a
+dynamic, auto-updating, visual-spatial model (e.g., heat map) for predicting levels of expected
+fishing activity in and near the U.S. EEZ.
+USCG Automatic Identification System and Marine Law Enforcement, NOAA Vessel Monitoring
+System, NOAA Commercial Fisheries Landings, and NOAA Alaska Region Catch in Area provide
+critical data for evidence building. These include information on fishing vessel positions, fisheries
+boardings, activities at boarding, regulation compliance, and interdiction of foreign fishing
+vessels violating U.S. waters. New data to collect or acquire may include fish stock location,
+migration, and seasonality as well as landings and catch data from other federal agency regional
+scientific data sets. Non-federal data on fishing activity, fisheries management, and coastal and
+marine geographic information system data may be acquired from non-federal, industry data
+sources and sets. Analytic approaches may include descriptive and inferential statistics and
+advanced data mining and analytics. Third-party research support is not anticipated.
+Evidence Use and Dissemination
+Understanding historical fishing activities and landings of federally managed fisheries enables
+DHS to direct its limited at-sea air and marine patrol assets to where they are most needed to
+catch violators and protect natural resources. In addition, the question could inform other
+organizations that establish fisheries regulations and management plans based on best available
+fisheries science. Evidence building may engage or be used by USCG Maritime Law Enforcement,
+NOAA National Marine Fisheries Service, NOAA Office of Law Enforcement, Regional Fisheries
+Management Councils, SLTT fish and wildlife agencies, and other fishing management
+organizations. Disclosure of data and some findings will be limited to U.S. Government.
+Strategic Goal 5. Strengthen Preparedness and Resilience
+G5-Q1 How do individuals' preparedness behaviors change over time?
+DHS Strategic Objective: 5.1 Build a National Culture of Preparedness
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+The prevalence of disaster declarations and recovery costs over the last decade demonstrate the
+need for everyone-at the individual, community, SLTT and federal levels-to improve their
+preparedness for predictable natural events. DHS conducts research on preparedness, such as
+the National Household Survey (NHS), and uses that research to inform awareness initiatives that
+encourage the public to take steps to prepare. Annually DHS fields, analyzes, and publishes
+statistics from the NHS, which includes a nationally representative sample of 5,000-7,000
+30
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+individuals' self-perceptions of their own preparedness with respect to a stages of change model.
+Findings from this research, including how preparedness changes over time, enable DHS to
+identify strategies to craft preparedness messaging aimed at improving public awareness and
+self-efficacy, and motivating preparedness behavior change. Yet, more research is needed to
+understand preparedness of individuals from historically underserved communities.21
+Evidence Building
+Foundational Fact Finding involves annual statistical analysis of nationally representative
+quantitative survey research data on individuals' preparedness based on the stages of change
+model, including new data on individuals of nine historically underserved communities starting
+in FY 2022. As part of this effort, FEMA will pilot online, self-administered surveys and conduct
+analysis on survey results, response rates, and other indicators of response quality compared
+with interviewer-mediated telephone surveys to determine how to field the survey in future
+years. Qualitative behavioral research, consisting of cognitive interviews and focus groups with a
+subset of the survey sample, will examine what messages motivate preparedness behaviors
+based on individuals' preparedness stage. Analytic approaches may include descriptive and
+inferential statistics and qualitative data analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Understanding diverse individuals' stages of preparedness, how preparedness behaviors change
+over time, and which messages motivate individuals based on their preparedness stage is critical
+for identifying gaps in the DHS/national strategy for preparedness, informing specific awareness
+programs, and targeting messaging to individuals and communities in ways that promote equity
+in preparedness. Evidence building may engage or be used by FEMA Individual and Community
+Preparedness Division, FEMA regional offices, SLTT partners, and other federal and non-
+government entities that support or study risk mitigation initiatives.
+G5-Q2 How do household income and other demographic characteristics influence the
+decision to purchase flood insurance?
+DHS Strategic Objective: 5.1 Build a National Culture of Preparedness
+Timing of Activities: FY 2022-2025
+Strategy or Operation Background
+Economically vulnerable communities historically experience slower recovery rates from flooding
+and mitigation for future flood loss. DHS is exploring cost-effective strategies that would increase
+21
+Executive Order (E.O.) 13985 of January 20, 2021, Advancing Racial Equity and Support for Underserved
+Communities Through the Federal Government (Executive Office of the President, 2021)
+31
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+affordability of and accessibility to flood insurance, such as reduced-price flood insurance
+products and alternative mechanisms to advertise and deliver these products. Foundational
+research to identify factors that correlate with flood insurance purchase will support those
+efforts. Increasing flood insurance coverage rates and less Stafford Act disaster payouts are
+important indicators of improved resilience in economically vulnerable communities.
+Evidence Building
+Foundational Fact Finding includes linking and statistical analysis of flood insurance purchase
+data and quantitative survey research data to examine relationships among policyholder
+attributes, household demographics, and flood insurance purchases.
+FEMA's National Flood Insurance Program administrative/operational data include information
+on household demographic and flood insurance purchases. Other federal statistical data, such as
+U.S. Department of Commerce American Housing Survey data and U.S. Census data, will be
+acquired to provide information on household demographics, insurance policies, and self-
+reported flood risk. Geospatial datasets provide community-level data that help to identify and
+offer additional context about economically vulnerable communities. Analytic approaches may
+include descriptive and inferential statistics, advanced data mining and analytics, and,
+potentially, benefit-cost analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Understanding enrollment in and payouts from reduced-price flood insurance products as well
+as factors that motivate and enable enrollment by historically underserved groups can inform
+equitable changes in National Flood Insurance Program policies, improved communication about
+flood risk, and market mitigation products to better address the needs of individuals of
+economically vulnerable communities.
+Evidence building may engage or be used by FEMA Federal Insurance Mitigation Administration,
+FEMA Flood Insurance Directorate, FEMA Risk Management Directorate, FEMA Office of Equal
+Rights, other federal and non-government entities that support or study risk mitigation,
+resilience, and social justice initiatives, and the public.
+G5-Q3 To what extent is FEMA's training and education enterprise providing equitable
+delivery of curricula to state, local, tribal, and territorial (SLTTs) constituents?
+DHS Strategic Objective: 5.1 Build a National Culture of Preparedness
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+National readiness depends on our ability to sustain capabilities and address gaps in capabilities
+of the disaster workforce that is trained to prevent, protect, mitigate, respond to, and support
+recovery from all hazards. DHS applies contextualized data to assess community and national
+32
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+threats, hazards, capability targets and gaps, and inform policy that drives agency program
+activities. Training and educating the nation's emergency managers, first responders, and other
+whole community partners requires the contextualized data to design and develop curriculum
+that builds and sustains the right capabilities and reduces risk. Delivering the curriculum to
+students in an equitable approach is key, with demographic, risk, social vulnerability, and
+employment data applied in curriculum delivery strategies to ensure the right student in the right
+course at the right investment for the right outcome.
+Evidence Building
+Foundational Fact Finding includes ongoing research to develop an assessment methodology
+through testing which community demographic, risk, social vulnerability, and emergency
+management workforce parameters and analytic algorithms provide the best means to
+determine equitable distribution of national preparedness education and training courses across
+the country geographically.
+Existing data collected with the FEMA Resilience Analysis and Planning Tool and the National Risk
+and Capability Assessment include information on local infrastructure, hazards, risks and
+resilience indicators. New data to collect or acquire may include community resilience estimates
+and employment data from other federal statistical data, such as the Community Resilience
+Estimates and Local Employment Dynamics from the U.S. Census Bureau and U.S. Current
+Employment Statistics from Bureau of Labor Statistics. Analytic approaches may include
+descriptive and inferential statistics, advanced data mining and analytics, and network analysis.
+Third party research support is anticipated.
+Evidence Use and Dissemination
+When curated to describe various aspects of readiness and resilience, community and national
+demographic, risk, social vulnerability, and employment data can inform FEMA and DHS training
+and education policy and priorities, and guide FEMA training and education delivery planning and
+decision making. Evidence building may engage or be used by FEMA National Training and
+Education Division, Center for Domestic Preparedness, the Emergency Management Institute,
+and the Training Partners Program.
+G5-Q4 What indicators, measures, methods, and data can better support the evaluation of
+Homeland Security Grant Program (HGSP) effectiveness as it pertains to maintaining
+and improving state, local, tribal and territorial (SLTT) and national preparedness?
+DHS Strategic Objective: 5.1 Build a National Culture of Preparedness
+Timing of Activities: FY 2022-2023
+33
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Strategy or Operation Background
+DHS provides grants to SLTT governments that support preparation for threats and hazards
+that pose the greatest risk to the security of the United States, including catastrophic events
+at the nexus of preventing, preparing for, protecting against, and responding to
+terrorism. Through its investments, DHS endeavors to identify promising practices and build
+the evidence upon which grant program decisions are made. Previously, DHS conducted
+pilot studies and an outcome evaluation to test methods of determining the investment
+benefits of the Homeland Security Grant Program (HSGP) without requisite data. Additionally,
+in FY 2020 DHS solicited information from stakeholders through a public Request for
+Information to identify other existing data and evidence for HSGP's influence on SLTT
+preparedness outcomes.
+Evidence Building
+Performance Measurement includes enhancement of existing grant performance
+measurement with new indicators and related data collections that support monitoring and
+evaluation of HSGP goals and objectives. The activity involves new performance measure
+development, pilot testing data collections with grantees, and refining data collections before
+seeking OMB approval under the Paperwork Reduction Act.
+Critical administrative/operational data are contained in Threat and Hazard Identification
+and Risk Assessments (THIRA), Stakeholder Preparedness Reviews (SPR), grant recipient
+Biannual Strategic Implementation Reports, FEMA investment justifications, and
+Homeland Security Exercise and Evaluation Program documentation. These existing data
+include information on SLTT priority setting mechanisms, alignment of investments to
+SLTT and national priorities, expenditures of funds, and contributions to the building and
+sustainment of SLTT capabilities from administrative/operational data. New data to collect or
+acquire may include project-level output performance measures, project service area, and
+project outcomes derived from THIRA/SPR target and capability statements. Pilot testing
+may use simple spreadsheet tools to determine the feasibility of collecting form field data for
+outcome measures before integrating data collection into existing systems for grant
+application and monitoring. Analytic approaches may include descriptive and inferential
+statistics and qualitative data analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Developing enhanced measures for understanding the effectiveness of HSGP funds in reducing
+the risk of terrorism will enable DHS to allocate funds to emerging priorities, communicate
+contributions to stakeholders and policymakers, and improve the Nation's resilience
+against terrorism. Evidence building may engage or be used by FEMA National
+Preparedness Assessments, FEMA Grant Programs Directorate, FEMA Office of Enterprise
+Grant Services, multiple DHS Components (i.e., CISA, TSA, USCG, CWMD, S&T), and
+SLTT Emergency Management Practitioners.
+34
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+G5-Q5 What indicators, data, methods, tools, and frameworks can FEMA use to build
+evidence and address disparities in achieving equitable outcomes across FEMA
+programs (e.g., direct federal assistance and grants) across the agency?
+DHS Strategic Objective: 5.3 Support Outcome-Driven Community Recovery
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+Communities and individuals deserve consistent and systematic, fair, just, and impartial access
+to and benefit from programs that support their preparedness for and recovery from disasters of
+all kinds. Increased federal attention on equity provides DHS with an unparalleled opportunity to
+identify and reduce barriers encountered by underserved and historically marginalized
+communities and individuals when accessing DHS services, benefits, and opportunities that may
+create or perpetuate disparities in disaster preparedness and recovery. DHS seeks to understand
+how to best measure equitable access and outcomes across the different programs, policies, and
+activities in the FEMA portfolio and assess progress over time. The intended result is
+improvement in the equitable delivery of services, benefits, and opportunities with reduced or
+altogether eliminated disparities in preparedness and recovery outcomes.
+Evidence Building
+Foundational Fact Finding includes statistical analysis of quantitative survey research and
+qualitative interview/focus group research from FEMA's 2021 National Corrective Action
+Program priority to understand and improve reach of disaster assistance services to underserved
+populations experiencing disasters. An evidence review may be conducted to identify existing
+evidence on equity-related issues from the U.S. Government Accountability Office reports and
+scholarly research publications. Audits and assessments of existing administrative data will be
+conducted to examine existing data sources, data gaps, and research needs to monitor and
+evaluate future equity efforts. Informed by findings and recommendations, Performance
+Measurement includes new performance measures/dashboard development and modifications
+to relevant data collections to track equity issues related to FEMA programs. This activity will
+iteratively develop, pilot test, refine, and seek OMB Paperwork Reduction Act approval for a
+system of indicators and measures aligned to FEMA's equity-related program goals and
+objectives, broadly inclusive of operating contexts, access, delivery, participation, outcomes, and
+adverse effects.
+Existing administrative/operational data include information on applications, eligibility and
+awards, and some demographic data. New data to collect include comprehensive demographic
+data from disaster survivors, applicants, and recipients of financial assistance. U.S. Census data
+may be acquired for data linking with administrative data sets to fill demographic and
+35
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+socioeconomic data gaps. Analytic approaches may include descriptive statistics and qualitative
+data analysis. Third party research support is not anticipated.
+Evidence Use and Dissemination
+Understanding which and how equity indicators should be measured to identify disparities faced
+by underserved communities and individuals will enable accountability to long-term equity-
+related program improvements. Evidence building may engage or be used by FEMA programs
+and activities, FEMA Office of Equal Rights, FEMA Equity Enterprise Steering Group, DHS Equity
+Working Group, Recovery and Support Function Leadership Group, FEMA regional offices, and
+SLTT assistance and grant recipients.
+G5-Q6 To what extent were COVID Public Assistance obligations align with areas of social
+vulnerability and high case rates in socially vulnerable areas?
+DHS Strategic Objective: 5.3 Support Outcome-Driven Community Recovery
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+The COVID-19 pandemic created widespread need for state, local, tribal, and territorial (SLTT)
+government entities and certain nonprofit organizations to undertake emergency measures that
+addressed the evolving public threats of COVID-19. Socially vulnerable counties, including
+counties in less urban areas and with higher percentages of racial and ethnic minority residents
+and people living in crowded housing conditions, had persistently high COVID-19 incidence.
+Under the Coronavirus Response and Relief Supplemental Appropriations Act of 2021 and the
+American Rescue Plan Act (ARP) of 2021, DHS provides funding for COVID-19 relief to ease some
+of the financial stress and burden caused by the virus. This funding supports, among other things,
+medical care, purchase and distribution of food and certain supplies, non-congregate medical
+sheltering, and operation of emergency operations centers. The Administration and DHS are
+committed to equitable delivery of assistance to support the resilience of socially vulnerable
+communities.
+Evidence Building
+Program Evaluation includes outcome evaluation to understand the extent of COVID-19 Public
+Assistance obligations to areas of social vulnerability and high case rates in those areas, the range
+and frequency of activities supported, and what gaps and barriers may still exist to inform
+improvements in the program administration.
+Administrative/operational data from Public Assistance applications include information about
+SLTTs and organizations seeking assistance, descriptions of activities and associated costs,
+obligated Public Assistance or other direct federal assistance rendered. Centers for Disease
+Control (CDC) Social Vulnerability Index data and COVID-19 case data will be acquired for data
+linking with administrative data sets to fill demographic and socioeconomic data gaps and case
+36
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+rates in affected applicant counties. Analytic approaches may include descriptive and inferential
+statistics and advanced data mining and analytics.
+Evidence Use and Dissemination
+Understanding the extent to which COVID-19 Public Assistance obligations align with socially
+vulnerable and high case communities, the range and frequency of needs addressed, and what
+unmet needs and gaps remain can help FEMA improve its communication and outreach to
+vulnerable communities and application processing to ensure equitable awareness and access.
+Evidence building may engage or be used by FEMA disaster assistance programs and activities,
+CDC, FEMA Office of Equal Rights, Office of Disability Integration and Coordination, FEMA Equity
+Enterprise Steering Group, DHS Equity Working Group, Recovery and Support Function
+Leadership Group, the White House ARP Implementation Team and public assistance recipients.
+Goal 6: Champion the DHS Workforce and Strengthen the Department
+G6-Q1 Does level of Independent Test Agent (ITA) support throughout the acquisition
+lifecycle correlate with the adequacy of an acquisition program's test and evaluation
+outputs (operational effectiveness, suitability, and resilience)?
+DHS Strategic Objective: 6.1 Strengthen Departmental Governance and Management
+Timing of Activities: FY 2023-2026
+Strategy or Operation Background
+Major acquisition programs are susceptible to programmatic, financial, schedule, technical, and
+operational risks. In 2017, DHS implemented the Independent Test Agent (ITA) initiative, in which
+ITAs are assigned to lead a series of "test and evaluation" (T&E) activities throughout each major
+acquisition's life cycle. The test and evaluation activities focus on measuring progress of solution
+development, and the effectiveness, suitability, and resilience of the developed solutions. These
+measurements are intended to reduce acquisition risks and improve the likelihood of positive
+acquisition outcomes, such as cost, schedule, and performance.
+Evidence Building
+Program Evaluation includes non-experimental outcome evaluation to examine the quantitative
+correlation and the strength of the relationship between implemented levels of ITA support and
+the T&E outputs, specifically, "adequacy" of major acquisition programs' T&E. In this context,
+adequacy is the determination that the T&E conducted was of sufficient rigor and objectivity to
+provide acquisition program leadership with a valid, reliable analysis of the status of the
+acquisition product. A comparative qualitative case study design may complement the
+quantitative outcome evaluation by examining how and why outcomes were achieved and other
+context factors that influence ITA implementation and acquisition outcomes.
+37
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Procurement data captured in the Unified View of Investments, S&T Directorate Signed Program
+Document Library, and Program Accountability and Risk Management Major Acquisition
+Oversight sets include information on documented ITA participation at critical milestones, test
+and evaluation plans, letters of assessment, as well as cost, schedule, and performance outcomes
+from procurement records.
+New data to collect include attributes that describe the level of ITA support to individual
+acquisition programs. These may be collected through quantitative surveys or qualitative
+interviews/focus groups with ITAs and other project staff. Analytic approaches may include
+descriptive and inferential statistics for quantitative data, qualitative data analysis, and case
+study analysis. Third party research support is not anticipated.
+Evidence Use and Dissemination
+Understanding whether and how ITA participation across the acquisition life cycle correlates with
+the adequacy of test and evaluation to inform acquisition outcomes will inform allocation of
+resources and other improvements to ITA implementation across DHS. Evidence building may
+engage or be used by the S&T Test & Evaluation Division, the DHS Office of the Chief Acquisition
+Officer, Component Acquisition Executive Offices, the DHS Joint Requirements Council, the DHS
+Program Accountability and Risk Management Office, and ITAs.
+G6-Q2 What are the estimated costs and benefits of DHS vehicle fleet electrification given
+specialized/law enforcement requirements?
+DHS Strategic Objective: 6.3 Optimize Support to Mission Operations
+Timing of Activities: FY 2022-2023
+Strategy or Operation Background
+Section 205 "Federal Clean Electricity and Vehicle Procurement Strategy" of the Executive Order
+14009 of January 27, 2021, Tackling the Climate Crisis at Home and Abroad,22 calls for clean and
+zero-emission vehicles for federal and SLTT government fleets. DHS is developing a 10-year plan
+to electrify a portion of the Department's vehicle fleet and must consider goals, strategies, and
+performance measures for its motor vehicle fleet, fuel procurement, and related sustainability
+and environmental programs. Motor vehicle fleet electrification is intended to improve
+sustainability and reduce environmental impact; however, the full extent of the costs and
+benefits of this policy are currently unknown, especially for vehicles that must meet specialized
+law enforcement requirements.
+22 Executive Order 14009 of January 27, 2021, Tackling the Climate Crisis at Home and Abroad (Executive Office of
+the President, 2021)
+38
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Evidence Building
+Policy Analysis includes formative economic analysis, specifically benefit-cost analysis, of fleet
+vehicle electrification as an alternative to combustion vehicles, including costs of ownership,
+petroleum fuel use, hazardous waste disposal, building/facility energy efficiency, and disposal
+requirements for vehicles that meet specialized law enforcement requirements. Market research
+will be conducted as needed to estimate total cost of ownership, determine charging
+requirements, and understand hazardous waste and vehicle disposal for electric vehicles that
+meet specialized law enforcement requirements.
+Critical data sets include the Department's Asset Management Data Warehouse, Consolidated
+Asset Portfolio, and Sustainability Information System and the General Services Administration
+Federal Automotive Statistical Tool. These data include information on DHS combustion engine
+motor vehicle fleet characteristics, cost of ownership, petroleum fuel use, and building energy
+efficiency. New data to collect or acquire from industry or federal research and reports may
+include the estimated total cost of ownership, hazardous waste and vehicle disposal
+requirements, specialized/law enforcement requirements for vehicles, and charging
+requirements. Analytic approaches may include descriptive and inferential statistics, benefit-cost
+analysis, and qualitative data analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Understanding the costs and benefits of DHS vehicle fleet electrification will enable DHS to
+determine long-term bulk fuel requirements; identify strategies to offset impacts of vehicle fleet
+electrification on building energy use; and set goals, strategy and performance measures for both
+fleet electrification and building/facility sustainability. Evidence building may engage or be used
+by DHS Office of the Chief Readiness Officer's Assets and Logistics and Sustainability and
+Environmental Programs, DHS Components' Motor Vehicles and Sustainability and
+Environmental Programs, General Services Administration, Council on Environmental Quality,
+Department of Energy Federal Energy Management Program, other federal agencies affected by
+the order, and vehicle and charging station manufacturers.
+G6-Q3 What effects has the adoption of maximum telework flexibilities had on the DHS
+mission and support for the DHS mission? What subgroups of the DHS workforce
+benefit the most/least from telework flexibilities?
+DHS Strategic Objective: 6.3 Optimize Support to Mission Operations
+Timing of Activities: FY 2022-2025
+39
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Strategy or Operation Background
+The Telework Enhancement Act of 20102³ calls for federal agencies to establish and implement a
+policy under which employees shall be authorized to telework. The arrival of the COVID-19
+pandemic ushered in a new reality for DHS work, workforce, and workplace with the adoption of
+maximum telework flexibilities. Adopting this policy ensured continuity of DHS operations and
+operations support with maximal workforce safety; however, the full extent of the costs and
+effects of this policy are currently unknown.
+Much of DHS' mission must be carried out in person or on site. Approximately 65 percent of the
+Department's employees work in such an environment, including TSA screeners, Customs and
+Border Protection officers, Border Patrol agents, ICE Detention and Removal officers, Homeland
+Security Investigations special agents, and U.S. Secret Service special agents. Examining the
+effects of the Telework Enhancement Act Policy and expanding telework flexibilities should not
+be done in a vacuum, and DHS must take into consideration a Component's mission, its workforce
+populations, occupation series, and whether an employee is in a DHS-specific Priority Mission
+Critical Occupation (PMCO). The Departments PMCOs are those occupations that most directly
+affect mission achievement and are identified as having the greatest impact to the Department's
+goals and objectives, such as FEMA Emergency Management specialists, ICE Homeland Security
+Investigations criminal investigators, ICE Enforcement and Removal Operations deportation
+officers, and USSS Uniformed Division officers and special agents.
+Evidence Building
+Program Evaluation may include non-experimental outcome evaluation or quasi-experimental
+impact evaluation to understand the effects of maximum telework flexibilities on DHS work,
+workforce, and workplace, considering how effects varied by subgroups, such as organization
+and job series. Evaluation may include process evaluation questions to explore enablers, barriers,
+and unintended consequences of participating in telework. Prior to evaluation, an evaluability
+assessment will be conducted to identify key evaluation questions and determine the most
+suitable approach for evaluating the program.
+Existing data may include information technology and real property costs from financial/cost data
+available from the Future Years Homeland Security Program and Real Property Capital data;
+organization and workforce telework participation from administrative/operational data;
+employee COVID-19/telework experience, engagement, and satisfaction from the 2020 and 2021
+Federal Employee Viewpoint and the 2020 Federal Managers Surveys; human capital and
+operational performance data and reports from aggregate personnel performance data and DHS
+Annual Performance Plans and Reports, Quarterly Performance Reviews, and Strategic Reviews.
+New data to collect through quantitative surveys or qualitative interviews/focus groups with the
+DHS workforce include enablers, barriers, and unintended consequences of participating in
+23 Public Law (P.L.) 111-292 (2010)
+40
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+telework. Analytic approaches may include descriptive and inferential statistics and qualitative
+data analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Understanding the quantitative and qualitative effects of maximum telework flexibilities on DHS
+work, workforce, and workplace during the pandemic will enable DHS to refine telework, physical
+infrastructure, and human capital strategies, policies, and agency performance measures.
+Evidence building may engage or be used by the Offices of the DHS Chief Readiness Support,
+Information, Procurement, Human Capital, Security and Financial Officers. The equivalent
+Component-level offices will also support data collection and subsequent policy formulation and
+implementation. External stakeholders such as the Office of Personnel Management, OMB, and
+the Government Accountability Office would also benefit from the data, information, and insights
+gained from the telework policy evaluation.
+G6-Q4 What effects has adoption of a standard utilization rate (UR) of 150 sq. ft./person had
+on the Department's real property footprint? What factors support and hinder
+implementation of the 150 sq. ft./person standard?
+DHS Strategic Objective: 6.3 Optimize Support to Mission Operations
+Timing of Activities: FY 2022-2023
+Strategy or Operation Background
+The Department's real property portfolio accounts for about $7.5 Billion of the Department's
+annual spending. In 2015, DHS adopted a standard utilization rate (UR) of 150 sq. ft./person for
+the Department's real property portfolio based on number of "assigned" full time equivalents (a
+metric that equates total labor hours to full-time employees). The intended result of adopting a
+standard UR is to right-size the Department's real estate for its workforce while minimizing
+underused facilities. The effect on the Department's real estate footprint has been slow and
+uneven due to (1) reductions occurring primarily when long lease terms expire, which creates
+opportunities for co-location and consolidations of space, and (2) Congressionally mandated
+programs and statutory mission requirements across the Department that drive growth,
+offsetting these reductions. The Department aims to revise this standard using new methods that
+account for alternative work arrangements, such as telework and remote work. Multiple
+initiatives are currently underway to gather better information on utilization and space
+programming requirements.
+Evidence Building
+Program Evaluation includes non-experimental outcome evaluation to determine effects of the
+UR standard on the Department's real property footprint and other unintended consequences.
+Additionally, the evaluation will examine FY 15-FY 20 costs, feasibility, and acceptability, including
+enablers and barriers, of implementing the UR standard. The study design must account for
+41
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+partial applicability of the standard to administrative spaces only, co-mingling of administrative
+and mission spaces resulting in implementation of higher mission space utilization rates, key
+context factors that limit adoption (e.g., expiration of long lease terms), and long returns
+on investment. Prior to evaluation, an evaluability assessment will be conducted to
+identify key evaluation questions and determine the most suitable approach for evaluating the
+program.
+Existing administrative/operational data include information on costs, utilization, occupancy, and
+workforce location (e.g., from IT network access, physical access, and self-reported workforce
+location data). New data to acquire includes DHS employee workplace satisfaction from the U.S.
+General Services Administration (GSA) Tenant Satisfaction Surveys. In addition, the evaluation
+will collect workforce perspectives on enablers, barriers, and unintended effects of implementing
+the UR standard through DHS-specific quantitative surveys and qualitative interviews/focus
+groups. Analytic approaches may include descriptive and inferential statistics and qualitative data
+analysis. Third party research support is anticipated.
+Evidence Use and Dissemination
+Understanding the implementation and effects of the current UR adoption rate as well as
+enablers and barriers of adoption are critical to informing future UR standards, strategies that
+reduce barriers to and enable implementation of UR standards, and performance goals for
+adoption of UR standards. Evidence building may engage or be used by the DHS Office of the
+Chief Readiness Officer Assets and Logistics and Real Property Programs, the Office of the Chief
+Financial Officer, and Components' Chief Administrative Officers and Real Property Directors.
+External federal partners include GSA, OMB, other agency stakeholders of the Federal Real
+Property Council and Federal Facilities Council, and The House Committee on Transportation and
+Infrastructure.
+G6-Q5 What metrics/indicators can be used to reliably predict cost to maintain materiel
+readiness requirements for deployed systems in CBP's stated five Enduring Mission
+Priority Outcomes: Combating Transnational Organized Crime, Counter Terrorism,
+Facilitate Lawful Travel, Secure the Border, and Facilitate Lawful Trade and Protect
+Revenue?
+DHS Strategic Objective: 6.3 Optimize Support to Mission Operations
+Timing of Activities: FY 2022-2026
+Strategy or Operation Background
+Secure, well-managed borders are needed to protect the U.S. against threats from abroad and to
+safeguard and expedite the flow of lawful trade and travel. A modernized and efficient border
+management mission requires a combination of trained workforce and operational materiel
+(technology, systems, assets) that are deployed at and between designated ports of entry along
+the U.S. land and coastal borders. Operational readiness of materiel must enable the trained
+42
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+workforce to successfully meet the strategic, operational, and tactical requirements of the DHS
+border management mission. Optimizing the materiel's reliability and the materiel's supply chain
+downtime performance outcomes provide for the most cost-efficient materiel readiness.
+Evidence Building
+Performance Measurement includes performance measures/dashboards development and
+annual/semi-annual review processes to assess and track performance outcome indicators for
+availability, reliability, downtime, and ownership cost of materiel against known requirements
+for 43 individual programs of record and four broader enterprise cross-cutting materiel portfolios
+(as of February 2022).
+Existing administrative/operational data include information on baseline status and user
+requirements for program- or portfolio-specific materiel availability, reliability, downtime, and
+cost indicators. In the future, administrative/operational data will also support mission-driven
+updates to materiel readiness outcome requirements, informed by evolving threats, technology
+capabilities, maintenance improvements, and operating plans.
+Analytic approaches such as activity/flow modeling and failure modes and effects analysis may
+be used to predict readiness needs and associated cost drivers. This project anticipates deploying
+an agency-wide Asset Management Tool and a custom dashboard that monitors current status,
+tracks progress toward achieving outcome requirements, and provides predictive ability for
+decision makers to prioritize budgets against materiel life cycle readiness requirements. Third
+party research support is anticipated.
+Evidence Use and Dissemination
+Establishing outcome measures for achieving and sustaining materiel life cycle readiness
+requirements at best cost and understanding shortfalls in meeting those requirements can
+inform the alignment of resources needed to address those shortfalls. Tracking progress toward
+outcome measures provides the discipline and data-driven analytical rigor needed for executive
+level decision making confidence. Evidence building will engage external stakeholders such as the
+Department of Defense, Department of Energy, Government Accountability Office, DHS
+Inspector General, and industry partners. Evidence users include DHS Deputy Undersecretary for
+Management, DHS Joint Requirements Council, DHS Chief Readiness Support Officer, CBP Deputy
+Commissioner, six CBP Executive Assistant Commissioners, and seven CBP Portfolio Acquisition
+Executives. Disclosure of findings will be limited to DHS.
+DHS Data Priorities for Evidence Building
+Reliable and relevant data are the foundation of all evidence building. DHS establishes and
+manages a broad range of programs, policies, and regulations to ensure the security of the
+Homeland. To know which of these is working well and to inform decision making, DHS must have
+high quality data and contextual evidence. In this regard, data are strategic assets.
+43
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+The data identified in the preceding Study Plan section were selected to align with the evidence-
+building objectives, research questions, and study designs described. Before embarking on
+evidence building, DHS will examine existing data-of the Department, other Federal agencies,
+SLTT and industry partners, the academic research community, and others-to determine
+whether they are adequate to address a priority question. In cases where data are insufficient
+for evidence building, DHS may collect or acquire new data.
+The sections that follow describe multiple types of data assets and specific examples from DHS
+Components and other data owners that were identified in the preceding study plans. These data
+priorities will benefit from further collaboration with DHS, Component, and other federal
+agencies' Chief Data Officers to ensure data quality, data access, and data information sharing
+agreements are sufficient to enable evidence building. The Chief Privacy Officer, relevant
+Component Privacy Officers, and the Chief Civil Rights and Civil Liberties Officer will support the
+Department's compliance with relevant legal authorities and privacy, civil rights, and civil liberties
+protections and the appropriate privacy compliance and other documentation required, such as
+information sharing agreements, is in place, as appropriate.
+Administrative and Operational Data Systems
+DHS generates administrative and operational data in the conduct of its mission. These data are
+an essential resource for many of the evidence-building activities described in this learning
+agenda. For the purpose of this document, administrative/operational data' includes an array of
+administrative, regulatory, law enforcement, adjudicatory, financial and other data held by DHS
+to carry out the administration and operations related to its mission.
+Several strengths of administrative/operational data make it valuable for evidence building,
+including that it
+offers comprehensive data on populations served and affected by DHS programs,
+which supports a range of study designs and may contain information about
+important but relatively rare events;
+can have longitudinal structure that enables researchers to follow individuals over time
+to address societally important questions with long-term horizons;
+may be less likely to have high rates of nonresponse, attrition, and underreporting than
+survey research and other voluntary data collection directly from individuals, groups, and
+organizations; and
+allows DHS to conduct in-house studies to examine its strategies and operations.
+The following data systems and datasets that have been proposed for use in evidence building
+are listed in Exhibit 3.
+44
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Exhibit 3. DHS Administrative and Operational Data Assets
+DHS Component
+Administrative and Operational Data
+Exercises After Action Reports
+Cybersecurity and Infrastructure
+High Value Asset Assessment Database
+Security Agency
+Incident Communications Activity Reports
+National Council of Statewide Interoperability Coordinators State
+Interoperability Markers data
+Federal Emergency Management
+National Flood Insurance Program Pivot System
+Agency
+Non-Disaster Grants Management System
+Grants Reporting Tool
+Asset Management Data Warehouse
+Consolidated Asset Portfolio and Sustainability Information System
+Management Directorate
+Program Accountability and Requirements Management Major Acquisition
+Oversight System
+Unified View of Investments
+Science & Technology Directorate
+S&T Signed Program Document Library
+Central Index System
+Enterprise Citizenship and Immigration Services Centralized Operational
+U.S. Citizenship and Immigration
+Repository
+Services
+eSTAT
+USCIS Computer Linked Application Information Management System
+USCIS Electronic Immigration System
+USCIS Global
+U.S. Coast Guard
+Marine Law Enforcement
+Automatic Identification System
+Arrival and Departure Information System
+Office of Field Operations Unified Secondary System
+U.S. Customs and Border Protection
+U.S. Border Patrol E3 System
+Prison Rape Elimination Act data
+U.S. Immigration and Customs
+Alternatives to Detention Program enrollment data
+Enforcement
+ICE Enforcement Integrated Database
+Prison Rape Elimination Act data
+Statistical Data and Data Compilation Assets
+While DHS does not have a designated federal statistical agency, the Office of Immigration
+Statistics and other DHS program offices produce statistics, data compilation products, and
+interactive visualizations from verified and validated administrative and operational data. These
+data products support resource allocation, priorities setting, and planning for Departmental and
+intergovernmental functions, as well as build evidence to support program operations. They are
+publicly available for use by DHS partners and stakeholders. Statistical data and data compilations
+that may be relevant to evidence-building activities in this learning agenda are listed in Exhibit 4.
+45
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Exhibit 4. DHS Statistical Data and Data Compilation Assets
+DHS Component
+Statistical Data and Data Compilations
+DHS-wide
+DHS Annual Performance Report and Performance Measures
+Cybersecurity and Infrastructure
+Security Agency
+Chemical Facility Anti-Terrorism Standards (CFATS) Statistics
+Disaster Housing Assistance
+Disaster Declarations for States and Counties
+Federal Emergency Management
+Disaster Declarations for Tribal Nations
+Agency
+Fire Incidents for States and Counties
+Historic Flood Risk and Costs
+Resilience Analysis and Planning Tool
+Public Assistance Program Summary of Obligations
+OIS Statistical Immigration System of Record
+Entry/Exit Overstay
+Immigration Enforcement Actions Flow Enforcement Lifecycle
+Lawful Permanent Residents Population Residing in U.S.
+Office of Immigration Statistics
+Naturalizations
+Nonimmigrant Admissions
+Nonimmigrant Population Residing in U.S.
+Refugees and Asylees
+Unauthorized Immigrant Population Residing in U.S.
+U.S. Citizenship and Immigration
+Services
+Historic and Current Case Processing Times
+Semi-monthly Credible Fear and Reasonable Fear Receipts and Decisions
+CBP Border Enforcement Statistics
+U.S. Customs and Border Protection
+Southwest Land Border Encounter Statistics
+Custody Transfer Statistics
+U.S. Immigration and Customs
+Enforcement
+Enforcement and Removal Operations Annual Report and Local Statistics
+DHS Survey and Assessment Data Assets
+Preparedness surveys funded by DHS represent a crucial part of the nation's preparedness data
+infrastructure. These surveys gather information from nationally representative samples or
+panels of individuals to measure the public's degree of preparedness for hazards they are likely
+to face; awareness, attitudes, and experiences that can motivate actions to prepare; successful
+mechanisms for enhancing preparedness; and areas that need improvement.
+DHS (FEMA) Child Safeguarding Guidelines do not allow data collection from children directly.
+To mitigate this, DHS collects parents' and curriculum instructors' perceptions of the motivators
+and barriers to youth preparedness, household preparedness and actions taken, age-
+appropriate youth contributions, and perceived effectiveness of aspects of preparedness
+programs on motivating youth preparedness.
+46
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+DHS also conducts numerous large-scale voluntary surveys of Federal, SLTT, and private sector
+critical infrastructure sector operators to collect data that provide DHS and its SLTT and private
+sector partners with operational awareness as to the readiness and risk resilience of these
+systems.
+Examples of DHS survey data assets that may support learning agenda priorities are listed in
+Exhibit 5.
+Exhibit 5. DHS Survey Data Assets
+DHS Component
+Survey Data
+Cybersecurity and Infrastructure Security
+SAFECOM Nationwide Survey
+Agency
+Federal Emergency Management Agency Financial Preparedness Survey
+National Household Survey
+Pandemic One Year Later Survey
+Transportation Security Administration
+Transportation Systems Sector NIST Cybersecurity Framework Survey
+To fulfill core mission requirements, DHS administers assessments that measure risks,
+capabilities, and gaps in security and resilience across the nation through standardized and
+coordinated processes. While these assessments intend to help operators, communities, and
+sectors understand risk and prioritize mitigation, the data produced are a rich resource for the
+Department's evidence building and use in decision making. Examples of DHS assessment data
+assets cited in evidence building plans are listed in Exhibit 6.
+Exhibit 6. DHS Assessment Data Assets
+DHS Component
+Assessment Data
+Cybersecurity and Infrastructure Security
+Chemical Security Assessment Tool
+Agency
+National Risk and Capability Assessment
+Nationwide Communications Baseline Assessment
+Federal Emergency Management Agency PrepToolkit (Homeland Security Exercise and Evaluation Program)
+Stakeholder Preparedness Review Tool
+Threat and Hazard Identification and Risk Assessment
+Transportation Security Administration
+Baseline Assessment for Security Enhancement
+Corporate Security Review
+Other Federal and Non-Federal Data Sets
+DHS evidence building may rely on other non-DHS data from Federal, international, or SLTT
+agencies and partners, private sector industry, and research communities. In some cases, DHS
+will attempt to link its administrative data with the administrative or statistical data of other
+47
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+agencies to leverage individual, household, or community demographics and socioeconomic
+characteristics that DHS does not collect.
+Federal administrative and statistical data that may be useful in answering the Department's
+priority questions include data assets listed in Exhibit 7.
+Exhibit 7. Federal Data Assets
+Federal Department or Agency
+Data System or Sets
+National Oceanographic and Atmospheric Vessel Monitoring System
+Administration
+Commercial Fisheries Landings data
+Alaska Region Catch in Area data
+U.S. Census Bureau
+American Housing Survey
+U.S. Census data
+Community Resilience Estimates
+Local Employment Dynamics
+U.S. Department of Labor
+Current Employment Statistics
+U.S. Department of State
+Bureau of Consular Affairs Visa Issuance
+Office of Fraud Prevention Overstayers
+U.S. General Services Administration
+Tenant Satisfaction Survey
+Federal Automotive Statistical Tool
+U.S. Government Accountability Office
+2020 Federal Managers Survey
+U.S. Office of Personnel Management
+Federal Employee Viewpoint Survey (FEVs)
+High Value Asset Survey
+Study Types, Data Collection Methods, Analytic Approaches for
+Evidence Building
+The Evidence Act requires learning agendas to include detailed methodologies for evidence
+building. Here we describe the types of studies and efforts undertaken in foundational fact
+finding, policy analysis, performance measurement, and program evaluation, as well as the
+common methods of data collection and analytic approaches used in Department evidence
+building. Since many data collection and analysis methods may trigger privacy compliance or
+other compliance requirements, methodologies will be coordinated with relevant privacy
+offices for privacy compliance and other compliance offices, as appropriate.
+Study Types
+This section describes common study types and efforts that are used in DHS foundational fact
+finding, policy analysis, performance measurement, and program evaluation. Here we describe
+the purpose and characteristics of study types. Each relies on a combination of data collection
+methods and analysis approaches described in subsequent sections.
+48
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Needs Assessment
+DHS conducts needs assessments for formative purposes to systematically assess the needs of
+its potential or actual customers and beneficiaries, examine the nature and causes of those
+needs, set priorities for the future, and consider the approaches and resources required for
+programs to achieve intended goals.
+Evidence Reviews
+DHS evidence reviews summarize the state of knowledge in a research area based on secondary
+sources such as scholarly research publications and reports. Literature reviews include
+substantive findings and theoretical and methodological contributions to a topic, and thus serve
+as the foundation for many studies. Systematic reviews are a type of literature review that seek
+to identify, appraise, and synthesize all research evidence on a given topic or question.
+Statistical Analysis
+Although methods and techniques of statistics are used across all evidence-building activities,
+this learning agenda uses 'statistical analysis' to indicate when federal statistical data, federal
+administrative/operational data, quantitative survey research data, or combinations of those, are
+primarily used in quantitative measurements, calculations, models, classifications, and/or
+sampling methods to describe, estimate, or predict one or more conditions, outcomes, variables,
+or the relationships between them for groups (not individuals).
+Economic Analysis or Evaluation
+DHS uses theory-guided analytic methods of economics when results of interest are expressed in
+terms of economic metrics such as costs, benefits, transfer payments, distributional impacts, and
+return on investment. Common analysis includes break-even analysis, benefit-cost analysis, cost-
+effectiveness analysis, economic consequence analysis, and economic impact analysis. Economic
+analysis can be used for formative purposes to estimate future results and costs to achieve them
+such as when conducting policy analysis or regulatory impact analysis to inform new policies and
+regulations. Economic analysis can be used for summative purposes in evaluations to determine
+actual results and costs, typically compared to alternatives approaches for programs, policies,
+and regulations.
+Performance Measures or Dashboard Development
+Performance measures typically use administrative or operational data tabulated in specific ways
+to support regular, periodic measurement of key indicators of performance in support of
+progress monitoring and early intervention to improve operations, service delivery, and results.
+Although DHS has a robust performance measurement system, learning agenda priority
+questions that indicate performance measurement often intend to develop and deploy new
+performance measures or dashboards that better enable use of performance information.
+49
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Grant Performance Measurement
+Grant performance measurement is a systematic way of tracking the characteristics and
+performance of federal grants. Recent updates to Federal regulations24 require that Federal
+agencies' grant performance measurement include agency-specified goals, indicators, targets,
+baseline data, data collections, expected outcomes, and timelines for accomplishments. These
+measures allow DHS to show achievement of program goals and objectives, evaluation the
+effectiveness of grant programs, improve program outcomes, share lessons learned, and foster
+adoption of promising practices.
+Evaluability Assessment
+Evaluability assessments are a systematic pre-evaluation examination of the extent to which a
+program, policy, regulation, or organization can be evaluated in a reliable and credible fashion or
+to which an evaluation is worthwhile based on the evaluation's likely benefits, costs, and
+outcomes. It can help answer the questions, "Is the program and its parent organization ready
+for evaluation," "What type of evaluation is most suitable to assess the program," and "What
+changes are needed to increase readiness before an evaluation takes place?'
+Formative Evaluation
+Formative evaluation assesses whether a program, policy, regulation, or organization approach
+(or some aspect of these) is feasible, appropriate, and acceptable before it is fully implemented.
+It may include process and/or outcome measures. However, it focuses on learning and
+improvement and does not aim to answer questions of overall effectiveness. It can help answer
+the questions, "Is the program, policy, regulation, or organization appropriate for this context,"
+"Does it feasibly address the identified needs," and "Can it be implemented as designed?"
+Although there are no current learning agenda questions that intend to use formative
+evaluations, we anticipate conducting formative evaluation in studies that are added to the
+learning agenda in the future.
+Process/Implementation Evaluation
+Process/implementation evaluation assesses the extent to which essential elements of a
+program, policy, regulation, or operation are in place; conform to requirements, program design,
+professional standards, or customer expectations; and are capable of delivering positive
+outcomes. It can help answer the questions, "Was the program, policy, regulation, or
+organization implemented as intended?" or "How is it operating in practice?" In the learning
+agenda, several evaluations study process-related questions to understand underlying
+mechanisms of outcomes achievement.
+Outcome Evaluation
+Outcome evaluation assesses the extent to which a program, policy, regulation, or operation has
+achieved certain objectives, and how it achieved these objectives. Outcome evaluations use non-
+experimental designs characterized by the absence of a control or comparison group. Unlike
+24 2 CFR § 200.301, Performance Measurement (2021)
+50
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+impact evaluation, outcome evaluation cannot discern that outcomes result from or are a causal
+effect of the program. It can help answer the question "Were the intended outcomes achieved?"
+Impact Evaluation
+Impact evaluation assesses the causal effect or impact of an implemented program, policy,
+regulation, or operation on outcomes by estimating what would have happened in its absence.
+This estimation requires the use of experimental (or randomized control trial, RCT) designs or
+quasi-experimental designs (QED) in which another group is compared to program participants.
+Experimental/RCT designs randomly assign (e.g., lottery draw) persons to either a treatment
+group that receives the program or policy intervention or to a control group that does not. Quasi-
+experimental groups identify a program or policy intervention group and comparison group from
+pre-existing or self-selected groups (not through random assignment). Impact evaluation can
+help answer the question, "Does the program, policy, regulation, or organization work, or did it
+lead to the observed outcomes?"
+Behaviorally Informed Innovation
+This quantitative method uses a behavioral intervention such as a nudge, default choice, or
+availability of clear and relevant information, that is studied within a randomized control trial or
+quasi-experimental study design to determine and quantify the intervention's effectiveness in
+encouraging positive, helpful decisions and behaviors. Although there are no current learning
+agenda questions that use behaviorally informed innovation, we anticipate use of this
+aspirational evidence building in future amendments of the learning agenda.
+Data Collection Methods
+Data collection methods are the techniques used to gather the information needed to answer
+the priority questions. When selecting methods for data collection, DHS considers which method
+is
+more likely to secure the information needed;
+more appropriate given who is being asked to provide the information;
+least disruptive to the program and target populations; and
+most feasible given the available resources.
+Common methods DHS uses to collect information directly from people for the primary purpose
+of evidence building include quantitative surveys, qualitative interviews and focus groups, and
+observations. DHS uses other methods such as open or public use data access, restricted use
+data licensing, and data sharing agreements for acquiring existing data sets from non-DHS
+sources. These methods are described below.
+Quantitative Surveys
+Surveys are predetermined sets of questions, often with set response options, administered to
+samples or panels of respondents to cost-effectively compile statistical information about
+51
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+individuals, households, and organizations. DHS uses surveys in different ways. DHS uses surveys
+to track variables of longer-term interest, as well as to obtain reliable information about
+conditions through shorter-term studies. DHS conducts low-burden customer satisfaction
+surveys to gather near real-time impressions of customers' touchpoint(s) or transaction(s) with
+a government service in terms of trust, overall satisfaction, and experience drivers (e.g., service
+quality, process, and people, when applicable). DHS also uses surveys of participants in program
+evaluations to determine their baseline conditions and subsequent outcomes.
+Qualitative Interviews and Focus Groups
+These qualitative data collections use primarily open-ended questions to converse with an
+individual respondent or with a small group of respondents simultaneously to collect narrative
+information about a subject, circumstance, or event. DHS uses this method across evidence-
+building activities to understand the way people think, their motivation, and their attitudes
+toward the topic or experience. Although qualitative interviews/focus groups cannot be used to
+infer causality or to measure effectiveness, they are often valuable tools for theory building and
+developing awareness of factors that affect outcomes. As such they often complement other
+evidence building such as surveys, economic analysis, and different types of program evaluation.
+Observation
+Observation is an immersive qualitative method for collecting data about people, processes, and
+cultures, but may be entirely or partially structured (quantitative) or unstructured (qualitative).
+Structured observations systematically classify behaviors into distinct categories to describe
+a
+characteristic or use of a scale to measure behavior intensity. Unstructured observation records
+all relevant behavior without a system of categorization.
+Open or public use data access
+Open data is freely available, easily discoverable and accessible, and published in ways that allow
+it to be used by people other than those that originally collected the data. Public-use data is the
+name often used for Federal statistical survey data that have been anonymized with the
+individually identifiable information having been recoded or deleted to protect the
+confidentiality of the survey respondents. DHS uses open or public use data access as one means
+of acquiring existing data that may be relevant to evidence building.
+Restricted Use Data Licensing and Data Linkage
+Restricted use data licensing is a mechanism for making more detailed data available to qualified
+researchers. Restricted-use data have a higher level of detail in the data compared to public-use
+data files. These data typically contain subject data, or individually identifiable information about
+respondents. DHS may use restricted use data licensing to access other Federal statistical and
+administrative data for linkage to DHS administrative/operational data. Data linkage means that
+records from two or more datasets that refer to the same entity are joined. DHS uses this
+technique to fill important data gaps needed to answer DHS questions that require individual,
+52
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+household, or community demographics and socioeconomic characteristics that DHS does not
+collect.
+Data Sharing Agreements
+DHS establishes data sharing agreements when data are being shared across organizations. The
+agreements typically establish authority, provisions for acceptable data use, confidentiality and
+other conditions for subsequent release of information, and time limits. DHS increasingly uses
+data sharing agreements with partner agencies to avoid duplicative collections of mission critical
+data and to leverage its partners' data collection authorities and assets that are distinct from but
+relevant to the Department.
+Analytic Approaches
+Analytic approaches are the techniques used to characterize and understand the interrelations
+of information and data to answer the priority questions. Analysis is broad in scope, but the
+following analytic approaches are commonly used at DHS.
+Descriptive Statistics
+Nearly all DHS evidence building uses methods to tabulate summary statistics that characterize
+cases in a sample data set. Descriptive statistics often focus on quantifying the proportions of
+various characteristics, major subgroups in the sample, and the shape of the distribution.
+Inferential Statistics
+Some DHS learning agenda studies use inferential statistics to draw conclusions that extend
+beyond simply summarizing the characteristics of the immediate data. Inferential statistics may
+specify under what circumstances a sample represents a broader population. Inferential statistics
+may also be used to identify statistical relationships by testing hypotheses to determine if
+differences between two or more groups, changes over time, or associations between two or
+more variables are not likely to occur randomly. Regression models are a common type of
+inferential statistical analysis used to identify and understand relationships between variables of
+interest, such as to infer how much of an outcome measure is explained by program participation
+or other factors of interest.
+Advanced Data Mining and Analytics
+DHS uses artificial intelligence and machine learning techniques applied to structured and/or
+unstructured data (such as content in natural language text) to detect and visualize hidden
+patterns in large datasets or use algorithms to build predictive and prescriptive models that allow
+problems to be anticipated and addressed proactively.
+Network Analysis
+Network analysis is a specific advanced data analytic method that includes techniques for
+collection, statistical analysis, and visualization of input data-typically from designed surveys or
+from communication and collaboration systems data-to quantitatively and qualitatively
+53
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+characterize patterns in a whole system of relationships and parts of a network, such as people
+or groups of an organization or community. Network analysis can help us to understand the
+strength, frequency, and nature of interactions, including flows of information, resources, and
+work.
+Benefit-Cost, Cost Effectiveness, and Break-Even Analysis
+These methods are common in DHS economic analysis and evaluation for programs, policies, and
+regulations. Benefit-cost analysis aims to identify and compare relevant quantitative and
+qualitative costs and benefits associated with an activity, usually expressed in monetary terms.
+Cost effectiveness analysis estimates the cost of achieving a single goal, nonmonetary outcome,
+or objective, which can be used to identify the least costly alternatives for meeting that goal.
+Break-even analysis identifies the point at which estimated total costs and total gains are equal-
+that is, it answers the question, "How small could the value of the non-quantified benefits be (or
+how large would the value of non-quantified costs need to be) before the rule would yield zero
+net benefits?"
+Qualitative Data Analysis
+Qualitative data analysis uses a flexible set of approaches to examine patterns in communicated
+information. Content analysis may focus on the presence and frequency of concepts-typically
+words, phrases, or images- - or show how concepts are related to each other and the context in
+which they exist. Thematic framework analysis identifies patterns of meaning, or themes.
+Themes may be determined deductively (themes selected from existing research or theory) or
+inductively (themes built from the data) to develop patterns. The analysis may examine explicit
+content of data or examine subtext or assumptions from the data. DHS uses qualitative data
+analysis when analyzing different kind of textual secondary data and data from interviews/focus
+groups and observations.
+Case Studies
+A case study provides an in-depth, qualitative analysis of a single subject or small group of
+subjects, such as an individual, group (e.g., organization, community, or "site"). or event. The
+analysis integrates data collected through several methods, such as quantitative surveys,
+qualitative interviews/focus groups, and observations and documents, to draw conclusions only
+about the studied subject(s) and within the given context. Although case studies cannot be used
+to infer causation or to measure effectiveness in achieving outcomes, they are often valuable for
+building theory and developing awareness of factors that affect outcomes.
+Challenges and Mitigating Strategies for Evidence Building
+Although each learning agenda priority question may be subject to a unique combination of
+challenges and mitigating strategies, some of which are discussed in Strategy or Operation
+Background sections, there are also a number of common challenges and recommended
+mitigating strategies that we describe in the sections that follow.
+54
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Common Challenges
+Complexity of coordinating evidence building
+DHS has a complex mission and evidence building often requires coordination of knowledge,
+expertise, and effort that span organizations, subject matter, technical, data, and analytic silos.
+In addition, some Department evidence building relies on the data it collects from or shared by
+Federal, SLTT, industry, and other partners.
+Gaps in data access or quality
+Gaps in sufficiently detailed, accurate, and complete data, or lack of existing data or lack of
+measures for all relevant indicators to answer a question are common in evidence building. Such
+gaps result for many reasons. Most common is that legacy data collections were initially designed
+to support operations not specific evidence-building activities or indicators, like equity. Some
+data may not be collected, or when collected, they may have high non-response or restrictions
+on use. In some cases, gaps can be mitigated by updating System of Record Notices (SORNs) to
+allow data to be used for evidence building. Often, gaps in data access or quality often require
+new collections or revisions to existing data collections. The Paperwork Reduction Act requires
+federal agencies to obtain approval for such information collections from the Office of
+Management and Budget, which generally consists of a public comment period and OMB review
+of the survey instrument to be administered to more than nine respondents. This process can
+also introduce substantial delays of data collection efforts.
+Evaluability of strategies or operations
+To evaluate whether a strategy (program, policy, regulation, or some combination of them) or
+operation achieves its outcomes it must be evaluable-that is, we must clarify what the desired
+outcomes are, how activities are logically linked to those outcomes, and what indicators and
+measures provide data to assess them. DHS programs are complex constellations of activities
+that may be conducted through multiple touchpoints over time and in different settings and
+locations. Among the more challenging cases of evaluability, grant programs do not prescribe an
+activity; rather these programs provide grantees discretion to pursue many eligible activities that
+collectively contribute to the achievement of program outcomes.
+Insufficient or variable resources for evidence building
+The DHS Capacity Assessment indicates inconsistent and relatively low levels of resources set
+aside for evidence building, especially program evaluation and other evaluation-related
+activities. Few Components have set aside budgets to support independent, third-party research,
+analysis, and evaluation. Furthermore, the DHS Capacity Assessment indicates there is uneven
+staffing and expertise available to design and conduct scientifically rigorous internal studies or to
+architect procurement requirements and external expert teams that will yield high quality study
+designs and results.
+55
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Lag time for rigorous evaluation
+Carefully structured evaluations can require considerable resources and multiple years to design
+and complete. In some cases, sustained intervention and measurement over many years is
+needed to produce and assess effectiveness in achieving mid-and long-term outcomes or societal
+impacts. In other cases lengthy internal and OMB approval processes for direct data collection
+efforts delay data collection. The lag time to results is a key criticism of the utility of evaluation
+at DHS and requires exploration of creative solutions, including solutions that reduce barriers to
+direct data collections that are vital to evaluation and using study designs with administrative
+data that will allow for low-cost, timely evaluations where possible.
+Constraints on methods
+Randomized control trials and quasi-experimental designs that also study comparison groups are
+often not feasible for DHS programs and policies. Furthermore, the Department's recent capacity
+assessment suggests DHS makes limited use of more advanced quantitative methods, such as
+inferential statistics, time series, and economic analysis. Thus, evaluative questions about
+"effects", "impacts" and "effectiveness" of DHS programs, policies, and regulations may be
+difficult to answer with definitive statements about causality or attribution.
+Pandemic, disaster, and other emergent interruptions
+Ongoing government response to pandemic, disasters, and other emergent issues (e.g., mass
+migration, cybersecurity threats) can result in shifts in government operations and workforce
+appropriately to address them, which sometimes interferes with planned evidence-building
+activities.
+Mitigating Strategies
+In-house and interagency research collaborations
+A number of proposals are envisioned as in-house research, including within- and between-
+Component collaboration for data integration and/or analysis. In-house research collaborations
+can be facilitated through coordination among existing DHS councils, communities of practice,
+and working groups. For example, the DHS Evaluation Officer Council, Data Governance Council,
+Performance Improvement Community of Practice, Agency Equity Working Group, and multiple
+communities of interest (e.g., operations research, modeling and simulation, and artificial
+intelligence/machine learning) can advance cross-cutting evidence building.
+Other questions pose opportunities for mutually beneficial interagency research collaborations.
+For these questions, the Department can leverage existing interagency councils and working
+groups, such as the National Security Council, CFO Act Evaluation Officers' Council and Data
+Governance Council, the Interagency Council on Statistical Policy, or other topic-specific groups
+that support interagency collaboration.
+56
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Engaging external expertise
+The DHS Science & Technology Directorate has existing contracts, grants, and other agreements
+to support the DHS research and development enterprise. These partnerships with academic
+institutions (e.g., Centers of Excellence, Technology Centers), private sector (e.g., Federally
+Funded Research and Development Centers), National Laboratories, and other federal agencies
+can provide a source of expertise for technical consultations to study design or for the conduct
+of studies that address learning agenda priorities. In addition, The DHS Joint Duty Program and
+government-wide Intergovernmental Personnel Act (IPA) Mobility Programs enable feasible and
+convenient exchange of skilled personnel between government and non-government
+institutions, respectively.
+Data governance and enterprise data management
+Aligning data ownership, authorities, responsibilities, and resources with identified data priorities
+has the potential to pose challenges across the Department. The DHS Chief Data Officer supports
+collaboration across Components and data domains. Over time, the learning agenda will benefit
+from ongoing efforts to establish domain-specific data standards and governance, establish a
+comprehensive DHS data inventory, and improve data access and governance for evidence
+building across the enterprise.
+Ongoing efforts to improve data sharing
+The DHS Chief Data Officer's Data Sharing Agreements Working Group is working to establish and
+implement unified policy, procedures, samples, and ongoing technical assistance for data sharing
+with DHS partners. Generally, these efforts aim to improve the efficiency and effectiveness of
+data sharing efforts, and the learning agenda may indicate what data sharing agreements may
+be priorities to ensure data are available for evidence building as planned.
+Using and linking other federal agency and statistical data
+Using and linking DHS administrative data with other federal agency and statistical data (e.g., U.S.
+Census data and American Household Survey data) may be a cost-effective strategy for filling
+important data gaps needed to answer questions, such as those relating to individual, household,
+or community demographics and socioeconomic characteristics that DHS does not collect.
+Evaluability assessment
+Evaluability assessments can help determine whether programs are ready for meaningful
+evaluation and whether an evaluation is likely to provide useful information. Evaluability
+assessments analyze and draw conclusions about program design, implementation, operating
+context, existing measures, and data. They recommend appropriate evaluation designs and
+programmatic improvements that are needed before conducting the evaluation. The DHS
+Evaluation Officer encourages evaluability assessments be conducted by a qualified third-party
+evaluator when no prior evaluations have been conducted and as tool for building program and
+organizational evaluation capacity.
+57
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Ongoing efforts to improve grant performance measurement
+Across DHS, concerted effort is underway to improve grant performance measurement in
+response to recent regulatory requirements for the administration of federal awards25 These
+changes have included calls to articulate program theory or logic frameworks, identify outcome
+indicators and measures for tracking grants' contributions to program goals and objectives, and
+establish other valid and reliable measures of cost-effectiveness for these portfolios. These
+improvements will enable results-oriented grant management and ensure valuable data that can
+be harnessed for program management, reporting to stakeholders, and program evaluation.
+Ongoing efforts to measure and advance equity
+Executive Order 13985 created an unparalleled opportunity to consider data assets that are
+needed to disaggregate analysis by race, ethnicity, gender, disability, income, veteran status, and
+other key demographic characteristics describing underserved communities as well as a broader
+range of data collection methods to help us better understand barriers that affect underserved
+communities' access to, participation in, and outcomes of DHS services, benefits, and
+opportunities.
+Financing the learning agenda
+The DHS Evaluation Officer's funding for evaluation and evidence building can provide a small
+source of funds for securing external expertise for addressing learning agenda priorities. The DHS
+Evaluation Officer will prioritize evaluation and evaluation-related activities (e.g., needs
+assessments, evaluability assessments, capacity building efforts) but may co-sponsor select non-
+evaluation projects that have the potential to improve a program's readiness for future
+evaluation. It will not be feasible for DHS to address all priority questions in the learning agenda
+without strong commitment of Components to fund and manage studies for learning priorities
+that are most relevant to their missions. It is OMB's expectation that Components use direct
+appropriations and authorities to use a portion of program or activity funds for third-party
+evaluation or other evidence-building activities.
+Assessing and increasing evidence-building capacity
+The Evidence Act's requirements to assess the Department's capacity to plan, build, and use
+evidence to strengthen policy and practice have the potential to strongly complement the
+strategic evidence-building direction of a learning agenda by describing the foundation and
+needed enhancements for effectively using the evidence. The capacity assessment will help the
+Department senior officials to determine where new or different investment of resources are
+needed to ensure evidence building described in the Department's learning agendas and annual
+evaluation plans is successful. It is OMB's expectation that Components will hire or develop
+dedicated staff with the necessary skills to carry out technical evaluation or other evidence-
+building activities.
+25
+2 CFR § 200.301Performance Measurement (2021)
+58
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Proliferation of learning agendas and annual evaluation plans
+Some DHS organizations and programs are in the process of establishing their own learning
+agenda and annual evaluation plans to identify, prioritize, and coordinate a more comprehensive
+set of evidence-building activities to support local decision-making over time. As learning
+agendas and evaluation plans proliferate across the Department, more evidence about the
+context, delivery, and outcomes of the DHS mission will be available to support organizational
+learning, strategic and program management, performance improvement, and accountability to
+the public.
+59
+U.S. Department of Homeland Security
+FY 2022-2026 Learning Agenda
+Appendix A. List of Abbreviations and Acronyms
+CBP - U.S. Customs and Border Protection
+MGMT - DHS Management Directorate
+CFO - Chief Financial Officer
+NCSWIC - National Council of Statewide
+Interoperability Coordinators
+CI - Critical Infrastructure
+NHS - National Household Survey
+CISA - Cybersecurity and Infrastructure
+Security Agency
+NIST - National Institute of Standards and
+Technology
+COMU - Communications Unit
+NOAA - National Oceanographic and
+COVID-19 - Coronavirus Disease 2019
+Atmospheric Administration
+CRCL- Office for Civil Rights and Civil
+OFO - Office of Field Operations
+Liberties
+OIS - Office of Immigration Statistics
+CWMD - Countering Weapons of Mass
+Destruction
+OMB - U.S. Office of Management and
+Budget
+DHS - U.S. Department of Homeland
+Security
+PA - Policy Analysis
+DOS - U.S. Department of State
+PE - Program Evaluation
+EC - Emergency Communications
+PM - Performance Measurement
+EEZ - Exclusive Economic Zone
+QED - Quasi-Experimental Design
+ELIS - Electronic Immigration System
+RCT - Randomized Control Trial
+FEMA - Federal Emergency Management
+RFI - Request for Information
+Agency
+RIA - Regulatory Impact Analysis
+FFF - Foundational Fact Finding
+SLTT - state, local, tribal, and territorial
+FIMA - Federal Insurance and Mitigation
+SPR - Stakeholder Preparedness Reviews
+Administration
+S&T - DHS Science & Technology
+FY - Fiscal Year
+Directorate
+HSGP - Homeland Security Grant Program
+STEP - Student Tools for Emergency
+HVA - High Value Assets
+Planning
+ICE - U.S. Immigration and Customs
+SWB - Southwest Border
+Enforcement
+THIRA - Threat and Hazard Identification
+ITA - Independent Test Agent
+and Risk Assessments
+60
+TSA - Transportation Security
+Administration
+TSS - Transportation system sector
+TVTP - Targeted Violence and Terrorism
+Prevention
+TWIC - Transportation Worker
+Identification Card
+UR - Utilization Rate
+USBP - U.S. Border Patrol
+USCIS - U.S. Citizenship and Immigration
+Services
+USCG - U.S. Coast Guard
+USSS-U.S. Secret Service
+61

@@ -1,0 +1,1924 @@
+IES
+Institute of
+Education Sciences
+Fiscal Year 2022 Annual Evaluation
+and Evidence-Building Plan for the
+U.S. Department of Education
+U.S. DEPARTMENT OF EDUCATION
+-
+um
+am
+1233
+U.S. Department of Education
+Miguel A. Cardona
+Secretary
+Matthew Soldner
+Agency Evaluation Officer &
+Commissioner, National Center for Education Evaluation and Regional Assistance
+AUGUST 2021
+As part of its implementation of the Foundations of Evidence-based Policymaking Act of 2018 (Evidence
+Act), the Department has determined the responsibilities for the Agency Evaluation Officer should rest
+with Institute of Education Sciences' (IES) Commissioner for the National Center for Education
+Evaluation and Regional Assistance (NCEE).
+IES is the independent, non-partisan statistics, research, and evaluation arm of the U.S. Department of
+Education. The IES mission is to provide scientific evidence on which to ground education practice and
+policy and to share this information in formats that are useful and accessible to educators, parents,
+policymakers, researchers, and the public.
+We strive to make our products available in a variety of formats and in language that is appropriate to a
+variety of audiences. You, as our customer, are the best judge of our success in communicating
+information effectively. If you have any comments or suggestions about this or any other IES product
+or report, we would like to hear from you. Please direct your comments to ncee.feedback@ed.gov.
+This document is in the public domain. While permission to reprint this publication is not necessary, it
+should be cited as:
+U.S. Department of Education. (2021). Fiscal Year 2022 Annual Evaluation and Evidence-Building Plan
+for the U.S. Department of Education. Washington, DC: National Center for Education Evaluation and
+Regional Assistance, Institute of Education Sciences, U.S. Department of Education.
+This document is available on the ED website at https://ed.gov/data.
+Page 1 of 74
+IES
+Institute of
+Education Sciences
+Fiscal Year 2022 Annual Evaluation
+and Evidence-Building Plan for the
+U.S. Department of Education
+AUGUST 2021
+Page 2 of 74
+Fiscal Year 2022 Annual Evaluation and Evidence-
+Building Plan for the U.S. Department of Education
+August 2021
+Introduction
+The U.S. Department of Education (Department) and its predecessor organizations have supported
+evidence-building for the purpose of improving outcomes for all learners for more than 70 years.¹ This
+work has included rigorous implementation, outcome, and impact evaluations; grants to researchers
+for basic science, applied research, and evidence synthesis; and data collection in support of official
+statistics (including student assessments) and performance improvement.
+Many of the Department's evidence-building activities are housed in its Institute of Education Sciences
+(IES), including its National Center for Education Evaluation (NCEE), National Center for Education
+Statistics (NCES), the National Center for Education Research (NCER), and the National Center for
+Special Education Research (NCSER). However, a growing number of offices across the Department are
+engaged in work around evidence. Principal operating components with grant-making authority, for
+example, collect and use performance data to improve their programs, and an increasing number are
+requiring grantees to conduct research or evaluation activities that build evidence about the outcomes
+and impacts associated with their work. Increasingly, building and using evidence-be it in small ways
+or large-is everyone's business at the Department of Education.
+In its inaugural Annual Evaluation and Evidence-Building Plan (Plan), the Department summarizes only
+those major evidence-building activities for Fiscal Year 2022 (FY 22) sponsored by NCEE. We include
+both new work that is under consideration for FY 22 as well as continuing activities begun in a prior
+year. 2 In future years, the contents of the Plan may grow to include evidence-building activities housed
+elsewhere in the Department.
+Organization and Contents of this Document
+This Plan is organized topically, using categories that represent both common areas of focus in
+education research and long-standing programmatic interests of the Department. Within each topic
+area, we detail significant evaluations (described below). Activities are listed only once and are "cross-
+referenced" in other sections, where applicable.
+The Department is currently developing its FY22-FY26 Agency Learning Agenda. Because that process
+is ongoing as of the release of this Plan, we instead highlight how the work described here aligns to the
+Secretary's Proposed Supplemental Priorities and Definitions for Discretionary Grant Programs (SPPs). The
+SPPs reflect Secretary Cardona's vision for the nation's education system, which includes a respect for
+1 See, for example, the Cooperative Research Act of 1954 (Pub. L. 531).
+2 No part of this document represents a commitment by the U.S. Department of Education to award
+a
+new, or continue an existing, contract, grant, or cooperative agreement.
+Page 3 of 74
+the dignity and potential of each and every student and their access to educational opportunity. Proposed
+priorities include:
+(1) Addressing the impact of COVID-19 on students, educators, and faculty;
+(2) Promoting equity in student access to educational resources, opportunities, and welcoming
+environments;
+(3) Supporting a diverse educator workforce and professional growth to strengthen student
+learning;
+(4) Meeting student social, emotional, and academic needs;
+(5) Increasing postsecondary education access, affordability, completion, and post-enrollment
+success; and
+(6) Strengthening cross-agency coordination and community engagement to advance systemic
+change.
+Readers will note that the work implied by the SPPs does not uniformly align with the actual planned
+and ongoing work described in this Plan.
+In particular, there is significant work listed in the Plan that is beyond the immediate scope of the SPPs.
+One reason for the expanded scope is that the Department has chosen to operationalize its obligation
+to include "significant evaluations" in the Plan by listing all of its planned and ongoing program
+evaluations-including those that represent persistent problems of education policy or practice but that
+are not otherwise aligned to the SPPs. This approach is consistent with our annual and biennial
+reporting of all program evaluations as part of our Annual Performance Report/Annual Performance
+Plan and the Institute's Biennial Report to Congress, respectively, as well as a separate biennial report
+to Congress on the use of evaluation funds authorized under Section 8601 of the Every Student Succeeds
+Act of 2015 (ESSA). A second reason is that Congress can require evaluation activities not aligned to the
+SPPs, but the Department considers these efforts to be significant as well.
+Similarly, there are SPPs for which there is limited or no work listed in this Plan. In rare instances, this
+is because a topic included in the SPPs is of new-found importance to the Department. More often,
+topics appear in the SPPs but do not include work in this Plan because federal resources have not yet
+been identified to address them. The most notable example is the Department's emphasis on building
+evidence related to making postsecondary education affordable through federal financial aid (SPP 5).
+Unlike ESSA, its K-12 analog, neither the Higher Education Act of 1965 nor its subsequent
+reauthorizations include funded evaluation authorities for the bulk of its programs. As a result,
+evaluation activities related to federal student aid must "compete" with other important work,
+including customer service improvements and infrastructure modernization, for limited administration
+funds.
+The Department anticipates that, over time, its Annual Evaluation and Evidence-Building Plans will
+come to mirror its Learning Agenda. Wherever possible, the Department intends to use its Learning
+Agenda to guide decision-making about where to invest evidence-building resources. Additionally, the
+Department hopes to develop new mechanisms for building evidence, including new partnerships with
+Page 4 of 74
+external researchers that provide opportunities for answering questions of shared interest. It is
+important to remember, however, that the Department's evidence-building resources are not fungible:
+resources authorized for one purpose cannot be applied to another, no matter how strongly felt the
+need for evaluation. As such, areas without dedicated funding should be expected to lag those with
+more resources.
+How We Describe Our Program Evaluations
+Each program evaluation described below is uniquely tailored to address a series of evaluation
+questions co-created by NCEE's professional evaluators, program office staff, and external
+stakeholders. For each evaluation, we detail: (a) whether it is aligned to at least one SPP; (b) its current
+status; (c) expected start and end date; (d) the issues, contexts, and problems that motivate the
+evaluation activity; (e) the evaluation questions it seeks to answer; (f) evaluation design and data
+sources; and (g) the publications and products that are expected to arise from the evaluation.
+Although each program evaluation is substantively different on most dimensions, there are some
+commonalities that, for the sake of parsimony, we describe here. These include common technical
+challenges and common approaches to disseminating evaluation findings to key stakeholders.
+Common Technical Challenges
+Virtually all of the Department's program evaluations face one of two challenges: (1) access to
+administrative data that are necessary to generate high-quality evidence or (2) obtaining high response
+rates to surveys. In some instances, both challenges are at play.
+Wherever possible, the Department relies on administrative data for its evaluation activities. Doing so is
+widely held to improve data quality, minimize respondent burden, and reduce cost. Reliance upon
+administrative data for the purpose of understanding students, student outcomes, and education
+institutions is particularly compelling due to the Department's longstanding financial investment in the
+development of state longitudinal data systems (SLDSs), which increasingly link data from elementary,
+secondary, and postsecondary education to the workforce and beyond.
+Unfortunately, the Department often has challenges accessing administrative data, be it held in SLDSs
+or with federal agency partners. States, citing their own privacy laws, may restrict access to SLDS data
+in whole or in part. When access is granted, it is often only for the period of time needed to conduct the
+analysis, after which the underlying student record level data must be destroyed. While this yields an
+estimate "in the moment," it runs counter to other Department (and government-wide) priorities
+including open data, transparency, and replicability. This same challenge-and others-emerges in
+collaborative work with federal partners. Privacy Act System of Record Notices (SORNs) may fail to
+include evaluation as a routine use; legislation may allow the sharing of data for enforcement purposes
+but not program evaluation; or agency practice may hinder matching by requiring Social Security
+Numbers be provided for all sample members, even in populations for which it is difficult to get them
+(e.g., children) and even when probabilistic matching schemes using other identifiers are likely to yield
+credible results.
+When administrative data are not widely available, the Department often must rely upon survey
+instruments to collect data directly from respondents including students, parents, and educators. It is
+Page 5 of 74
+well-known across the federal statistical community that response rates to web-based and other survey
+collections are in decline. The Department is not immune from this trend. The Department employs
+industry standard approaches to, initially, maximize response rates. Once collected, the Department
+subjects data to rigorous non-response bias analysis to ensure that they can support credible estimates
+and rigorous analysis. There is a practical limit, however, to what can be done to improve response
+either ex ante or ex post and, at some point, the integrity of the evidence-building activity is threatened.
+Should the downward trend in survey response rate continue, program evaluation will be threatened-
+particularly if administrative data that might serve as a substitute or proxy cannot be readily accessed.
+Common Dissemination Approaches
+IES follows a consistent approach to dissemination for the bulk of its evidence products, including
+findings from program evaluations, official statistics, and evidence syntheses. This includes:
+Internal briefings for the Department's policy and program leadership during a two-week
+period prior to a product's release by IES;
+Sharing products with relevant media outlets, subject to an embargo agreement, immediately
+before their release;
+Posting products to the Department's website;
+Announcing the release of new products using IES social media, including its NewsFlash
+listserv (46,000 subscribers) and its @IESResearch Twitter handle (20,000 followers);
+Leveraging the Department's Regional Comprehensive Centers and Regional Educational
+Laboratories to disseminate relevant products directly to regional, state, and local education
+stakeholders; and
+Presenting findings to conferences of relevant grantees, advocacy organizations, and education
+researchers, such as the annual meetings of the Council on Opportunity in Education, the
+National Association of ESEA State Programs Administrators, and the Association for Public
+Policy Analysis and Management.
+Page 6 of 74
+Crosswalk of Planned and Ongoing Program Evaluations to SPPs
+We list program evaluations underway or planned to begin in FY 22 associated with each of the SPPs in
+the table below. We do not include "anticipated" studies in the table below, as specific research
+questions for anticipated studies have not been finalized. No part of this document represents a
+commitment by the U.S. Department of Education to award a new, or continue an existing, contract,
+grant, or cooperative agreement.
+Note that several priority questions listed below are addressed by other evidence-building activities
+across the Department that are not listed here, including those sponsored by the National Center for
+Education Statistics and the National Centers for Education and Special Education Research.
+SPP
+Related Program Evaluations
+Priority 1. Addressing the impact of
+Implementation of Key Federal Education Policies in the
+COVID-19 on students, educators, and
+Wake of the Coronavirus Pandemic
+faculty
+Evaluating Implementation of the Statewide Family
+Engagement Centers Program
+Evaluation of Full-Service Community Schools
+National Evaluation of Career and Technical Education
+under Perkins V
+Priority 2. Promoting equity in student
+Implementation of Title I/II-A Program Initiatives
+access to educational resources,
+opportunities, and welcoming
+Study of School Improvement Plans and Their
+environments
+Implementation
+Study of Educational Policies, Supports and Practices for
+English Learners: Implementation of Title III, With a
+Focus on Social and Emotional Learning
+Study of Data Disaggregation Initiative
+National Implementation Study of Student Support and
+Academic Enrichment Grants (Title IV, Part A)
+State and Local Implementation of the Individuals with
+Disabilities Education Improvement Act
+Evaluation of Transition Supports for Youth with
+Disabilities
+Study of District and School Uses of Federal Education
+Funds
+Page 7 of 74
+SPP
+Related Program Evaluations
+Evaluating Implementation of the Statewide Family
+Engagement Centers Program
+Evaluation of Full-Service Community Schools
+Evaluation of Investing in Innovation
+Evaluation of Promise Neighborhoods
+The Effects of a Systematic Approach to Improving
+Quality in Afterschool Programs: An Impact Evaluation to
+Inform the 21st Century Community Learning Centers
+(CCLC) Program
+Evaluating the DC Opportunity Scholarship Program After
+the 2017 Reauthorization
+Impact Study of Magnet Schools
+Study of Charter School Admission Practices and Barriers
+to Growth
+Priority 3. Supporting a diverse
+Implementation of Title I/II-A Program Initiatives
+educator workforce and professional
+growth to strengthen student learning
+Implementation Evaluation of the Title III National
+Professional Development Program
+Impact Evaluation of Teacher Residency Programs
+Impact Evaluation to Inform the Teacher and School
+Leader Incentive Program
+Priority 4. Meeting student social,
+Evaluation of Title I Pilots That Provide Flexibility Under
+emotional, and academic needs
+the Every Student Succeeds Act
+Study of School Improvement Plans and Their
+Implementation
+Evaluation of Full-Service Community Schools
+Evaluating Implementation of the Statewide Family
+Engagement Centers Program
+National Evaluation of the 2019 Comprehensive Centers
+Program Grantees
+Page 8 of 74
+SPP
+Related Program Evaluations
+Evaluation of Preschool Special Education Practices
+Impact Evaluation of Departmentalized Instruction in
+Elementary Schools
+Impact Evaluation of Training in Multi-Tiered Systems of
+Support for Reading in Early Elementary School
+National Evaluation of the Comprehensive Literacy State
+Development (CLSD) Grant Program
+National Implementation Study of Student Support and
+Academic Enrichment Grants (Title IV, Part A)
+Study of Educational Policies, Supports and Practices for
+English Learners: Implementation of Title III, With a
+Focus on Social and Emotional Learning
+Priority 5. Increasing postsecondary
+Effectiveness of Promising Strategies in Federal College
+education access, affordability,
+Access Programs: A Study of Financial Aid Supports for
+completion, and post-enrollment
+GEAR UP Students
+success
+Evaluation of Transition Supports for Youth with
+Disabilities
+Evaluations of Federal Financial Aid Information and
+Delivery Strategies: An Experiment in the Federal Work
+Study Program to Encourage Student Jobs in the Private
+Sector
+Evaluations of Federal Financial Aid Information and
+Delivery Strategies: An Experiment Requiring Additional
+Loan Counseling for Student Borrowers
+National Evaluation of Career and Technical Education
+under Perkins V
+National Study of the Implementation of Adult Education
+Under the Workforce Innovation and Opportunity Act
+Assessing Evidence of Effectiveness in Adult Education
+Design Study
+Text Ed: A Study of Text Messaging to Improve College
+Enrollment Rates Among Disadvantaged Adults
+Page 9 of 74
+SPP
+Related Program Evaluations
+Priority 6. Strengthening cross-agency
+Evaluation of Full-Service Community Schools
+coordination and community
+engagement to advance systemic
+Evaluation of Promise Neighborhoods
+change
+Page 10 of 74
+Behavior and Attendance
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Evaluation of Full-Service Community Schools
+The Effects of a Systematic Approach to Improving Quality in Afterschool Programs: An Impact
+Evaluation to Inform the 21st Century Community Learning Centers (CCLC) Program; listed
+below in the School Improvement topic area.
+Page 11 of 74
+Evaluation of Full-Service Community Schools
+Priority Area
+Current Status
+Duration
+Priority 6.
+Strengthening cross-agency
+coordination and community
+Study design is being refined
+November 2019 - May 2024
+engagement to advance
+systemic change
+Background
+Children living in distressed communities face significant academic, social, and health challenges,
+many of which have been exacerbated by the coronavirus pandemic. The Full-Service Community
+Schools program aims to address these challenges by funding coordination and expansion of a
+comprehensive set of educational and developmental services for students, their families, and the
+broader community. Grants typically go to school districts and community-based organizations. Since
+2010, Congress has invested $55 million in the program, which is authorized by Title IV of the
+Elementary and Secondary Education Act. Congress also mandated an evaluation of the program,
+which this study will fulfill.
+Research Questions
+What are the effects of the Full-Service Community Schools grants or a core component of the
+grants on student outcomes?
+What services are offered by the grants, and how are they connected and coordinated? What
+challenges do grantees face, and how are they addressed?
+How many students and families are served by the grants and at what cost?
+Design and Analytic Considerations
+This study will assess the effects of Full-Service Community Schools as rigorously as possible. Among
+the study designs being considered are: A random assignment study of a future cohort of grantees; a
+study that compares the outcomes of prior grantees' schools to similar schools that did not receive a
+grant; or a random assignment study that measures the impact of a core component of Full-Service
+Community Schools. Data collection will include administrative records on student outcomes such as
+attendance, behavior, and achievement test scores, as well as grantee surveys and annual performance
+reports to describe program implementation.
+Publications and Products
+The report is expected in 2024 and will be announced on https://ies.ed.gov/ncee/.
+Page 12 of 74
+Early Learning
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Evaluation of Preschool Special Education Practices
+State and Local Implementation of the Individuals with Disabilities Education Improvement
+Act; listed below in the Students with Disabilities topic area.
+Page 13 of 74
+Evaluation of Preschool Special Education Practices
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+November 2013 -
+Efficacy trial is underway
+emotional, and academic needs
+November 2022
+Background
+Experiences in early childhood programs can help young children, including those with disabilities,
+develop skills important for classroom learning. But many children need help to strengthen their social-
+emotional skills and facilitate their engagement in classroom activities. Currently, there is limited
+evidence on how to effectively integrate these kinds of supports into the general curriculum,
+particularly in classrooms where children with disabilities are served alongside their peers as promoted
+by the Individuals with Disabilities Education Act (IDEA). The objectives of this evaluation are twofold:
+(1) to provide nationally representative descriptive information about preschool special education
+programs and the curricula or interventions being delivered to preschool children with disabilities, and
+(2) to assess the feasibility of a large-scale impact study by conducting an efficacy study piloting the
+integration of targeted instructional supports for children with disabilities with an evidence-based
+curriculum and promotes the language/literacy, and social-emotional skills of children with disabilities
+in inclusive preschool classrooms.
+Research Questions
+Which curricula and strategies are used nationally for preschool children with disabilities to
+promote learning of language, literacy, and social emotional skills?
+In what settings, and using what program structures, are these curricula and interventions
+being used with preschool children with disabilities?
+What level of implementation is achieved for the programs that integrate targeted instructional
+supports for children with disabilities with an evidence-based curriculum? Are teachers able to
+successfully implement a new approach that integrates targeted instructional supports for
+children who demonstrate risk for social-emotional delays or persistent behavior challenges
+with instruction for all children?
+What are the intervention program's impacts on the classroom environment and the social-
+emotional/behavioral skills and language outcomes of children in inclusive preschool
+classrooms? What are the impacts of this approach on the classroom environment and the
+social-emotional, behavioral, and language skills of children with and without disabilities
+inclusive preschool classrooms?
+Design and Analytic Considerations
+To help plan for the efficacy study, information was collected in spring/summer 2015 on the programs,
+curricula, and extra supports available to children ages 3 through 5 identified for special education
+services. This collection was based on surveys of state agency staff coordinating grants and services
+Page 14 of 74
+under IDEA Part B Section 619 and a nationally representative sample of district preschool special
+education coordinators. The study randomly assigned 34 inclusive preschool classrooms in 29 schools
+from three districts to either receive training and coaching support to implement the study's program
+integration approach or continue with the teachers' regular program and practices. The addition and
+integration of the programs began in classrooms in 2019. Although data on participating preschool
+students was to be collected for 2 school years, the coronavirus pandemic disrupted these activities and
+teachers' willingness to continue to participate in them. The efficacy's study's analyses will be based on
+documentation of training provided to teachers, classroom observations to assess how program
+components are being implemented, teacher surveys, and their rating of children's social skills.
+Publications and Products
+A
+series of tables describing the characteristics of preschool education services and practices was
+released in August 2020. See: https://ies.ed.gov/ncee/pubs/2020003/. The report for the efficacy
+study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 15 of 74
+English Learners
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Implementation Evaluation of the Title III National Professional Development Program
+Study of Data Disaggregation Initiative
+Study of Educational Policies, Supports and Practices for English Learners: Implementation of
+Title III, with a focus on Social and Emotional Learning
+Impact Study of English Learner Reclassification Policies (anticipated)
+Page 16 of 74
+Implementation Evaluation of the Title III National Professional
+Development Program
+Priority Area
+Current Status
+Duration
+Priority 3.
+Supporting a diverse educator
+workforce and professional
+Data collection is underway
+June 2020 - June 2022
+growth to strengthen student
+learning
+Background
+A key challenge for states and school districts nationwide is how to meet the demand for teachers with
+the knowledge and skills to support English learners' English proficiency and mastery of content
+knowledge. The National Professional Development (NPD) program, authorized by Title III of
+the Elementary and Secondary Education Act (ESEA), supports institutions of higher education in
+partnership with states and districts as they strive to meet this demand and improve classroom
+instruction for ELs. This evaluation will describe teacher preparation and professional development
+approaches used by NPD grantees, in order to add to what is known about strategies that may be
+promising to improve educator capacity to serve English learners. Such promising strategies may be
+evaluated in the future to determine their impact on teachers and students.
+Research Questions
+What are the goals of NPD-funded projects, and what strategies are grantees implementing to
+address those goals?
+What factors facilitate or hinder grantees' implementation of NPD program strategies? What
+challenges have grantees and participants identified to adequately prepare EL teachers in
+general?
+How have NPD grantees changed EL-related teacher preparation and professional
+development?
+What are pre-service and in-service educators' perceptions of the content and usefulness of the
+NPD-supported activities in which they participated?
+Design and Analytic Considerations
+Surveys of all 2016 and 2017 NPD grantees, a representative survey of NPD program participants, and
+interviews with state and LEA partners are being conducted in Spring/Summer 2021. The evaluation
+also draws on existing information from grantees' applications and annual performance data.
+Responses to survey questions will be tabulated into descriptive statistics (such as percentages) and
+simple statistical tests (such as tests for differences between percentages). A component of the study
+that will assess the feasibility and design of a future impact evaluation is based on interviews with about
+9 SEA grantees and 9 LEA subgrantees conducted in Winter 2019.
+Page 17 of 74
+Publications and Products
+The report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 18 of 74
+Study of Data Disaggregation Initiative
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+September 2020 - December
+Data collection is underway
+opportunities, and welcoming
+2021
+environments
+Background
+Because English learners (ELs) are a diverse group, looking at their academic achievement in the
+aggregate may hide important opportunities to identify challenges and target services to help particular
+subsets of them. In 2016, the Office of English Language Acquisition of the U.S. Department of
+Education awarded grants to three states - Minnesota, Hawaii, and Washington under the Asian
+American and Pacific Islander (AAPI) Data Disaggregation Initiative to examine this issue. The grants
+are intended to support state education agency (SEAs) efforts to refine their data systems by further
+disaggregating the AAPI EL students into smaller subgroups; and then using the more detailed data to
+improve instructional programs, initiatives, or other services. This evaluation will provide information
+about grantees' activities and challenges to help inform future policy and practice related to data
+disaggregation.
+Research Questions
+What data were collected and how? How were they analyzed? What hindered and/or facilitated
+data collection or analysis?
+How did states and districts use the disaggregated data to support improved instruction for
+ELs? What were the challenges to data usage? What activities did they report as being key?
+What is required to sustain and scale these efforts?
+Design and Analytic Considerations
+This descriptive study will focus on the experiences of the three states and their participating LEAs
+receiving the grants. Data are being collected in Spring/Summer 2021 and include interviews of: i) the
+state grantees, ii) about nine LEAs participating in the grant activities across those states, and iii)
+independent evaluators associated with each state grant and key partners such as community-based
+organizations, where applicable. The evaluation also draws on existing information from grantees'
+applications, annual performance data, and a review of information from the project-level evaluations,
+where available.
+Publications and Products
+The report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 19 of 74
+Study of Educational Policies, Supports and Practices for English
+Learners: Implementation of Title III, With a Focus on Social
+and Emotional Learning
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+September 2019 -
+Study design is being refined
+emotional, and academic needs
+September 2023
+Background
+English learners face disproportionate educational challenges because they must master subject-matter
+content while also developing English proficiency. Title III of the Elementary and Secondary Education
+Act (ESEA) provides funds to states and districts to help ELs attain English proficiency and to close the
+significant achievement gaps in reading and math between ELs and their non-EL peers. The 2015
+reauthorization of ESEA as the Every Student Succeeds Act (ESSA) made changes to federal policy
+related to ELs and state and district activities under Title III. This study will provide a national portrait
+of Title III under ESSA and the strategies states, districts, and schools use to meet the needs of ELs
+more generally. A particular focus will be on approaches to support social and emotional learning,
+given the challenges of engaging and serving ELs during the coronavirus pandemic.
+Research Questions
+What curricula, methods of instruction, and supports do districts and schools use to promote
+English proficiency and academic achievement for ELs?
+How are states and districts implementing statewide entrance and exit procedures and
+assessing students for EL status and English proficiency? How do these processes relate to the
+changed accountability provisions in ESSA for ELs?
+What strategies are states and districts using to improve EL educator effectiveness? What are
+the certification requirements to teach ELs in each state?
+What are the social and emotional learning needs of ELs and how do districts and schools
+identify and support those needs?
+Design and Analytic Considerations
+Surveys of all state Title III coordinators and nationally-representative samples of districts and schools
+were delayed due to the coronavirus pandemic. Some in-depth data is being collected in
+Spring/Summer 2021 but the surveys will be conducted in Spring 2022. The evaluation also draws on
+existing data, such as information from ESSA state plan and the U.S. Department of Education's
+Common Core of Data and the Civil Rights Data Collection. The study is descriptive and not designed
+to estimate the impact of federal policies on state and local actions.
+Page 20 of 74
+Publications and Products
+The first report will examine the role of EL students in schools' overall performance and in schools'
+ESSA accountability designation as needing improvement and additional support. The report is
+expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 21 of 74
+Literacy
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+National Evaluation of the Comprehensive Literacy State Development Grants
+Impact Evaluation of Training in Multi-Tiered Systems of Support for Reading in Early
+Elementary School
+Page 22 of 74
+National Evaluation of the Comprehensive Literacy State
+Development (CLSD) Grant Program
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+Report preparation is underway
+May 2018 - October 2023
+emotional, and academic needs
+Background
+Many U.S. students still do not acquire even basic literacy skills. Students living in poverty, students
+with disabilities, and English learners (ELs) are especially at risk. In fourth grade, the National
+Assessment of Educational Progress shows a substantial gap in reading achievement between students
+from high-income families (average score at about the 65th percentile) and students from low-income
+families (average score at about the 35th percentile). To narrow this gap, in 2011 the federal
+government launched the Striving Readers Comprehensive Literacy (SRCL) program under the Title I
+demonstration authority of the Elementary and Secondary Education Act (ESEA).
+The most recent reauthorization of the ESEA created a successor to SRCL, the Comprehensive Literacy
+State Development (CLSD) grant program. The CLSD Program awards competitive grants to SEAs that
+then provide subgrants to LEAs and early learning providers. Both the SRCL and CLSD programs intend
+subgrantees to implement evidence-based comprehensive literacy instruction. The ultimate goal of
+both programs is to advance literacy skills for students from birth through grade 12, with an emphasis
+on disadvantaged students. For both programs Congress mandated that a national evaluation be
+conducted.
+Research Questions
+Implementation Evaluation of SRCL
+How do SEAs make subgrant award decisions?
+What technical assistance do the SEAs provide to their subgrantees?
+How do the SEAs inform continuous improvement and evaluate subgrantees' projects?
+How do subgrantees target SRCL program awards to eligible schools and early learning
+programs?
+What literacy interventions and practices are used by SRCL schools and early learning
+programs?
+To what extent are SRCL-funded practices supported by evidence?
+What are the literacy outcomes for students in SRCL schools and early learning programs?
+Design and Execution of an Impact Study of CLSD
+Page 23 of 74
+What is the impact of the CLSD program or CLSD-funded practices on classroom reading
+instruction?
+What is the impact of the CLSD program or CLSD-funded practices on student reading
+outcomes?
+Design and Analytic Considerations
+The SRCL implementation evaluation includes grant application reviews, annual grantee interviews,
+surveys of all subgrantees in Spring 2019, surveys of principals and teachers in a representative sample
+of 500 funded schools in Spring 2019 and Spring 2020, and collection of state and local extant
+reading/language arts assessment data. The evaluation will also conduct evidence reviews of practices
+commonly funded by SRCL, and conduct observations and interviews to measure classroom
+instruction more in-depth in a sample of 100 classrooms in 50 schools.
+Plans are underway to conduct an impact study, building on earlier interviews conduct with about 9
+SEA grantees and LEA subgrantees in Winter 2019.
+Publications and Products
+The report for the SRCL implementation evaluation is expected in 2022 and will be announced on
+http://ies.ed.gov/ncee/.
+Page 24 of 74
+Impact Evaluation of Training in Multi-Tiered Systems of
+Support for Reading in Early Elementary School
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+Study design is being refined
+September 2018 - August 2024
+emotional, and academic needs
+Background
+A third of US students fail to develop foundational reading skills necessary to succeed academically,
+and students with disabilities (SWDs) do so at higher rates than their peers without disabilities.
+Stakeholders have increasingly turned to the implementation of multi-tiered systems of support for
+reading (MTSS-R) with the goal of addressing this issue. MTSS-R is a framework for providing high-
+quality reading instruction for all students to help prevent or mitigate reading issues, identifying
+students needing supplemental or more intensive supports such as those who have a specific learning
+disability, and providing these supports for those who need it.
+MTSS-R implementation is consistent with the goals of the Individuals with Disabilities Education Act of
+2004 (IDEA) and so has been promoted and supported by the U.S. Department of Education's Office of
+Special Education Programs. Almost all state education agencies encourage districts to implement
+MTSS-R and districts commonly report that they do. However, a recent ED-sponsored study found that
+schools are not universally implementing the model in ways that align with best practice. Improving
+educators' training on MTSS-R may be one way to strengthen its implementation and, ultimately, yield
+better outcomes for students.
+Research Questions
+What are the initial impacts of training in the implementation of multi-tiered systems of
+support for reading on school staff practice including the provision of early reading instruction
+and targeted supports?
+What is the impact of training in the implementation of multi-tiered systems of support for
+reading on student literacy? For students at risk of failing to develop foundational reading
+skills?
+Design and Analytic Considerations
+This is a randomized controlled trial to assess the impact of two MTSS-R training programs on school
+staff practice and student literacy outcomes in grades 1 and 2. Approximately 100 schools will be
+randomly assigned to either training in MTSS-R or a business-as-usual control group. The MTSS-R
+training will focus on four core components: (a) differentiated and explicit instruction for all students
+(Tier I), (b) evidence-based intervention for at-risk students (Tier II), (c) screening and progress
+monitoring to assign students to instructional tiers, and (d) MTSS-R infrastructure. Treatment schools
+will receive training and ongoing technical assistance in MTSS-R prior to and across two school-years,
+Page 25 of 74
+2020-2021 and 2021-2022, and implement MTSS-R across these two years. Implementation of the study
+was delayed due to the coronavirus pandemic.
+Data collection includes documentation of training delivery, a teacher survey, reading specialist survey,
+site visits, student records data, and individual student testing. These data will be collected across both
+implementation years and will be analyzed to answer the study's research questions.
+Publications and Products
+The first report for the study is expected in 2024 and will be announced on http://ies.ed.gov/ncee/.
+Page 26 of 74
+Parent Engagement
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Evaluating Implementation of the Statewide Family Engagement Centers Program
+Evaluation of Promise Neighborhoods
+Evaluation of Full-Service Community Schools; listed above in the Behavior and Attendance
+topic area.
+Page 27 of 74
+Evaluating Implementation of the Statewide Family Engagement
+Centers Program
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+September 2020 - September
+Study design is underway
+opportunities, and welcoming
+2022
+environments
+Background
+Despite the important role family engagement may play in children's educational progress, families
+below the poverty line are significantly less likely than others to be involved in their child's schooling.
+The Statewide Family Engagement Centers (SFEC) is one of the key U.S. Department of Education
+programs designed to close this gap. Funded for the first time in 2018, SFEC builds on an earlier
+program and provides grants to partnerships of education organizations and their states. The partners
+are expected to both deliver services directly to families to increase their engagement and to provide
+technical assistance and training to state, district, and school staff to help them help families. This
+study will describe the work of the first 12 grantees, focusing on the extent to which certain program
+priorities are being implemented. The results are intended to help federal policy makers refine the
+goals and objectives of the SFEC program, as well as inform the work of education organizations and
+state and local education agencies beyond the current grantees to improve their work with families.
+Research Questions
+What services do grantees prioritize?
+How do they decide which services or activities to provide?
+Whom do the grantees serve?
+What are grantees' greatest challenges in meeting the objectives of the grants, including how
+the coronavirus pandemic influenced the provision of services and activities?
+Design and Analytic Considerations
+This is a descriptive study, to better understand grantee implementation. Data will be collected
+primarily through surveys and follow-up interviews with the 12 SFEC grantee project directors and
+their 13 state counterparts in Fall/Winter 2021. Implementation of the study was delayed due to the
+coronavirus pandemic.
+Publications and Products
+The report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 28 of 74
+Evaluation of Promise Neighborhoods
+Priority Area
+Current Status
+Duration
+Priority 6.
+Strengthening cross-agency
+coordination and community
+Study design is being refined
+September 2018 - August 2024
+engagement to advance
+systemic change
+Background
+The federal Promise Neighborhoods program supports nonprofit organizations, institutions of higher
+education, Indian tribes, and their partners in providing comprehensive, coordinated services for
+children, their families, and others in distressed communities. The broad range of possible services and
+focus on coordination are meant to build a pipeline of educational and developmental supports from
+"cradle to career" for children and to benefit the community at large. These services may be directed at
+improving academic, social, health and mental health, family and community engagement, crime
+prevention and rehabilitation, and workforce readiness outcomes.
+The program, authorized under Title IV of the Elementary and Secondary Education Act (or ESEA, as
+amended by the Every Student Succeeds Act, ESSA), awarded its first grants in 2010. This first ever
+national evaluation of Promise Neighborhoods is mandated by ESSA.
+Research Questions
+What does Promise Neighborhoods look like in the field: What services are offered and by
+whom? How are services connected and coordinated? How many students and their families
+receive each service? What is the total cost per year per participant? What challenges do
+grantees face, and how are they addressed?
+How do the services compare to those offered prior to the Promise Neighborhoods grant and
+to those offered in other, similar neighborhoods without grants?
+Do children in Promise Neighborhoods have greater improvements in outcomes over time
+than children from other, similar neighborhoods without grants?
+Design and Analytic Considerations
+This study will describe how the program is implemented using surveys of grantees and data from
+grantees' annual reporting to the Department. The study will also compare outcomes in Promise
+Neighborhoods before and after the grant award to the same outcomes for other neighborhoods that
+were similar but not served by a Promise Neighborhood grant. The outcomes will be collected through
+state birth records (to identify children living in the neighborhoods over time) and administrative
+student records such as student test scores on state assessments, attendance, and high school
+graduation rates.
+Publications and Products
+Page 29 of 74
+The report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/
+Page 30 of 74
+Pathways to Career or College
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Effectiveness of Promising Strategies in Federal College Access Programs: A Study of Financial
+Aid Supports for GEAR UP Students
+National Evaluation of Career and Technical Education under Perkins V
+National Study of the Implementation of Adult Education Under the Workforce Innovation and
+Opportunity Act
+Text Ed: A Study of Text Messaging to Improve College Enrollment Rates Among Disadvantaged
+Adults
+Evaluations of Federal Financial Aid Information and Delivery Strategies: An Experiment
+Requiring Additional Loan Counseling for Student Borrowers
+Evaluations of Federal Financial Aid Information and Delivery Strategies: An Experiment in the
+Federal Work Study Program to Encourage Student lobs in the Private Sector
+Page 31 of 74
+Effectiveness of Promising Strategies in Federal College Access
+Programs: A Study of Financial Aid Supports for GEAR UP
+Students
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+access, affordability,
+Data collection is underway
+July 2020 - February 2023
+completion, and post-
+enrollment success
+Background
+Scholarships to support college enrollment and persistence can be critical for low-income students,
+including those in the high need schools that participate in Gaining Early Awareness and Readiness for
+Undergraduate Programs (GEAR UP). Providing scholarships distinguishes GEAR UP from other federal
+college access programs, but little is known about how and to whom state grantees distribute the aid.
+The 2008 Higher Education Act (HEA) changed some requirements for this GEAR UP component,
+restricting it in some ways but giving states more flexibility in other ways. HEA also requires the U.S.
+Department of Education to evaluate the scholarship component, a mandate this study will fulfill.
+Research Questions
+To what extent do state grantee policies and practices emphasize access to scholarships for
+GEAR UP students?
+How do state grantees allocate their resources between scholarships and other state and local
+GEAR UP efforts?
+What challenges do state grantees face in administering GEAR UP scholarships and other
+aspects of the program?
+Design and Analytic Considerations
+This descriptive study will focus on interviews with state grantee project directors and scholarship
+administrators, if relevant, who oversee approximately 42 state GEAR UP grants. The interviews are
+being conducted in Spring/Summer 2021. Data on the total number of students receiving scholarships
+and scholarship amounts, will also be collected. These data will be analyzed to address the study's
+three research questions.
+Publications and Products
+The report for this study is expected in 2022 and will be announced on https://ies.ed.gov/ncee/
+Page 32 of 74
+National Evaluation of Career and Technical Education under
+Perkins V
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+access, affordability,
+Study design is underway
+September 2019 - January 2024
+completion, and post-
+enrollment success
+Background
+Even with constant change in the nature of work and the economy, the education decisions students
+make today will influence their later career direction and success. Helping secondary and
+postsecondary students develop skills that have value in the workplace is the key goal of career and
+technical education (CTE). Congress has supported CTE for over a century, most recently through the
+reauthorization of the Carl D. Perkins Career and Technical Education Act in 2018 (Perkins V). Many
+provisions of the prior Perkins Act remain, but Perkins V includes some changes designed to: (1)
+enhance CTE program quality through new mechanisms for program improvement and labor market
+alignment, (2) increase flexibility in Perkins funding and accountability, and (3) promote equity by
+expanding exposure to and participation in CTE for all students. Perkins V requires IES to conduct this
+national evaluation to assess CTE programs under the new law.
+Research Questions
+How, and to what extent, does current CTE implementation reflect key policy goals and
+objectives of Perkins V? What challenges do State agencies and local recipients face in
+administering and delivering CTE services, particularly the newly introduced provisions in
+Perkins V?
+In what important ways has CTE implementation evolved since the prior version of the Perkins
+Act?
+How are CTE participation and outcomes changing?
+What is known about the effectiveness of CTE strategies and practices, particularly those that
+are allowable under Perkins V?
+Design and Analytic Considerations
+The national evaluation will draw on a variety of data sources and studies for its assessment of CTE,
+though the design is still being finalized. New surveys of all state directors of CTE and a nationally
+representative sample of district coordinators of CTE will be conducted in fall 2022 to collect
+information about Perkins implementation. Trends in CTE participation and outcomes will be obtained
+by analyzing other national data, including those from the National Center for Education Statistics,
+state-submitted Perkins V performance reports, and labor market repositories. To identify and report
+Page 33 of 74
+on the effectiveness of key CTE strategies, the evaluation will review rigorously conducted research,
+where it already exists, and consider conducting new studies of CTE approaches deemed most critical
+to the field's improvement.
+Publications and Products
+IES is required to report to Congress on results from the evaluation every two years. An interim report
+is currently due in 2021, a final report in 2023, and biennial updates are expected thereafter. These
+publications will be announced on https://ies.ed.gov/ncee/
+Page 34 of 74
+National Study of the Implementation of Adult Education Under
+the Workforce Innovation and Opportunity Act
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+access, affordability,
+Report preparation is
+September 2017 - March 2023
+completion, and post-
+underway
+enrollment success
+Background
+Higher-level skills are increasingly required to succeed in the American workforce, and yet many adults
+in the United States lack them. Over 25 million adults have not earned a high school diploma or GED.
+Even among those with at least a secondary credential, a lack of proficiency with the English language
+can be a significant barrier to a family-sustaining income and to full integration as citizens. Congress
+has sought to help individuals address these challenges-and the nation's workforce development
+needs-by providing funds for adult education. Most recently, Title II of the 2014 Workforce Innovation
+and Opportunity Act (WIOA) provides funding to States that fund local programs designed to assist
+adults in obtaining the education credentials, knowledge, and skills necessary for employment and
+economic self-sufficiency. The programs serve adults with varying levels of literacy, English
+proficiency, and educational attainment. The Fiscal Year 2017 appropriation for Title II was
+approximately $580 million. In Program Year 2015, 1,525,878 eligible individuals were served through
+programs receiving Title II funding.
+WIOA is a departure from its legislative predecessor (the Workforce Investment Act of 1998) in several
+ways. For instance, in specifying state and local responsibilities and program features, WIOA now
+includes a clearer link between adult education and workforce development, an expansion in
+opportunities to serve particular subpopulations of adults (such as English learners), and greater
+emphasis on performance accountability and program effectiveness information.
+WIOA mandates an independent national evaluation of adult education programs funded under Title II.
+A part of the national evaluation, this study is designed to provide implementation information on such
+programs, with a focus on how the changes contained in WIOA appear to be shaping the services
+provided by adult education programs and the populations such programs serve.
+Research Questions
+How - and to what extent - are the changes to adult education policies and practices promoted
+by WIOA being implemented?
+Beyond the changes to adult education promoted by WIOA, in what other important ways has
+implementation evolved since prior to the enactment of the law?
+What challenges do State agencies and local providers currently face in administering and
+delivering adult education services?
+Page 35 of 74
+Design and Analytic Considerations
+The study is descriptive and primarily involves collection and tabulation of data from surveys. It
+includes a survey of adult education State Directors and a survey of adult education providers in the
+states and the District of Columbia that received federal funds in program year 2018-2019. Some key
+findings from the provider survey will be compared with findings from an earlier national survey of
+providers, conducted in 2003. This will allow for an assessment of the extent to which adult education
+programs have evolved since prior to the enactment of WIOA. The study will also include analyses of
+extant data such as state- and provider-level data collected for the Office of Career, Technical and Adult
+Education's National Reporting System. This includes information on adult education programs
+funded, populations served, and participant outcomes achieved. This data will be used to provide
+further contextual information about adult education programs and populations.
+Publications and Products
+The study's first report is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 36 of 74
+Assessing Evidence of Effectiveness in Adult Education Design
+Study
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+access, affordability,
+Report preparation is
+September 2018 - December
+completion, and post-
+underway
+2027
+enrollment success
+Background
+Nearly 43 million U.S. adults lack the basic English literacy skills required to succeed in the workforce
+and achieve economic self-sufficiency. Title II of the Workforce Innovation and Opportunity Act (WIOA)
+of 2014 is the key federal effort to help adults acquire these and other important skills, as well as to
+earn a high school equivalency credential. WIOA encourages adult education programs to use
+evidence-based strategies to improve services and participant success, yet few strategies have rigorous
+research supporting them. Federal policy makers sought to fix this knowledge gap by mandating in
+WIOA that ED carry out an independent evaluation of adult education programs and services that
+includes identifying effective practices. As part of ED's National Assessment of Adult Education, this
+study examines evidence from existing studies of adult education strategies as well as designs new
+studies, with a particular focus on WIOA's new emphases for policy and practice.
+Research Questions
+What is known about the effectiveness of adult education strategies?
+What adult education strategies not already well-studied are feasible to examine with an impact
+study? How might those studies be designed?
+Design and Analytic Considerations
+A systematic evidence review was conducted to summarize findings from existing studies of adult
+education strategies and identify gaps in the knowledge base. Based on findings from this review,
+discussions with state and local stakeholders and other policy experts, and review of program
+documents, the study team identified two strategies for which measuring effectiveness would
+substantially benefit the field-training for career navigators and Integrated Education and Training
+programs for learners-and developed design options for impact studies. ED may elect to conduct
+studies of one or both of these strategies, beginning as early as 2021.
+Publications and Products
+A snapshot titled Adult Education Strategies: Identifying and Building Evidence of Effectiveness was
+released in April 2021. The next report from the study is expected in 2024 and will be announced
+on http://ies.ed.gov/ncee/.
+Page 37 of 74
+Text Ed: A Study of Text Messaging to Improve College
+Enrollment Rates Among Disadvantaged Adults
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+access, affordability,
+Data collection is underway
+August 2016 - November 2022
+completion, and post-
+enrollment success
+Background
+Postsecondary education is associated with later economic success, but individuals who are low
+income or potential first-generation college goers are less likely to enroll in college compared to their
+more advantaged peers. The U.S. Department of Education's Educational Opportunity Centers (EOCs)
+program-one of the federal TRIO programs-awards grants, typically to institutes of higher education,
+aimed at increasing the number of disadvantaged adults who enroll in postsecondary education. EOC
+grantees provide informational services related to college admissions and financial aid options. Each
+EOC serves a minimum of 1,000 individuals per year, with these individuals generally spread over a
+wide geographic area. In fiscal year 2015, the Department awarded 126 grants, totaling $46.6 million.
+On average, grantees spent $246 per participant.
+The study examines a promising strategy designed to help EOC grantees meet the program's goal of
+increasing college enrollment. It tests the effectiveness of a low-cost enhancement to grantee services-a
+systematic set of text messages that include timely, personalized information concerning college
+enrollment activities and deadlines, resources for overcoming common barriers to enrollment, and an
+easy way to connect EOC participants with center staff to answer questions and provide further
+assistance.
+Research Questions
+Does providing personalized text messages to EOC participants increase Free Application for
+Federal Student Aid (FAFSA) completion rates?
+Do the messages increase the likelihood of EOC participants enrolling in postsecondary
+education?
+Design and Analytic Considerations
+Eighteen EOC grantees are participating in the study. Within each grantee site, eligible participants
+were randomly assigned to receive either the grantee's typical services or the study's messages in
+addition to the grantee's typical services. About 3,600 participants were assigned on a rolling basis
+from Spring 2018 through Spring 2020. Participant background information, as well as information
+required for the customization of messages (for example, the postsecondary institution at which the
+participant wishes to enroll), are being obtained from grantee records. FAFSA completion will be
+measured using administrative records from the U.S. Department of Education for Fall 2018 through
+Page 38 of 74
+Fall 2020. Whether participants enroll in college will be measured based on National Student
+Clearinghouse records for Fall 2018 through Fall 2020.
+Publications and Products
+The report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/
+Page 39 of 74
+Evaluations of Federal Financial Aid Information and Delivery
+Strategies: An Experiment Requiring Additional Loan
+Counseling for Student Borrowers
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+access, affordability,
+Report preparation is
+September 2019-
+completion, and post-
+underway
+September 2022
+enrollment success
+Background
+Roughly two out of three students take out loans to pay for college, requiring them to make
+consequential decisions about how much to borrow and which type of loans. But many students lack
+the financial knowledge and skills to make good choices, underscored by the more than 500,000 who
+default on their loans each year. Colleges can only require federal loan borrowers to complete short,
+one-time counseling before receiving their loans ("entrance") and when they leave school ("exit"). To
+help these borrowers manage their debt, the Office of Federal Student Aid (FSA), under the
+Experimental Sites Initiative authorized by section 487A(b) of the Higher Education Act of 1965, is
+allowing colleges to require student borrowers to participate in additional annual loan counseling in
+the years between the already-mandated entrance and exit counseling. The Institute of Education
+Sciences is assessing the effectiveness of these waivers on students' borrowing and college progress
+and, later, loan repayment.
+Research Questions
+What types of colleges participated in the Loan Counseling Experiment and what kinds of
+additional loan counseling did they require?
+Are student borrowers who receive three years of additional loan counseling more likely than
+their peers who do not receive additional loan counseling to take loans with better terms,
+borrow an affordable amount, and persist in college?
+Do the effects of requiring three years of additional loan counseling vary by key characteristics
+of the students, the colleges they attend, or the kind of counseling provided?
+Design and Analytic Considerations
+A total of 39 colleges volunteered to participate in the Loan Counseling Experiment. These schools
+estimated identifying approximately 100,000 students who were eligible to participate in the
+experiment between the 2017-2018 and 2018-2019 financial aid award years. Students were randomly
+assigned to either complete the additional required loan counseling (once per year) or not complete
+any additional counseling. Participating colleges had discretion over the content, and delivery of the
+loan counseling they could require, and reported on it through an annual survey conducted by FSA.
+Page 40 of 74
+Students' borrowing and school progress are being measured using administrative records from the
+Office of Federal Student Aid (FSA).
+Publications and Products
+The study report is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 41 of 74
+Evaluations of Federal Financial Aid Information and Delivery
+Strategies: An Experiment in the Federal Work Study Program
+to Encourage Student Jobs in the Private Sector
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+access, affordability,
+September 2020-
+Study design is being refined
+completion, and post-
+September 2023
+enrollment success
+Background
+Most students work while enrolled in postsecondary education, but the jobs are more likely to connect
+to students' course of study or longer-term professional goals if they are higher-income. To help
+address this inequity, the Office of Federal Student Aid (FSA) is conducting an experiment to test the
+effects of granting colleges flexibility in how they carry out the Federal Work Study (FWS) program.
+FWS provides participating colleges over $1 billion to support employment of college students with
+financial need to help pay education expenses. Currently about 92 percent of FWS dollars are spent
+supporting students in on-campus employment that may not be related to their career goals, and few
+colleges use FWS funds for off-campus, private sector job development. Under the Experimental Sites
+Initiative authorized by section 487A(b) of the Higher Education Act of 1965, colleges are receiving
+waivers to allow them to increase the share of FWS funds used to develop off-campus employment and
+support students in those jobs, including full-time work required by their academic program (such as
+clinical rotations or student teaching). The Institute of Education Sciences is assessing whether
+participating in the FWS experiment changes colleges' use of job development funds, the number of
+off-campus private sector jobs, and student wages.
+Research Questions
+What types of colleges participated in the Federal Work Study (FWS) Experiment, which FWS
+rules did they waive, and how did they implement those waivers?
+How does student participation in FWS compare to participation before the FWS experiment
+and to participation in other similar FWS colleges not in the experiment?
+Do FWS students in colleges implementing the waivers engage in more private sector
+employment, earn higher wages in FWS jobs, complete college at higher rates, or borrow less
+in student loans than do those in similar colleges not implementing the waivers?
+Design and Analytic Considerations
+This study has two parts. The first describes the participating colleges and students, and how colleges
+implemented the FWS waivers using surveys of participating colleges and data from annual reporting
+to the Office of Federal Student Aid (FSA). The second part uses a quasi-experimental design to
+Page 42 of 74
+compare the differences in outcomes in participating colleges before and after the implementation of
+FWS waivers to changes in outcomes over the same period in other colleges that are similar but not
+participating in the FWS experiment. Outcome measures will be collected from FSA's student
+administrative records and annual reporting of campus-based program expenditures.
+Publications and Products
+The study's first report is expected in 2023 and will be announced on http://ies.ed.gov/ncee/
+Page 43 of 74
+School Choice
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Evaluating the DC Opportunity Scholarship Program After the 2017 Reauthorization
+Impact Study of Magnet Schools
+Study of Charter School Admission Practices and Barriers to Growth
+Page 44 of 74
+Evaluating the DC Opportunity Scholarship Program After the
+2017 Reauthorization
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+Data collection is underway
+January 2019-October 2026
+opportunities, and welcoming
+environments
+Background
+The DC Opportunity Scholarship Program (OSP) provides low-income students in Washington, DC with
+scholarships to attend one of the district's participating private schools. The OSP is the nation's only
+federally funded private school voucher program.
+This third congressionally-mandated evaluation of the OSP intends to use different research
+methodologies and address different issues than the ones that came before. The previous evaluations
+(completed in 2011 and soon in 2019) relied on lotteries to award private school scholarships, creating
+the conditions for a random assignment study to determine the effectiveness of the program. Together,
+those earlier evaluations raised some questions about how well the program was improving student
+achievement and parent and student satisfaction with their schools. The current study reflects the
+prohibition on using lotteries for evaluation in the 2017 reauthorization of the OSP and interest in
+understanding how the program works and could be improved. The study includes analysis of program
+implementation and student outcomes.
+Research Questions
+What role does the program operator play in the OSP and how is their work carried out?
+What is the experience of applying for a scholarship and to participating private schools? Who
+uses/or doesn't use vouchers once one is offered and why?
+What is the experience using an OSP voucher? What are the challenges encountered and the
+supports available for overcoming them?
+What are the characteristics of teachers and the instruction they provide in the participating
+private schools versus in the public schools OSP users would otherwise attend?
+How do students using OSP vouchers to attend private schools perform and progress on math
+and reading assessments?
+How do parents of students using OSP vouchers and the students themselves rate their
+children's school in terms of safety and satisfaction?
+Design and Analytic Considerations
+Page 45 of 74
+The evaluation relies on a variety of data sources and collection methods, including interviews with the
+program operator, surveys of participating parents and schools, and collection of academic assessment
+information from schools for participating students to track their progress over time.
+Publications and Products
+The study's first report is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 46 of 74
+Impact Study of Magnet Schools
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+Data collection is underway
+September 2017 - May 2024
+opportunities, and welcoming
+environments
+Background
+Decades after the Supreme Court declared racial segregation in public schools to be unconstitutional,
+concentration in schools by race, ethnicity, and poverty persists. The federal Magnet Schools
+Assistance Program (MSAP) supports districts and schools in their efforts to reduce group isolation and
+improve student achievement through increased school choice options for families. MSAP schools seek
+to attract a diverse set of students and provide high quality academic programs, typically by organizing
+recruitment and instruction around one or more themes. With growth in school choice more broadly
+and specifically in magnet schools since 2000, it is important to understand how well these federally-
+funded schools achieve their goals and how they work. This evaluation takes advantage of new
+opportunities to rigorously assess MSAP schools but with low burden. It draws on lotteries most MSAP
+districts now use to admit students to their magnet schools. By comparing the achievement and school
+characteristics of applicants who were and were not given a seat by chance, the study will determine
+the impact of the MSAP and examine how specific school features relate to effectiveness.
+Research Questions
+What is the impact of the magnet programs on student achievement and/or other relevant
+measures of student success such as persistence in school or graduation?
+What is the impact of the magnet program on the characteristics of the schools that the
+students attend, including whether they are higher performing or more diverse?
+Are particular features of magnet schools associated with greater success?
+Design and Analytic Considerations
+This impact evaluation includes over 14,500 students who entered MSAP admissions lotteries in 2018
+or 2019 in 11 districts. Data are being collected for both students who were and were not offered
+placement, including district records containing student characteristics, enrollment, test scores, and
+other information, and a survey of students' school principals about school organization and
+instruction. The academic progress and experiences of students in the two groups will be compared for
+the four years following their admissions lottery (through 2023).
+Publications and Products
+A snapshot, titled Drawing Across School Boundaries: How Federally Funded Magnet Schools Recruit and
+Admit Students, was released in January 2021. The next report, on school diversity, is expected in 2023 and
+will be announced on http://ies.ed.gov/ncee/.
+Page 47 of 74
+Study of Charter School Admission Practices and Barriers to
+Growth
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+September 2019 -
+Study design is being refined
+opportunities, and welcoming
+September 2022
+environments
+Background
+Policy makers are interested in understanding why charter school growth has recently slowed,
+especially given the more than $400 million annual federal investment in expanding the sector. For
+example, the number of new charter schools increased by 7 percent for the 2012-13 and 2013-14 school
+years but by only 3 percent for the 2015-16 and 2016-17 school years, with enrollment mirroring the
+trend. At the same time, there are reports that many charter schools have more applications than
+available seats. This study will examine where demand is greatest, how schools admit students when
+they cannot serve all those interested, and barriers to growth among charter schools both supported
+and not supported by the U.S. Department of Education's Charter Schools Program (CSP).
+Research Questions
+How often are charter school admissions part of a larger choice process? What proportion
+participate in common applications and unified lotteries that include other charter schools
+and/or other choice options?
+When charter schools have more applicants than they can admit, how do they use admission
+preferences? Which schools have demand? How do these schools prioritize particular
+students, if at all?
+What barriers to expansion do charter schools face?
+Design and Analytic Considerations
+This study will be descriptive, based on a new nationally-representative survey of 2,000 charter
+schools that are funded and not funded by the CSP. The survey has been postponed until 2022 due to
+the coronavirus pandemic.
+Publications and Products
+The report for the study will be published in 2023 and announced on http://ies.ed.gov/ncee/.
+Page 48 of 74
+School Improvement
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Evaluation of Title I Pilots That Provide Flexibility Under the Every Student Succeeds Act
+Impact Evaluation of Departmentalized Instruction in Elementary Schools
+Implementation of Key Federal Policies in the Wake of the Coronavirus Pandemic
+Implementation of Title I/II-A Program Initiatives
+National Implementation Study of Student Support and Academic Enrichment Grants (Title IV,
+Part A)
+Study of District and School Uses of Federal Education Funds
+Study of School Improvement Plans and Their Implementation
+The Effects of a Systematic Approach to Improving Quality in Afterschool Programs: An Impact
+Evaluation to Inform the 21st Century Community Learning Centers (CCLC) Program
+Evaluation of Promise Neighborhoods; listed above in the Parent Engagement topic area.
+Impact Study Using Technology to Accelerate Math Learning (anticipated)
+Page 49 of 74
+Evaluation of Title I Pilots That Provide Flexibility Under the
+Every Student Succeeds Act
+Priority Area
+Current Status
+Duration
+Priority 4.
+September 2019 -
+Meeting student social,
+Data collection is underway
+February 2024
+emotional, and academic needs
+Background
+Academic assessments can ideally serve multiple important purposes: diagnosing what students know
+to tailor instruction, assessing school performance for accountability, and monitoring both students
+and schools for improvement. To encourage the development of innovative assessments that better
+serve all of these purposes, the Innovative Assessment Demonstration Authority (IADA) program was
+created in 2015 to allow the U.S. Department of Education to exempt states from certain federal testing
+requirements if they agree to pilot new types of assessment systems. Congress mandated an evaluation
+of IADA. The evaluation will chart pilot sites' progress and identify lessons learned for developing and
+implementing alternative assessments.
+Research Questions
+Why are states developing an innovative assessment system, and how are they expecting the
+system to accomplish their goals? How does the system compare to their existing assessments?
+Have states' innovative assessment systems been implemented with fidelity and met the core
+requirements of the federal pilot program after three years? To what extent have teachers,
+principals, and other school leaders demonstrated a commitment and capacity to implement
+the innovative assessment system?
+What were the key challenges to developing an innovative assessment system, piloting it, and
+scaling it up? How were the challenges addressed, and how did participation in the federal pilot
+program facilitate or impede the process?
+How have districts, schools, and teachers perceived and adapted to the innovative assessment
+system? How have practices related to instruction, professional development, and burden
+under the innovative assessment system compared to practices under the states' existing
+assessments?
+Design and Analytic Considerations
+This implementation study will focus on the four pilot states: Louisiana and New Hampshire (approved
+in 2018); Georgia and North Carolina (approved in 2019). The study will be based on states' IADA
+applications and annual progress reporting, interviews with state assessment directors and surveys of
+participating districts, schools, and teachers.
+Publications and Products
+The first report for the study is expected in 2022 and will be announced on https://ies.ed.gov/ncee/.
+Page 50 of 74
+Impact Evaluation of Departmentalized Instruction in
+Elementary Schools
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+Report preparation is
+September 2017 -
+emotional, and academic needs
+underway
+September 2022
+Background
+The Elementary and Secondary Education Act, most recently reauthorized in 2015 as the Every Student
+Succeeds Act (ESSA), supports efforts to deploy the educator workforce efficiently and effectively. One
+promising strategy is departmentalized instruction, where each teacher specializes in teaching one
+subject to multiple classes of students instead of teaching all subjects to a single class of students (self-
+contained instruction). Departmentalization is nearly ubiquitous in secondary schools, but has only
+recently become more common in upper elementary schools. Despite the growing popularity of this
+approach to organizing teachers' instruction, virtually no evidence exists on its effectiveness relative to
+the more traditional self-contained approach. This evaluation was originally intended to fill the gap by
+examining the impact of departmentalizing fourth and fifth grade teachers in a large number of low-
+performing elementary schools across the country. However, the coronavirus pandemic disrupted the
+implementation of departmentalization in participating schools and the schools' administration of state
+assessments of student achievement that the study intended to draw on. Instead, the study will
+describe lessons learned in switching to this way of organizing teachers in schools.
+Research Questions
+How do schools structure departmentalization?
+What challenges and benefits do principals and teachers perceive in switching from self-
+contained classrooms to departmentalization?
+Design and Analytic Considerations
+A total of 90 elementary schools in 12 districts across the country were recruited to participate in the
+study. All schools were using self-contained classrooms during the 2018-19 school year. Beginning with
+the 2019-20 school year, approximately half of these schools chose to switch to departmentalized
+instruction in fourth grade and fifth grade (treatment), while the remaining schools chose to continue
+with self-contained classrooms (comparison). The study will collect data from principal interviews, to
+learn how teacher assignments were made and departmentalization was structured, and teacher
+surveys to examine their perceptions of and approaches to departmentalization.
+Publications and Products
+The report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 51 of 74
+Implementation of Key Federal Policies in the Wake of the
+Coronavirus Pandemic
+Priority Area
+Current Status
+Duration
+Priority 1.
+Addressing the impact of
+COVID-19 on students,
+Report preparation is underway
+April 2020 - March 2022
+educators, and faculty
+Background
+The coronavirus pandemic continued to significantly disrupt K-12 educational systems across the
+country during the 2020-21 school year. State agencies and local leaders appear to be taking
+unprecedented action in the wake of the pandemic to manage continuity in school operations, tackle
+learning loss, and address concerns about increasing equity gaps for particularly vulnerable students.
+This quick turnaround study focuses on how education officials carried out, and were supported by,
+federal policies like those associated with the Every Student Succeeds Act (ESSA) and the Coronavirus
+Aid, Relief, and Economic Security (CARES) Act.
+Research Questions
+How did the coronavirus pandemic affect key school operations during the 2020-21 school
+year?
+How is the pandemic influencing ESSA implementation?
+How is CARES Act funding being used to support recovery?
+To what extent are states and districts addressing equity in their recovery efforts?
+Design and Analytic Considerations
+The study is descriptive. It is based on Spring 2021 surveys of state representatives from all 50 states,
+the District of Columbia, and Puerto Rico and a nationally representative survey of 550 school districts.
+Publications and Products
+The study's report is expected in 2022 and will be announced on https://ies.ed.gov/ncee/
+Page 52 of 74
+Implementation of Title I/II-A Program Initiatives
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+September 2011 -
+Study design is being refined
+opportunities, and welcoming
+September 2023
+environments
+Background
+Each time the Elementary and Secondary Education Act (ESEA) is reauthorized there is a shift in
+federal policies related to K-12 schooling, including in ESEA's two core programs. Accounting for about
+$19 billion of $26 billion in ESEA funds in fiscal year 2020, Title I and Title II-A encourage equal access
+to education by providing financial assistance to schools and districts with a high percentage of
+students from low-income families (Title I) and by improving teacher and principal quality (Title II-A).
+ESEA's latest reauthorization as the Every Student Succeeds Act (ESSA) in 2015 shifts authority over
+many education decisions and rules from the U.S. Department of Education (the Department) to states
+and localities. The new law also retains some federal requirements from prior versions of ESEA to help
+ensure that states focus on providing a high-quality education to disadvantaged students. How states
+and localities respond to this combination of flexibility and requirements will determine whether ESSA
+stimulates educational improvement as intended.
+This study provides a national portrait of Title I and Title II-A implementation at several key time
+points:
+2013-14, when the Department had already begun to provide states with waivers from key
+requirements under ESSA's predecessor, the No Child Left Behind (NCLB) Act, in exchange for
+commitments to specific reform principles, colloquially known as "ESEA flexibility.'
+2017-18, when the Department approved most states' ESSA plans, marking a transition year to
+fully implementing ESSA's core components.
+2020-21, the first full school year following the initial COVID-19 pandemic, which may affect
+state and local plans for implementing ESSA.
+2021-22, when ESSA implementation is expected to be in a more mature phase.
+Research Questions
+What content standards and high school graduation requirements are states adopting, and
+what materials and resources are provided to support implementation?
+What types of assessments do states and districts use, and what materials and resources are
+provided to support the implementation of assessments and use of assessment data?
+What elements are included in states' accountability systems? How do states and districts
+identify and support their lowest-performing schools?
+Page 53 of 74
+How do states and districts evaluate educator effectiveness and assess equitable distribution of
+educators, and what supports are provided to improve educator effectiveness?
+How has student achievement changed over time?
+Design and Analytic Considerations
+National data will be collected at times that correspond to the key points described earlier. In any year,
+these data may include surveys of all state Title I and Title II coordinators and nationally-representative
+samples of districts, schools, and teachers. The evaluation also draws on existing data, such as state-
+level student academic proficiency that states report to the Department, state-level math and reading
+achievement data from the Department's National Assessment of Educational Progress, and
+information from ESSA state plans.
+Responses to survey questions will be tabulated into descriptive statistics (such as percentages) and
+simple statistical tests (such as tests for differences between percentages). These tabulations provide a
+snapshot at each time point, as well as aggregate changes over time. The study is descriptive and not
+designed to estimate the impact of federal policies on state and local actions.
+Publications and Products
+The first report, titled Implementation of Title I and II-A Program Initiatives: Results from 2013-14, was
+released in January 2017.
+A snapshot, titled How States and Districts Support Evidence Use in School Improvement, was released
+in June 2020.
+The second report, titled The Transition to ESSA: State and District Approaches to Implementing Title I
+and Title II-A in 2017-18, was released in December 2020.
+A restricted-use file containing de-identified data is available for the purposes of replicating study
+findings and secondary analysis.
+Additional reports and snapshots are expected to be published in 2021 and 2024 and will be announced
+on http://ies.ed.gov/ncee/.
+Page 54 of 74
+National Implementation Study of Student Support and
+Academic Enrichment Grants (Title IV, Part A)
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+Study design is being refined
+June 2019 - August 2023
+emotional, and academic needs
+Background
+Changes to education law in 2015 consolidated several programs to give states and districts greater
+flexibility in how they use federal funds. The resulting Student Support and Academic Enrichment
+grant program (Title IV, Part A of the Elementary and Secondary Education Act of 1965, amended by
+the Every Student Succeeds Act (ESSA)) tries to maintain the different purposes of the original
+programs by prioritizing and requiring spending in three broad areas: (1) providing students with
+a
+well-rounded education, (2) ensuring a positive school environment, and (3) improving and
+personalizing learning through technology. The new law also requires districts to consult with
+stakeholders, distribute Title IV-A funds to high-need schools and, in certain instances, to conduct
+comprehensive needs assessments and use evidence from research to pick strategies to fund. This
+evaluation will assess how this new program is being carried out across the country, particularly the
+ways in which it supports school systems as they seek to recover from the coronavirus pandemic
+during the 2021-2022 school year.
+Research Questions
+What guidance and technical assistance did states provide to districts to assist in local
+implementation of the Title IV-A program?
+How do districts decide how to use Title IV-A funds?
+What are the primary services and activities districts are implementing with Title IV-A funds?
+Design and Analytic Considerations
+The study is descriptive. It will be based on a survey of Title IV-A coordinators from all 50 states, the
+District of Columbia, and Puerto Rico and a nationally representative survey of Title IV-A coordinators
+in 1,200 school districts.
+Publications and Products
+The study's report is expected in 2023 and will be announced on https://ies.ed.gov/ncee/
+Page 55 of 74
+Study of District and School Uses of Federal Education Funds
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+Data collection is underway
+October 2019-March 2024
+opportunities, and welcoming
+environments
+Background
+Federal funds, which account for less than 10 percent of K-12 education spending nationally, can play
+an important role, particularly in communities that are lower-income or have lower-performing
+schools. Although each federal education program has unique goals and provisions, they often allow
+funds to be used for similar purposes and services or overlapping populations. Congress provided state
+and local education agencies greater flexibility in their use of federal funds through the 2015
+reauthorization of the Elementary and Secondary Education Act (ESEA). Congress also created the
+Coronavirus Aid, Relief, and Economic Security (CARES) Act to provide funding and flexibilities for
+states and districts to respond to the COVID-19 emergency in K-12 schools.
+Policymakers remain interested in how federal dollars are spent. This study will examine how funds
+are distributed and used from the CARES Act as well as five major federal education programs: Part A
+of Titles I, II, III, and IV of ESEA, and Title I, Part B of the Individuals with Disabilities Education Act
+(IDEA). Together, the non-CARES Act programs account for about 80 percent of total funding for the
+Department's elementary-secondary programs, or $32 billion.
+Research Questions
+Where does the money go? To what extent are federal funds - including those from the
+CARES Act - reaching the districts and schools with the greatest needs?
+What do federal programs add? How much do the federal programs in this study increase
+the level of per-pupil funding over what is provided through state and local sources? How does
+this vary across districts and schools?
+What does the money buy? To what extent do districts and schools use federal funds for
+instructional staff, professional development, technology, student support services, and other
+resources? How does spending from federal funds differ from state and local spending? How do
+local agencies use funding from different sources to support, for example, the education of
+students with disabilities?
+To what extent do districts make use of flexibilities provided through ESEA, IDEA, and
+the CARES Act?
+Design and Analytic Considerations
+This descriptive study will collect detailed fiscal data from the data systems of a nationally
+representative sample of 400 school districts, including revenue, expenditure, and personnel and
+payroll data, for up to four consecutive school years: 2018-19, 2019-20, 2020-21, and 2021-22. In
+Page 56 of 74
+addition, the study will collect data on federal funding allocations from states to school districts and
+from districts to schools, and conduct interviews in a smaller set of districts to examine how districts
+and schools use various funding sources to meet the needs of students with disabilities.
+Publications and Products
+The first report is expected in 2021 and will be announced on http://ies.ed.gov/ncee/
+Page 57 of 74
+Study of School Improvement Plans and Their Implementation
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+Study design is being refined
+October 2019-March 2023
+emotional, and academic needs
+Background
+Decades of educational reforms have demonstrated that turning around the lowest-performing schools
+in the U.S. remains a complex challenge. Federal policies, including the Every Student Succeeds Act
+(ESSA) of 2015, seek to boost these efforts by requiring that states identify those schools needing
+comprehensive support and improvement (CSI), have them create a plan for improvement, and
+provide additional support to help the schools expand capacity and student progress. Compared with
+prior laws, ESSA allows states and districts greater flexibility to shape their approach to school
+improvement. This study will examine implementation of ESSA's CSI provisions in order to understand
+how states, districts, and schools are responding to the new requirements.
+Research Questions
+To what extent have states altered the number and types of schools identified for significant
+support after ESSA's flexibilities were phased in?
+In what ways do the identified CSI schools organize instruction and services differently other
+schools? How are states and school districts monitoring implementation?
+Do CSI schools receive and use resources differently than other schools?
+Design and Analytic Considerations
+This descriptive study will examine existing U.S. Department of Education data on schools identified
+for significant support before and after ESSA, as well as data on a nationally representative sample of
+CSI schools collected as part of other IES studies.
+Publications and Products
+A first report, describing the number and characteristics of CSI schools, is expected in 2022. The study's
+final report is expected in 2023 and will be announced on http://ies.ed.gov/ncee/
+Page 58 of 74
+The Effects of a Systematic Approach to Improving Quality in
+Afterschool Programs: An Impact Evaluation to Inform the 21st
+Century Community Learning Centers (CCLC) Program
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+Recruitment is underway
+July 2019 - June 2025
+opportunities, and welcoming
+environments
+Background
+The time students spend outside of school hours, including after school, can be important
+opportunities for their social and academic development. The 21st CCLC program intends to provide
+these opportunities by funding a broad range of academic enrichment activities in community learning
+centers, particularly for students from disadvantaged backgrounds. But little is known about the extent
+and diversity of recent program activities, or whether a systematic approach to support program
+quality could improve staff practices and student outcomes. This evaluation will produce a national
+picture of funded program activities and program improvement efforts and evaluate the effectiveness
+of a continuous quality improvement system aimed at improving staff practices to support students'
+social and emotional skills.
+Research Questions
+What are the impacts of the studied continuous quality improvement system on 21st CCLC
+afterschool centers' staff practices? What are the impacts on students' social and emotional
+skills and other school-related student outcomes?
+What are the challenges with implementing the continuous quality improvement system, and
+how are they addressed?
+What are the activities and services offered by 21st CCLC afterschool centers? How are they
+staffed and supported to meet local needs?
+Design and Analytic Considerations
+To assess the effectiveness of the continuous quality improvement (CQI) system, approximately 100
+21st CCLC afterschool centers will be recruited to participate in an impact study. Half of the
+participating centers will be selected by lottery to implement the CQI system supported by the study
+for two school years, and half will continue their normally planned program. The impact study will
+compare staff practices and student outcomes for the two groups of centers. Information also will be
+collected on program operations and staff training and experiences with the CQI system. Data
+collection includes afterschool center director interviews, an afterschool staff survey, observations of
+Page 59 of 74
+program quality at each center, student survey and afterschool attendance records, administrative
+school records, and a school-day teacher survey. The national picture of program activities will be
+based on a survey of a nationally representative sample of 250 21st CCLC afterschool centers.
+Publications and Products
+The study's report is expected in 2023 and will be announced on https://ies.ed.gov/ncee/
+Page 60 of 74
+Students with Disabilities
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Evaluation of Transition Supports for Youth with Disabilities
+State and Local Implementation of the Individuals with Disabilities Education Improvement Act
+Evaluation of Preschool Special Education Practices; described above in the Early Learning
+topic area.
+Impact Evaluation of Training in Multi-Tiered Systems of Support for Reading in Early
+Elementary School; listed above in the Literacy topic area.
+Impact Evaluation of Training and Assistance for Staff Supporting Students with Disabilities in
+the General Education Classroom (anticipated)
+Page 61 of 74
+Evaluation of Transition Supports for Youth with Disabilities
+Priority Area
+Current Status
+Duration
+Priority 5.
+Increasing postsecondary
+education access, affordability,
+Study design is being refined
+September 2019 - May 2022
+completion, and post-
+enrollment success
+Background
+Students with disabilities continue to lag their peers in high school graduation, enrollment in
+postsecondary education, and employment more than a decade after the 2004 reauthorization of the
+Individuals with Disabilities Education Act (IDEA). A central goal of IDEA is to help students with
+disabilities prepare for their transition from secondary school to further education, work, and
+independent living. To achieve this goal, IDEA requires the provision of transition services focused on
+improving students' academic and functional achievement in accordance with their individualized
+education program. Although studies suggest the importance of certain types of preparation for
+students with disabilities, there is limited evidence about the effectiveness of those or other strategies
+to promote post high school outcomes.
+Research Questions
+What is known about the effectiveness of transition strategies? And for whom?
+How might an impacts evaluation of a promising transition strategy be designed?
+Design and Analytic Considerations
+The study will summarize available evidence on the effectiveness of transition supports and interview
+transition stakeholders to identify promising transition strategies and methods for studying them. ED
+will make a decision by 2021 about conducting an impact study based on this work.
+Publications and Products
+The systematic evidence review is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 62 of 74
+State and Local Implementation of the Individuals with
+Disabilities Education Improvement Act
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+access to educational resources,
+Study design is being refined
+September 2017 - March 2024
+opportunities, and welcoming
+environments
+Background
+The Individuals with Disabilities Education Improvement Act of 2004 (IDEA) is the most recent
+reauthorization of a law passed in 1975 to promote a free appropriate public education for children
+with disabilities. Funded at $12.9 billion in FY 2017, IDEA supports early intervention services for
+infants and toddlers identified as having a disability or at risk of substantial developmental delay. IDEA
+also supports special education and related services for children and youth ages 3 through 21 identified
+as having a disability, as well as coordinated early intervening services for children and youth who are
+not identified as needing special education but who need additional support to succeed in a general
+education environment.
+This evaluation will provide a more current picture of state agency and school district implementation
+of IDEA, building on a study conducted in 2009. Since then, new court decisions were issued, other
+educational legislation has been passed, and new regulations and guidance have been released by the
+Office of Special Education Programs in the U.S. Department of Education, including a requirement
+that states use a standardized methodology to determine disproportionality in the identification,
+placement, and discipline of students with disabilities based on race or ethnicity. Finally, the
+knowledge base on effective and promising policies and practices has grown. All of these shifts could
+influence the context and implementation of special education and early intervention in ways that will
+be important to understand when IDEA is reauthorized.
+Research Questions
+How do states and districts identify infants, toddlers, children, and youth for early intervention
+and special education services? How do they measure disproportionate identification and what
+policies and practices have been implemented with the goal of addressing disproportionate
+identification?
+What policies and programs do states and districts have in place to support infants, toddlers,
+children, and youth identified for early intervention or special education services? How have
+these policies and programs changed over time?
+To what extent do states and districts rely on evidence on the effectiveness of policies,
+programs, and supports for infants, toddlers, children, and youth with disabilities?
+Page 63 of 74
+How do states and districts allocate resources - including funding and personnel - to support
+infants, toddlers, children, and youth with disabilities?
+What types of supports do schools provide to children and youth with disabilities to support
+their academic and behavioral learning, both within and outside of general education
+classrooms?
+Design and Analytic Considerations
+Data collection included surveys of state administrators from all states, the District of Columbia, and
+territories receiving IDEA funding, as well as surveys of a nationally representative sample of school
+districts and schools during the 2019-20 school year. The data from these surveys are being analyzed to
+describe policies and practices in a series of reports.
+Publications and Products
+The first report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 64 of 74
+Teachers and Leaders
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Impact Evaluation of Teacher Residency Programs
+Impact Evaluation to Inform the Teacher and School Leader Incentive Program
+Impact Study of Feedback for Teachers Based on Classroom Videos
+Page 65 of 74
+Impact Evaluation of Teacher Residency Programs
+Priority Area
+Current Status
+Duration
+Priority 3.
+Supporting a diverse educator
+workforce and professional
+Recruitment is underway
+September 2019 - June 2025
+growth to strengthen student
+learning
+Background
+Teacher residency programs are rapidly increasing in popularity, as a potential way to address
+persistent inequities in student access to high quality teachers. This form of teacher preparation
+combines coursework with extensive on-the-job training in schools under the guidance of experienced
+mentors. The programs also place new graduates in hard-to-staff positions, most often in the same low-
+income or lower-performing districts where they trained. This approach may be promising, as
+underscored by recent changes in the federal Every Student Succeeds Act (ESSA) which now allows
+states and districts to use Title II funds to support teacher residencies. But so far there is little evidence
+that they are more successful than other ways of preparing teachers to work in high need schools. This
+study will provide an in-depth description of all current teacher residency programs in the United
+States and provide the first large-scale assessment of the effectiveness and retention of teachers from
+these programs.
+Research Questions
+Are residency graduates more effective and do they remain in teaching longer than teachers
+prepared by non-residency preparation programs?
+What explains any differences in teacher effectiveness and retention between residency and
+non-residency program graduates?
+What are the core features and strategies used to prepare teachers across residency programs?
+Design and Analytic Considerations
+To estimate the effectiveness and retention of residency graduates, the evaluation will randomly assign
+approximately 8,400 students to classes taught by 350 teachers from residency or non-residency
+preparation programs. This will ensure that the residency and non-residency graduates teach similar
+students under similar circumstances, so that comparing student achievement and tenure in teaching
+for the two groups provides a reliable measure of the residency training's effectiveness. Data collected
+will include teacher surveys, classroom observations, and administrative records (including student
+assessments) to describe differences in the preparation experiences, satisfaction, teaching practices,
+and retention of residency and non-residency graduates and their students' achievement. Interviews
+with the directors of all 140 residency programs across the country will inform the description of
+program features.
+Publications and Products
+Page 66 of 74
+The first report for the study, the description of residency programs nationally, is expected in 2022 and
+will be announced on http://ies.ed.gov/ncee/.
+Page 67 of 74
+Impact Evaluation to Inform the Teacher and School Leader
+Incentive Program
+Priority Area
+Current Status
+Duration
+Priority 3.
+Supporting a diverse educator
+workforce and professional
+Site recruitment is underway
+September 2018 - August 2023
+growth to strengthen student
+learning
+Background
+Effective school leadership and teaching are at the heart of school improvement. Human capital
+management - the way in which a district makes and implements preparation, recruitment, hiring,
+placement, retention, dismissal, compensation, professional development, and tenure and promotion
+decisions - can play an important role in supporting effective educators. The purpose of the Teacher
+and School Leader Incentive (TSL) program is to develop and implement performance-based
+compensation systems or human capital management systems to improve student achievement.
+Grantees plan to implement multiple strategies, with a role for teacher leaders being the one strategy
+that is the most common among the 2017 awards. This mandated evaluation will provide
+implementation information from all 2017 grantees, with particular attention to teacher leader
+selection, roles, and supports. In addition, the study will estimate the impact on student achievement
+and teacher satisfaction and retention of using teacher leaders to improve student achievement.
+Research Questions
+What are the implementation experiences of the 2017 TSL grantees toward the end of their
+three years with funding? What are their educator satisfaction, recruitment and retention
+experiences with TSL, particularly among those grantees funding teacher leader roles?
+What is the effect on student achievement, educator satisfaction, recruitment, and retention of
+a teacher leader role strategy? Is the teacher leader strategy cost effective?
+Design and Analytic Considerations
+The evaluation will first provide information about implementation of the TSL program, based on a
+summer 2020 survey of all 14 TSL grantees receiving awards in 2017. In addition, about 80 schools are
+participating in an impact evaluation of funding teacher leaders to support their peers using activities
+similar to that funded within the TSL grantees. For the impact study, data collection will include:
+teacher and principal surveys to collect program implementation information as well as educator
+satisfaction and teacher recruitment activities and outcomes; teacher leader activity forms to provide
+information about teacher leader roles and activities; teacher and principal school assignment records
+to look at mobility and retention; and student administrative records to look at student outcomes.
+Publications and Products
+The first report for the study is expected in 2022 and will be announced on http://ies.ed.gov/ncee/.
+Page 68 of 74
+Impact Study of Feedback for Teachers Based on Classroom
+Videos
+Priority Area
+Current Status
+Duration
+Priority 3.
+Supporting a diverse educator
+workforce and professional
+Report preparation is
+September 2016 - July 2022
+growth to strengthen student
+underway
+learning
+Background
+Helping teachers be as effective as possible remains a key national priority, given their role in student
+success. Classroom management and instructional practices are foundational to effective teaching, but
+mostly a struggle for lower-performing teachers and those early in their career to do well. This is
+particularly problematic because these teachers disproportionately work in high-need schools where
+strong teaching is essential to close student achievement gaps. This study will expand the currently
+limited evidence on how to improve teacher practices to increase student achievement. It evaluates
+one promising strategy - individualized written feedback and coaching based on videos of classroom
+teaching. Using videos has the benefit of allowing the coach to show the teacher his or her own practice
+during the feedback session. Because coaching can be costly, the study tested and will provide
+information about the effectiveness of differing amounts of coaching.
+Research Questions
+Is this kind of written feedback and one-on-one coaching based on videos of their classroom
+practices effective? Does it have an impact on teaching practices and student achievement?
+Does more intensive coaching produce better results? Are both 5 rounds and 8 rounds of
+feedback effective at similar levels and what is the implication for cost-effectiveness?
+Design and Analytic Considerations
+The effectiveness study included approximately 350 fourth- or fifth-grade teachers in over 100
+elementary schools from 14 districts across the country. Schools were randomly assigned into three
+groups, with their teachers receiving either 8 rounds of coaching, 5 rounds of coaching, or no coaching
+from the study. Teachstone was selected through a competition to provide the virtual coaching largely
+because their program, My Teaching Partner, already had some evidence of effectiveness in a smaller-
+scale study. Data collection included: Teachstone's online platform and coach logs to provide
+information on implementation; a teacher survey to gather information on teacher characteristics and
+professional development experiences; teacher observations to provide information about classroom
+practice; and administrative records to assess students' state math and English language arts
+achievement for school years 2017-18 and 2018-19.
+Publications and Products
+Page 69 of 74
+The report for the study, which will examine the impact of the intervention for teachers, is expected in
+2021 and will be announced on http://ies.ed.gov/ncee/.
+Page 70 of 74
+Technical Assistance
+Significant Evaluations
+The Department has the following significant evaluations that will include work in Fiscal Year 2022:
+Evaluation of Investing in Innovation
+National Evaluation of the 2019 Comprehensive Centers Program Grantees
+Evaluation of the Regional Educational Laboratories Program, 2022-2027 Cycle (anticipated)
+Page 71 of 74
+Evaluation of Investing in Innovation
+Priority Area
+Current Status
+Duration
+Priority 2.
+Promoting equity in student
+Report preparation is
+access to educational resources,
+September 2010 - December
+underway
+opportunities, and welcoming
+2021
+environments
+Background
+The Investing in Innovation (i3) Fund, established by the American Recovery and Reinvestment Act of
+2009 (ARRA), awarded competitive grants to school districts and nonprofits to implement and evaluate
+educational interventions to improve student academic outcomes. This unique "tiered evidence"
+program awarded three different kinds of grants with the funding amounts aligned to the strength of
+the prior evidence supporting the proposed intervention as well as the scale of implementation
+proposed by grantees. Because learning about the effectiveness of the funded interventions was a key
+i3 priority, the Institute of Education Sciences (IES) is conducting an Evaluation of i3 that (1) provides
+comprehensive technical assistance to local evaluators for all grantees, and (2) summarizes both the
+quality of and findings from the evaluations. This IES evaluation includes the 172 i3 grantees who
+received in total more than $1.4 billion across seven cohorts of grants from 2010 through 2016.
+Research Questions
+Were the i3 evaluations strong?
+Did the i3 evaluations find the interventions to be implemented with adequate fidelity?
+Did the i3 evaluations find the interventions improved student academic outcomes?
+Design and Analytic Considerations
+The IES evaluation's technical assistance to the grantees' independent evaluators is comprehensive and
+customized to the interventions and to the evaluators' designs and capacities. A separate team reviews
+the quality of the evaluations designed and carried out by the grantee evaluators to determine whether
+they meet several criteria used to define a strong study and summarizes the results of the i3
+evaluations.
+Publications and Products
+The final report of the project, titled The Investing in Innovation Fund: Summary of 67 Evaluations,
+was released in June 2018.
+Data files containing publicly-available information on the impact and implementation findings from
+the i3 grants whose evaluations are included in the 2018 report are available for the purposes of
+secondary analysis.
+Page 72 of 74
+An overview of what was learned from the i3 program, including updates to the summary tables and
+exhibits in the June 2018 report, is expected in 2021.
+Page 73 of 74
+National Evaluation of the 2019 Comprehensive Centers
+Program Grantees
+Priority Area
+Current Status
+Duration
+Priority 4.
+Meeting student social,
+September 2020 - September
+Study design is being refined
+emotional, and academic needs
+2022
+Background
+The 2015 update to the federal law governing K-12 schooling gave state (SEAs) and local education
+agencies (LEAs) increased responsibilities, and, therefore, extra demands on their time and
+capabilities. The Comprehensive Centers program, funded by the U.S. Department of Education at over
+$50 million per year, provides training, tools, and other supports to help these agencies carry out their
+education plans and take steps to close achievement gaps. The Centers' services aim to build individual
+and organizational capacity to help identify and solve key problems. This evaluation will examine the
+delivery and usefulness of the Centers' technical assistance, given potential new stakeholder needs and
+changes in the Center program that took effect with the 20 new grants awarded in in 2019. Congress
+requires a periodic evaluation of the Comprehensive Centers program, with the results intended to
+inform ongoing program improvements.
+Research Questions
+What key educational problems are the Comprehensive Centers addressing?
+What capacity-building services are Comprehensive Centers providing and what types of
+capacity are these services designed to increase?
+What are the successes and challenges of program changes, including the shift in the number
+and geographic reach of the centers and new requirements to increase collaboration with the
+Department's Regional Educational Laboratories?
+How can the outcome of the Comprehensive Centers - improving state and local agency
+capacity - be measured accurately, validly, and reliably?
+Design and Analytic Considerations
+The descriptive study will be based on document reviews, surveys and interviews of SEA and LEA staff,
+and interviews with Comprehensive Center and REL project directors. The study team will develop
+measures of SEA capacity by reviewing existing survey and assessment items that gauge similar
+concepts, interviewing stakeholders, and conducting pilot testing with SEA and district stakeholders.
+Publications and Products
+The study's report is expected in 2022 and will be announced on http://ies.ed.gov/ncee/
+Page 74 of 74

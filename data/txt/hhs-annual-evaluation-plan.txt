@@ -1,0 +1,1475 @@
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Background and Introduction
+The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) intends to improve
+decision-making for federal programs and policy development by requiring a transparent, question-
+driven approach to evidence development and analysis.
+The Department of Health and Human Services (HHS) is a large, decentralized agency with 11 operating
+divisions, 11 staff divisions, and 10 regional offices whose programs and policies impact the lives of
+nearly every American. Understanding the evaluation, research, and analysis efforts and coordinating
+plans across the Department is a significant undertaking and is
+conducted by the Office of the Assistant Secretary for Planning and
+Evaluation (ASPE). In particular, through the Evaluation Officer, ASPE
+The Evaluation Plan is
+plays a significant leadership role, especially for evaluation and
+designed to include
+evidence-building activities.
+significant evaluations,
+and the statute gives
+Evaluation and analysis provide essential evidence for HHS to
+discretion to agencies
+understand how its programs work, for whom, and under what
+to determine how to
+circumstances. HHS builds evidence through evaluation and analysis in
+define "significant".
+order to inform decisions in budget, legislative, regulatory, strategic
+For purposes of this
+planning, program, and policy arenas. Given the breadth of work
+plan, HHS has defined
+supported by HHS, many evaluations and analyses are conducted each
+"significant" as
+year. These efforts range in scope, scale, design, and methodology, but
+evaluation activities
+all aim to understand the effect of programs and policies and how they
+that support
+can be improved.
+answering questions
+Across HHS, evaluation comes in many forms, including:
+from the HHS
+Evidence-Building Plan.
+Program evaluations using the most rigorous designs
+appropriate;
+Evaluations of pilots and demonstrations; and
+Statistical analyses of factors related to health and human services outcomes.
+ASPE coordinates the HHS evaluation community by regularly convening the HHS Evidence and
+Evaluation Policy Council (the Council), which builds capacity by sharing best practices and promising
+new approaches across HHS. The Council predates the Evidence Act and is made up of senior evaluation
+staff and subject matter experts from each agency within HHS. The Council meets monthly to address
+issues related to evidence-building and evaluation policies or activities across HHS, with a recent focus
+on Evidence Act implementation activities, especially within Title I. ASPE tasked the Council with
+developing guidance for Operating and Staff Divisions regarding contributions to the HHS Evidence-
+Building and Evaluation Plans. Based on the contributions from Operating and Staff Divisions, ASPE
+developed this Evaluation Plan.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Commitment to Scientific Integrity
+OMB's standards for program evaluations note that Federal evaluations must produce findings that
+Federal agencies and their stakeholders can confidently rely upon, while providing clear explanations of
+limitations: they are to be conducted in accordance with principles of scientific integrity. In addition to
+the program evaluation standards and practices issued by OMB and the subsequent HHS Evaluation
+Policy, the release of recent memoranda and guidance are providing HHS with additional support and
+direction for ensuring the scientific integrity of agency evaluations and evidence-building activities. The
+Presidential Memorandum, Restoring Trust in Government Through Scientific Integrity and Evidence-
+Based Policymaking, and OMB Memorandum, Evidence-Based Policymaking: Learning Agendas and
+Annual Evaluation Plans, require that scientific integrity principles be incorporated into agency
+evidence-building plans and annual evaluation plans. This OMB memorandum, together with OMB
+guidance and HHS policies, affirm that evaluations are scientific activities and as such, require the use of
+appropriate methods, which can include a broad range of approaches; independence from undue
+influence; and processes that ensure integrity and quality. These recent requirements will contribute to
+improved evaluation and evidence-building activities in HHS and will guide the development and
+conduct of evaluations in accordance with the principles and foundations for scientific integrity.
+Further demonstrating the Department's commitment to scientific integrity, the Chief Data Officer,
+Evaluation Officer, and Statistical Official of HHS are developing a joint statement of commitment to
+scientific integrity in support of HHS's work and in fulfillment of the HHS mission to enhance the health
+and well-being of all Americans, by providing for effective health and human services and by fostering
+sound, sustained advances in the sciences underlying medicine, public health, and social services.
+What is this document?
+As part of the Evidence Act, HHS is required to submit "an evaluation plan describing activities the
+agency plans to conduct pursuant to [its evidence-building plan]." This Annual Evaluation Plan is one
+of
+several required Title I products, including the 4-year Evidence-Building Plan (also referred to as the
+Learning Agenda), a Capacity Assessment, and an agency Evaluation Policy. The Evaluation Plan is
+designed to include significant evaluations, and the statute gives discretion to agencies to determine
+how to define "significant" For purposes of this plan, HHS has defined "significant" as evaluation
+activities that support answering questions from the HHS Evidence-Building Plan. The evaluations
+contained in this plan serve as interim activities contributing to the goals outlined in the 4-year HHS
+Evidence-Building Plan.
+The FY 2023 Evaluation Plan priority areas are aligned with the goals and objectives of the HHS Strategic
+Plan and the Evidence-Building Plan, as shown in the table below. These division-level evaluations
+support cross-cutting issues, major department-level goals, and time sensitive priority issues. In addition
+to division-level activities, departmental evaluations laid out in this evaluation plan can be bolstered by
+the alignment with the 4-year HHS Strategic Plan and this Evidence-Building Plan. Specifically, the 4-year
+plans support and coordinate efforts of divisions in achieving key priorities of HHS, especially related to
+research and evidence programs, policies, capacity-building, resource needs, and agency processes.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+All activities described in this document are subject to the availability of appropriations. This definition
+for significance is consistent across all evaluations included in the plan; however, each division may have
+considered additional criteria in selecting evaluations for inclusion in this plan.
+Evaluation Plan Priority
+FY2022-2026 HHS Strategic Goal
+Area
+Healthcare
+Protect and Strengthen Equitable Access to High Quality and
+Affordable Healthcare
+Public Health
+Safeguard and Improve National and Global Health Conditions and
+Outcomes
+Human Services
+Strengthen Social Well-being, Equity, and Economic Resilience
+Research and Evidence
+Restore Trust and Accelerate Advancements in Science and
+Research for All
+Management
+Advance Strategic Management to Build Trust, Transparency, and
+Accountability
+Plan Development
+A subcommittee of the Council provided input on the Evaluation Plan development process, including
+instructions, which were used to collect information on significant evaluations across the department
+planned for or ongoing during FY 2023. For the purposes of this plan, HHS Divisions were asked to list up
+to five significant evaluations that were ongoing in or planned for FY 2023. As a result, this plan includes
+examples of significant evaluation activities, which can be found in the Evaluations section at the end of
+this document.
+HHS Priority Areas and Significant Evaluations
+The evaluations included in this document are planned efforts that are subject to receiving appropriate
+approvals and resources and are subject to change. As shown in the Evaluations section at the end of
+this report, some evaluations fall into multiple priority areas and address multiple evaluation questions.
+That section also provides information about the data to be used, methodological approaches,
+anticipated challenges and mitigation strategies, and dissemination plans.
+Evaluation Priority Area 1: Healthcare
+HHS works to protect and strengthen equitable access to high quality and affordable healthcare.
+Increasing choice, affordability, and enrollment in high-quality healthcare coverage is a focus of the
+Department's efforts in addition to reducing costs, improving quality of healthcare services, and
+ensuring access to safe medical devices and drugs. HHS also works to expand equitable access to
+comprehensive, community-based, innovative, and culturally-competent healthcare services while
+addressing social determinants of health. The Department is driving the integration of behavioral health
+into the healthcare system to strengthen and expand access to mental health and substance use
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+disorder treatment and recovery services for individuals and families. HHS also bolsters the health
+workforce to ensure the delivery of quality services and care. This evaluation priority area aligns with
+the HHS Strategic Plan goal: Protect and Strengthen Equitable Access to High Quality and Affordable
+Healthcare
+Healthcare Evaluation Activities
+Six Divisions across HHS are conducting evaluations in this area.
+Contributing Division
+Activity Title
+ACL
+Process and Outcome Evaluation of the National Paralysis Resource Center (NPRC)
+ASPE
+Evaluation of the Certified Community Behavioral Health Clinic Demonstration
+CDC
+Rigorous Evaluations of Telehealth Strategies to Address Hypertension Management
+and Control
+CDC
+Ending Epidemics: Drug Overdoses-Overdose - Data to Action Cross-Site Evaluation
+CMS
+Maternal Opioid Misuse (MOM) Model Evaluation
+CMS
+Integrated Care for Kids (InCK) Model Evaluation
+CMS
+Evaluation of the Value-Based Insurance Design (VBID) Model
+HRSA
+Behavioral Health Workforce Supply
+SAMHSA
+Internal Formative Evaluation of the Projects for Assistance in Transition from
+Homelessness (PATH)
+Populations impacted by the evaluations contained in this plan for this priority area include mothers,
+individuals with disabilities, children, the behavioral health workforce, individuals experiencing
+homelessness, and those recovering from substance use disorders. In some cases, multiple divisions are
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+evaluating programs targeting the same populations. For example, the SAHMSA summative program
+evaluation of Strategic Prevention for Prescription Drugs and the CDC Overdose Data to Action both
+target individuals with substance use disorders.
+Evaluation activities under this priority area aim to improve services, assess intervention effectiveness,
+advance telehealth capabilities, support behavioral health clinics, support the behavioral health
+workforce, and improve healthcare quality and access.
+Evaluation methods include process evaluations, outcome evaluations, impact studies, implementation
+studies, retrospective analyses, and mixed methods and quasi-experimental designs. The activities
+utilize existing HHS data, including claims data, programmatic data, program performance data, and
+area-level measures such as the Area Health Resource File. Existing data from other sources may include
+state Medicaid claims, secondary data bases such as epidemiologic surveillance databases, survey data,
+and electronic health records. Additional data will be collected through interviews, surveys, progress
+reporting, administrative data collection, and focus groups, among other approaches.
+Evaluation Priority Area 2: Public Health
+HHS is dedicated to safeguarding and improving health conditions and health outcomes for everyone.
+The Department improves capabilities to predict, prevent, prepare for, respond to, and recover from
+emergencies, disasters, and threats, domestically and abroad. The Department protects individuals,
+families, and communities from infectious disease and prevents non-communicable disease through the
+development and equitable delivery of effective, innovative, readily available treatments, therapeutics,
+medical devices, and vaccines. HHS promotes healthy behaviors to reduce the occurrence of and
+disparities in preventable injury, illness, and death. The Department also mitigates the impacts of
+environmental factors, including climate change, on health outcomes. This evaluation priority area
+aligns with the Strategic Plan goal: Safeguard and Improve National and Global Health Conditions and
+Outcomes
+Public Health Evaluation Activities
+HHS plays a significant role in both the American and global public health infrastructure and advances.
+The COVID-19 Pandemic has highlighted the importance of public health and the widespread impact of
+public health policies, programs, and decisions on individuals and entities, including governments,
+schools, and private businesses. That said, HHS invests substantially in developing strong, timely, and
+rigorous evidence supporting ongoing and changing public health conditions.
+Three divisions across HHS are conducting evaluations focused on topics such as the National Hospital
+Preparedness Program, food safety, hypertension management and control, the opioid epidemic, the
+Strategic Prevention for Prescription Drugs Program, and the Garrett Lee Smith Youth Suicide Prevention
+and Early Intervention Program. Specifically, evaluations contained in this document aim to evaluate the
+National Healthcare Preparedness Program, improve telehealth resources, and monitor programs
+focused on empowering at-risk populations, among others.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Contributing Division
+Activity Title
+CDC
+Rigorous Evaluations of Telehealth Strategies to Address Hypertension Management
+and Control
+CDC
+Evaluation of the Preventive Health and Health Services (PHHS) Block Grant
+CDC
+Ending Epidemics: Drug Overdoses-Overdose - Data to Action Cross-Site Evaluation
+FDA
+Food Safety Modernization Act (FSMA) Program Evaluation
+HRSA
+Ryan White HIV/AIDS Program (RWHAP) Special Projects of National Significance
+(SPNS): Improving Care and Treatment Coordination: Focusing on Black Women with
+HIV
+Many public health evaluations target the entire American population. However, some activities have a
+narrower focus, such as on youth or individuals with hypertension. Additionally, some activities
+incorporate equity by assessing health disparities across sub-populations and focusing on building
+evidence to reduce observed differences, such as evaluating how telehealth shapes access to health
+services for underserved populations.
+Evaluation methods include retrospective studies, mixed methods and quasi-experimental designs, and
+comparative case evaluations, among others. Additional activities may include literature reviews, policy
+analysis, and secondary data analysis. The evaluations will utilize existing HHS data, including
+administrative data, programmatic data, annual progress reports, dashboards including the FDA Food
+Safety Dashboard, and surveillance data such as the CDC National Outbreak Reporting System (NORS).
+Data from other sources may include epidemiologic surveillance data, provider data such as from health
+centers, electronic health records, and more. Finally, these evaluations collect new data through
+interviews, focus groups, surveys, administrative data collection, and other methods as needed.
+Evaluation Priority Area 3: Human Services
+HHS works to strengthen the economic and social well-being of Americans across the lifespan. HHS
+provides effective and innovative pathways leading to equitable economic success for all individuals and
+families. The Department strengthens early childhood development and expand opportunities to help
+children and youth thrive equitably within their families and communities. HHS expands access to high-
+quality services and resources for older adults and people with disabilities and their caregivers to
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+support increased independence and quality of life. HHS also increases safeguards to empower families
+and communities to prevent and respond to neglect, abuse, and violence, while supporting those who
+have experienced trauma or violence. This evaluation priority area aligns with the HHS Strategic Plan
+goal: Strengthen Social Well-being, Equity, and Economic Resilience.
+Human Services Evaluation Activities
+Four divisions are conducting evaluations to assess programs like child welfare, Temporary Assistance
+for Needy Families, Medicaid innovation models, Healthy Start, and grant programs like the National
+Paralysis Resource Center.
+Contributing Division
+Activity Title
+ACF
+Supporting Evidence Building in Child Welfare
+ACF
+Building Evidence on Employment Strategies for Low-Income Families
+ACL
+Process and Outcome Evaluation of the National Paralysis Resource Center (NPRC)
+CMS
+Maternal Opioid Misuse (MOM) Model Evaluation
+CMS
+Integrated Care for Kids (InCK) Model Evaluation
+HRSA
+Healthy Start (HS) Evaluation & Capacity Building Support
+Human services evaluations focus on a variety of populations, including mothers, children, individuals
+with disabilities, and low-income families. Evaluations support HHS programs and policies related to
+underserved communities, child welfare, services for individuals with disabilities, maternal health, and
+health equity, among others. Notably, ACF, CMS, and HRSA will all be conducting evaluations of
+maternal and child health programs. The significant focus on health equity is salient throughout the
+evaluations contained in this plan and is especially salient among human services-focused activities,
+such as the CMS Evaluation of the Maternal Opioid Misuse Model, which seeks to improve outcomes
+and reduce costs for pregnant and postpartum women enrolled in Medicaid with opioid use disorder
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+and their infants. The evaluation seeks to build the evidence base for what works best for treating
+pregnant women with opioid use disorder.
+Approaches include mixed-methods evaluations, process evaluations, outcome evaluations,
+descriptive/formative evaluations, case studies, and quasi-experimental designs. Supporting activities
+may include literature reviews, cost analyses, descriptive analyses, and policy analyses, among others.
+Most evaluations contained in this plan utilize a mixed-methods evaluation approach. For example,
+using a statistical analysis of claims data and participant focus groups to evaluate the Integrated Care for
+Kids Model or web-based grantee and stakeholder surveys and participant enrollment information to
+evaluate the Healthy Start program.
+These evaluations will utilize existing HHS data, data from external sources, and develop new data.
+Existing HHS data will include National Directory of New Hires data, grant application and reports data,
+and Medicaid and Medicare data, among others. Key data held by other sources include state and local
+administrative data, such as for the Temporary Assistance for Needy Families Program data, vital health
+records data, and child welfare administrative data. As needed, new data will be collected through
+surveys, interviews, focus groups, structured observation, site assessments, and site visits.
+Evaluation Priority Area 4: Research and Evidence
+HHS is dedicated to restoring trust and accelerating advancements in science and research. The
+Department is prioritizing science, evidence, and inclusion to improve the design, delivery, and
+outcomes of HHS programs. It is investing in the research enterprise and the scientific workforce to
+maintain leadership in the development of innovations that broaden our understanding of disease,
+healthcare, public health, and human services resulting in more effective interventions, treatments, and
+programs. Strengthening surveillance, epidemiology, and laboratory capacity is another major focus to
+better understand and equitably address diseases and conditions. HHS is also increasing evidence-based
+knowledge through improved data collection, use, and evaluation efforts to achieve better health
+outcomes, reduced health disparities, and improve social well-being, equity, and economic resilience.
+This evaluation priority area aligns with the HHS Strategic Plan goal: Restore Trust and Accelerate
+Advancements in Science and Research for All.
+Research and Evidence Evaluation Activities
+HHS is dedicated to the mission of enhancing the health and well-being of all Americans, by providing for
+effective health and human services and by fostering sound and sustained advances in the sciences
+underlying medicine, public health, and social services. Five divisions across HHS are conducting
+evaluations in this area.
+These evaluations address programs across HHS, including child welfare, patient centered outcomes
+research, Quality Improvement and Innovation Contracts, the Ryan White HIV/AIDS program, and the
+TAKEheart Initiative.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Contributing Division
+Activity Title
+ACF
+Supporting Evidence Building in Child Welfare
+AHRQ
+TAKEheart Initiative
+CDC
+DSEPD Fellowship Diversity Recruitment Evaluation
+CMS
+Network of Quality Improvement and Innovation Contractors (NQIIC) Independent
+Evaluation
+HRSA
+Ryan White HIV/AIDS Program (RWHAP) Special Projects of National Significance
+(SPNS): Improving Care and Treatment Coordination: Focusing on Black Women with
+HIV
+NIH
+Evaluative Planning and Monitoring Approach for the Environmental influences on
+Child Health Outcomes (ECHO)-wide Cohort
+The evaluation activities in this area address topics such as the use and application of evidence, grant-
+making processes, certification programs, outcomes of scientific initiatives, quality improvement and
+innovation, fellowship recruitment and workforce development. For the most part, these evaluations
+focus on grantees, providers, and communities, rather than individual beneficiaries.
+Approaches include mixed-methods evaluations, multi-site evaluations, and case studies using both
+qualitative and quantitative methods. Supporting activities may include literature reviews, cost analyses,
+descriptive analyses, and policy analyses. The activities utilize existing HHS data, including program
+administrative data, claims data, provider performance measures, grant applications, and survey data.
+They also incorporate external data such as electronic health records, child welfare data, Handshake and
+Zoom platform data, HIV surveillance data, and more. Finally, these evaluations collect new data
+through surveys, interviews, and focus groups.
+Evaluation Priority Area 5: Management
+HHS is dedicated to advancing strategic management across the Department to build trust,
+transparency, and accountability. A major focus of the Department is promoting effective enterprise
+governance to ensure programmatic goals are met equitably and transparently across all management
+practices. HHS sustains strong financial stewardship of resources to foster prudent use of resources,
+accountability, and public trust. HHS works to uphold effective and innovative human capital resource
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+management, resulting in an engaged, diverse workforce with the skills and competencies to accomplish
+the HHS mission. The Department also ensures the security of HHS facilities, technology, data, and
+information, while advancing environment-friendly practices. This evaluation priority area aligns with
+the HHS Strategic Plan goal: Advance Strategic Management to Build Trust, Transparency, and
+Accountability.
+Management Evaluation Activities
+HHS prioritizes effective management of HHS resources, programs, and policies through coordinated
+efforts across the Department as well as through division-level initiatives. Two divisions across HHS are
+conducting evaluations in this area.
+Contributing Division
+Activity Title
+ACL
+Evaluating the Degree to Which ACL services Adhere to the Culturally and
+Linguistically Appropriate Services (CLAS) Standards
+CMS
+Network of Quality Improvement and Innovation Contractors (NQIIC) Independent
+Evaluation
+As with other priority areas, addressing major management priorities and challenges requires division-
+level and cross-department activities. These evaluations seek to understand the extent to which data
+are used for policy and program development, identify problematic practices and structures, develop
+research agendas, build and strengthen programmatic and operational evaluation capacity, assess
+effectiveness of funding models, measure program progress, inform future policy making, and more.
+They especially target programs, policies, and practices influencing the Department's ability to achieve
+its mission.
+These evaluations utilize a mixed-methods evaluation approach, combining qualitative and quantitative
+methods and analyses. Supporting activities include literature reviews, policy analyses, descriptive
+analyses, and portfolio analyses, among others. The evaluations utilize existing HHS data such as grant
+application and reporting data, participant survey data, and administrative data. External data such as
+survey data, electronic health records, and data submitted by contract awardees is also used. Finally,
+these activities include collection of new data as needed through methods such as surveys, interviews,
+and focus groups.
+Evaluations
+The examples of significant evaluations provided to the HHS Evidence and Evaluation Policy Council by
+operating divisions and staff divisions can be found below. For each evaluation, information has been
+provided on:
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency conducting the activity
+Title of the activity
+Priority area from the FY2023-2026 Evidence-Building Plan that the evaluation supports
+Priority questions within that priority area that are addressed
+Research question(s)
+Description of the evaluation
+Time period of the activity
+Existing data sources
+New data collection
+Study design or approach
+Anticipated challenges and mitigation strategies
+Dissemination plan for results
+The evaluations appear below in alphabetical order by agency.
+Agency: ACF
+Activity: Supporting Evidence Building in Child Welfare
+Priority Area: Human Services; Research and Evidence
+Priority Question: What are the effects of HHS programs and policies on strengthening early childhood
+development and expanding opportunities to help children and youth thrive equitably within their
+families and communities? How does HHS improve the design, delivery, and outcomes of HHS programs
+by prioritizing science, evidence, and inclusion?
+Research Question: What is the effectiveness of select promising interventions for the child welfare
+population?
+Description: This project aims to increase the number of evidence-supported interventions for the child
+welfare population, by conducting rigorous evaluations and supporting the field in moving toward
+rigorous evaluations.
+Time Period for the Activity (estimated start and end dates): 2016 - 2025
+Existing Data Sources Held by the Division: N/A
+Existing Data from Other Sources: Child welfare administrative data
+New Data Collection: New information collections related to the evaluation of the Family Unification
+Program have been reviewed and approved by the Office of Management and Budget (OMB) Office of
+Information and Regulatory Affairs under OMB #0970-0514. Related materials are available at the
+Evaluation of the Family Unification Program (FUP) page on RegInfo.gov. Additional new information
+collections are expected for additional study sites.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Study Design or Approach: For each studied intervention, the project will conduct an impact study and
+an implementation study.
+Anticipated Challenges and Mitigation Strategies: Challenges include mis-match of annual funding vis-
+à-vis long-term evaluation timelines; and finding sites willing and able to participate in evaluations. ACF
+has pursued and will pursue the following mitigation strategies for these challenges:
+Strategy: ACF proposed in the President's FY 2022 budget to make multi-year funding available for
+research and evaluation to better align funding and evaluation timelines.
+Strategy: In 2019, ACF put out a public call and invited child welfare agencies and other interested
+parties to nominate programs or services that they would like to be evaluated as part of this project. In
+2020, ACF sponsored an Evidence-Building Academy to increase child welfare administrators' and their
+partners' capacity to do rigorous evaluations that provide critical information on program effectiveness
+and meet the designs standards for clearinghouses reviewing programs and services relevant to child
+welfare populations.
+Dissemination plan: ACF will produce comprehensive research reports as well as shorter documents
+aimed at policy and practitioner audiences. ACF will disseminate results through posting reports on the
+Internet and journal articles; using social media to alert potential audiences of the availability of results;
+presenting results at research, policy, and practitioner conferences; and briefing policy-makers and
+program officials. Possible uses for these findings include informing federal, state, and local policy-
+making. ACF will archive data for secondary use.
+Agency: ACF
+Activity: Building Evidence on Employment Strategies for Low-Income Families
+Priority Area: Human Services
+Priority Question: To what extent do HHS programs and policies provide effective and innovative
+pathways leading to equitable economic success for all individuals and families?
+Research Question: What is the effectiveness of programs that serve adults whose employment
+prospects have been affected by opioid use disorder, other substance use disorders, or mental health
+conditions?
+Description: This project will rigorously evaluate promising programs serving recipients of the
+Temporary Assistance for Needy Families (TANF) program or other low-income families in order to
+strengthen ACF's understanding of evidence-supported programs that are effective in improving
+employment and economic security. The project will prioritize evaluations of programs that are state-
+initiated and programs that serve adults whose employment prospects have been affected by opioid use
+disorder, other substance use disorders, or mental health conditions. In addition, the project has
+partnered with the Social Security Administration to evaluate employment-related interventions
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+targeting individuals with current or foreseeable disabilities who have limited work history and are at
+risk of applying for Supplemental Security Income (SSI).
+Time Period for the Activity (estimated start and end dates): 2017 - 2024
+Existing Data Sources Held by the Division: National Directory of New Hires data
+Existing Data from Other Sources: State and local administrative data such as TANF data and local
+program management information system data
+New Data Collection: New information collections related to this project have been reviewed and
+approved by the Office of Management and Budget (OMB) Office of Information and Regulatory Affairs
+under OMB #0970-0537. Related materials are available at the Building Evidence on Employment
+Strategies for Low-Income Families (BEES) Project page on RegInfo.gov
+Study Design or Approach: The project will conduct experimental impact studies, descriptive
+evaluations, cost analyses, and case studies.
+Anticipated Challenges and Mitigation Strategies: Challenges include availability and quality of
+administrative data; adequacy of outcome measures; mis-match of annual funding vis-à-vis long-term
+evaluation timelines; and finding sites willing and able to participate in evaluations. ACF will pursue the
+following mitigation strategies for these challenges:
+Strategy: ACF proposed in the President's FY 2022 budget to make multi-year funding available for
+research and evaluation to better align funding and evaluation timelines.
+Strategy: ACF will involve stakeholders to help identify promising and willing sites to participate in
+evaluations, and work with potential sites to address their concerns and prepare them for rigorous
+evaluation.
+Strategy: ACF is helping state and local human services agencies build their capacity to engage in
+research and evaluation activities.
+Dissemination plan: ACF will produce comprehensive research reports as well as shorter documents
+aimed at policy and practitioner audiences. ACF will disseminate results through posting reports on the
+Internet; using social media to alert potential audiences of the availability of results; presenting results
+at research, policy, and practitioner conferences; briefing policy-makers and program officials; and
+submitting the findings for review by the ACF-sponsored Pathways to Work Evidence Clearinghouse.
+Possible uses for these findings include informing federal, state, and local policy-making as well as state
+and local selection and design of services to help low-income individuals find jobs and advance in the
+labor market. ACF will archive data for secondary use.
+Agency: ACL
+Activity: Process and Outcome Evaluation of the National Paralysis Resource Center (NPRC)
+Priority Area: Healthcare; Human Services
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Priority Questions: How do HHS programs and policies expand equitable access to comprehensive,
+community-based, innovative, and culturally-competent health care services while recognizing social
+determinants of health? What effective strategies or combinations of strategies expand access to high-
+quality services for older adults and people with disabilities, and their caregivers, to support increased
+independence and quality of life?
+Research Question: How and to what extent does the National Paralysis Resource Center (NPRC):
+Improve the health and quality of life of individuals living with paralysis of all ages, their families, and
+their support system? Raise awareness of members of the target populations about paralysis? Increase
+access of members of the target populations to services relevant to individuals with paralysis? Increase
+the empowerment, confidence, and independence of individuals living with paralysis? Strengthen
+support networks for individuals living with paralysis? Improve or increase opportunities for individuals
+living with paralysis for community living?
+Description: The purpose of this work is to systematically obtain information on the activitiesand the
+effectiveness of the NPRC in order to document and improve its activities. This outcome evaluation of
+the NPRC will determine the extent to which it is meeting the goals of improving the health and quality
+of life of individuals living with paralysis of all ages, their families, and their support system by raising
+awareness of and facilitating access to a broad range of services relevant to individuals with paralysis.
+Other outcomes of interest among people living with paralysis are increased confidence and
+independence, stronger support networks, and increased opportunities to be valued participants in all
+aspects of community living.
+Time Period for the Activity (estimated start and end dates): FY 2022-2027
+Existing Data Sources Held by the Division: Grant applications and reports (administrative data)
+Existing Data from Other Sources: --
+New Data Collection: Interviews and surveys of a sample of key stakeholders and service recipients.
+Study Design or Approach: Data for the process evaluation will be collected primarily through reviews
+and administrative records and interviews with NPRC staff and partners (including grantees and
+subcontractors). This secondary data collection will provide information about the inputs, activities and
+outputs of the NPRC to provide information about the quality, structure, and efficiency of NPRC services.
+Data for the outcome evaluation will be collected through surveying and interviewing a sample of those
+served by the NPRC. This primary data collection will provide information about the effect of the NPRC
+services on individuals living with paralysis of all ages, their families, and their support system.
+Anticipated Challenges and Mitigation Strategies: None
+Dissemination plan: The evaluation will use a multi-method approach to gather data, that when
+combined, will produce an accurate assessment of the value of the NPRC highlighting approaches that
+are working well and identifying areas for improvement. The data will be disseminated through the ACL
+website, webinars, conference presentations, and peer reviewed journal articles.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency: ACL
+Activity: Evaluating the Degree to Which ACL services Adhere to the Culturally and Linguistically
+Appropriate Services (CLAS) Standards
+Priority Area: Management
+Priority Question: What improvements to HHS programs and policies can promote effective enterprise
+governance to ensure programmatic goals are met equitably and transparently across all management
+practices?
+Research Questions:
+1. How is ACL supporting grantees to implement CLAS Standards?
+2. How can ACL enhance existing CLAS Standards implementation supports for grantees?
+3. How does ACL assess grantee adherence to CLAS Standards?
+4. How can ACL help grantees assess community needs to ensure CLAS Standards are being met?
+Description: Process evaluation to determine how ACL grantees operationalize CLAS Standards to
+support the communities and individuals they serve.
+Time Period for the Activity (estimated start and end dates): FY 2022-2024
+Existing Data Sources Held by the Division: Grant applications and grantee reports (administrative data)
+Existing Data from Other Sources: --
+New Data Collection: Interviews and surveys of a sample of key stakeholders and grantees.
+Study Design or Approach: Administrative data will be coded to allow for descriptive statistics, survey
+data will be analyzed using descriptive statics, and interview data will be analyzed using qualitative
+approaches.
+Anticipated Challenges and Mitigation Strategies: CLAS standards are typically applied to health care
+services and data. This application to social support programming will require adaptation of the
+concepts. Working closely with the HHS Office of Minority Health, ACL will make the needed adaptations
+to translate the standards for a social support context.
+Dissemination plan: The data will be used by ACL to improve technical assistance (TA) for federal and
+grantees staff. The information regarding the adaptation of the concepts for social support programs
+and the results regarding ways that programs can be structured to ensure that CLAS standards are being
+met will be disseminated through the ACL website, webinars, conference presentations, and peer
+reviewed journal articles.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency: AHRQ
+Activity: TAKEheart Initiative
+Priority Area: Research and Evidence
+Priority Question: How does HHS improve the design, delivery, and outcomes of HHS programs by
+prioritizing science, evidence, and inclusion?
+Research Question: How can AHRQ effectively support dissemination of evidence-based practices and
+foster their implementation within care delivery settings?
+Description: An important goal of AHRQ is to facilitate implementation of findings from patient centered
+outcomes research (PCOR) into health care practice. Accordingly, to help improve cardiac rehabilitation
+rates, the American Association of Cardiovascular and Pulmonary Rehabilitation/Millior Hearts Cardiac
+Rehabilitation Collaborative has developed a Cardiac Rehabilitation Change Package (CRCP) and
+established a national goal of 70% participation in CR (up from 20-30%) by 2022 for eligible patients.
+AHRQ's TAKEheart initiative is designed to broadly disseminate and implement the strategies described
+in the CRCP to hospitals nationwide to help achieve this goal.
+Time Period for the Activity (estimated start and end dates): March 2019 - March 2023
+Existing Data Sources Held by the Division:
+Existing Data from Other Sources: TAKEheart project leaders are collecting data from Partner Hospitals
+and Learning Community hospitals.
+New Data Collection:-
+Study Design or Approach: A public TAKEheart Website has been created to (a) increase awareness of
+the challenges of increasing patient participation in CR nationwide and (b) provide educational
+resources and training materials (e.g. web-based training modules and implementation guides) for
+hospitals wishing to adopt evidence-based strategies for meeting these challenges. In addition, a group
+of TAKEheart Partner Hospitals (PHs) recruited from across the US is currently participating in monthly
+web-based training sessions and receiving individual coaching in developing and implementing
+individualized hospital action plans for putting these evidence-based strategies into practice. These PHs
+exchange insights with their peers through monthly meetings of Peer Action Groups. Finally, a larger
+group of hospitals will be invited to join Learning Community Affinity Groups to share knowledge about
+ways to address challenges to and disparities in patient participation in CR. Since the Learning
+Community was launched in March 2020, the first set of Affinity Groups focused on strategies for
+adapting CR to the COVID-19 pandemic (e.g., providing in-person CR under restricted conditions and in
+using remote phone and other remote technologies to provide CR training at home).
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Anticipated Challenges and Mitigation Strategies: The monthly trainings of the first of two cohorts of
+Partner Hospitals were halted in March 2020 due to the pandemic and were resumed in May 2021.
+Some of the hospitals enrolled in the first cohort had to drop out and were replaced with hospitals that
+had applied to be in a second cohort. Additional recruitment is now underway for this second cohort
+(that will begin training in Fall 2021), but it is unlikely that the target of an additional 50 hospitals for the
+second cohort will be met.
+Dissemination plan: The main results of the AHRQ evaluation of the TAKEheart initiative will be made
+publicly available on the AHRQ website and considered for dissemination through conference
+presentations and peer-reviewed journal articles. Internally, the results will be used to develop future
+AHRQ dissemination and implementation initiatives.
+Agency: ASPE
+Activity: Evaluation of the Certified Community Behavioral Health Clinic Demonstration
+Priority Area: Healthcare
+Priority Question: How do HHS programs and policies expand equitable access to comprehensive,
+community-based, innovative, and culturally-competent health care services while recognizing social
+determinants of health?
+Research Questions:
+1. What activities do CCBHCs implement to improve access to care?
+2. How do CCBHCs implement the full scope of services and maintain the certification requirements?
+3. What is the quality of care provided to CCBHC clients?
+4. Do the PPS models cover the full cost of care for the CCBHCs?
+5. What is the impact of the demonstration on inpatient, emergency, and ambulatory service utilization
+rates and costs?
+Description: This the program evaluation for the two-year demonstration of Certified Community
+Behavioral Health Clinics (CCBHCs) in 8 states. It involves both qualitative and quantitative analysis, and
+utilizes quality and cost reports required under the demonstration. In new work, the demonstration
+states will be followed as the demonstration has been extended several times.
+Time Period for the Activity (estimated start and end dates): 9/30/2016-9/29/2023 -
+Existing Data Sources Held by the Division: --
+Existing Data from Other Sources: State Medicaid claims data.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+New Data Collection: Cost reports, quality measure reporting, qualitative interviews, clinic progress
+reports
+Study Design or Approach: The evaluation involves two interrelated components: (1) an impact study
+that examines changes in service utilization and costs among CCBHC clients relative to comparison
+groups and (2) an implementation study that examines how states supported the demonstration,
+CCBHCs' successes and challenges in maintaining the certification criteria, the costs of CCBHC services,
+and changes in the accessibility, scope of services, and quality of care resulting from the demonstration
+Anticipated Challenges and Mitigation Strategies: The quality measures were created for the
+demonstration, and not widely utilized. Therefore, quality measure performance is difficult to interpret.
+In addition, it is difficult to interpret changes in utilization (e.g., hospitalization increases or decreases),
+as positive or negative changes could be beneficial to beneficiaries
+Dissemination plan: Four reports to Congress have been submitted, and we intend to submit one for
+each year of the evaluation. In addition, reports are posted on the ASPE website.
+Agency: CDC
+Activity: Rigorous Evaluations of Telehealth Strategies to Address Hypertension Management and
+Control
+Priority Area: Healthcare; Public Health
+Priority Question: To what extent do HHS programs and policies reduce costs and improve quality of
+health care services? How do HHS policies and programs enhance promotion of healthy lifestyle
+behaviors to reduce occurrence and disparities in preventable injury, illness, and death?
+Description: Telehealth is one avenue that may increase access to healthcare for underserved
+populations, and this project will focus on identifying implications and recommendations for the use of
+telehealth among populations who experience disproportionate risk of hypertension and barriers to
+healthcare access. The project will use a stepwise approach, using an understanding of the context and
+policies related to telehealth, to develop an evaluation plan which will evaluate the implementation of
+telehealth at three health systems. The evaluations will assess telehealth implementation,
+cardiovascular disease outcomes over time, compare differences in outcomes among patients receiving
+telehealth services versus those receiving in-person medical care, cost-effectiveness, and the
+sustainability of telehealth strategies including the policy context for long term implementation of
+telehealth.
+Time Period for the Activity (estimated start and end dates): September 2021 - November 2023
+Existing Data Sources Held by the Division: None
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Existing Data from Other Sources: Secondary data analysis using data extracted from health system site
+data systems (i.e., EHRs); Secondary data analysis of Federal and state telehealth statutes, legislation,
+and regulations; Secondary data analysis of published and grey literature for the use of telehealth to
+address cardiovascular disease and address health disparities
+New Data Collection: Qualitative Interviews
+Study Design or Approach: Overall, evaluation methods will include a retrospective analysis of adult
+patients with hypertension, hypercholesterolemia, or other cardiovascular disease who received
+telehealth services at three separate health systems over the past year or more. The evaluation design
+will use quasi-experimental methods that includes a comparison group to assess the contribution of
+telehealth implementation to relevant outcomes including hypertension. A policy analysis will include a
+systematic assessment of Federal and state policies, statutes, and regulations that facilitate and limit
+telehealth.
+Anticipated Challenges and Mitigation Strategies: This effort aims to build practice-based evidence
+within a national context of rapidly changing of healthcare delivery, largely driven by the ongoing
+COVID-19 pandemic. These challenges also present unique opportunities for evidence-building. The
+evaluation design seeks to demonstrate effectiveness of telehealth strategies to address cardiovascular
+disease and health disparities, while proactively considering how current policies and regulations affect
+telehealth implementation and reimbursement of services, and the role of the COVID-19 pandemic in
+catalyzing broad health system implementation of telehealth.
+Dissemination plan: Results will be disseminated to public and scientific audiences through the CDC
+website, peer-reviewed journals, and public health or evaluation conferences. For example, the project
+will produce implementation guides to encourage strategy replication, manuscripts, presentations to
+the public or key collaborators, and other briefing products.
+Agency: CDC
+Activity: Evaluation of the Preventive Health and Health Services (PHHS) Block Grant
+Priority Area: Public Health
+Priority Question: How can HHS sustain strong financial stewardship of HHS resources to foster prudent
+use of resources, accountability, and public trust?
+Research Questions: How does the PHHS Block Grant support state, territorial, and tribal public health
+agencies in addressing prioritized public health needs within their jurisdiction? How does the PHHS
+Block Grant contribute toward the achievement of organizational, systems, and health-related
+outcomes?
+Description: The evaluation consists of several activities based on the CDC Framework for Program
+Evaluation, including implementing a measurement framework to assess recipient achievements,
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+analyzing recipient allocation of funding to Healthy People 2030 objectives to assess priority public
+health needs, and exploring the relationship between PHHS Block Grant funding and agency
+performance and health outcomes. The PHHS Block Grant Measures Assessment will be fielded in Fall
+2022 and the findings will be shared in 2023.
+Time Period for the Activity (estimated start and end dates): 2020-2023
+Existing Data Sources Held by the Division: PHHS Block Grant Measures Assessment (survey),
+interviews, recipient work plans, and data in Block Grant management information system.
+Existing Data from Other Sources: Evaluation of the Preventive Health and Health Services Block Grant.
+New Data Collection: 2022 PHHS Block Grant Measures Assessment, 2022 interviews, 2021-2023 work
+plans, data entry in Block Grant management information system.
+Study Design or Approach: Descriptive, quantitative, and qualitative methods are employed to analyze
+the primary evaluation questions across the various data collection methodologies.
+Anticipated Challenges and Mitigation Strategies: The PHHS Block Grant provides flexible funds to
+recipients allowing them to set their own priorities for the Healthy People 2030 objectives they will
+meet. The measurement framework is designed to apply to recipient activities regardless of how funds
+are invested, or which Healthy People 2030 objectives are selected.
+Dissemination plan: Results disseminated via evaluation report, link to webpage, internal key messages
+document, PowerPoint presentation, internal and external meetings, conferences, publications, and
+manuscripts. Tailored messages and products will serve to demonstrate the value of the PHHS Block
+Grant to Congress, US Government Agencies, the public, States, Tribes, Local and Territorial Health
+Departments.
+Agency: CDC
+Activity: DSEPD Fellowship Diversity Recruitment Evaluation
+Priority Area: Research and Evidence
+Priority Question: Where does HHS need to further invest in the scientific workforce to maintain
+leadership in the development of innovations that broaden our understanding of disease, healthcare,
+public health, and human services resulting in more effective interventions, treatments, and programs?
+Which HHS investments are optimal to uphold effective and innovative human capital resource
+management resulting in an engaged, diverse workforce with the skills and competencies to accomplish
+the HHS mission?
+Research Questions:
+To what extent were diverse racial and ethnic applicants engaged in the DSEPD recruitment process?
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Which recruitment methods within the strategy were the most effective at reaching diverse applicant?
+What effect did recruitment efforts have on the race and ethnicity of DSEPD fellowship applications?
+What effect did recruitment efforts have on the fit of racial and ethnic applicants for DSEPD fellowships?
+What effect did recruitment efforts have on the selection of racial and ethnic candidates for DSEPD
+fellowships?
+Description: Fellowships are a pathway to the public health workforce and public health leadership, and
+a significant DSEPD goal is to improve the diversity of its fellowship applicants and selected fellows as an
+approach to building a public health workforce as diverse as the communities it serves. DSEPD is
+implementing an enhanced recruitment strategy that includes specific approaches for improving racial
+and ethnic diversity, and conducting a robust, mixed-methods evaluation to assess the effect of the
+enhanced recruitment strategy and identify effective recruitment methods for building a diverse
+workforce prepared to apply health equity goals to public health programs. The evaluation will be used
+to inform recruitment activities, determine the effectiveness of the activities, and assess progress made
+towards improving the racial and ethnic diversity of fellowship applicants and selected candidates.
+Time Period for the Activity (estimated start and end dates): June 2021 - June 2023
+Existing Data Sources Held by the Division: Facilitated discussion notes; participant surveys; policy,
+communications, and program office records; division selection reports; candidate applications, and
+web metrics.
+Existing Data from Other Sources: Handshake and Zoom platform data exports; CSELS Partnership
+Portal
+New Data Collection: Updated data will be pulled from reoccurring facilitated discussion notes;
+participant surveys; policy, communications, and program office records; division reports; candidate
+applications, web metrics; Handshake and Zoom platform data exports; CSELS Partnership Portal. A new
+SharePoint site is in development to track all DSEPD recruitment activities and data in one central
+location with automated data visualization features for reporting.
+Study Design or Approach: The design follows a mixed-methods, descriptive approach. Data collection
+includes reviewing a variety of records, conducting a participant survey, and holding a facilitated
+discussion. Analysis will be completed through document review, quantitative analysis, and thematic
+analysis.
+Anticipated Challenges and Mitigation Strategies: No major challenges are foreseen. However, there
+are a variety of data sources and the compilation and analysis of the data from these sources will
+require a comprehensive approach. Internal and contract support with the required skills has been
+dedicated and assigned.
+Dissemination plan: Results will be disseminated to DSEPD fellowship leads and senior leadership to
+provide strategic direction and guide recruitment strategies and justify recruitment investments.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Results will be shared via Briefs, Snapshots, presentations, Learn at Lunches, and an Annual evaluation
+report.
+Agency: CDC
+Activity: Ending Epidemics: Drug Overdoses-Overdose - Data to Action Cross-Site Evaluation
+Priority Area: Healthcare; Public Health
+Priority Question: To what extent do HHS programs and policies strengthen and expand access to
+mental health and substance use disorder treatment and recovery services for individuals and families?
+How do HHS policies and programs enhance promotion of healthy lifestyle behaviors to reduce
+occurrence and disparities in preventable injury, illness, and death?
+Research Questions:
+Among CDC's funded activities to reduce opioid overdose and misuse, what strategies, or combination
+of strategies, are associated with reducing US drug overdose mortality?
+How and to what extent are Overdose Data to Action (OD2A) funded recipients using overdose data to
+inform prevention activities? Which strategies, or combinations of strategies, appear to have the desired
+programmatic effect?
+Description: The Overdose Data to Action (OD2A) cooperative agreement funds 66 health departments
+- 47 state health departments, 16 city or county health departments, and 3 district and/or U.S.
+territories over a three-year period beginning in September 2019. OD2A focuses on the complex and
+changing nature of the drug overdose epidemic and highlights the need for an interdisciplinary,
+comprehensive, and cohesive public health approach. Funds awarded as part of this agreement will
+support state, territorial, county, and city health departments in obtaining high quality, more
+comprehensive, and timelier data on overdose morbidity and mortality and using those data to inform
+prevention and response efforts. A mixed method, quasi-experimental designed evaluation is being
+conducted to assess program implementation progress and measure OD2A's impact on several key
+short-, medium-, and long-term outcomes. The evaluation will use existing programmatic data,
+secondary data, and primary data collection in the form of interviews and focus groups to address gaps
+and add context. Qualitative data will be analyzed using thematic analysis to identify patterns and
+trends among recipients and their implemented activities. Quantitative data will be analyzed using
+descriptive statistics and trend analyses. A mixed-methods approach will also be taken to synthesize and
+triangulate data to gain a deeper understanding of OD2A activities.
+Time Period for the Activity (estimated start and end dates): September 2019-September 2023
+Existing Data Sources Held by the Division: Programmatic data (e.g., work plans, annual progress
+reports, evaluation plans, data dissemination plans, capacity self-assessment survey)
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Existing Data from Other Sources: Secondary databases (e.g., IQVIA, surveillance data)
+New Data Collection: Primary data collection via key informant interviews and focus groups
+Study Design or Approach: A mixed method, quasi-experimental design is being used to assess program
+implementation progress and measure and explain OD2A's impact on several key short-, medium-, and
+long-term outcomes. Qualitative data will be analyzed using thematic analysis to identify patterns and
+trends among recipients and their implemented activities. Quantitative data will be analyzed using
+descriptive statistics and trend analyses. A mixed-methods approach will also be taken to synthesize and
+triangulate data to gain a deeper understanding of OD2A activities.
+Anticipated Challenges and Mitigation Strategies: One challenge for the OD2A cross-site evaluation
+could be the variability in state and jurisdictions capacity to collect and report high quality standardized
+data. CDC will mitigate this challenge by providing guidance and technical assistance on reporting
+requirements including the type and quality of data to be reported by funded jurisdictions. CDC
+scientists will also review data submitted on a quarterly or annual basis and provide feedback and
+technical assistance to those jurisdictions who require more assistance to report.
+Dissemination plan: The OD2A evaluation will result in a variety of dissemination products created over
+the three-year period and will include: two evaluation briefs, a white paper, three annual reports, and a
+manuscript. Products will be tailored to specific audiences like public health practitioners, providers,
+insurers, and/or CDC staff and leadership.
+Agency: CMS
+Activity: Maternal Opioid Misuse (MOM) Model Evaluation
+Priority Area: Healthcare; Human Services
+Priority Question: To what extent do HHS programs and policies strengthen and expand access to
+mental health and substance use disorder treatment and recovery services for individuals and families?
+What are the impacts of HHS programs and policies on strengthening early childhood development and
+expanding opportunities to help children and youth thrive equitably within their families and
+communities?
+Research Questions: To what extent does implementing a coordinated care model for pregnant and
+postpartum women with OUD improve quality and reduce the costs associated with treating pregnant
+and postpartum women and infants affected by OUD? What are specific best practices for serving this
+population?
+Description: MOM is a program for pregnant/postpartum Medicaid and CHIP participants with opioid
+use disorder (OUD). The MOM Model evaluation seeks to determine if evidenced-based, integrated care
+that includes access to medication assisted treatment (MAT) can improve outcomes and reduce costs
+for pregnant and postpartum women with opioid disorder and their infants. The evaluation seeks to
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+build the evidence base for what works best for treating pregnant women with OUD, especially in light
+of multiple co-morbidity often present (particularly other substance abuse and behavioral health
+disorders). The evaluation also seeks to assess the effects of integrated care (including data sharing)
+among provider and social service entities.
+Time Period for the Activity (estimated start and end dates): January 2020 - January 2027
+Existing Data Sources Held by the Division: Medicaid T-MSIS data for MOM Model awardees and
+potential comparison States (yet to be determined), including demographic and eligibility data, inpatient
+data, other services data, pharmacy data, and other T-MSIS data files
+Existing Data from Other Sources: Vital records data provided by MOM Model awardees; Mother-infant
+dyad identifiers provided by MOM Model awardees; Ongoing literature reviews and environmental
+scans, including any new documents provided by MOM Model awardees; MOM Model awardee-
+reported, participant-level data on demographic characteristics, mental and physical health
+characteristics, substance abuse, social determinants of health data, service use type and frequency, and
+outcomes.
+New Data Collection: Primary data collection in the form of key informant interviews, focus groups/in-
+depth interviews with MOM Model participants, Photovoice with MOM Model participants, and
+structured observations of care delivery sites.
+Study Design or Approach: The evaluation will produce annual reports of model outcomes beginning
+with an evaluation of the model pre-implementation period (through June 20, 2021).
+The evaluation uses a theoretically guided, integrated mixed methods design. As such, each aspect of
+the evaluation continuously informs the others. Participant level data includes program-based quality
+measures and information on participants provided by care delivery partners. The qualitative analysis
+includes in-person and virtual site visits that involve environmental scans, interviews, focus groups, and
+innovative participant-directed methods. The quantitative analysis of claims and vital records (birth and
+death) will include impacts analyses with comparison groups as possible. Where an impacts analysis is
+not possible, the evaluation will consider pre-post analysis and forms of descriptive statistical analysis.
+Anticipated Challenges and Mitigation Strategies: An impact analysis may not be possible for all
+awardees (barriers include small sample sizes, difficulties in establishing appropriate comparison groups,
+and quality of claims data for this population).
+Dissemination plan: The evaluation aims to demonstrate whether providing evidence-based,
+comprehensive services for this population helps achieve better care and health outcomes and lower
+spending such that other state Medicaid programs might implement similar models.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency: CMS
+Activity: Integrated Care for Kids (InCK) Model Evaluation
+Priority Area: Healthcare; Human Services
+Priority Questions: To what extent do HHS programs and policies reduce costs and improve quality and
+safety of healthcare services? What are the impacts of HHS programs and policies on strengthening
+early childhood development and expanding opportunities to help children and youth thrive equitably
+within their families and communities?
+Research Question: The primary questions for the pre-implementation period are:
+What are the characteristics of the InCK population?
+What are barriers and facilitators to initiating InCK programs, including APM design?
+How do these barriers and facilitators differ by awardee and by local and state-specific
+contexts?
+The primary evaluation questions for the implementation period are:
+Does the InCK intervention (including the APM) result in reduced total health care expenditures
+and improved quality of care, and specifically:
+a reduction in Medicaid and CHIP covered inpatient utilization and Emergency Department (ED)
+use
+reductions in cost of care to Medicaid and CHIP
+reductions in out of home placement (e.g. foster care, prolonged hospitalization)
+Description: The evaluation seeks to determine whether implementation of InCK improves health
+outcomes and reduces Medicaid costs among beneficiaries in the targeted population. The evaluation
+employs a mixed methods approach that includes measures for key service areas (clinical and behavioral
+health, food and housing security), rigorous qualitative case studies, and an impacts analysis of Medicaid
+claims data using within-state comparison groups.
+Time Period for the Activity (estimated start and end dates): August 2020 - August 2029
+Existing Data Sources Held by the Division: Unredacted, Final and Preliminary T-MSIS Analytic Research
+Identifiable Files (TAF RIF) for the years covering 2017-2027; CMS TAF Vital Status Files for the years
+covering 2017-2027; Model documentation submitted by awardee recipients (ARs) including progress
+reports, operational plans, standard operating procedures, and applications/NCCs; Clinical and non-
+clinical performance measure data (to be captured by the Implementation and Monitoring contractor)
+Existing Data from Other Sources: Area Health Resource File (https://data.hrsa.gov/topics/health
+workforce/ahrf); HPSAs (https://bhw.hrsa.gov/shortage-designation/hpsas); US Census/American
+Community Survey (https://www.census.gov/programs-surveys/acs/data.html); Rural-Urban
+Commuting Areas (https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes/);Area
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Deprivation Index (https://www.neighborhoodatlas.medicine.wisc.edu/);COVID-19 data from
+USAFacts.org (https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/ County Health
+Rankings (https://www.countyhealthrankings.org/); Social Determinants of Health
+(https://www.ahrq.gov/sdoh/index.html); Child welfare and foster care data: Data from states'
+Statewide Automated Child Welfare Information System (SACWIS) or Child Welfare Information Systems
+(CCWIS) or alternative administrative data system (specifically, data elements that support states'
+submissions to the Federal Adoption and Foster Care Analysis and Reporting System (AFCARS) and the
+National Child Abuse and Neglect Data System (NCANDS)); Juvenile justice data: Data from states'
+juvenile justice agencies, courts, or other sources containing data related to "systems that respond to
+youth that come into contact with law enforcement and are accused of breaking the law"; Education
+data: Data from states' education agencies and/or local school districts; Food security data: Data from 1)
+states' health departments, 2) human services / social services agencies, or 3) education agencies
+related to eligibility/utilization of food assistance or food-related needs; Cash assistance data: Data from
+states' health departments or human services / social services agencies related to eligibility/utilization of
+cash assistance programs; Housing data: Data from federal, state, or local agencies on
+eligibility/utilization of housing assistance
+New Data Collection: Retrospective Attribution Files (collected by ARs); Retrospective Comparison Files
+(collected by ARs); Service Integration Level (SIL) Checklists (collected by ARs); Aggregate Performance
+Measures and underlying individual-level admin or EHR data (collected by ARs); Interviews with ARs ;
+Interviews with State Medicaid Agencies; Interviews with members of the Partnership Council;
+Interviews/focus groups with providers serving the attributed population and providers serving the
+comparison group population.; Interviews/focus groups/other TBD data collection with patients and
+families/caregivers potentially involved with and/or impacted by the InCK model
+Study Design or Approach: The evaluation will produce annual reports of model outcomes beginning
+with an evaluation of model pre-implementation. Milestones are still being negotiated with awardees.
+The design plan for the implementation design is due in the fall of 2021.
+The evaluation uses an integrated mixed methods approach. As such, each aspect of the evaluation
+continuously informs the others. Quality measures and demographic information on participants are
+provided by awardees. The qualitative analysis includes in-person and virtual site visits that involve
+environmental scans, interviews, focus groups, and innovative participant-directed methods. The
+quantitative analysis of Medicaid (and CHIP where applicable) claims will include impacts analyses with
+comparison groups from non-overlapping areas in the same states where beneficiaries are served.
+Anticipated Challenges and Mitigation Strategies: Implementation has not yet begun for this model,
+and quality of the anticipated data is unclear.
+Dissemination plan: The evaluation hopes to understand whether integrated care models and APMs to
+support them improve health and reduce costs to Medicaid and could be expanded across states in
+accordance with the requirements of section 1115A of the Social Security Act.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency: CMS
+Activity: Network of Quality Improvement and Innovation Contractors (NQIIC) Independent Evaluation
+Priority Area: Research and Evidence; Management
+Priority Question: How does HHS improve the design, delivery, and outcomes of HHS programs by
+prioritizing science, evidence, and inclusion? What improvements to HHS programs and policies can
+promote effective enterprise governance to ensure programmatic goals are met equitably and
+transparently across all management practices?
+Research Questions: Which contractors are meeting which program targets?
+What strategies are they using to meet them?
+What barriers are keeping contractors from meeting targets and how can these be overcome?
+Annual provider satisfaction surveys:
+What proportion of targeted providers use QIO contractor resources to improve health care quality?
+How satisfied are the providers with these resources?
+What can the QIOs do to improve satisfaction?
+Outcome evaluation:
+To what extent did the QIO program meet the targets for each quality improvement category?
+To what extent can we attribute the changes in outcomes associated with the categories to the quality
+improvement networks and/or other activities supported through the QIO?
+What are the likely projected and actual ROI for QIO program outcomes? (both quantitatively and
+qualitatively)
+How does ROI vary by contractor?
+For COVID-19 response, what synergies were achieved between the QIOs and other major HHS
+programs, especially AHRQ's Project Echo?
+Description: The QIOs and other quality improvement contractors are required to provide evidence-
+based, data-driven technical assistance to health care facilities to improve quality and meet pre-defined
+outcomes related to:
+Opioid use and misuse; Patient safety; Chronic disease management
+Care coordination; Responding to public health emergencies and COVID-19 and infection control;
+Immunization; Training
+CMS's evaluation strategy aims to understand:
+which aspects of QIO interventions are effective; variance in performance across QIOs and
+interventions; providers' satisfaction with the quality improvement interventions.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+This information will inform current work and future Quality Improvement Program planning to shape
+program based on potential for maximum effectiveness and impact, in addition to eliminating low-value,
+low-impact activities.
+Time Period for the Activity (estimated start and end dates): September 25, 2020-September 24, 2025
+Existing Data Sources Held by the Division: Major quantitative data sources include: Medicare fee-for-
+service claims; Provider/Physician Performance (Hospital Compare, Nursing Home Compare, Physician
+Compare); Medicare Current Beneficiary Survey (MCBS); Deliverable Administration Review Repository
+Tool (DARRT) data
+Existing Data from Other Sources: Quality and Safety Review System (QSRS) inpatient safety data: a
+multi-stage sample of medical charts from Medicare beneficiaries from a small sample of hospitals. (See:
+AHRQ National Scorecard on Hospital-Acquired Conditions); National Healthcare Safety Network
+(NHSN); Tiberius data (HHS); Nursing Home Minimum Data set;
+New Data Collection: QIN-QIO real-time collected data (Qualtrics); OMB cleared survey of providers'
+satisfaction with NQIIC services (not yet executed)
+Study Design or Approach: This is a 5-year mixed methods evaluation using both qualitative and
+quantitative methods. An Independent Evaluation Contractor, Booz Allen Hamilton, with highly
+credentialed statisticians and health services researchers conducts the work under the direction of CMS.
+Although the evaluation is independent, the specific research questions are defined and the work is
+monitored by Ph.D.-trained researchers and clinicians at CMS who use their program knowledge to
+assure the contractors investigate the right populations, interventions, and outcomes.
+Anticipated Challenges and Mitigation Strategies: No challenges identified at this time.
+Dissemination plan: Not yet determined.
+Agency: CMS
+Activity: Evaluation of the Value-Based Insurance Design (VBID) Model
+Priority Area: Healthcare
+Priority Question: To what extent do HHS programs and policies reduce costs and improve quality of
+healthcare services?
+Research Question: Impact of the VBID Model (including Hospice component):
+1) Eligibility and Enrollment:
+Do participating plans enroll more or fewer enrollees over the course of the model test, and why?
+2) Utilization and health outcomes:
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Does the model result in targeted enrollees consuming fewer high-intensity services, such as emergency
+department visits and inpatient admissions?
+Does the model improve targeted enrollees' overall health status and specific conditions? What, if any,
+impact does the model have on enrollees' risk scores?
+How does the hospice benefit component of the model impact the decision to elect hospice, and the
+timing of hospice election, by enrollees?
+How does the model affect enrollee hospice experience, as measured by visits in the last week of life,
+likelihood of live discharge/transfer/revocation, among others? Where relevant, how do these
+utilization patterns differ between hospice patients in MA vs FFS?
+3) Cost:
+What is the model's impact on plans' cost (both medical and drug benefit)?
+What is the model's effect on plans' bids, for Parts C and D?
+What is the model's impact (if any) on targeted enrollees' and non-targeted enrollees' overall cost-
+sharing, premiums and the availability of supplemental benefits for non-targeted enrollees in
+participating plans?
+What factors or variables are driving any increases or decreases in plan's costs and bids?
+Description: The VBID Model allows Medicare Advantage organizations (MAOs) to further target benefit
+design to enrollees based on chronic condition and/or socioeconomic characteristics and/or incentivize
+the use of Part D prescription drug benefits through rewards and incentives. MAOs may also offer the
+Medicare hospice benefit to its enrollees as part of the VBID Model. Additionally, the VBID model
+requires that all participating plans engage their enrollees through structured and timely wellness and
+health care planning, including advanced care planning. The primary aim of the evaluation is to
+rigorously assess the impact of the VBID model on enrollee health outcomes, behavior, service use, and
+quality of care, and on costs to health plans, enrollees and to Medicare.
+Time Period for the Activity (estimated start and end dates): 2020 - 2028
+Existing Data Sources Held by the Division: Medicare Advantage plan enrollment/disenrollment files,
+Fee-for-Service claims, Medicare Advantage Organizations encounter, Bid Pricing Tool, Provider of
+Service, Hospice Item Set, Prescription Drug Event, Star ratings, risk scores, Reusable Framework
+monitoring data (submitted by VBID plans)
+Existing Data from Other Sources: CAHPS, Health Outcomes Survey, Healthcare Effectiveness Data and
+Information Set
+New Data Collection: Semi-structured interviews with participating and non-participating plans, in-
+network and out-of-network hospices, other VBID providers, and beneficiaries
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Study Design or Approach: Our evaluation of the VBID model test takes a mixed-methods approach by
+integrating primary qualitative data with secondary quantitative data to assess the model test's effects
+on key outcomes. This approach allows us to observe, from multiple angles, the experiences of MAOs,
+beneficiaries, and providers with the model test and develop a more complete picture of the potential
+benefits and drawbacks of VBID in the Medicare population.
+MAOs that offer VBID through the model test are required to submit information on beneficiary
+participation to CMMI's Reusable Framework reporting system. We will use these data to calculate the
+number of VBID-eligible beneficiaries in participating MAOs, the share of VBID-eligible beneficiaries who
+participated in the model test (versus opting out or not completing participation requirements), and
+changes over time in participation rates.
+We will use difference-in-differences regression models to estimate whether MAOs that participated in
+VBID and their eligible beneficiaries experienced changes in outcomes relative to a matched comparison
+group. Our analyses will estimate how MAOs' participation in the VBID model test affected outcomes.
+For most analyses, we will pool all VBID-participating MAOs and beneficiaries (and their matched
+comparators) into a single regression. As a result, the "treatment" effect is generally exposure to any
+VBID intervention implemented by a participating MAO, rather than exposure to a specific VBID design.
+The hospice component will be evaluated separately.
+Finally, we will characterize the experience of beneficiaries, providers, and MAOs with VBID through a
+series of semi-structured telephone interviews.
+Anticipated Challenges and Mitigation Strategies: The evaluation relies on encounter data submitted by
+MAOs. While quality of these data has improved in recent years, the ongoing time lag (approximately
+24-month runout period) delays answering key questions related to utilization.
+While the hospice component will be separately evaluated, the other flexibilities embodied in VBID are
+evaluated collectively even though there is variation in how they are used by participating MAOs. Thus,
+our evaluation of the VBID "proper" (non-hospice) speaks to access to the overall suite of flexibilities
+rather than the impact of any single one or subset of mechanisms.
+Dissemination plan: 2022: First report due, focusing on 2020 and 2021 implementation and enrollment
+2023: Second report due, focusing on beneficiary experiences and utilization, health outcomes, and
+quality
+2025: Third report due, focusing on Wellness and Healthcare Planning
+2026: Fourth report due, focusing on hospice component
+2027: Fifth report due, focusing on individual component impacts
+2028: Sixth report due, focusing on generalizability
+Potential expansion of socioeconomic/Low Income Subsidy (LIS) targeting flexibility and inclusion of
+hospice in Medicare Advantage benefits package
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency: FDA
+Activity: Food Safety Modernization Act (FSMA) Program Evaluation
+Priority Area: Public Health
+Priority Question: How effective are HHS programs and policies at protecting individuals, families, and
+communities from infectious disease and preventing non-communicable disease through development
+and equitable delivery of effective, innovative, readily available, treatments, therapeutics, medical
+devices, and vaccines?
+Research Question: How can HHS programs and policies best protect the food and medical supply
+chains?
+Description: Each Food Safety Modernization Act (FSMA) program is expected to undergo program
+evaluation, including implementation of continuous process improvement, following completion of
+initial implementation. We are conducting a pilot evaluation of the Preventive Controls for Human
+Foods (PCHF) program in FY22 that will provide the framework for evaluating other programs within
+FSMA. After the pilot, other FSMA program evaluations will be prioritized and executed.
+Time Period for the Activity (estimated start and end dates): 10/1/2022 - ongoing
+Existing Data Sources Held by the Division: Food Safety Dashboard, PC and CGMP Measures (FDA-
+TRACK website), Field Accomplishments and Compliance Tracking System (FACTS), Observation and
+Corrective Action Reporting (OCAR) system, Coordinated Outbreak Response and Evaluation (CORE)
+Existing Data from Other Sources: CDC National Outbreak Reporting System (NORS)
+New Data Collection: Industry surveys, additional outcome measures
+Study Design or Approach: The FSMA program evaluation will focus on determining if each program is
+operating as intended and is producing the desired public health outcome. We will leverage data
+analysis (trends, counts, descriptive statistics) from existing data sources.
+Anticipated Challenges and Mitigation Strategies: There are challenges in making the connection
+between program activities and reduction in number of illnesses due to contamination of food from
+facilities subject to the PC rule. There is a workgroup in place investigating viable outcome measures
+that could be useful for these evaluations. We will leverage their work to support the outcome aspect of
+these evaluations.
+Dissemination plan: These results will initially be vetted by the FDA Foods Program Governance Board.
+The results will support possible process improvements for these programs as well as possibly
+quantifying public health outcomes. Once complete, we will explore possible opportunities for public
+consumption.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency: HRSA
+Activity: Healthy Start (HS) Evaluation & Capacity Building Support
+Priority Area: Human Services
+Priority Question: What are the impacts of HHS programs and policies on strengthening early childhood
+development and expanding opportunities to help children and youth thrive equitably within their
+families and communities?
+Research Question: To what extent are HHS programs associated with improved health status among
+participants served, and how effective are HHS programs in addressing maternal and infant health
+disparities?
+Description: This effort is a four-year national evaluation of the HS program applying implementation,
+utilization, outcome, and transformative evaluation approaches to determine the effectiveness of the
+program. The social ecological model is used as the framework to assess characteristics, behaviors, and
+activities at the individual level (e.g., use of program services), the organizational level (e.g., HS
+initiatives), the community level (e.g., HS Community Action Networks), and the larger social-structural
+level (e.g., policies, systems, structural environment). Results of the evaluation will be used to inform
+decision-making and develop recommendations to improve implementation of the HS program.
+Time Period for the Activity (estimated start and end dates): Sept 2021 - Sept 2025
+Existing Data Sources Held by the Division:
+Healthy Start Monitoring & Evaluation Data System (HSMED)
+- Reporting system for participant-level data received on a monthly basis
+- Based on information provided in the Healthy Start Data Collection Forms (Background Form, Prenatal
+Form, Parent/Child Form)
+- Contains demographic, participant behavior, healthcare utilization, access, and perinatal outcomes
+data
+Discretionary Grant Information System (DGIS)
+- Collects grantee-level data on annual basis
+- Addresses MCHB-wide and HS program-specific performance measures
+Existing Data from Other Sources: Vital records data from at least one state will be used for the same
+year in which data from the Healthy Start participants is collected
+New Data Collection: Quantitative and qualitative data collected from Healthy Start grantees and their
+stakeholders via web-based surveys, semi-structured interviews, and site visit assessments
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Study Design or Approach: The evaluation will use a mixed methods approach: for much of the
+implementation and utilization evaluation, HSMED data, DGIS data, and the Program Staff Survey will be
+analyzed to provide descriptive statistics and determine associations. Grantee reports, stakeholder
+interviews, and network analysis will inform the implementation and transformative evaluation
+components. The outcome evaluation will measure the effect of HS on participant health outcomes
+using dosage analysis.
+Anticipated Challenges and Mitigation Strategies: The HS grantees have varying levels of organizational
+data and evaluation capacity based on level of experience with the program and other factors. An
+organizational assessment was conducted that identified challenges in collecting and submitted required
+data, time and effort required, staff experience, and variations in data systems. The evaluation design
+includes a risk mitigation plan to address these challenges that includes technical assistance provided by
+the evaluation contractor and the HS TA & Support Center.
+Dissemination plan: The evaluation design includes an outreach and dissemination component involving
+a variety of approaches based on the target audience for specific products. The results will be
+disseminated via the creation of written materials, reports, and possible publications, and presenting
+evaluation findings in webinars and in-person, to both internal and external stakeholders. The findings
+may be used to inform quality improvement efforts within the program, program policy, and future
+national (or local) evaluations of the program.
+Agency: HRSA
+Activity: Evaluation of the Rural Maternity and Obstetrics Management Strategies (RMOMS) Program
+Priority Area: Healthcare
+Priority Question: To what extent do HHS programs and policies reduce costs and improve quality of
+healthcare services?
+Research Question: Research questions for this evaluation fall under the categories of network
+approach to coordinating care, delivery and access to services, maternal and neonatal outcomes, and
+financial sustainability and viability.
+Network Approach to Coordinating Care
+1. How do network partners coordinate services to improve access to the continuum of care?
+2. What is the governance structure of the network?
+3. Are awardees able to implement their work plans and achieve outcomes as planned?
+4. What are the barriers and facilitators to creating regional networks that span the continuum
+of care and improving maternal and neonatal outcomes?
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Delivery and Access to Services
+5. What impact do these rural networks have on the types of medical services utilized, settings
+of care, and patterns of utilization at each site and across the program?
+6. What impact do rural networks have on utilization of non-medical resources, referrals, and
+services, such as transportation, dietary services, and social services?
+7. What role can telehealth, such as fetal monitoring, play in supporting rural clinicians and the
+obstetric patients they serve?
+Maternal and Neonatal Outcomes
+8. Does the program improve clinical outcomes during the prenatal period, labor/delivery
+period, and postpartum period?
+Financial Sustainability and Viability
+10. Is there a reduction in high-cost, high-intensity services?
+11. What impact did the program have on Medicaid costs and health care utilization?
+12. What strategies are most effective to reduce or avoid high-cost services?
+13. Can a regional network with several rural hospitals aggregate obstetric services to ensure
+enough patient volume to be financially viable and provide high-quality obstetric services?
+14. What is the role of Medicaid/other payers in facilitating the network and financial
+sustainability?
+15. How can avoided costs be captured and accounted for?
+Description: This project will document the implementation of two RMOMS program cohorts (FY 2019
+and FY 2021) and assess how many women and infants the RMOMS program served, examine the extent
+to which services were delivered, and examine factors that help explain the volume and types of
+services used. It will also assess the RMOMS program's effect on the program goals and objectives over
+time and examine factors associated with improved various patient outcomes.
+Time Period for the Activity (estimated start and end dates): September 2021 - August 2025
+Existing Data Sources Held by the Division:--
+Existing Data from Other Sources: To be determined by contractor
+New Data Collection: Patient level data from grantee
+Study Design or Approach: To be determined by contractor
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Anticipated Challenges and Mitigation Strategies: Patient level, primary data collection can be a
+challenge for resource-limited rural providers. Contractor will provide TA on data collection and share
+best practices.
+Dissemination plan: Results will be disseminated through publicly available reports,
+webinars/presentations, and other data visualization/information sharing tools as proposed by the
+contractor and approved by HRSA OC. Information will be used to inform future RMOMS programming
+specifically as well as to inform improvements to maternal health outcomes in rural communities more
+broadly.
+Agency: HRSA
+Activity: Ryan White HIV/AIDS Program (RWHAP) Special Projects of National Significance (SPNS):
+Improving Care and Treatment Coordination: Focusing on Black Women with HIV
+Priority Area: Public Health; Research and Evidence
+Priority Question: How effective are HHS programs and policies at protecting individuals, families, and
+communities from infectious disease and preventing non-communicable disease through development
+and equitable delivery of effective, innovative, readily available, treatments, therapeutics, medical
+devices, and vaccines? How does HHS improve the design, delivery, and outcomes of HHS programs by
+prioritizing science, evidence, and inclusion?
+Project Question: This project will evaluate how effective bundled interventions are for helping Black
+women with HIV access care and treatment. An evaluation using an implementation science lens will
+help answer if the bundled interventions perform better in addressing quality of life retention in care
+and reaching viral suppression.
+Description: The awarded Evaluation and Technical Assistance Provider (ETAP) will lead a multi-site
+evaluation and provide technical assistance (TA) to a cohort of 12 demonstration sites (also supported
+by the project) to evaluate the design and implementation of demonstration sites' bundled
+interventions (a group of evidence-informed practices) and their outcomes and effectiveness on the HIV
+care continuum for Black women with HIV for future replication and scale-up.
+Time Period for the Activity (estimated start and end dates): Sept 1, 2020 - August 31, 2024
+Existing Data Sources Held by the Division: Ryan White HIV/AIDS Program Services Report (RSR)
+Existing Data from Other Sources: HIV Surveillance Data
+New Data Collection: Data will come from Funded demonstration sites; Organizational outcomes data;
+key informant and stakeholder information; cost study data.
+Study Design or Approach: The ETAP will design and implement a rigorous multisite evaluation plan to
+assess the effectiveness of the demonstration sites' bundled interventions. The evaluation plan
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+proposed by the ETAP includes process and outcome measures, and assesses the cost of adapting and
+implementing the bundled interventions.
+Anticipated Challenges and Mitigation Strategies: To date the project has encountered some of the
+following challenges: 1) hiring staff at some of the sites; 2) the realities of the current conditions -
+recruitment in the middle of a pandemic; and 3) ambitious recruitment and samples sizes of the sites.
+However, the ETAP and HRSA POs are working with the sites to ensure they come up with innovative
+approaches to connect with clients, and to ensure an overall successful project.
+Dissemination plan: The results will be disseminated via toolkits, lessons learned, materials, and
+products, such as blogs, a website, implementation manuals and intervention protocols. Additionally,
+the ETAP will convene a publication and disseminations committee, consisting of HRSA staff, the ETAP,
+and demonstration site representatives, to generate topics for presentations and publications; concept
+sheets and analyses; and an overall dissemination plan for the initiative's products.
+Agency: HRSA
+Activity: Behavioral Health Workforce Supply
+Priority Area: Healthcare
+Priority Question: How do HHS programs and policies bolster the primary and preventive healthcare
+workforce to ensure delivery of quality services and care?
+Research Question: How many new behavioral health providers and paraprofessionals graduated from
+the program and are currently practicing? To what extent are the new graduates practicing in primary
+care and underserved settings?
+Description: Evaluation of BHW's behavioral health workforce expansion programs in terms of
+cumulative outputs and outcomes. Reduction in forecast national-level shortages of specific behavioral
+health occupations will be demonstrated.
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: program performance metrics, NCHWA projection reports,
+Area Health Resources Files
+Existing Data from Other Sources: None
+New Data Collection: Annual collection of performance metrics.
+Study Design or Approach: Primary analysis of performance data includes a cumulative count of total
+new graduates in each of the behavioral health occupations trained across the Bureau's behavioral
+health expansion programs. Additionally, for key occupations that also have NCHWA projections
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+available, a percent reduction in the forecast FTE shortage will be calculated, assuming that each new
+graduate will be employed full-time in their trained occupation.
+Anticipated Challenges and Mitigation Strategies: The only challenge is receiving complete and
+accurate performance data each year for these programs in a timely fashion. While most grantees
+report on-time, employment data is not always complete. Project officers remind grantees to report all
+data and of the importance this data has to continued funding of the program.
+Dissemination plan: Results will be disseminated via a brief evaluation summary document posted on
+HRSA's website as well as highlights included in HRSA's Congressional Justification.
+Agency: NIH
+Activity: An Outcomes Assessment of the NIH Ruth L. Kirschstein National Research Service Award
+Predoctoral Training Program
+Priority Area: Research and Evidence; Management
+Priority Question: Where does HHS need to further invest in the scientific workforce to maintain
+leadership in the development of innovations that broaden our understanding of disease, healthcare,
+public health, and human services resulting in more effective interventions, treatments, and programs?
+How can HHS sustain strong financial stewardship of HHS resources to foster prudent use of resources,
+accountability, and public trust?
+Research Question: How can HHS policies and programs accelerate scientific advancements, attract and
+retain graduate students in the biomedical enterprise?
+Description: The National Research Service Award (NRSA) predoctoral training program supports the
+doctoral preparation of talented individuals who wish to pursue careers in biomedical, behavioral, and
+clinical research. This study will assess both research and career outcomes of NRSA-funded graduate
+students.
+Time Period for the Activity (estimated start and end dates): FY 2021 - FY 2023
+Existing Data Sources Held by the Division:
+Information for Management Planning Analysis and Coordination (IMPAC II): NIH's administrative and
+scientific database, which includes information to manage awards for research grants, contracts, and
+research training and fellowships. The IMPAC II database is one of two subsystems managed by the NIH
+Electronic Research Administration.
+Doctorate Records File (DRF): The consolidated results of the Survey of Earned Doctorates, an annual
+census of all individuals receiving US research doctorates since 1957
+-The survey is coordinated by the National Science Foundation (NSF) and co-sponsored by the NIH and
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+other federal agencies
+--NIH receives a copy of the DRF under a licensing agreement with the NSF
+Existing Data from Other Sources: DRF identifiers will be used to request data from other NSF surveys
+including the Survey of Doctorate Recipients
+New Data Collection: --
+Study Design or Approach: Distinct survival analysis methods such as Kaplan-Meier (KM) or survival
+curves and Random Survival Forests will be used to identify the strongest predictor of research
+outcomes. Additional statistical analyses will be conducted to assess group differences in career
+outcomes.
+Anticipated Challenges and Mitigation Strategies: Missing demographic data in DRF will be
+supplemented from IMPAC II. Individuals whose race, ethnicity and gender data are missing or are
+withheld in both data sources will be excluded from the study. Missing age data will be imputed with
+median age.
+Dissemination plan: Results from this study are expected to provide insight into the extent by which
+NRSA funding is effective in preparing graduate students to transition to the next step in their pathway
+to a research career.
+Agency: NIH
+Activity: Evaluative Planning and Monitoring Approach for the Environmental influences on Child Health
+Outcomes (ECHO)-wide Cohort
+Priority Area: Research and Evidence
+Priority Question: What improvements are needed to HHS programs and policies for data collection,
+use, and evaluation to increase evidence-based knowledge that leads to better health outcomes,
+reduced health disparities, and improved social well-being, equity, and economic resilience?
+Description: The Environmental influences on Child Health Outcomes (ECHO) program has implemented
+an evaluative planning approach to ensure success in developing a consortium-wide high-quality data
+platform and biorepository with data and specimens from over 50,000 children and their families, which
+it will make available to the research community as a national resource for studying child health. ECHO's
+Steering Committee established goals and objectives based on markers of successful observational
+studies: successful enrollment and retention of study populations; fidelity to the research protocol; and
+sound data analysis, publication, and dissemination. For each objective, ECHO sets annual targets for key
+indicators, i.e., program metadata, like number of active study participants, completeness and quality of
+ECHO study data collected from study participants, number of biospecimens in the ECHO biorepository
+collected from study participants, and number of consortium-wide publications driven by analyses on
+the ECHO data platform.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Time Period for the Activity (estimated start and end dates): September 2020 - September 2023
+Existing Data Sources Held by the Division: NIH Research Performance Progress Reports from 2016 to
+current
+Existing Data from Other Sources: ECHO's Data Analysis Center and Coordinating Center hold existing
+indicator data, i.e., program metadata collected from 2016 to date, related to the number of
+participants enrolled, completeness and quality of ECHO study data collected from study participants,
+number of biospecimens in the ECHO biorepository, and number of consortium-wide publications driven
+by analyses on the ECHO data platform
+New Data Collection: ECHO's Data Analysis Center and Coordinating Center collect new indicator data,
+i.e., program metadata related to the number of active participants, data completeness and quality,
+number of biospecimens in the ECHO biorepository, and number of consortium-wide publications driven
+by analyses on the ECHO data platform
+Study Design or Approach: ECHO's Coordinating Center uses metadata on the number of active
+participants, data completeness and quality, number of biospecimens in the biorepository, and number
+consortium-wide of publications driven by analyses on the data platform to populate a monitoring
+dashboard, viewable by NIH program staff and ECHO grantees. ECHO's Program Evaluation & Mentoring
+Working Group-a subgroup of ECHO's Steering Committee-engage with fellow grantees to
+understand the successes, challenges, barriers, and facilitators to implementing the operational aspects
+of the ECHO program, particularly successful enrollment and retention of study populations; fidelity to
+the research protocol; and sound data analysis, publication, and dissemination. NIH program staff
+monitor this dashboard-and Research Performance Progress Reports-t understand overall program
+successes and challenges, as well as those of individual grantees.
+Anticipated Challenges and Mitigation Strategies: The Program Evaluation & Mentoring Working Group
+reports overall program progress to the ECHO Steering Committee and provides mentoring
+opportunities among investigators to share successful program implementation strategies. Depending
+on program needs, NIH program staff may develop messaging strategies to celebrate program-wide
+successes or help initiate program-level course correction. If grantees experience continued challenges,
+NIH program officers may work with each grantee to develop an action plan for recovery, which includes
+learning strategies for success from high-achieving peer grantees.
+Dissemination plan: NIH program staff have not planned specific strategies for broad dissemination of
+the overall results of our evaluative planning and monitoring approach. The ECHO Program Office plans
+to share the results with its External Scientific Board, a board made up of external advisors who report
+to the Council of Councils, who will monitor the performance of the ECHO program and consider how to
+overcome challenges to the program. ECHO additionally plans to use the results internally to
+continuously improve the program and advance its mission.
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Agency: ONC
+Activity: Evaluation of the Trusted Exchange Framework and Common Agreement (TEFCA)
+Priority Area: Research and Evidence
+Priority Question: What improvements are needed to HHS programs and policies for data collection,
+use, and evaluation to increase evidence-based knowledge that leads to better health outcomes,
+reduced health disparities, and improved social well-being, equity, and economic resilience?
+Research Question: To what extent is TEFCA simplifying exchange for participants and improving health
+data availability in general?
+Description: The goal of TEFCA is to establish a floor of universal interoperability across the country.
+TEFCA will do this by creating health information networks that operate under agreed upon policies,
+technical requirements, and network connectivity requirements. The evaluation will assess whether
+TEFCA is successful in increasing interoperable exchange, increasing the availability of health data, and
+simplifying exchange by healthcare providers, such as reducing the number of different networks that
+providers have to join.
+Time Period for the Activity (estimated start and end dates): FY 2022- - FY 2026
+Existing Data Sources Held by the Division: None
+Existing Data from Other Sources: Health IT Surveys (e.g. AHA, HIE Survey)
+New Data Collection: Direct data from Recognized Coordinated Entity (RCE) that manages the TEFCA
+Study Design or Approach: The study will use a mixed methods approach. It will consist primarily of
+quantitative results assessing milestone achievements, TEFCA participation, and quantifiable results of
+TEFCA participation on health IT interoperability. This analysis will be supplemented with interviews
+with TEFCA participants, health IT end users, and the RCE.
+Anticipated Challenges and Mitigation Strategies: Data collection will likely be the biggest challenge.
+ONC can leverage TEFCA program milestones and data from RCE process and outcome metrics, once
+available. In addition, assessing the effect will require use of data from outside of TEFCA, such as
+national surveys which may not completely captures TEFCA's role in interoperability.
+Dissemination plan: The results of the evaluation will be published on an ongoing basis through peer-
+reviewed publications and data briefs. ONC will use these publications to assess the progress and
+success of TEFCA and inform recommendations for the program going forward.
+Agency: SAMHSA
+Activity: Internal Formative Evaluation of the Projects for Assistance in Transition from Homelessness
+(PATH)I
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Priority Area: Healthcare
+Priority Question: How do HHS programs and policies expand equitable access to comprehensive,
+community-based, innovative, and culturally-competent health care services while recognizing social
+determinants of health?
+Research Question: How can HHS health and social services programs increase access to those
+experiencing homelessness?
+Description: The PATH evaluation report includes information on funding, staffing, numbers
+served/contacted and enrolled, client demographics, service provision and service referrals made and
+attainment. Data are submitted by the PATH providers via the SAMHSA PATH Data Exchange (PDX),
+though parts are to be provided through local Homeless Management Information Systems (HMIS). The
+PATH grantees' State PATH Contacts (SPCs) approve the data submitted by their providers. The
+evaluation will include performance measurement, a feasibility study, and outcome evaluation.
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: PDX
+Existing Data from Other Sources: Web-based survey
+New Data Collection: --
+Study Design or Approach: Mixed method approach
+Anticipated Challenges and Mitigation Strategies: Delay in data collection
+Dissemination plan: The PATH evaluation report is both an annual report (shared online) and a triannual
+report required by Congress
+Agency: SAMHSA
+Activity: Summative Program Evaluations (e.g., Strategic Prevention for Prescription Drugs or SPF-Rx).
+This program is designed to prevent prescription drug misuse among youth aged 12 to 17 and adults
+aged 18 and older. The program is developed to respond to a critical priority area in SAMHSA's FY2019-
+FY2023 Strategic Planning Priority 1: Combating the Opioid Crisis through Expansion of Prevention,
+Treatment and Recovery Support Services.
+Priority Area: Healthcare; Public Health
+Priority Question: To what extent do HHS programs and policies strengthen and expand access to
+mental health and substance use disorder treatment and recovery services for individuals and families?
+How do HHS policies and programs enhance promotion of healthy lifestyle behaviors to reduce
+occurrence and disparities in preventable injury, illness, and death?
+Description: Summative evaluation using comparative group to evaluate how HHS programs can
+increase access to medication-assisted treatment (MAT)? How can HHS programs reduce prescription
+drug misuse?
+FY 2023 Evaluation Plan
+Department of Health & Human Services
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: SPARS
+Existing Data from Other Sources: CDC WONDER, The Web Block Grant Application System (WebBGAS)
+New Data Collection: --
+Study Design or Approach: Mixed method approach
+Anticipated Challenges and Mitigation Strategies: Delay in data collection
+Dissemination plan: SAMHSA's centers, grantees, and subrecipients

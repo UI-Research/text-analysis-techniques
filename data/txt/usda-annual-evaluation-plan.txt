@@ -1,0 +1,714 @@
+FY 2023
+EVALUATION
+PLAN
+USDA
+U.S. Department of
+Agriculture
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Table of Contents
+Introduction
+1
+Stakeholder Engagement
+1
+Significant Evaluations
+2
+Evaluation of USDA Broadband Programs
+3
+Evaluation of USDA Water and Environment Program
+5
+Evaluation of USDA Community Facilities Program
+7
+Evaluation of the USDA Single Family Housing Program
+9
+Evaluation of the Overall Impacts of USDA Rural Development Programs
+11
+Using Robotic Process Automation or Related Technology in SNAP Eligibility Processes
+13
+Assessment of Mobile Technologies for Using SNAP Benefits
+14
+Understanding the Relationship Between Poverty, Well-Being, and Food Security
+15
+Acronyms and Abbreviations
+17
+i
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Introduction
+The United States Department of Agriculture (USDA or the Department) serves all Americans by
+providing effective, innovative, science-based public policy leadership in agriculture, food and
+nutrition, natural resource protection and management, rural development, and related issues with
+acommitment to deliver equitable and climate-smart opportunities that inspire and help Americans
+thrive. USDA achieves its mission via 18 individual Agencies organized under eight Mission Areas,
+Departmental Administration, and multiple Staff Offices. USDA's vision is an equitable and climate-
+smart food and agriculture economy that protects and improves the health, nutrition, and quality of
+life of all Americans; yields healthy land, forests, and clean water; helps rural America thrive; and
+feeds the world.
+The Office of Budget and Program Analysis (OBPA or the Office) oversees and facilitates the
+performance and strategic management activities of the Department, including development of the
+USDA Strategic Plan, Agency Priority Goals, deliverables required under the Foundations for
+Evidence-Based Policymaking Act of 2018 (Evidence Act), and Enterprise Risk Management. The
+Office is led by the USDA Chief Evaluation Officer. OBPA also chairs the USDA Performance,
+Evaluation, and Evidence Committee and the Enterprise Risk Management Committee, both of
+which are comprised of representation from Mission Areas and Departmental Administration, as
+well as key partners, including the Chief Data Officer and the Statistical Official. These individuals
+bring diverse perspectives and broad technical expertise to inform OBPA's initiatives and facilitate
+buy-in among stakeholders across the Department. Partnership with the Chief Data Officer and
+Statistical Official provides valued insights and advisement on data access, data quality, and
+statistical methods.
+Under the Evidence Act, USDA is required to produce an Evaluation Plan on an annual basis
+describing the evaluation activities planned for the coming fiscal year (FY). The following Evaluation
+Plan includes the significant evaluations planned for FY 2023, including the key questions to be
+answered, required data collections, technical approach and methodologies, and use and
+dissemination of evaluation findings.
+Stakeholder Engagement
+Throughout FY 2021 and 2022, OBPA conducted a number of stakeholder engagement activities
+to inform the development of the FY 2023 Evaluation Plan. USDA's internal stakeholders are
+organized into the following standard hierarchy to ensure that all levels are appropriately engaged
+and to provide clarity around roles and responsibilities:
+Strategic Direction: Responsible for setting the Department's strategic direction (Secretary,
+Deputy Secretary, and Sub-Cabinet officials);
+Departmental Operations: Responsible for supporting strategic implementation efforts in
+alignment with the Department's strategic goals and objectives (staff offices such as
+OBPA, Human Resources, Office of the Chief Information Officer, etc.); and
+Mission Delivery and Performance: Responsible for aligning Agency strategic directions and
+resources with the Department-wide strategic directions and for delivering statutorily
+required missions, functions, programs, projects, etc. (all USDA Mission Areas and
+Agencies).
+1
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+OBPA convened a cross-functional team
+known as the Evidence Act Working Group
+(EAWG) to collaborate on the FY 2023
+Evaluation Plan and other Evidence Act
+STRATEGIC
+deliverables. The EAWG included
+DIRECTION
+representation from across USDA Mission
+USDA Leadership
+Areas and Agencies and served as the
+conduit between OBPA and Mission Area
+DEPARTMENTAL
+and Agency leadership. OBPA regularly
+OPERATIONS
+engaged with the EAWG through a series
+Staff Offices
+of interactive workshops to develop
+criteria for the Department's definition of
+MISSION DELIVERY AND PERFORMANCE
+"significant" evaluations and identify
+Mission Areas and Agencies
+planned evaluations for the coming fiscal
+year.
+Deliver benefits and services
+Significant Evaluations
+For the FY 2023 Evaluation Plan, USDA chose to focus on evaluations being conducted by Agencies
+within the Food, Nutrition, and Customer Service and the Rural Development Mission Areas. These
+Mission Areas were chosen due to their advanced maturity in evidence-building, particularly with
+respect to program evaluation. USDA used the following criteria to identify significant evaluations
+for inclusion in this plan:
+Supports answering a USDA Learning Agenda priority question;
+Required by statute or congressional mandate; and
+Supports a USDA leadership priority.
+2
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Evaluation of USDA Broadband Programs
+What are the impacts of Rural Development broadband programs on
+broadband availability and use, as well as on economic (property
+Primary Question
+values, household income, and employment) and social (population
+growth, healthcare access and availability, and telemedicine)
+outcomes?
+Alignment with
+This evaluation aligns to Goal 5: Expand Opportunities for Economic
+USDA Strategic
+Development and Improve Quality of Life in Rural and Tribal
+Goal(s)
+Communities in the USDA FY 2022-2026 Strategic Plan.
+This evaluation covers the following programs: the Rural Broadband
+Access Loan and Loan Guarantee Program, Community Connect
+Grants, Distance Learning and Telemedicine Grants and Loans,
+Background and
+Broadband Initiatives Program, and ReConnect Program. These
+Rationale
+programs are designed to promote access to broadband in rural
+areas. E-connectivity is fundamental to economic development,
+innovation, technological advancement, workforce readiness, and
+the improvement of quality of life in rural and Tribal communities.
+Timeline
+Expected completion in FY 2023
+The in-depth evaluation of these programs will utilize rigorous quasi-
+experimental methods. These methods include matching, matching
+with regression, difference-in-difference analysis, synthetic
+matching, instrumental variable analysis, and regression
+discontinuity.
+The in-depth evaluation will also use the input-output analysis
+toolkit to estimate the short-run impacts of building out broadband
+infrastructure in rural areas. In using this framework, the project
+Technical Approach
+analysts will use detailed data as inputs to simulation models to
+and Methodologies
+obtain estimates on employment and output for a specific regional
+economy. The IMPLAN software and database will serve as the
+modeling platform for this impact analysis.
+These evaluation projects will be conducted by six trained
+economists and social scientists at the Innovation Center who have
+experience in both ex-ante and ex-post evaluation approaches. Some
+of the projects will be conducted in collaboration with the USDA
+Economic Research Service (ERS). The Innovation Center is working
+collaboratively with program areas to obtain administrative data.
+Administrative data available from the USDA Rural Utilities Service
+(RUS) will be used in combination with other external data available
+Data Sources
+from the Bureau of the Census, Bureau of Economic Analysis,
+Bureau of Labor Statistics, ERS, and Federal Communications
+Commission. Proprietary datasets such as the National
+3
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Establishment Time Series and Zillow's Assessor and Real Estate
+Database (ZTRAX) will also be used. The various datasets will be
+combined using program service area information, such as service
+area boundaries available from program shapefiles, census blocks,
+census tracts, and Federal Information Processing Standard (FIPS)
+county and sub-county codes.
+For the input-output analysis of the ReConnect Program, data from
+published engineering cost and economic impact studies will be used
+in addition to detailed program data. Project cost data housed in the
+RUS represent a new type of data that are not normally stored in the
+National Rural Development database but are essential for
+developing model simulation scenarios.
+At the macro level, the lack of shapefiles for program data to
+delineate service areas forces the analysis to be at the county level
+Challenges and
+or city and town level. Linking program data to external data sources
+Mitigation Strategies
+and the lack of publicly available data to measure certain outcomes
+can also be challenges.
+The findings will be shared throughout the Rural Development
+Mission Area, the wider USDA community, and the Office and
+Management and Budget through the dissemination of reports and
+presentations. Rural Development is currently working on the
+creation of a public-facing website to disseminate findings from
+Use and
+evaluations and other analyses. Additionally, projects are published
+Dissemination
+in peer reviewed journals and presented across various conferences.
+The findings will be delivered in a manner that is most appropriate
+for the audience.
+In addition to sharing the findings internally, the evaluation studies
+will be used to generate peer-reviewed and outreach publications
+and conference presentations.
+4
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Evaluation of USDA Water and Environment Program
+What is the impact of the Water and Environment Program (WEP)
+on water quality, property values (residential, agricultural, and
+Primary Question
+commercial property), income and earnings, poverty, and population
+growth across the rural-urban continuum?
+Alignment with
+This evaluation aligns to Goal 5: Expand Opportunities for Economic
+USDA Strategic
+Development and Improve Quality of Life in Rural and Tribal
+Goal(s)
+Communities in the USDA FY 2022-2026 Strategic Plan.
+The RUS provides much-needed infrastructure or infrastructure
+improvements to rural communities. These include water and waste
+treatment, electric power, and telecommunications services. All of
+these services help to expand economic opportunities and improve
+the quality of life for rural residents.
+The WEP provides loans, grants, and loan guarantees for drinking
+water, sanitary sewer, solid waste, and storm drainage facilities in
+rural communities of 10,000 people or fewer. Public bodies, non-
+profit organizations, and recognized Tribes may qualify for
+assistance. The WEP also makes grants to non-profit organizations
+to provide technical assistance and training to help rural
+Background and
+communities with their water, wastewater, and solid waste
+Rationale
+problems.
+Through the RUS and WEP, rural communities obtain the technical
+assistance and financing necessary to develop drinking water and
+waste disposal systems. Safe drinking water and sanitary waste
+disposal systems are vital not only to public health, but also to the
+economic vitality of rural America. Rural Development is a leader in
+helping rural America improve quality of life and increase economic
+opportunities for rural people.
+The primary objective of this evaluation project is to study the
+impacts of the RUS Water and Sewer Loans and Grants Program on
+changes in economic, demographic, and social outcomes in program
+recipient communities across the rural-urban spectrum.
+Timeline
+Expected completion in FY 2023
+The evaluation will utilize rigorous quasi-experimental methods.
+These methods include difference-in-difference analysis,
+instrumental variable analysis, and the regression discontinuity
+Technical Approach
+method.
+and Methodologies
+These evaluation projects will be conducted by six trained
+economists and social scientists at the Rural Development
+Innovation Center who have experience in both ex-ante and ex-post
+5
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+evaluation approaches. The Innovation Center is working
+collaboratively with program areas to obtain administrative data.
+Administrative data on the WEP will be used in combination with
+other external data available from the Bureau of the Census, Bureau
+of Economic Analysis, Bureau of Labor Statistics, Internal Revenue
+Data Sources
+Service, and ERS. In addition, the proprietary datasets on property
+values such as ZTRAX will be used. The various datasets will be
+combined using program service area information, such as census
+tracts and FIPS county and sub-county codes.
+The lack of shapefiles for program data to delineate service areas
+forces the analysis to be at the county level or city and town level.
+Challenges and
+This makes an individual-level analysis at the household or business
+Mitigation Strategies
+level almost impossible. Other challenges include linking program
+data to external data sources and the lack of publicly available data
+to measure some of the outcomes to be studied.
+The findings will be shared throughout the Rural Development
+Mission Area and the wider USDA community through the
+dissemination of reports and presentations. The findings will be
+Use and
+delivered in a manner that is most appropriate for the audience.
+Dissemination
+In addition to sharing the findings internally, the evaluation studies
+will be used to generate peer-reviewed and outreach publications
+and conference presentations.
+6
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Evaluation of USDA Community Facilities Program
+1. What is the impact of Community Facilities funding on rural
+hospital closings?
+Primary Question
+2. What are the impacts of Community Facilities funding on
+education (i.e., school quality)?
+Alignment with
+This evaluation aligns to Goal 5: Expand Opportunities for Economic
+USDA Strategic
+Development and Improve Quality of Life in Rural and Tribal
+Goal(s)
+Communities in the USDAFY 2022-2026 Strategic Plan.
+Essential community infrastructure is key in ensuring that rural
+areas enjoy the same basic quality of life and services enjoyed by
+those in urban areas. The Community Facilities (CF) Programs offer
+direct loans, loan guarantees, and grants to develop or improve
+essential public services and facilities in communities across rural
+America. These amenities help increase the competitiveness of rural
+communities in attracting and retaining businesses that provide
+employment and services for their residents.
+Public bodies, non-profit organizations, and Federally recognized
+Tribes can use the funds to construct, expand, or improve facilities
+that provide health care, education, public safety, and public
+Background and
+Rationale
+services. Projects include fire and rescue stations, village and town
+halls, health care clinics, hospitals, adult and childcare centers,
+assisted living facilities, rehabilitation centers, public buildings,
+schools, libraries, and many other community-based initiatives.
+Financing may also cover the costs of land acquisition, professional
+fees, and purchase of equipment. These facilities not only improve
+quality of life, but also assist in the development and sustainability of
+rural America.
+The purpose of this evaluation is to focus on the two largest areas of
+investment in the CF investment portfolio: health care and
+education. The evaluation will focus on the impact of CF on health
+and education outcomes in recipient facilities and communities.
+Timeline
+Expected completion in FY 2023
+The evaluation will utilize rigorous quasi-experimental methods.
+These methods include difference-in-difference analysis,
+instrumental variable analysis, and the regression discontinuity
+method.
+Technical Approach
+and Methodologies
+These evaluation projects will be conducted by six trained
+economists and social scientists at the Rural Development
+Innovation Center who have experience in both ex-ante and ex-post
+evaluation approaches. The Innovation Center is working
+collaboratively with program areas to obtain administrative data.
+7
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Administrative data available from the Rural Housing Service CF
+Programs will be used in combination with other external data
+available from the Bureau of the Census, Bureau of Economic
+Analysis, Bureau of Labor Statistics, and National Center for
+Data Sources
+Education Statistics. In addition, proprietary datasets on business
+registers, such as National Establishment Time Series, will be used.
+The various datasets will be combined using program service area
+information, such as recipient facility Data Universal Numbering
+System numbers, names and addresses, census blocks, census tracts,
+and FIPS county and sub-county codes.
+At the macro level, the lack of shapefiles for program data to
+delineate service areas forces the analysis to be at the county level
+Challenges and
+or city and town level. Linking program data to external data sources
+Mitigation Strategies
+and the lack of publicly available data to measure certain outcomes
+can also be challenges.
+The findings will be shared throughout the Rural Development
+Mission Area and the wider USDA community through the
+Use and
+dissemination of reports and presentations. The findings will be
+Dissemination
+delivered in a manner that is most appropriate for the audience.
+In addition to sharing the findings internally, the evaluation studies
+will be used to generate peer-reviewed and outreach publications
+and conference presentations.
+8
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Evaluation of the USDA Single Family Housing Program
+1. What is the impact of Single Family Housing Section 502 Direct
+Loans on measures of housing affordability and stability in
+Primary Question
+recipient tracts or counties?
+2. What is the impact of Single Family Housing Section 502 Direct
+Loans on recipient home values?
+Alignment with
+This evaluation aligns to Goal 5: Expand Opportunities for Economic
+USDA Strategic
+Development and Improve Quality of Life in Rural and Tribal
+Goal(s)
+Communities in the USDA FY 2022-2026 Strategic Plan.
+The Single Family Housing Program gives families and individuals the
+opportunity to buy, build, repair, or own safe and affordable homes in
+rural America. Low interest, fixed-rate homeownership loans are
+provided to qualified persons directly by Rural Development.
+Financing is also offered at fixed rates and terms through a loan from
+a private financial institution and guaranteed by Rural Development
+for qualified persons. Neither of these home loan programs require a
+down payment.
+Background and
+The Section 502 Direct Loan Program assists low- and very-low-
+Rationale
+income applicants in obtaining decent, safe, and sanitary housing in
+eligible rural areas by providing payment assistance to increase an
+applicant's repayment ability. Payment assistance is a type of subsidy
+that reduces the mortgage payment for a short time. The amount of
+assistance is determined by the adjusted family income. Loan funds
+may be used to help low-income individuals or households purchase
+homes in rural areas. Funds can be used to build, repair, renovate, or
+relocate a home, or to purchase and prepare sites, including providing
+water and sewage facilities.
+Timeline
+Expected completion in FY 2023
+The evaluations will utilize rigorous quasi-experimental methods;
+namely, difference-in-difference analysis, instrumental variable
+analysis, and the regression discontinuity method.
+Technical Approach
+These evaluation projects will be conducted by six trained
+and Methodologies
+economists and social scientists at the Rural Development
+Innovation Center who have background in both ex-ante and ex-post
+evaluation approaches. The Innovation Center is working
+collaboratively with program areas to obtain administrative data.
+Administrative data on the Single Family Housing program will be
+Data Sources
+used in combination with other external data available from
+proprietary datasets on property values such as ZTRAX. Publicly
+9
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+available data from the Bureau of the Census, Bureau of Economic
+Analysis, Bureau of Labor Statistics, and ERS will also be used. The
+various datasets will be combined using program information such
+as
+property addresses, location coordinates of properties, census
+tracts, and FIPS county and sub-county codes.
+At the macro level, lack of shapefiles for program data to delineate
+service areas forces the analysis to be conducted at the county level
+Challenges and
+or city and town level. Linking program data to external data sources
+Mitigation Strategies
+and the lack of publicly available data to measure certain outcomes
+can also be challenges.
+The findings will be shared throughout Rural Development Mission
+Area and wider USDA community through the dissemination of
+reports and presentations. The findings will be delivered in a manner
+Use and
+that is most appropriate for the audience.
+Dissemination
+In addition to sharing the findings internally the evaluation studies
+will be used to generate peer-reviewed and outreach publications
+and conference presentations.
+10
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Evaluation of the Overall Impacts of USDA Rural
+Development Programs
+1. What is the impact of major Rural Development programs on
+rural employment growth?
+2.
+What is the impact of major Rural Development programs on
+rural income growth?
+Primary Question
+3. What is the impact of major Rural Development programs on
+rural poverty rate?
+4. What is the impact of major Rural Development programs on
+rural population change?
+Alignment with
+This evaluation aligns to Goal 5: Expand Opportunities for Economic
+USDA Strategic
+Development and Improve Quality of Life in Rural and Tribal
+Goal(s)
+Communities in the USDA FY 2022-2026 Strategic Plan.
+These evaluations will focus on the collective impacts of all major
+Rural Development programs on selected socioeconomic outcomes.
+These major programs include business programs, broadband
+Background and
+programs, housing programs, the water and environment program,
+Rationale
+and the community facilities program. Depending on data
+availability, the evaluation will focus on the time period between
+2005 and 2019. Analysis will be conducted at the zip code level.
+Timeline
+Expected completion in FY 2023
+Technical Approach
+These evaluations will utilize multiple regression combined with
+and Methodologies
+instrumental variable analysis.
+Administrative data on major Rural Development programs will be
+used in combination with other external data available from the
+Data Sources
+Bureau of the Census, Bureau of Economic Analysis, Bureau of Labor
+Statistics, and ERS. The various datasets will be combined by zip
+code.
+The biggest challenge will be to identify all outcomes variables and
+Challenges and
+associated covariates at the zip code level without disclosure issues.
+Mitigation Strategies
+The availability of all program data that fit the study time-period
+could also be problematic.
+11
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+The findings will be shared throughout the Rural Development
+Mission Area and wider USDA community through the
+dissemination of reports and presentations. The findings will be
+Use and
+delivered in a manner that is most appropriate for the audience.
+Dissemination
+In addition to sharing the findings internally, the evaluation studies
+will be used to generate peer-reviewed and outreach publications
+and conference presentations.
+12
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Using Robotic Process Automation or Related Technology
+in SNAP Eligibility Processes
+How does the use of Robotic Process Automation improve the
+Primary Question
+efficiency of Supplemental Nutrition Assistance Program application
+processing?
+Alignment with
+This evaluation aligns to Goal 4: Make Safe, Nutritious Food Available
+USDA Strategic
+to All Americans in the USDA FY 2022 - 2026 Strategic Plan.
+Goal(s)
+Several States have piloted the use of Robotic Process Automation
+(RPA), also known as bots, for certain tasks in their Supplemental
+Nutrition Assistance Program (SNAP) eligibility process. RPA is
+a
+new technological initiative in the human services sector and
+involves business process automation that allows computers to
+automate and complete certain simple repetitive processes or tasks.
+Background and
+Rationale
+This can increase efficiency, streamline processes, and improve
+service delivery by completing tasks that would require caseworker
+time. This evaluation will assess the efficacy of using this technology
+to assist in application processing in up to three States by assessing
+the impacts on caseworker time, accuracy of tasks completed by the
+computer, and administrative costs, as well as documenting the
+benefits and challenges to SNAP agencies.
+Timeline
+Expected completion in FY 2023
+States will collect information on motivations, opportunities,
+challenges, costs, and benefits of RPA projects through in-depth
+Technical Approach
+interviews with key informants in the study. Analysts will conduct
+and Methodologies
+cost-benefit analyses using administrative data to assess the
+impacts, costs, and benefits of RPA projects on administrative
+processes.
+Data will include qualitative information from interviews with staff
+Data Sources
+in State agencies and administrative cost data.
+Challenges and
+Administrative data may not have the required level of granularity to
+Mitigation Strategies
+answer all evaluation questions.
+Use and
+The findings will be presented to USDA policy officials and program
+staff via briefings. Results of the evaluation will also be posted
+Dissemination
+publicly on the USDA website.
+13
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Assessment of Mobile Technologies for Using SNAP
+Benefits
+Primary Question
+To what extent do mobile technologies affect participant access to
+Supplemental Nutrition Assistance Program benefits?
+Alignment with
+This evaluation aligns to Goal 4: Make Safe, Nutritious Food Available
+USDA Strategic
+to All Americans in the USDA FY 2022 - 2026 Strategic Plan.
+Goal(s)
+The Agricultural Act of 2018 authorizes the use of mobile
+technologies for the purpose of accessing SNAP benefits. This allows
+SNAP participants to input their Electronic Benefit Transfer (EBT)
+cards into a mobile technology, such as Apple Pay or Google Pay, and
+make SNAP purchases at the point-of-sale without the presence of
+Background and
+the EBT card. The Act requires that the Food and Nutrition Service
+Rationale
+approve no more than five projects to pilot the use of this technology
+and subsequently determine if mobile technology should be
+authorized Nationwide. This study will assess the pilots in the areas
+of participant access, ease of use, and program integrity to facilitate
+the decision-making around the broad authorization of the use of
+mobile technologies.
+Timeline
+Expected completion in FY 2026
+This study will assess the pilot projects in the areas of participant
+access, ease of use, and program integrity to facilitate the
+Technical Approach
+determination of whether to broadly authorize the use of mobile
+and Methodologies
+technologies. Process and outcome evaluations will be conducted in
+up to five States that participate in the pilot program.
+Data collection will include interviews with stakeholders and
+Data Sources
+document review from each pilot project. Analysts will also utilize
+SNAP administrative data from State agencies and retailer
+characteristics data.
+Challenges and
+Obtaining the needed data from EBT processors and SNAP State
+Mitigation Strategies
+agencies poses a challenge.
+Use and
+The findings will be presented to USDA policy officials and program
+Dissemination
+staff via briefings. Results of the evaluation will also be posted
+publicly on the USDA website.
+14
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Understanding the Relationship Between Poverty, Well-
+Being, and Food Security
+What are the key factors associated with variations in food security
+Primary Question
+rates in persistent-poverty counties?
+Alignment with
+This evaluation aligns to Goal 4: Make Safe, Nutritious Food Available
+USDA Strategic
+to All Americans in the USDA FY 2022 - 2026 Strategic Plan.
+Goal(s)
+Research has shown that the economic and demographic
+circumstances of households are closely correlated with food
+security status. However, not all households with similar
+circumstances experience the same food security status. This
+evaluation will identify measures of poverty and well-being
+associated with household food security status among SNAP-eligible
+Background and
+participants and non-participants in persistent-poverty counties,
+Rationale
+defined as counties where 20% or more of their population lived in
+poverty in the last four decennial Censuses. Moving beyond
+household income, many dimensions of well-being and material
+deprivation may affect food security status and SNAP participation,
+such as mental health, depression, health-related quality of life,
+disablement, medical expenditures, alcohol or opioid addiction, place
+of residence, and within-household sharing of resources.
+Timeline
+Expected completion in FY 2026
+Analysts will conduct county-level representative surveys of
+household food security, well-being, and material hardship measures
+in at least six persistent-poverty counties to help identify factors
+other than income that impact food security status. The analysts will
+also conduct in-depth interviews with a subsample of households in
+these counties to provide additional context for the survey findings.
+Counties will represent a variety of spatial types (urban, suburban,
+Technical Approach
+and rural) and other policy-relevant characteristics. Collecting
+and Methodologies
+representative, qualitative data at the county level will enable
+improved estimates of county-level food security status, as official
+data at this granular level are unavailable. This data is unavailable
+because the USDA has a partnership with Census to develop one
+nationwide food security rate once per year, as such, there is no
+official federal rate or data collection at anything lower than that
+National rate.
+Data sources will consist of county-level representative surveys of
+Data Sources
+household food security, well-being, and material hardship measures
+in at least six persistent-poverty counties, and in-depth interviews
+with a subsample of households in six counties.
+15
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Ensuring State and participant cooperation and sufficient response
+Challenges and
+rates will pose a challenge. USDA will offer incentives to participant
+Mitigation Strategies
+respondents to increase response rates.
+Use and
+The findings will be presented to USDA policy officials and program
+staff via briefings. The results of the evaluation will also be posted
+Dissemination
+publicly on the USDA website.
+16
+U.S. Department of Agriculture - FY 2023 Evaluation Plan
+Acronyms and Abbreviations
+CF
+Community Facilities
+EAWG
+Evidence Act Working Group
+EBT
+Electronic Benefit Transfer
+ERS
+Economic Research Service
+Evidence Act
+Foundations for Evidence-Based Policymaking Act of 2018
+FIPS
+Federal Information Processing Standard
+FY
+Fiscal year
+OBPA
+Office of Budget and Program Analysis
+RPA
+Robotic Process Automation
+RUS
+Rural Utilities Service
+SNAP
+Supplemental Nutrition Assistance Program
+USDA
+U.S. Department of Agriculture
+WEP
+Water and Environment Program
+ZTRAX
+Zillow's Assessor and Real Estate Database
+17
+In
+accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights
+regulations and policies, the USDA, its Agencies, offices, and employees, and institutions participating in
+or administering USDA programs are prohibited from discriminating based on race, color, national origin,
+religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital
+status, ,family/parentalstatus, income derived fromapublicassistance program, political beliefs, or reprisal
+or retaliation for prior civil rights activity, in any program or activity conducted or funded by USDA (not
+all
+bases
+apply to all programs). Remedies and complaint filing deadlines vary by program or incident.
+Persons with disabilities who require alternative means of communication for program information (e.g.,
+Braille, large print, audiotape, American Sign Language, etc.) should contact the responsible Agency or
+USDA's TARGET Center at (202)720-2600 (voice and TTY) or contact USDA through the Federal Relay
+Service at (800) 877-8339.Additionally, program information may be made available in languages other
+than English.
+To file a program discrimination complaint, complete the USDA Program Discrimination Complaint Form,
+AD-3027, found online at How to File a Program Discrimination Complaint and at any USDA office or
+write a letter addressed to USDA and provide in the letter all of the information requested in the form.
+To request a copy of the complaint form, call (866) 632-9992. Submit your completed form or
+letter
+to
+USDA by: (1) mail: U.S. Department of Agriculture, Office of the Assistant Secretary for Civil Rights, 1400
+Independence Avenue, SW, Washington, D.C.20250-9410; (2) fax: (202) 690-7442; or (3) email: program.
+intake@usda.gov.
+USDA is an equal opportunity provider, employer, and lender.
+Issued March 2022

@@ -1,0 +1,249 @@
+US Department of Commerce
+Evidence/Evaluation Capacity Assessment
+FY 22/26
+What is a Capacity Assessment?
+The Foundations for Evidence-Based Policymaking Act of 2018 (the Evidence Act),
+Public Law 115-435, requires that agencies publish a Learning Agenda, with their
+Strategic Plan, in the first year of the Presidential election cycle. The Learning
+Agenda lists the evidence and evaluations the agency will develop to support
+implementation of the Strategic Plan. A third document, the Capacity Assessment,
+reports on the agency's resources to carry out the Learning Agenda.
+The Capacity Assessment reviews and appraises the statistics, evaluation,
+research, and analysis efforts of the agency. Assessment criteria include:
+Coverage: in each bureau, what evidence and evaluation activities are taking
+place and/or are planned? What departmental operations and activities are the
+subject of this work?
+Quality: are the data used of high quality with respect to utility, objectivity, and
+integrity?
+Methods: what are the methods being used for these activities, do these
+methods incorporate the necessary level of rigor, and are those methods
+appropriate for the questions to which they are being applied?
+Effectiveness: are the activities meeting their intended outcomes, including
+serving the needs of stakeholders? How are the findings of analyses being
+disseminated?
+Independence: to what extent are the activities being carried out free from bias
+and inappropriate influence?
+Department of Commerce Approach to the Capacity Assessment
+The Department of Commerce (DOC) Capacity Assessment was conducted in June
+of 2021, in order to inform DOC bureau budget submissions for FY 2023. The
+assessment was led by the Department Evaluation Officer in collaboration with
+the bureau Evaluation Leads. To complete the assessment, each bureau listed
+evidence/evaluation projects in the FY 22 and FY 23 Annual Evaluation Plans and
+1
+anticipated in the five-year Department Learning Agenda. For each project a
+rating was provided for the quality, rigor, effectiveness, and independence of the
+research project, given the anticipated approach. The bureau Evaluation Leads
+consulted with their internal stakeholders on ratings. Lastly, the template called
+for a summary assessment of the bureau's coverage of topics that should be a
+priority for evidence and evaluation.
+The completed templates and interviews with the bureau Evaluation Leads on
+capacity are summarized in the following sections of this document. The sections
+correspond to the questions in OMB A-11, Part 6, section 290.13.
+Summary of Findings
+Programs and Initiatives being evaluated and analyzed -
+The DOC Learning Agenda for FY 22/26 and the Department Annual Evaluation
+Plans for FY 22 and FY 23 list all the significant evidence development and
+evaluations currently planned. The Learning Agenda will be revisited/refreshed
+each year and may change because new issues and/or evidence needs have
+emerged. The research projects listed engage in "evidence building," both
+through the evaluation of a project or program, as well ae through foundational
+fact-finding needed to effectively administer a program or to create baseline data
+essential to a future evaluation.
+Impact, output, process, or formative evaluations are planned on the following
+topics:
+Bureau of Economic Analysis (BEA) - Indicators of Income Distribution
+Bureau of Industry and Security (BIS) - Effectiveness and Agility of Export Controls
+on New Technologies
+Census Bureau - 2020 Decennial
+Economic Development Administration (EDA) - CARES and American Rescue Plan
+Programming; Economic Development Revolving Loan Program; Scaling New
+Technology
+2
+International Trade Administration (ITA) - SelectUSA Promotion of Foreign Direct
+Investment; Export Assistance for Businesses
+Minority Business Development Agency (MBDA) - Interventions to Promote
+Minority Business Participation in Manufacturing
+National Institute of Standards and Technology (NIST) - Commercialization of New
+Technologies; Program Review by the National Academy of Science, Engineering
+and Medicine; Manufacturing Extension Partnership Program
+National Oceanic and Atmospheric Administration (NOAA) - Process Fidelity of
+NOAA's Impact-Based Decision Support Services; Equitable Climate Service
+Delivery; Assessments of Planned Offshore Energy Activities
+National Telecommunications and Information Administration (NTIA) -
+Expansion of Broadband Access
+Office of the Chief Financial Officer and Assistant Secretary for Administration
+(CFO/ASA) - Leadership Development Programming; Processes for Recruitment
+and Hiring
+United States Patent and Trademark Office (USPTO) - Customer Experience;
+Minority and Women Participation in Intellectual Property Protection
+Extent to which the needs of various divisions (e.g., bureaus, offices, programs)
+are supported? -
+Many research projects will be carried out with the help of contractors and
+academics. A resource guide to instruments and programs that can be used to
+engage academics in Department research is being created.
+Collaboration across the DOC will also support evaluation and evidence-building
+activities. The Census Bureau's Center for Economic Studies is supporting
+evidence/evaluation efforts of other bureaus, and Census is collaborating with the
+Economic Development Administration (EDA) on new economic indicators and
+data tools that will be useful in both project selection and monitoring. Census has
+3
+provided technical assistance in support of International Trade Administration
+(ITA) survey research. The National Oceanic and Atmospheric Administration
+(NOAA) is collaborating with the General Services Administration's (GSA) Office of
+Evaluation Sciences on research supporting improved communication of weather
+and climate information to underserved communities.
+Extent to which activities address balance among learning, management, and
+oversight? -
+The Department Learning Agenda includes "foundational fact finding," formative
+evaluations, output evaluations, impact evaluations, and process
+evaluation/improvement projects. Projects are prescribed for all bureaus and in
+support of all the Strategic Objectives in the FY 22/26 Strategic Plan. Most
+initiatives will be tools for learning, management, and oversight. Several projects
+use qualitative research approaches (interviews, focus groups, surveys) to
+develop evidence on stakeholder needs and service gaps. This information will
+inform further research and management decisions on policies and priorities.
+The Department's quantitative projects will leverage the Department's
+administrative and statistical data, including but not limited to data from
+Customer Relationship Management systems, grants management systems, the
+Census Business Register, and the Longitudinal Foreign Trade Transaction
+database, to learn what interventions work under what circumstances. The
+Census Opportunity Atlas, Community Resilience Estimates, and Small Area
+Income and Poverty Estimates will support the identification of communities and
+populations that have been historically underserved. The Department will hold
+itself accountable for achieving equity in program benefits.
+The creation and refinement of rigorous evidence, relied upon by millions of
+people, is a core function of several of DOC's bureaus including the Census
+Bureau, the Bureau of Economic Analysis (BEA), the National Institute of
+Standards and Technology (NIST), and NOAA. These agencies are in the "evidence
+business." Census and BEA create data sets and statistics that are fundamental to
+economic and demographic research and monitoring change (i.e., learning,
+management, and oversight). NOAA and NIST create data sets and conduct
+4
+research essential to economic progress, public safety and monitoring the effects
+of their conservation work (i.e., learning, management, and oversight).
+Learning is also supported by the Census Bureau's "The Opportunity Project" which
+uses the wisdom of the crowd to solve problems. The Project asks the American
+community to provide their proposed solutions to pressing problems. For example,
+in Fall 2021, technology development sprints brought together 10+ organizations
+to improve minority businesses' access to capital and tackle the climate crisis
+through climate-smart communities. Participants included large companies,
+startups, minority owned businesses, city governments, and national advocacy
+organizations.
+Most of the process evaluation/improvement work is prescribed under Goal Area
+5 of the Strategic Plan, which pertains to customer service and mission support.
+"Lean" process improvement methods will be applied to improve service for both
+internal and external customers and implement Executive Order 13571 on
+Transforming the Federal Customer Experience.
+Extent to which the agency uses appropriate methods? -
+Data quality is a preeminent value of the Department's scientific and statistical
+bureaus. Maintaining and improving data quality is supported by regimens that
+are assessed and upgraded as new methods and technology emerge. In support
+of the Evidence Act, data sets are being catalogued for the "Commerce Data Hub"
+that will facilitate use of this high-quality data by public and private organizations
+and individuals.
+Census and BEA adhere to the Principles and Practices for a Federal Statistical
+Agency and OMB Standards and Guidelines for Statistical Surveys and contribute
+to the content and evolution of this guidance. The bureaus refine and evolve data
+collections and statistics to meet the needs of data analysts and decision makers
+as the economy changes and new technology emerges. During the pandemic,
+Census created the weekly Household Pulse Survey and the Small Business Pulse
+Survey to monitor the effects of COVID 19 and the resulting quarantine. Census
+and BEA are investigating ways to provide more geographically granular and
+frequent data on the economy to help track recovery and the effectiveness of
+5
+recovery programming. BEA is also refining indicators of income distribution.
+Advisory committees, that include preeminent academics and business leaders,
+guide the development of new and improved data sets and statistics.
+NOAA and NIST are responsible for research that is essential to economic vitality
+(e.g., new materials, information technology) and reducing and mitigating climate
+change (e.g., ocean levels and extreme weather trends). They invent and test
+new ways to collect data and methodologies for interpreting the data. Their
+science is published in peer-reviewed journals and is available to the general
+public on their websites.
+The Census Bureau consults on survey research for other bureaus and their
+Center for Economic Studies (CES) is available to advise on methodologies for
+building evidence and conducting evaluations. The methodologies for some of
+the research, presented in the Learning Agenda, is notional. CES and/or qualified
+academics and contractors will be engaged to conduct the work or collaborate on
+it. These experts will refine methodologies. Further, the Office of the Under
+Secretary for Economic Affairs, which includes the Department Chief Economist,
+Evaluation Officer, Chief Data Officer, and Statistical Official, is establishing a
+system of internal peer review to bring additional expertise to evaluation
+methods. The General Services Administration's Office of Evaluation Sciences has
+provided expert input on statistical methods and will continue to be consulted as
+the Learning Agenda is executed.
+Finally, the Department Administrative Order (DAO) 216-21 on Program Evaluation
+sets standards for the relevance, rigor, independence, ethics, and transparency of
+evaluations and has reporting requirements to monitor implementation of annual
+Evaluation Plans and the standards.
+Extent to which capacity is present for planning and implementing evaluation,
+disseminating findings, incorporating employee views, and using research and
+analysis in day-to-day operations? -
+6
+Bureaus fall along a spectrum of experience with, and staff dedicated to, employing
+evidence/evaluation research. Planning and transitioning research to operations is
+part of well-established protocols of the Department's larger bureaus and
+statistical organizations (NIST, NOAA, Census, BEA, US Patent and Trademark
+Office). The Economic Development Administration and the Minority Business
+Development Agency have had research as part of their portfolios for decades but
+have added capacity to meet the evidence/evaluation needs of their recently
+expanded programming. MBDA's Office of Policy Analysis and Development
+(OPAD) will lead the agency's evidence and evaluation efforts and assist other
+Federal agencies with data-based approaches to increasing program benefits to
+historically underserved communities.
+ITA has considerable capacity for research on industry trends, and their Global
+Markets directorate has data and evaluation expertise. In recent years, ITA has
+collaborated with Census's Center for Economic Studies on an evaluation with a
+quasi-experimental design that leverages ITA's Customer Relations Management
+database and Census statistical data. The Bureau of Industry and Security (BIS) and
+the National Telecommunications and Information Administration (NTIA) will rely
+on contract support for evaluation and have great evidence building capabilities in
+their disciplines.
+The Evaluation Officer and Chief Data Officer are housed in the Office of the Under
+Secretary for Economic Affairs (OUSEA). They collaborate together and with the
+Department's Statistical Official (a function that rotates between the Directors of
+BEA and the Census Bureau every two years). Currently, they are supported
+primarily by contractors and details and through collaboration with bureaus and
+staff from other offices.
+The Department is making investments in OUSEA to increase the capacity to
+improve data accessibility, evidence/evaluation planning, and integrate findings
+into operations. The increased capabilities will provide methodological expertise,
+training programs, an internal peer review program, and support "data analysis
+on demand" for the Office of the Secretary.
+7
+The Evaluation Officer and staff are also responsible for administering DAO 216-
+21 on Program Evaluation. This Department Administrative Order requires that
+bureaus report research findings to the Deputy Secretary and explain how the
+findings will be used in operations. The Evaluation Officer will report to the
+Deputy Secretary twice a year on the status of the Annual Evaluation Plan and the
+Learning Agenda.
+Dissemination and Deployment of Evidence and Evaluations
+Stakeholders will be consulted when research methodologies are designed and at
+significant milestones during the study process. Drafts and preliminary findings
+will be shared with internal stakeholders and staff of collaborating organizations.
+When projects are complete, the reports will be posted on the public-facing
+websites of the relevant bureaus. Care will be taken to ensure that legal
+restrictions on access to the information, e.g., for security or privacy reasons, are
+adhered to.
+Significant evidence/evaluation findings are often presented at conferences and
+workshops to the appropriate communities of practices. NOAA, NIST, Census, and
+BEA research is often published in peer-reviewed journals as an objective
+measure of quality and to make the results more accessible.
+Stakeholder engagement in the research process will primarily be the
+responsibility of the bureau/office sponsoring the development of the
+evidence/evaluation. However, the Evaluation Officer, MBDA, the Office of
+Business Liaison, the Office of Faith-Based and Neighborhood Partnerships, and
+the Office of Public Affairs will support stakeholder engagement through their
+networks of organizations and communities. The Evaluation Officer, the Office
+of
+Business Liaison, MBDA and the Office of the Secretary recently sponsored a
+"listening session" on the Department's Learning Agenda and invited comments
+through a Dec. 3 notice in the Federal Register.
+Conclusion
+The Department of Commerce is a national resource for evidence on
+demographics, the economy, climate, weather, materials science, and other vital
+scientific research. The Department is making critical investments to promote
+8
+synergy from the deep and varied evidence and evaluation expertise of the
+bureaus and to get maximum value from Commerce's world-class data.
+9

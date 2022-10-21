@@ -1,0 +1,592 @@
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+HHS Equity Action Plan
+EXECUTIVE SUMMARY
+Mission
+The mission of HHS is to enhance the health and well-being of all Americans, by
+providing for effective health and human services and by fostering sound, sustained
+advances in the sciences underlying medicine, public health, and social services.
+Summary of Action Plan
+Executive Order 13985 calls on agencies to advance equity through identifying and
+addressing barriers to equal opportunity that underserved communities may face due
+to government policies and programs. This Equity Action Plan focuses on a main tenet
+of EO 13985, that advancing equity must be a central component of the decision-mak-
+ing framework that all agency functions are routed through. Using the definition of
+equity presented in EO 13985,¹ this plan takes the perspective that it is incumbent on
+HHS to move urgently to assess and change policies, programs and processes that the
+Department administers to concretely advance equity and that for these efforts to
+last, HHS must simultaneously shift the culture, resources, and approaches available
+to HHS staff to institutionalize and sustain a focus on equity over time. This Equity
+Action Plan does not describe comprehensively how all HHS components are working
+to advance equity, but instead highlights a few examples across the Department.
+The Equity Action Plan was developed with cross-cutting department conversations
+and is designed to take concrete action to transform how HHS does business in ways
+that promote and advance equity through building on work that is already underway
+1. Section 2(a) of EO 13985 provides that, "The term 'equity' means the consistent and systematic fair,
+just, and impartial treatment of all individuals, including individuals who belong to underserved commu-
+nities that have been denied such treatment, such as Black, Latino, and Indigenous and Native Amer-
+ican persons, Asian Americans and Pacific Islanders and other persons of color; members of religious
+minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+) persons; persons with disabilities;
+persons who live in rural areas; and persons otherwise adversely affected by persistent poverty or in-
+equality." Further, section 2(b) provides that, "the term "underserved communities' refers to populations
+sharing a particular characteristic, as well as geographic communities, that have been systematically
+denied a full opportunity to participate in aspects of economic, social, and civic life, as exemplified by
+the list in the preceding definition of 'equity."
+SERVICES.US
+S
+Page 1 lApril 2022
+HHS Equity Action Plan
+and implementing new actions. The plan describes actions that can be taken now
+with current resources and ways the Department can work to further advance
+equity in the future through strategies such as building data capacity, expanding
+stakeholder engagement, increasing our understanding of root causes of inequities
+and ongoing evaluation of our efforts. This plan is also written with an acknowl-
+edgement that all HHS equity-related efforts are not captured here, and the select
+inclusion of strategies is designed to be both a starting point and illustrative of the
+deep and wide actions to advance equity. Additionally, future in-vestments, such as
+those which may require new technology for example, are subject to the availability
+of funding.
+Based on guidance from the Office of Management and Budget (OMB) and build-
+ing on the Department's previous work, the strategies included here were selected
+as illustrative examples of HHS's wide actions to advance equity and focus on the
+areas of civil rights and language access, acquisitions, grants, capacity building, and
+maternal mortality.
+Focusing on civil rights protections and laws will help address barriers to
+heath care and human services, such as those individuals with limited English
+proficiency face in obtaining information, services and/or benefits from HHS
+federally conducted and federally assisted programs.
+Working to address acquisitions will focus on increasing opportunity to HHS
+contracting for small disadvantaged businesses and Historically Underutilized
+Business Zone Small Businesses.
+Using our grants will support incorporating equity considerations into Notice
+of Funding Opportunities.
+Concentrating on capacity building helps incorporate equity into HHS policy
+and program actions, including by conducting equity assessments and disparity
+impact strategies.
+Prioritizing maternal mortality action addresses the increased pregnancy
+and postpartum morbidity and mortality among Black and American Indian/
+Alaska Native (AI/AN) pregnant and childbearing people by focusing on working
+with states to extend health insurance coverage in Medicaid and the Children's
+Health Insurance Program for all enrollees who give birth and developing
+innovative ways to improve postpartum care.
+While there are many additional efforts HHS is undertaking to focus on equity, this
+Equity Action Plan focuses on these five areas as an example of HHS's commitment
+to advance equity in all aspects of our work.
+SERVICES-US
+B
+2
+HHS Equity Action Plan
+SUMMARY OF EARLY ACCOMPLISHMENTS
+Since the release of EO 13985 on January 20, 2021, HHS has focused on taking steps
+to continually advance equity, which is a top priority for President Biden and HHS
+Secretary Becerra. First, as required by EO 13985, four HHS offices have conducted
+pilot equity assessments examining equity in their respective programs and poli-
+cies, which covered administered grants, contracting, postpartum care, and Benefit
+Enrollment Centers connecting Medicare beneficiaries with limited incomes to
+needed benefits. These efforts were used as an opportunity to test what equity as-
+sessment methods and approaches are viable across HHS and identify what is nec-
+essary to institutionalize robust equity assessments into our policy, program, and
+process decision-making.
+HHS is incorporating equity into all facets of its work across the Department. As
+part of this work, HHS is working to increase engagement with individuals who
+are directly affected by HHS policy and programs. For example, as directed by EO
+13995, HHS established the COVID-19 Health Equity Task Force, which included
+12 non-federal members representing a diversity of expertise and lived experience.
+HHS is also examining ways to address inequities through steps such as guiding
+implementation of procurement contracts for American Indian/Alaska Native-
+owned and controlled businesses, and streamlining Medicaid and CHIP enrollment
+and renewal processes. In addition, through its Office for Civil Rights (OCR), the
+Department is engaged in efforts to clarify and enforce nondiscrimination provi-
+sions across the Department. For example, in May 2021, OCR issued a Notification
+of Interpretation and Enforcement of Section 1557 of the Affordable Care Act and
+Title IX of the Education Amendments of 1972, establishing that it would enforce
+the prohibition against sex discrimination to include sexual orientation and gender
+identity consistent with the recent Supreme Court decision in Bostock V. Clayton
+County. During FY 2021, OCR led HHS implementation of Executive Order 13988:
+Preventing and Combating Discrimination on the Basis of Gender Identity
+or Sexual Orientation, by coordinating and engaging with all of HHS's operating
+divisions and agencies to highlight and note those actions to be revised, suspended,
+or rescinded to be consistent with the order.
+HHS is also engaged in many other initiatives related to incorporating equity into
+policy action, including:
+1. Office of Climate Change and Health Equity: On August 30, 2021, under the
+direction of President Biden and the Assistant Secretary for Health, the Office
+of Climate Change and Health Equity (OCCHE) was established within HHS.
+SERVICES-US
+S
+3
+HHS Equity Action Plan
+OCCHE addresses the impact of climate change on the health of the American
+people and serves as a department-wide hub for climate change and health
+policy, programming, and analysis, in pursuit of environmental justice and
+equitable health outcomes.
+2. Equity Impact Assessments in the Legislative Process: For the first time this
+year, equity impact assessments were incorporated into HHS's A-19 process, in
+which the Department develops legislative proposals for consideration to include
+in the President's Budget. HHS offices were given tools to help them complete
+the equity impact sections of the A-19 templates and identify the potential
+equity impacts of proposals. Lessons from the process in 2021 are being used
+to enhance and refine these efforts in future years.
+3. National Institutes of Health (NIH) UNITE: NIH established the UNITE
+initiative to identify and address structural racism within the NIH-supported
+and the greater scientific community. With representation from across the NIH
+Institutes and Centers, UNITE aims to establish an equitable and civil culture
+within the biomedical research enterprise and reduce barriers to racial equity
+in the biomedical research workforce. To reach this goal, UNITE is facilitating
+research to identify opportunities, make recommendations, and develop and
+implement strategies to increase inclusivity and diversity in science. These
+efforts will bolster the NIH's effort to continue to strive for diversity within
+the scientific workforce and racial equity on the NIH campus and within the
+extramural community.
+4. Centers for Medicare & Medicaid Services (CMS) Health Equity Inventory: CMS
+Office of Minority Health (OMH) launched a Health Equity Inventory to provide
+an environmental scan of its overall current health equity portfolio, including
+identifying ongoing activities in health equity performed across the agency,
+health equity staff leads, resources, areas of potential collaborations, challenges,
+and opportunities.
+5. Minority Health Social Vulnerability Index (SVI): In 2021, the Centers for
+Disease Control and Prevention and HHS Office of Minority Health partnered to
+develop the Minority Health SVI, which enhances existing resources to support
+the identification of racial and ethnic communities at the greatest risk for
+disproportionate impact and adverse outcomes due to the COVID-19 pandemic.
+SERVICES.D'
+<<
+4
+HHS Equity Action Plan
+EQUITY ACTION PLAN
+1. Nondiscrimination in HHS: Civil Rights Protections
+and Language Access
+Barrier to Equitable Outcomes: Under Secretary Becerra's leadership, HHS has
+prioritized restoring efforts to provide language access services appropriate to their
+respective programs. For example, for the first time HHS provided the "Medicare &
+You" handbook in other languages and increased language access efforts on health-
+care.gov. Still, language access is a moving target that requires continued attention
+and adjustments to strategy and methods. As part of this work, HHS will work to
+restore and strengthen its cross-department Language Access Plan. For example,
+some components produce substantial amounts of translated material while others
+rely primarily on telephonic interpretation, but all components struggle with pro-
+viding support in less frequently spoken languages and adding material in additional
+languages as the need arises. Further, while the need for providing language access
+services to individuals with LEP is clear, meeting those needs is difficult. For exam-
+ple, while some HHS websites contain content and taglines in multiple languages,
+LEP visitors to our sites still have difficulty navigating webpages and/or obtaining
+language access services to communicate with HHS. In many cases visitors are
+unaware that language access services are available. HHS also has limited ability
+currently to assess outcomes in real time, therefore agency language access plans
+include an element specifically focused on assessing the accessibility and quality of
+its language access efforts to improve agency capacity to serve individuals with LEP.
+Action and Intended Impact on Barrier: For the purposes of this Equity Action
+Plan, HHS will focus on addressing barriers that individuals with LEP face in ob-
+taining information, services and/or benefits from HHS federally conducted pro-
+grams (e.g., the 1-800-MEDICARE number where the services are provided directly
+by CMS) and federally assisted programs (e.g., Medicaid, where CMS funding allows
+a beneficiary to receive health care services from a private provider). HHS will ad-
+dress the following items:
+Access to in-language content through webpages, listserv announcements,
+and public outreach material;
+Telephonic interpreter services;
+Program and benefit information in other languages; and
+Federal funding for recipients of HHS funds to provide language access services.
+Title VI requires recipients of HHS federal financial assistance to take reasonable
+SERVICES.DE
+S
+5
+HHS Equity Action Plan
+steps to provide meaningful access to their programs by individuals with LEP. In
+its federally conducted programs, HHS aims to model the same level of language
+access as that required of those who receive HHS funds. Although Title VI does not
+apply to programs conducted by federal agencies, under current regulations imple-
+menting Section 1557 of the Affordable Care Act (ACA), programs conducted by the
+Department under Title I of ACA must take reasonable steps to provide meaningful
+access to their programs by individuals with LEP. The scope of this requirement may
+change in future Section 1557 rulemaking.
+Tracking Progress:
+Medium-term indicators (2-4 years):
+Establish how funding for language access services can be distributed in
+compliance with federal law;
+Establish HHS-wide procedures for providing telephonic interpreter services;
+Establish website accessibility guidance for HHS Staff Divisions (STAFFDIVS)
+and Operating Divisions (OPDIVS). STAFFDIVS in the Office of the Secretary
+will provide leadership, direction, and policy and management guidance to the
+Department. OPDIVS are agencies that provide funding through grant awards,
+loans, health insurance, and services in support of public health and human
+service initiatives. In HHS there are 16 STAFFDIVS and 11 OPDIVS;
+Establish an action plan for pushing out in-language program and benefit
+information; and
+Establish goals for funding language access services internally and externally.
+Long-term indicators (5-8 years):
+Every OPDIV and STAFFDIV will have Help Lines supported by telephonic
+interpreters;
+More LEP callers to HHS Help Lines will receive meaningful access to success-
+fully reach and obtain services from the desired program offices;
+Every OPDIV and STAFFDIV will post in-language webpages;
+Each year OPDIVS and STAFFDIVS will add webpages in frequently encountered
+languages;
+Every OPDIV and STAFFDIV website will link to in-language program information;
+More LEP visitors to HHS websites will find material in their language and infor-
+mation on how to obtain language access services from the program agency;
+HHS grant programs will aim to provide funding to help recipients of Federal
+SERVICES.UC
+S
+6
+HHS Equity Action Plan
+financial assistance provide language access services, at a minimum where legal-
+ly required; and
+LEP visitors to programs conducted or funded by HHS will receive language
+access services at no cost, at a minimum where legally required.
+Accountability: Full implementation of the HHS Language Access Plan will re-
+sult in a Department-wide culture change that prioritizes equity in the delivery of
+HHS conducted and funded programs, which will ultimately contribute to improved
+health outcomes and reduced health disparities for underserved communities iden-
+tified in EO 13985. To ensure HHS makes progress, the OCR Director will oversee
+these efforts and will annually report to the Secretary. The OCR Director will:
+Designate an office or official responsible for developing and maintaining an
+accurate record of a program that regularly assesses and takes necessary steps
+to improve and ensure the quality and accuracy of language access services
+provided to individuals with LEP.
+Track implementation methods for measuring improvements in language
+access in individual programs and take steps to ensure that such information is
+collected in a manner that increases comparability, accuracy, and consistency
+across programs. Agencies can determine whether it is appropriate for this
+element to be implemented by the same office or official responsible for
+implementing another element.
+Take steps to address problems identified in OCR investigations of LEP
+complaints filed against HHS.
+Identify best practices for continuous quality improvement regarding agency
+language access services. Share such practices with the Steering Committee,
+which may offer them as guidance to HHS components, grantees, contractors,
+and recipients as appropriate.
+Identify and disseminate data to the Steering Committee to help other
+HHS components facilitate organization-wide learning and coordination,
+collaboration on high impact outreach, or developing cross-cutting audience-
+appropriate messaging to mutual customer communities.
+2. Acquisitions
+Barrier to Equitable Outcomes: Assessments conducted by HHS on whether
+underserved communities and their members face systematic barriers in apply-
+ing for contract opportunities revealed several areas where small disadvantaged
+businesses, as defined by the Small Business Act (SBA) and its implementing
+regulations, face barriers to applying for HHS procurement opportunities. These
+barriers include:
+SERVICES-US
+B
+7
+HHS Equity Action Plan
+Agency acquisition planning leaves short timelines to build proposed
+solutions and create teaming arrangements to be competitive for contracting
+opportunities with the smaller teams and budgets that these businesses have
+Lack of transparency on available contracting opportunities and agency
+requirements creating barriers when these businesses do not have as much
+experience working with agencies
+Lack of access to agency program officials to market company capabilities
+Businesses lack adequate access to capital to build business development
+capabilities
+Action and Intended Impact on Barrier: Based on the barriers identified in
+the assessment, HHS has identified two (2) discrete and impactful actions that will
+begin to reduce equity barriers and increase opportunities for small disadvantaged
+businesses to apply for contracts within HHS procurement programs.
+HHS will focus its efforts on:
+1. Assessing barriers for small disadvantaged businesses in applying for HHS
+contract opportunities and providing training and outreach to address these
+barriers. This can help small disadvantaged businesses learn more about agen-
+cy requirements, agency points of contact, and available resources to advance
+their capabilities.
+2. Instituting an HHS centralized procurement forecasting system that will
+streamline access to forecasted opportunities. HHS Small Business Specialists
+will ensure these opportunities are posted and available for public review prior
+to conducting the small business review required for actions over the Simplified
+Acquisition Threshold (SAT). This will help to ensure that small disadvantaged
+businesses are informed about contracting opportunities early on to ensure they
+have the most time possible to develop proposals. It will also minimize the bur-
+den of identifying available HHS contracting opportunities.
+Tracking Progress:
+Medium-term indicators:
+For action 1:
+-
+Conducting small business reviews for all actions that will be issued against
+multiple award contracts including Government-Wide Acquisition Contracts
+(GWACs) and agency specific Indefinite Delivery Indefinite Quantity con-
+tracts. By reviewing these actions, HHS Small Business Specialists will be able
+to identify significant opportunities to address additional barriers faced by
+SERVICES.CE
+S
+8
+HHS Equity Action Plan
+small disadvantaged businesses. To measure the effectiveness of this action,
+HHS will review the awards made against multiple award contracts or GWACs
+at least quarterly, sharing this information with the HHS Head of Contracting
+Activities (HCAs) so they are aware of the progress of their organization.
+-
+Increase outreach to underserved areas across the US and increase use of
+market research tools to identify pools of small disadvantaged businesses
+capable of performing targeted HHS SAT opportunities.
+-
+HHS will develop training initiatives for the acquisition workforce on utiliz-
+ing small businesses and market research analysis.
+-
+No later than 04/01/2022, HHS will also conduct targeted Program
+Management Reviews on small business opportunities and small business
+contract awards, which is inclusive of small disadvantaged businesses.
+-
+No later than 04/01/2022, the Office of Small and Disadvantaged Business
+Utilization (OSDBU) will conduct targeted training for HHS Small Business
+Specialists and Contracting Officers on the utilization of small businesses.
+For action 2:
+-
+To help address this barrier for small disadvantage businesses, effective
+05/01/2022, HHS will require all forecasted opportunities to integrate with-
+in the centralized HHS-wide Small Business Customer Experience (SBCX)
+forecasting system so the small business industrial base has a single point of
+entry for upcoming procurements.
+-
+In accordance with Section 501 of Public Law 100-656, HHS will modify
+its internal policies no later than 05/01/2022 and require that the forecast
+opportunities be posted in SBCX as soon as the need is identified and no
+later than August timeframe for the next fiscal year's opportunities with
+updates. As appropriate, HHS will require updates on entries to be made
+no later than March 30th to ensure the most up-to-date information about
+upcoming procurement opportunities is made available to small business
+concerns on a regular and recurring basis. Further, this policy will require
+completed posting of opportunities prior to the required Small Business
+Specialist review.
+- To monitor compliance and track progress, the OSDBU will compare infor-
+mation available on the SBCX forecast with information provided during
+the Small Business Specialist reviews of individual procurements to ensure
+information has been posted to SBCX in a timely manner. In addition, the
+HHS Office of Acquisitions will include compliance with this requirement as
+a part of their regularly scheduled Procurement Management Reviews.
+SERVICES.UE
+S
+9
+HHS Equity Action Plan
+Long-term indicators:
+For actions 1 and 2:
+- Reduced barriers to contracting and subcontracting opportunities for small
+disadvantaged businesses and small businesses located in HUBZones.
+Accountability: ASFR's Associate Deputy Assistant Secretary for Acquisitions, the
+Director of the Office of Small and Disadvantaged Business Utilization oversee these
+efforts and report progress on indicators to the HHS Secretary.
+For all actions, HHS will create executive communication mediums by 10/01/2022
+that track progress based on regular SAM.gov data pulls and other related activities
+such as Small Business Specialist reviews and queries against SBCX.
+3. Grants
+Barrier to Equitable Outcomes: HHS made $620 billion in financial assis-
+tance awards in FY2O. When examining grant processes, there is an apparent lack
+of diversity in applicants as well as successful awardees, with the same entities
+frequently receiving awards. Based on analysis of past general concerns raised
+by external entities, there are several suspected root causes for the lack of di-
+versity. These include overly burdensome provisions in the Notices of Funding
+Opportunity (NOFOs), difficult to understand NOFOs, and a lack of technical as-
+sistance for the overall application process. When conducting their equity assess-
+ment, the Office of the Assistant Secretary for Financial Resources (ASFR) found
+tribal communities often have difficulty meeting the service population require-
+ments, match requirements, and/or are under-resourced to apply and successfully
+compete for grant awards. It is suspected that many other underserved commu-
+nities, as defined by EO 13985, also experience similar barriers to accessing grant
+funds. Some suggestions from tribal consultations to improve the grantmaking
+process that may be helpful to improve opportunity include:
+Decreasing reporting burdens associated with funding, such as through
+streamlining reporting systems that may be associated with multiple grants.
+Assisting interested applicants in applying and taking advantage of funding
+opportunities through technical assistance, outreach, and education to ensure all
+communities are aware of funding opportunities and prepared to apply for them.
+Increasing grant offices' and grant reviewers' understanding of tribal and
+underserved communities, their needs, and cultures, to help ensure that
+lack of familiarity with organizations or entities does not itself unfairly
+disadvantage applicants.
+SERVICES.UE
+S
+10
+HHS Equity Action Plan
+Providing training on the different ways to meet the non-federal match
+requirements when they cannot be eliminated. For example, donating space to
+administer a program.
+HHS is investigating strategies for addressing these barriers. As part of its Fiscal
+Year 2022 annual NOFO guidance for HHS awarding agencies, ASFR issued guid-
+ance on how to incorporate equity considerations into NOFOs. This internal HHS
+guidance is intended to begin to address inequities in HHS grantmaking processes
+that may serve as barriers to equal opportunity. For example, it includes guidance on
+the potential use of data driven disparity impact statements to address how grantee
+projects will reach its intended populations, including underserved communities
+as defined in E.O. 13985. The guidance urges agencies to consider their strategy for
+providing technical assistance to potential applicants under each NOFO to ensure
+that the assistance equitably reaches eligible organizations and communities. ASFR
+is also in the process of developing a NOFO writing training for HHS agencies to
+improve NOFO quality overall and address equity considerations.
+Action and Intended Impact on Barrier: HHS grant-making divisions will in-
+corporate ASFR's 2022 guidance into their NOFOs, which includes considerations
+for increasing opportunity for successful applicants from communities defined in
+EO 13985. The information included in the NOFO guidance and subsequent tech-
+nical assistance is informed by the equity assessment conducted by ASFR's Office
+of Grants. ASFR is conducting data collection and analysis via historical reviews
+of HHS NOFOs, external and internal stakeholder outreach, and a review of data
+from the various grants systems. This data will establish a baseline for the im-
+provement of major issues impacting equitable opportunity in the grantmaking
+process, including the NOFO process, in order to develop comprehensive policies.
+ASFR is determining whether we have historical data available to analyze unsuc-
+cessful applications and whether we can determine patterns in the reasons for lack
+of success. Short record retention schedules for unsuccessful applications may
+hamper this analysis.
+Tracking Progress:
+Short-term indicators: Sampled HHS NOFOs include language that reflects
+ASFR's 2022 guidance.
+Medium-term indicators: HHS will develop an analysis of the historical NOFO
+review to provide guidance to HHS on where to pinpoint immediate changes to
+NOFO development across HHS. HHS will also complete analysis of data from
+grant systems including unsuccessful applications and conduct outreach to
+both external and internal stakeholders to further inform policy changes. The
+SERVICES.UE
+S
+11
+HHS Equity Action Plan
+data developed from these Medium-term activities will provide a baseline by
+which HHS can measure improvements in the diversity in both applicants and
+awardees among many equity indicators.
+Long-term indicators: HHS receives increased grant and cooperative agreement
+applications proposing to serve underserved communities as defined in EO 13985.
+Accountability: ASFR's Deputy Assistant Secretary for Grants will oversee these
+efforts and the ASFR will report progress on indicators to the HHS Secretary.
+4. Capacity Building
+Barrier to Equitable Outcomes: HHS currently lacks the data and equity
+assessment capacity to consistently identify and address inequities in health and
+human services. Equity assessments are data informed assessments of inequi-
+ties and disparities in HHS programs, including entitlement programs such as
+Medicare and Medicaid, and such assessments highlight opportunities for HHS to
+address them. For example, an equity assessment may focus on assessing equitable
+access to Medicare benefits for eligible populations and developing strategies for
+addressing identified barriers. Many components of HHS have not yet conducted
+an equity assessment to identify inequities in their programs and work towards
+addressing them. Further, HHS has found that components need practical tools
+and guides to help them get started and deploy robust approaches to identify-
+ing and addressing barriers to opportunities, access, quality, care and outcomes.
+This work can be time and resource-intensive and offices conducting equity as-
+sessments frequently cited the need to bring on additional staff and contractor
+capacity to be able to conduct equity assessments and begin to address inequities
+found through the assessment. To address these challenges and ensure that all
+of HHS has the information necessary to address inequities in their work, HHS
+will be focusing on resourcing and implementing equity assessments across the
+Departments major policies and programs.
+Action and Intended Impact on Barrier: At least one equity assessment will be
+conducted by each OPDIV.
+Tracking Progress:
+Medium-term indicators:
+Development of resources to assist offices in conducting equity assessments
+and address the findings through the establishment of an Equity Technical
+Assistance Center.
+SERVICES.DE
+S
+12
+HHS Equity Action Plan
+Number of HHS OPDIVs implementing an equity assessment.
+Actions taken to remove or address barriers to equity and opportunity identified
+in equity assessments conducted by OPDIVs.
+Long-term indicators:
+Number of HHS OPDIVs tracking progress on outcomes that they are seeking to
+improve to address findings of an equity assessment.
+Decreases in documented inequities found under initial equity assessments.
+Accountability: The Assistant Secretary for Planning and Evaluation (ASPE) will
+oversee these efforts and report progress on indicators to the HHS Secretary, and
+included in publicly available reports, as appropriate.
+5. Maternal Mortality
+Barrier to Equitable Outcomes: Medicaid covers 42 percent of all births over-
+all with two-thirds of births to Black or African American and AI/AN women.
+Pregnancy related deaths are two to three times more common among Black or
+African American and AI/AN women than among White women.2 Research has
+shown Black and Hispanic people have lower rates of postpartum follow-up care,
+as do those with low levels of education and/or coexisting morbidities such as men-
+tal health conditions. When examining postpartum depression, approximately 13
+percent of postpartum women experience depression, with higher self-reported
+rates among women of color (Black: 18.2%, White: 11.4%, Hispanic: 12.0%, American
+Indian or Alaskan Native: 22.0%, Other: 16.3%) and low-income women, and rates
+that vary from state to state. Black women were found to have among the lowest
+postpartum diabetes screening rates (Black: 33%, White: 35%, Hispanic: 45%, Asian:
+50%) despite having the highest risk for progression to chronic diabetes.³
+More than one-half of pregnancy-related mortality occurs in the 12-month post-
+partum period and about one-third occurs between 7 and 365 days post-delivery.
+Postpartum care is a critical opportunity to address and provide follow up for condi-
+tions associated with morbidity and mortality in the postpartum period.4
+There are many barriers for Black or African American and AI/AN people in
+ 2. https://www.cdc.gov/reproductivehealth/maternal-mortality/disparities-pregnancy-related-deaths/
+infographic.html; https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surv
+ance-system.htm#race-ethnicity
+3. https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-expert-workgroup-recommenda-
+tions.pdf
+4. ttps://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-expert-workgroup-recommenda-
+tions.pdf
+SERVICES-US
+B
+13
+HHS Equity Action Plan
+accessing and receiving high quality postpartum care. With respect to insurance
+coverage, Medicaid provides pregnancy-related coverage for eligible beneficiaries for
+60 days postpartum. At the end of the 60 days, many beneficiaries are left without
+insurance, especially in states that have not expanded Medicaid eligibility to low-in-
+come adults. The loss of insurance comes at a critical time with almost 12% of post-
+partum deaths occurring between 43-365 days postpartum.5 Other barriers include
+transportation, child care, and lack of paid leave.6 Extending coverage would allow
+all eligible beneficiaries, including but not limited to underserved communities iden-
+tified in EO 13985, coverage to get the follow up care they need.
+Action and Intended Impact on Barrier: HHS is responding to this challenge by
+focusing on working with states to extend postpartum coverage in Medicaid and the
+Children's Health Insurance Program (CHIP), and on identifying innovative ways to
+improve postpartum care for Black or African American and American Indian/
+Alaska Native (AI/AN) people enrolled in Medicaid or CHIP. This coverage would
+be comprehensive, and would include, follow-up care for diabetes, postpartum
+depression and/or postpartum anxiety, hypertension and substance use disorders
+(SUD).
+CMS is working with states adopting the state plan option provided by the American
+Rescue Plan Act, which provides continuous extended postpartum coverage in Medicaid
+and CHIP. This option will allow states to improve access to coverage by providing
+individuals who are enrolled in Medicaid and CHIP while pregnant with 12 months
+of postpartum coverage, instead of the required 60-day postpartum period. Written
+guidance on extending Medicaid/CHIP coverage was issued in December 2021 (State
+Health Official Letter #21-007). CMS regularly engages states regarding implementa-
+tion, including through a Medicaid and CHIP Coverage Learning Collaborative meeting
+in December, 2021 and by providing technical assistance to individual states.
+Through the HHS Racial Equity in Postpartum Care Challenge (Challenge), the
+Office of Women's Health (OWH), in partnership with the Centers for Medicare &
+Medicaid Services (CMS), is soliciting challenge entries to serve as examples of ef-
+fective programs and practices to reduce disparities and improve outcomes for post-
+partum Black or African American and AI/AN people enrolled in Medicaid or CHIP
+through emphasizing follow-up care for conditions associated with morbidity and
+mortality in the later postpartum period, including diabetes, postpartum depression
+and/or postpartum anxiety, hypertension, and substance use disorders (SUD).
+ 5. https://www.medicaid.gov/medicaid/quality-of-care/downloads/mih-expert-workgroup-recommen
+dations.pdf
+ 6. https://www.medicaid.gov/medicaid/quality-of-care/downloads/strategies-to-improve-postpar-
+tum-care.pdf
+SERVICES-US
+B
+14
+HHS Equity Action Plan
+Tracking Progress:
+Medium-term indicators:
+The Challenge consists of two phases and will finish in Spring 2023. During
+that time:
+-
+CMS and OWH will identify successful programs that can serve as models
+for quality improvement
+-
+CMS and OWH will share information about those programs with state
+Medicaid and CHIP agencies and their partners, through avenues like CMS'
+Maternal and Infant Health Initiative Postpartum Care Learning
+Collaborative.
+CMS will track the number of technical assistance engagements provided by
+CMS to states to assist with implementation of the option to extend Medicaid/
+CHIP coverage to 12 months postpartum.
+Long-term indicators:
+Higher rates of postpartum follow-up care among Black or African American and
+AI/AN people. (Data source: Medicaid and CHIP administrative data)
+Lower rates of postpartum morbidity and pregnancy related deaths. (Data
+sources: Public health surveillance data, vital records, maternal mortality review
+boards)
+Adoption of postpartum coverage extension by all states that want to extend
+this coverage while the statutory authority is available. (Data source: CMS state
+plan amendment approvals)
+Accountability: The Challenge competition will conclude in Spring 2023. CMS
+will review the entries and showcase successful strategies to health administrators
+and providers to support the adoption of effective approaches to engaging Black or
+African American and AI/AN individuals in postpartum care. Information about
+states with approved state plan amendments to extend postpartum coverage will be
+available on Medicaid.gov.
+SERVICES.D'
+<<
+15

@@ -1,0 +1,2478 @@
+I
+U.S. Department of Labor
+Evidence-Building Plan
+2022
+FISCAL YEARS
+2026
+MENT
+OF
+U.S. Department of Labor
+TATES OF
+Table of Contents
+Click to view page
+Foreword
+.i
+Summary
+ii
+I. What is the Evidence-Building Plan and Who Should Use It?
+1
+Defining Evidence
+2
+Scope and Coverage of Activities in this Plan
+3
+Evidence Officials at the U.S. Department of Labor
+4
+II. Stakeholder Engagement
+6
+III. Planned Evidence-Building Activities by Priority Learning Area
+8
+Priority Learning Area 1: Ensuring Equity in Employment and Training Programs
+9
+Priority Learning Area 2: Reducing Barriers to Women's Employment.
+13
+Priority Learning Area 3: Studying Effects of the COVID-19 Pandemic
+15
+Priority Learning Area 4: Improving Enforcement Activities & Protections for All.
+17
+Priority Learning Area 5: Strengthening Unemployment to Reemployment
+27
+Additional Planned Learning Activities
+.29
+IV. Cross-Cutting Evidence Building Activities
+.33
+DOL Scholars Program
+.33
+Data Challenge for Emerging Scholars & Academics
+33
+Increasing Diversity Among DOL-Funded Research Partners
+.34
+Clearinghouse for Labor Evaluation and Research (CLEAR)
+.35
+DOL Staff Capacity Building: Evaluation, Measurement,
+and Analytics Training Program
+.36
+Improved Measurement & Data Collection of Key Constructs
+.36
+Improving DOL's Data Infrastructure
+38
+V. Potential Future Evidence-Building Topics
+.41
+Appendix A. Mapping of Planned Departmental Evidence-Building Activities
+by DOL Strategic Goal
+42
+OF
+DOL EVIDENCE-BUILDING PLAN
+FISCAL YEAR 2022-2026
+TATES OPA
+Foreword
+How can the Department of Labor (DOL) train vulnerable workers on health and safety practices to
+reduce workplace injuries? What are the policies that could support gainful employment for young
+adults with developmental disabilities? How can the Department of Labor encourage more participation
+in apprenticeships, especially among women workers of color? And can partnerships between the
+Department of Labor, state governments, and community-based organizations help expand access to
+unemployment insurance among eligible workers?
+These are just a few of the research questions that DOL agencies plan to study over the next four years as
+summarized in our FY 2022-2026 Evidence Building Plan. The breadth of these questions-representing
+contributions from sixteen DOL agencies-affirms - DOL's commitment to integrating evidence into agency
+functions, including policy development, budget and strategic planning, program administration, and
+performance management. These projects also highlight the close alignment between the department's
+evidence-building activities and the short, medium, and long-run objectives of each individual agency, the
+department as a whole, and the Biden-Harris Administration.
+An especially important priority in preparing this plan has been meeting the groundbreaking charge
+issued to all federal agencies in Executive Order 13985. That Executive Order asks agencies to assess
+how federal programs, policies, and contracting opportunities reach historically excluded or marginalized
+communities, including people of color, women and persons with disabilities, and then to take steps to
+advance greater inclusion of those populations.
+At the Department of Labor, we have already embarked on a number of activities in service of this charge,
+and this Evidence-Building Plan represents a particularly integral contribution. We need high-quality, timely
+evidence to first establish which populations may be excluded from departmental initiatives and benefits;
+to formulate policy shifts targeting activities, resources, and interventions to populations in need; and
+finally, to investigate whether and how those interventions meaningfully change the material conditions of
+underserved communities.
+Taken together, the projects detailed in this plan speak to each step of the evidence-to policy lifecycle,
+thereby helping the Department of Labor deliver its programs and resources, and benefits more equitably
+to all workers.
+ALEXANDER HERTEL-FERNANDEZ
+Deputy Assistant Secretary for Research and Evaluation
+OF
+DOL EVIDENCE-BUILDING PLAN
+FISCAL YEAR 2022-2026
+TATES OPA
+Summary
+The Department of Labor's Evidence-Building Plan is a project-based learning roadmap, describing over
+40 new activities to generate credible information in response to important short- and long-term strategic
+and operational questions. Credible information, or evidence, may stem from program evaluations,
+foundational fact-finding or research, policy analyses, or performance data. The Evidence-Building Plan is
+the cumulative product of each DOL agency's individual learning agenda, a prioritization process to identify
+information they need to know in order to achieve their agency and departmental mission. Sixteen DOL
+agencies have contributed to this document, coordinated by DOL's Chief Evaluation Office in consultation
+with the department's four Evidence Officials.
+Evidence-building activities that DOL will conduct in Fiscal Years 2022-2026 are focused on DOL's five
+Priority Learning Areas: improving equity in employment and training programs, reducing barriers to
+women's employment, studying the effects of the COVID-19 pandemic, improving enforcement activities
+and protections for all, and strengthening unemployment to reemployment. In addition, the department
+commits to a number of cross-cutting activities to improve capacity to develop, access, understand and use
+evidence. Lastly, the department outlines potential topics for future evidence-building activities.
+OF
+DOL EVIDENCE-BUILDING PLAN
+ii
+FISCAL YEAR 2022-2026
+TATES OPA
+I. What is the Evidence-Building Plan
+and Who Should Use It?
+The Evidence-Building Plan, also referred to as a "learning agenda" by Office of Management and Budget
+(OMB) Memorandum M-19-23, is a systematic plan for identifying and addressing priority questions relevant to
+improving the programs, policies, and regulations of the Department of Labor (department or DOL). The plan
+identifies and prioritizes strategies to develop credible information to answer important short- and long-term
+strategic and operational questions.
+All of the department's evidence documents, including the Evidence-Building Plan, Evaluation Plan, and
+Evidence Capacity Assessment, are developed collaboratively with the internal agency stakeholders,
+departmental leadership, and the department's Evidence Officials. Each internal agency develops individual
+learning agendas, which roll up to the department's evidence documents. These subcomponent learning
+agendas and processes provide an infrastructure to customize and monitor their own learning roadmaps, in
+addition to contributing to the broader departmental strategic mission.
+Across the department, these evidence documents are useful in helping to:
+Build upon and scale prior successes, as well as for continuous improvement of
+DOL practices, policies, and programs;
+Identify new questions to advance understanding;
+Innovate and develop data-informed approaches to answer priority questions;
+Seek opportunities to coordinate evidence-building activities across the department
+and other federal agencies;
+Monitor and assess progress along complex and multidimensional learning goals; and
+Communicate to Congress, state and local partners, grantees, and the public about
+new and ongoing areas of investment for data-informed insights.
+OF
+DOL EVIDENCE-BUILDING PLAN
+1
+FISCAL YEAR 2022-2026
+TATES OPA
+Defining Evidence
+OMB defines evidence as the available body of facts or information indicating whether a belief or proposition is
+true or valid. Evidence can be quantitative or qualitative and may come from a variety of sources. There are four
+types of evidence-building activities included in this plan, which align with the four interdependent components
+of evidence identified in OMB Memorandum M-19-23:
+Policy Analysis. Analysis of data, such as
+Performance Management. Development,
+general purpose surveys or program-specific
+analysis, and reporting of performance
+data, to generate and inform policy (e.g.,
+measures and milestones related to the
+estimating regulatory impacts and other
+achievement of strategic goals and objectives.
+relevant effects).
+L
+OML
+Policy
+Performance
+Analysis
+Measurement
+Program
+Foundational
+Evaluation
+Fact-Finding
+Program Evaluation. Systematic analysis of a
+Foundational Fact Finding. Foundational
+program, policy, organization, or a component of
+research and analysis such as aggregate
+these to assess effectiveness and efficiency.
+indicators, exploratory studies, descriptive
+statistics, and basic research.
+DOL EVIDENCE-BUILDING PLAN
+2
+FISCAL YEAR 2022-2026
+TATES OPA
+Scope and Coverage of Activities in this Plan
+DOL's Evidence-Building Plan provides key priority learning areas and corresponding activities planned for
+initiation during the same four-year time period as the department's strategic planning cycle for FY 2022-FY 2026.
+This planning document will remain iterative in its development, with annual refinements.
+The department's mission is broad and diverse, touching the lives of unemployed, underemployed and working
+individuals, retirees, employers, and organizations that support employment, workforce information, training,
+security, benefits, and hiring and working conditions. Everything we do is based on a worker-centered vision for
+the department to empower all workers morning, noon and night. The agencies collectively working toward that
+vision through the activities in this plan are as follows:
+Bureau of International Labor Affairs
+Office of Labor-Management
+(ILAB)
+Standards (OLMS)
+Bureau of Labor Statistics (BLS)
+Office of the Assistant Secretary for
+Employee Benefits Security
+Administration and Management
+Administration (EBSA)
+(OASAM)
+Employment and Training Administration
+Office of the Assistant Secretary
+(ETA)
+for Policy (OASP)
+Mine Safety and Health Administration
+Office of the Chief Financial Officer
+(MSHA)
+(OCFO)
+Occupational Safety and Health
+Office of Workers' Compensation
+Administration (OSHA)
+Programs (OWCP)
+Office of Disability Employment Policy
+Veterans' Employment and Training
+(ODEP)
+Service (VETS)
+Office of Federal Contract Compliance
+Wage and Hour Division (WHD)
+Programs (OFCCP)
+Women's Bureau (WB)
+OF
+DOL EVIDENCE-BUILDING PLAN
+3
+FISCAL YEAR 2022-2026
+TATES OPA
+Evidence Officials at the U.S. Department of Labor
+The department's evidence-building capabilities span performance measurement, statistics, policy analysis,
+data governance, and program evaluation. With the passage of the Foundations for Evidence-Based
+Policymaking Act of 2018 (Evidence Act), the leadership roles overseeing those functions have been codified.
+The department's Evidence Officials guide efforts to build and use credible information at a departmental level,
+working in partnership with counterparts across the department and other federal agencies, with the goal of
+informing the policies and programs that improve the lives and safety of American workers. Although each
+Evidence Official has a distinct role, all support the development and use of the data the department needs to
+advance its mission, strategic goals, and priorities.
+Chief Evaluation Officer
+The Chief Evaluation Officer coordinates, manages, and implements the department's evaluation research
+program and leads the Chief Evaluation Office (CEO) in the Office of the Assistant Secretary for Policy. CEO
+works closely with the department's agencies to conduct independent evaluation research and other rigorous
+data analyses that address priorities set by the Secretary and the agencies. The Chief Evaluation Officer is
+responsible for guiding the department's learning agenda, annual evaluation plan, and research capacity
+assessment; directing the department's Data Analytics Unit; overseeing the department's Evaluation Policy that
+governs this research; and coordinating the development of this Evidence-Building Plan. The Chief Evaluation
+Officer is Dr. Christina Yancey.
+Chief Data Officer
+The Chief Data Officer (CDO) in the Office of the Assistant Secretary for Policy is responsible for data
+governance and lifecycle data management, and supporting the department in meeting the requirements of
+the Federal Data Strategy and Open Government Data Act. The CDO serves as chairman of the DOL Data
+Board, a departmental work group charged with leading efforts to improve the department's data management
+processes, ensure that data are fit for purpose, increase capacity to leverage data as a strategic asset, develop
+and guide data strategy, management, and policy, work with the Chief Information Officer to align infrastructure
+with mission and to support more optimal data governance, stewardship, architecture, and use. The Chief Data
+Officer is Scott Gibbons.
+OF
+DOL EVIDENCE-BUILDING PLAN
+4
+FISCAL YEAR 2022-2026
+TATES OPA
+Director, Performance Management Center
+The department's Performance Management Center (PMC), which reports to the Performance Improvement
+Officer, supports all of the department in results-driven management through strategic planning, continuous
+process improvement, and performance planning and reporting. Further, PMC ensures the department meets
+requirements from the Government Performance and Results Modernization Act of 2010. The Director of the
+Performance Management Center, and Deputy Performance Improvement Officer, is Dennis Johnson.
+Statistical Official, Commissioner of Labor Statistics
+The Statistical Official for the Department of Labor is the Commissioner of Labor Statistics, who leads the
+department's independent statistical agency, the Bureau of Labor Statistics (BLS). BLS provides critical
+statistical data on labor market activity, working conditions, price changes, and productivity in the U.S.
+economy to support widespread decision-making across public and private sectors, including the department's
+continuous improvement efforts. In the role of Statistical Official, the Commissioner provides statistical guidance
+to all department agencies and ensures that BLS, and thus the department, meets the requirements of the
+Confidential Information Protection and Statistical Efficiency Act, re-codified in the Evidence Act. BLS also
+participates with Statistical Officials across the Federal government to identify and enhance statistical capacity
+and a statistical learning agenda to ensure the highest-quality statistical process and content. The department's
+Statistical Official is Dr. William W. Beach.
+-
+OF
+DOL EVIDENCE-BUILDING PLAN
+5
+FISCAL YEAR 2022-2026
+TATES OPA
+II. Stakeholder Engagement
+Prior to developing this plan, the department conducted activities to collect ideas and input on priority research
+topics from a wide range of stakeholders external to DOL that work with, use, or have an interest in labor-
+related research.
+Targeted Engagement in the Workforce
+Development Field
+Figure 1. Type of Organizations Consulted
+about Public Workforce Evidence Needs
+Given the critical role of the department in supporting
+the public workforce system across the country, a
+Type of Organization
+No.
+diverse set of stakeholders were consulted on their
+evidence-building needs as part of the development
+Federal Agencies
+2
+of this Plan. From November 2020 to April 2021, the
+Local Workforce System
+10
+department sponsored unstructured group discussions
+State Workforce System
+15
+and individual conversations with 104 individuals
+Business and Industry
+10
+representing 53 organizations spanning the U.S.
+workforce development system (see Figure 1).
+Workforce Advocacy Groups
+9
+The objectives of the meetings were to encourage
+Organized Labor
+4
+participants to discuss what research, information, or
+Education or Community College
+3
+evidence would be most useful to them to improve the
+services they provide, and to identify future research
+Total
+53
+topics related to employment programs and services
+and the future of work. These efforts specifically
+targeted applicable areas of research relevant to the
+Workforce Innovation and Opportunity Act (WIOA)
+1
+See: https://www.dol.gov/agencies/oasp/evaluation/currentstudies/WIOA-Research-Portfoli
+OF
+DOL EVIDENCE-BUILDING PLAN
+6
+FISCAL YEAR 2022-2026
+TATES o
+In addition to this broad-based engagement, the department convened an 11-member panel of highly-qualified
+experts in the workforce development field, including representatives from workforce boards, academics,
+nonprofit organizations that partner with or study the workforce system, and labor unions. The panel provided
+DOL with targeted input on high-priority research topics related to WIOA programs and services that could build
+on the current evidence base, fill key knowledge gaps, and could be potentially suitable for rigorous evaluation.
+A summary of the findings from these engagements is available on the department's website.²
+Frequently raised topics during these engagements included: work-based learning and apprenticeships; career
+pathways, advancement, and stackable credentials; integrated services and co-enrollment; employer services
+and engagement; career planning and navigation; remote work and remote services; COVID-19-related job
+changes; changes in the value of credentials; data infrastructure; and diversity, equity, and inclusion in the
+workforce training system and the world of work. Many key knowledge gaps and research needs for the
+workforce system raised by these stakeholders were considered for and are reflected in the evidence-building
+activities included in this plan.
+Ongoing and Future Stakeholder Engagement
+On July 8, 2021, DOL published and subsequently disseminated to DOL's half-million Twitter followers an
+invitation for public comment on the department's strategic planning activities, including the five priority learning
+areas included in this plan (see Figure 2 next page). The invitation was published in English and Spanish, with
+a deadline of August 6, 2021, for public comment.
+On July 29, 2021, DOL's Office of Congressional and Intergovernmental Affairs sponsored a Congressional
+outreach session. This session included a high-level briefing by the department on its strategic planning
+approach, including the five priority learning areas within this plan. Further, it allowed Congressional aids from
+both appropriations and authorizations to ask questions and to provide direct comment.
+After February 2022, the department will engage in further targeted stakeholder feedback, to support ongoing
+evidence development and dissemination activity. As the Evidence-Building Plan is an evolving document, the
+department anticipates refining activities based on future stakeholder inputs. DOL is especially interested in
+ensuring perspectives from a diverse array of stakeholders who represent the communities our programs serve.
+2 See: https://www.dol.gov/sites/dolgov/files/OASP/evaluation/pdf/WIOA%20Portfolio%20Stakeholder%20Summary 508 FINAL
+pdf
+OF
+DOL EVIDENCE-BUILDING PLAN
+7
+FISCAL YEAR 2022-2026
+TATES o
+III. Planned Evidence-Building Activities
+by Priority Learning Area
+This report describes DOL's planned evidence-building activities in three sections. This section describes the
+five Priority Learning Areas that the department will explore, as well as specific time-bound projects DOL intends
+to initiate that address each of the Priority Learning Areas. The next section (Section IV) describes overarching
+initiatives DOL plans to carry out during FY 2022-2026 that touch on many different themes and topics relevant
+to DOL's mission. The last section (Section V), describes future research topics that are of interest to the
+department that may inform DOL's future evidence-building commitments going forward.
+A cross-cutting theme for all of these learning areas is the need to improve equity in access to, and participation
+in, DOL programs, benefits, and protections, reflecting the department's commitment to fulfilling the charge set
+out by this administration's focus on equity for underserved communities. Further, these initial offerings were
+co-developed with the department's strategic plan and will be updated as DOL continues to advance learning
+across its strategies and activities.
+DOL has identified five Priority Learning Areas
+for this plan, as described in Figure 2. In the
+Figure 2. DOL Priority Learning Areas for FY 2022-2026
+tables below, DOL has identified specific research
+projects it intends to initiate within FY 2022-2026
+1
+Ensuring Equity in Employment and Training Programs
+pertaining to each Priority Learning Area. By
+project, each table describes the objective, key
+2
+Reducing Barriers to Women's Employment
+research questions, the estimated fiscal year the
+project will start, its expected duration, expected
+3
+Studying Effects of the COVID-19 Pandemic
+data sources, possible methods and analytical
+approach, and anticipated challenges and
+4
+Improving Enforcement Activities & Protections for All
+solutions to those challenges. The plan includes a
+mix of short-term projects (of expected duration of
+5
+Strengthening Unemployment to Reemployment
+one year or less) as well as medium- to long-term
+projects (more than one year).
+The evidence-building activities included in this plan contribute to departmental priorities identified in the
+department's FY 2022-2026 Strategic Plan. Appendix A provides a mapping of how each proposed activity
+relates to DOL Strategic goals as well as the Priority Learning Areas.
+The project descriptions below are limited to new evidence-building activities DOL plans to initiate over the time
+period covered by this plan. Details on all current and recently completed research studies supported by DOL
+can be found on the CEO website, as well as on several agency-specific websites on DOL.gov.³
+3 See: www.dol.gov/agencies/oasp/evaluation
+OF
+DOL EVIDENCE-BUILDING PLAN
+8
+FISCAL YEAR 2022-2026
+TATES o
+Priority Learning Area 1:
+Ensuring Equity in Employment and Training Programs
+Table 1. Planned Evidence-Building Activities Related to Priority Learning Area 1
+Project 1*
+i
+Additional Information
+Title: Analysis of Distance Learning Strategies (ETA).
+Priority Research Questions:
+To identify lessons learned for assisting customers with
+1. What are the lessons learned for assisting customers with different levels of
+different levels of digital skills and differential access to
+digital skills and differential access to high-speed Internet infrastructure to
+high-speed Internet infrastructure to participate in distance
+participate in distance learning?
+learning. Could be supplemented with a synthesis under
+2. Can different types of training, including skilled trades instruction, be adapted to
+CLEAR, TBD.
+a distance learning format?
+Est. Start & Duration: Study will begin in FY 2022
+Data Sources: Administrative data
+and last five years.
+Methods/Approach: Descriptive Study and Behavioral/Experimental Pilot Test
+Strategic Goal:
+1. Build Opportunity and Equity for All
+STA
+Priority Learning Area:
+Anticipated Challenges & Solutions
+1. Ensuring Equity in Employment & Training Programs
+3. Studying Effects of the COVID-19 Pandemic
+None identified.
+Project 2*
+i
+Additional Information
+Title: Navigation Evidence Building Portfolio (ETA). ETA
+Priority Research Questions:
+seeks to better understand the role of case management
+1. How might case managers/navigators be helpful for the workforce system, more
+and navigators broadly in the workforce system, and
+broadly?
+specifically with the Trade Adjustment Assistance (TAA)
+2. In what ways can a navigator intervention help address barriers that
+Navigator model, an initiative aimed at facilitating access to
+disadvantaged populations face?
+TAA-related services and benefits for eligible workers. For
+3. What specific navigator services are most helpful in engendering positive labor
+the broader workforce system, a study will examine how
+market outcomes?
+navigators are used, and to serve which populations. It will
+4. Are they able to help improve long-term outcomes for individuals with barriers to
+synthesize findings across relevant studies. For the TAA
+employment?
+Navigator, the evaluation will identify the key components
+5. What is the impact of Trade-Adjustment Assistance Program's Navigator on
+of promising navigator models, how they have been
+underserved communities?
+implemented, under what conditions, and for whom (such
+6. What are the barriers that the dislocated worker population faces in accessing
+as underserved communities). As part of the feasibility
+services?
+study, methodological design options to estimate impacts of
+7. For the feasibility study, what are the evaluation design options for measuring
+this program to understand the effectiveness of this strategy
+the differences in the outcomes of those served by TAA navigators compared to
+will be identified and assessed.
+outcomes of TAA program participants without navigator supports?
+Est. Start & Duration: Study will begin in FY 2022
+Data Sources: TBD for the Descriptive Study; Interviews, focus groups,
+and last five years.
+administrative data for the Implementation/Impact Evaluation
+Strategic Goal:
+Methods/Approach: Descriptive study, Implementation/Impact Evaluation. Initial
+1. Build Opportunity and Equity for All
+phases will include a feasibility study, followed by an impact evaluation.
+Priority Learning Area:
+1. Ensuring Equity in Employment & Training Programs
+STA
+Anticipated Challenges & Solutions
+An assessment must be conducted to determine the feasibility of an impact evaluation.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+9
+FISCAL YEAR 2022-2026
+TATES
+Project 3*
+i
+Additional Information
+Title: First Step Act Implementation (ETA). DOL will
+Priority Research Question:
+collaborate with the Federal Bureau of Prisons to develop
+To what extent are prisoner outcomes (recidivism, labor market outcomes, etc.)
+an evidence-informed workforce development initiative to
+impacted by the type, intensity, and duration of workforce development service
+advance First Step Act (FSA) implementation and reduce
+provision?
+recidivism risk in the reentering Federal prisoner population.
+This initiative will deliver workforce development services
+Data Sources: Original data collection, federal administrative data sources
+to prisoners, continuing with an intensive transition model,
+Methods/Approach: Qualitative and quantitative methods to conduct formative
+and ending with a transition to local service providers as
+research, as well as an implementation and impact study.
+prisoners are released. The First Step Act evaluation will
+rigorously evaluate this initiative and support its use of
+evidence-informed workforce development models.
+STA
+Anticipated Challenges & Solutions
+Est. Start & Duration: Study will begin in FY 2023
+and last four years.
+TBD.
+Strategic Goal:
+1. Build Opportunity and Equity for All
+Priority Learning Area:
+1. Ensuring Equity in Employment & Training Programs
+Project 4*
+i
+Additional Information
+Title: Disability & Employment Equity Analysis (ODEP).
+Priority Research Questions:
+As a group, persons of color with disabilities have lower
+1. What are racial and ethnic differences in employment, earnings, program
+employment levels and earnings than non-Hispanic whites
+participation, and program outcomes for people with disabilities?
+with disabilities, and may not be equitably served by the
+2. What are current research gaps related to how disability employment programs
+workforces system and other key disability employment
+serve individuals from different racial and ethnic groups, and what are promising
+programs. Yet there is little research on racial differences
+practices to address existing inequities?
+in employment and earnings for people with disabilities;
+on racial inequities in policy and program design and
+Data Sources: Existing publicly available data sources, administrative data
+implementation; on program participation and outcomes
+Methods/Approach: This descriptive and exploratory study will rely on analysis of
+for persons of color with disabilities; or on level of program
+administrative data to build foundational knowledge about employment of persons
+access and cultural competence to ensure inclusive
+of color with disabilities, seeking to fill in knowledge gaps currently not addressed
+programs and services. This research project would review
+by available survey data.
+extant data on racial differences in employment, earnings,
+program participation, and program outcomes for people
+with disabilities, and consult experts and conduct field
+STA
+Anticipated Challenges & Solutions
+research to identify current knowledge gaps and inequities
+and promising practices.
+None identified.
+Est. Start & Duration: Study will begin in FY 2022
+and last two years.
+Strategic Goal:
+1. Build Opportunity and Equity for All
+Priority Learning Area:
+1. Ensuring Equity in Employment & Training Programs
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+10
+FISCAL YEAR 2022-2026
+TATES
+Project 5
+i
+Additional Information
+Title: Research to Support Employment of People on
+Priority Research Questions:
+the Autism Spectrum (ODEP). Professional services to
+Project activities will explore major gaps in the autism research literature, including
+support a project to build evidence regarding approaches
+but not limited to:
+to improve gainful employment for young adults with
+1. Foundational questions, such as disability prevalence, participation in specialized
+developmental disabilities, particularly those on the
+employment services, and employment outcomes;
+autism spectrum. The Project aligns with federal priorities
+2. Outcomes of autism-focused hiring and recruitment programs;
+under the Autism CARES Act of 2019 to expand access,
+3. Utility of accommodations, supports, and assistance programs to enhance work
+opportunity, and quality of life for youth and adults on
+performance;
+the autism spectrum. This work also supports broader
+4. Participation in inclusive apprenticeships and related WBL activities, including
+efforts to enhance federal policy and practices to support
+focused strategies;
+neurodiversity at work and strengthen access to competitive
+5. Use of accessible and assistive technologies for work and on-the-job training;
+integrated employment for youth and adults with disabilities.
+6. Support for mental health and well-being and general health needs (especially
+Est. Start & Duration: Study will begin in FY 2021 Q4
+when considering secondary mental health and physical health conditions);
+and last three years.
+7. Economic well-being and financial literacy.
+Strategic Goal:
+Data Sources: Disability Analysis File, Rehabilitation Service Administration Case
+1. Build Opportunity and Equity for All
+Service Report
+Priority Learning Area:
+Methods/Approach: Descriptive study, Exploratory Study, Data Analytics
+1. Ensuring Equity in Employment & Training Programs
+STA
+Anticipated Challenges & Solutions
+None identified.
+Project 6*
+i
+Additional Information
+Title: VETS Employment Navigators Evaluation
+Priority Research Questions:
+(VETS). Implementation evaluation to understand how
+1. What is the impact of VETS employment navigator pilot program for transitioning
+Employment Navigators provide support to transitioning
+service members?
+service members to find employment faster and/or obtain
+2. What are barriers to TAP and other workforce services, particularly for those who
+higher wages. It will also include a feasibility study for an
+may face a higher risk of poverty, social exclusion, or discrimination?
+impact evaluation. The study will examine the elements
+Data Sources: Interviews, focus groups, administrative data
+that distinguish a VETS employment navigator (if any)
+from other case management support to veterans,
+Methods/Approach: Implementation/Impact Evaluation
+including supports from Consolidated Disabled Veteran's
+Outreach Program (DVOP) Specialists and Local Veteran's
+Employment Representatives (LVER)s.
+Anticipated Challenges & Solutions
+Est. Start & Duration: Study will begin in FY 2022
+and last five years.
+An assessment must be conducted to determine the feasibility of an impact evaluation.
+Strategic Goal:
+1. Build Opportunity and Equity for All
+Priority Learning Area:
+1. Ensuring Equity in Employment & Training Programs
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+11
+FISCAL YEAR 2022-2026
+TATES
+Project 7*
+i
+Additional Information
+Title: FARE Grants Implementation Study (WB).
+Priority Research Questions:
+Fostering Access, Rights, and Equity (FARE)
+1. How are FARE grants assisting women in understanding and accessing their
+implementation/impact study to accompany FARE grant
+employment rights and benefits?
+to states and community-based organizations intended
+2. What are barriers that this population faces in accessing services?
+to assist women in understanding and accessing their
+employment rights and benefits.
+Data Sources: FARE grant data
+Est. Start & Duration: Study will begin in FY 2022
+Methods/Approach: Implementation Study
+and last two years.
+Strategic Goal:
+1. Build Opportunity and Equity for All
+STA
+Anticipated Challenges & Solutions
+Priority Learning Area:
+1. Ensuring Equity in Employment & Training Programs
+None identified.
+2. Reducing Barriers to Women's Employment
+Project 8*
+i
+Additional Information
+Title: WANTO Descriptive Study (WB). The Women in
+Priority Research Questions:
+Apprenticeship and Nontraditional Occupations (WANTO)
+1. For those Women in WANTO grants providing job related training, what best
+grant program supports community-based organizations to
+practices and challenges have been identified on successfully transitioning
+recruit, mentor, train and retain more women in Registered
+women into apprenticeships or nontraditional occupations by the end of the
+Apprenticeships and nontraditional occupations. Grantees
+grant's period of performance?
+provide technical assistance to address the significant
+2. What promising practices and challenges have been identified by WANTO grants
+under-representation of women in apprenticeship programs
+in outreach, recruitment, and retention of women, in general, and in particular,
+and in general in high-growth, high-wage Science,
+from underrepresented communities in grant related activities? What are barriers
+Technology, Engineering, and Math-related occupations.
+that this population faces in accessing services?
+Est. Start & Duration: Study will begin in FY 2022
+Data Sources: WANTO grant data and WANTO site visits
+and last three years.
+Methods/Approach: Exploratory/Descriptive Study
+Strategic Goal:
+1. Build Opportunity and Equity for All
+TA
+Priority Learning Areas:
+Anticipated Challenges & Solutions
+1. Ensuring Equity in Employment & Training Programs
+2. Reducing Barriers to Women's Employment
+The PRA process for a short study may be a challenge.
+* Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+12
+FISCAL YEAR 2022-2026
+TATES
+Priority Learning Area 2:
+Reducing Barriers to Women's Employment
+Note: Projects 7 and 8 above also support this area.
+Table 2. Planned Evidence-Building Activities Related to Priority Learning Area 2
+Project 9
+i
+Additional Information
+Title: Understanding the Lifetime Effects of Providing
+Priority Research Questions:
+Informal Care - 2021 Update (WB). This project will
+1. What are the lifetime effects of providing informal caregiving on women's
+update the never-published 2016 WB contracted study -
+economic security?
+Understanding the Lifetime Effects of Providing Informal
+2. What are the costs caregivers (child, disabled, elder care) have incurred
+Care to account for more current data and trends, the
+including lost earnings, financial benefits and savings?
+Covid-19 pandemic, and additional analysis by race and
+3. What are the projected costs that different cohorts of currently working women
+ethnicity. The updated Study will provide WB a better
+will incur over their lifetimes due to caregiving?
+understanding of the effects of child, disabled, and adult
+4. What have been the effects of the Covid-19 Pandemic?
+caregiving on women's employment, earnings, savings, and
+5. What are the projected future effects of the Pandemic?
+retirement including projections of lifetime costs, the impact
+6. What are the caregiving incidences and effects by birth cohorts, demographics of
+of the Covid-19, and the policy implications of these effects.
+women (e.g. education, parental status-number of children, race and ethnicity),
+The work will culminate in a series of written products
+and type and length of caregiving?
+including an updated Understanding the Lifetime Effects
+7. What are implications for policies designed to improve women's
+of Providing Informal Care Study; an executive summary
+economic security?
+of the updated Study; and public dissemination fact sheets
+Data Sources: SIPP, HRS, ACS, CPS, NLSY, PSID, DYNASIM
+highlighting key findings for a non-technical audiences.
+Est. Start & Duration: Study will begin in FY 2022
+Methods/Approach: Descriptive tabulations, regression analyses, projections
+and last six months.
+using DYNASIM microsimulation model
+Strategic Goal:
+1. Build Opportunity and Equity for All
+TA
+Anticipated Challenges & Solutions
+Priority Learning Areas:
+2. Reducing Barriers to Women's Employment
+None identified.
+3. Studying Effects of the COVID-19 Pandemic
+* Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+13
+FISCAL YEAR 2022-2026
+TATES
+Project 10*
+i
+Additional Information
+Title: Federal Employee Paid Leave Act (FEPLA)
+Priority Research Questions:
+Evaluation (WB). The Federal Employee Paid Leave
+1. What are FEPLA leave taking patterns, and do those vary by employee
+Act (FEPLA) provides 12 weeks of paid parental leave to
+demographics? Are leave taking patterns equitable across demographic groups?
+certain Federal employees in connection with the birth of an
+2. What is the effect of FEPLA on the number of days of leave taken, by leave type
+employee's child or placement of a child with an employee
+(e.g., FEPLA, Family and Medical Leave Act, sick leave, annual leave)?
+for adoption or foster care. The law went into effect on
+3. What is the effect of FEPLA on short-term retention of employees following paid
+October 1, 2020. Anticipated benefits of the law include
+parental leave?
+increased time for bonding between parent and child,
+4.
+What is the effect of FEPLA on employees' career advancement, including
+improved health of the birth mother and child, preservation
+promotions, salary, and performance ratings?
+of annual and sick leave balances for future family needs,
+increased retention and engagement of the Federal
+Data Sources: OPM and DOL will leverage existing data including payroll data (use
+workforce, and a positive impact to the U.S. economy by
+of paid and unpaid leaves), employee personnel status data (for example, retention
+addressing women's declining labor force participation. The
+status, grade and step level, and pay rate), employee performance data (for example,
+Congressional Budget Office estimated that implementing
+award hours or pay and performance ratings), and employee demographic data (for
+FEPLA would cost $3.3 billion from 2021-2024. OPM and
+example, gender, race and ethnicity, age, work schedule, and agency).
+DOL will collaborate to answer questions surrounding
+Methods/Approach: OPM and DOL will analyze secondary administrative
+the effects of FEPLA. For FY 23, the questions will focus
+personnel data that OPM maintains in its Enterprise Human Resources Integration
+on short-term uptake and effects of the law and will be
+(EHRI) and Electronic Official Personnel Folder (eOPF) databases, conducting
+dependent on data availability. Future evaluation questions
+descriptive analyses and comparisons of outcomes prior to and following
+may be proposed in the ongoing partnership.
+implementation of FEPLA.
+Est. Start & Duration: Study will begin in FY 2022
+and last two years.
+Anticipated Challenges & Solutions
+Strategic Goal:
+1. Build Opportunity and Equity for All
+Priority Learning Area:
+1. Data quality and completeness. At the time FEPLA was implemented, there were
+2. Reducing Barriers to Women's Employment
+no existing payroll codes for those using this leave; this data only started being
+reported with routine codes more than six months after implementation. There
+are also data quality issues within the payroll data, as agencies use differing
+payroll systems and approaches and do not have a consistent data cleaning
+procedure. To address this, we are proactively reviewing and cleaning FEPLA
+and leave data, while also working to improve the overall quality of payroll data.
+2. Selecting the appropriate time period for comparison. For comparisons of before
+and after implementation of FEPLA, there are complicating factors regarding time
+periods for comparison, including the lack of payroll codes and the COVID-19
+pandemic, which is anticipated to have an effect on childbearing and leave taking
+patterns. As such, we will carefully consider the appropriate time periods for both
+before and after comparison and will interpret findings with caution.
+Project 11
+i
+Additional Information
+Title: Women and Work Report (WB/OASP). This report
+Data Sources: CPS, Census Pulse, ATUS, NCS, and other labor force survey
+will synthesize research and data on women's participation
+data; review of published research on related topics
+in the labor force and how it has been affected by the
+COVID-19 crisis and the ongoing recovery. It will include a
+Methods/Approach: Secondary data analysis; policy analysis
+discussion of the barriers women workers face to full and
+equal participation in the labor force and how these barriers
+were magnified during the COVID-19 crisis, especially for
+women of color and other disadvantaged groups. It will also
+discuss policy interventions that promote more equitable
+labor force participation for women, including assessing
+progress that has been made.
+Est. Start & Duration: Study will begin in FY 2022
+and last one year.
+Strategic Goal:
+1. Build Opportunity and Equity for All
+TA
+Anticipated Challenges & Solutions
+Priority Learning Area:
+2. Reducing Barriers to Women's Employment
+None identified.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+14
+FISCAL YEAR 2022-2026
+TATES
+Priority Learning Area 3:
+Studying Effects of the COVID-19 Pandemic
+Note: Projects 1 and 9 above also support this area.
+Table 3. Planned Evidence-Building Activities Related to Priority Learning Area 3
+Project 12*
+i
+Additional Information
+Title: Improving Planning and Operations to Deliver
+Priority Research Questions:
+Services Study (ETA). To identify lessons learned from
+1. How can the public workforce system react and respond to future economic
+state and local practices that have found new and innovate
+disruptions to provide income support and assist workers upskill or reskill and
+ways to improve or more efficiently deliver services. The
+return to work effectively?
+study will look at the current pandemic, as well as lessons
+2. What services and strategies are states using to help unemployed workers
+learned from the Great Recession, to synthesize important
+return to work as the US economy begins to recover? What strategies appear
+practical takeaways.
+promising for different participants (dislocated workers, low-income and out-of-
+school youth)? What are state-of-the-art practices to support job search and
+Est. Start & Duration: Study will begin in FY 2022
+reemployment?
+and last three years.
+Data Sources: TBD
+Strategic Goal:
+1. Build Opportunity and Equity for All
+Methods/Approach: Descriptive study/Implementation study
+Priority Learning Area:
+3. Studying Effects of the COVID-19 Pandemic
+STA
+Anticipated Challenges & Solutions
+None identified.
+Project 13
+i
+Additional Information
+Title: Effects of COVID-19 on Bureau of International
+Priority Research Questions:
+Labor Affairs technical assistance projects (ILAB). This
+1. What are the effects and experiences the COVID-19 pandemic has had on
+cross-program evaluation will synthesize data and discern
+programming from across different ILAB projects?
+lessons learned and good practices pertaining to the effects
+2. What good practices and lessons learned are emerging from implementing ILAB
+of the COVID-19 pandemic on project implementation and
+projects during the COVID-19 pandemic?
+outcomes.
+3. What future opportunities are emerging for ILAB projects to provide relevant
+Est. Start & Duration: Study will begin in FY 2022 Q1
+technical assistance in the new landscape brought about by COVID-19?
+and last one year.
+Data Sources: Existing grantee reporting and administrative data, new qualitative
+data collection
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+Methods/Approach: Mixed methods study
+and Fair Workplaces
+Priority Learning Area:
+3. Studying Effects of the COVID-19 Pandemic
+STA
+Anticipated Challenges & Solutions
+None identified.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+15
+FISCAL YEAR 2022-2026
+TATES
+Project 14
+i
+Additional Information
+Title: Analysis of Reasonable Accommodation (RA)
+Priority Research Question:
+Requests related to Telework post Covid-19 (OASAM).
+After more than a year of working remotely, are employees more likely to request
+The OASAM Workplace Equality Compliance Office
+telework related RAs in order to continue working remotely?
+(WECO) processes RA requests for workplace flexibilities.
+With initial reentry plans in place, one of the avenues for
+Data Sources: WECO Weekly Case Reports
+employees to continue telework is through the Agency's
+Methods/Approach: Statistical Analysis
+RA process. WECO will analyze RA requests over the
+next 6-8 months to see if any trends can be gleaned from
+those requests such as: which agencies are requests
+coming from, which positions are requesting telework, what
+durations of telework are being requested and more.
+Est. Start & Duration: Study will begin in FY 2022
+and last one year.
+Strategic Goal - Management Goal: A Department
+Grounded in Evidence, Innovation, and Employee
+STA
+Anticipated Challenges & Solutions
+Engagement
+Priority Learning Area:
+There should be no agency challenges since we're using data that we gather.
+3. Studying Effects of the COVID-19 Pandemic
+* Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+16
+FISCAL YEAR 2022-2026
+TATES
+Priority Learning Area 4:
+Improving Enforcement Activities & Protections for All
+Table 4. Planned Evidence-Building Activities Related to Priority Learning Area 4
+Project 15
+i
+Additional Information
+Title: Audit Quality Study (EBSA). EBSA will sample
+Priority Research Questions:
+roughly 400 Form 5500 filings submitted in the Fall of
+1. Has the overall quality of employee benefit plan audits improved since EBSA's
+2021, as a quality assurance assessment of the CPA firms
+prior audit quality study? Similarly, based on the results of a new study, we can
+performing the audits. Once OCA performs its review,
+evaluate whether actions taken by the accounting profession have had a positive
+EBSA can compare the audit quality by firm characteristics,
+impact on improving the work of plan auditors (e.g. enhanced peer review
+which can then be used to inform outreach and education.
+process, better technical guidance, stronger disciplinary actions).
+Moreover, since the American Institute of Certified Public
+2. What additional actions/activities can EBSA take to improve audit quality?
+Accountants (AICPA) is revising its standards, effective
+Data Sources: Form 5500 Reports
+next year, a new audit quality study can provide a baseline
+compliance rate under which the new standards can be
+Methods/Approach: Statistical analysis of the quality of audits based on firm and/
+evaluated in the future.
+or plan characteristics.
+Est. Start & Duration: Study will begin in FY 2022
+and last one-and-a-half years.
+Strategic Goal:
+STA
+Anticipated Challenges & Solutions
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+Priority Learning Area:
+Concerns regarding sampling to ensure we include both calendar and fiscal year
+4. Improving Enforcement Activities & Protections for All
+plans. EBSA plans on working with contractors to develop a robust sampling
+approach.
+Project 16*
+i
+Additional Information
+Title: EBSA Enforcement Health Metrics (EBSA). EBSA
+Priority Research Questions:
+seeks to develop health metrics in order to measure its
+1. How can EBSA measure its influence on health outcomes?
+impact and effectiveness in the health space. EBSA would
+2. Does EBSA enforcement positively influence individual health outcomes?
+like to identify how other health regulators measure their
+effectiveness, identify actions that need to be tied to an
+Data Sources: Measures of success used by other federal and/or state regulators
+in the health space
+outcome measure, and develop ways investigators' work
+in this area can be measured for performance reporting
+Methods/Approach: Exploratory Study/Descriptive Study
+purposes.
+Est. Start & Duration: Study will begin in FY 2022
+and last two years.
+Strategic Goal:
+STA
+Anticipated Challenges & Solutions
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+Many of the interventions and recoveries EBSA is able to achieve in the health
+Priority Learning Area:
+space are difficult to measure. Moreover, investigations may result in prospective
+4. Improving Enforcement Activities & Protections for All
+changes only to plan documents or procedures for specific conditions, which adds
+additional challenges to measuring the ultimate effect on the population benefitting
+from the change.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+17
+FISCAL YEAR 2022-2026
+TATES
+Project 17*
+i
+Additional Information
+Title: Identifying Non-Filing MEWAs (EBSA). In order to
+Priority Research Question:
+pre-emptively identify non-filing Multiple Employer Welfare
+What are tools for EBSA to enhance detection of non-filing MEWAs, who are a high
+Associations (MEWAs), many of which have a history of
+risk for fraud and abuse?
+fraud and abuse and MEWA violations, EBSA would like to
+Data Sources: TBD
+undertake a pilot program to use data scraping methods
+and Robotic Process Automation (RPA) to identify MEWAs
+Methods/Approach: Artificial Intelligence/Robotic Process Automation and Data
+that have not filed Form M-1s. By identifying these plans
+Analytics
+while they are marketed to employers, EBSA can intervene
+early to make sure the plans are compliant and mitigate
+solvency risk.
+Est. Start & Duration: Study will begin in FY 2022
+and last one year.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+Anticipated Challenges & Solutions
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+EBSA does not have any experience with data scraping. EBSA will need to identify
+terms that would be associated with marketing at risk products and developing the
+methodology to find these MEWAs. EBSA recommends a small pilot project which
+could then be expanded should it be successful.
+Project 18
+i
+Additional Information
+Title: Evidence to Action (Forced Labor Study -
+Priority Research Questions:
+Argentina and Madagascar) (ILAB). This project will
+1. What is the prevalence rate of forced labor in garment sectors in Madagascar
+develop robust and replicable approaches to collecting and
+and Argentina?
+analyzing data on forced labor to inform evidence-based
+2. Where do incidence of forced labor occur along the garment supply chain in
+interventions. The project will provide new information on
+Madagascar and Argentina?
+the prevalence and causes of forced labor in the garment
+sectors of Argentina and Madagascar; build capacity of
+Data Sources: Primary data collection
+national stakeholders to undertake and use such research;
+Methods/Approach: Household survey with probability sample; Respondent-
+and catalyze actions to combat forced labor.
+driven sampling approach.
+Est. Start & Duration: Study will begin in FY 2022 Q1
+and last one-and-a-half years.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+STA
+Anticipated Challenges & Solutions
+and Fair Workplaces
+Priority Learning Area:
+The COVID-19 pandemic continues to pose risk to the timely completion of data
+4. Improving Enforcement Activities &
+collection activities, and the quality of the data. DOL will closely monitor the
+Protections for All
+situations through regular check-ins with the grantee, and coordinate actions to
+mitigate the potential issues as they arise.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+18
+FISCAL YEAR 2022-2026
+TATES
+Project 19
+i
+Additional Information
+Title: National Child Labor Survey of Mexico (ILAB).
+Priority Research Questions:
+ILAB plans to fund a National Child Labor Survey in Mexico
+1. What is the prevalence of child labor in Mexico?
+under the proposed "Building a comprehensive government
+2. How has this prevalence changed since 2019?
+approach to combating child labor and forced labor in
+Mexico" project, which ILAB plans to award in the coming
+Data Sources: Primary data collection
+months.
+Methods/Approach: Household survey with probability sample
+Est. Start & Duration: Study will begin in FY 2023 Q1
+and last one-and-a-half years.
+STA
+Strategic Goal:
+Anticipated Challenges & Solutions
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+The COVID-19 pandemic poses risk to the timely completion of data collection
+Priority Learning Area:
+activities, and the quality of the data. DOL will closely monitor the situation through
+4. Improving Enforcement Activities & Protections for All
+regular check-ins with the grantee, and coordinate actions to mitigate the potential
+issues as they arise.
+Project 20
+i
+Additional Information
+Title: Understanding the demographics of regulated
+Priority Research Question:
+mining community and potential workforce (MSHA).
+What are the demographics of the regulated mining community and potential
+To inform MSHA's equity analysis, outreach, and hiring
+workforce for MSHA and to what extent is there alignment with representation
+strategies, MSHA is interested in continuing to understand
+within MSHA?
+the demographics of miners served (which changes over
+time) and potential workforce for the agency.
+Data Sources: American Community Survey, internal recruitment and hiring data
+Est. Start & Duration: Study will begin in FY 2022
+Methods/Approach: Data Analytics
+and last one to two years.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+SA
+Anticipated Challenges & Solutions
+and Fair Workplaces
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+None identified.
+* Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+19
+FISCAL YEAR 2022-2026
+TATES
+Project 21*
+i
+Additional Information
+Title: Black lung incidence nationwide as a result of
+Priority Research Questions:
+burning coal for heating, and how those areas intersect
+1. Where are cases of black lung occurring across the US as a result of non-mining
+with mining and former mining communities (MSHA).
+activities such as burning coal for heat?
+The Navajo Nation has the highest incidence of non-
+2. How do those align with former and current coal mining communities?
+mining black lung as a result of burning coal in homes for
+Data Sources: Black lung clinics, public health data
+heat. This is an issue in certain areas of Appalachia as
+well. Understanding where those black lung cases occur
+Methods/Approach: Exploratory study
+and how they intersect with current and former mining
+communities could help inform MSHA of areas where
+undiagnosed miners may be at high risk and allow MSHA
+to target assistance.
+Est. Start & Duration: Study will begin in FY 2022
+and last two years.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+STA
+Anticipated Challenges & Solutions
+and Fair Workplaces
+Priority Learning Area:
+None identified.
+4. Improving Enforcement Activities & Protections for All
+Project 22
+i
+Additional Information
+Title: Paid Family and Medical Leave for People with
+Priority Research Questions:
+Disabilities (ODEP). Access to Paid Family and Medical
+1. What are the reasons for and lengths of time that people with disabilities use
+Leave (PFML) is especially important for people with
+paid leave, and how can a national comprehensive paid family and medical leave
+disabilities and their families who generally have lower
+program be designed to meet the unique needs of workers with disabilities or
+income and fewer savings to rely on when taking leave.
+ongoing health conditions?
+Like workers in general, workers with disabilities exhibit
+2. How can program design factors (such as coverage types, leave duration, wage
+need for a variety of paid leave types and for people with
+replacement, job protection, benefits eligibility, and interaction with state leave
+disabilities who are not in the labor force, PFML provides
+programs) be evaluated to understand the specific implications on workers with
+income protection and support to their family members
+disabilities?
+who may need to take time off work to care for them. This
+research project would analyze the access and use of paid
+Data Sources: American Time Use Survey, FMLA Employee Survey, Medical
+family and medical leave by people with disabilities within
+Expenditure Panel Survey
+several national datasets.
+Methods/Approach: Data analytics
+Est. Start & Duration: Study will begin in FY 2021 Q4
+and last two years.
+DE
+Anticipated Challenges & Solutions
+Strategic Goal:
+1. Build Opportunity and Equity for All
+Priority Learning Area:
+ODEP anticipates that in many nationally representative surveys that ask questions
+4. Improving Enforcement Activities & Protections for All
+related to access and use of paid leave, disability status is not directly included or
+the sample of workers with disabilities will be relatively small. (Solution: in the short-
+term ODEP can use ongoing health conditions reported as a proxy for disability
+status and in the long term work with CEO to add disability status to the FMLA
+employee survey).
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+20
+FISCAL YEAR 2022-2026
+TATES
+Project 23
+i
+Additional Information
+Title: Algorithmic Fairness (OFCCP). Technology is
+Priority Research Question:
+transforming how employers hire and make employment
+What standards should OFCCP consider for contractors to promote equity in
+decisions. Employers are increasingly relying upon
+algorithmic selection and decision-making systems and ensure meaningful
+"machine learning," and algorithms to recruit, hire, and
+oversight and accountability.
+assess workers. OFCCP is well positioned to ensure
+Data Sources: External Research
+safeguards in the use of hiring and other employment
+technology. Given substantial asymmetries in workers'
+Methods/Approach: Meta-analysis or validation studies
+ability to access information concerning how employment
+decisions are made, workers are often not in a position to
+file a complaint about these systems. OFCCP has a critical
+role to play in proactively and comprehensively assessing
+federal contractors' technology-driven employment systems
+as part of OFCCP compliance evaluations to ensure
+these systems are designed to promote equity rather than
+perpetuate bias in existing employment systems.
+STA
+Anticipated Challenges & Solutions
+Est. Start & Duration: Study will begin in FY 2022
+and last two years.
+Strategic Goal:
+Lack of transparency on the operation of and equity impacts of assessment
+2. Ensure Safe Jobs, Essential Protections,
+technology.
+and Fair Workplaces
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+Project 24*
+i
+Additional Information
+Title: Construction Representation Benchmarks:
+Priority Research Question:
+Measuring the Potential Workforce Availability in
+What data sources and methodologies should OFCCP rely on to identify the full
+Trades (OFCCP). OFCCP is currently exploring whether
+potential workforce available by race, gender and ethnicity in the construction
+to update its construction regulations and is interested in
+industry?
+better understanding the potential available workforce by
+Data Sources: TBD.
+race, gender and ethnicity as well as geographic area for
+different trades.
+Methods/Approach: Data Analytics
+Est. Start & Duration: Study will begin in FY 2022
+and last one year.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+SA
+Anticipated Challenges & Solutions
+Lack of current data reflecting the full scope of workers available to work in
+construction trades absent barriers to opportunity.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+21
+FISCAL YEAR 2022-2026
+TATES
+Project 25*
+i
+Additional Information
+Title: Using Data to Inform Scheduling and Enforcement
+Priority Research Question:
+(OFCCP). OFCCP seeks to continually improve its
+What additional data sources can OFCCP utilize to improve its neutral scheduling
+scheduling process to better identify risk factors for non-
+process to select contractors that have greater risk factors for non-compliance?
+compliance.
+Data Sources: Vets 4212, EEO-1, Census, Wage and Hour and OSHA data, etc.
+Est. Start & Duration: Study will begin in FY 2022
+Methods/Approach: Data Analytics
+and last one year.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+SA
+Anticipated Challenges & Solutions
+Method should meet neutrality standard.
+Project 26*
+i
+Additional Information
+Title: Assessment of OLMS Financial Reporting Data
+Priority Research Questions:
+(OLMS). The Office of Labor-Management Standards
+1. What are opportunities for characterizing union density, mobilization, and
+(OLMS) is interested in understanding how LM data can
+penetration from LM data?
+be used to characterize labor union density, mobilization,
+2. Are there ways to increase the utility of the data?
+and penetration to better study the effect of unions on
+3. What are additional data sources (OLMS, other DOL, or external) that could
+workplace conditions, local economies, and communities.
+be used as supplemental data or merged with the data to advance our
+This information could advance our understanding of the
+understanding of the effect of unions on workplaces and local economies and
+role that unions play in U.S. labor markets.
+communities?
+Est. Start & Duration: Study will begin in FY 2022
+Data Sources: Review of LM form data and other OLMS administrative datasets,
+and last one year.
+external quantitative datasets, limited qualitative data collection
+Strategic Goal:
+Methods/Approach: Exploratory Study/Data Analysis
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+Priority Learning Area:
+se
+Anticipated Challenges & Solutions
+4. Improving Enforcement Activities & Protections for All
+None identified.
+* Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+22
+FISCAL YEAR 2022-2026
+TATES
+Project 27
+i
+Additional Information
+Title: Impact of Algorithmic Management on
+Priority Research Question:
+occupational injuries and illnesses in the Warehousing
+What is the impact of algorithmic management on occupational injuries and illness
+and Storage Industry (NAICS 4931) (OSHA). Algorithmic
+in the Storage and Warehouse Industry?
+management is a diverse set of technological tools and
+Data Sources: OSHA Injury and Illness Logs (OSHA Forms 300 and 301); Data
+techniques to remotely manage workforces, relying on data
+collection and surveillance of workers to enable automated
+from the BLS Survey of Occupational Injuries and Illness (SOII); OSHA inspection
+or semi-automated decision-making. In Warehousing,
+data from inspections in the Warehousing and Storage Industry (NAICS 4931)
+workers may be managed by algorithms that determine
+Methods/Approach:
+which items need to be picked, moved, stored, and
+1. Describe the nature, severity, and extent of occupational injuries and illness
+shipped. Employees say they feel pressured to improve
+observed in establishments in the Warehousing Industry where algorithmic
+their "pick rate," a metric that calculates how many items
+management is practiced.
+are retrieved from the shelves every hour.
+2. Compare the nature, severity, and extent of occupational injuries and illnesses in
+Est. Start & Duration: Study will begin in FY 2024
+establishments in the Warehousing Industry where algorithmic management is
+and last two years.
+practiced to the nature, severity, and extent of occupational injuries and illnesses
+in establishments in the Warehousing Industry where algorithmic management is
+Strategic Goal:
+not practiced.
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+DE
+Priority Learning Area:
+Anticipated Challenges & Solutions
+4. Improving Enforcement Activities & Protections for All
+TBD.
+Project 28*
+i
+Additional Information
+Title: Reaching Vulnerable Populations through
+Priority Research Questions:
+Alliances (OSHA). Through the Alliance Program, OSHA
+1. Is the information OSHA provides to Alliance Participants getting to the most
+works with organizations such as trade and professional
+vulnerable workers?
+associations, labor unions, educational institutions,
+2. How is that information getting to the most vulnerable workers?
+community and faith-based groups, and government
+3. Are some types of alliances more effective in getting safety and health
+agencies to share information about OSHA's initiative
+information out than others?
+and compliance assistance resources with workers and
+employers, and educate workers and employers about their
+Data Sources: OSHA's Compliance Assistance data base has information on
+rights and responsibilities. Alliance Program participants
+activities related to OSHA Alliances. Limited information is available on some of the
+are committed to working closely with OSHA to develop
+characteristics of program participants (e.g., temporary workers, youth, ethnicity,
+and share information with workers and employers to help
+etc.) The groups with which OSHA has alliances may be able to provide information
+prevent injuries, illnesses, and fatalities in the workplace
+on members and participants in their programs.
+and to educate workers and employers about their rights
+and responsibilities under the Occupational Safety and
+Methods/Approach:
+Health Act. Participants in the Alliance Program support
+1. Survey participants in Alliance events to gather information on what they learned
+OSHA's strategic goals by developing Alliance agreements
+from participation in alliance-sponsored events and trainings. Participants getting
+and implementing project plans that emphasize Raising
+to the most vulnerable workers?
+Awareness of OSHA's Rulemaking and Enforcement
+2. Develop and implement a tool to measure the usefulness of the information
+Initiatives; Outreach and Communication; and Training and
+participants received.
+Education.
+Est. Start & Duration: Study will begin in FY 2022
+and last two years.
+TA
+Anticipated Challenges & Solutions
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+The biggest challenge will be identifying the workers or participate in alliance-
+and Fair Workplaces
+sponsored events and trainings. Many of these workers may not speak English
+Priority Learning Area:
+well enough to complete a written survey. Focus groups may be required. OSHA's
+4. Improving Enforcement Activities & Protections for All
+alliance partners should be able to assist with the data collection.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+23
+FISCAL YEAR 2022-2026
+TATES
+Project 29*
+i
+Additional Information
+Title: Reaching Vulnerable Populations through
+Priority Research Questions:
+training funded by OSHA's Susan Harwood Training
+1. Is the training developed under the Susan Harwood Grant Program reaching
+Grants (OSHA). Susan Harwood Training Grants are
+vulnerable populations of workers?
+awarded competitively to provide training and education
+2. What are the practices used by those who receive Grant awards for reaching
+programs for employers and workers on the recognition,
+vulnerable populations?
+avoidance, and prevention of safety and health hazards in
+3. What are research options that OSHA can use to understand the implementation
+their workplaces and to inform workers of their rights and
+and impacts of this grant program in the future?
+employers of their responsibilities under the Occupational
+Data Sources: Data on who participated in trainings developed using the Susan
+Safety and Health (OSH) Act. The types of grants solicited
+Harwood Grants should be available from the Education Centers and other
+each year vary and in the past have included Capacity
+institutions that provide the training.
+Building grants, Targeted Topic, and Training Materials
+Development. Given the variety of grants, DOL would like to
+Methods/Approach: Solicit data on age, race, ethnicity, sex and language spoken
+explore the feasibility of assessing this kind of program, and
+from participants in trainings developed using the Susan Harwood Grants by survey
+plans to conduct a descriptive study that can help inform
+or class registration.
+future evaluations of the grant program.
+Est. Start & Duration: Study will begin in FY 2023
+STA
+Anticipated Challenges & Solutions
+and last two years.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections,
+OSHA may have to modify the terms of the Susan Harwood Grants to require
+and Fair Workplaces
+collection of the desired data.
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+Project 30
+i
+Additional Information
+Title: Workplace Violence in the Healthcare Industry
+Priority Research Question:
+(OSHA). A workgroup developed criteria statements to
+Does the use of specific criteria statements make self-assessment by facilities and
+operationalize program elements for workplace violence
+inspections by OSHA compliance officers more effective?
+prevention programs together with a scoring system. Those
+statements distinguish high from low performing healthcare
+Data Sources: OSHA inspections in healthcare on violence or randomly selected
+healthcare facilities.
+facilities, evidenced by substantial differences in scores
+between facilities that received 5(a)(1) citations and those
+Methods/Approach:
+that received only a hazard alert letter. The goal is to
+1. Provision of criteria statements to compliance officers before and after the
+expand the use of this checklist/criteria statement-based
+conduct healthcare violence inspections OR
+approach to support both self-assessment and program
+2. Data collection through interviews of self-assessments by facilities;
+improvements.
+3. Either way is coring based on pilot project scoring,
+Est. Start & Duration: Study will begin in FY 2022
+4. Examination of scores by whether CSHOs conducted their inspection with
+and last two years.
+or without the checklist and outcome evaluation comparing to final OSHA
+enforcement action.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections, and Fair Workplaces
+STA
+Priority Learning Area:
+Anticipated Challenges & Solutions
+4. Improving Enforcement Activities & Protections for All
+Access to CSHOs in a timely fashion after they complete their inspection. In
+addition, as the checklist is used, it may become more widely disseminated and
+grow into use.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+24
+FISCAL YEAR 2022-2026
+TATES
+Project 31
+i
+Additional Information
+Title: DOL/OWCP Report on State-Level Workers'
+Priority Research Questions:
+Compensation Systems to Identify Additional Areas
+1. What data can we cull from existing sources to produce a new data base?
+of Coverage Needed (OWCP). Producing a report to
+2. What new data sources and tools can we develop for further analysis in state
+gather new factual data to consider additional programs
+workers' compensation systems?
+or legislative initiatives on behalf of the administration.
+3. Once we have actionable data, what tools and methods can and should we
+The initiatives will be the result of OWCP's identification of
+employ to best analyze and utilize that data?
+areas of coverage that could be filled through the creation
+4. What coverage options should we implement for certain categories of claims
+of a federal public option for certain categories of claims
+and claimants once we have completed our data collection and analysis, and
+and claimants.
+identified areas of insufficient coverage, for the creation of new federal coverage
+Est. Start & Duration: Study will begin in FY 2022
+options?
+and last one to three years.
+Data Sources: State workers' compensation systems
+Strategic Goal:
+Methods/Approach: Producing a data base used for further analysis
+3. Improve Administration of and Strengthen Worker
+Safety Net Programs
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+STA
+Anticipated Challenges & Solutions
+Adequate legal authority for the funding of this project.
+Project 32*
+i
+Additional Information
+Title: FMLA Survey (WHD). This is a national survey
+Priority Research Questions:
+to gain knowledge of how employees and employers
+1. What are the employee experiences and knowledge of taking, needing, and
+understand and experience the Family and Medical Leave
+accessing leave?
+Act (FMLA). The survey would build on prior waves in 1995,
+2.
+What are the employer experiences and knowledge levels with administering
+2000, 2012, and 2018.
+FMLA leave?
+Est. Start & Duration: Study will begin in FY 2022/2023
+Data Sources: Prior FMLA surveys, survey samples
+and last three to four years.
+Methods/Approach: Questionnaire fielded to nationally representative samples of
+Strategic Goal:
+employers and employees
+2. Ensure Safe Jobs, Essential Protections,
+and Fair Workplaces
+Priority Learning Area:
+4. Improving Enforcement Activities & Protections for All
+STA
+Anticipated Challenges & Solutions
+Achieving targeted survey response rates: WHD would support a CEO-led
+convening of academics and researchers to discuss the challenges and solutions
+for addressing response rates.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+25
+FISCAL YEAR 2022-2026
+TATES
+Project 33
+i
+Additional Information
+Title: Understanding the prevalence and costs of
+Priority Research Question:
+misclassification and potential remedies (WHD). This
+What are opportunities for measuring the prevalence and cost of worker
+research will explore opportunity track the frequency of
+misclassification?
+misclassification and costs to workers and government
+and effectiveness of different strategies (e.g. regulation,
+Data Sources: Potentially by drawing on DOL/other agency enforcement data, tax
+litigation, enforcement).
+data, and state audits.
+Est. Start & Duration: Study will begin in FY 2022
+Methods/Approach Exploratory and Data Analytics.
+and last two years.
+Strategic Goal:
+2. Ensure Safe Jobs, Essential Protections, and Fair Workplaces
+Priority Learning Area:
+STA
+Anticipated Challenges & Solutions
+4. Improving Enforcement Activities & Protections for All
+TBD.
+Project 34*
+i
+Additional Information
+Title: Worker Survey (WHD). This is a worker survey
+Priority Research Questions:
+designed to establish prevalence and severity of violations
+1. What is the prevalence and severity of workplace violations among selected
+among selected worker populations, occupations, and/
+worker populations, occupations, and/or industry subsectors? How do these
+or industry subsectors. This survey will allow WHD to drill
+conditions vary by demographics and geographic factors? How can this data
+down to specific business models, business networks, and
+inform WHD's strategic planning process, specifically to predict violation
+even enterprises by asking questions not listed in existing
+prevalence?
+surveys, such as CPS.
+2. To what extent are workers knowledgeable of wage and hour protections?
+Est. Start & Duration: Study will begin in FY 2022
+3. What is the worker experience with or awareness of wage and hour violations?
+and last three to four years.
+Data Sources: CPS, QCEW, AWCS (American Working Conditions Survey), LED
+Strategic Goal:
+Extraction Tool - Quarterly Workforce Indicators (QWI), Social media advertisement
+2. Ensure Safe Jobs, Essential Protections,
+for survey completion for design, survey samples for data collection.
+and Fair Workplaces
+Methods/Approach: Project would require sampling techniques and robust
+Priority Learning Area:
+statistical analysis. Sampling methods may include stratified samples designed to
+4. Improving Enforcement Activities & Protections for All
+collect information on specific worker populations and/or industry subsectors and
+innovative sampling techniques designed to reach worker populations not typically
+reached through federal surveys, yet that is representative.
+TA
+Anticipated Challenges & Solutions
+1. Resources to support survey design methodology, data collection, and analysis:
+WHD proposes using an outside vendor through CEO to design and implement
+the survey. In addition, WHD's Office of Enterprise Data and Analytics could
+partner with the vendor to review data and extract potential areas for focus in
+strategic planning.
+2. Achieving targeted survey response rates: WHD would support a CEO-led
+convening of academics and researchers to discuss the challenges and solutions
+for addressing response rates. WHD's communications team could partner
+with an outside vendor to promote awareness of the survey and encourage
+participation.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+26
+FISCAL YEAR 2022-2026
+TATES
+Priority Learning Area 5:
+Strengthening Unemployment to Reemployment
+Table 5. Planned Evidence-Building Activities Related to Priority Learning Area 5
+Project 35*
+i
+Additional Information
+Title: RESEA Evidence-Building Portfolio (ETA). ETA
+Priority Research Questions:
+seeks to understand additional implementation, descriptive,
+1. Which RESEA program models, strategies, and program components are
+and impact analyses to better understand effective
+effective and/or demonstrate promising results for program participants? How
+Reemployment Services Eligibility and Assessment
+do these vary by different characteristics (e.g., race/ethnicity, occupation/
+(RESEA) models that work, under what conditions, and for
+industry)? What is the emerging evidence on RESEA programs that states are
+whom.
+implementing?
+Est. Start & Duration: Study will begin in FY 2022
+2. What are promising strategies to identify UI claimants who are in need of
+and last five years.
+reemployment services to transition to new employment to participate in
+reemployment services, such as RESEA or other job search assistance? How
+Strategic Goal:
+might such strategies take into account those most likely to exhaust benefits?
+1. Build Opportunity and Equity for All
+How should such models developed by states be adapted and updated to reflect
+Priority Learning Area:
+changes in the labor market?
+5. Strengthening Unemployment to Reemployment
+Data Sources: Interviews, focus groups, administrative data, longitudinal data
+Methods/Approach: Data analytics; Implementation Study/Impact Study
+STA
+Anticipated Challenges & Solutions
+None identified.
+* Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+27
+FISCAL YEAR 2022-2026
+TATES
+Project 36*
+i
+Additional Information
+Title: UI Navigation Descriptive Study (ETA). ETA seeks
+Priority Research Questions:
+to build evidence on promising strategies of Unemployment
+1. What is the potential role of UI navigators in assisting with initial and continued
+Insurance (UI) navigator approaches to improve the
+claim filing and referral to additional services?
+connection and access to unemployment insurance
+2. How do UI navigators affect potential inequities in recipiency and claims
+benefits and related services for eligible workers, especially
+process?
+low-paid or historically underserved workers. Through an
+3. Across states, how do navigators differ from case managers, and what are the
+ETA discretionary grant program to states, the department
+elements (if any) that would distinguish these supports?
+anticipates funding between four and six UI Navigator
+4. What implementations conditions are present, and/or which conditions need to
+Programs, for a total of approximately $15 million across
+be present, that allows for a rigorous impact research design (e.g., a randomized
+the 36-month initiatives.
+control trial or a regression discontinuity design)?
+Est. Start & Duration: Study will begin in FY 2022
+Data Sources: Interviews, administrative data
+and last five years.
+Methods/Approach: Exploratory Study/Descriptive Study/Impact Evaluability
+Strategic Goal:
+Assessment
+3. Improve Administration of and Strengthen Worker
+Safety Net Programs
+STA
+Priority Learning Area:
+Anticipated Challenges & Solutions
+5. Strengthening Unemployment to Reemployment
+For a potential impact analysis, it can be challenging to identify cohorts for a
+comparison group and to ensure necessary data to support a complete analysis. To
+mitigate this risk, the study will undertake a feasibility assessment.
+Project 37
+i
+Additional Information
+Title: UI Research Center (ETA). ETA seeks to support
+Priority Research Questions:
+a research-to-action model partnership between the
+1. What are the barriers different populations of workers face in accessing UI
+research grantee and their state UI agency(ies) through a
+benefits and what are potential interventions that community groups, employers,
+competitive grant to an academic institution or consortium.
+states, and the federal government could deploy to reduce those barriers?
+A longer-term goal isto support the pipeline of researchers
+2. What are new indicators of access and use of UI benefits?
+to work on UI policy and program administration-related
+3. How can we measure the long-term impact of UI benefits on workers, their
+projects to inform policy.
+families, communities, and the economy?
+Est. Start & Duration: Study will begin in FY 2022
+Data Sources: TBD
+and last five years.
+Methods/Approach: Academic Grant
+Strategic Goal:
+3. Improve Administration of and Strengthen Worker Safety
+Net Programs
+Priority Learning Area:
+5. Strengthening Unemployment to Reemployment
+DA
+Anticipated Challenges & Solutions
+None identified.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+28
+FISCAL YEAR 2022-2026
+TATES
+Additional Planned Learning Activities
+Table 6. Additional Planned Evidence-Building Activities
+Project 38*
+i
+Additional Information
+Title: Improving Diversity, Equity, Inclusivity, and
+Priority Research Question:
+Accessibility (DEIA) within the Federal Workforce
+1. What strategies are federal agencies using to improve diversity, equity,
+(Federal-wide Initiative with OPM). DOL will lead a
+inclusivity, and accessibility within the federal workforce?
+rigorous interagency evaluation of strategies aimed at
+2. To what extent are these strategies meeting their stated objectives?
+improving Diversity, Equity, Inclusivity, and Accessibility
+(DEIA) within the Federal workforce. A coordinated cross-
+Data Sources: Federal administrative records; potentially original data collection
+agency evaluation presents an opportunity to drive long-
+Methods/Approach: Qualitative and quantitative methods
+term, meaningful changes for the Federal workforce.
+DOL will lead this evaluation in close collaboration with
+the Office of Personnel Management and other agencies.
+DA
+Anticipated Challenges & Solutions
+Est. Start & Duration: Study will begin in FY 2023
+and last three years.
+TBD.
+Strategic Goal:
+1. Build Opportunity and Equity for All
+Priority Learning Area:
+6. Other Learning Priorities
+Project 39
+i
+Additional Information
+Title: Diversity and Inclusion Barrier Analysis
+Priority Research Question:
+(OASAM). Identify barriers in recruitment and retention
+What are the barriers in recruitment and retention in underrepresented groups in
+in underrepresented groups in the DOL workforce (for
+the DOL workforce?
+example: persons-with-disabilities (PWD)).
+Data Sources: HRConnect; DOORs; Exit Survey
+Est. Start & Duration: Study will begin in FY 2022
+and last four years or more.
+Methods/Approach: Focus Groups; Survey(s); Questionnaire(s)
+Strategic Goal - Management Goal:
+A Department Grounded in Evidence, Innovation, and
+Anticipated Challenges & Solutions
+Employee Engagement
+Given that the some of the necessary data elements in the HR systems are
+submitted voluntarily, it's unclear if there are substantial gaps in completeness/
+accuracy of the data. Data cleaning and prospective policy updates/guidance may
+be needed to improve data quality.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+29
+FISCAL YEAR 2022-2026
+TATES
+Project 40
+i
+Additional Information
+Title: Enterprise RPA capability (OASAM). Supporting
+Priority Research Questions:
+automation capabilities at the enterprise level to allow for
+1. What is the optimal process for rapidly evaluating fitness of processes for
+the rapid development and deployment of bots to automate
+automation?
+manual tasks.
+2. How can we optimize computing to power multiple bots in production?
+Est. Start & Duration: Study will begin in FY 2021 Q4
+Data Sources: DOL data sources across agencies, other government data
+and last two years.
+providers, third party data providers
+Strategic Goal - Management Goal:
+Methods/Approach: OCIO will use the Agile Software Development Lifecycle,
+A Department Grounded in Evidence, Innovation, and
+emphasizing iterative development, continuous improvement, and Human Centered
+Employee Engagement
+Design. Both Agile and Human Centered Design are methods to continuously
+respond to customer feedback and optimize for project performance criteria.
+DA
+Anticipated Challenges & Solutions
+1. Enterprise Adoption: to facilitate enterprise adoption, the initiative will emphasize
+use of Human Centered Design, and will implement change management
+through OCIO and the DOL Data Board.
+2. Data Access and Data Quality: to ensure data access and data quality
+supporting the project, OCIO will undertake early and robust data profiling; clear
+communications with stakeholders; and coordination with the DOL Data Board
+on data governance and related improvements for data sources not immediately
+meeting data access or quality standards for the initiative.
+Project 41
+i
+Additional Information
+Title: Executive (CXO) Dashboard Project (OASAM).
+Priority Research Questions:
+Create dashboards for agency and DOL management
+1. What is the optimal process for using predictive analytics for agency budget
+to enhance and standardize display of DEBS data, with
+execution to help focus our resources?
+analytics and visualization of key budget and performance
+2. What is the optimal process for managing the data lifecycle supporting this data
+results.
+product?
+Est. Start & Duration: Study will begin in FY 2021 Q4
+Data Sources: Departmental e-Business Suite (DEBS) and other data assets from
+and last one year.
+DOL component agencies supporting Goals M.1 through M.3 of the DOL Strategic
+Plan
+Strategic Goal - Management Goal:
+A Department Grounded in Evidence, Innovation, and
+Methods/Approach: OCIO will use the Agile Software Development Lifecycle,
+Employee Engagement
+emphasizing iterative development, continuous improvement, and Human Centered
+Design. Use cases within the project will include a range of business intelligence
+and analytic requirements and methods, including but not limited to: program
+dashboards, and data products resulting from the data science lifecycle which will
+use both traditional and advanced analytics.
+STA
+Anticipated Challenges & Solutions
+1. Enterprise Adoption: to facilitate enterprise adoption, the initiative will emphasize
+use of Human Centered Design, and will implement change management
+through OCIO and the DOL Data Board.
+2. Data Access and Data Quality: to ensure data access and data quality
+supporting the project, OCIO will undertake early and robust data profiling; clear
+communications with stakeholders; and coordination with the DOL Data Board
+on data governance and related improvements for data sources not immediately
+meeting data access or quality standards for the initiative.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+30
+FISCAL YEAR 2022-2026
+TATES
+Project 42
+i
+Additional Information
+Title: Innovation Incubator (OASAM). Creating a
+Priority Research Questions:
+controlled and secure environment to allow for the
+1. How can we best establish a controlled process for delivering valuable
+incremental exploration, development and investment in
+technology solutions while balancing cost/investment?
+new technologies.
+2. What are the key metrics that will determine success? What information is
+Est. Start & Duration: Study will begin in FY 2022
+required to make go/no-go decisions on new technology?
+and last two years.
+Data Sources: DOL data sources across agencies, other government data
+Strategic Goal - Management Goal:
+providers, third party data providers
+A Department Grounded in Evidence, Innovation, and
+Methods/Approach: OCIO will use the Agile Software Development Lifecycle,
+Employee Engagement
+emphasizing iterative development, continuous improvement, and Human Centered
+Design. Both Agile and Human Centered Design are methods to continuously
+respond to customer feedback and optimize for project performance criteria.
+STA
+Anticipated Challenges & Solutions
+1. Enterprise Adoption: to facilitate enterprise adoption, the initiative will emphasize
+use of Human Centered Design, and will implement change management
+through OCIO and the DOL Data Board.
+2. Data Access and Data Quality: to ensure data access and data quality
+supporting the project, OCIO will undertake early and robust data profiling; clear
+communications with stakeholders; and coordination with the DOL Data Board
+on data governance and related improvements for data sources not immediately
+meeting data access or quality standards for the initiative.
+* Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+31
+FISCAL YEAR 2022-2026
+TATES
+Project 43
+i
+Additional Information
+Title: Strengthening DOL's SES Cadre (OASAM). Assess
+Priority Research Questions:
+the development needs of all SES members to inform
+1. Which ECQs do SES candidates struggle to demonstrate sufficient experience
+readiness decisions about hiring, career development, and
+(ECQs most commonly disapproved by the QRB or returned for re-write)?
+executive reassignments and rotations.
+2. Which ECQs are DOL SES rated the lowest/highest?
+Est. Start & Duration: Study will begin in FY 2022
+3. What Technical Qualifications are applied across all DOL Agencies?
+and last one to two years.
+4. What are the Technical Qualifications that separate DOL Agencies?
+5. What level of experience is needed to be successful in top DOL SES positions
+Strategic Goal - Management Goal:
+(DAS positions)?
+A Department Grounded in Evidence, Innovation, and
+Employee Engagement
+Data Sources: QRB Results; Performance Results (Managerial-based ECQs);
+SES Focus Group (ERB+PRB)
+Methods/Approach: Data analysis of Qualifications Review Board (QRB) results
+and feedback as well as Performance Review Board (PRB) results feedback.
+Participation in OPM's SES Assessment Center; Piloting a Talent Management
+Program; Focusing specific SES Vacancies (DAS Positions, Occupational Series)
+STA
+Anticipated Challenges & Solutions
+Reduce Focus on Technical Qualifications; Inflated Performance Ratings;
+Differences in DOL Agency Missions; DOL culture & traditions.
+Project 44
+i
+Additional Information
+Title: Feasibility of Linking Financial Data With
+Priority Research Questions:
+Performance (OCFO). OCFO is interested in learning more
+1. How do other CFO Act agencies manage and monitor their financial processes?
+about how other CFO Act agencies use of financial data
+2. How can DOL agencies utilize financial data to make better decisions?
+and non-financial data interact to optimize operations.
+Data Sources: Qualitative interviews; Financial administrative data
+Est. Start & Duration: TBD; will last
+Methods/Approach: Foundational fact finding; feasibility assessment
+one to two years.
+Strategic Goal - Management Goal:
+A Department Grounded in Evidence, Innovation, and
+Employee Engagement
+STA
+Anticipated Challenges & Solutions
+Timeline is unclear as financial systems are being updated, but OCFO will remain
+in close communication on changes to assess when to explore data.
+*
+Denotes a CEO-sponsored project that will be included in the DOL FY 2022-2023 Evaluation Plan.
+OF
+DOL EVIDENCE-BUILDING PLAN
+32
+FISCAL YEAR 2022-2026
+TATES
+IV. Cross-Cutting Evidence Building Activities
+DOL Scholars Program
+The department will engage the academic community in efforts to build evidence on labor issues of
+importance to the department through DOL's Research Scholars and Grants program. 4 Launched in 2012 by
+the Chief Evaluation Office, this program builds the capacity of university-based researchers, and particularly
+emerging scholars, to rigorously examine labor-related issues while improving awareness and understanding of
+these issues among program administrators, policy makers, and the public. CEO will work with DOL leadership
+and DOL agencies to select priority research topics for future rounds of DOL Scholars grants. DOL has
+identified an initial list of topics that may be of interest to explore via DOL Scholars grants or the Data Challenge
+for Emerging Scholars & Academics program described below. Potential priority research topics for these
+grants can be found in the final section of this report (Section V).
+Data Challenge for Emerging Scholars & Academics
+In March 2021, CEO launched DOL's first Summer Data Equity Challenge5 competition, resulting in five
+awards. This program differs from DOL Scholars in its eligibility requirements, outputs, and timeline. The Summer
+Data Challenge requires research teams to include at least one emerging researcher as author or co-author
+(defined as a current Ph.D. candidate or researcher who completed their Ph.D. no more than five years prior).
+Research teams may also include established academics (researchers who received their Ph.D. more than five
+years prior) as long as the research is co-authored with an emerging researcher. DOL intends to conduct the
+Summer Data Equity Challenge as an annual grant competition.
+The purpose of the Summer Data Challenge is to support rigorous research using public data, including DOL
+data, or other administrative data to examine how well DOL policies, protections, and programs serve traditionally
+underserved communities due to race, gender identity, sexual orientation, ethnicity, income, geography, immigrant
+status, veteran and disability status, or other factors proposed by the applicant. Conducted on a faster timeline
+than the Scholars program, the Summer Data Challenge is intended to provide faster-turnaround insights and
+data that can inform specific DOL programs.
+4 See: https://www.dol.gov/agencies/oasp/evaluation/topic-areas/research-scholars-grants
+5 See: https://www.dol.gov/agencies/oasp/evaluation/currentstudies/Department-of-Labor-Summer-Data-Challenge
+6
+https://www.hud.gov/program offices/spm/gmomgmt/grantsinfo/fundingopps/fy21hbcu
+OF
+DOL EVIDENCE-BUILDING PLAN
+33
+FISCAL YEAR 2022-2026
+TATES o
+Increasing Diversity Among DOL-Funded Research Partners
+DOL is currently identifying ways it can support researchers and organizations representing
+traditionally underrepresented groups in accessing and applying for research opportunities sponsored
+by DOL. To this end, CEO is currently developing a partnership with the Department of Housing and Urban
+Development (HUD) to conduct research projects through its Historically Black Colleges and Universities
+(HBCU) Research Centers of Excellence initiative. 6 Given the close association between housing, community
+development, and labor-related issues, DOL will seek to partner with HUD to conduct innovative research on
+topics relevant to housing and labor through these centers. The research projects will focus on priority topics of
+interest to the department related to underserved communities and historically marginalized populations.
+OF
+DOL EVIDENCE-BUILDING PLAN
+34
+FISCAL YEAR 2022-2026
+TATES OPA
+Clearinghouse for Labor Evaluation and Research (CLEAR)
+CLEAR (clear.dol.gov) helps make research on labor topics more accessible to practitioners,
+policymakers, researchers, and the public to inform labor-related decision-making.
+During FY 2022-2026, CLEAR will continue to produce different types of systematic evidence reviews to
+identify, evaluate, and summarize findings from all relevant individual studies in a particular evidence base in an
+accessible manner. These reviews primarily examine causal evidence, which sheds light on what interventions or
+strategies are most effective, while also providing information about the size of the evidence base and where gaps
+exist. Systematic reviews that also examine qualitative studies can answer questions about how those interventions
+work, facilitating the possibility of replication or scaling. These types of reviews can be structured around topic areas
+or dates. Systematic reviews driven by dates allow CLEAR to include the most up-to-date literature on a variety of
+labor topics of interest to DOL, regardless of the size of the evidence base. Other types of reviews - such as rapid
+evidence reviews - can help address time-constrained questions. Rapid reviews quickly summarize evidence on
+relevant programs and potentially promising strategies to support evidence-based decision-making in response to
+pressing labor issues, such as the COVID-19 pandemic.
+In FY 2022, CLEAR will begin to address a variety of research questions of interest to DOL agencies through its
+evidence reviews, anticipating beginning up to 4 new evidence reviews in FY 2022 of interest across DOL agencies.
+Topic areas may include reemployment programs and retraining/reemploying workers as part of a transition to a
+sustainable energy economy; effective practices for securing employer compliance with workplace protections; and
+effects of paid leave policies on workers' employment and earnings.
+CLEAR routinely conducts briefings and develops short syntheses upon completion of its evidence reviews
+for DOL staff, to support their ability to understand and use the results of the reviews to make evidence-based
+decisions. CLEAR is currently exploring how to build on past dissemination approaches to continue to support
+evidence-based decision-making, increase capacity to consume evidence, and refine or develop new types of
+relevant syntheses and dissemination approaches.
+OF
+DOL EVIDENCE-BUILDING PLAN
+35
+FISCAL YEAR 2022-2026
+TATES OPA
+DOL Staff Capacity Building: Evaluation, Measurement,
+and Analytics Training Program
+CEO is developing a training program to increase the capacity of DOL staff to generate, evaluate,
+assess, and use labor-related evidence. The training will include detailed courses on the introduction and
+application of concepts related to program evaluation and data analytics, resulting in certifications for DOL staff
+who have completed the program. The development of the curriculum is still underway and has been informed
+by findings from the DOL Evidence Capacity Assessment, including results from a DOL staff survey about use
+and knowledge of evidence-related topics, as well as staff focus groups.
+Improved Measurement & Data Collection of Key Constructs
+BLS, CEO, and several DOL sub-agencies plan to conduct activities during FY 2022-2026 to improve the way
+certain key labor concepts are measured, ultimately improving the quality of data available about these topics.
+DOL plans to conduct at least four initiatives of this type, as described below.
+Review of Consumer Price Index (CPI) Measures
+BLS frequently contracts with the independent Committee on National Statistics (CNSTAT), a branch of
+the National Academy of Sciences, to examine new sources of data and improvements to processes.
+Currently, CNSTAT is reviewing the BLS Consumer Price Index to evaluate whether to take explicit steps to
+mitigate upper-level substitution bias, as well as best methods for estimating price change for complex topics,
+such as health insurance, owner-occupied housing, and durables. Separate from the CNStat review, BLS is
+exploring options for providing additional CPI indexes for sub-populations, including perhaps different income
+categories. As work in these areas continues, BLS will focus on testing, including focus groups, field testing,
+and other options to determine how best to implement change. Other work will be needed on systems, statistical
+methods, publication review, implications for data collection, and other aspects of the CPI process. Such work
+may provide evidence that can be helpful in ongoing equity-related policy discussions. Throughout FY 22-26, BLS
+expects to explore and potentially modify its current CPI processes to construct its indexes, possibly blending
+traditionally collected data with alternatively collected and sourced data.
+OF
+DOL EVIDENCE-BUILDING PLAN
+36
+FISCAL YEAR 2022-2026
+TATES OPA
+Updating Supplements to the Current Population Survey (CPS)
+Review of Contingent and Alternative Work
+Revisions to the CPS Veterans Supplement. In
+Arrangement Measures. A committee assembled
+March 2021, BLS solicited public comments on a
+by CNSTAT, the Committee on Contingent Work
+proposed revision to the Veterans Supplement, which
+and Alternative Work Arrangements, released their
+is supported by DOL's VETS sub-agency and is
+findings and recommendations in July of 2020. In
+used by VETS and the U.S. Department of Veterans
+FY 22, BLS will focus on testing, including focus
+Affairs (VA), as well as external researchers to study
+groups, field testing, and other options to determine
+the labor force status of veterans. Changes to the
+how best to implement changes or the addition of
+survey instrument were informed in part by an expert
+new questions to the Contingent Worker Supplement
+panel of external stakeholders convened by CEO
+to capture information on current and future work
+in 2019. The revised survey instrument eliminates
+arrangements as the labor market continues to
+outdated questions and adds additional items related
+evolve. Going forward, other work will be needed on
+to veterans' transition from active duty to civilian
+systems, statistical methods, publication review, and
+employment, details about working with service-
+other aspects of the survey process to implement
+connected disabilities, awareness of VA benefits,
+the changes.
+and work duties while in the Armed forces. The
+Supplement is expected to be conducted in August
+Revisions to the CPS Disability Supplement.
+2021, August 2022, and August 2023.
+In FY 2022 and FY 2023, and beyond, ODEP will
+collaborate with BLS, CEO, and internal and external
+Update to the UI Non-Filer Supplement. The
+stakeholders to engage in foundational research
+UI non-filer supplement provides one of the only
+and analysis to revise a Disability Supplement that
+sources of information about unemployed workers
+has been periodically fielded (FY 2012, FY 2019,
+who may be eligible for UI but do not apply for
+FY 2021) as part of the CPS. This project will result
+or receive benefits. The supplement therefore
+in a detailed mapping of current data sources
+provides important information to support equity
+on individuals with disabilities and employment,
+assessments of the UI system. As part of DOL's
+identifying gaps in the data. It will also result in the
+ongoing commitment to improving access to timely
+development of new survey questions designed
+UI benefits, CEO will work with BLS, other units in
+to more accurately capture the characteristics and
+DOL, and external stakeholders to understand how
+labor market challenges of people with disabilities,
+this supplement could be revised to provide timely
+including questions focusing on identifying a broader
+and actionable information about barriers workers
+population of people with disabilities that may be
+experience to claiming UI benefits-particularly in
+used to augment or revise the current six disability
+light of various changes to UI administration as part
+questions included in the CPS. New survey questions
+of the American Rescue Plan Act.
+developed as part of this project will be included in a
+CPS Disability Supplement fielded in July 2024.
+Improving Foundational Knowledge of Care Economy Workers
+In FY 2022 and beyond, ODEP expects to work with BLS, CEO, and internal and external stakeholders, to
+assess how federal data collections can better identify workers in caregiving professions, including workers
+who provide homebased or community-based care to others. Caregiving workers are not always identified in
+existing federal datasets that provide occupational information. Improving and standardizing the way caregiving
+occupations are measured in data collections is a necessary step toward improving foundational knowledge
+about these workers.
+OF
+DOL EVIDENCE-BUILDING PLAN
+37
+FISCAL YEAR 2022-2026
+TATES OPA
+Improving DOL's Data Infrastructure
+DOL continues to make significant strides to improve data infrastructure in ways that bring significant
+value to internal and external users. These efforts are intended to make access to data more efficient and
+effective, and to ensure that data are fit for purpose, interoperable, comprehensible, and have utility for the
+widest possible set of users and uses. These efforts have benefited from active cooperating and coordination
+between the Chief Data Officer, Chief Information Officer, Evidence Officials, and the agency staff comprising
+DOL's Data Board. While some of this work involves technology, much of it involves culture change, and
+success will depend on closely aligning the proposed activities with Agency mission, existing and prospective
+departmental needs, and demonstrable value for all stakeholders.
+Improved Access to Data
+DOL has created a new consolidated data portal and Application Programming Interface (API) that provides on
+demand access to machine-readable data. The new data portal and API should give Federal, private and public
+data users outside the department easier ways to find DOL data, as well as simple, consistent, and repeatable
+methods to access data that integrate well with research, analysis and reporting functions. These services have
+gone live within the department and the service is being evaluated for its adoption and customer experience,
+and the ways in which agencies integrate the service into their operations to inform decisions about opening it
+up to the public. The goal of this work is to expand the convenience and functionality with which DOL data can
+be leveraged by researchers and members of the public.
+JAN
+DOL EVIDENCE-BUILDING PLAN
+38
+FISCAL YEAR 2022-2026
+TATES OPA
+Data Governance
+DOL has been actively working to expand data management and governance to support departmental and
+administration priorities. DOL is leveraging its enterprise data inventory, network of data stewards, and
+analytical capabilities to assess the state of characteristic and demographic data across the enterprise, and
+develop plans to make that data more fully interoperable. The DOL Data Board is working towards adoption of
+a metadata standard and development of open source tools to manage that metadata and leverage it to assure
+data quality and conformity to adopted standards. DOL has set up shared services for address standardization,
+which will benefit data quality and strongly enhance our ability to perform entity resolution across different data
+sets and programs. All of these efforts are seeking to raise DOL's data capacity and expand and improve the
+potential use cases for our data.
+DOL Restricted Use Data Access Program
+DOL has extended the service it currently uses to support evaluation contracts and contractors to researchers.
+DOL has arranged data files and supporting documentation for selected prior evaluation studies and can, under
+specific circumstances, make those data sets available for secondary analysis. This capability can be extended
+as well to support primary or secondary analysis of agency data sets with sensitive or non-sensitive PII under
+specific circumstances. DOL will continue to work towards making the largest share of its data available, and
+supporting the appropriate analysis of DOL data to create insights about program impacts, stakeholder outcomes,
+and information that can support evidence based policymaking, resource allocation, and program administration.
+Examination of BLS data collection and storage alternatives
+A data lake is a cloud based data repository that allow users to store large amounts of unstructured/raw or
+structured data. BLS is moving forward in exploring the feasibility of using a data lake to enhance the efficiency
+of data collection and storage. After the proof of concept period, which included demonstrations from major
+vendors in the field, a successful pilot project is now moving forward to explore the feasibility of using a data
+lake to enhance the efficiency of data collection and storage. BLS is now exploring whether a data lake can be
+a cost effective path to expand use of alternative data and automate some of BLS' survey functions.
+OF
+DOL EVIDENCE-BUILDING PLAN
+39
+FISCAL YEAR 2022-2026
+TATES OPA
+Technology Modernization Fund Data Modernization Initiative
+OASAM is modernizing DOL's enterprise data infrastructure to deliver enterprise capabilities in data
+management, advanced analytics, and open data, leveraging the DOL IT Platform's Data Analytics Capability,
+to improve the use of data for generating evidence. As part of this initiative, OASAM is examining the optimal
+process for facilitating intra-agency data sharing using an existing modernized and consolidated data source,
+assessing what critical enhancements to enterprise data infrastructure could enable DOL data sources to be
+modernized, secured, and consolidated with data governance applied, and functioning effectively in production.
+OASAM is identifying the critical enhancements to enterprise data infrastructure to enable DOL agencies to use
+advanced capabilities (e.g. Al, ML, and/or Advanced Analytics).
+Improving Accessibility of ETA Data Books
+ETA is working to improve the accessibility and usability of data books that present information on the
+characteristics, services, and outcomes of individuals served by Workforce Innovation and Opportunity Act
+(WIOA) and Wagner-Peyser Act programs. This is intended to facilitate research conducted by states, local
+areas, and DOL, using administrative data. In past years, the data books have been produced in less accessible
+formats that were difficult for researchers and practitioners to utilize. This project will enhance the usability of
+the data, providing it in more customizable and accessible formats that will facilitate researchers' capacity to
+search, download, analyze, and create visualizations with the data.
+OF
+DOL EVIDENCE-BUILDING PLAN
+40
+FISCAL YEAR 2022-2026
+TATES OPA
+V. Potential Future Evidence-Building Topics
+In addition to the confirmed projects listed above, DOL has identified a short list of future evidence-building
+topics that are of interest to the department and/or DOL stakeholders. While DOL has an interest in exploring
+the topics, it has not yet identified a specific research project to do so. The following topics may be integrated
+into research activities described in Section IV (for example, as a priority topic for research grants), or they may
+inform DOL's future evidence-building commitments.
+These topics include:
+The care economy & workforce (Possible partner
+Labor-related data gaps on marginalized groups
+agencies: WB, ETA, ODEP, others)
+(Possible partner agencies: many)
+Equity in the workplace: hiring, retention, promotion,
+Understanding the prevalence of retaliation against
+wages, pensions, protections (Possible partner
+workers and potential remedies, including effective
+agencies: OSHA, OFCCP, WHD, EBSA, others)
+strategies for increasing workers' awareness of their
+rights and deterring employer incentive for retaliation
+Vulnerable workers/migrant worker rights (Possible
+(Potential partner agencies: WHD, others)
+partner agencies: WHD, ILAB)
+Inequality in hiring and employee management,
+The future of work, post-pandemic and pandemic
+retention, and promotion processes (potential
+effects, long-COVID-19/disability issues and
+partner agencies: OFCCP, others)
+recovery among vulnerable sub-groups (Possible
+partner agencies: ETA, ODEP, VETS, WB, others)
+Pay equity and analysis of data sources regarding
+pay (potential partner agencies: OFCCP, others)
+Re-employment services for marginalized groups
+(Possible partner agencies: ETA)
+Job quality and essential occupations, including
+caregivers (potential partner agencies: ETA, others)
+DOL EVIDENCE-BUILDING PLAN
+41
+FISCAL YEAR 2022-2026
+TATES OPA
+Appendix A. Mapping of Planned Departmental Evidence-
+Building Activities by DOL Strategic Goal
+Note: Numbers correspond to Project numbers in body of the report.
+DOL PRIORITY LEARNING AREAS
+1:
+2:
+3:
+4:
+5:
+6:
+DOL
+Ensuring
+Reducing
+Studying
+Improving
+Strengthening
+Other
+STRATEGIC
+Equity in
+Barriers to
+Effects of the
+Enforcement
+Unemployment
+Learning
+Employment
+Women's
+COVID-19
+Activities &
+to Reemployment
+Priorities
+GOALS
+& Training
+Employment
+Pandemic
+Protections
+Programs
+for All
+1:
+1, 2, 3, 4,
+7,8,
+Build Opportunity
+9, 10, 11
+1, 9, 12
+22
+35
+38
+5, 6, 7, 8
+and Equity for All
+2:
+15, 16, 17,
+Ensure Safe
+18, 19, 20, 21,
+Jobs, Essential
+N/A
+N/A
+13
+23, 24, 25, 26,
+N/A
+N/A
+Protections, and
+27, 28, 29, 30,
+Fair Workplaces
+32, 33, 34
+3:
+Improve
+Administration of
+and Strengthen
+N/A
+N/A
+N/A
+31
+36, 37
+N/A
+Worker Safety Net
+Programs
+4:
+Statistical Goal -
+Produce Gold-
+See
+N/A
+N/A
+N/A
+N/A
+N/A
+Standard Statistics
+Section IV
+and Analyses
+Management Goal:
+A Department
+Grounded in
+Evidence, Innovation,
+N/A
+N/A
+14
+N/A
+N/A
+39, 40, 41,
+42, 43, 44
+and Employee
+Engagement
+OF
+DOL EVIDENCE-BUILDING PLAN
+42
+FISCAL YEAR 2022-2026
+TATES OPA
+MENT
+OF
+U.S. Department of Labor
+TATES OF

@@ -1,0 +1,464 @@
+O
+NATIONAL SCIENCE FOUNDATION
+AGENCY EQUITY ACTION PLAN
+SUBMITTED TO THE DOMESTIC POLICY COUNCIL AND
+THE OFFICE OF MANAGEMENT AND BUDGET
+National
+NSF
+Science
+Foundation
+EXECUTIVE SUMMARY
+The National Science Foundation (NSF) is an independent federal agency created by Congress in
+1950 "to promote the progress of science; to advance the national health, prosperity, and
+welfare; to secure the national defense. NSF supports all fields of science and engineering that
+create knowledge that transforms the future. This type of support:
+Is a primary driver of the U.S. economy;
+Enhances the nation's security; and
+Advances knowledge to sustain global leadership.
+With an annual budget of $8.5 billion (FY 2021), NSF is the funding source for approximately
+25 percent of all federally supported basic research conducted by America's colleges and
+universities. NSF invests in all 50 states and US territories through grants to nearly 2,000
+colleges, universities, and institutions. Each year, NSF receives more than 40,000 competitive
+proposals and makes about 10,000 new awards. Those awards include support for cooperative
+research with industry, Arctic and Antarctic research and operations, and U.S. participation in
+international scientific efforts.
+To promote the progress of science and maintain our Nation's scientific leadership and global
+competitiveness, the United States must educate, train, and retain more scientists, engineers,
+and computer scientists. Historically, underrepresented and underserved communities are the
+largest untapped Science, Technology, Engineering, and Mathematics (STEM) talent pools in
+the U.S. As such, NSF strives to encourage the full participation of all Americans and to remove
+barriers to their doing so. This is reflected in NSF's Strategic Plan which is intended to ensure
+all sectors of society have the opportunity to contribute to the scientific enterprise. NSF has
+undertaken a broad range of activities in that regard, and one of the biggest takeaways from this
+planning exercise is to fully appreciate the coordination required to ensure these activities are
+robust, consistent, well-executed and evidence based. The Foundation is working on developing
+a coordinating process to take on that role so that this plan and other activities realize their
+potential for U.S. science.
+2
+SUMMARY OF ACTION PLAN
+The successful implementation of this Executive Order (EO) is a top priority for the Foundation.
+To respond to EO 13985 specifically, the Director established the Agency Equity Team
+(AET), which has met regularly to plan for and conduct equity work. Continuing activities and
+steps include: addressing sexual and other forms of harassment, optimizing demographic
+data collection in support of equity assessments, increasing participation of disadvantaged
+entities, (including Minority Serving Institutions (MSIs)), on Federal Acquisition Regulation-based
+solicitation and awards, and removing barriers to enhanced participation by indigenous and
+Native American communities.
+NSF recognizes the vulnerabilities associated with trying to remove barriers to program
+access for underserved communities without robust engagement activities. Therefore, NSF is
+prioritizing its commitment to stakeholder engagement through hosting collaborations with
+Historically Black Colleges and Universities (HBCUs), Hispanic Serving Institutions (HSIs), and
+Tribal Colleges and Universities (TCUs). NSF seeks to host listening sessions and roundtables
+on HBCU, HSI, and TCU campuses. NSF will utilize these events as opportunities to engage the
+scientific community on equity issues at all academic levels, including students, senior scientists
+and engineers, educators, and administrators.
+The goal of the listening sessions is to meet with the community to acquire a better
+understanding of the various barriers to program access to include technical assistance,
+awareness, harassment, etc. NSF plans to cross-pollinate common threads learned from those
+sessions across diverse stakeholders about removing barriers to program access.
+NSF will begin the planning for the listening sessions and roundtables in FY22. NSF will
+develop a formal strategy for incorporating any lessons learned and promising practices into
+recommended program initiatives for implementation. NSF believes these efforts will potentially
+mitigate the blind spots that may exist about the effects of barriers to full and equal access for
+underrepresented and underserved communities.
+3
+SUMMARY OF EARLY ACCOMPLISHMENTS
+Since NSF's previous EO 13985 plan was submitted, NSF has made several efforts to address
+barriers to enhanced participation in the STEM enterprise by underserved Indigenous and
+Native American communities. NSF Director Sethuraman Panchanathan held a Town Hall with
+Tribal Nations in the Spring of 2021, with an accompanying 90-day comment period, ending
+June 12, 2021, designed to provide an opportunity for Tribal Nations to share their thoughts on
+how NSF could enhance its Tribal consultation efforts and build on its relationships with Tribal
+Nations. NSF continues to focus weekly on plans for continuous engagement with Tribal Nations.
+Currently plans include listening sessions with Tribal Leaders, to occur in March 2022.
+NSF has included Indigenous community acknowledgments as part of its programmatic
+agreements (PA) for some of its astronomical facilities. For example, the PA for the Daniel K.
+Inouye Solar Telescope (DKIST), which is located on the summit of Haleakala in Maui, HI, requires
+researchers who base their research on data collected in whole or in part from DKIST to include
+an acknowledgement of the use of this site of significant importance to Native Hawaiians in any
+publication resulting from DKIST related research. There are likewise research acknowledgments
+required by NSF funded researchers at Gemini North telescope, located within the Maunakea
+Science Reserve and adjacent to the summit of Maunakea, and for visiting astronomers at NSF's
+NOIRLab at Kitt Peak National Observatory. A more general land acknowledgment (see Focus
+Area #4) has been proposed and will be reviewed by stakeholders.
+The Foundation is currently revising the next version of the "NSF Proposal and Award Policies
+and Procedures Guide" to specifically identify Tribal Governments as eligible organizations to
+submit proposals for funding to NSF. This specific enhanced eligibility is a key action intended to
+set the stage for increasing Native American STEM participation at NSF.
+NSF recently focused on additional efforts to address sexual and other forms of harassment
+associated with NSF-funded programs, specifically those supporting travel. In the latest version
+of the NSF Proposal and Award Policies and Procedures Guide (PAPPG) (NSF 22-1) (effective on
+October 4, 2021), the Foundation included new requirements for NSF travel proposals. For
+such proposals, the Authorized Organizational Representative must now certify that prior to
+the proposer's participation in the meeting, the proposer will assure that the meeting organizer
+has a written policy or code-of-conduct that addresses sexual harassment, other forms of
+harassment, and sexual assault, and that includes clear and accessible means of reporting
+violations of the policy or code-of-conduct. The policy or code-of-conduct must address the
+method for making a complaint as well as how any complaints received during the meeting will
+be resolved.
+NSF has preliminary findings from an evaluation that was comprised of qualitative and
+quantitative components designed to obtain valuable insights to (1) influence NSF's actions to
+increase the efficacy of NSF's anti-harassment policies and (2) determine next steps in NSF's
+continued efforts to evaluate its harassment prevention policies.
+4
+EQUITY ACTION PLAN
+Focus Area # 1 - Efforts to Address Sexual and Other Forms of Harassment
+Barrier to Equitable Outcome(s)
+Sexual and other forms of harassment are barriers to full participation by
+underrepresented groups (URGs) in the scientific endeavor.
+Action and Intended Impact on Barrier
+The latest efforts by the Foundation in addressing harassment as a barrier are focused on
+(1) evaluating existing policies and (2) extending the reach of NSF harassment prevention
+efforts to research activities at field sites and on research vessels.
+(1) The evaluation of NSF's harassment prevention efforts focused on the term and
+condition and the conference policy. Currently under review, preliminary findings
+provide useful information for next steps in NSF efforts to dismantle barriers to
+the participation of URGs in STEM. For example, the analysis of communications
+shows that, on average, universities submitting proposals to NSF have adopted
+an anti-harassment policy and disseminate it through their websites. This is not
+true of businesses. The analysis also shows that NSF's conference policy had a
+positive impact on adherence to the guidance provided by NSF. This finding holds
+overall and by type of institution (R1 versus R2), but not for all types of MSIs. These
+and other findings will inform ongoing NSF efforts to develop targeted approaches to
+accelerate the impact of harassment prevention efforts, particularly given NSF's Strategic
+Goal of increasing participation in the STEM enterprise and the Plan's focus on private
+sector partnerships and MSIs. Findings will also inform next steps in monitoring and
+evaluation activities.
+(2) Fieldwork is in many STEM fields and presents unique challenges that can increase
+the likelihood of harassment, including but not limited to challenging physical
+conditions, social isolation, and limited communication methods. Work conducted
+out in the field or at sea on vessels has also been associated with higher risks of
+harassment, especially for individual minorities within the field team. A new internal
+NSF working group was recently formed to consider the next steps for the Foundation
+in this important area such as potential language for addition to the next version of the
+Proposal and Award Policies and Procedures Guide (PAPPG), and new opportunities for
+internal/external outreach on this topic. NSF's vision and goal is that all research should
+be done in an environment free from harassment.
+Tracking Progress
+NSF will track its progress through continued monitoring and evaluation activities.
+Activities in the planning stages include interviews with NSF grantee institutions to gain
+more in-depth understanding about how NSF harassment prevention efforts are received
+and interact with institutional processes and practices, as well as surveys to gauge grantee
+awareness, elicit opinions, and measure impacts over time.
+5
+NSF will track:
+a. Progress toward adhering with agency anti-harassment policies across grantees
+overall and by different types of institutions (such as private sector, academia, and
+different types of MSIs)
+b. Progress toward understanding factors that enhance or inhibit grantees' adherence
+to NSF policies to adapt implementation as needed
+Long term success will have the following characteristics:
+C. Increasing share of grantees demonstrating knowledge of NSF policies, overall and
+by type of institution
+d. Increasing share of grantees adhering to NSF policies, overall and by type of
+institution
+Accountability
+NSF will use the following actions:
+a. Continued oversight. NSF's Equity Team, under the leadership of its members from
+NSF's Office of Equity and Civil Rights, along with the program office, will oversee
+implementation and monitor progress toward the goals identified in the "Tracking
+Progress" section.
+b. Enhanced programming. Based on findings from ongoing monitoring and
+evaluation, NSF will revise and continue to expand its programming to promote
+equity in participation in NSF programs through the promotion of anti-harassment
+efforts.
+Focus Area # 2 - Optimized demographic data collection in support of equity
+assessments
+Barrier to Equitable Outcome(s)
+To evaluate the impacts of NSF's existing investments with respect to equity, response
+rates from beneficiaries of NSF programs (such as Principal Investigators [PIs], reviewers,
+post-doctoral fellows, teachers, and students) need to be increased to ensure NSF has
+robust demographic data for analysis.
+Action and Intended Impact on Barrier
+NSF's earlier reports indicated that the agency would develop a plan for optimized
+demographic collection from Pls. As it progressed, and in recognition of the value of
+this work to the agency, this effort was expanded to include other participants of NSF
+programs, namely, undergraduate students, graduate students, post-docs, and teachers.
+To increase response rates across this wide range of beneficiaries of NSF programs, NSF
+is developing (and implementing already) a suite of approaches that should improve data
+quality, including enhancements to existing data collections. These include (1) piloting
+changes to the user interface used to collect demographic data from Pls and (2) enhancing
+a system to collect data from students and other potential beneficiaries of NSF programs.
+(1) Improving collection of demographic data from Pls. The demographic questions
+will display upon entry into Research.gov (instead of requiring that respondents
+click on an icon to display the questions). Previously responses were not required,
+6
+and users could skip over the questions entirely. As part of the pilot, users must
+provide some response, and "Do not wish to provide" is consistently offered as a
+response category to retain the voluntary nature of the inquiry. The experiences
+of other agencies and data collections suggest that these changes should result in
+improved response rates. This approach is being pilot tested on Pls registering with
+NSF for the first time as of September 2021. Ongoing monitoring suggests that the
+pilot is driving a sharp increase in response rates for new users with a PI role. Out
+of more than 3,000 users in the pilot, more than 95 percent provided gender
+information and more than 90 percent provided race, ethnicity, and disability
+information, compared with rates of 45 percent for gender and below 40 percent
+for the other demographic information in the same period a year ago. As the pilot
+continues, these estimates might change, but these early results are encouraging.
+(2) Improving collection of demographic data among applicants and participants
+in NSF programs, and greatly enhancing NSF's ability to conduct rigorous
+evaluations. NSF is also expanding its Education and Training Application (ETAP)
+to collect information from a broader range of potential participants in NSF
+programs: undergraduate and graduate students, post-doctoral fellows, and
+teachers. The FY 2022 pilot launched at the end of November 2021. As of mid-
+January, preliminary results from 339 users with completed applications (among
+more than 6,000 current users expected to submit applications) show response
+rates above 90 percent for most demographic questions, and as high as 98 percent
+(for sex and gender identity, for example). This suggests that ETAP, once scaled
+up, will provide NSF with access to high quality data to monitor (in real time) and
+rigorously evaluate (using comparison group designs) its efforts to develop the
+STEM workforce and contribute to the scientific enterprise.
+The importance of having high quality demographic data on actual and potential
+participants in NSF programs cannot be overstated, as these data are crucial for NSF to
+assess equity in participation over time and adapt its programming as the context of
+implementation changes to promote equity.
+Tracking Progress
+NSF will use quantitative indicators to track:
+a. Progress toward achieving high response rates in demographic data collections
+b. Progress toward receiving useful responses from respondents to NSF data
+collections (instead of opting out)
+Long term success will have the following characteristics:
+a.
+Increasing and high response rates in demographic data collections
+b. Decreasing refusals (respondents who opt out from providing a response)
+Accountability
+NSF will use the following actions:
+a. Continue to support efforts to improve data collections
+b. Provide updates to NSF leadership to support the adoption of successful pilot
+initiatives and expansion across agency programs to scale up impacts
+7
+Focus Area # 3 - Increase Participation of Disadvantaged Entities, including
+MSIs, on Federal Acquisition Regulation-based solicitation and awards
+Barrier to Equitable Outcome(s)
+Creating an equitable and inclusive contracting environment for MSIs and small
+disadvantaged businesses (SDBs), including those owned by women and people of color,
+is challenging. Increasing access to NSF procurement staff and solicitations/awards for
+NSF procurement actions and an inclusive contracting strategy will result in income and
+jobs for disadvantaged entities.
+The complexity of federal contracting frustrates existing and new entrants to the Federal
+acquisition process. Contracting inequities can be internal to the government (e.g.,
+business practices) and driven by how large prime contractors provide subcontracting
+opportunities. Further, category management practices and best-in-class solutions
+negatively impact the ability of disadvantaged entities and new entrants to position
+themselves access to compete and secure awards. The barriers we seek to address are
+a lack of understanding of how to do business with NSF and access to program/technical
+experts.
+Action and Intended Impact on Barriers:
+1) Increased outreach to MSIs and SDBs. The NSF Senior Procurement Executive
+(SPE) and Office of Small and Disadvantaged Utilization (OSDBU) revised
+the Division of Acquisition and Cooperative Support's (DACS) outreach and
+communications plan. The plan promotes fair, frequent, and constructive dialogue
+with the community on matters of mutual interest, as appropriate, and in a manner
+that protects sensitive information, operation, sources, methods, and technologies.
+The SPE and Deputy (Director), OSBDU will conduct a series of outreach sessions for
+SDBs and MSIs. The sessions will specifically address how to effectively do business
+with NSF, introductions to program office staff, and upcoming requirements of
+interest to these entities. By providing access to DACS, OSDBU, and program offices
+while targeting diverse suppliers, the focused outreach will assist NSF in reducing
+the barrier to equitable outcomes.
+The OSDBU will revise its public-facing website to provide SDBs and MSIs a better
+understanding of how to do business with NSF and reduce the uneven advantages
+of communication and access to NSF between small and large businesses.
+2) Improved market research and acquisition planning. Effective market research
+will produce procurements that efficiently meet NSF needs and enable mission
+success in a way that ensures a resilient vendor base, meets Small Business
+Administration (SBA) goals, and complies with the Federal Acquisition Regulation.
+Creating a diverse vendor base ensures a diversity of approaches when it comes to
+problem-solving. This gives NSF a better opportunity to guarantee the flow of new
+and competing ideas and enhances the availability of those ideas. Finally, a diverse
+vendor base will ensure opportunities for non-traditional vendors and vendors that
+have not previously worked at or for NSF.
+Strategies and tools identified for use include:
+8
+a. Requests for Information (RFI) - RFIs are a way of requesting information from
+the vendor community and will be posted publicly to www.sam.gov or reserved
+for response by small and disadvantaged entities.
+b. One-on-One Briefings - NSF engages one-on-one with small and disadvantaged
+entities to receive input and identify vendors capable of supporting its mission
+C. Hosting Industry Days - Industry days allow interested vendors to ask questions
+of NSF personnel, contribute ideas, and interact with NSF procurement and
+program personnel. It provides an opportunity for vendors to gain a clear
+understanding of the NSF goals and objectives.
+3) Increased subcontracting opportunities and enforcement of subcontracting
+plans. Not all contracts and awards are suitable for small and disadvantaged
+entities. In those cases, NSF must provide opportunities for small and
+disadvantaged entities to subcontract. For all contracts not set aside for small
+businesses, DACS must coordinate with the owner of the requirements and the
+OSDBU to design reasonable subcontracting goals.
+NSF will clearly identify goals for small business participation in all prime contracts
+and actively track compliance with and achievements of those goals. Including small
+business provides those entities with the revenue and experience to help them
+grow to bid on future procurements and increased competition, which drives down
+the cost to the government.
+Tracking Progress
+Reduction of barriers will be tracked as follows:
+a. Progress towards achieving/exceeding small business prime goals
+b. Progress towards achieving/exceeding small business subcontracting goals
+C. NSF will solicit feedback on outreach sessions and industry days from participants
+Long term success will have the following characteristics:
+a. Successful achievement of small business goals, including the SDB goal which is
+increasing from 5% to 15% of total annual contract obligations
+b. Increase in the number of small and disadvantaged entities receiving prime and
+subcontract awards
+Accountability
+NSF will use the following actions:
+a. Include the achievement of small business contracting goals as a part of the
+performance plans for Senior Executive Service (SES) officials
+b. Ensure agency small business contracting offices have access to senior leadership
+9
+Focus Area # 4 - Efforts to remove barriers to enhanced participation of
+underserved Indigenous and Native American communities in the Science,
+Technology, Engineering and Mathematics (STEM) enterprise
+Barrier to Equitable Outcome(s)
+Lack of robust connections based on trust between NSF and Indigenous and Native
+American communities is a barrier to full participation in NSF's programs and activities.
+Action and Intended Impact on Barrier
+The kinds of connections NSF is seeking with Indigenous and Native American
+communities require sustained outreach and consistent relationship building. These
+relationships, moreover, must be based in trust. Many members of Indigenous and
+Native American communities are skeptical of researchers and/or funding agencies, and
+therefore demonstrating an understanding and respect for tribal sovereignty and the
+status of tribes is paramount.
+An informal working group comprised of staff with expertise in working with Tribal nations
+and indigenous researchers was immediately formed to develop NSF's response. This
+group was so successful and motivated for long term results that the Director approved
+elevating the status of the group to an official permanent Office of the Director (OD)
+Working Group.
+To launch NSF's renewed tribal consultation efforts, the Director held a Town Hall
+with Tribal Nations in Spring, 2021, with an accompanying 90-day comment period
+(ending June 12, 2021) designed to provide an opportunity for Tribal Nations to share
+their thoughts on how NSF could enhance its Tribal Consultation efforts and build on
+its relationships with Tribes. NSF received 22 written and verbal responses, including
+responses from the Chief of the Shawnee Tribe (who commented that "Nothing [should
+be] about us without us"), the Chair of the Cherokee Nation Environmental Protection
+Commission, the President of Little Big Horn College (a tribal college), Tribal members,
+representatives of Tribal organizations, and Tribal researchers. From these responses,
+NSF identified approximately 60 separate comments concerning the following broad
+topics: NSF/Program outreach and relationship building; solicitation and proposal
+development; and the merit review process.
+After analyzing the comments received, the OD Working Group developed an Action Plan,
+which was submitted to OMB on April 26, 2021. Following submission of NSF's Action Plan,
+NSF posted materials related to the Director's Town Hall, the Action Plan, and comments
+received during the 90-day comment period to the NSF webpage. NSF's analysis of
+comments, which included both internal (NSF) and external comments, also enabled the
+agency to identify topics to focus on for future listening sessions. NSF sought advice from
+other federal agencies with expertise in Tribal consultation regarding the format and
+logistics for holding listening sessions with Tribal Nations.
+The NSF Director further acted on his commitment to enhance NSF's Tribal consultation
+efforts by formally establishing the Tribal Consultation and Engagement Working Group
+(TCE Working Group). The TCE Working Group is charged with continuing the work of the
+informal Working Group. This includes completing the initial gathering of information
+through listening sessions and an accompanying comment period and developing formal
+recommendations for long-term implementation of the Action Plan.
+10
+The TCE Working Group is in the final stage of planning listening sessions on two topics to
+be held between March 22, 2022, and May 5, 2022. The first topic will address "Promoting
+Meaningful Government-to-Government Consultation and Engagement" and the second
+topic will address "Enhancing Collaboration on Research." Three sessions will be held
+on different days and times for each topic to provide flexibility to participants and to
+accommodate those in different time zones. In addition, NSF will hold a 60-day comment
+period that will begin before the first listening session and end on May 14, 2022. Tribal
+Nations can provide comments via email or regular mail during this comment period. In
+addition, NSF is planning in-person, one-on-one, or small group stakeholder engagement
+activities to provide another means communication between Tribal Nations and NSF.
+NSF also plans to make an interactive virtual meeting room available to Tribal Nation
+representatives during the comment period as an additional way to participate in
+this process. This virtual meeting room is a creative and innovative tool that provides
+participants with an accessible, convenient, and interesting space to access information
+about NSF (in general), NSF's Action Plan, and the listening sessions. It also provides an
+opportunity for participants to easily submit comments during their visit to the virtual
+meeting room. We view the implementation of this tailored technology as a critical step in
+promoting inclusivity and overcoming barriers to participation in that it is readily available
+regardless of geographic location or time zone and, not only inviting, but easy to use and
+navigate.
+Following the conclusion of the listening sessions and comment period, NSF will analyze
+all written and verbal comments received from Tribal Nations and work to develop specific
+recommendations regarding ways in which: 1) NSF's consultation and engagement
+efforts can be improved through research policies and practices and potential strategies
+for addressing issues of concern to Tribal Nations; and 2) NSF can enhance its research
+policies and practices to encourage more participation from Tribes in STEM research and
+respect tribal sovereignty.
+In addition to the action items identified above, NSF has begun work on developing a
+land acknowledgment statement that could be used at the outset of NSF meetings and
+conferences. The draft recognizes that this land on which the NSF Headquarter is located
+holds great historical, spiritual, and personal significance to Indigenous people of the
+region and that the leaders of the meeting/conference are grateful and appreciative to be
+there.
+Tracking Progress
+Progress will be tracked through indicators such as:
+a. NSF's Tribal Consultation and Engagement Working Group (TCE) will track progress
+through the following indicators: Number of engagement activities completed by
+NSF (such as listening sessions) over time
+b. Number of participants in each activity, preferably with Tribal affiliations
+c. Number of comments received, overall, by mode of transmission (such as email,
+mail, or virtual meeting room), and if possible, by Tribal affiliation
+d. Traffic in the virtual meeting room, overall and by type of use (such as downloading
+information)
+e. Drafting and approval of the land acknowledgment statement and of guidance for
+11
+NSF staff and contractors to promote its use
+Long term success will have the following characteristics:
+a. Sustained consultation and engagement results in tangible changes to NSF
+practices, procedures, or policies to engage and support the participation of Tribal
+nations in NSF programs and activities
+b. The land acknowledgment statement is increasingly used in NSF meetings and
+conferences
+C. Participation of Tribal Nations and their members in NSF's portfolio increases over
+time (e.g., as measured by participation in NSF programs through research awards,
+scholarships, fellowships, research experiences, and so on)
+Accountability
+NSF's Tribal Consultation and Engagement Working Group will oversee implementation
+and report to the Office of the Director regularly on progress.
+Focus area #5 - Efforts to enhance actions to establish and support the Civil
+Rights Program
+Barrier to Equitable Outcome(s)
+NSF is committed to ensuring the necessary resources are available to implement a
+robust civil rights program designed to mitigate and eliminate barriers to equity in
+program delivery.
+Action and Intended Impact on Barrier
+NSF is actively pursuing actions in four areas: (1) reviewing ongoing efforts to advance
+equity across the Agency, (2) revisiting the composition and organizational structure of
+OECR to amplify its effectiveness, (3) conducting an organizational assessment in support
+of OECR goals, and (4) acting on the findings of the Racial Equity Task Force report. These
+are described below.
+NSF will continue ongoing reviews of offices and directorates' efforts to advance civil rights
+and include underrepresented, underserved, or disadvantaged communities in NSF's
+funding portfolio. These reviews will help monitor implementation, assess progress, and
+ensure adequate resources.
+Consistent with these reviews, the Office of Equity and Civil Rights (OECR) recently
+established a new senior executive service (SES) position of Deputy Office Head. This
+position will ensure the reviews are robust and findings disseminated to leadership
+to ensure they are influential and will also support internal and external civil rights
+programs, such as Title VI, IX, and harassment-prevention efforts. In addition, the OECR is
+reorganizing to align staff more efficiently, while adding new positions to support program
+expansion. This effort expands OECR's capability to serve internal NSF staff, as well as
+NSF's external community in ensuring equity in all areas of NSF's work.
+OECR's reorganization will be supported through an organizational assessment. The
+agency's goal is to eliminate barriers to equity that can arise from having DEIA initiatives
+in silos throughout the agency without an overarching coordinating role. The plan
+is to assess the appropriateness of global DEIA policy guidance and coordination,
+12
+develop strategic planning with meaningful and impactful metrics, and support annual
+performance reporting. The agency will make any business realignments and provide the
+necessary resources for a successful program.
+NSF staff recently completed a report focused on racial equity. This report provided
+insights and recommendations in several areas, including employment and program
+delivery. NSF intends to incorporate, as applicable and appropriate, mitigating strategies
+to address potential barriers to equity identified in this report.
+Tracking Progress
+NSF will track progress as follows:
+a. Completion of assessments, such as the office/directorate reviews and the OECR
+organizational assessment
+b. Dissemination of findings to NSF leadership and co-creation of actionable
+recommendations for Agency adoption
+Long term success will have the following characteristics:
+a. Findings from the assessments result in changes to NSF organizational
+structures, policies, or practices in support of DEIA efforts. Examples include: the
+reorganization of OECR in support of its mission; and anti-harassment policies are
+expanded or revised to ensure thorough coverage of research environments
+b. NSF continues to provide resources and leadership support for ongoing monitoring
+and evaluation of DEIA efforts
+Accountability
+The Office of the Director will monitor progress through monthly reports from OECR.
+OECR will disseminate findings, recommendations, and actions widely across the Agency.
+13

@@ -1,0 +1,879 @@
+Treasury FY 2022-2026 Capacity Assessment
+FY 2022-2026 Department of the Treasury
+Evidence Building Capacity Assessment
+Table of Contents
+Executive Summary
+2
+Background
+2
+Overall Assessment of Treasury's Capacity
+2
+Recommended Actions
+3
+Detailed Findings
+4
+Key Findings by Characteristic
+4
+Detailed Findings: Coverage and Methods
+5
+Detailed Findings: Effectiveness
+7
+Appendix A: Methodology and Data Sources
+10
+Appendix B: Bureau Self-Assessment of Evidence-Building Activities
+12
+1
+Treasury FY 2022-2026 Capacity Assessment
+Executive Summary
+Background
+The Foundations for Evidence-Based Policymaking Act of 2018 ("Evidence Act") requires agencies to
+assess current agency capacity for planning and implementing evidence-building activities (a "capacity
+assessment"). Done every four years as part of the strategic planning process, the assessment must
+consider the characteristics of coverage, quality, methods, effectiveness, and independence across four
+types of evidence-building activities: statistics, evaluation, research, and analysis.
+Treasury's capacity assessment aims to (1) understand how the Department currently builds evidence
+and (2) assess the Department's capacity for conducting necessary evidence-building activities, where
+capacity includes infrastructure (processes, data, etc.) and staffing (resource levels and skill). For this
+first-ever baseline capacity assessment, we analyzed existing and readily available data on current
+evidence-building activities and capabilities within Treasury bureaus and offices, including internal
+surveys, external surveys, bureau self-assessments as of August 2021, and strategic planning discussions
+during 2022. Treasury plans to use this baseline assessment to prioritize opportunities to increase
+capacity and mature practices across the enterprise. See Appendix A for definitions and methodology.
+Overall Assessment of Treasury's Capacity
+Adapted from OMB guidance, Treasury identified three elements indicative of the maturity of an
+agency's evidence-building capacity: the maturity of an agency's learning culture, the maturity of the
+processes for producing and executing the agency's key evidence-building prioritization tools (the
+Learning Agenda and evaluation plan), and the existence, quality, and adoption of an agency's
+evaluation policy. We used these to develop a preliminary framework for summarizing our findings by
+maturity level, with the lowest maturity being Level 1 (Launch/Initial), then Level 2
+(Repeatable/Defined); and with the highest level of maturity being Level 3 (Managed/Optimized). We
+intend to test and refine this maturity model over time.
+Element
+Preliminary Assessment/Summary of Findings
+Recommended Action
+Learning
+Level 1 (Launch/Initial)
+1. Enable more sophisticated
+Culture
+Varying levels of leadership commitment, lack of
+analysis in future iterations
+universally understood common lexicon, limited ability
+of the capacity assessment
+to conduct enterprise-wide assessments, varying levels
+2. Define and strengthen
+of stakeholder capability and engagement. There are
+evidence-building culture
+definite bright spots (mature operations) across
+Department-wide
+Treasury, but no consistency across the enterprise.
+See Detailed Findings on Coverage.
+Learning
+Level 2 (Repeatable/Defined)
+3. Implement Critical
+Agenda/
+Process created for developing the learning agenda and
+Management Initiatives
+Evaluation
+evaluation plan and a range of evidence building
+identified in the Treasury
+Plan
+activities are used, primarily in analysis. Data and
+Strategic Plan pertaining to
+staffing constraints limit full execution of plans.
+data infrastructure, literacy,
+See Detailed Findings on Methods and Quality.
+and relevant skills gaps
+Evaluation
+Level 1 (Launch/Initial)
+4.
+Develop and implement a
+Policy
+Interim standards published, but policy development in
+Department-wide evidence
+early stages. See Detailed Findings on Effectiveness and
+policy, inclusive of an
+Independence.
+evaluation policy.
+2
+Treasury FY 2022-2026 Capacity Assessment
+Recommended Actions
+Based on the findings of the baseline capacity assessment, Treasury will seek to implement the following
+recommended actions as soon as practicable.
+1. Enable more sophisticated analysis in future iterations of the capacity assessment:
+Improve identification of the evidence-building workforce within Treasury and benchmark
+current skill levels for this workforce
+Leverage the Department's Integrated Talent Management system to identify skills gaps and
+developmental needs pertaining to evidence-building, including for program and project
+managers
+Better leverage budget, financial, and procurement data to gain insight into resources spent on
+evidence-building activities; identify opportunities to improve the data (e.g., refining and
+standardizing definitions of evidence-building related activities) to track funding and execution
+levels
+2.
+Define and strengthen an evidence-building culture Department-wide:
+Establish a common lexicon for data and evidence building
+Create a Treasury evaluation or evidence-building community with designated points of contact
+for each bureau who will share responsibility for planning and executing Treasury's learning
+agenda and implementing Treasury's evidence building policy (when finalized)
+Refine and test a maturity model for evidence-building capacity to determine leading practices
+and growth areas across Treasury
+3. Implement evidence-related Critical Management Initiatives from the Treasury Strategic Plan,
+which can be summarized into five key themes:
+Increase agency capacity for evidence-building disciplines
+Increase level of data literacy for all staff
+Mature data governance and standards
+Enable and improve data monitoring and reporting technologies, aiming for real-time and near
+real-time analysis and use of data in decision-making
+Secure and modernize IT systems, enhancing collaboration with internal and external partners
+Identify and increase access to datasets and databases
+4. Develop and implement a Department-wide evidence policy, inclusive of an evaluation policy.
+Dedicate resources and staff capacity for policy development and implementation
+Rationalize with existing guidelines on performance measurement and reporting, data quality,
+and strategic planning
+3
+Treasury FY 2022-2026 Capacity Assessment
+Detailed Findings
+For this baseline capacity assessment, we analyzed existing and readily available data on current
+evidence-building activities and capabilities within Treasury bureaus and offices, including internal
+surveys, external surveys, bureau self-assessments as of August 2021, and strategic planning discussions
+during 2022. Treasury plans to use this baseline assessment to prioritize opportunities to increase
+capacity and mature practices across the enterprise. See Appendix A for definitions and methodology.
+Key Findings by Characteristic
+Coverage and Methods: The baseline assessment showed that all four types of evidence-building
+activities are being used at least to some extent by Treasury's bureaus and offices (see Detailed
+Findings: Coverage and Methods). Of note, the Department's most frequently employed type of
+evidence-building is analysis (41.5% of bureaus/offices use analysis at least to some extent), and the
+evidence-building activities least used are statistics (13%) and evaluations (19%). However, the
+assessment revealed two points that suggest clarifications and outreach are needed to more precisely
+estimate the current distribution of evidence-building activities being performed in Treasury:
+(1) There is no consistent understanding of the definitions of evidence-building activities, and
+(2) Bureau and offices found it difficult to estimate resources (positions and funding) devoted to
+evidence activities.
+Treasury bureaus with dedicated analysis and/or research staff have mature evidence-building
+methodologies. For example, the Internal Revenue Service (IRS), the Office of Economic Policy, and the
+Office of Tax Policy have mature capabilities in research and statistics, though other parts of Treasury
+have limited or no resources devoted to research, evaluation, or statistics. Use of program evaluations
+to improve impact and implementation of Treasury programs is a growth area. Treasury is not currently
+able to further assess use of appropriate methodologies within each evidence-building type.
+Effectiveness: Managers and members of the performance community who responded to recent
+surveys identified the use of evidence in decision-making as an agency-wide area of opportunity (see
+Appendix A). However, through the strategic planning engagements, stakeholders repeatedly identified
+challenges in hiring for data skills and identified a need to train the current workforce to use data to
+better support the Department's learning and decision-making. Further, Treasury does not currently
+have dedicated resources at the enterprise level for assessing and growing capacity across the
+Department. Also, the lack of an Evidence policy (inclusive of an evaluation policy) limits the
+Department's ability to consistently apply standards throughout a defined evidence-building lifecycle
+(i.e., from evidence collection, analysis, dissemination, integration to decision making). (See Detailed
+Findings: Effectiveness)
+Quality: Through strategic planning engagements, stakeholders repeatedly identified data sharing
+challenges that create barriers for data use and collaboration (inside and outside of the Department)
+and limit the quality of data used for decision-making and in evidence-building activities. Further,
+stakeholders expressed challenges for data collection and meeting the demand for data use in new
+policy areas, such as climate, equity, and in new congressionally mandated programs. Historical internal
+surveys have also indicated room for improvement in perceptions of the quality and availability of data
+for decision-making, although it has improved over time.
+4
+Treasury FY 2022-2026 Capacity Assessment
+Independence: Treasury has internal controls and oversight mechanisms in place to ensure certain types
+of activities, such as performance reporting or statistical activities that are carried out free from bias and
+inappropriate influence. For example, the IRS's Statistics of Income (SOI) division produces official
+statistics in adherence with OMB Statistical Policy Directive #1. Though, without an established
+Evaluation Policy (currently in development), Treasury does not yet have standards in place to more
+broadly assess this characteristic of the Department's capacity to build evidence.
+Detailed Findings: Coverage and Methods
+To understand the methods and coverage of evidence-building activities employed by bureaus, Treasury
+asked bureaus and offices to self-assess their current activities and use of evidence. Operating bureaus¹
+were asked to identify an initial list of ongoing and planned evidence-building activities (Appendix B).
+Operating bureaus were also asked to describe and estimate the labor and non-labor resources devoted
+to each type of evidence-building activity, and the share of total evidence building resources devoted to
+each type of activity (e.g., 30% research, 20% statistics, 40% analysis, 10% evaluation).
+Bureaus most often cited "analysis" as
+Bureaus estimate that the largest
+their most commonly used evidence-
+shares of evidence resources are
+building activity
+devoted to analysis activities
+Analysis
+Analysis
+Research
+Research
+Evaluation
+Evaluation
+Statistics
+Statistics
+0
+2
+4
+6
+0
+20
+40
+60
+Number of bureaus
+Average share
+In reviewing bureau submissions, the Evaluation Officer staff noted that despite having defined each
+type of evidence-building activity in the report instructions, bureaus and offices lack a consistent
+understanding of these definitions. Bureaus assessed higher levels of evaluation and statistical activities
+than expected. All of Treasury's operating bureaus cited performance measurement as one of its
+analysis activities, which is consistent with the Department's expectation based on the maturity of the
+Department's organizational performance framework. Treasury bureaus have varying levels of maturity
+with respect to coordinating and implementing research activities and evaluations, with the IRS having
+the largest dedicated capacity across all four types of activities.
+1 For the purposes of this Capacity Assessment, operating bureaus are as follows: Alcohol and Tobacco Tax and
+Trade Bureau (TTB), Bureau of Engraving and Printing (BEP), Bureau of the Fiscal Service (Fiscal), Financial Crimes
+Enforcement Network (FinCEN), International Revenue Service (IRS), U.S. Mint (Mint), Office of the Comptroller of
+the Currency (OCC), and Departmental Offices (DO). Inspectors General are not included in this assessment.
+5
+Treasury FY 2022-2026 Capacity Assessment
+Table 1 (below) aggregates the bureau and office self-assessments based on how they align to
+Treasury's FY 2022-2026 Strategic Objectives to give a sense of enterprise capacity across Treasury's
+strategic priorities. Through this exercise, Treasury's operating bureaus indicated a limited ability to
+estimate the extent to which resources are devoted to each type of evidence-building activity. There is
+also limited understanding of the targeted level of activity needed, making it difficult to identify specific
+areas that are under-resourced within the Department.
+Table 1: Coverage of Evidence-building Types by Strategic Objective
+ID
+Objective
+Ongoing activities
+S
+E
+R
+A
+1.1
+Tax Administration and Policy
+1.2
+Global Economic Leadership
+1.3
+Economically Resilient Communities
+1.4
+Resilient Housing Market
+2.1
+Cyber Resiliency of Financial Systems and Institutions
+2.2
+Economic Measures to Advance National Security
+2.3
+Modernize Sanctions Regime
+2.4
+Transparency in the Financial System
+3.1
+Financial System Vulnerabilities
+3.2
+Resilient Treasury and Municipal Securities Markets
+3.3
+Financial Innovation
+4.1
+Global Climate Commitment and Leadership
+4.2
+Climate Incentives and Investment
+4.3
+Climate-Related Financial Risks
+4.4
+Sustainable Treasury Operations
+5.1
+Recruit and Retain a Diverse and Inclusive Workforce
+5.2
+Future Work Routines
+5.3
+Better Use of Data
+5.4
+Customer Experience Practices
+Key
+Statistics: Collection, compilation, and processing of data
+for describing or estimating characteristics or insights
+concerning groups
+Dark-shaded circle: all bureaus aligned to the
+strategic objective are conducting that type of
+Evaluation: Collection and analysis of data to assess
+activity
+effectiveness and efficiency of programs, policies, or
+0000
+procedures
+Research: Modeling or other systematic use of data to
+Light-shaded circle: some (but not all) aligned
+bureaus are conducting that type of activity
+explore emerging issues or potential scenarios to
+generate new knowledge
+0000
+Analysis: Routine and frequent use of data that produces
+Empty circle: no current evidence-building activities
+insights for decision making and program management
+of that type have been identified for that objective
+6
+Treasury FY 2022-2026 Capacity Assessment
+Treasury will aim to improve the precision of this analysis in future iterations of the capacity assessment
+and plans to deepen the analysis to better understand capacity to address learning agenda questions
+aligned to the objectives. Achieving this will require continued focus on the Department's current plans
+to mature data governance and increase timely access to and use of quality data and evidence, which
+are articulated in Treasury's strategic objective 5.3: Better Use of Data. Treasury recognizes that it has
+yet to implement certain elements of all three titles of the Evidence Act, including the establishment of
+department data and quality standards, evaluation policy, data sharing, open data, annual reporting,
+and standard researcher application requirements. Furthermore, while Treasury has mature
+performance management and analysis capabilities across the enterprise, Treasury has minimal capacity
+to assist program offices and bureau staff in developing their capacity to use evaluation and research
+approaches in day-to-day operations.
+As lead for Objective 5.3, Treasury's Chief Data Officer (CDO) will work with the Data Governance Board
+to strengthen data governance at the enterprise-level and integrate data standards with the
+Department's evaluation policy. These efforts will enhance the Evaluation Officer's ability to assess the
+rigor and appropriateness of methods used to generate evidence and will increase employee confidence
+in the quality of data. The CDO will also work with the Data Advisory Council (DAC), comprised of bureau
+CDOs and other relevant stakeholders and representatives, to ensure that enterprise data governance
+incorporates the key takeaways of Treasury's Data Maturity Assessment and provides opportunities for
+maturing bureau-level data standards and skills and strengthening data sharing between components.
+Detailed Findings: Effectiveness
+The assessment indicated that bureaus and offices find great utility in their evidence-building activities
+and products. The analysis revealed that:
+(1) All bureaus and offices use their evidence-building activities/products for internal policy
+making and internal strategic management processes decision making.
+(2) 5 of 7 bureaus shared that their research data is used by external government partners.
+(3) 4 of 7 bureaus indicated that in addition to internal decision making and use by external
+government partners, analysis products are used by external non-government partners.
+However, coupled with feedback from the strategic planning engagement, the assessment revealed
+existing challenges that may hinder effective evidence use. To better understand these challenges, the
+Deputy Performance Improvement Officer/Evaluation Officer worked with bureaus and offices, the
+Deputy Assistant Secretary for Human Resources and Chief Human Capital Officer (DASHR-CHCO), Chief
+Data Officer (CDO), and Chief Information Officer (CIO), to identify critical gaps in human capital,
+information technology, and data infrastructure that create barriers to effective use of evidence.
+The critical management initiatives listed below, by strategic goal, identify the gaps in human capital,
+data, and information technology (IT) infrastructure that currently limit the agency's capacity for
+evidence-building. These can be summarized into five themes:
+Increase staff capacity and literacy
+Mature data governance and standards
+Enable and improve data monitoring and reporting technologies, aiming for real-time and near
+real-time analysis and use of data in decision-making
+Secure and modernize IT systems, enhancing collaboration with internal and external partners
+Identify and increase access to datasets and databases
+7
+Treasury FY 2022-2026 Capacity Assessment
+Goal 1: Promote Equitable Economic Growth and Recovery
+Modernize tax policy analytic tools to better inform tax policy decision making
+Review hiring authorities to strengthen the talent pool and improve retention in high-demand skills,
+including IT and analytics
+Enhance employee skill sets through systems and processes training
+Mature Treasury's data acquisition strategy to access and consolidate use of business data from
+commercially provided business sources
+Implement IT capability to proactively review data for compliance and ability to perform comparison
+to publicly available data sets
+Organize and coordinate data and information sharing efforts with agencies and external partners
+Improve access to data to expand policy development and programs designed to increase affordable
+housing (especially in supply constrained markets), while reducing delinquency of homeowners and
+rental participants
+Goal 2: Enhance National Security
+Enable and improve real-time and near real-time data reporting to strengthen Treasury's incident
+coordination and expedient response to threat actors
+Improve the use of data and data technologies to conduct monitoring of the U.S. and international
+financial systems, quickly identify illicit actors, and mitigate their risk to the financial infrastructure
+Improved data sharing and enhance data infrastructure to more effectively identify threat actors
+and detect, disrupt, and deter abuse of the U.S. and international financial systems.
+Goal 3: Protect Financial Stability and Resiliency
+Expand the use of data and modern data technologies to improve monitoring of the U.S. and global
+financial systems, promote timely identification and mitigation of risks
+Fill gaps in access to commercial data and increase data collection
+Promote and expand the use of data and modern analytic technologies (e.g., Artificial
+Intelligence/Machine Learning) for modeling, monitoring, and assessing risk
+Expand Treasury's capabilities for secure collaboration with academic institutions and other non-
+federal entities
+Goal 4: Combat Climate Change
+Identify, assess, and leverage quality climate data to build scorecards that track conversion of fossil
+fuel financing to other sustainable energy options and provide investors with data-based climate
+investment decisions for domestic and international institutions
+Increase access to Treasury data assets and leverage the use of analytics to improve quantification
+and mitigation of climate-related financial risks
+Improve accessibility, quality, and use of data and analytics leveraging shared enterprise data
+management platform services to enable investor- informed, climate-aligned investment decisions
+Establish a plan to identify, assess, improve, and use data to build metrics that track climate related
+financial risks and measure the impacts of those risks on low-income households and disadvantaged
+communities
+Apply United States Digital Service standards/Integrated Digital Experience Act requirements to
+Treasury.gov to promote transparency around climate related financial risks
+8
+Treasury FY 2022-2026 Capacity Assessment
+Improve and use secure enterprise-wide data collection systems and analyses, coupled with
+performance measures, to aid in transparency and data/performance-based decision-making
+Goal 5: Modernize Treasury Operations
+Expand and improve the use of data and data technologies to more regularly assess employee
+perception, and model impacts of policy and organizational changes on equity, inclusion, and
+diversity
+Expand the use of existing data and data collection systems to assess impacts of future work
+routines on employee sentiment, and gauge strategies to enhance collaboration amongst
+employees and between the customers and communities they serve
+Develop an integrated data and analytics workforce plan to strategically attract, train, and retain
+individuals with data and analytical skills
+Mature and enforce adoption of enterprise-wide commodity IT platforms, shared service
+applications, and integration tools
+Implement an enterprise metadata catalogue solution to provide a searchable inventory of
+Treasury's available data
+Mature Treasury's data sharing and acquisition strategy to reduce cost and improve access through
+the consolidated use of data between Treasury components, with other federal agencies, and from
+commercially available sources
+9
+Treasury FY 2022-2026 Capacity Assessment
+Appendix A: Methodology and Data Sources
+Guiding Questions
+The Data Governance Board² participated in this baseline assessment, which was then reviewed by
+performance contacts in Treasury bureaus and offices. Treasury assessed the agency's capacity to build
+evidence across the four evidence-building activity types by attempting to answer the following
+questions for each required characteristic:
+Coverage: What are each bureau and office's ongoing and planned statistics, evaluation, research,
+and analysis activities? What are the associated resource levels for these activities and how is the
+resulting evidence used?
+Quality: Are the data we generate and collect high in quality with respect to utility, objectivity, and
+integrity?
+Methods: What methods are being used for evidence-building activities? Are they rigorous and
+appropriate?
+Effectiveness: Are evidence-building activities meeting their intended outcomes, including serving
+the needs of stakeholders, and being disseminated? Does the agency have processes, procedures,
+and trained staff in place to use the findings to support agency learning, improvement, and decision-
+making?
+Independence: To what extent are evidence-building activities free from bias and inappropriate
+influence?
+Data Sources
+Bureau and Office Self-Assessment: See Appendix B.
+FY 2022-2026 Strategic Plan Stakeholder Engagement: Leveraging the FY 2022-2026 Strategic Plan
+development process during FY 2021, the Department conducted nine strategic planning discussions
+(involving over 200 Treasury leaders) to develop an initial set of draft strategic goals and objectives.
+As leaders and staff continued to refine the strategic plan in later months, stakeholders were asked
+to identify "critical management initiatives (CMIs)", which are management support initiatives
+needed to enable objective and mission success. Specifically, these CMIs are in the areas of human
+capital, data, and information technology (IT). The capacity assessment captured those CMIs directly
+relating to specific evidence-building related strategies and provided analysis to identify the most
+pressing areas that hindered the Department's ability to execute its priorities. Learning Agenda
+questions were also identified during this process and informed discussion of critical management
+initiatives.
+2 The Data Governance Board is chaired by the Chief Data Officer and includes the Evaluation Officer, the Statistical
+Official, the Associate Chief Information Officer for Enterprise Business Solutions, the Deputy Chief Financial
+Officer, and the Deputy Assistant Secretary for Privacy, Transparency, and Records.
+10
+Treasury FY 2022-2026 Capacity Assessment
+Management Surveys: For this baseline assessment, Treasury analyzed certain questions from the
+FY 2017 Government Accountability Office (GAO) Managers' Survey³ to gain insights into Treasury
+managers' perceptions of evidence-building capacity. Treasury also reviewed the FY 2020 GAO
+Managers' Survey, which included additional questions about program evaluations and evidence-
+building activities. However, staff found inconsistencies when attempting to validate this data
+against other sources, including internal surveys and information provided in the self-assessment.
+For example, over 30 percent of managers responded that evaluations were conducted in alignment
+to an agency evaluation plan and an agency evaluation policy, while Treasury and most bureaus did
+not have an established evaluation plan or policy at the time of the survey.
+Furthermore, the lack of comparability between the 2017 and 2020 surveys made it difficult to
+determine whether managers were applying consistent definitions. Additionally, because of the
+number of managers within the IRS, the survey data is skewed toward the IRS experience. Due to
+these concerns and varying interpretations of key terms across Treasury, staff determined this was
+not an appropriate representation of the Department's evidence capacity.
+The Deputy Performance Improvement Officer and Budget Officer also conduct a joint internal
+annual survey of organizational performance and budget officials, which provides some insight into
+trust and confidence in the availability and use of data (see Table 2). In FY 2016, Treasury
+implemented a data quality improvement plan that may account for the high perception of
+confidence across certain stakeholder groups in FY 2016 and 2017. Limitations of this data include a
+small and varying survey population and reliance on subjective information, which makes the results
+hard to interpret. Treasury is currently exploring how to improve this survey instrument to make
+results more actionable.
+Table 2: Treasury Management Survey: Evidence Related Questionnaire Results
+FY16
+FY17
+FY18
+FY19
+FY20
+FY21
+n=7
+n=12
+n=16
+n=35
+n=26
+n=29
+Trend
+Confidence in accuracy of data
+Senior Executives
+86%
+92%
+69%
+65%
+73%
+65%
+Managers/Supervisors
+100%
+92%
+81%
+59%
+81%
+54%
+Program Staff
+86%
+75%
+69%
+54%
+69%
+43%
+Performance Staff
+57%
+75%
+63%
+56%
+76%
+57%
+Use of data in decision making
+Senior executives
+57%
+67%
+56%
+49%
+65%
+55%
+Managers/Supervisors
+57%
+75%
+63%
+40%
+62%
+45%
+Program Staff
+29%
+50%
+44%
+31%
+46%
+38%
+Performance Staff
+57%
+75%
+56%
+43%
+68%
+59%
+3 FY 2017 GAO Managers' Survey Results (Department of the Treasury): https://www.gao.gov/special.pubs/gao-17-
+776sp/resultstreasury.htm
+11
+Treasury FY 2022-2026 Capacity Assessment
+Appendix B: Bureau Self-Assessment of Evidence-Building Activities
+During the development of the FY 2020 Annual Performance Report (also the FY 2022 Annual Performance Plan and FY 2022 President's Budget), Treasury
+compiled a preliminary catalogue of evidence-building activities and operations to assess the coverage of evidence-building across the agency. Activities listed in
+italics are considered projects. Other activities (non-italicized) are ongoing and considered part of core operations. Projects listed as "planned" are tentative and
+may be resource dependent.
+Bureau/
+Evaluation
+Research
+Analysis
+Statistics
+office
+BEP
+Data collection and evaluation
+Currency security and other feature
+Performance measurement
+Characterization of product
+(including on-press)
+research and development
+Currency Quality Assurance (CQA)
+parameters using statistical
+Currency Quality Assurance
+Correction and Preventive Actions
+process and quality control
+(CQA) Program - security
+feature research and
+development
+CDFI
+Use of ARM framework to
+PPC Research with MITRE
+Certification, Compliance and
+InfoUSA or comparable
+track evaluation data, post-
+25 Years and Counting project
+Performance data collection and
+database to replace Business
+award compliance, reporting
+(planned)
+reporting: ACR, NMTC, CDFI, CMF,
+Analyst for ESRI
+risks
+CDFI Minority Impact project (planned)
+BEA
+STATA software concurrent
+Rapid response program
+ARM framework
+licenses for 5-7 staff
+evaluation
+Decennial Census data update
+of all CDFI Fund program
+eligibility requirements
+CIMS Mapping System update
+FinCEN
+Review of Rapid Response
+Advisory support research
+Performance measurement
+Regulatory impact analyses for
+Program (RRP) requests,
+BSA research in support of Treasury
+BSA data analysis
+purposes of the Paperwork
+responses, recovery rates, and
+CFIUS review, FinCEN's role as
+Support law enforcement
+Reduction Act and to
+other data to determine
+Financial Intelligence Unit of United
+Increase Intelligence Capacity
+implement Executive Order
+effectiveness and efficiency of
+States, and in support of the FinCEN
+Enhance Systems and Analytical
+12866 (1993).
+program, and potential trends.
+Exchange public-private partnership
+Capabilities
+Compile data and related
+BSA foreign country fact sheets to
+Expand Threat and Information
+analysis in connection with
+assist with engagement and
+Sharing
+publishing the SAR Activity
+operational activity
+Detect and mitigate money
+Reviews mandated by the
+Open source and commercial
+laundering vulnerabilities
+Anti-Money Laundering Act of
+database research on emerging
+2020, to determine
+geopolitical issues and foreign FIU
+effectiveness, efficiency, and
+12
+Treasury FY 2022-2026 Capacity Assessment
+Bureau/
+Evaluation
+Research
+Analysis
+Statistics
+office
+developments to inform decision
+potential trends regarding the
+making related to Egmont exchange
+RRP to detect potential BEC or
+activity
+fraud trends.
+Compile statistics and create
+reports to support the FinCEN
+Exchange public-private
+partnership and to
+provide feedback to financial
+institutions and regulators
+Fiscal
+Assessing Innovative,
+Customer Research
+Performance measurement
+Analytics Projects
+Emerging Technology
+Environmental Scans/research
+Alternatives Analysis
+Do Not Pay (DNP) Analytics
+Data Quality project
+Future Readiness Assessment
+Mainframe Strategy
+RPA pilot implementation
+Mature Unredeemed Debt (MUD)
+E-Invoicing Modernization
+Establishment of Evidence
+Customer Research
+Payment Integrity Center of
+register, learning agenda, and
+Treasury Retail Investment Manager
+Excellence (PICOE)
+Annual Evaluation Plan
+(TRIM) Customer Journey Research
+Joint Financial Management
+Blockchain for Grant
+Disbursement Services Modernization
+Improvement Program (JFMIP)
+Payments pilot examination
+Initiative (DSMI)
+project
+Emerging Technology
+Financing Modernization project
+Incubator
+Treasury Financial Experience (TFX)
+IRS
+Notice Redesign using
+Taxpayer Experience Strategy Initiative
+Performance measurement
+Statistical Research Program
+Behavioral Insights
+Network Approaches for Emerging and
+Employment Tax noncompliance
+SOI Statistics on Individual,
+Customer Callback Initiative
+Undetected Identify Theft Selections
+study
+tax-exempt organizations, and
+Marginal Revenue/Cost Case
+Small Business/Self Employed
+Power of Attorney fraud analysis
+government bonds
+Selection
+Emerging Issues
+Graphic Database Visualization
+SOI Statistics on Corporation,
+Online Accounts usability
+Tax Gap research initiatives
+studies
+small business, and Farms
+testing
+Measuring Indirect Effects of
+Issue Recommender for
+enforcement activities
+Examination Program
+Exam Planning Scenario Tool
+Enhancement
+Measuring the Impact of
+Proactive Outreach and
+Education
+Mint
+Business cases and After
+Demand and sales forecasting
+Performance measurement
+Numismatic customer base
+Actions Reports
+Numismatic product pricing
+Data warehouse implementation
+research
+13
+Treasury FY 2022-2026 Capacity Assessment
+Bureau/
+Evaluation
+Research
+Analysis
+Statistics
+office
+Net income maximization
+Payments market trend analysis
+(planned)
+Customer satisfaction
+project for numismatic
+Long term circulating coin demand
+Executive level dashboards
+measurement
+portfolio
+trend modelling
+(planned)
+Improved numismatic modelling
+OCC
+OCC Strategic Operating Plan
+Economic and financial research
+Performance measurement
+Enterprise Workforce Planning
+functions
+Financial sector and policy analysis
+Issuance of interpretive letters that
+Strategic analysis
+provide legal certainty for
+cryptocurrency activities
+Policy research workgroups
+Enterprise Data Governance
+Technology Modernization
+Single Supervisory Platform Project
+TTB
+Regulatory Requirements
+Taxpayer Compliance
+Performance Measurement
+Commodity Statistical Reports
+Analysis
+Alcohol Market Trends
+Management Dashboards
+Data Quality Assessment
+Customer/User Experience
+Controlled Groups project
+Risk Assessment
+(CX/UX) Research and Analysis
+Taxpayer Notice Redesign (planned)
+Industry Guidance & Outreach
+Customer Surveys
+Alcohol Market Trends project
+Workforce Analysis
+(planned)
+DO
+Coordination of
+Coordination with MITRE (FFRDC)
+Analysis of performance data in
+DASHR-CHCO/OCRD/OMWI
+Mgmt.
+usaspending.gov/Data Act
+Literature reviews for learning agenda
+quarterly data-driven reviews and
+Workforce Demographic
+reporting
+questions
+annual assessment of Treasury
+Statistics
+Coordination of Evidence Act
+Coordination of MITRE Great Power
+performance measures
+Title I
+Competition - Dollar Dominance Study
+Risk assessment
+Workforce analysis and
+FEVS data analysis
+human capital evaluations
+Financial analysis and budget
+Coordination of Equity
+formulation
+Assessment Objective 1
+Analysis of administrative data
+Equity uptake assessments -
+(e.g., procurement, operations, civil
+ARP programs
+rights compliance)
+Impact evaluation - ECIP and
+Development and maintenance of
+CDFI
+analytical dashboards and data
+DASHR-CHCO hiring
+inventory
+assessment evaluation
+OCRD Audits of the Bureaus' EEO
+14
+Treasury FY 2022-2026 Capacity Assessment
+Bureau/
+Evaluation
+Research
+Analysis
+Statistics
+office
+Consultation on
+Programs
+MITRE/Treasury research
+OCRD Annual Management
+partnerships
+Directive 715 Reporting
+OCRD Quarterly No FEAR Reports
+Civil rights compliance analysis
+Civil rights pre- and post-award
+compliance (planned)
+DO
+Monitoring and Evaluation
+Fiscal projections and debt
+Policy analysis
+Economic modeling to support
+Policy
+(Technical Assistance)
+management
+Performance measurement
+policy analysis
+Offices
+Recovery program evaluations
+Original research on specific financial
+Analysis of CFIUS transactional data
+Advanced data analysis
+(ECIP, CDFI, ARP)
+and economic topics
+Analysis of tax revenue
+Analysis of RESTORE grant
+Emerging technology and risk
+Equity assessment activities
+processing efficiency
+assessments
+Cash flow and debt analysis
+Research to support policy analysis
+Bank Systemic Risk Monitor
+Situational awareness of the financial
+Financial Stress Index
+sector project
+Interagency Data Inventory
+Short-term Funding Monitor
+US Money Market Fund Monitor
+15

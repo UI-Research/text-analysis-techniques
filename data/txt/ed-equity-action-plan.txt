@@ -1,0 +1,774 @@
+OF
+UNITED STATES DEPARTMENT OF EDUCATION
+OFFICE OF THE SECRETARY
+STATES OF
+2022 Agency Equity Plan related to Executive Order 13985
+Executive Summary
+As we enter a new era of possibility for our nation, education must be at the forefront of our
+recovery, rebuilding, and resiliency efforts. As educator Horace Mann stated, education has the
+capacity to be the "great equalizer." From pre-K through postsecondary and adult learners,
+education has the power to bring the American Dream within reach of every individual, lift
+communities, draw people together, strengthen our democracy, drive our economy, and meet our
+nation's vast potential. To meet this potential, our nation's education system must reckon with
+and address the long-standing disparities that students from underserved communities face in
+achieving equal education opportunity.
+The U.S. Department of Education (Department) has an opportunity and a responsibility to
+support states, districts, schools, institutions of higher education, educators, families and,
+ultimately, students in delivering on America's promise of education. Its stated mission is to
+promote student achievement and preparation for global competitiveness by fostering
+educational excellence and ensuring equal access. To fulfill this mission, the agency must embed
+equity throughout its operations and mission to meet the needs of every learner. Under the
+Secretary's leadership, the Department has established strategic priorities based on feedback
+obtained directly from those whom we serve: children and students of all ages, educators in all
+roles, parents and families, and their communities.
+As we support educators to do their best work in elementary and secondary classrooms, in
+addition to supporting states and districts, we will provide the resources and tools to help them
+meet students' holistic needs, ranging from their academic growth to their social and emotional
+development, and their mental health. Using the science of learning and development as a
+foundation, we will highlight the connections among robust academic achievement, innovative
+methods of instruction, and the welcoming, safe, supportive environments for learning that must
+exist for students to thrive.
+To support education beyond high school, we will work to increase access to colleges and
+universities, improve completion rates, expand digital literacy, further close the digital divide,
+create on-ramps from postsecondary education to high-quality jobs and careers, and ensure that
+our postsecondary education efforts create pathways to emerging industries and sectors at every
+level of education and training. We seek to build a new vision of college excellence to put
+student success first and challenge institutions to address low rates of college completion and
+large gaps in outcomes for students of color. In doing all this work, we will strengthen the
+continuum of education to meet the needs of the 21s st century and our globally competitive
+economy.
+1
+Consistent with the priorities of the Biden-Harris Administration, the Department has and is
+focused on strengthening the agency's processes, policies, strategies, and culture to ensure equity
+is the foundation upon which all decisions and protocols rest, and to strengthen the agency's
+work and build on its impact. We further recognize that in order to maximize opportunities
+to promote and implement equity throughout the work of the agency and do the work at the level
+in which we are most swiftly and efficiently garnering change, we require resources-including
+increased workforce capacity. In this way, we can guarantee that the transformative changes last
+long beyond the life of Executive Order 13985 and uphold our mission of ensuring equal access
+in educational opportunities and excellence for all students.
+Summary of Early Accomplishments
+Some of the challenges confronting our educational system have been longstanding, but the
+Department has successfully ramped up efforts to ensure that students, especially those from
+underrepresented backgrounds, as well as families, educators, and borrowers have access to the
+resources and support they need to be successful. On January 20, 2021, fewer than half of K-12
+students were learning in person. Similarly, many postsecondary institutions either delayed the
+start of their spring semesters or began the terms with virtual instruction. Just a year later, nearly
+all students are back in school and learning in person with caring teachers, faculty, staff, and
+administrators. Across the country, K-12 and postsecondary institutions are establishing new
+programs and supports to address the impact of the pandemic on students' learning and mental
+health.
+To achieve this goal of helping America's education system cope with the pandemic, the
+Department distributed unprecedented resources to states, districts, K-12 schools, and
+postsecondary institutions, including funding, guidance, and technical assistance to help
+educators meet the needs of all students, especially those disproportionately impacted by the
+pandemic. The Elementary and Secondary School Emergency Relief fund of the American
+Rescue Plan Act of 2021 (ARP ESSER) invested $122 billion to help K-12 schools safely
+reopen, stay open, and address the academic, social, and emotional needs of all students.
+With these resources, schools across the country, from Vermont to Hawaii, are hosting
+vaccination clinics. Many districts, like DeKalb County, Georgia, have improved ventilation in
+their schools. Washington Local Schools, in Ohio, hosted its first summer camp, for students in
+grades K-3, which included a focus on academics. Arkansas created the Arkansas Tutoring
+Corps. New York City is hiring hundreds of school social workers. And Gaston County Schools,
+in North Carolina, used ARP ESSER funds to double nursing staff and secure a nurse for each of
+their 54 school locations so nurses no longer have to split their time between two buildings.
+The Department also distributed $40 billion through the ARP to more than 5,000 colleges and
+universities to help students access a high-quality education and the academic, emotional, and
+financial supports needed to thrive and safely return to on-campus, in-person instruction and
+activities. The ARP is one of the largest single investments ever made in American higher
+education-for both students and institutions.
+2
+Approximately half of this funding went directly to students-those with the greatest financial
+need-in the form of emergency financial aid to assist with educational expenses as well as costs
+associated with basic needs (e.g., housing, food, transportation) impacted by the coronavirus.
+The Department released more than $10 billion to community colleges, $2.7 billion to
+Historically Black Colleges and Universities (HBCUs), $192 million to Tribal Colleges and
+Universities (TCUs), and more than $13 billion to Minority Serving Institutions (MSIs), such as
+Hispanic Serving institutions (HSIs) and Asian American and Native American Pacific Islander-
+serving institutions (AANAPISIs). This support is in addition to the Department's investment of
+nearly $1 billion in grant funds to the nation's most under-resourced institutions and discharging
+approximately $1.6 billion of infrastructure debt provided to HBCUs that participate in the
+HBCU Capital Financing Program.
+Further, the Department invested more than $3 billion in ARP funds to support children with
+disabilities who were disproportionately impacted by the pandemic and its disruptions to in-
+person learning. These resources are specifically aimed at helping more than 7.9 million infants,
+toddlers, and students served under the Individuals with Disabilities Education Act recover from
+the pandemic and succeed in the classroom. Recipients of the funds used the resources for hiring
+additional special education personnel, upgrading technology in schools, procuring professional
+development for special educators and new educational materials for classrooms, supporting
+transportation for students with disabilities, and funding before and after-school programs.
+In this moment of national crisis, the Department has redoubled its efforts to support student loan
+borrowers, many of whom struggled with unemployment, reduced work hours, and other
+financial stressors brought on by the pandemic. The Department's initial efforts to provide
+targeted loan relief has already led to the approval of $15 billion in student loan cancellation for
+more than 670,000 borrowers, encompassing $1.5 billion to borrowers who have been taken
+advantage of by their institutions, $7.8 billion for over 400,000 borrowers who have a total and
+permanent disability, and $1.26 billion to over 100,000 borrowers who attended the now-defunct
+ITT Technical Institute. These efforts have particularly helped low-income borrowers and Black
+Americans, who rely more heavily on student loans due to a host of financial inequities, such as
+under-employment, pay disparities, and the racial wealth gap.
+In October 2021, the Department also revamped the Public Service Loan Forgiveness (PSLF)
+program, which allows borrowers to study for and work in jobs that may be lower-paying
+without being overly burdened by student loan debt, announcing changes to the program to allow
+borrowers to receive credit for past periods of repayment on loans that may not otherwise qualify
+for PSLF. Prior to these changes, and since 2017, which was the first time a borrower was
+eligible for forgiveness, 16,000 borrowers have received forgiveness. Since the program
+improvements were announced-betweer October 2021 and January 2022-more than 70,000
+additional borrowers have been helped. This has resulted in nearly $5 billion in relief, which has
+had an effect on families' pocketbooks and long-term financial outlook. The Department also
+communicated with hundreds of thousands of public service workers to let them know the
+minimum number of payments they would gain credit for towards loan forgiveness under these
+temporary changes.
+3
+For these and other significant initiatives related to the pandemic, the Department also re-focused
+on building a robust stakeholder engagement process related to school and campus
+reopening efforts and equity, and has prioritized those most impacted-students,
+families, and educators. The agency regularly engages with a wide variety of stakeholders to
+ensure the voices of underserved communities are part of our planning processes. The
+Department has conducted many listening sessions with stakeholders to listen to top line
+priorities and gain a better understanding of the primary needs for students, educators, families,
+schools, institutions, and campus communities during the COVID-19 pandemic. These sessions
+included students, educators, families, schools, institutions of higher education, unions, civil
+rights organizations, and policy and community advocates to capture the diverse perspectives on
+student, staff, school, and campus needs. Additionally, the Department took steps to ensure that
+sessions were expanded to be inclusive of groups that have traditionally not had access to agency
+leadership.
+These efforts also encompassed substantial outreach to students, families, educators, and other
+stakeholders on a wide array of civil rights issues to lift up the importance of nondiscriminatory
+access to educational opportunities as a vital part of the Department's equity agenda. Through
+convenings, fact sheets and Q&A resources, and a national public hearing, the Department's
+Office for Civil Rights (OCR) undertook an extensive campaign to raise awareness of the civil
+rights laws it enforces and the responsibilities of schools and postsecondary institutions to
+provide educational environments free from discrimination. Among its public releases to support
+equity in education were a report on Education in a Pandemic: The Disparate Impacts of
+COVID-19 on America's Students; a Q&A on Civil Rights and School Reopening in the
+COVID-19 Environment; resources on confronting discrimination based on national origin and
+immigration status, confronting COVID-19-related harassment targeted at Asian American and
+Pacific Islander students, and confronting harassment against LGBTQI+ students, and supporting
+intersex students; a national, virtual convening on the nondiscriminatory use of school discipline;
+and resources to support students at risk for self-harm or suicide and to support students with
+long COVID. OCR continued to respond to thousands of complaints under civil rights laws
+prohibiting discrimination based on race, color, national origin, sex, disability, and age; OCR
+launched a comprehensive review of its actions to Title IX, which prohibits sex discrimination in
+education programs and activities that receive federal funding. As part of its review, OCR
+conducted the Department's first-ever virtual public hearing on Title IX, bringing together an
+extraordinary range of voices and views. In addition, OCR issued a Q&A resource explaining
+how OCR interprets schools' current obligations under the Title IX regulations. Finally, OCR
+announced that it anticipates publishing a Notice of Proposed Rulemaking to amend the
+Department's Title IX regulations in April 2022; and confirmed its interpretation that Title IX
+prohibits discrimination based on sexual orientation and gender identity.
+4
+Equity Action Plan
+ACTION: College Access and Completion
+Postsecondary attainment continues to be an inequitable opportunity for traditionally
+underserved populations as accessibility, affordability, equitable funding, and verification remain
+barriers to a postsecondary degree or certificate. The agency is helping under-resourced colleges
+and universities proactively use data and evidence and expand proven strategies to strengthen
+their commitments to diversity and accessibility by increasing graduation rates, improving career
+outcomes, and eliminating equity gaps. Through this work, the Administration aims to ensure
+education beyond high school is:
+Accessible. For too many students, college is out of reach. While more than two-thirds of
+white adults have education beyond a high school diploma, only 43 percent of Hispanic or
+Latino adults and 56 percent of Black adults do. Missing out on the ability to attend college,
+because of less academic preparation or even financial constraints, means losing out on the
+economic benefits of a postsecondary degree or certificate.
+Affordable. The cost of postsecondary education is a key reason that students do not enroll or
+leave college before completing. Though federal financial aid helps make college accessible,
+the long-term financial burden has increased for students and families-the purchasing
+power of the Pell Grant has diminished over time, and for some students applying for this
+support can be challenging. Loans are an important tool students use to access postsecondary
+education, but many borrowers struggle to repay. Before the federal student loan pause, more
+than a million borrowers defaulted on their student loans each year, most of whom are
+borrowers of color, low-income, or never finished college.
+Equitably Funded. Community colleges, state regional universities, and HBCUs, TCUs, and
+MSIs including Predominantly Black Institutions (PBIs), HSIs, AANAPISIs, Alaska Native
+and Native Hawaiian-Serving Institutions (ANNHs), and Native American-Serving Nontribal
+Institutions (NASNTIs)-son of the nation's most inclusive colleges-disproportionately
+serve low-income students and students of color, but typically receive less education revenue
+per student than four-year flagship institutions. For too long, we have expected these
+institutions to carry the disproportionate responsibility to educate our students of color and
+low-income students with fewer resources to do it without providing the full support needed
+to do SO.
+Valuable. Only 60 percent of students earn a bachelor's degree within six years (including 48
+percent of Black students and 52 percent of Latino students) and employment outcomes vary
+widely. At two-year schools, only about a third of students complete within 1.5 times the
+length of the program. Some institutions and programs-including several offered by for-
+profit institutions-offer little value to their graduates and disproportionately, those
+institutions market their efforts to, and enroll, students of color and low-income students.
+Affordable-A critical component of our work is our strategy to address the disproportionate
+impact of default on vulnerable populations of student loan borrowers, and the disproportionate
+burden of student debt on borrowers of color (including borrowing levels, borrowing frequency,
+5
+and repayment over time including amount of principal paid). To create a more equitable
+repayment system-(1) we have already completed a negotiated rulemaking to create a more
+accessible and equitable repayment plan that considers the disproportionate impact of interest on
+borrowers of color; (2) halted collections for defaulted borrowers, including borrowers with
+older Federal Family Education Loan Program (FFELP) loans, (3) continued the payment pause
+during the pandemic; (4) provided targeted relief to eligible borrowers; and (5) improved
+coordination with state officials overseeing student loan companies to ensure protections for
+vulnerable borrowers.
+Accessible-As one thread of its robust college access strategy, the Department is committed to
+addressing the barriers low-income students face in applying for, and receiving, federal student
+aid to enroll in postsecondary education. To address these barriers, the Department is committed
+to simplifying the process to receive federal student aid by improving the Free Application for
+Federal Student Aid (FAFSA), reducing the verification burden on students receiving financial
+aid, and working with Congress to increase Pell Grants.
+FAFSA Simplification and Verification-Students must fill out the FAFSA every year to
+receive aid. Students cannot get federal financial aid if they do not complete the FAFSA and any
+required verification. If we want more students who are low-income, especially students of color,
+to enroll in postsecondary education, it is crucial to eliminate barriers to obtaining necessary
+financial resources like those offered through the FAFSA. This is particularly important as
+college enrollment keeps declining. Making simplifying improvements to the FAFSA will result
+in a shorter form that is easier to complete. A simpler, easier-to-understand form will reduce the
+odds that a student will fail to complete it due to complexity or intimidation.
+There are many barriers currently associated with filling out the FAFSA. Many students can use
+a tool with the Internal Revenue Service (IRS) to transfer their financial information when
+completing the FASFA, but this cannot occur automatically and is not available to all applicants
+(whether it is available at all depends on their tax filing situation). Students who cannot use the
+data transfer have to manually enter a lot of financial data that requires accessing tax forms or
+income data that they may not have readily available. The aid formulas used with the FAFSA
+data are complicated, making it difficult for students to predict how much financial aid they
+might receive. Even once a student completes a FAFSA, those whose incomes are low enough to
+receive a Pell Grant are more likely to be selected for a secondary review process known as
+verification. When that occurs, the student must provide the school with additional
+documentation of their financial information or family size. Students who do not complete
+verification when required cannot receive aid. Research shows that potentially hundreds of
+thousands of students do not receive federal financial aid each year because of the barriers in the
+financial aid process.
+These barriers fall on students who are eligible for means-tested federal financial aid like Pell
+Grants, meaning they disproportionately affect students from low-income backgrounds who need
+financial assistance to pay for college. These students are also more likely to be the first in their
+families to attend college, and/or be Black, Latino, or Native American. The FAFSA can be
+particularly challenging for students whose incomes are below the tax filing threshold to
+6
+demonstrate their income. Past surveys by the National Center for Education Statistics have
+found that 10 percent of students did not fill out a FAFSA because they found the forms too
+complicated and that a quarter of Black students and one-third of Hispanic or Latino students
+who did not file a FAFSA did not do so because they didn't have the information needed to
+finish it. 1 Of those who do submit a FAFSA, roughly 3 million of them are selected for
+verification each year. The Department estimates that each year approximately 200,000 students
+experience verification "melt." This means that they fill out a FAFSA, are selected for
+verification, and never complete the process and thus do not receive aid. A 2021 Washington
+Post analysis found that students who lived in majority-Black zip codes were nearly two times
+more likely to be selected for verification than those who lived in majority-white zip codes. 2 For
+Hispanic or Latino students, the rate was 1.4 times that of white students.
+The Department has already taken some actions to address the barriers and equity problems
+associated with verification. In summer 2021, the Department announced a temporary change to
+lower the verification rate to focus on identity theft and fraud. This significantly reduced the
+likelihood that a student would be selected for verification, particularly of income and/or family
+size, which are harder to complete. For future award years, the Department will review and
+improve its verification model, including the criteria it uses to select applicants for verification
+and the right share of applicants to be selected. In determining what the long-term improvements
+to verification will be, the Department will properly balance the need to protect the federal fiscal
+interest with ensuring that eligible students can easily access the federal aid to which they are
+entitled.
+To address the complications of the FAFSA, Congress passed a bill in December 2020, the
+FAFSA Simplification Act, that changes the FAFSA and its application process. This law
+requires important changes to the student aid formula to increase affordability. The law also
+simplifies the FAFSA by eliminating unnecessary questions and making it easier for certain
+groups to access student aid, including incarcerated students and homeless and foster youth. The
+FAFSA Simplification Act complements another law passed in 2019, the Fostering
+Undergraduate Talent by Unlocking Resources for Education (FUTURE) Act, that allows the
+Department to more directly access necessary data from the IRS and automatically receive those
+data for multiple years. This will make it easier for applicants to renew their FAFSAs.
+The FAFSA simplification process will be directly visible to the public as a new and updated
+version of the form launches each October 1 for millions of students and families to use. While
+the full suite of changes brought about by the FAFSA Simplification Act and FUTURE Act will
+be implemented in the 2024-25 award year, the office of Federal Student Aid (FSA) has already
+implemented some provisions and will implement more in the 2023-24 award year (which
+begins in October 2022), including collecting race, ethnicity, and gender data on FAFSA
+applicants for the first time and eliminating questions about drug convictions. With the new
+1
+https://nces.ed.gov/pubs2018/2018061.pdf
+2 ttps://www.washingtonpost.com/education/2021/02/07/fafsa-verification-black-latino-college-aid/
+7
+FAFSA questions on race and ethnicity and gender identity, the Department will be able to gain
+insight about certain sub-groups.
+The Department has included specific goals related to the FAFSA application in the strategic
+plan for the office of Federal Student Aid, including increasing the share of high school seniors
+that submit a FAFSA and implementing various components of the law that allow for FAFSA
+simplification. To track progress on these issues, the Department produces robust statistics on the
+rate at which students file the FAFSA, including tracking results by the high school they
+attended. It also collects detailed statistics on FAFSA renewal, time to complete the form, and
+other data points related to using the form. The additional questions on race/ethnicity and gender
+will allow the Department to tap into new insights about the college-going, aid application, loan
+repayment, and other outcomes across student subgroups and develop policy solutions to support
+a more equitable higher education system.
+Pell Grants-Pell Grants have been the foundation of low- and moderate-income students'
+financial aid for decades. However, the value has diminished as college prices continue to rise.
+The President has committed to doubling the maximum Pell Grant. The path to doubling Pell
+starts with the President's fiscal year 2022 Budget, which provides funding for the largest one-
+time increase ever. In addition to progress on doubling the maximum award, the Department will
+implement an important legislative change that will restore access to Pell Grants for students
+who are currently incarcerated. Postsecondary programs in prison have been shown to
+significantly improve the long-term recidivism and employment outcomes of formerly
+incarcerated students, a population that is disproportionately made up of individuals of color and
+low-income adults. The Department is in the process of developing regulations to implement this
+authority and will be able to award Pell Grants to eligible incarcerated students beginning on
+July 1, 2023.
+Completion and Equitable Funding-To ensure equity, the Department must address
+longstanding disparities in college access and outcomes through a comprehensive strategy.
+Promoting student success and achieving equity requires that we identify and address the
+underlying, systemic barriers-those policies and practices that have been the drivers of
+inequitable outcomes. Students of color, low-income students, and other underrepresented
+students are more likely to attend institutions that are diverse and accessible, but lack the funding
+and resources needed to ensure students' success.
+The barriers to student success at under-resourced institutions-inadequate aid to persist and too
+little academic and other supports-disproportionately affect underrepresented student groups.
+Students of color are far more likely to leave school without earning a degree or credential, often
+holding student debt. For instance, while 66 percent of first-time white students and 75 percent
+of first-time Asian students who begin at a four-year institution complete college within six
+years; just 57 percent of Hispanic or Latino students and 42 percent of Black students attending
+four-year schools complete. For students attending other institutions, completion rates are lower
+across the board; 36 percent of white students and 40 percent of Asian students complete within
+one-and-a-half-times the expected length, compared with 32 percent of Hispanic or Latino
+students and 29 percent of Black students.
+8
+There are, however, very promising examples of success in the postsecondary education space.
+Some states, systems, and colleges have made enormous strides in addressing gaps within their
+institutions. For instance, the City University of New York's ASAP initiative provides
+comprehensive support and has doubled graduation rates; and Georgia State has brought an
+entrepreneurial approach to analyzing data and establishing interventions, improving completion
+rates by 23 percentage points while closing sizable gaps in completion for Black, Hispanic,
+Latino, and low-income students. Colleges around the country are taking an entrepreneurial
+approach to identifying and tackling disparities in students' outcomes. Still, in too many
+institutions, the status quo persists.
+The Department intends to undertake a comprehensive approach to address these inequities and
+effect change, including by committing to:
+Invest in HBCUs, TCUs, MSIs, community colleges, and other under-resourced
+public institutions: Approximately three in four undergraduate students are enrolled in
+public colleges, and many of these institutions, like HBCUs, TCUs, and HSIs, educate
+significant numbers of students of color. Yet many of these inclusive institutions receive
+far fewer resources than better resourced institutions. By refocusing our efforts on these
+institutions, we will be able to build capacity at these schools to support college
+completion efforts. In addition to supporting funding for HBCUs, TCUs, MSIs, rural
+institutions, and under-resourced institutions, we will work to elevate the contributions of
+these institutions in reaching students of color. That work will include building
+communities of practice to support college completion efforts; taking needed steps to
+implement the HBCU Partners Act, which will strengthen federal support for HBCUs;
+and working with other federal agencies to expand access for these institutions to federal
+funding, including research dollars, to help strengthen their capacity. We will also
+promote efforts within states to rethink their allocations of resources to reverse the trend
+toward persistent underfunding of the institutions serving most of the low-income
+students and students of color in the state, both through the budget proposals and through
+outreach and technical assistance to those states.
+Support institutions, systems, and states to raise completion rates for underserved
+students. As already noted, college completion rates are too low. Students with
+disabilities face particular challenges in persistence and completion. And even when
+students graduate, there are significant disparities in the amount of time it takes different
+groups of students to finish their programs. In addition to continuing to engage with
+states, systems, and institutions to better understand the challenges they face and
+opportunities to help address those difficulties, we will work with them to address these
+persistent challenges, addressing the completion problems on the ground and providing
+the support for institutions to invest in their students' success. The Department will seek
+opportunities to prioritize college completion in existing Department programs (such as
+the institutional services and student services funds that we administer through the Office
+of Postsecondary Education) to support state and institutional reform efforts, such as
+evidence-based college completion interventions and investments in the infrastructure
+and use of student data to support a reform strategy at an institution. And we will
+9
+consider opportunities to bolster career pathways efforts that have evidence and scale,
+both by using our platform to connect with states and institutions and through technical
+assistance efforts. We will also continue to propose funding to support state and
+institutional college completion efforts driven by data and evidence.
+Build a new vision of college excellence that makes inclusivity prestigious: For too
+many institutions, selectivity and exclusivity are goals that help colleges climb the
+rankings and attract wealthier students. Institutions have too little incentive to
+meaningfully address poor college graduation rates and too much interest in limiting
+access to establish an air of exclusivity. Moreover, too often, many states have
+historically failed to adequately fund their open-access, minority serving, and under-
+resourced institutions, diverting disproportionate resources to exclusive flagship
+campuses. The Department will use its considerable platform to establish a new vision of
+college excellence that puts student success first. The Department will work to analyze
+data to identify the colleges that are raising their graduation rates and closing graduation
+gaps, lifting up those institutions at every opportunity. The Secretary will emphasize this
+vision through strategic travel and stakeholder communication, as will other Department
+officials, bringing the message to colleges on the ground that improvements are needed
+now. We will also encourage states to provide for more equitable funding structures, to
+ensure that under-resourced colleges have the funds they need to provide for a high-
+quality educational experience and promote positive student outcomes.
+Value-Education beyond high school must not just be accessible to students; it must also
+provide a reasonable payoff for those students. The Department is committed to advancing career
+opportunity through higher education, helping students to find higher-value educational
+opportunities to support their long-term goals.
+Not all postsecondary programs or institutions pay off, or pay off for all students. Extensive
+research has identified lower labor market earnings, higher levels of borrowing, and lower
+student loan repayment rates in some career training programs. About 19 percent of
+undergraduate certificate programs have median earnings among working graduates that are
+below 150 percent of the poverty line. Students who attend for-profit colleges, in particular,
+often have lower employment rates and earnings gains than students in programs at other
+nonprofit and public colleges. Students of color, particularly Black students, attend for-profit
+colleges at higher rates.
+The Department is committed to taking action where institutions are failing students and
+taxpayers. Many of the schools that have been most predatory over the history of the federal
+student aid programs have-explicitly and implicitly-sought to enroll students of color. These
+schools have taken advantage of students' access to federal student aid, often leaving them
+without valuable skills or credentials and with unaffordable debt that forms a barrier to additional
+and meaningful postsecondary education and training. We have recently announced the
+reinstatement of an Enforcement Office at FSA. This office will use risk-based assessments to
+focus investigation and enforcement activities on the schools that pose the greatest risk to
+borrowers and taxpayers. Risk considerations include rates of unaffordable debt and student loan
+10
+default and other indicators that are commonly associated with schools that have
+disproportionately targeted and enrolled students of color. Our renewed focus on sophisticated
+and high-impact enforcement will mitigate this driver of racial inequality.
+Additionally, the agency is threading many of these actions through its Agency Strategic Plan
+and Agency Priority Goals, a document that details the Department's planned strategies and
+activities to achieve the strategic goals and strategic objectives in the FY 2022 - FY 2026
+Strategic Plan as well as the performance indicators that will be used to assess progress on the
+strategic objectives, embedding these efforts throughout internal and external policy
+development and implementation. We will also publicize this effort through a communications
+strategy that includes speeches and appearances, as well as public-facing messaging through
+social media, in the coming months to establish a clear vision and goal for the initiative; as well
+as to promote partnership and external accountability.
+ACTION: Equitable Impact of ARP Funding for K-12 Students
+The Department is committed to the ARP's intended purpose of helping schools and
+communities recover from the pandemic. The Department will work to ensure that State
+educational agencies (SEAs) and local educational agencies (LEAs) use ARP ESSER funding to
+meet students' social, emotional, mental health, academic, and other needs, and close
+opportunity gaps that have been made worse during this period, so that all children and youth-
+and especially those who have been underserved or disproportionately impacted by the
+pandemic-receive the educational opportunities they need to thrive. Importantly, the law
+includes required set-asides to address the impact of learning loss at the state (SEA) and school
+district (LEA) levels that are integral to our strategy for equity-driven investment and student
+support. Specifically, the statute requires that SEAs and LEAs address the needs of certain
+student groups that are disproportionately impacted by the pandemic, including but not limited to
+students from low-income backgrounds, students with disabilities, multilingual learners, students
+experiencing homelessness, and migratory students, through evidence-based interventions:
+At the SEA level, the use of at least 5 percent of funds to address learning loss, 1 percent
+for summer enrichment programs, and 1 percent for comprehensive afterschool
+programs; and
+At the LEA level, the use of at least 20 percent of funds to address learning loss, and
+ensure that the interventions implemented respond to students' social, emotional, mental
+health, and academic needs.
+SEAs and LEAs have considerable discretion in deciding how to use these resources to support
+students disproportionately impacted by the pandemic, and the oversight of ARP ESSER sets a
+high bar for meeting this mission. As such, the Department is committed to supporting states and
+districts in ways that advance inclusive planning for how they will use funds, select high-quality
+interventions, and provide transparency and accountability in the use of these historic resources.
+The Department's actions to support compliance with these requirements include:
+11
+Requirement that all SEAs and LEAs complete public plans for the use of their
+ARP ESSER funds. The Department requires all SEAs and LEAs to describe their
+funding strategy in ARP ESSER approved plans, including information about the
+required set-asides. All 52 SEA plans have been submitted to the Department and
+approved; all LEAs are required to submit plans to their SEA and make them available to
+the public. Many SEAs and LEAs are in the planning or early implementation phase for
+the use of ARP ESSER set-asides and the Department plans to continue to monitor
+implementation of SEA and LEA funding strategies.
+Requirement for diverse and inclusive planning processes. The Department has made
+clear that the best investment decisions will be made when those most impacted are at the
+table. Through an interim final rule, the Department therefore requires engagement in
+plan creation of the following groups at the SEA level (and similar requirements at the
+LEA level). Specific stakeholder groups must include:
+Students
+Families
+Tribal Nations (if applicable)
+Civil rights organizations (including disability rights organizations)
+School and district administrators (including special education administrators)
+Superintendents
+Charter school leaders (if applicable)
+Teachers, principals, school leaders, other educators, school staff, and their unions
+Stakeholders representing the interests of children with disabilities, English
+learners, children experiencing homelessness, children and youth in foster care,
+migratory students, children who are incarcerated, and other underserved students.
+Transparency on the use of funds at the SEA and LEA levels. The Department has
+established revised annual program reporting requirements to gauge progress against
+established goals and targets, as well as hold SEAs and LEAs accountable for spending
+funds as the law requires. Importantly, through this data collection, the Department also
+seeks to understand the impact on students and schools disproportionately impacted by
+the pandemic. These include the following elements (many of which will be required
+starting in prospective reporting periods):
+How each SEA and LEA identified students most impacted by the pandemic;
+How each SEA and LEA allocated funds to ensure support for students most
+impacted by the pandemic;
+Specific uses of funds for evidence-based interventions at the SEA and LEA
+levels;
+How the LEA's choice of evidence-based interventions meets the needs of each
+underserved student group;
+Strategies each LEA used to re-engage students with poor attendance or
+participation;
+Number of students participating in evidence-based interventions (disaggregated)
+and whether services are universal or targeted; and
+12
+Provision of educators and other school staff (including school counselors, school
+nurses, and mental health providers).
+The reporting requirements for ARP ESSER will collect a greater level of detail on how
+SEAs and LEAs are using the funds than will be available for CARES or CRRSA. The
+Department provides ongoing technical assistance to grantees on meeting the reporting
+requirements.
+Maintain fiscal equity. Maintenance of equity (MoEquity) is a new set of fiscal
+requirements in ARP ESSER designed to ensure that SEAs and LEAs do not
+disproportionately reduce per-pupil funding to districts and schools. The Department
+continues to monitor and provide technical assistance to grantees on MoEquity through
+webinars and office hours. The Department also meets with states one-on-one to answer
+specific questions.
+ARP PATHS resource for states. ARP PATHS-the Partnership, Assistance,
+Transformation, and Heightened Support-resource for states is a newly implemented
+framework and self-assessment intended to support SEAs in communicating how they are
+working to achieve our shared goals of ensuring that ARP ESSER funds are used
+appropriately and effectively as intended by the law, and are targeted to support the
+students most impacted by the pandemic.
+Technical assistance to support states and districts. The Department's robust strategy
+for technical assistance includes formal and informal guidance, webinars, continuous
+outreach, and targeted support to states and districts based on their individual needs. In
+addition, the Department has created multi-state communities of practice to help states
+and school districts build effective partnerships. Following the Summer Learning and
+Enrichment Collaborative in 2021, the Department announced new opportunities for
+2022 including a community of practice focused on Evidence-Based Interventions: Using
+American Rescue Plan Resources to Accelerate Learning. Participants will explore
+different evidence-based strategies to accelerate learning and build their organizational
+capacity to support districts and schools in implementing these practices with fidelity,
+and using the ARP ESSER funds for evidence-based interventions such as high-dosage
+tutoring and expanded learning time, with a focus on students most impacted by the
+pandemic.
+Overall, preliminary statewide summative assessment data from the 2020-21 school year indicate
+declines in student proficiency in reading and math in many states. The ARP ESSER funds are
+intended under the statute to be used to both reverse these declines (as measured by a variety of
+types of assessments designed to reliably and validly measure student outcomes on the uses for
+which they are intended) and to address the pre-existing opportunity gaps that disproportionately
+impacted the students most impacted by the pandemic.
+The Department will continue to communicate progress to the public and to stakeholders on a
+regular basis through multiple mediums available to staff, including emails and programmatic
+communication. As part of this effort, the Department is committed to an ongoing, robust, and
+inclusive external engagement strategy to amplify the voices of families, students, educators, and
+other community stakeholders in implementing these objectives. Additionally, the Department's
+13
+goals to ensure equitable implementation of ARP ESSER funds will be reflected in the Agency
+Strategic Plan and in guidance and broader technical assistance offered by the Department
+throughout the ARP ESSER grant period.
+ACTION: Civil Rights Data Collection (CRDC)
+The Department's OCR works to ensure equal access to education and to promote educational
+excellence. OCR achieves this goal through vigorous enforcement of Federal civil rights laws
+that prohibit discrimination based on race, color, national origin, sex, disability, and age by
+recipients of Department funding. Since 1968, OCR has administered the CRDC, a biennial,
+mandatory survey of the nation's public schools, which has collected data on key education and
+civil rights issues, The CRDC gathers and publishes information about student enrollment,
+access to courses, teachers and other school staff and school climate factors, such as student
+discipline and harassment and bullying, from public schools (early childhood through 12th
+grade) in all 50 states, D.C., and Puerto Rico. Much of the data collected are disaggregated by
+race/ethnicity, sex, English learners, and disability status, which allow OCR to identify potential
+educational inequities and to address them through technical assistance to schools or school
+districts or enforcement activities, such as the investigation of discrimination complaints. Also,
+the data are used by other Department offices and federal agencies, and by policymakers and
+researchers outside the Department.
+In August 2021, OCR made the historic decision to collect data from the 2020-21 and 2021-22
+school years, marking the first time OCR has conducted civil rights data collection from all
+public schools two school years in a row instead of every other year. The additional collection
+will allow the Department to identify inequities in educational opportunities as the country
+continues to grapple with the COVID-19 pandemic and its effects on students' academic, social,
+and emotional development.
+School districts began submitting data to OCR from the 2020-21 school year in December 2021
+and will continue to do so through February 2022. For the 2020-21 CRDC, OCR is collecting
+crucial data about students' access to virtual and/or in-person instruction as well as to devices
+that could access the Internet. Specifically, to better understand how the pandemic has impacted
+the way that schools provided instructions to students during the 2020-21 school year, OCR has
+added directions to the survey to determine whether schools offered in-person instruction only,
+virtual instruction only, or a hybrid of both instructional methods. Additionally, to ensure the
+submission of accurate data, OCR has added instructions to the survey to distinguish between
+distance education courses that were provided before the coronavirus pandemic and virtual
+instruction that was provided in response to the coronavirus pandemic. Distance education data is
+important to help understand access students have to various forms of educational opportunities
+that are credit-granting; delivered through technology via audio, video (live or prerecorded), the
+Internet, or other computer-based technology (e.g., via district network); and provided to
+students through an instructor in a different location than students participating in the program.
+This is especially true for students who may be unable to attend traditional schools. The CRDC
+14
+is collecting distance education course enrollment data disaggregated by race/ethnicity, sex,
+English learners and students receiving services under IDEA.
+OCR is seeking public input on a proposed 2021-22 CRDC. 3 OCR has proposed, among other
+things, restoring data elements removed during the previous administration that have long been
+useful to both OCR and the Department in identifying racial disparities and inequities in
+students' access to educational programs and staff, such as early childhood, preschool, and
+kindergarten programs; credit recovery programs; advanced placement courses; and teachers.
+OCR proposes to restore the count of teachers employed at schools and to begin collecting these
+data by race/ethnicity and sex. Also, OCR proposes to collect full-time equivalent counts of
+teachers certified to teach in mathematics, science, special education, and English as a second
+language. Teacher certification data will shed light on teacher resources that are and are not
+available at schools to meet the needs of students. For example, the data will reflect whether
+schools educating students with disabilities served by the Individuals with Disabilities Education
+Act employ teachers who are certified to teach special education, and in what percentages.
+As OCR conducts one collection and prepares for another, data quality remains a priority. OCR
+has made several improvements to the CRDC data systems and processes to improve and ensure
+the quality of the data submitted by school districts, including: 1) accepting data correction
+requests from school districts after the submission period closes; 2) providing instructions on
+how to accurately report zeros to assist school districts with distinguishing between data that are
+collected and represent actual counts of zero and data that are not collected; and 3) updating the
+CRDC data submission system to perform validation checks on data as they are entered or
+uploaded into the system, flagging actual or potential data errors and giving submitters an
+opportunity to correct or explain the entries.
+For more information about the CRDC and to access issue briefs highlighting inequities in our
+nation's schools, please visit https://www2.ed.gov/about/offices/list/ocr/data.html.
+ACTION: Contracting and Procurement
+To ensure that its contracting and procurement processes are more equitable, the Department is
+proactively exploring strategies to more effectively leverage the requirements of the Federal
+Acquisition Regulation (FAR) to establish equity-based guidelines that promote the effective
+utilization of solicitation language, proposal evaluation techniques, and vendor engagement
+strategies to identify and minimize any barriers to full and equal participation of members of
+historically underserved communities in procurement and contracts activities.
+3 See, Federal Register, U.S. Department of Education, Office for Civil Rights, Agency Information Collection
+Activities; Comment Request; Mandatory Civil Rights Data Collection, Vol. 86, No. 236, 70831 Dec. 13, 2021,
+https://www.federalregister.gov/documents/2021/12/13/2021-26873/agency-information-collection-activities-
+comment-request-mandatory-civil-rights-data-collecti
+15
+To obtain a baseline for the work ahead, the agency analyzed data related to underserved
+communities extracted from the Federal Procurement Data System - Next Generation (FPDS-
+NG), the recognized authoritative source for contract information. According to this data,
+minority owned small businesses receive about 20 percent of total actions, but they receive
+significantly fewer overall dollars and SO the Department is identifying opportunities to award
+higher dollar actions to minority owned small businesses, consistent with the authorizing statute
+and regulations governing minority owned small business contract awards. For Fiscal Year 2020,
+minority owned small businesses only accounted for 11 percent of the agency's total
+procurement spending. Meanwhile, the Department achieved an 8 percent ($231.9M) rate of
+spend for the small and disadvantaged business category, calculated as a percentage of small
+business eligible dollars. Overall, the Department's total procurement spending has increased
+annually; however, it is not clear that opportunities for minority owned small businesses are
+increasing proportionally.
+Now that the agency has data on the specific underserved communities, we are developing
+strategies to proactively engage policy influencers, key stakeholders, community leaders, and
+other significant decision makers to create more procurement opportunities by removing or
+mitigating barriers. Consistent with our baseline data discussed above, we have identified these
+barriers as insufficient use of small business set asides and insufficient vendor diversity, which
+inhibits opportunities for new small businesses to establish partnerships with large businesses.
+We are focusing on increasing the number of actions and corresponding dollar amounts
+associated with historically underserved communities. To do this, the Department's Industry
+Liaison jointly with the agency's Office of Small and Disadvantaged Business Utilization
+(OSDBU) will host quarterly Equity Round Table Discussions with representatives of
+underserved communities to discuss areas of concern, identify barriers, and formulate realistic
+strategies to help these communities address as many barriers as possible. These discussions will
+provide insight into how to help further direct our effort and attention. Additionally, we hope to
+gain a better understanding of the types of deterrents to participation in procurement and
+contracts activities that various underserved communities face, as we believe that different
+communities may face different constraints and have different concerns.
+Also, we will continue to promote the Department's OSDBU Outreach Plan for Minority Owned
+Small Business, as it lays out the specific related guidance.
+The objective of this plan is to address and mitigate potential barriers that underserved
+communities and individuals may face in taking advantage of agency procurement and
+contracting opportunities. To ensure progress is being made, OSDBU is meeting with the League
+of United Latin American Citizens (LULAC) and Northern Virginia Hispanic Chamber of
+Commerce (NVHCC) to discuss what the Department can do to further support Hispanic Owned
+Businesses, as well as developing a relationship with the U.S. Pan Asian American Chamber of
+Commerce (USPAACC). In addition, OSDBU is meeting with the Black Chamber Presidents
+Circle to discuss strategies to support Black owned small businesses.
+The Department will use various outreach and internal approaches to advance its strategy for
+equity in procurement. For example, the Department will focus on outreach strategies that
+16
+promote small business development programs and that increase participation of small,
+disadvantaged firms, and require prime contractors to increase subcontracting opportunities for
+small, disadvantaged businesses as well as protect small businesses from contract bundling. And
+the Department will focus on internal strategies that increase staff awareness and understanding
+of small business contracting. We believe that these efforts will result in increased procurement
+opportunities for traditionally underserved communities.
+The Department will work with its Senior Executive Service (SES) to ensure executive
+performance plans address progress towards our achievement of the small business contracting
+goals. This management action will focus needed attention, proactive engagement, and
+accountability by the Department's senior leadership. The executive performance plan will apply
+to senior leaders and program officials who participate in, or oversee personnel who participate
+in, planning acquisitions and selecting contractors to support their programs and projects.
+ACTION: Grant Process Strategies
+The Department pursues its mission by funding programs that will improve access to high-
+quality educational opportunities and programs that pursue innovations in teaching and learning
+with a focus on underserved students. Most of this funding is delivered through the Department's
+approximately 270 grant programs. Of those grant programs, approximately 79 grant programs
+are discretionary grant programs where funds can be awarded to SEAs; LEAs; State, local, or
+Tribal governments (including Tribal education agencies); nonprofit organizations; institutions
+of higher education; and other entities through a competitive process referred to as a grant
+competition. Within grantmaking, we know that there is disparity in how they are funded
+because of the number of entities that are repeatedly awarded within these competitions.
+Traditionally underserved populations can lack experience, access to resources for successful
+grant writing, access to the networks for support in grant writing and the awareness of
+opportunities for funding. The strategies which we have undertaken attempt to overcome these
+barriers and hopefully create less disparity in who is awarded funds.
+Increasing Peer Reviewer Diversity-Each year, the Department convenes panels of external
+education professionals and practitioners to serve as peer reviewers of grant applications. Peer
+reviewers evaluate and score submitted applications against program-specific criteria and
+announced priorities. Application scores are then used to inform the Secretary's funding
+decisions. This Executive Order directs the Department to "assess whether underserved
+communities and their members face systemic barriers in accessing benefits and opportunities
+available pursuant to those policies and programs."
+We believe that increasing the diversity of peer reviewers is an important element of the
+Department's efforts to implement this Executive Order. As a result, the Department is
+particularly interested in peer reviewers who represent diverse experiences and perspectives and
+whose expertise pertains to certain grant competitions. For example, peer reviewers will review
+applications that focus on projects such as:
+17
+special education programs;
+education innovation and research;
+American Indian/Alaska Native education;
+educational quality, management, and financial stability at colleges and universities that
+enroll high numbers of underserved students;
+high-quality support services to improve retention and graduation rates of students who
+are low income or first-generation college students or individuals with disabilities; and
+vocational rehabilitation programs.
+The Department announced opportunities for individuals to participate in its peer review process
+by reviewing applications for competitive grant funding under multiple programs through a
+notice in the Federal Register and the recruitment of new peer reviewers is an ongoing process
+for our grantmaking offices. Expanding our pool of peer reviewers helps ensure that applications
+are assessed by individuals with up-to-date and relevant knowledge of educational interventions
+and practices across the learning continuum, from early education to college and career, and in a
+variety of learning settings. Department peer reviewers are education professionals who have
+gained subject matter expertise through their education and work such as teachers, professors,
+principals, administrators, school counselors, researchers, evaluators, content developers, or
+vocational rehabilitation professionals or interpreters. In this way, peer reviewers can clearly
+support the Department's implementation of Executive Order 13985, and the availability of
+prospective reviewers. In addition to the notice, program offices have extended their recruitment
+to online platforms, periodicals and structured templates for outreach plans that vary by program
+office. By recruiting peer reviewers with broader experience, we can ensure that applications are
+evaluated by individuals who represent diverse experiences and perspectives and whose
+expertise allows for all entities to access benefits and opportunities available through Department
+grant programs. We are convening a cross-agency group to discuss further ways to increase
+peer reviewer recruitment, implementing better tracking systems to help us assess peer reviewer
+experience and diversity, evaluating honorarium pay to ensure that peer reviewers are being
+equitably compensated for their work and developing standardized training for peer reviewers to
+ensure coordinated training and give support to newer reviewers.
+Increasing Equity Considerations from Grant Applicants-As part of its efforts to
+implement this Executive Order, the Department will also revise the standard form required
+under Section 427 of the General Education Provisions Act (GEPA). Under Section 427, each
+applicant for assistance under an applicable program must describe in its application the steps the
+applicant proposes to take to ensure equitable access to, and equitable participation in, the project
+or activity to be conducted with such assistance, by addressing the special needs of students,
+teachers, and other program beneficiaries in order to overcome barriers to equitable participation,
+including barriers based on gender, race, color, national origin, disability, and age. Since GEPA
+Section 427 was added by Congress in 1994, the Department will consider its experience with
+the form over the last 27 years with the goal of increasing its effectiveness in advancing equity in
+Department grant programs.
+18
+For example, the form currently provides a few examples of steps that applicants may propose to
+ensure equitable access and equitable participation, but it does not include any specific questions
+or prompts and allows grantees considerable flexibility in how they may respond. Although the
+form addresses the statutory requirements, the Department has found in practice that most grant
+applicants provide formulaic statements regarding equitable access and participation in their
+proposed projects, and do not delineate detailed and specific steps that are integrated into their
+project to achieve these goals. Additionally, the Department plans to initiate a more active
+review of the forms and provide technical advice to applicants on how to develop specific and
+actionable steps. Finally, GEPA Section 427 gives the Department the authority to establish
+criteria to meaningfully implement this provision. To this end, the Department intends to revise
+its regulations on the selection criteria used to evaluate applications submitted in a grant
+competition to allow nonfederal peer reviewers to assess the way in which an applicant integrates
+equity into its proposed project.
+Building an Equity Dashboard-To inform our strategies for improving the grantmaking
+process, the Department continues to collect and analyze data on educational equity. Following a
+framework developed by the National Academies of Sciences, the Department is building a
+publicly facing Equity in Education dashboard. The Department will populate this dashboard
+with metrics recommended by the Academies' 2019 Monitoring Educational Equity report using
+data derived from a variety of federal sources. The dashboard is meant to: (1) provide the public
+accurate information on equity in the nation's education system, (2) provide the Department and
+other stakeholders a "single source of truth" accompanied by statistically appropriate, plain-
+language interpretations, and (3) assist the Department and other stakeholders in identifying gaps
+in our collective capacity to understand equity in education. The initial version of the dashboard,
+which curates relevant, national-level data, is currently in development by the Institute of
+Education Sciences' National Center for Education Statistics. Subsequent versions of the data
+could incorporate graphical renderings of key data elements and present data at State and local
+levels to show trends across grantees.
+Concurrently, Department communications and data professionals continue to explore how the
+science of data storytelling can promote equity in our grantmaking. Data visualizations present
+an opportunity to engage the public in key education topics, including expanded awareness of
+historical education inequities among underserved communities. The Department has increased
+its capacity to use data visualizations by identifying and prioritizing topics in grantmaking equity
+for data visualization, advancing cross-functional trainings in data visualization, and initiating
+data visualization and storytelling competitions. This initiative is designed to improve policy and
+other communications with external stakeholders by leveraging the power of data, and support
+development of insights for more effective internal communications as well. As we actively
+collect the data, we are also working to identify the best medium for dissemination to create
+meaningful change by removing barriers for underrepresented populations in grantmaking.
+19

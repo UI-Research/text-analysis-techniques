@@ -1,0 +1,494 @@
+UNITED STATES OFFICE OF PERSONNEL MANAGEMENT
+Equity Action Plan
+UNIER
+STATES
+of
+RENSONNEL
+OPM.GOV
+JANUARY 2022
+U.S. Office of Personnel Management Equity Action Plan
+January 20, 2022
+(1) Executive summary
+The U.S. Office of Personnel Management (OPM) serves as the chief human resources agency
+and personnel policy manager for the Federal Government. OPM provides human resources
+leadership and support to Federal agencies and helps the Federal workforce achieve their
+aspirations as they serve the American people. OPM directs human resources and employee
+management services, administers retirement benefits, manages health insurance and other
+insurance benefit programs, and oversees merit-based and inclusive hiring into the civil service.
+From shaping how and where Federal employees work in the future, to reestablishing the
+Federal government as a model employer, OPM is leading the discussion on how to rebuild the
+Federal workforce.
+OPM is fully committed to the whole of government approach to advance equity and support
+for underserved communities. Per Executive Order 13985, OPM has started to assess whether
+underserved communities face systemic barriers in accessing benefits and opportunities in
+programs or services OPM provides. Outlined below is a summary of the three high-impact
+services OPM reviewed and assessed for potential barriers that underserved communities may
+face, as well as the actions OPM will take to eliminate any barriers.
+Expand Agency Access to and Use of Post-Audit Applicant Flow Data (AFD).
+To better support Federal agencies, OPM plans to expand Federal agency access to anonymized
+and post-audit AFD and strengthen the capacity of Federal agencies to analyze, interpret, and
+use AFD in a legally appropriate manner. AFD is the demographic information provided by
+applicants on a voluntary basis for Federal job opportunity announcements through the
+USAJOBS.gov website. After a job opportunity is closed and all certificates issued under the
+announcement are audited, Federal agencies may use anonymized, post-audit AFD as part of
+their efforts to determine the existence of any barriers or disparities in the hiring process, as well
+as to develop future recruitment efforts. OPM's role is to ensure agencies have access to
+anonymized, post-audit AFD and to collaborate with the Equal Employment Opportunity
+Commission (EEOC) to provide tools and training for agencies on the appropriate use of AFD.
+OPM has already taken actions by building AFD reports, providing agencies with a template to
+pull AFD, and creating a report for agencies to see if job certificates need to be closed out.
+U.S Office of Personnel Management
+Equity Action Plan
+Build a New Federal Employees Health Benefits (FEHB) Decision Support Tool.
+OPM administers the health insurance program for eligible Federal government employees;
+annuitants; employees of entitled and enrolled Tribes, tribal organizations, and urban Indian
+organizations; and their eligible family members. The FEHB Program is the largest employer-
+sponsored health benefits program in the world, covering 8.2 million people. An important
+hallmark of the FEHB Program is providing choice and competition so every eligible and
+enrolled person, including those from underserved communities, has an opportunity to choose
+the health plan that best suits their needs. OPM plans to offer a new state-of-the-art Decision
+Support Tool (DST) that will give every FEHB-eligible and enrolled individual the opportunity and
+necessary technology to compare FEHB benefits, total cost of care, provider networks,
+prescription costs, and other health information important to them at the point of enrollment.
+Provide Tools to Benefits Officers Across Government to Advance Financial Security.
+OPM has a responsibility to work with agency benefits officers across government to educate
+Federal employees on the need for retirement savings and provide information to help them
+meet their retirement goals. OPM's goal is to work with agency benefits officers to promote fully
+informed retirement decisions by employees and educate them on the value for retirement
+savings, including those in underserved communities. OPM's effort is targeted at providing tools
+to benefits officers across government to deliver timely and relevant information in an equitable
+manner to Federal employees to advance financial security.
+(2) Summary of Early Accomplishments
+Since President Biden signed the Executive Order on Advancing Racial Equity and Support for
+Underserved Communities Through the Federal Government on January 20, 2021, OPM has
+worked to advance equity and remove any barriers for underserved communities in its efforts to
+make the Federal government a model employer, rebuild the workforce, and elevate OPM as an
+institution to better serve the American people.
+In July 2021, Director Kiran Ahuja announced that the Chief Human Capital Officers Council's
+(CHCO) functions would be restored to OPM. The restoration of these functions elevates the
+voices of CHCOs and strengthens the connection between Government-wide human capital
+strategy and policy development and agency-level human capital management. CHCOs are key
+partners in helping to advance the Biden-Harris Administration priorities around diversity,
+equity, inclusion, and accessibility (DEIA). Additionally, in October 2021, Director Ahuja
+2
+U.S Office of Personnel Management
+Equity Action Plan
+established the Office of Diversity, Equity, Inclusion, and Accessibility (ODEIA) within OPM, and
+aligned it to report directly to the Office of the Director. ODEIA is charged with leading strategic
+DEIA government-wide priorities, working collaboratively with stakeholders, and providing the
+tools to help Federal agencies advance DEIA - including advising the Director on the Executive
+Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce. OPM has
+significant equities in Executive Order 14035, and more detail on how OPM serves underserved
+communities and advances DEIA in the Federal government is discussed in Section 5 below.
+In addition to making organizational changes, OPM convened and conducted focus group
+discussions with employee groups in July 2021 to hear directly from members of underserved
+communities and better understand if and to what extent they faced barriers in accessing
+Federal employee benefits. The focus groups were hosted by video conference and lasted two
+hours, with one hour focused on FEHB plan selection and one hour focused on retirement
+readiness. The four focus group discussions included 61 Federal employees and were comprised
+of benefits officers, employees who identify as LGBTQ+, employees who identify as a person of
+color, and employees who identify as persons with disabilities.
+Additionally, OPM finalized a series of regulations and policy actions that deepen OPM's
+commitment to making Federal service a pathway to the middle class, expanding the access of
+good jobs to Americans from all walks of life. OPM finalized two regulations that expands access
+to good-paying opportunities in Federal service, including paid internships, for post-secondary
+students and recent graduates: In August 2021, OPM issued a regulation that allows agencies to
+strategically recruit certain students to positions in the competitive service on a term or
+temporary basis up to a GS-11 or $74,950 in the Washington, D.C. area; and in November 2021,
+OPM published an interim rule designed to help agencies more easily recruit and hire recent
+college graduates into positions in the Federal government up to a GS-11 or $74,950 in the
+Washington, D.C. area. In September 2021, OPM expanded opportunity for military spouses to
+serve in Federal jobs by finalizing an expansion of the Military Spouse Non-Competitive
+Appointment Authority. Also in September, OPM issued an interim final rule to expand access to
+high quality health coverage by extending opportunity to enroll in the Federal Employees Health
+Benefits (FEHB) Program to additional tribal employees. Finally, in January 2022, OPM issued
+new pay schedules and additional guidance that fulfill the Administration's commitment to pay
+every Federal employee at least $15 per hour. These actions collectively raise the pay for 67,000,
+out of 2.2 million, Federal employees who previously worked below this threshold. Raising pay
+3
+U.S Office of Personnel Management
+Equity Action Plan
+rates across the Federal government to a minimum of $15 per hour reflects our appreciation for
+the Federal workforce, our values as a nation, and recognizes the importance for every Federal
+employee to earn a living wage.
+(3) Equity Action Plan of Applicant Flow Data
+Barrier to Equitable Outcome(s)
+Applicant Flow Data (AFD) is the demographic information voluntarily provided by applicants for
+Federal job opportunities through the USAJOBS.gov website. When submitting a job application,
+applicants have the option to include information on their sex, race/ethnicity, and disability
+status, authorized by the Demographic Information on Applicants form (OMB No: 3046-0046).
+After a job opportunity announcement is closed, certificates issued under the announcement are
+audited, and after all hiring actions for the announcement are completed, anonymized, and
+aggregated, AFD information can be combined with other indicators to show applicants'
+progress through major milestones in the hiring process, including application, qualification,
+referral, and selection (retrospective view).
+Federal agencies are responsible for accessing any available anonymized, post-audit AFD
+through their talent acquisition system (e.g., USA Staffing, Monster, or other systems), in
+addition to other data sources, to undertake barrier analyses. Barrier analysis is a process used
+to identify, evaluate, and, where appropriate, remedy any policies, procedures, and/or practices
+that may lead to disparities in the hiring process for individuals seeking Federal employment.
+OPM's role in this process is to ensure agencies have access to anonymized, post-audit AFD and
+to collaborate with EEOC to provide tools and training for agencies on their use of post-audit
+AFD.
+Post-audit AFD trends consistently show a drop-off in representation for certain groups as the
+hiring process progresses. OPM's equity assessment illuminated several challenges that may
+prevent agencies from fully using post-audit AFD as part of the materials to identify and
+mitigate barriers to Federal employment. These challenges primarily relate to data gaps that
+limit AFD's ability to be a comprehensive data source, the lack of capacity on the part of staff in
+Federal agencies to analyze, interpret, and use the data (in conjunction with other materials),
+and uncertainty on how the data could be used beyond compliance reporting (such as MD-715
+reporting). Addressing these challenges could better position agencies to address any disparities
+among demographic groups as they move through the hiring process. This work is particularly
+4
+U.S Office of Personnel Management
+Equity Action Plan
+important as the Federal government begins to recruit and hire new employees, as a result of
+the passage of the Bipartisan Infrastructure Law.
+Action and Intended Impact on Barrier
+OPM will undertake the following actions, in partnership with the EEOC in some cases, to expand
+Federal agency access to post-audit AFD and strengthen the capacity of Federal agencies to
+analyze, interpret, and use post-audit AFD.
+Expand Federal agency access to post-audit AFD. These actions will provide agencies
+with an easily accessible, comprehensive dataset that will enable more detailed analysis
+on barriers in the hiring process.
+Redesign the USA Staffing AFD Data Warehouse to improve usability and include
+additional data items, including measuring additional phases of the hiring
+process, as requested by agencies to expand the analysis possible through AFD.
+Develop a new API (Application Programming Interface) to allow agencies to
+systematically retrieve bulk AFD for their organizations to reduce time and
+processing capacity required for analysts to retrieve AFD for their agency.
+Implement a new reporting tool (Power BI) to enable more interactive reports
+and dashboards to ease agency burden in post-audit AFD analysis.
+Provide reports to agencies on their announcements with unaudited certificates
+so they can take action, such as closing out the hiring process and auditing the
+outstanding certificates, to enable OPM to release any additional AFD to the
+relevant agencies.
+Explore changes to the USAJOBS user experience to increase the number of
+applicants who voluntarily choose to provide their demographic information.
+Develop guidance for how to provide post-audit summarized AFD to agency
+leadership and managers/supervisors to inform efforts to mitigate barriers in the
+hiring process for future recruitment efforts.
+Collaborate with EEOC and consider modifications to the AFD collection form to
+include additional data items in response to recent Executive Orders and adhere
+to DEIA best practice, including adding sexual orientation and gender identity
+(SOGI), and Middle East and North Africa (MENA) categories.
+5
+U.S Office of Personnel Management
+Equity Action Plan
+Strengthen the capacity of Federal agencies to analyze, interpret, and use
+anonymized, post-audit AFD. These actions will help agencies build the knowledge and
+skills to more effectively analyze and use anonymized, post-audit AFD.
+Survey AFD analysts and others expected to routinely use the data to gather
+information on skills and training needs.
+Develop position descriptions, job announcement content, competency models,
+and other hiring artifacts to provide agencies with tools to recruit and select
+analysts with the skills and background to effectively analyze their hiring
+processes, using, among other data sources, anonymized, post-audit AFD.
+Collaborate with EEOC to develop new training resources and analytical tools to
+better prepare agency analysts to use anonymized, post-audit AFD as one of the
+data sources used for barrier analyses.
+Facilitate an AFD analyst community across government to share ideas and
+information on how to effectively access and use AFD.
+Tracking Progress
+OPM will rely on data sources such as USAJOBS, USA Staffing, and a new survey of AFD
+practitioners to track progress on these actions, including the following measures:
+Near- to mid-term (two to four years)
+Number of new hiring phases included in AFD
+New demographic response options in the AFD collection form (e.g., SOGI)
+Percentage of applicants who choose to provide their demographic information
+Number and percentage of announcements with unaudited certificates
+Percentage of agency leaders (e.g. executives, managers, supervisors) who report
+they reviewed post-audit summarized AFD for their organizations for future
+recruitment efforts and potential barrier analyses
+Percentage of AFD analysts who report that they have the knowledge and tools
+to do their jobs
+Long-term (five to eight years)
+Disparities among demographic groups as they move through the hiring process
+6
+U.S Office of Personnel Management
+Equity Action Plan
+Accountability
+OPM will hold itself accountable to these actions by including AFD-focused strategies and goals
+in the FY 2022-2026 OPM Strategic Plan. OPM developed a related FY 2022-2023 Agency
+Priority Goal and related research questions for OPM's FY 2022-2026 Learning Agenda. As a
+service provider, OPM is also held accountable for AFD features by its agency customers,
+including an AFD Customer Workgroup that meets quarterly. OPM will use the AFD Customer
+Workgroup to provide progress updates on these actions, share new tools and resources, and
+gather feedback from Federal agencies.
+(4) Equity Action Plan in Advancing Financial Security
+Barrier to Equitable Outcome(s)
+OPM's Retirement Services (RS) is responsible for the Government-wide administration of
+retirement benefits and services for roughly 2.7 million annuitants, survivors, and family
+members. The Thrift Savings Plan Open Elections Act of 2004 (Public Law 108-469) and 5 U.S.C.
+8350 gave OPM the responsibility to work with agency benefits officers across government to
+develop and implement a retirement financial literacy and education strategy. OPM's effort is
+targeted at providing tools to benefits officers across government to deliver timely and relevant
+information to Federal employees to help them meet their retirement goals.
+As discussed in Executive Order 13985, financial education and wealth accumulation are
+especially important areas of focus, particularly for underserved communities who experience
+disparities in wealth accumulation. President Biden's statement issued on June 1st, 2021,
+commemorating the 100th anniversary of the Tulsa Race Massacre, highlights this point:
+"Because disparities in wealth compound like an interest rate, the disinvestment in Black families
+in Tulsa and across the country throughout our history is still felt sharply today. The median
+Black American family has thirteen cents for every one dollar in wealth held by White families."
+All new Federal employees have a defined contribution plan in the form of the Thrift Savings
+Plan and a defined benefit plan in the form of the Federal Employees Retirement System (FERS).
+This contrasts with private industry where 52% of workers have only a defined contribution plan,
+1
+https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/01/fact-sheet-biden-harris-
+ministrationannounces-new-actions-to-build-black-wealth-and-narrow-the-racial-wealth-g
+7
+U.S Office of Personnel Management
+Equity Action Plan
+3% have only a defined benefit plan, and 12% have both. 2 While most agencies devote
+significant resources to retirement readiness interventions as Federal employees approach
+retirement (typically 5 years before retirement), the resources for early and midcareer financial
+planning are often limited or nonexistent. These gaps in financial education programs are
+problematic because wealth accumulation is a career-long effort, and key decisions made early
+in a Federal career compound over a lifetime, either positively or negatively. Additionally, much
+of the existing agency financial education materials focus on a single benefit program rather
+than providing an integrated view of programs available to Federal employees.
+The Federal government has a strong legacy of creating pathways to the middle class for
+communities of color, particularly Black Americans, when other economic opportunities were
+unavailable to them. Moreover, as the largest employer in the country, the Federal government
+currently employs a diverse range of workers. Coupled with OPM's efforts to provide every
+Federal worker with pay of a minimum of $15 per hour, OPM is poised to position the Federal
+government as an employer of choice, not only because of its longstanding and robust
+retirement program, but going forward, its appreciation of the current wealth gaps and the need
+for comprehensive financial education among its diverse workforce.
+Finally, OPM's engagement with Federal employee focus groups yielded insights about barriers
+to achieving retirement readiness and fit into two main categories of findings. First, many
+Federal employees shared that they do not have a good understanding of what their Federal
+benefits include, how benefits programs integrate to provide opportunities for wealth
+accumulation, or how the benefits they will receive are calculated. Second, while most agencies
+offer retirement readiness courses close to an employee's retirement date, employees explained
+that very little information is available for early and midcareer employees.
+Action and Intended Impact on Barrier
+OPM's effort is targeted at providing tools to benefits officers across government to deliver
+timely, accessible, and relevant information to Federal employees to advance financial security.
+This effort includes conducting an overall assessment, targeted analyses, and potential
+interventions aimed at promoting financial outcomes through three key areas. First, OPM will
+continue to examine how key decisions in early and midcareer can improve the trajectory of
+2
+https://www.bls.gov/opub/ted/2021/67-percent-of-private-industry-workers-had-access-to-retirement-plans-in-
+2020.htm
+8
+U.S Office of Personnel Management
+Equity Action Plan
+wealth building. OPM will continue to partner with agencies across government to build upon
+previously conducted literature reviews regarding the most effective strategies for the timing,
+content, and delivery mechanisms to promote financial security.³ The effort will build on a wide
+range of evidence-based research findings to identify interventions that show promising
+results.
+4
+Second, OPM will work with benefits officers across government to examine existing agency
+financial education plans and specific government financial educational programs. Since mission,
+size, resources, geographic distribution, and Federal employee composition vary greatly
+between agencies, it is expected that training needs will also vary. In considering potential
+programs, a wide range of agency needs, including the needs of underserved communities will
+be considered. Additionally, some agencies face significant resource constraints in their ability to
+provide retirement readiness tools, so programs that are scalable and low cost are a particular
+focus of the effort. OPM will also continue to upskill benefits officers in financial education best
+practices during the annual benefits officer training.
+Finally, OPM sees an opportunity to identify effective financial education programs currently in
+use at some agencies and make them more widely available across government. OPM will
+identify programs that show the largest effect on key decisions for wealth building and share
+them with benefits officers. Because staff in agency benefit offices do not typically have detailed
+training in financial education, providing a set of existing tools that integrate benefit programs
+at key early and midcareer stages across government are a timely and cost-effective way to
+advance financial security. Our approach offers a way to build on existing capabilities and offer
+evidence-based solutions for agency benefits officers across government.
+Tracking Progress
+In the next two to four years, OPM will explore potential tools to quantify gaps in financial
+literacy5 and measure knowledge about existing benefits programs (e.g., TSP, FERS/CSRS
+3 https://home.treasury.gov/system/files/136/US-National-Strategy-Financial-Literacy-2020.pdf
+4 Goda, G.S., Levy, M. R., Manchester, C.F., Sojourner, A., & Tasoff, J. (2020). Who is a passive saver under opt-
+in and auto-enrollment? Journal of Economic Behavior & Organization, 173, 301-321; Kaiser, T., & Menkhoff, L.
+(2020). Financial education in schools: A meta-analysis of experimental studies. Economics of Education
+Review, 78, 101930; Lusardi, A., & Mitchelli, O. S. (2007). Financial literacy and retirement preparedness:
+Evidence and implications for financial education. Business economics, 42(1), 35-44.
+5 https://www.usfinancialcapability.org/downloads/NFCS2018 Report Natl Findings.pdf
+9
+U.S Office of Personnel Management
+Equity Action Plan
+annuities, Social Security benefits, and additional initiatives like student loan repayment
+programs). OPM will then use that information to identify programs that can help address gaps
+in wealth building decisions. OPM wishes to begin an internal agency pilot test using some of
+the interventions which have shown to be useful and examine whether these lead to behavioral
+changes. OPM will begin tracking the following measures:
+Number of agency educational programs reviewed
+Number of agencies that include financial education programs for early and midcareer
+employees in their financial education plans
+Number of agencies that include targeted financial education programs for underserved
+communities
+Percentage of OPM employees who make retirement savings changes, such as
+enrollment rate, contribution rate, and/or fund elections (measure will be selected
+according to largest identified needs and pilot testing)
+In the five to eight-year timeframe, OPM will collaborate with other agencies and leverage
+government-wide surveys to measure:
+Percentage of employees who report having early and midcareer access to financial
+education
+Percentage of employees who report understanding how TSP, CSRS/FERS, Social
+Security, and private assets integrate to build wealth and promote a secure retirement
+Accountability
+Once the research is complete and effective programs have been identified, OPM will produce a
+final report summarizing governmental efforts. Additionally, OPM will provide research-basec
+recommendations relevant to reducing any barriers faced by employees, including underserved
+communities. Furthermore, OPM will issue a Benefits Administration Letter summarizing tools
+available for agency benefits officers to use to address early and midcareer financial security.
+The efforts described in this submission are aligned to the OPM FY 2022-2026 Learning Agenda,
+the FY 2023 Annual Evaluation Plan and FY 2023 Congressional Budget Justification and Annual
+Performance Plan.
+10
+U.S Office of Personnel Management
+Equity Action Plan
+(5) OPM Equities in the Executive Order on Diversity, Equity, Inclusion, and
+Accessibility in the Federal Workforce
+As mentioned above, OPM has significant equities in Executive Order 14035 on Diversity, Equity,
+Inclusion, and Accessibility in the Federal Workforce, and is a leader in implementing some
+major pieces of it across the Federal government. To support the effort, the Office of Diversity,
+Equity, Inclusion, and Accessibility (ODEIA) will expand its staff and will continue to engage
+cross-government talent using White House Leadership Development Program (WHLDP)
+Fellows, fellows in the Presidential Management Councils Interagency Rotational Program, and
+White House Fellows. ODEIA provides technical support and assistance to agencies in
+implementing their strategic diversity, equity, inclusion, and accessibility goals, and has also
+secured help from external contractors and partnered with The Lab at OPM to further these
+ends.
+OPM is working across the government to strengthen the Federal government's ability to
+recruit, hire, develop, promote, and retain our nation's talent and remove any barriers to equal
+employment opportunity. For example, consistent with Executive Order 14035, OPM is taking
+actions to promote equitable healthcare coverage and services for enrolled LGBTQ+ employees,
+through FEHB. As directed by EO 14035, OPM is also coordinating with EEOC and the Office of
+Management and Budget to consider expanding the collection of voluntary self-reported
+demographic data about Federal employees to support a data-driven approach to DEIA policies,
+including the potential addition of optional sexual orientation and gender identity data
+collection.
+In November 2021, OPM coordinated with the White House to release the Government-wide
+Strategic Plan to Advance Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce.
+The Government-wide plan provides guidance for how agencies can mature along a continuum
+from focusing on compliance and non-discrimination to where diversity, equity, inclusion, and
+accessibility are an integral part of the overall agency mission, vision, values, strategy, policies,
+and practices. The goal is systematic implementation of DEIA through agency goal setting, data
+driven analysis, and continuous improvement. Currently, ODEIA is coordinating OPM's
+development of human resource job classification codes and position descriptions for DEIA
+professionals, and OPM plans to develop a Chief Diversity Officers Council to undertake cross-
+cutting priorities.
+11
+U.S Office of Personnel Management
+Equity Action Plan
+(6) Equity Action Plan of the Federal Employees Health Benefits Decision Support
+Tool
+OPM provides human resources leadership and support to Federal agencies and helps the
+Federal workforce achieve their aspirations as they serve the American people. OPM advances
+equitable contracting and procurement opportunities through the Federal Employees Health
+Benefits (FEHB) Program by incorporating anti-discrimination legal requirements in the contracts
+with the more than 90 national, regional, and community based insurance carriers. OPM also
+proactively promotes health equity by requiring carriers to assess differences in health outcomes
+by race and other social characteristics and address social determinants of health in their benefit
+design.
+Barrier to Equitable Outcome(s)
+The FEHB Program is the largest employer-sponsored health benefits program in the world,
+covering 8.2 million lives and providing a total of 275 plan choices (in 2022). OPM's current FEHB
+Plan Comparison Tool (PCT) displays, in an accessible format, FEHB health plan choices for users,
+including premiums, out-of-pocket costs for a wide variety of benefits, and quality information
+to assist in their purchasing decisions. However, it does not currently support some of the
+unique needs of its users, including those in underserved communities. The PCT offered by OPM
+was developed in-house in 2002 and is the most frequently visited webpage for
+OPM/Healthcare and Insurance (top 5 on opm.gov). In 2020, there were 2.4 million page views,
+1.6 million User Sessions, and 1.3 million unique views. It has been updated through several
+iterations to increase functionality, but it is at the end of its lifecycle and unable to deliver a
+versatile or comprehensive interface when compared to newer commercial models, such as tools
+developed for Healthcare.gov or other state-based exchanges.
+There are several limitations for employees using the PCT to meet their FEHB plan choice needs.
+All current and prospective Federal employees are impacted by the available FEHB PCT
+technology; persons with specialized health care needs, such as people with disabilities, retirees,
+and the LGBTQ+ populations, are most impacted by the inability to conduct a specialized plan
+benefit search to find a health plan that best meets their needs. When selecting a plan,
+representatives of those in underserved communities, such as the LGBTQ+, retiree, and
+employees of tribal organizations, speak of the cumbersome and inequitable nature of utilizing
+the current PCT to compare or understand their health benefits. Additionally, FEHB enrollees
+12
+U.S Office of Personnel Management
+Equity Action Plan
+within and outside of these communities often must compare benefits in each health plan
+brochure and check multiple health plan websites to contrast prescription drug costs as well as
+obtain participating healthcare provider information. Similarly, human resource specialists and
+agency benefits officers share the challenges and time demands of explaining health plan
+choices to enrollees.
+Through OPM's Equity Assessment focus groups, OPM was able to elicit certain stakeholder
+challenges in comparing FEHB benefits that impact many users. For instance, Federal employees
+mentioned that they find it very difficult to discern the information they need to select an FEHB
+plan and reported a lack of clarity around coverage by plans for necessary services, medications,
+or medical equipment. Federal employees, including those in underserved communities, request
+the ability to search for targeted information to help them make decisions during their FEHB
+plan selection. A new DST will give every FEHB-eligible individual the opportunity to improve
+health outcomes by enhancing decision support at the point of enrollment and offering the
+necessary, accessible technology to support user-centric comparison of FEHB benefits.
+Action and Intended Impact on Barrier
+OPM intends to provide customers a DST that is accessible by providing substantially equivalent
+access to persons with disabilities as provided to those without disabilities. This will permit users
+to compare available FEHB benefits, provider networks, and prescription costs. OPM will refactor
+the internal applications used to feed the DST to allow more granular collection of FEHB benefit
+information including total cost of care data. OPM will subsequently conduct various analyses,
+surveys, and focus groups to inform what technology enhancements are necessary. Lastly, OPM
+will iteratively release DST functionality to ensure continual alignment with Executive Order
+13985.
+By implementing the DST Minimum Viable Product (MVP), OPM will provide all users, including
+underserved communities, with the ability to compare the FEHB benefits, provider networks, and
+prescription costs important to them. Additionally, the refactoring of OPM systems used to
+gather DST source data will allow for more granular benefit data collection and subsequent
+specialized search and compare features to be implemented to the DST.
+13
+U.S Office of Personnel Management
+Equity Action Plan
+Tracking Progress
+The DST MVP will be launched in year two after approval; starting in year three, the DST will
+deploy a web-based survey to collect a baseline data source on direct DST user experience to
+measure utilization, satisfaction and utility across different demographic groups and special
+populations to enable comparative analyses. OPM will also collect DST usage analytics to track
+DST reach and identify additional enhancements to DST functionality. The measures that OPM
+will capture include:
+Percentage of DST users who report the DST is useful when selecting a health plan, by
+demographic group
+Percentage of DST users who report that the categories available for comparison (e.g.,
+quality ratings) are useful when selecting a health plan, by demographic group
+Number of page views, sessions initiated, time spent using the DST, and other usage
+analytics
+Percentage of DST users who report being satisfied with the DST, by demographic group
+Percentage of employees who report having sufficient information to choose the right
+health plan for them, by demographic group
+Number of searches by category, including by underserved communities' need-specific
+terms (e.g., gender affirming care), by demographic group
+Within five to eight years, the DST will be a steady state mobile-friendly, accessible tool with
+customized benefit search and compare capabilities, functionality to calculate total costs, and
+integrated provider and pharmacy directories. Additionally, the DST data source technology
+refactoring efforts will be completed and allow for more specialized benefit comparisons. The
+ultimate DST will give FEHB enrollees the option for tailored benefit differentiation through a
+secure portal and online support.
+OPM will continue to track website survey and engagement measures to identify trends in use of
+the DST. Additionally, OPM will leverage the Federal Employee Benefits Survey (FEBS) and
+analyses of FEHB enrollment data to assess the following measures (organized by available
+aggregated, anonymized demographic data). These measures will supplement the information
+collected above via the DST direct user survey:
+Percentage of employees who agree that the DST provides adequate FEHB plan benefit
+information, by demographic group
+14
+U.S Office of Personnel Management
+Equity Action Plan
+Percentage of employees who report being satisfied with the DST, by demographic
+group
+Percentage of employees who report having sufficient information to choose the right
+health plan for them, by demographic group
+Percentage enrolled in FEHB, by plan and user demographic
+Accountability
+OPM is including the DST efforts in the FY 2022-2026 Strategic Plan and as an FY 2022-2023
+Agency Priority Goal. In addition, research questions related to the DST are encompassed in
+OPM's FY 2022-2026 Learning Agenda.
+15
+UNITED STATED
+U.S. Office of Personnel Management
+Office of the Chief Financial Officer
+1900 E Street, NW, Washington, DC 20415
+PERSONNEL
+OPM.GOV
+CFO-03456-01-22

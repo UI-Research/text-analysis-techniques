@@ -1,0 +1,479 @@
+Executive Order 13985 | Equity Action Plan | January 20, 2022
+GSA
+EXECUTIVE SUMMARY
+The mission of the U.S. General Services Administration (GSA) is to deliver the best customer
+experience and value in real estate, acquisition, and technology services to the government and
+the American people. GSA leverages the buying power of the Federal Government to provide
+federal purchasers with cost-effective, high-quality products and services from commercial
+vendors. GSA has two major buying Services that manage large-scale acquisition programs for
+use by federal customers: the Federal Acquisition Service (FAS) and the Public Buildings
+Service (PBS). Housed within FAS is the Technology Transformation Services (TTS). In
+addition to FAS and PBS, the Office of Customer Experience (OCE), the Office of
+Government-wide Policy (OGP), and the Office of Small and Disadvantaged Business
+Utilization (OSDBU) all play an integral role in influencing interagency best practices for
+driving meaningful and durable positive change. GSA delivers mission-critical services and
+products to federal agency customers and clients, which makes the agency uniquely positioned to
+have a multiplier effect across government in advancing equity and removing barriers for
+underserved communities.
+GSA conducted equity assessments and identified a set of actions for three high-impact focus
+areas: federal procurement, federal buildings footprint, and federal technology design & delivery.
+Advancing Equity and Supplier Diversity in Federal Procurement
+Small Disadvantaged Businesses (SDBs) are disproportionately vulnerable to compounding
+obstacles and negative impacts while competing for Federal Government contracts and
+obligations-including the approximately $75 billion in annual contracts overseen by GSA. The
+complex web of challenges facing SDBs impedes their success and ultimately exacerbates
+systemic economic disparities in the federal marketplace. GSA's plan to advance equity in
+federal procurement coordinates five actions for a holistic approach to reduce barriers and
+improve SDB outcomes at critical stages of the federal contracting lifecycle, with the goal to
+increase overall contract dollars awarded to underserved and disadvantaged communities.
+Advancing Equity and Diversity Through the Public Buildings Footprint
+GSA is responsible for a nationwide real estate portfolio of more than 370 million rentable
+square feet. With its vast physical footprint, GSA is committed to taking actions that help it
+better track its impact, support economic recovery, strengthen stakeholder engagement, advance
+equity and diversity in the real estate and construction industries, and improve community and
+customer experiences with federal facilities across America.
+Advancing Equity and Accessibility in Federal Technology
+Inequities in technology design and delivery disproportionately harm those from historically and
+socially marginalized communities. This means that those who most need government services
+will often have the most difficulty accessing them. GSA's top governmentwide technology
+services and solutions each serve millions of end users annually. We are dedicated to actions that
+prioritize equitable user experience as a core design principle, mitigate algorithmic bias, improve
+digital accessibility, and modernize the delivery of government services to the American people.
+1
+Executive Order 13985 | Equity Action Plan | January 20, 2022
+GSA
+SUMMARY OF EARLY ACCOMPLISHMENTS
+GSA has had several achievements and successes since the release of Executive Order 13985 on
+January 20, 2021. These achievements are across three high-impact program areas: Acquisition,
+Public Buildings, and Technology Transformation.
+Acquisition
+The Governmentwide Category Management Project Management Office hosted a Fall
+Industry Day targeted at the small business (SB) and the small disadvantaged business
+(SDB) community. The session helped SBs and SDBs navigate the federal marketplace.
+Almost 1,200 attended the live event or viewed it on demand.
+GSA's OSDBU hosted a virtual, full-day training and matchmaking event, focused on
+helping SBs achieve success in the federal marketplace. More than 800 federal leaders
+and industry experts participated.
+GSA's OSDBU hosted 11 virtual events connecting 80 Small Disadvantaged and
+Veteran-Owned Small Business (VOSB) with an estimated 40 GSA prime contractors to
+meet, network, and discuss potential subcontracting opportunities.
+Public Buildings
+The Office of Federal High-Performance Green Buildings, an office within OGP,
+established the Green Building Advisory Committee (GBAC) under the Federal Advisory
+Committee Act. The GBAC's Environmental Justice and Equity Task Group garnered
+feedback from community groups and advocacy organizations and presented
+recommendations to GBAC as it evaluates the public building portfolio's impacts.
+PBS is partnering with the National Endowment for the Arts to increase the diversity and
+outreach of its Art in Architecture program.
+PBS facilitated an "IDEA" (DEIA) Roundtable with associations and industry partners.
+The Industry Roundtable focused on diversity and inclusion topics and highlighted such
+topics as the Architectural Barriers Act in the federal built environment.
+PBS continues to maintain the Good Neighbor Program, which provides technical
+planning expertise to GSA project teams, to improve collaboration with rural and urban
+communities nationwide regarding GSA projects and properties.
+Technology Transformation
+Login.gov partnered with Source America and Knowability to recruit low-vision and
+blind users for insight on accessibility issues on the platform. Login.gov commissioned a
+field test to assess the efficacy of liveness detection systems in identity-proofing
+processes. Revisions to Login.gov have been made to improve access and disparities.
+TTS has adopted formal acceptance criteria and implemented automated testing to
+promote accessibility. Our continuous-integration test suite automatically detects known
+accessibility defects so that they can be addressed before product launches. This equity
+intervention improves accessibility to government digital services for individuals with
+visual impairments.
+2
+GSA
+Executive Order 13985 I Equity Action Plan I January 20, 2022
+EQUITY ACTION PLAN
+Advancing Equity & Supplier Diversity in Federal Procurement
+A. GSA identified the following five barriers to equitable outcomes for Small
+Disadvantaged Businesses:
+(1) New information technology businesses are deterred from entering the federal market due
+to
+the complexity of navigating and complying with federal procurement requirements. This barrier
+creates challenges for SDBs pursuing Governmentwide Acquisition Contracts (GWAC) that
+federal agencies mainly use for acquiring information technology (IT)-related services. (2) SDBs
+experience difficulty navigating the Multiple Award Schedule (MAS) procurement award process
+and understanding regulatory requirements due to a lack of knowledge of the federal procurement
+landscape and resources to learn the process -- leading to missed opportunities. (3) For SDBs to
+be successful post-award, they must win task or delivery orders, satisfy the customer, and comply
+with the contractual requirements. Most small business owners find it challenging to secure
+trained personnel who can competently address all of these areas, especially adhering to
+contractual requirements and regulations. (4) GSA found in its Federal Supply Schedule, GWAC
+and Multi-agency contracts (MAC) that SDBs were not always successful in winning task or
+delivery orders. While the Federal Supply Schedule is continuously open, the absence of regular
+on-ramping for new SDBs in other governmentwide MACs may deny firms the opportunity to
+compete for several years. (5) SDBs have difficulty determining potential federal opportunities
+because there is no centralized portal for this information; instead, they must search multiple
+agency sites.
+Reasons for Prioritizing Aforementioned Barriers: GSA compared its spending breakdown to
+the Federal Government as a whole and found that a significantly higher percentage of
+GSA-funded obligations went to underserved communities when compared to governmentwide
+obligations. GSA concluded it could best support advancing equity within federal contracting
+vehicles by reducing the barriers to obtaining a GSA contract and increasing the opportunity for
+success once SDBs obtain contracts.
+Discussion of Evidence: GSA analyzed small business and SDB contracting trends within the
+GSA Schedule Program and GWACs using Federal Procurement Data System, Sales Reporting
+Portal, and SAM.gov data to show where socioeconomic groups performed well or
+underperformed. The assessment provided a baseline of current GSA performance in key SDB
+measures and is helping to prioritize opportunities to improve SDB contracting performance. For
+example, the data showed: 1) SDBs account for 32% of Alliant 2 SB vendors; this supports the
+strategy for Polaris' SDB Pools¹ 2) Analysis of MAS awards revealed a relatively lower success
+1 Alliant 2. a Best-in-Class GWAC that is a preferred governmentwide solution, offers artificial intelligence, distributed
+3
+GSA
+Executive Order 13985 I
+Equity Action Plan I January 20, 2022
+rate in SDBs winning awards as compared to other SBs. From fiscal year (FY) 2018 - FY 2020,
+the number of SDB vendors with no obligations has remained consistent, averaging 50%. 3)
+Between FY 2019-FY 2020, 63% of SDBs on the Schedule program have won awards; however,
+the top 15% of SDBs received 80% of the total SDB obligations in MAS.
+B. GSA plans the following five actions to address the identified barriers:
+(1) Establish new GWACs, 8(a) STARS III and Polaris, to increase SDB representation².
+(2) Simplify the process for firms to obtain a MAS contract and improve vendor education (for
+the offer process) using human-centered design principles to create a pathway to federal
+procurement through the MAS contract vehicle. The MAS program contains unique features that
+often makes it the entry point to government procurement. SDB access to MAS enables them to
+become part of the government marketplace and participate in additional opportunities for
+government procurement. As companies grow more proficient and experienced in using MAS,
+they can prepare to compete for contract vehicles with more complex buying regulations.
+(3) Establish a robust post-award engagement strategy to help SDBs be successful in achieving
+sales through their contracts. (4) Establish a supplier diversity plan that promotes successful
+outcomes for vendors, including the strategy and criteria for regular on-ramping relative to
+GWACs and MACs. Planned on-ramping of new SDBs will enable GSA to make procurement
+opportunities available on a regularly scheduled basis to all eligible providers of goods and
+services. (5) Expand the Forecast of Contracting Opportunities Tool. GSA will improve this tool
+to make it easier for SDBs to evaluate federal marketplace opportunities to assist them in
+achieving contract sales. Further, this tool directly reduces the burden on SDBs in locating
+opportunities by simplifying the process to work with the Federal Government and potentially
+decreasing their overhead costs.
+C. GSA intends to track progress through a mix of short-, mid-, and long-term goals for
+each of the five identified actions:
+(1) Awarding the new GWACs, 8(a) STARS III and Polaris: The short-term goals are to award all
+remaining 8(a) STARS III cohorts and Polaris SB and Women-Owned SB pools in 2022, thus
+expanding SDB participation opportunities, conduct outreach to agencies on the benefits of using
+8(a) STARS III and Polaris, and develop a robust post-award engagement strategy to help SDBs be
+successful. Long-term goals are to assess the opportunity and feasibility of new socio-economic
+pools on Polaris and complete regular reviews of the program to determine the timing of on-ramps
+to infuse new capabilities onto the GWAC. (2) Simplifying the MAS solicitation process and
+ledger technology, robotic process automation, and other types of emerging technologies. It provides best-value IT
+solutions to federal agencies, while strengthening chances in federal contracting for small businesses through
+subcontracting Polaris is an IT GWAC. GSA is currently developing the Polaris GWAC.
+2 The Best-in-Class 8(a) STARS III GWAC is a small business set-aside contract that provides flexible access to
+customized IT solutions from a large, diverse pool of 8(a) industry partners
+4
+GSA
+Executive Order 13985 I
+Equity Action Plan
+|
+January 20, 2022
+improving vendor education: The short-term goals are to update the MAS Roadmap to simplify
+processes, launch the updated Vendor Support Center and baseline the saturation of SDBs in the
+MAS program by socio-economic category. Long-term goals are to reduce the complexity level of
+the MAS award process and increase the saturation of SDBs in the MAS program by
+socio-economic category and by industry. (3) Establishing a robust post-award engagement
+strategy: The short-term goals are for GSA to select a post-award engagement program manager,
+develop an enterprise-wide integrated project team, perform research on current activities, and
+develop a plan for expected enterprise-wide efforts. The plan will include establishing roles and
+responsibilities, developing efficiencies, and defining measurable outcomes to determine success.
+(4) Establishing a supplier diversity plan: Mid-term goals include increasing the number of
+contracts and subcontracts awarded to SDBs, thereby increasing the percentage of governmentwide
+contract dollars to this underserved community. Long-term goals include establishing advanced
+guidelines that promote support for supplier diversity by creating effective on-ramping acquisition
+criteria for qualified SDBs. (5) Enhancing the Forecast of Contracting Opportunities Tool: GSA
+established a short-term goal of onboarding two agencies in FY 2022 with the ultimate long-term
+goal of onboarding all 24 Chief Financial Officer Act agencies.
+Outcomes: GSA's strategies and actions will lead to a more equitable federal procurement system
+by reducing barriers to entry and improving access to the federal marketplace for SDBs. The
+benefit is that more federal contracting dollars will be available to this underserved community.
+Activities under this Plan will be reviewed on a regular basis to ensure year over year goals and
+objectives are met. This Plan supports the Administration's overall objective of increasing SDB
+spend by 50% over the next 5 years. GSA action items should yield the following measurable
+outcomes: increased number of SDBs with GSA contracts to bolster governmentwide spend and
+increased sales for a diverse group of SDBs to mitigate the risk of a small number of firms
+receiving the majority of sales.
+D. GSA will use the following strategies to maintain accountability for the five action items:
+(1) Develop agency engagement strategies, develop the post-award industry engagement strategy
+and track customer loyalty scores and industry satisfaction scores on 8(a) STARS III and Polaris.
+Both measures will be included in the FAS Senior Leadership Performance Plans. (2) This action
+aligns with the strategic plan for GSA and FAS. Progress, including updates on the MAS
+Roadmap, will be communicated through the Annual Performance Plan, FAS town halls, Interact
+publications, and speaking engagements. (3) GSA will select a post-award Engagement Strategy
+Program Manager to develop and lead the execution of the post-award Engagement Strategy Plan,
+facilitating its approval by all relevant GSA stakeholders. (4) Draft and publish a diversity plan that
+aligns with GSA's strategic plan and provide regular reporting of comparable metrics. (5) GSA
+commits to onboarding at least two agencies to the Tool this fiscal year and continues to offer
+demonstrations to agencies that would like to learn more about the benefits of onboarding to the
+5
+GSA
+Executive Order 13985 I
+Equity Action Plan
+I
+January 20, 2022
+Forecast of Contracting Opportunities Tool. In addition, GSA has committed funds to make
+enhancements for a more user-friendly interface for vendors and agencies. Annually, GSA will
+obtain feedback from the vendor community and the federal acquisition workforce on the Forecast
+of Contracting Opportunities Tool to increase its robustness and relevance.
+Advancing Equity and Diversity Through the Public Buildings Footprint
+A. GSA has identified two potential barriers to equity in the public buildings footprint:
+(1) Evidence Capacity. First, GSA has evidence gaps that impede its ability to fully assess the
+community impact of its real estate portfolio. Urban area planning consideration is specified in
+the Facilities Standards for the Public Buildings Service (PBS-P100) and those community
+considerations are included in the actual design packages. When we attempted to assess the
+degree to which inequities exist in the public buildings footprint, we identified evidence gaps
+(e.g., economical and environmental justice evidence) that could assist GSA with conducting a
+robust community impact assessment. Disrupting structural and systemic inequities requires
+quality and complete evidence,3 which GSA currently does not possess. (2) Stakeholder
+Engagements. Next, while GSA regularly engages critical stakeholders when acquiring,
+developing and disposing of property, GSA believes there are opportunities to increase and
+strengthen engagements with key stakeholders. To that end, GSA is committed to examining
+recent and past projects to determine where there are opportunities to have a more robust
+stakeholder engagement. GSA will use the information from this assessment to inform a
+stakeholder engagement and outreach strategy that is in development.
+Impacted policies and programs. Although GSA has not identified any particular policies or
+programs that create these barriers, addressing these barriers will impact key GSA strategies and
+processes, such as the Learning Agenda and Annual Evaluation Plan.
+Impacted communities. These barriers impact many of the historically, socially, and
+economically underserved communities where federal facilities are located.
+Evidence of the impact. During GSA's attempt to build a robust model to conduct community
+impact assessments, which would help GSA determine the extent to which barriers exist, GSA
+identified two key evidence gaps (e.g., economical and environmental justice evidence) that
+hindered its ability to develop the model, and subsequently, conduct a robust assessment.
+Having access to relevant community data would enable GSA to develop this model and conduct
+a reliable community impact assessment. With this assessment, GSA's Good Neighbor Program
+would then be in a position to have targeted engagements with Federal, State, local, Tribal, and
+private sector partners that would enable PBS to improve its development and disposition
+programs.
+3 Urban Institute, Principles of Evidence-based Policymaking, dated September 2016
+6
+Executive Order 13985
+GSA
+I
+Equity Action Plan
+|
+January 20, 2022
+B. GSA will take a multi-year, multi-prong approach to addressing the barriers identified in
+this Action Plan. Within 6, 12, 18, and 24 months, GSA will take the following steps to
+strengthen its evidence capacity, which will enable GSA to develop a robust community
+impact model:
+(1) Finalize an evidence needs assessment. GSA is conducting an evidence needs assessment to
+determine what, in addition to economical and environmental justice evidence, is needed to
+develop a model that will be used to conduct a robust community impact assessment; (2) Identify,
+recruit, and hire a full-time Data Scientist. In addition to identifying evidence gaps, GSA has
+identified human resource gaps, namely in data science. Therefore, together with the GSA Office
+of Human Resource Management and the Office of Evaluation Science, PBS will identify
+opportunities to leverage Office of Personnel Management's newly established Data Science
+Occupational Series to hire a full-time Data Scientist; (3) Form evidence-sharing partnerships with
+Federal agencies. PBS will partner with GSA's Office of Evaluation Sciences to identify and
+establish evidence-sharing agreements with agencies that either have on hand or plan to collect
+community data that could be used by GSA; (4) Develop a Community Impact Model. Once
+community evidence has been collected, structured, and analyzed, PBS will develop a robust
+community impact model that enables GSA to: (i) fully understand the extent to which barriers
+exist in the public buildings footprint; (ii) identify historical trends and benchmarks; and (iii)
+identify opportunities to target partnership and engagements at the Federal, State, local, Tribal, and
+private sector levels; (5) Coordinate Federal Investments within Communities. Within the next
+6-24 months, GSA will seek to partner with other landholding federal agencies and federal
+granting authorities to identify opportunities to maximize planned investments and create shared
+goals, objectives, and metrics to reduce or eliminate the barriers created on communities that host
+federal facilities; (6) Strengthen the community planning workforce. GSA is bringing increased
+focus to community engagements by elevating and expanding its Good Neighbor Program. To that
+end, GSA will explore opportunities to increase the number of full-time urban planning and design
+resources that will support the Good Neighbor Program. This investment will enable the Good
+Neighbor Program to deliver tangible benefits to communities by implementing this stakeholder
+engagement and outreach strategy, increasing urban planning technical assistance and landscape
+architecture programming, and conducting Planning and Outreach Partnership meetings; and (7)
+Strengthen engagement with State, Local and Tribal stakeholders. GSA will engage key groups
+that represent State, local, and Tribal communities to identify opportunities to reduce or eliminate
+equity barriers. GSA will target key stakeholder groups such as: National Governors Association,
+National League of Cities, National Congress of American Indians, U.S. Conference of Mayors,
+International City/County Management Association, and Local Governments for Sustainability.
+Reasoning for priorities: GSA selected these actions because they offer low cost opportunities
+that could yield maximum impact and result in meaningful reduction of barriers. Additionally,
+these actions demonstrate a commitment to advancing DEIA in GSA's development and
+disposition practices. Collectively, these actions will provide GSA the capacity to make measurable
+and sustainable improvements to significantly reduce barriers in the public buildings footprint.
+Additionally, these actions will greatly improve GSA's decision-making practices and processes by
+capturing the diverse views of the communities or those groups that represent the communities.
+C. GSA will use several methods to track progress and hold itself accountable to the
+commitments made in this Plan, including:
+7
+GSA
+Executive Order 13985 I
+Equity Action Plan I
+January 20, 2022
+(1) Assigning a lead Senior Executive Service (SES) member to oversee GSA's DEIA activity on
+behalf of the PBS Commissioner; (2) establishing a PBS DEIA Executive Council to advise the
+PBS Commissioner on opportunities to advance DEIA as outlined in various executive orders; (3)
+leveraging SES performance plans to establish critical elements and performance plan targets for
+PBS's 11 Regional Commissioners and 7 Assistant Commissioners; and (4) developing and
+deploying dashboards and tracking tools to assess progress in meeting the commitments outlined in
+this Plan.
+Advancing Equity and Accessibility in Federal Technology
+A. GSA identified two high-priority barriers that historically and socially disadvantaged
+users face when accessing digital services for government programs and benefits:
+(1) Digital services very often fail to prioritize universal design and usability beyond compliance.
+Many government applications and websites lack sufficient support to meet adequate accessibility
+standards and assistive technologies. Users who are disproportionately affected are those with
+visual, mobility, and cognitive impairments. About 3% of Americans are visually disabled
+(i.e., color-blind, low-vision, or blind) according to the 2016 American Community Survey. Often
+government applications and websites have minimal language accessibility, confusing navigation,
+and poor design practices resulting in user mistrust and frustration. Instances where user
+experiences have been disappointing or subpar have been attributed to high user stress resulting in
+reduced reading comprehension, navigation problems, and incomplete tasks. As an example
+discovered through usability testing, Login.gov learned that individuals who use screen readers
+predominantly use software known as "Job Access With Speech" or "JAWS." Yet, despite the fact
+that they use the same software, these users also tend to use the JAWS native software rather than
+relying on the browser and these users typically configure their setups to best enable them to
+navigate websites. As such, many users rely on keyboard shortcuts instead of "mousing over" web
+elements and have different user flows from those who do not rely on screen readers. (2)
+Algorithmic discrimination in adoption of facial matching, machine learning, and other emerging
+technologies. Widely adopted biometric-detection systems used to verify identity for access to
+government services often have disproportionately high false rejection rates for African
+Americans and other people of color because facial recognition and other machine learning
+technologies are trained on biased, non-exhaustive datasets. Furthermore, through our own
+testing, GSA learned that major commercial implementations of facial matching had
+disproportionately high "False Rejection Rates" for African Americans. This finding is consistent
+with research by the National Institute of Science and Technology as well as academic literature.
+The end users most overburdened by systemic gaps in data collection processes and digital
+privacy are largely also the most vulnerable Americans who need to be able to rely on equitable
+access to government digital services, programs, information, and benefits.
+4Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects, NISTIR 8280
+8
+Executive Order 13985
+GSA
+I
+Equity Action Plan
+|
+January 20, 2022
+B. GSA plans the following three actions to address the identified barriers:
+(1) Prioritize equitable design, user experience, and responsible adoption. GSA intends to expand
+stakeholder engagement and usability testing with communities that have been identified as
+historically underrepresented in the design process and are most vulnerable to negative impacts of
+inequitable delivery of federal digital services. By building relationships with organizations
+serving socially marginalized communities and offering paid research opportunities for
+participants who face systemic barriers to equitable participation in usability testing, GSA can
+help drive how government services are created with the most underserved communities' needs in
+mind. (2) Improve accessibility and performance for older devices, mobile, rural, and
+low-bandwidth users. GSA will continue to invest in government shared digital services, such as
+Login.gov, USA.gov USA.gov en Español, as well as sites built with the U.S. Web Design
+System, that allow visitors to complete their tasks regardless of internet connectivity. GSA's 18F,
+USAGov, Vote.gov, 10x, and Centers of Excellence (CoE) have already committed to
+co-designing practices with Tribal nations and Community-Based Organizations (CBO) that
+support people with disabilities. (3) Address discrimination in emerging technologies and data
+sovereignty. To provide an equitable remote identity-verification experience for a diverse
+population, GSA's Login.gov team will perform research studies on equity and bias in facial
+matching services. Further, GSA will apply an equity lens to the user guides it publishes, which
+influences governmentwide and industry best practices.
+C. GSA plans to track progress of its equity in federal technology agenda as follows:
+(1) Develop quantitative and qualitative metrics to measure customer experience. (2) Work with
+community partners to monitor experiences of customers for all a) TTS services; and b) those
+recommended or built for GSA partners. 18F, USA.gov, Vote.gov, and CoE will track the success
+of Community-Based Organizations partners to ensure a trend of improved representation in
+usability testing among research participants self-identified as being from underserved
+communities. User research is often an extractive process where communities are mined for
+value, with little value returned. GSA will work as community advocates to treat our research
+participants as voices of the community, not only research subjects. We will track the number of
+people who decline to participate-and reasons-to support process and policy changes that will
+help build trust with and provide value for communities that have been historically harmed by
+government policies. (3) GSA teams will perform accessibility assessments following
+industry-approved standards, run usability tests and user interviews to measure and improve task
+completion rates, and page load times for low- and limited-bandwidth connections to prioritize
+work to improve the usability of government websites. GSA will use a baseline level of skills for
+conducting research so as not to do harm to the public, specifically marginalized communities. In
+addition, GSA will share research insights across the agency to make sure we are not re-asking
+the same questions and possibly re-triggering research participants.
+In the next year, we will be building up our research operations practices and relationships with
+organizations that serve communities going through the major life experiences, including working
+with new and expecting parents, Tribal communities, and other life experiences and priorities
+identified in the "Executive Order on Transforming Federal Customer Experience and Service
+Delivery to Rebuild Trust in Government" (E.O. 14058) as well as the President's Management
+9
+GSA
+Executive Order 13985 I
+Equity Action Plan
+I
+January 20, 2022
+Agenda. Over the next two to four years, we will be building relationships that cover all the
+platforms and services that TTS owns. Our long-term goal is that all federal websites and services
+are accessible, understandable, and easy-to-use regardless of race, ability, or comfort with
+technology. By working with Tribal nations and Community-Based Organizations, we will be
+able to build long-term relationships with communities and individuals to track directly how well
+services work and are serving the public's needs over time.
+D. GSA will use the following strategies to maintain accountability:
+(1) Transparency, reporting, and feedback. In partnering with Tribal nations and
+Community-Based Organizations, GSA will engage research participants in our research
+synthesis. Our long-term goal is to work with end users and community partners to build digital
+services that meet their needs as they move through different stages of their life, rather than
+systems built just for individual tasks. (2) GSA uses platforms such as Digital.gov and other
+TTS blogs to regularly publish what we learn and how that information will shape the direction
+of our programs and services. (3) When applicable, GSA will also partner with third-party
+experts to prepare and publish regular performance reports and best practices for implementing
+emerging technologies in an equitable and accessible way. We will not deploy facial recognition,
+liveness detection, or any other emerging technology into production environments until
+rigorous review has given us confidence that they can be implemented equitably and without
+causing disproportionate harm to vulnerable populations.
+While it takes time to build trust with communities that have historically faced institutional
+discrimination and harm, the feedback and guidance that can only come from long-term
+partnerships with communities will create a trust that federal technology services are not only
+accessible, but delivered equitably.
+Advancing Civil Rights Actions Across the Agency
+GSA's Office of Civil Rights administers GSA's Nondiscrimination in Federally Assisted Programs
+and Federally Conducted Programs to ensure compliance with federal civil rights laws, regulations
+and executive orders that prohibit discrimination on the bases of race, color, national origin, sex,
+disability, or age by recipients of federal financial assistance and in federally conducted programs
+and activities.
+A. Civil rights and equity in GSA federally assisted programs
+GSA administers a civil rights compliance program for one of GSA's major federal financial
+assistance programs, the Federal Surplus Personal Property Donation Program. The donation
+program is administered in each of the 56 States and territories by a State Agency for Surplus
+Property (SASP). In addition, State agencies, cities, local governments, and non-profit
+organizations for the purposes of public health or education or services to veterans may obtain
+federal surplus personal property through the donation program. Examples of donees that receive
+the property include, but are not limited to, State prisons, State highway or public health
+departments, county or city law enforcement departments, public works departments, and homeless
+shelters or food banks. The SASPs, as well as the public entities and organizations that receive the
+10
+GSA
+Executive Order 13985 I Equity Action Plan | January 20, 2022
+federal surplus personal property through the SASPs, are required to comply with federal civil
+rights laws.
+During FY 2022 to FY 2026, GSA will focus its civil rights compliance efforts as follows:
+GSA will conduct civil rights compliance reviews of the 56 SASPs, with a target of
+reviewing 14 SASPs each fiscal year. These reviews will focus on verifying that methods
+of administration are in place to provide for the fair and equitable donation of federal
+surplus personal property to eligible underserved communities and eligible non-profit
+organizations. Methods reviewed will include (1) assessment of the SASPs' outreach
+programs and activities to underserved communities; (2) a survey of the SASPs' facilities
+and programs to verify that they are accessible to individuals with disabilities; and (3) a
+review of the SASPs' procedures to verify meaningful access for individuals with limited
+English proficiency.
+GSA will also conduct civil rights compliance reviews of the largest recipients of federal
+surplus personal property to verify their programs and activities are similarly accessible to
+the public they serve.
+Each fiscal year, GSA will develop and deliver civil rights training to the SASPs and
+recipients being reviewed. The training will highlight the SASPs' statutory civil rights
+responsibilities and their alignment with this Administration's commitment to equity and
+environmental justice.
+Each fiscal year, GSA will partner with five SASPs to develop and launch a robust
+stakeholder engagement plan that promotes the benefits of the donation program to five
+underserved communities.
+B. Civil rights and equity in GSA-conducted programs and activities
+GSA conducts programs and activities that interact with members of the public, small businesses,
+employees of occupant agencies, and communities. In FY 2022, GSA will prioritize the following
+actions:
+GSA will reassess and update GSA's Language Access Plan to afford meaningful access for
+individuals with limited English proficiency to GSA's programs and activities, in alignment
+with recent executive orders focusing on equity, environmental justice and climate.
+GSA will collaborate with GSA's program staff to develop and implement GSA's new
+five-year Environmental Justice Strategy that advances environmental justice in alignment
+with the executive orders mentioned above.
+GSA will develop and launch employee training that addresses equity and environmental
+justice at GSA. The training will highlight the work that GSA accomplishes and its
+relationship to civil rights, the principles of equity and environmental justice. This training
+will be offered on a quarterly basis each fiscal year.
+GSA's environmental justice working group will review and evaluate GSA's policies,
+procedures and practices in procurement, real property, personal property, services, and
+supplies to integrate civil rights and environmental justice principles consistent with the
+executive orders and GSA's Climate Risk Management Plan. Recommendations for any
+changes will be made to the appropriate lead organization.
+11

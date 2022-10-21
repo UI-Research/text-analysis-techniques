@@ -1,0 +1,1587 @@
+CAPACITY
+ASSESSMENT
+USDA
+U.S. Department of
+Agriculture
+U.S. Department of Agriculture - Capacity Assessment
+Table of Contents
+Introduction
+1
+Stakeholder Engagement
+1
+Capacity Assessment Structure
+2
+Concepts and Principles
+2
+Capacity Assessment Findings
+4
+Research
+6
+Evaluation
+8
+Statistics
+10
+Other Analysis
+13
+Capacity Assessment Inventory
+15
+Acronyms and Abbreviations
+26
+i
+U.S. Department of Agriculture - Capacity Assessment
+Introduction
+Under the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act), USDA is
+required to conduct a Capacity Assessment of the coverage, quality, methods, effectiveness, and
+independence of the Department's evaluation, research, statistics, and analysis functions. The
+Capacity Assessment is intended to establish a baseline of existing evidence-building capacity,
+identify gaps, and recommend areas for improvement to strengthen USDA's ability to build and use
+evidence to inform decision-making. USDA will also use the Capacity Assessment to determine
+priority areas in which evidence should be bolstered to inform future budget requests.
+Stakeholder Engagement
+Throughout FY 2021, OBPA conducted a
+number of stakeholder engagement activities
+to inform the development of the Capacity
+Assessment. USDA's internal stakeholders
+STRATEGIC
+were organized into the following standard
+DIRECTION
+USDA Leadership
+hierarchy to ensure that all levels were
+appropriately engaged and to provide clarity
+around roles and responsibilities:
+DEPARTMENTAL
+OPERATIONS
+Strategic Direction: Responsible for setting
+Staff Offices
+the Department's strategic direction
+(Secretary, Deputy Secretary, and Sub-
+Cabinet officials);
+MISSION DELIVERY AND PERFORMANCE
+Mission Areas and Agencies
+Departmental Operations: Responsible for
+supporting strategic implementation
+Deliver benefits and services
+efforts in alignment with the Department's
+strategic goals and objectives (staff offices such as OBPA, Human Resources, Office of the Chief
+Information Officer, etc.); and
+Mission Delivery and Performance: Responsible for aligning agency strategic directions and
+resources with the Department-wide strategic directions and for delivering statutorily required
+missions, functions, programs, projects, etc. (all USDA Mission Areas and Agencies).
+OBPA convened the Evidence Act Working Group (EAWG) to collaborate on the Capacity
+Assessment and other Evidence Act deliverables. The EAWG was a cross-functional team that
+included representation from across USDA Mission Areas and Agencies and served as the conduit
+between OBPA and Mission Area and Agency leadership. OBPA regularly engaged with the EAWG
+through a series of interactive workshops to appropriately scope the Capacity Assessment and
+solicit feedback on draft materials.
+In addition to coordination with the EAWG, OBPA conducted a number of interviews with USDA
+senior leaders with subject matter expertise in statistics, evaluation, research, and data.
+Interviewees included the Chief Evaluation Officer, Chief Data Officer, Statistical Official, and
+Deputy Chief Economist. These leaders were asked to provide their insights on USDA's current
+evidence-building capacity, including where in the Department evidence building practices are
+strongest, what areas would most benefit from strengthening evidence-building capacity, and
+which specific programs require additional investment to fill existing evidence gaps. OBPA then
+conducted additional interviews with Agency-level Assistant Evaluation Officers, members of the
+EAWG, and other experts in evidence functions to supplement this information.
+1
+U.S. Department of Agriculture - Capacity Assessment
+Capacity Assessment Structure
+In accordance with the Evidence Act and relevant guidance from the Office of Management and
+Budget (OMB), the Capacity Assessment Findings section of this document covers:
+The extent to which the evaluations, research, and analysis efforts and related activities of
+the Department support the needs of various divisions within the Department;
+The extent to which the evaluations, research, and analysis efforts and related activities of
+the Department achieve an appropriate balance between needs related to organizational
+learning, ongoing program management, performance management, strategic
+management, interagency and private sector coordination, internal and external oversight,
+and accountability;
+The extent to which the Department uses methods and combinations of methods that are
+appropriate to Departmental divisions and the corresponding research questions being
+addressed, including an appropriate combination of formative and summative evaluation,
+research, and analysis approaches;
+The extent to which the evaluation and research capacity is present within the Department
+to include personnel and agency processes for planning and implementing evaluation
+activities, disseminating best practices and findings, and incorporating employee views and
+feedback; and
+The extent to which the Department has the capacity to assist Departmental staff and
+program offices to develop the capacity to use evaluation research and analysis approaches
+and data in the day-to-day operations.
+The Capacity Assessment Inventory section contains a list of the highest-priority activities and
+operations of the Department that are currently being evaluated and analyzed, as identified by the
+Mission Areas and Agencies.
+For the purposes of this inaugural Capacity Assessment, OBPA focused its efforts on establishing a
+baseline understanding of how well the Department is positioned to create and leverage evidence
+to support strategic decisions (i.e., how the Department meets its mission(s), including how
+programs, policies, and regulations function both individually and in combination) over operational
+decisions (i.e., human resources, grant-making procedures, financial systems and tracking, and
+internal processes).
+Concepts and Principles
+In its Memorandum M-19-23, OMB directs agencies to assess their evidence activities across five
+dimensions: coverage, quality, methods, effectiveness, and independence. For the purpose of the
+Capacity Assessment, USDA used the following definitions for these dimensions, which are adapted
+from OMB Circular A-11 Section 290: Evaluation and Evidence-Building Activities:
+Coverage: Describes the evidence activities that are happening and where in the
+Department the activities are occurring.
+Quality: Describes the extent to which data and other information used in the course of
+conducting evidence activities are of high quality with respect to utility, objectivity, and
+scientific integrity.
+2
+U.S. Department of Agriculture - Capacity Assessment
+Methods: Describes the techniques, systems, and processes used in evidence generation.
+Methods may vary by evidence type; however, all methodologies should include an
+appropriate level of rigor and take an empirically proven approach.
+Effectiveness: Describes the extent to which evidence activities are meeting their intended
+outcomes, including serving the needs of stakeholders and being disseminated
+appropriately.
+Independence: Describes the extent to which the activities being carried out are free from
+bias and inappropriate influence.
+3
+U.S. Department of Agriculture - Capacity Assessment
+Capacity Assessment Findings
+In conducting the Capacity Assessment, OBPA identified 12 recommendations for strengthening
+evidence-building capacity in research, evaluation, statistics, and other forms of analysis. These
+recommendations, if implemented, would serve to improve the coverage, quality, methods,
+effectiveness, and independence of USDA's evidence functions. In the near term, USDA's Evidence
+Act Designated Officials will work to prioritize these recommendations for implementation based
+on leadership priorities and resource availability.
+RESEARCH
+Consideration
+Coverage
+Quality
+Methods
+Effectiveness
+Independence
+Build cross-cutting research
+partnerships
+Improve employee training on
+and awareness of research tools
+and information
+EVALUATION
+Consideration
+Coverage
+Quality
+Methods
+Effectiveness
+Independence
+Stand up a centralized evaluation
+office or offices
+Incorporate evaluation into
+program design
+Ensure adherence to the USDA
+Evaluation Policy
+Foster an organizational culture
+that values evaluation
+STATISTICS
+Consideration
+Coverage
+Quality
+Methods
+Effectiveness
+Independence
+Streamline data collection
+methods and reduce burden on
+customers
+Increase programming language
+v
+proficiency among statisticians
+Centralize information
+technology structures to improve
+v
+data access
+Foster a collaborative learning
+v
+v
+v
+environment for statistical staff
+4
+U.S. Department of Agriculture - Capacity Assessment
+OTHER ANALYSIS
+Consideration
+Coverage
+Quality
+Methods
+Effectiveness
+Independence
+Strengthen the use of
+performance data in decision-
+making
+Leverage the Data Science
+Workbench to improve analytical
+functions
+The findings below are intended to move USDA to a higher level of maturity with respect to its
+evidence-building activities. The dimension(s) of evidence - coverage, quality, methods,
+effectiveness, and independence - that the recommendations could improve if implemented are
+noted throughout the document. The Evidence Act Designated Officials may consider using the
+Capacity Assessment results to guide resource allocations to strengthen capacity in the most
+critical areas of need. Through these efforts, USDA can take steps towards improving and
+enhancing its evidence-building activities, increasing stakeholder buy-in and understanding of the
+benefits of evidence for strategic decision-making, and facilitating a robust learning culture
+Department-wide.
+5
+U.S. Department of Agriculture - Capacity Assessment
+Research
+The Office of the Chief Scientist provides leadership and coordination to ensure that research
+supported by and scientific advice provided to the Department and external stakeholders is held to
+the highest standards of intellectual rigor and scientific integrity. The Office of the Chief Scientist
+strives to inform policy and programmatic decisions within the Department by providing the best
+available scientific advice and input; establishing appropriate linkages between USDA and other
+scientific organizations in government (U.S. and abroad), academia, and industry; and ensuring the
+dissemination of scientific research and science performed by the Department to policy makers and
+decision leaders across the spectrum of policymaking Nationally and internationally.
+The Research, Education, and Economics Mission Area is dedicated to creating a safe, sustainable,
+competitive U.S. food and fiber system, as well as building strong communities, families, and youth
+through integrated research, analysis, and education. It is the home to USDA leadership responsible
+for advancing scientific knowledge related to agriculture through credible scientific research,
+economic data, statistical analysis, and scientific guidance. Of the five Agencies under this Mission
+Area, four are primarily responsible for research activities, described below:
+The Agricultural Research Service is USDA's chief scientific in-house research Agency. It has
+a workforce of approximately 8,000 employees, including 2,000 scientists and post-
+doctoral fellows in more than 90 research locations. The Agricultural Research Service's
+research mission is to find solutions to agricultural problems that affect Americans every
+day from field to table and includes about 660 research projects within 15 National
+programs. The primary research focus areas of the Agency include animal production and
+protection; crop production and protection; natural resources and sustainable agricultural
+systems; and nutrition, food safety, and quality. The Agency produces an annual Report on
+Science, a compendium of research accomplishments over the previous year that
+demonstrate the Agency's impact on the food we eat, the water we drink, and the air we
+breathe. The Agency positions itself strategically to address agricultural challenges by
+gathering input from customers and stakeholders and conducting research that addresses
+programmatic research goals throughout five-year cycles. The 2020 Annual Report on
+Science can be found here.
+The National Institute of Food and Agriculture is USDA's primary extramural research,
+education, and extension Agency, providing leadership and funding for programs that
+advance agriculture-related sciences. The Agency invests in and supports initiatives that
+ensure the long-term viability of agriculture and applies an integrated approach to ensuring
+that groundbreaking discoveries in agriculture-related sciences and technologies reach the
+people who can put them into practice. Through partnerships with the Land-Grant
+University System and government, private, and non-profit organizations, National
+Institute of Food and Agriculture programs can provide solutions to those who need them.
+The Economic Research Service (ERS) anticipates trends and emerging issues in agriculture,
+food, the environment, and rural America and conducts economic research to inform public
+and private decision-making. ERS provides statistics on food security, farm income, and
+agricultural productivity and contributes to the work of USDA's World Agricultural Outlook
+Board.
+The National Agricultural Statistics Service (NASS) is responsible for ensuring the quality,
+objectivity, and transparency of the statistical information and analysis provided by the REE
+6
+U.S. Department of Agriculture - Capacity Assessment
+Mission Area. NASS and ERS are USDA's two federal statistic agencies responsible for this
+effort.
+USDA has additional research authorities in divisions of the Food Safety and Inspection Service,
+Natural Resources Conservation Service, Food and Nutrition Service, and Animal and Plant Health
+Inspection Service, and Marketing and Regulatory Programs. These researchers contribute
+funding, human capital, and collaborative expertise to USDA science efforts.
+CONSIDERATIONS FOR BUILDING RESEARCH CAPACITY
+USDA has identified several recommendations to strengthen research functions to support
+evidence-based decision-making:
+Build cross-cutting research partnerships: Mission Areas and Agencies may consider
+building relationships across the Department to facilitate collaborative and cross-cutting
+research efforts. In particular, USDA could prioritize new research partnerships or building
+on existing efforts that focus on supporting the priorities of the Secretary and the
+Administration, such as advancing equity, climate, and customer experience.
+If implemented, this recommendation would improve the coverage and effectiveness of USDA's
+research functions.
+Improve employee training on and awareness of research tools and information: Results
+from the 2020 Federal Managers Survey: Results on Government Performance and
+Management Issues from the Government Accountability Office (GAO) showed that USDA
+has opportunities to improve the research-related capabilities of its program-level staff in a
+number of dimensions including increasing employee awareness of research tools and
+information; strengthening program staff knowledge and skills needed to collect and
+analyze information for research; and facilitating access to research performed by external
+partners such as other Federal agencies, academic researchers, and think tanks.
+If implemented, this recommendation would improve the quality of USDA's research functions.
+7
+U.S. Department of Agriculture - Capacity Assessment
+Evaluation
+USDA engages in a range of evaluation activities to support operational effectiveness, rulemaking,
+and decision-making. As USDA does not have a centralized evaluation office, most evaluation
+activities are planned and conducted on an individual basis by Mission Areas and Agencies
+according to their established planning processes. Through data calls related to the Department's
+FY 2023 Evaluation Plan and budget submission, as well as stakeholder interviews, OBPA
+determined that many Mission Areas and Agencies have an opportunity to improve their capacity
+for conducting high-quality and rigorous program evaluations. The list below reflects the Mission
+Areas and Agencies whose evaluation work is reflected in the USDA Learning Agenda and FY 2023
+Evaluation Plan (note that it is not a comprehensive listing of all evaluation work across USDA):
+The Food and Nutrition Service within the Food, Nutrition, and Consumer Services Mission
+Area conducts a variety of studies, evaluations, and related activities that respond to the
+needs of policymakers and managers and help ensure that nutrition assistance programs
+achieve their goals effectively. The Office of Policy Support leads the development and
+execution of FNS's Research and Evaluation Plan (the Agency's FY 2021 Research and
+Evaluation Plan can be found here).
+Rural Development has a robust evaluation function that focuses on the impact of programs
+to improve the economy and quality of life in rural America. Many ongoing evaluations focus
+on building infrastructure (e.g., Community Facilities, broadband) and providing clean
+water, as well as ensuring equitable program access for historically disadvantaged and
+underserved communities.
+A selection of the Department's program evaluation activities is documented in its Annual
+Evaluation Plan, which describes the significant evaluations USDA plans to undertake in the coming
+fiscal year. The FY 2022 Evaluation Plan can be found here.
+CONSIDERATIONS FOR BUILDING EVALUATION CAPACITY
+USDA has identified several recommendations to strengthen evaluation functions to support
+evidence-based decision-making:
+Stand up a centralized evaluation office or offices: Mission Areas and Agencies, especially
+those whose evaluation capacity is less mature, could benefit from having an independent
+evaluation office to assist with evaluation planning, design and implementation. Such an
+office could be situated under a staff office such as OBPA, Office of the Chief Economist
+(OCE), or the Office of the Chief Scientist and support the evaluation needs of the
+Department enterprise-wide; alternatively, multiple offices could be established at the
+Mission Area and Agency level. By centralizing the planning and management of evaluations
+under one entity, the Department could maximize efficient use of its resources and support
+the lower-maturity Mission Areas and Agencies in improving their evaluation capacity.
+If
+implemented, this recommendation would improve the coverage, quality, methods,
+effectiveness, and independence of USDA's evaluation functions.
+Incorporate evaluation into program design: When designing a new program or modifying
+an existing one, program managers should consider future data collection needs for
+conducting evaluations. Further, program managers and staff could use logic models to
+articulate the intended outcomes and impact of programs and strengthen overall program
+8
+U.S. Department of Agriculture - Capacity Assessment
+readiness for evaluation. Developing or describing the theory of change can also be helpful
+for identifying data and evidence needs.
+The Department may also consider building provisions into its grant programs that require
+grantees conduct evaluations t or access to data so that evaluations may be conducted by a
+third party. This approach could help USDA embed institutional learning into program
+design and development and would likely require additional resources (e.g., staff, training,
+funding) to implement.
+If implemented, this recommendation would improve the coverage, quality, and effectiveness of
+USDA's evaluation functions.
+Ensure adherence to the USDA Evaluation Policy: The USDA Evaluation Policy establishes
+best practices and requirements for all evaluations conducted across the Department. It
+gives USDA employees, partners, and stakeholders a common framework for conducting
+evaluations and defines the core standards and principles by which evaluators must abide.
+Mission Areas and Agencies should identify opportunities to align internal policies and
+procedures to the Department-wide Evaluation Policy and educate staff on how to
+implement the policy as needed.
+If implemented, this recommendation would improve the quality, methods, effectiveness, and
+independence of USDA's evaluation functions.
+Foster an organizational culture that values evaluation: Evaluation is often misunderstood
+as a mechanism for highlighting inefficiencies or performance issues within programs. The
+GAO 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues indicated that USDA could expand opportunities for program managers to participate
+in evaluation training. Increased education and training on a variety of topics such as the
+benefits of evaluation for improving program outcomes, using evaluation to inform
+decision-making, and generating and using data for evaluations could facilitate a shift
+toward a learning-positive culture among program staff and managers. This cultural
+transformation can be supported by Agency and Departmental leadership championing
+efforts to strengthen evaluation capacity and exemplifying a commitment to building and
+using evidence in their decision-making.
+If implemented, this recommendation would improve the coverage quality, methods, effectiveness,
+and independence of USDA's evaluation functions.
+9
+U.S. Department of Agriculture - Capacity Assessment
+Statistics
+USDA's statistical capabilities primarily reside in four agencies: NASS, ERS, the Foreign Agricultural
+Service (FAS), and the Agricultural Marketing Service. Collectively, these four Agencies contribute
+to the USDA Economics, Statistics, and Marketing Information System, which contains more than
+2,100 publications on international agriculture and related topics.
+NASS and ERS are two of the thirteen Federal statistical Agencies which collect, analyze, and
+disseminate statistical information. Under OMB Statistical Policy Directives, these Agencies are
+responsible for the quality, objectivity, and transparency of statistical information and analysis.
+NASS is the primary statistical Agency for USDA and conducts hundreds of surveys every year and
+prepares reports covering virtually every aspect of U.S. agriculture. Production and supplies of food
+and fiber, prices paid and received by farmers, farm labor and wages, farm finances, chemical use,
+and changes in the demographics of U.S. producers are only a few examples. NASS is committed to
+providing timely, accurate, and useful statistics in service to U.S. agriculture by:
+Reporting the facts needed by people working in and depending on American agriculture;
+Providing objective and unbiased statistics on a preannounced schedule that is fair and
+impartial to all market participants;
+Conducting the Census of Agriculture every five years, providing the only source of
+consistent, comparable, and detailed agricultural data for every county in America;
+Serving the needs of data users and customers through a network of State field offices and
+cooperative relationships with universities and State Departments of Agriculture; and
+Safeguarding the privacy of farmers, ranchers, and other data providers, with a focus on
+confidentiality and data security.
+ERS conducts statistical analyses that inform and enhance public and private decision-making on
+economic and policy issues related to agriculture, food, the environment, and rural America. To
+accomplish this mission, ERS economists and social scientists develop and disseminate a broad
+range of science-based economic and statistical information to the public. The suite of ERS data and
+statistical products encompasses estimates, forecasts, economic and statistical indicators, and data
+compiled from diverse sources where ERS adds value in the form of recompilation and/or subject
+matter expertise. ERS disseminates its information to key stakeholders and the public through an
+array of outlets, including the ERS website. ERS' policies and procedures for publishing research and
+data, designed to ensure that the Agency provides high quality and objective analysis, include:
+Data Product Quality: ERS ensures that quality standards are embedded in data products for
+purpose, utility, objectivity, transparency, integrity, and accessibility;
+Error Correction: In the event that a substantive error is detected in a disseminated
+information product, ERS will make a correction; and
+Scientific Integrity: ERS is committed to upholding the protections and responsibilities
+outlined in USDA's Scientific Integrity Policy, which protects scientific findings from
+suppression or alteration and ensures the quality and accuracy of data and analysis.
+FAS has a global network of nearly 100 offices covering approximately 180 countries. These offices
+are staffed by agricultural attachés and locally hired agricultural experts who are the eyes, ears, and
+voices of U.S. agriculture around the world. FAS' network of global contacts and long-standing
+relationships with international groups contribute to the Agency's unique market intelligence
+capacity. FAS analysts provide objective intelligence on foreign market conditions, prepare
+10
+U.S. Department of Agriculture - Capacity Assessment
+production forecasts, assess export opportunities, and track changes in policies affecting U.S.
+agricultural exports and imports.
+The Agricultural Marketing Service produces a variety of statistical reports on topics including
+organic foods; cotton and tobacco; dairy and milk products; fruits, vegetables, and specialty crops;
+livestock, meats, poultry, eggs, grain, and hay; organic; and local and regional foods. The Agency also
+maintains several National and program-level databases.
+CONSIDERATIONS FOR BUILDING STATISTICAL CAPACITY
+USDA has identified several recommendations to strengthen statistical functions to support
+evidence-based decision-making:
+Streamline data collection methods and reduce burden on customers: The USDA Data
+Strategy for FY 2021 - 2023 notes that data are often collected manually from the
+Department's customers, such as farmers and ranchers, through surveys and other
+resource-intensive methods. The Department has already undertaken efforts to reduce the
+burden of the data collection process, such as the development of a tool by NASS that will
+leverage multiple data sources and integrate existing systems to reduce process steps and
+timelines for data collection and reporting. USDA may consider identifying additional
+opportunities to ensure that data can be gathered once and shared accordingly to provide
+accurate information back to customers in a more expeditious and meaningful manner.
+If implemented, this recommendation would improve the methods of USDA's statistical functions.
+Increase programming language proficiency among statisticians: The USDA Office of the
+Chief Data Officer recently conducted a data skills assessment and associated gap analysis,
+surveying more than 1,200 employees across the Department to identify gaps in data skills
+and management. The need for programming language proficiency was identified as the
+second-most critical skill for Departmental staff. As the Department continues to adopt
+open-source tools, statisticians will increasingly require skills in statistical languages such
+as Python and R to meet the demand for statistical products from USDA and its customers.
+One Mission Area has procured licenses for an asynchronous training software tool that can
+tailor Python and R trainings to analysts' current knowledge, experience, and interest in
+programming languages. Expanding on such initiatives to broaden programming language
+expertise will enable USDA to conduct more effective and efficient statistical analyses.
+If implemented, this recommendation would improve the quality and methods of USDA's statistical
+functions.
+Centralize information technology structures to improve data access: According to the
+data skills gap analysis referenced above, the management of IT processes has been
+historically decentralized at USDA, which has created siloed legacy systems and
+technologies that impede data access and degrade data quality. Manual workarounds are
+often used to compensate for limitations in the existing legacy applications, increasing the
+need for historic program knowledge across staff. Such issues can limit staff's ability to
+respond quickly to emerging issues or perform robust statistical analysis, due to the amount
+of time spent mitigating data access challenges. USDA will consider bolstering ongoing
+efforts to make data more accessible, available, and usable in the Enterprise Data Analytics
+Platform and Toolset and other central platforms to eliminate data siloes and facilitate more
+efficient statistical activities.
+11
+U.S. Department of Agriculture - Capacity Assessment
+If implemented, this recommendation would improve the quality and methods of USDA's statistical
+functions.
+Foster a collaborative learning environment for statistical staff: The NASS Human Capital
+Plan notes that employees have expressed a desire for non-classroom development and
+increased collaboration across NASS to learn from one another. USDA has established two
+communities of practice, the Advanced Analytics Community of Practice and the Data
+Visualization Community of Practice, to raise the collective awareness and knowledge
+levels of staff. Continuing to provide opportunities to share best practices, challenges, and
+successes related to statistical analysis could be an effective way to improve skill
+development across NASS and other USDA agencies.
+If implemented, this recommendation would improve the coverage, quality, methods,
+effectiveness, and independence of USDA's statistical functions.
+12
+U.S. Department of Agriculture - Capacity Assessment
+Other Analysis
+The OCE is the focal point for economic and policy-related research and analysis for USDA. OCE
+aims to inform public and private decision makers by providing unbiased information and data-
+driven analyses of current and emerging issues impacting agriculture. OCE comprises five sub-
+offices, four of which serve various roles related to economic and policy analysis, such as economic
+intelligence and the commodity outlook for U.S. and world agriculture; weather assessments and
+real-time yield intelligence; risk assessments and cost-benefit analysis of regulations; development
+and coordination of USDA policy on pest management; and assessments on energy, environmental
+markets, and climate change.
+The OCE Immediate Office conducts economic and policy analysis and advises the
+Secretary on the economic impacts of market developments, program changes, legislative
+proposals, key U.S. trade initiatives, and agricultural labor issues. Immediate Office staff
+also coordinate sustainable development and Food Loss and Waste activities of the
+Department. OCE economists within the Office support USDA policy decision-making by
+analyzing the impact of proposals and coordinating a response among USDA Agencies.
+Requests for analyses related to proposed changes in USDA programs, policies, and
+legislation come from the Secretary, other Administration officials, and members of
+Congress.
+The Office of Risk Assessment and Cost-Benefit Analysis reviews major regulations
+proposed by USDA to ensure that they are based on sound scientific and economic analysis.
+The Office also sponsors the Science, Policy, and Risk Forum, a series of four or more annual
+seminars that feature prominent speakers on risk assessment and the intersection of risk
+assessment and economic analysis to build capacity in risk analysis. The seminars address
+emerging issues in risk assessment or economic analysis, new methodological techniques,
+or other special topics of interest. The Office also occasionally hosts full- or half-day
+workshops on topics such as cost-benefit analysis.
+The Office of Pest Management Policy develops and coordinates USDA policy on pesticides,
+biotechnology, integrated pest management, and related topics. Specifically, the Office
+provides the Environmental Protection Agency and other Federal agencies with the most
+accurate data available to help assure that pesticide regulatory decisions are based on
+modern, realistic agricultural practices; reviews and responds to proposed pesticide risk
+mitigation strategies; conducts surveys and analyzes available data to answer pest
+management-related research questions; and communicates with stakeholder groups
+regarding pest management-related regulatory decisions and policies.
+The Office of Energy and Environmental Policy serves as a focal point for the Department's
+energy, environmental markets, and climate change activities, conducting analyses and
+assessments to ensure that USDA and the people we serve are positioned to meet future
+challenges and opportunities. The Office coordinates policy analysis, long-range planning,
+research priority-setting and response strategies for addressing energy development and
+environmental policy.
+The Farm Service Agency within the Farm Production and Conservation Mission Area
+manages the Farm Loan Program Risk Assessment, the primary tool that USDA uses for
+ongoing review and oversight of field office farm loan program operations. This assessment
+examines the Farm Loan Programs using a data-driven, risk-based approach and provides
+the framework for assessing program management and oversight of State Offices and
+program delivery by Service Centers. The Federal crop insurance program is also
+13
+U.S. Department of Agriculture - Capacity Assessment
+periodically evaluated and adjustments are made based upon evidence from these
+evaluations.
+CONSIDERATIONS FOR BUILDING ANALYTICAL CAPACITY
+USDA has identified several recommendations to strengthen analytical functions to support
+evidence-based decision-making:
+Strengthen the use of performance data in decision-making: The FY 2020 Management
+Challenges report included a challenge related to strengthening program performance and
+performance measures, noting that "agencies do not always have adequate reviews or
+controls in place to supply the metrics necessary to [assess] programs." This challenge was
+echoed in the GAO 2020 Federal Managers Survey: Results on Government Performance and
+Management Issues, in which USDA scored significantly lower than the government-wide
+average in a number of categories related to performance measurement, including using
+performance information to identify problems, understanding measure definitions, and
+communicating performance information. USDA may consider expanding its efforts to
+integrate performance information into analytical functions to support decision-making.
+If implemented, this recommendation would improve the effectiveness of USDA's other analytical
+functions.
+Leverage the Data Science Workbench to improve analytical functions: USDA is in the
+process of launching a Data Science Workbench that provides an expandable suite of tools
+for performing analytics and data science processing (e.g., Python, ESRI, etc.), enabling
+Agencies to perform complex analytics in a scalable cloud environment. The Workbench
+allows users from across the Department to harness data from disparate sources to address
+questions on program performance, evaluation, and research, improving business outcomes
+and decision-making. The Workbench offers easy, widespread access to standardized tools
+in an expandable suite, facilitates learning and adoption of analytics practices, and
+empowers leaders and employees across USDA to make data-driven decisions.
+If implemented, this recommendation would improve the quality and methods of USDA's other
+analytical functions.
+14
+U.S. Department of Agriculture - Capacity Assessment
+Capacity Assessment Inventory
+OBPA
+developed the Interim Capacity Assessment in the fall of 2020 using a survey and Capacity Assessment template with criteria
+outlined in OMB guidance and best practices from other Federal agencies. In collaboration with the Mission Areas and Agencies, OBPA
+conducted a Department-wide assessment that consisted of three components:
+Evidence Inventory: Comprehensive collection of all evidence-building activities broken down by type of evidence
+(policy
+analysis,
+program evaluation, foundational fact-finding, performance measurement, and other), alignment to USDA FY 2018 - 2022
+strategic goals, and audience;
+Resources: Number of full-time employees and funding invested in evidence-building activities; and
+Evidence Maturity Model: Mission Areas' assessment of their level of maturity in evidence-building activities based
+on
+an
+evidence
+maturity model adapted from the U.S. Department of Health and Human Services.
+The findings of the Interim Capacity Assessment indicated that the Department is currently operating at a low level of maturity on most
+dimensions. This score was consistent with the results of the recent GAO 2020 Federal Managers Survey: Results on Government Performance
+and Management Issues, in which USDA scored lower than the government-wide average for "evidence-building capacity and actions to
+enhance it.'
+In
+preparing the final iteration of the Capacity Assessment, OBPA determined that this prior methodology for building an evidence
+inventory was highly resource-intensive and did not necessarily result in meaningful data that could be effectively
+leveraged
+by
+USDA
+staff. For example, Agencies under the Research, Education, and Economics Mission Area required multiple months
+to
+compile
+hundreds
+of data points that captured all ongoing studies and analyses. Furthermore, it was unclear how the aggregated data from
+across
+the
+Department could be utilized, if at all, by Mission Areas and Agencies.
+In order to make the list of activities (e.g., programs, initiatives, etc.) and operations (e.g., administrative and support tasks) being analyzed
+and evaluated across USDA as useful and relevant as possible, OBPA focused the scope of the inventory to those activities that align to
+the FY 2022 - 2026 Strategic Plan. OBPA collaborated with responsible offices and programs to document the
+current
+evidence
+base,
+including ongoing studies and analyses, supporting each strategic objective. The purpose of this approach was to ensure that the inventory
+provided practical, applicable information to the Mission Areas and Agencies that improves evidence-building capacity and supports
+implementation of the USDA Strategic Plan over the next four years. As such, the inventory may be revisited on an annual basis or other
+regular cadence and updated as needed to reflect the ongoing evidence activities associated with the implementation strategies in
+support of the Department's strategic goals and objectives. This inventory is not comprehensive of all ongoing evaluations and analyses
+but represents the highest-priority or most critical activities as identified by Mission Area and Agency leadership.
+15
+U.S. Department of Agriculture - Capacity Assessment
+Agency
+Activity or Operation
+Main Research Question
+Brief Summary of Methods
+Strategic
+Goal
+Using Robotic Process
+How does the use of Robotic Process
+Automation or Related
+Automation improve the efficiency of
+FNS
+See the USDA Learning Agenda for more information.
+4
+Technology in SNAP
+Supplemental Nutrition Assistance
+Eligibility Processes
+Program application processing?
+Assessment of Mobile
+To what extent do mobile technologies
+FNS
+Technologies for Using
+affect participant access to Supplemental
+See the USDA Learning Agenda for more information.
+4
+SNAP Benefits
+Nutrition Assistance Program benefits?
+Understanding the
+What are the key factors associated with
+FNS
+Relationship Between
+variations in food security rates in
+See the USDA Learning Agenda for more information.
+4
+Poverty, Well-Being, and
+persistent-poverty counties?
+Food Security
+At the borrower level, what economic
+Farm Loan Program Risk
+factors influence borrower demand for
+FSA
+See the USDA Learning Agenda for more information.
+3
+Analysis
+Farm Loan Program loans, delinquencies,
+and other risks?
+Major Programs Including
+What are the impacts of new farm bill and
+Methods will include cost-benefit analysis, as well as
+the Wildfire and Hurricane
+other significant regulations on the
+FSA
+additional quantitative analysis using spreadsheets, SAS,
+1
+Indemnity Program Plus
+distribution of program benefits and the
+mapping, and other tools. Primary data sources are
+and the Market Facilitation
+overall costs to the Federal government?
+administrative data from FSA and NRCS.
+FSA has developed a portfolio of research
+FSA is conducting analyses of alternative strategies for
+questions related to its CRP program and
+discretionary National program decision-making
+major NRCS conservation programs,
+Conservation Reserve
+associated with the CRP and various NRCS conservation
+including the Environmental Quality
+FSA
+Program and Major NRCS
+Incentives Program, Agricultural
+programs. Methods will include quantitative analysis using
+1
+Conservation Programs
+spreadsheets, SAS, mapping, and other tools using FSA
+Conservation Easement Program,
+and NRCS administrative data. The CRP monitoring and
+Conservation Stewardship Program, and
+evaluation work involves $2 million in annual agreements
+Regional Conservation Partnership
+with USGS, ARS, universities, and others.
+Program.
+What are the government cost impacts to
+changing the Agriculture Risk Coverage and
+FSA will perform quantitative analysis using spreadsheets,
+Agriculture Risk Coverage
+Price Loss Coverage yield cascade?
+SAS, mapping, and other tools to identify alternative
+FSA
+and Price Loss Coverage
+strategies for National program decision-making
+3
+Programs
+What types of yields should be used in
+associated with the Agriculture Risk Coverage and Price
+situations where missing county yields are
+Loss Coverage programs.
+an issue (e.g., plug yields)?
+What are Commodity Credit Corporation
+FSA will conduct quantitative analysis using spreadsheets,
+10-year baseline projections for major FSA
+SAS, mapping, and other tools to inform decision-making
+FSA
+Major FSA Programs
+programs?
+and maintain and enhance high-quality program
+3
+What are the most appropriate valuations
+implementation. Primary data sources are administrative
+for various types of livestock for
+data from FSA and NRCS.
+16
+U.S. Department of Agriculture - Capacity Assessment
+implementing the Livestock Indemnity
+Program in any given year?
+What are the most appropriate feed
+coefficients to use in the Dairy Margin
+Coverage program's calculation?
+Over the past year, FSA staff have developed an Access
+database to track foreign investment in U.S. agriculture
+(acquisition and disposition of land by foreign country of
+owner, U.S. State, and type of land [crop, forest, pasture,
+etc.]). Prior to this database being developed, these data
+Agricultural Foreign
+Can systems be streamlined so that they are
+were handled by a cumbersome system that involved
+Investment Disclosure Act
+FSA
+easier to use, reduce resource needs, and
+multiple databases and processes. With one simplified
+3
+Work
+improve the timeliness of data delivery?
+system residing in Access, program staff were able to
+develop and deliver two reports to Congress (as required
+by law) this past year, eliminating the lag in data reporting.
+FSA will continue the refinement of data collection and
+systems for in-house consolidation of Agricultural Foreign
+Investment Disclosure Act work.
+FSA will coordinate with NASS and AMS on data
+What are key data and information needed
+development and statistical activities as laws change or
+FSA and RMA Programs
+to understand the current State of the
+new issues emerge related to the hemp market. Efforts
+FSA
+Related to the Hemp
+hemp market, and what data should USDA
+will focus on various FSA and RMA programs, including
+3
+Market
+be collecting in order to support FSA and
+crop insurance, the Non-insured Crop Disaster Assistance
+RMA programs?
+Program, Farm Storage Facility Loan program, and FSA
+credit programs.
+How can USDA better focus the
+NRCS
+Climate Change Mitigation
+Conservation Reserve Program (CRP)
+See the USDA Learning Agenda for more information.
+1
+Assessment Initiative
+toward climate outcomes to further USDA's
+goal of addressing climate change?
+APHIS will develop a science-based policy framework for
+how to best identify and address zoonotic disease
+How should APHIS prioritize future
+Zoonotic Disease in
+APHIS
+surveillance activities for zoonotic diseases
+challenges in livestock and other farmed animals. The
+2
+Animals
+in animals?
+Agency will pilot projects for surveillance of SARS-CoV-2
+in farmed wildlife (e.g., mink) and conduct evaluations of
+policy alternatives from full quarantine to depopulation.
+APHIS will evaluate how to address climate change
+Climate Suitability Maps
+impacts on its programs. This includes the development of
+How can APHIS address the impact of climate
+for Priority Pests in Pest
+technologies and tools to identify and mitigate impacts of
+APHIS
+change on the spread of pests and diseases?
+2
+Detection and Response
+invasive species, pests, and diseases. Other methods will
+Programs
+include scientific literature and peer review, geospatial
+analysis, risk analysis, and predictive modeling.
+17
+U.S. Department of Agriculture - Capacity Assessment
+How can APHIS continue working with
+APHIS will carry out a National Animal Health Laboratory
+Zoonotic Disease
+cross sector partners on impactful National
+Network pilot project to monitor antimicrobial resistance
+APHIS
+Engagement, Investigation,
+and international One Health strategies and
+profiles in animal pathogens. Methods include formative
+2
+and Response
+policies for Zoonotic Disease Engagement,
+program evaluation, risk analysis, geospatial analysis,
+Investigation, and Response?
+strategic foresight, and process and performance reviews
+APHIS will develop a plan for integrating more
+Plant Pest and Disease
+What phytosanitary treatment and/or
+environmentally friendly treatments into its plant pest and
+APHIS
+strategy will provide effective protection in
+disease response and import/export risk mitigation
+2
+Response
+place of fumigation with methyl bromide?
+measures. Methods will include risk analysis and scientific
+literature and peer review.
+AMS Transportation
+What transportation related disruptions
+Through one or more cooperative agreements with
+Services Division and
+exist as a result of climate impacts and to
+Climate-Related
+university partners, existing data and literature on this
+AMS
+1
+what extent do they occur across various
+topic will be analyzed through a variety of qualitative and
+Disruptions to
+modes (e.g., ocean, rail, trucking, etc.)?
+quantitative methods.
+Transportation Networks
+What is the impact of these types of
+investments on outputs (i.e., trainings
+AMS will use standardized performance metrics for grant
+delivered, food business plans developed,
+programs as a local/regional investment measure for
+new food products developed), outcomes
+summary analyses and, if Centers are established, develop
+(e.g., job creation, new market channels,
+USDA American Rescue
+a standard reporting rubric to indicate both outputs and
+AMS
+alignment of stakeholder groups, and viable
+outcomes (also for summary analyses). Evaluation
+2
+Plan Investments
+food businesses), and ultimately supply
+strategies, such as social network analysis and/or ripple
+chain impact (e.g., increased competition,
+effects mapping, may be used to gauge the connectedness
+increased access to local and regional food
+of grants and/or the regional supply chains over time and
+products, increased small food business
+related impacts on speed of or impact of outcomes, if any.
+activity, increased representation, and
+diversity in the food system)?
+AMS Fair Trade Practices
+What methods or approaches is AMS using
+AMS will monitor market prices and conduct
+AMS
+Program/Packers &
+to support Fair and competitive markets for
+investigations of alleged unfair and/or anti-competitive
+3
+Stockyards Division
+livestock, meat, and poultry?
+conduct in the livestock, meat, and poultry industries.
+How does technical assistance for both
+AMS is assessing its Organic Transit Initiative to facilitate
+the transition to organic, including conservation practices
+Organic Transition
+transitioning farmers and organic
+AMS
+and climate-smart agriculture. Methods include tracking
+professionals correlate with the number of
+3
+Initiative
+geographic and audience-based distribution of technical
+certified organic operations and compliance
+assistance resources against growth in organic metrics
+metrics across the industry?
+and compliance statistics.
+How does the publication of the Organic
+Livestock and Poultry Standards and
+AMS is assessing growth in the organic industry as a result
+AMS
+of rulemaking activities, using Organic Integrity Database
+National Organics Program
+Strengthening Organic Enforcement impact
+3
+and data from the Customs and Border Protection Import
+organic market growth and visibility into
+system.
+organic imports?
+18
+U.S. Department of Agriculture - Capacity Assessment
+Can State and Tribal government agencies
+more effectively procure agricultural
+products that support local and regional
+food systems, socially disadvantaged
+AMS will use quarterly performance reports and a final
+Local Purchase Assistance
+producers, and underserved communities?
+report submitted by recipients that will measure the
+AMS
+Cooperative Agreement
+ongoing success of the Local Purchase Assistance
+4
+Program
+Does the program foster relationships
+Cooperative Agreement Program and the percentage of
+between local/regional suppliers, socially
+those relationships that will continue into the future.
+disadvantaged producers, and underserved
+communities that will continue after the
+program ends?
+AMS will assess Agency-wide implementation of programs
+and services related to participant access, ease of use, and
+What barriers exist to expand program
+program integrity to increase diversity, equity and
+access to underserved and
+inclusion in areas with less than desired participation rates
+AMS Staff Recruitment and
+underrepresented communities?
+in the AMS workforce and increase program participation
+AMS
+6
+Selection Practices
+What are the key factors associated with
+and use by underserved populations. Additionally, AMS
+successful recruitment and retention of a
+will engage with cross-Departmental partners, including
+diverse and inclusive workforce?
+FPAC New and Beginning Farmer Coordinator, the Office
+of Partnerships and Public Engagement, and the Office of
+Tribal Relations.
+Can AMS Grading and Auditing duties be
+completed with relevant experience?
+Program Administration /
+Does requiring undergraduate degrees
+AMS will conduct a review of position descriptions and
+HR Personnel Grading
+impact AMS' ability to fill Grading and
+scope and complexity of duties, as well comparative and
+AMS
+Policies and Office of
+Auditing positions?
+6
+statistical analyses of USDA as compared to similar
+Personnel Management
+Do AMS Grading and Auditing positions fall
+positions in the labor market.
+Policies
+in line with positions of similar
+grade/duty/responsibilities in the labor
+market?
+What are estimates of timber removals and
+their consequential impact on the forests
+Forest Service conducts Nationwide statistical surveys of
+FS
+Timber Removal Impact
+and economies of various regions?
+mill owners to determine how much land they own and
+1
+What are the locations, size, and types of
+where.
+mills in a given State?
+Forest Service will review individual reports compiled by
+U.S. Forests Status and
+Are U.S. forests sustainable in ecological,
+experts for 64 indicators of forest sustainability, based on
+FS
+social, and economic dimensions and in
+Trends
+a variety of datasets, covering topics ranging from
+1
+comparison to forests in other nations?
+biodiversity conservation to forest fires to the many
+benefits derived from forests.
+19
+U.S. Department of Agriculture - Capacity Assessment
+Where should Forest Service invest in
+removing woody biomass from the
+landscape to achieve the greatest return on
+investment in terms of wildfire risk
+Forest Service conducts modeling to inform trade-offs in
+FS
+Alternative Harvesting
+Scenarios
+reduction?
+where to invest in land treatments and resource
+1
+treatments.
+What are the trade-offs between harvesting
+and hazardous fuels mitigation treatments
+to reduce fire risk?
+How might Forest Service better
+understand private forest owners to
+Forest Service conducts Nationwide statistical surveys of
+FS
+Private Landowners
+improve collaboration?
+individual forest owners and is working to expand the
+1
+Are underrepresented owners being served
+survey to corporate owners.
+in an equitable way?
+What risk-based factors influence
+Wildfire Suppression
+Methods include in-person field testing and record
+FS
+management decisions with respect to
+1
+Operations
+reviews.
+wildfire suppression operations?
+Methods include remote sensing-based disturbance
+Are fuel management treatments
+detection techniques, events data vetted by LANDFIRE
+FS
+Wildfire Suppression
+implemented broadly enough, as well as
+personnel, and cleaned by overlapping all the data sources
+1
+Operations
+sited correctly?
+and types to create a single unique event per year and
+location.
+Is allocating program funding using the
+current allocation formula the most
+Methods include compiling geospatial and tabular
+effective use of program resources?
+accomplishments on an annual basis report on 19
+Effective Funding
+FS
+Allocation
+different metrics as well as monitoring for implementation
+1
+What activities are being implemented
+based on a statistical sample of Forest Stewardship
+based on the recommendations in Forest
+Management Plans.
+Stewardship Management Plans?
+Methods include a Nationwide statistical survey to collect
+Is the Forest Service sustaining the health,
+quantitative data (e.g., trees, biomass, or carbon by
+FS
+Changes in Forest
+diversity, and productivity of the Nation's
+species; forest type; biomass of dead and dying material,
+1
+Inventory
+forests and grasslands to meet the needs of
+soil carbon estimates, forest floor carbon; invasive
+present and future generations?
+species; and forest land area).
+What are the status and trends in these
+The Resources Planning Act Assessment includes analyses
+resources?
+of forests, rangelands, wildlife and fish, biodiversity, water,
+outdoor recreation, wilderness, urban forests, and the
+Assessment of Natural
+How is climate change expected to impact
+effects of climate change on these resources. Scientists
+FS
+these resources?
+1
+Resources
+integrate findings and create projection models in the
+What issues should be tracked for each of
+various resource areas and write peer-reviewed
+these resources?
+summaries of status and trends. The final assessment
+summarizes results for each resource area.
+20
+U.S. Department of Agriculture - Capacity Assessment
+What are and how can rural and urban
+forestry opportunities mitigate the buildup
+of atmospheric carbon dioxide and reduce
+the risk of global climate change?
+What is the best available science to inform
+an assessment of effects of the Northwest
+Forest Plan on old-growth forest
+ecosystems, including with respect to
+Methods include qualitative and quantitative data
+wildlife habitat?
+collection, including interviews; scientific literature
+FS
+Analysis of the Northwest
+What is the best available science to inform
+review; collaboration between 50 scientists from Forest
+1
+Forest Plan
+how old-growth forest ecosystems,
+Service Research & Development, other Federal agencies,
+including wildlife habitat and other
+universities, and Tribes; and public input from
+ecosystem services, Tribal values related to
+stakeholders.
+timber harvest, and socioeconomic well-
+being, could be balanced with timber
+outputs?
+Recreation - National
+What is the recreational use of National
+For each ORV, the park resources experts determined at
+FS
+5
+Visitor Use Monitoring
+Forest System lands?
+least one measurable indicator to track its condition.
+How well does the workforce meet the
+National Work
+Methods include a confidential survey open to USDA
+FS
+intentions of the Forest Service Code and
+6
+Environment Survey
+Forest Service Federal employees.
+Commitments?
+Methods include in-person reviews at Job Corps centers
+conducted according to the Policy Requirement
+Forest Service has developed a portfolio of
+Handbook; surveys of students at graduation and six and
+FS
+Job Corps
+research questions related to its Job Corps
+12 months post-graduation assessing employment status
+6
+program.
+and salary; Data collection on conservation work
+performed by students and subsequent conservation job
+placements; and cost-benefit analyses.
+Fire Risk Reduction and
+What information is needed to measure and
+Using the ongoing work in Research & Development,
+FS
+Forest Service will identify data needed to measure risk,
+1
+Resilience Index
+index fire risk, reduction, and resilience?
+risk reduction, and resilience in firesheds.
+What are the impacts of the broadband
+programs on broadband availability, use,
+USDA Broadband
+and on economic (property values,
+RD
+household income, and employment) and
+See the USDA Learning Agenda for more information.
+5
+Programs
+social (population growth, healthcare
+access and availability, and telemedicine)
+outcomes?
+What is the impact of the Water and
+USDA Water and
+RD
+Environment Program on water quality,
+See the USDA Learning Agenda for more information.
+5
+Environment Programs
+property values (residential, agricultural,
+21
+U.S. Department of Agriculture - Capacity Assessment
+and commercial property), income and
+earnings, poverty, and population growth
+across the rural-urban continuum?
+What is the impact of Community Facilities
+funding on rural hospital closings?
+USDA Community
+RD
+Facilities Program
+What are the impacts of Community
+See the USDA Learning Agenda for more information.
+5
+Facilities funding on education (i.e., school
+quality)?
+What is the impact of Single Family Housing
+Section 502 Direct Loans on measures of
+housing affordability and stability in
+RD
+USDA Single Family
+recipient tracts or counties?
+See the USDA Learning Agenda for more information.
+5
+Housing Program
+What is the impact of Single Family Housing
+Section 502 Direct Loans on recipient home
+values?
+What is the collective impact of RD
+USDA Rural Development
+RD
+program investments on the socioeconomic
+See the USDA Learning Agenda for more information.
+5
+Programs
+well-being of rural communities?
+The Strategic Investment Mapping Tool can be used by RD
+State Directors or Program Directors to understand the
+present and historical location of investments in each
+What rural communities are underserved
+program or all programs. This tool can also be utilized to
+USDA Rural Development
+by RD field-based programs?
+RD
+target underserved areas to assure RD programs and
+Programs
+5
+Where are the concentrations of need in
+funds are being equitably distributed. The drivetime and
+rural communities by State?
+office location layers identify potential gaps in service
+coverage. Program specific layers will aid the user in
+better understanding the economic climate and natural
+resources in their State or region.
+Which rural communities are most at risk
+The COVID-19 Economic Risk Assessment Dashboard
+from COVID-19 shocks/disruptions (e.g.,
+was developed to increase Rural Development decision-
+sudden outbreaks shutting down local
+makers' awareness of the relative sensitivity of the
+USDA Rural Development
+industry)?
+counties our programs serve to the economic impact of
+RD
+5
+Programs
+COVID-19. This data will help identify areas of heightened
+Where are the rural borrowers who are
+economic and portfolio vulnerability during the pandemic
+facing, or may face, significant economic
+months and enable decision-makers to respond more
+challenges caused by the pandemic?
+quickly to the needs of rural communities.
+RD will explore how it can measure and capture, post
+USDA Rural Development
+How do RD infrastructure investments
+project completion, the impact of dollars invested on
+RD
+5
+Rural Utilities Program
+reduce greenhouse gas emissions?
+reducing greenhouse gas emissions without creating an
+unnecessary burden on recipients.
+22
+U.S. Department of Agriculture - Capacity Assessment
+OCS supports research and programmatic advancements
+How can OCS understand and identify
+that aim to understand and identify forward-thinking
+Pollinator Health and
+forward-thinking strategies to ensure
+strategies to ensure pollinator resiliency in the face of
+OCS
+pollinator resiliency in the face of
+heightened climate-induced stressors and forage declines.
+1
+Habitat Conservation
+heightened climate-induced stressors and
+OCS will establish a new pollinator subcommittee within
+forage declines?
+the National Agricultural Research, Extension, Education,
+and Economics Advisory Board.
+ERS will conduct and publish multiple analyses and reports
+What is the intersection between
+on various aspects of the intersection between
+Climate and Agricultural
+productivity and climate change?
+productivity and climate change. The Agency will also
+ERS
+1
+Research
+How can ERS improve climate change
+conduct foundational work to enhance the scope and
+models and needed data?
+dimensions of data used in models to examine the sub-
+national impacts of climate change.
+How can the U.S. expand carbon
+ERS will hold a workshop and draft a report on how the
+ERS
+Carbon Sequestration and
+sequestration and woody biomass supply on
+U.S. can expand carbon sequestration and woody biomass
+1
+Woody Biomass
+limited new land?
+supply on limited new land.
+Economic Impact of Citrus
+What are the various tools, methods, and
+ERS will draft reports on tools, methods, and data on
+ERS
+Greening and Import
+data for understanding citrus greening and
+various aspects of citrus greening and its impact on U.S.
+1
+Competition on U.S. Citrus
+its impact on U.S. agriculture?
+agriculture.
+What is the role of financing in the meat and
+poultry processing industry?
+ERS will produce case studies on the role of financing in
+What are the short-run effects of
+the meat and poultry processing industry; draft a report
+Supply Chain Issues,
+ERS
+Distribution of Tariffs, and
+retaliatory tariffs on different types of U.S.
+on the short-run effects of retaliatory tariffs on different
+2
+farms and the distribution of Market
+types of U.S. farms and the distribution of MFP payments;
+Shipping Containers
+Facilitation Program payments?
+and draft a report on the shipping container market and
+impacts on supply chains.
+What is the shipping container market's
+impacts on supply chains?
+ERS will develop research questions to
+ERS will draft reports on the declines in WIC participation
+understand the declines in WIC
+Research on Nutrition
+and the role of social, economic, and policy contexts in
+participation, the role of social, economic,
+local communities (e.g., broadband availability and
+ERS
+Security and Food
+4
+and policy contexts in local communities,
+adoption) and participation in WIC. The Agency will also
+Assistance Programs
+particularly broadband availability and
+produce data products and draft a report on Inequitable
+adoption and participation in WIC.
+Food Retail Access and Nutritional Food Insecurity.
+ARS conducts research to support USDA programs that
+target local food production, development of new
+Developing New Products
+products, protection from animal and plant disease, and
+ARS
+and Uses from Food
+To be determined.
+keeping our food safe. ARS will implement research to
+2
+Byproducts and Waste
+develop new products and uses from food byproducts and
+waste and transfer technologies to farmers and food
+processors.
+23
+U.S. Department of Agriculture - Capacity Assessment
+ARS supports NRCS, FSA, and other USDA Agencies'
+climate mitigation and adaptation efforts by quickly
+High-Impact, Strategic
+ARS
+To be determined.
+moving technologies and innovative practices from the
+Innovations for NRCS and
+3
+testbed into practice. The Agency will initiate new
+Other USDA Agencies
+research targeting high-impact, strategic new innovations
+that are needed by NRCS and other USDA Agencies.
+ARS conducts research to support USDA programs that
+Technologies and
+target local food production, development of new
+ARS
+Research on new technologies and
+Strategies to Detect and
+products, protection from animal and plant disease, and
+Reduce Food-Borne
+strategies to detect and reduce food safety
+4
+food safety. Food Safety National Program research will
+pathogens and toxins
+Pathogens and Toxins
+focus on new technologies and strategies to detect and
+reduce food-borne pathogens and toxins.
+ARS will establish an Interagency Agreement with FSIS to
+address Salmonella illness; conduct priority research to
+ARS
+FSIS and FDA Activities to
+address Salmonella foodborne illness; and participate in
+To be determined.
+Reduce Salmonella
+FSIS, Food and Drug Administration, and Association of
+4
+Food and Drug Officials activities as subject matter expert
+to identify next steps to reduce salmonellosis to reach
+2030 Healthy People Goals.
+The Census of Agriculture is critical in understanding the
+demographic profile of farm producers. NASS will ease
+reporting barriers to provide a more complete profile of
+Interactive Portal for Data
+NASS
+What is the demographic profile of farm
+the farming population; integrate this portal with
+3
+Providers
+producers?
+Farmers.gov; determine and implement authentication
+process; and conduct end-to-end data collection activities
+for a pilot survey and demonstrate the integration of
+existing data collection systems.
+The Agriculture and Food Research Initiative will support
+projects to create more and better market opportunities
+in the following program area priorities in the
+NIFA will identify research questions to
+Foundational and Applied Science RFA: Economics,
+Agriculture and Food
+create better markets and drive innovation
+NIFA
+Markets and Trade ($8 million); Food Safety and Defense
+3
+Research Initiative
+in technologies and products that support
+($6 million); Novel Foods and Innovative Manufacturing
+economic growth.
+Technologies ($8 million); Mitigating Antimicrobial
+Resistance Across the Food Chain ($4 million); Diseases of
+Agricultural Animals ($13 million); and Agricultural
+Biosecurity ($6 million).
+NIFA will identify research questions to
+NIFA is investing in research, education, extension, and
+NIFA
+Nutrition Security and
+advance USDA's goal to tackle food and
+innovation to advance USDA's goal to tackle food and
+4
+Food Safety Programs
+nutrition insecurity.
+nutrition insecurity.
+24
+U.S. Department of Agriculture - Capacity Assessment
+NIFA is investing in long-term climate change research
+Research, Education,
+How can NIFA advance innovation on new
+through a National system of Agricultural Research
+Extension, and Innovation
+NIFA
+crop and soil management systems,
+Stations, supported with Hatch Act and Multistate
+1
+Through Climate-Specific
+environmental monitoring, or breeding?
+Research Programs funding for 1,862 universities and
+Program Areas
+Evans Allen funding for 1,890 universities.
+Environmental Justice and
+What metrics can be used to track the
+OCS-REE will catalog all climate and environmental
+Economic Opportunity for
+benefits of climate and environmental
+science programs supporting disadvantaged communities
+OCS
+5
+Disadvantaged
+science programs for disadvantaged
+and identify metrics to track the benefits of such
+Communities
+communities?
+programs.
+USDA will combine Agency data in a Department-wide
+tool that is standardized, automated, searchable,
+Centralized USDA
+dashboard-oriented, user-friendly, and high-quality;
+OCS
+To be determined.
+Research/Researcher Tool
+supports reporting on foreign influence, public access
+6
+compliance, impact tracking, and topical queries; fosters
+synergy and reduces duplication; and links to publicly
+available research products.
+Nontariff Measures and
+An FAS cooperative agreement with Virginia Tech and
+U.S. and Global
+University of Nebraska will develop a model for assessing
+FAS
+To be determined.
+the costs, and potential gains, from non-tariff measures
+Agricultural Trade:
+3
+restricting U.S. exports. A model that allows FAS to better
+Developing A Framework
+quantify the impacts of different policy options will
+for Analysis
+improve decision-making.
+FAS will identify where to focus capabilities to meet both
+Agency and Departmental strategic goals, as well as how
+FAS can allocate resources and activities around the globe
+FAS
+Global Market Review
+To be determined.
+that maximize exports for U.S. agriculture. Fifteen
+3
+commodity teams will be formed to bring the entire FAS
+Agency knowledge to bear when discussing high priority
+markets for U.S. exporters based on macro, trade, and
+demographic indicators, as well as policy expertise.
+This research is primarily a desk review, funded by the U.S.
+FSA has identified a portfolio of research
+Agency for International Development and focused on
+FAS
+McGovern-Dole Program
+questions related to the McGovern-Dole
+countries in Africa. The researchers are using McGovern-
+3
+program.
+Dole program monitoring data collected by implementing
+partners, combined with third-party data sources.
+25
+U.S. Department of Agriculture - Capacity Assessment
+Acronyms and Abbreviations
+AMS
+Agricultural Marketing Service
+ARS
+Agricultural Research Service
+APHIS
+Animal and Plant Health Inspection Service
+CRP
+Conservation Reserve Program
+EAWG
+Evidence Act Working Group
+ERS
+Economic Research Service
+Evidence Act Foundations for Evidence-Based Policymaking Act of 2018
+FAS
+Foreign Agriculture Service
+FNS
+Food and Nutrition Service
+FPAC
+Farm Production and Conservation
+FSA
+Farm Service Agency
+FSIS
+Food Safety and Inspection Service
+FY
+Fiscal year
+GAO
+Government Accountability Office
+NASS
+National Agricultural Statistics Service
+NRCS
+Natural Resources Conservation Service
+OBPA
+Office of Budget and Program Analysis
+OCE
+Office of the Chief Economist
+OCS
+Office of the Chief Scientist
+OMB
+Office of Management and Budget
+SNAP
+Supplemental Nutrition Assistance Program
+USDA
+U.S. Department of Agriculture
+WIC
+Special Supplemental Nutrition Program for Women, Infants, and Children
+26
+In
+accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights
+regulations and policies, the USDA, its Agencies, offices, and employees, and institutions participating in
+or administering USDA programs are prohibited from discriminating based on race, color, national origin,
+religion, sex, gender identity (including gender expression), sexual orientation, disability, age, marital
+status, ,family/parentalstatus, income derived fromapublicassistance program, political beliefs, or reprisal
+or retaliation for prior civil rights activity, in any program or activity conducted or funded by USDA (not
+all
+bases
+apply to all programs). Remedies and complaint filing deadlines vary by program or incident.
+Persons with disabilities who require alternative means of communication for program information (e.g.,
+Braille, large print, audiotape, American Sign Language, etc.) should contact the responsible Agency or
+USDA's TARGET Center at (202)720-2600 (voice and TTY) or contact USDA through the Federal Relay
+Service at (800) 877-8339.Additionally, program information may be made available in languages other
+than English.
+To file a program discrimination complaint, complete the USDA Program Discrimination Complaint Form,
+AD-3027, found online at How to File a Program Discrimination Complaint and at any USDA office or
+write a letter addressed to USDA and provide in the letter all of the information requested in the form.
+To request a copy of the complaint form, call (866) 632-9992. Submit your completed form or
+letter
+to
+USDA by: (1) mail: U.S. Department of Agriculture, Office of the Assistant Secretary for Civil Rights, 1400
+Independence Avenue, SW, Washington, D.C.20250-9410; (2) fax: (202) 690-7442; or (3) email: program.
+intake@usda.gov.
+USDA is an equal opportunity provider, employer, and lender.
+Issued March 2022

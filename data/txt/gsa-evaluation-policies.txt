@@ -1,0 +1,49 @@
+"gsa.evaluation.policies"
+"1" "An official website of the United States government"
+"2" "Here’s how you know"
+"3" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"4" "Secure .gov websites use HTTPS
+A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"5" "GENERAL SERVICES ADMINISTRATION
+ Washington, DC 20405"
+"6" " "
+"7" "ADM 1000.6
+ October 8, 2020"
+"8" " "
+"9" "GSA ORDER 
+ "
+"10" "SUBJECT: GSA Evaluation Policy "
+"11" "1. Purpose. This Order establishes the General Services Administration’s (GSA) Evaluation Policy. "
+"12" "2. Background. The Office of Management and Budget (OMB) Memorandum, OMB M-19-23, requires the Chief Financial Officer (CFO) Act agencies and the designated Evaluation Officers (EOs) to “establish and implement ... an agency evaluation policy that affirms the agency's commitment to conducting rigorous, relevant evaluations and to using evidence from evaluations to inform policy and practice. The policy will provide the agency's stakeholders with a clear understanding of the expectations related to key principles, such as evaluation rigor, relevance, transparency, independence, and ethics.”"
+"13" "3. Scope and Applicability. This policy applies to all evaluations, as defined by OMB Circular A-11 and detailed in OMB M-20-12, conducted at GSA. This policy applies to the Office of Inspector General (OIG) only to the extent that the OIG determines it is consistent with the OIG’s independent authority under the Inspector General Act, and it does not conflict with other OIG policies or the OIG mission. This Order applies to the Civilian Board of Contract Appeals (CBCA) only to the extent that the CBCA determines it is consistent with the CBCA’s independent authority under the Contract Disputes Act and it does not conflict with other CBCA policies or the CBCA mission."
+"14" "4. Policy. Per the authority listed in the ‘Background’ section above, GSA is required to develop, implement, and maintain a comprehensive and effective evaluation policy."
+"15" " a. The GSA Evaluation Policy provides clarity on evaluation principles and standards, building on and aligned with Federal evaluation standards. The GSA Evaluation Policy encompasses core principles that will guide GSA’s planning, implementation, and use of evaluation to learn what works. These principles align with published Federal standards, detailed in OMB M-20-12. GSA evaluations should always adhere to the following principles:"
+"16" " (1) Rigor. GSA’s findings are credible and mean what they say. GSA conducts evaluations to the highest standards[1]; design and methods are appropriate for the question(s) asked; the statements are clear and based on rigorous evidence; and the limitations, delimitations, assumptions, and interpretations of findings are transparent. Policymakers and stakeholders can act on GSA’s findings with confidence."
+"17" " (2) Relevance and Utility. GSA addresses questions that are important and provide findings that are actionable and available in time for use. GSA’s evaluations take into account: (a) the policy or program priorities of the agency, and (b) the potential impact on a strategic priority. Evaluation findings inform and are integrated into GSA activities, such as budgeting, program improvement, accountability, management, regulatory action, and policy and program development."
+"18" " (3) Transparency. GSA is committed to ensuring that GSA leadership and staff, agency collaborators, policymakers, researchers, and the public at large are able to learn from the agency’s work. GSA is transparent in planning, implementation, and reporting to enable accountability and learning. GSA keeps a public record of priority evaluations fielded and shares findings for those priority evaluations in a timely way (including null results and those that run counter to GSA’s own prior expectations and goals)."
+"19" " (4) Independence and Objectivity. GSA evaluations ensure an appropriate level of independence from programmatic, regulatory, policymaking, and stakeholder activities is consistently maintained. GSA demonstrates objectivity, impartiality, and professional judgment throughout the evaluation process and is transparent in planning, implementation, interpretation, and dissemination of evaluations and their results."
+"20" " (5) Ethics. GSA conducts evaluations to the highest ethical standards and safeguards the dignity, rights, safety, and privacy of participants, stakeholders, and affected entities."
+"21" " b. The GSA Evaluation Policy Implementation Guidance supplements GSA’s above Evaluation Policy by providing operational guidance and resources for GSA’s evaluation community. (See Appendix A)"
+"22" "5. Responsibilities. The EO will implement the agency evaluation policy. All GSA Services and Staff Offices are expected to implement the policy, functions and procedures established herein wholly and immediately."
+"23" "6. Signature.
+
+
+
+
+/S/_____________________
+ EMILY W. MURPHY
+ Administrator"
+"24" "Appendix A: GSA Evaluation Policy Implementation Guidance"
+"25" "[1] Align with published Federal standards OMB M-20-12"
+"26" "Problems viewing this page? directives@gsa.gov"
+"27" "Error, The Per Diem API is not responding. Please try again later."
+"28" "No results could be found for the location you've entered."
+"29" "Rates for Alaska, Hawaii, U.S. Territories and Possessions are set by the Department of Defense."
+"30" "Rates for foreign countries are set by the State Department."
+"31" "Rates are available between 10/1/2012 and 09/30/2022."
+"32" "The End Date of your trip can not occur before the Start Date."
+"33" "Traveler reimbursement is based on the location of the work activities and not the accommodations, unless lodging is not available at the work activity, then the agency may authorize the rate where lodging is obtained."
+"34" "Unless otherwise specified, the per diem locality is defined as \"all locations within, or entirely surrounded by, the corporate limits of the key city, including independent entities located within those boundaries.\""
+"35" "Per diem localities with county definitions shall include\"all locations within, or entirely surrounded by, the corporate limits of the key city as well as the boundaries of the listed counties, including independent entities located within the boundaries of the key city and the listed counties (unless otherwise listed separately).\""
+"36" "When a military installation or Government - related facility(whether or not specifically named) is located partially within more than one city or county boundary, the applicable per diem rate for the entire installation or facility is the higher of the rates which apply to the cities and / or counties, even though part(s) of such activities may be located outside the defined per diem locality."

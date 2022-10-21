@@ -1,0 +1,605 @@
+Annual Evaluation Plan I
+Fiscal Year 2023
+OF
+Sin
+S.
+*
+AND
+IDDR
+U.S. Department of Housing and Urban Development I Office of Policy Development and Research
+Annual Evaluation Plan-Fiscal Year 2023
+United States Department of Housing and Urban Development
+March 28, 2022
+Contents
+Background
+1
+Requirements of the Evidence Act
+1
+Policy Framework and HUD's Strategic Plan
+2
+Significant Evaluation Activities
+3
+Dissemination Efforts
+4
+New Significant Evaluation Activities Planned for Fiscal Year 2023
+5
+Core Housing Programs
+5
+Public Housing Agency (PHA) Use of COVID-19 Waivers and Effects for PHAs and Tenants
+6
+Homeownership
+6
+FHA's Role in Closing the Homeownership Gap and Preserving Homeownership During Economic
+Decline
+6
+Self-Sufficiency and Economic Opportunity
+6
+Asset Building Demonstration
+7
+Broadband Access for HUD-assisted Households
+7
+Vulnerable and Special Populations
+8
+Emergency Housing Voucher Program Evaluation
+8
+Eviction Protection Grant Program Evaluation
+8
+Emergency Rental Assistance Program Evaluation
+9
+Ongoing Evaluation Activities
+9
+i
+Background
+The U.S. Department of Housing and Urban Development (HUD) administers a diverse array of
+programs, including public housing, tribal housing, assisted multifamily housing, and tenant-based rental
+assistance; Federal Housing Administration (FHA) mortgage insurance; the Ginnie Mae guaranty on
+mortgage-backed securities; loan guarantees, lead hazard control and healthy homes grants; fair
+housing and civil rights investigations, compliance, and enforcement; community development and
+housing block grants; homeless assistance grants; and disaster recovery support. From HUD's formation
+in 1965, research, statistics, and other evidence have been central in shaping housing and community
+development policy nationally.
+HUD's Office of Policy Development and Research (PD&R) leads the Department's efforts related to
+evidence-based policymaking. PD&R's mission is to provide reliable and objective research on housing
+and community development that is relevant for HUD and for its constituents and enables informed
+policy decisions. PD&R focuses on finding definitive answers to questions about which programs work,
+and how they can be made better, through quick-turnaround studies and long-term evaluations that
+systematically assess impacts and outcomes and shed light on paths to improvement. In this way, PD&R
+helps drive HUD's evidence-based policymaking, promoting the best possible policies and programs
+through accurate data, rigorous research, and sound policy advice. In addition to PD&R, several other
+offices maintain evaluation or data analytic functions.
+HUD's Evaluation Policy Statement articulates the core principles and practices of the Department's
+evaluation and research activities. HUD updated the Evaluation Policy Statement in August 2021,
+reaffirming the Department's commitment to conducting rigorous, relevant evaluations and to using
+evidence from evaluations to inform policy and practice. The Policy Statement applies to all HUD-
+sponsored evaluations and regulatory impact analyses; it also applies to the selection of projects,
+contractors, and HUD staff that are involved in evaluations.
+Requirements of the Evidence Act
+Building on the recommendations of the Commission on Evidence-Based Policymaking, in 2019 Congress
+passed the bipartisan Foundations for Evidence-Based Policymaking Act ("Evidence Act"). 1 The Act and
+the Office of Management and Budget's implementing guidelines establish several important new
+requirements for federal agencies. 2 Key requirements include developing a Learning Agenda that
+identifies the most policy-relevant and timely research questions for an agency to pursue over the next
+4 years; a Capacity Assessment for Research, Evaluation, Statistics, and Analysis that assesses the
+coverage, quality, methods, effectiveness, and independence of an agency's evidence-building and
+analysis activities for supporting evidence-based policymaking, which is also produced every 4 years;
+and Annual Evaluation Plans that communicate significant planned research and evaluation activities for
+the coming fiscal year. Exhibit 1 summarizes these documents, which are available on the HUD User
+website at: https://www.huduser.gov/portal/about/pdr_learningagenda.html.
+1
+Public Law 115-435 (132 STAT. 5529). "Foundations for Evidence-Based Policymaking Act of 2018.'
+2 The primary implementation guidance is found in Memorandum M-19-23 https://www.whitehouse.gov/wp-
+tontent/uploads/2019/07/M-19-23.pdfand Circular A-11 https://www.whitehouse.gov/wp-
+content/uploads/2018/06/a11.pdf#page=776&zoom=100,0,0
+1
+Exhibit 1. Overview of HUD Evidence Act Deliverables
+Deliverable
+Description
+Published Documents
+Learning Agenda
+Sets out HUD's foundational learning questions and
+Learning Agenda:
+priority research questions by policy topic.
+Fiscal Years 2022-
+Developed with extensive stakeholder input.
+2026
+Produced every 4 years but revisited annually.
+Capacity Assessment
+Assesses the coverage, quality, methods,
+HUD Capacity
+for Research,
+effectiveness, and independence of evidence-building
+Assessment for
+Evaluation, Statistics,
+and analysis activities for supporting evidence-based
+Research,
+and Analysis
+policymaking.
+Evaluation,
+Produced every 4 years.
+Statistics, and
+Analysis (2022)
+Annual Evaluation Plan
+Presents the significant evaluation activities that HUD
+Annual Evaluation
+will begin each fiscal year.
+Plan - Fiscal Year
+Lists the significant evaluation activities ongoing
+2022
+during the fiscal year.
+FY 2023 Annual
+Identifies interim updates to HUD's Learning Agenda
+Evaluation Plan -
+(if applicable).
+Fiscal Year 2023
+Produced every year.
+Policy Framework and HUD's Strategic Plan
+The Evidence Act closely associates Annual Evaluation Plans with each agency's strategic planning
+process. Strategic plans include material on evidence building, and the Evidence Act requires Learning
+Agendas to align with and support these plans and to reflect knowledge gained through evidence-
+building activities. The evidence-building priorities identified in this Annual Evaluation Plan align with
+the major Goals identified in the Department's Fiscal Year 2022-2026 Strategic Plan.
+The Annual Evaluation Plan also aligns with HUD's Learning Agenda: Fiscal Years 2022-2026, providing a
+real-time update on the major evaluation activities the Department is undertaking. To connect the
+evaluation activities in the Plan to HUD's programs and mission, the Annual Evaluation Plan adopts the
+Policy Topic categories developed for the Learning Agenda, which sorts priority research questions into
+11 crosscutting Policy Topic Areas.
+Exhibit 2 shows the primary alignment between Policy Topics in HUD's Learning Agenda and Annual
+Evaluation Plans and the Department's Strategic Goals. Each policy topic area is inherently flexible
+enough to contribute to most, if not all, of the Strategic Goals; however, the exhibit presents a single
+primary alignment highlighting where the balance of the research questions under each topic contribute
+to departmental goals.
+Exhibit 2. Alignment of Policy Topics to HUD's Strategic Goals
+Policy Topic
+Aligned Strategic Goals
+Community Development and Place-based Initiatives
+Goal 1: Support underserved communities
+Core Housing Programs
+Goal 2: Ensure access to and increase the production
+of affordable housing
+Disaster Recovery, Energy, and Climate Change
+Goal 4: Advance sustainable communities
+2
+Policy Topic
+Aligned Strategic Goals
+Fair Housing
+Goal 1: Support underserved communities
+Homeownership
+Goal 3: Promote homeownership
+Housing Finance and Affordable Housing Supply
+Goal 2: Ensure access to and increase the production
+of affordable housing
+Housing and Health
+Goal 4: Advance sustainable communities
+Indian and Tribal Issues
+Goal 1: Support underserved communities
+Self-sufficiency and Economic Opportunity
+Goal 1: Support underserved communities
+Vulnerable and Special Populations
+Goal 1: Support underserved communities
+Enhanced Data and Methods
+Goal 5: Strengthen HUD's internal capacity
+Significant Evaluation Activities
+The evaluation activities in the FY 2023 Annual Evaluation Plan (AEP) are a mix of long-running priorities,
+efforts to continue learning from existing projects, and opportunities to study new departmental
+initiatives. The AEP does not capture every way HUD builds or uses evidence in support of its mission.
+Instead, the AEP focuses on significant evaluation activities, defined as activities that meet the following
+criteria for topical relevance, coordination, and commitment of resources:
+Topical Relevance-Significant evaluation activities address pressing questions and shed insights
+into important issues for the department. These projects investigate unaddressed research
+questions in the Learning Agenda or seek to respond thoughtfully and nimbly to emerging
+challenges and priorities of policymakers.
+Coordination-Significant evaluation activities require substantial advance planning and
+cooperation. These projects leverage expertise, require buy-in across offices, and benefit a HUD
+program or an overarching element of HUD's mission.
+Commitment of Resources-Significant evaluation activities require investment. These projects
+have secured funding through prior-year congressional appropriations or are being conducted
+using dedicated in-house staff resources and expertise.
+The work to expand the knowledge base around policy topic areas critical to HUD's mission includes a
+substantial number of activities that would not be classified as "evaluations." Per section 101(a) of the
+Evidence Act, "The term 'evaluation' means an assessment using systematic data collection and analysis
+of one or more programs, policies, and organizations intended to assess their effectiveness and
+efficiency. 113 This definition clarifies that activities critical to the everyday work of PD&R and the
+department as a whole-such as data collection, modeling, monitoring efforts, exploratory research,
+and producing guidance and technical assistance-are not included in the AEP. Those efforts can and do
+contribute to significant evaluation activities and are discussed in more detail in other documents, such
+as HUD's annual Agency Performance Plans and Reports.4
+3 5 U.S.C. § 311(3); ; https://www.govregs.com/uscode/title5 parti chapter3 subchapterll section311
+4 https://www.hud.gov/program offices/spm/appr.
+3
+Dissemination Efforts
+Major evaluations offer an important opportunity for HUD to share best practices, translate complex
+findings, and ensure that stakeholders have access to actionable information. Each evaluation typically
+includes both broad and targeted dissemination strategies based on the nature of the findings and the
+stakeholders involved. The core of HUD's approach to disseminating evidence is huduser.gov, the
+Department's research and communication platform operated by PD&R. The site is updated regularly
+with reports, briefs, and data releases associated with all major evaluation activities. PD&R stakeholders
+have access to more than 10,000 research reports, articles, books, and data sources; during FY 2021,
+customers downloaded an average of more than 827,000 files per month from the huduser.gov research
+portal. For evaluations covering pressing issues or with significant findings, PD&R's Assistant Secretary
+will often draft a foreword emphasizing the importance of the work to the Department's and
+Administration's priorities. In addition to posting findings and datasets, PD&R posts the research designs
+(hypotheses, outcome measures, and analysis methods) for major evaluations on huduser.gov at the
+outset of these projects, providing greater transparency to HUD's evaluation work.
+Beyond products associated with a specific evaluation, PD&R produces several periodicals that often
+draw from recently completed research and help ensure that the findings reach different audiences:
+The Edge- - The Edge is PD&R's biweekly online magazine, providing news, a message from PD&R
+leadership, and a wide range of information about housing and community development issues,
+research, and best practices.
+Evidence Matters-Evidence Matters connects policymakers, researchers, advocates, and industry
+members with clear, accessible, and timely information on important housing and community
+development topics. Since it was first published in 2011, Evidence Matters has been published 23 times,
+and the subscriber base is more than 25,000 in addition to those who read it online.
+ityscape-Cityscape is a multidisciplinary scholarly journal that PD&R publishes three times a year to
+advance the state of knowledge, policy, and practice in the areas of HUD's mission. Each issue includes
+at least one symposium of scholarly papers on a common theme. Each symposium has a guest editor.
+4
+New Significant Evaluation Activities Planned for Fiscal Year 2023
+This section briefly describes seven new significant evaluation activities planned for FY 2023. The new
+evaluation activities for FY 2023 fall under four policy topic areas covered by the Learning Agenda: Fiscal
+Years 2022-2026 and support three of the five Strategic Goals in the Department's Fiscal Year 2022-
+2026 Strategic Plan. 5 Exhibit 3 lists the evaluation activities by policy topic area and related strategic
+goal. 6
+Exhibit 3. Policy Topic Areas and Strategic Goals Addressed by FY 2023 New Evaluation Activities
+FY 2023 New Evaluation Activity
+Policy Topic
+HUD Strategic Goal
+1.
+PHA Use of COVID-19 Waivers and
+Core Housing Programs
+Ensure access to and increase
+Effects for PHAs and Tenants
+the production of affordable
+housing (Goal 2)
+2.
+HUD's Role in Closing the
+Homeownership
+Promote homeownership
+Homeownership Gap
+(Goal 3)
+3.
+Asset Building Demonstration
+Self-sufficiency and Economic
+Support underserved
+4.
+Broadband Access for HUD-assisted
+Opportunity
+communities (Goal 1)
+Households
+5. Emergency Housing Voucher Evaluation
+Vulnerable and Special
+Support underserved
+6.
+Eviction Protection Grant Program
+Populations
+communities (Goal 1)
+Evaluation
+7.
+Emergency Rental Assistance Program
+Evaluation
+COVID-19 = coronavirus disease 2019. FHA = Federal Housing Administration. PHA = public housing agency.
+Following are brief descriptions of each planned evaluation activity, organized by policy topic area. The
+questions to be answered by the seven planned evaluation activities largely align with research
+questions in the Learning Agenda but in some cases have been modified to reflect further input from
+PD&R researchers and stakeholders across the Department. At the writing of this report, the specifics of
+the data and methods to be used for each evaluation activity are actively under discussion. The
+descriptions provide guideposts for how the evaluation will likely be conducted, but the approach is
+subject to change as HUD's methodologists and subject matter experts work on refining the approaches
+and as HUD receives further input from Congress and other stakeholders.
+Core Housing Programs
+The evaluation activities presented under this policy topic align with HUD's Strategic Goal 2: Ensure
+access to and increase production of affordable housing, by which HUD seeks to increase the supply of
+5 The new evaluation activities planned for a given year are not expected to cover all policy topic areas or address all Strategic
+Objectives, as those topic areas and objectives may be addressed through ongoing evaluation or through research or capacity-
+building activities.
+6 HUD's present Strategic Goals display variations in scope, specificity, and time sensitivity, and HUD may not use evaluation
+resources to address each objective in any given year. Likewise, the evaluation planned for a given year may not cover all 11
+policy topic areas. For some priorities, evaluations can help to answer pressing policy questions or assess established programs.
+For other priorities, a more appropriate approach may be to build data systems, conduct exploratory research, or focus on
+management or regulatory processes so that significant evaluations can take place in the future.
+5
+housing and improve rental assistance in order to ensure that housing demand is matched by adequate
+production of new homes and equitable access to housing opportunities for all people.
+Public Housing Agency (PHA) Use of COVID-19 Waivers and Effects for PHAs and Tenants
+Since the start of the COVID-19 pandemic, HUD has used authorities in the CARES Act to provide a series
+of statutory and regulatory waivers for the public housing and Housing Choice Voucher (HCV) programs
+to help maintain service and limit unnecessary burdens on staff and assisted tenants. This study would
+investigate PHAs' use of waivers through surveys, interviews, and document review. This study will help
+assess the value of those waivers as potential permanent changes to program operations and potentially
+inform future rulemakings and legislative proposals.
+Question to be Answered
+Which statutory and regulatory waivers instituted during the pandemic did
+PHAs find most valuable and why?
+Information Needed
+Information from PHAs on their use of waivers, collected via surveys,
+interviews, or a combination of both
+Methods to be Used
+Quantitative analysis of survey results and HUD administrative data; qualitative
+analysis of interview responses and document review
+Plans for Dissemination
+Publication on huduser.gov; potential inclusion in PD&R publications
+Homeownership
+The evaluation activities presented under this policy topic align with HUD's Strategic Goal 3: Promote
+homeownership, by which HUD seeks to promote homeownership opportunities, equitable access to
+credit for purchase and improvements, and wealth-building in underserved communities.
+FHA's Role in Closing the Homeownership Gap and Preserving Homeownership During Economic Decline
+For this effort, we would issue a notice to solicit proposals to study (1) the legacy of redlining for
+homeownership patterns and loan performance, using FHA data and U.S. Census Bureau microdata
+geocoded to historical Home Owners Loan Corporation (HOLC) maps; (2) the role that FHA policies play
+in reducing the homeownership gap and in creating sustainable homeownership experiences for
+African-American and Hispanic homebuyers; and/or (3) the role that FHA mortgage servicing and
+forbearance policies have played in preserving homeownership for people of color, including during the
+COVID-19 pandemic.
+Questions to be Answered
+What have HUD programs done to close the homeownership gap, and what
+role does homeowner equity play?
+Information Needed
+HUD administrative data; publicly available economic data
+Methods to be Used
+Quantitative analysis of loan performance data, surveys, and GIS data;
+qualitative analysis of interviews
+Plans for Dissemination
+Publication on huduser.gov; potential inclusion in PD&R publications
+Self-Sufficiency and Economic Opportunity
+The evaluation activities presented under this policy topic align with HUD's Strategic
+Strategic Goal 1: Support underserved communities, by which HUD seeks to fortify support for
+underserved communities by advancing housing justice, strengthening implementation of a Housing
+6
+First approach to reducing homelessness, and promoting equitable community development that
+generates wealth-building for underserved communities.
+Asset Building Demonstration
+In contrast to a subsidy intended to maintain minimum levels of consumption, an effective asset-
+building program could help very low-income families build assets, such as emergency savings, longer-
+term savings and investments, homeownership, and job skills. HUD is interested in building evidence on
+how asset-building can complement its housing assistance programs. A rigorous study of the Family Self-
+Sufficiency (FSS) program-a component of which focuses on building an escrow account-shows that
+after 3 years in the 5-year program, participants had improved their financial literacy and confidence but
+had not increased income or employment outcomes. In terms of credit building, a simulation study
+suggests that including rent payments in credit-scoring algorithms could improve credit for many HUD-
+assisted households. HUD intends to use the Moving to Work (MTW) expansion to investigate the
+feasibility and potential impacts of PHA-led asset-building programs designed to promote savings or
+build credit.
+Questions to be Answered
+What additional approaches can encourage asset building among HUD-assisted
+households?
+Information Needed
+HUD administrative data; direct survey data collection
+Methods to be Used
+Quantitative and qualitative analysis (the specific methods and whether and
+how the study will measure program impacts are to be determined)
+Plans for Dissemination
+Publication on huduser.gov; potential inclusion in PD&R publications
+Broadband Access for HUD-assisted Households7
+High-bandwidth Internet access is increasingly a prerequisite for education, employment, and self-
+sufficiency. This study would assess the "Internet readiness" of the assisted housing stock (housing
+choice voucher, public housing, and multifamily section 8), considering the availability of Internet
+connections, Internet capacity/bandwidth, the cost to households of Internet access, the availability of
+Internet-ready devices, and other barriers to Internet readiness including whether barriers to use by
+assisted families differ for protected classes. The study would also assess potential methods for funding
+Internet access for assisted households (e.g., direct payments to property owners, increase in the utility
+allowance), including estimates of the costs of implementing different approaches.
+Question to be Answered
+What is the best way to ensure access to high-speed Internet connectivity for
+HUD-assisted tenants?
+Information Needed
+Qualitative data collection; cost data collection
+Methods to be Used
+Cost-benefit analysis
+Plans for Dissemination
+Publication on huduser.gov; potential inclusion in PD&R publications
+7 HUD expects to launch this study in FY 2022. The study was not included in HUD's FY 2022 AEP because, at the time of writing
+that report, the study was expected to begin in FY 2023.
+7
+Vulnerable and Special Populations
+The evaluation activities presented under this policy topic align with HUD's Strategic Goal 1: Support
+underserved communities, by which HUD seeks to fortify support for underserved communities by
+advancing housing justice, strengthening implementation of a Housing First approach to reducing
+homelessness, and promoting equitable community development that generates wealth-building for
+underserved communities.
+Emergency Housing Voucher Program Evaluation
+The American Rescue Plan provided funding for about 70,000 Emergency Housing Vouchers (EHVs) for
+individuals and families who are homeless; at risk of homelessness; fleeing or attempting to flee
+domestic violence, dating violence, sexual assault, stalking, or human trafficking; or recently homeless
+and for whom providing rental assistance will prevent the family's homelessness or having high risk of
+housing instability. This mixed-methods evaluation will document (1) how PHAs and Continuums of Care
+(CoCs) structured and implemented the EHV program to serve the target populations; (2) which
+households (by location, race/ethnicity, homeless status, etc.) accessed and were served by the EHV
+program and which households were not; and (3) short-term outcomes (e.g., length of tenure,
+neighborhood and housing type) for households that successfully leased up with an EHV. This research
+would help HUD understand the relationships between the almost 700 PHAs nationwide administering
+the vouchers and the Continuums of Care (CoCs); it would also document how communities used the
+substantial administrative fees and the set of alternative requirements and waivers designed to reduce
+the barriers often faced by the target population when attempting to lease a housing unit using a
+voucher.
+Questions to be Answered
+How did PHAs and CoCs partner to administer their allocation of EHVs, and
+what were the outcomes of tenants who leased up with an EHV?
+Information Needed
+Program data; key informant interviews
+Methods to be Used
+Quantitative and qualitative assessment of program data; qualitative interviews
+with grantees and partners
+Plans for Dissemination
+Publication on huduser.gov potential inclusion in PD&R publications
+Eviction Protection Grant Program Evaluation
+In FY 2021, HUD received $20 million to fund legal services for low-income tenants at risk of eviction.
+The Eviction Protection Grant Program, the first of its kind for the Department, was launched by HUD's
+Office of Policy Development and Research in the fall of 2021. Ten nonprofit legal aid providers received
+inaugural awards ranging from $1 million to $2.4 million through a competitive grant process with a 2-
+year period of performance expected to begin January 2022. This evaluation will assess the
+implementation of the program and further explore how legal services and housing services can work
+together to help tenants avoid eviction altogether or avoid the most harmful effects of eviction.
+Questions to be Answered
+How are HUD grantees implementing the Eviction Protection Grant Program?
+did grantees work with housing providers, legal service providers, and other
+social service providers to deliver assistance?
+Information Needed
+Program data; key informant interviews
+8
+Methods to be Used
+Quantitative and qualitative assessment of program data; qualitative interviews
+with grantees and partners
+Plans for Dissemination
+Publication on huduser.gov; potential inclusion in PD&R publications
+Emergency Rental Assistance Program Evaluation
+Since the start of the COVID-19 pandemic, Congress has appropriated billions of dollars to federal
+government agencies to help people subject to catastrophic income loss maintain their housing and
+avoid eviction and homelessness. The Department of the Treasury's Emergency Rental Assistance (ERA)
+program has allocated a total of $46.5 billion over two rounds of funding to cities, counties, states, and
+tribes to help keep people in their homes. PD&R plans to conduct research into the uses of ERA funds
+and their effectiveness in helping households avoid eviction and homelessness and maintain housing
+stability. Potential components of the research include (1) a national analysis of the uses of ERA-
+answering questions such as how quickly communities were able to help families in need, how their
+programs were designed, what activities they chose to fund, and what barriers they faced to using the
+funds or reaching certain populations; (2) studies of ERA implementation in diverse local communities to
+learn about approaches that were perceived to be most effective in terms of eviction and homelessness
+prevention and lessons learned for future investment in emergency assistance; and (3) outcome, impact,
+and cost study to evaluate the effectiveness of different models, using metrics such as the rate at which
+assisted families subsequently experience eviction or homelessness or the racial and demographic
+characteristics of those able to access assistance. The goal of the research would be to contribute
+substantially to the evidence base on the role of short-term assistance in promoting long-term housing
+stability and to lay the groundwork for a national demonstration of the most promising models.
+Question to be Answered
+To what extent and how can emergency rental assistance prevent evictions,
+deep housing insecurity, and homelessness?
+Information Needed
+Local/federal administrative data; survey or interviews with local implementers
+of the program; surveys or interviews with program beneficiaries (if feasible)
+Methods to be Used
+Quantitative analysis of administrative data; quantitative analysis of survey
+data; qualitative analysis of interview data
+Plans for Dissemination
+Publication on huduser.gov; potential inclusion in PD&R publications
+Ongoing Evaluation Activities
+The full body of evaluation work enables Congress, the Secretary, and other HUD principal staff to make
+informed decisions on budget and legislative proposals and strengthen housing and community
+development policy. Exhibit 4 lists significant PD&R evaluation activities that were launched before
+FY 2023 but are expected to contribute to the Department's learning during this period.
+PD&R maintains a list of major research and evaluation efforts that are ongoing, as well as a library of
+published reports, periodicals, and other evaluation resources on the office's website, huduser.gov.
+PD&R's major ongoing evaluation efforts will provide reliable and objective housing research and market
+data to the policymaking community, as well as skilled analysis that assists HUD's leadership in making
+evidence-based policy decisions.
+9
+Exhibit 4. Policy Topic Areas and Strategic Objectives Addressed by Ongoing Evaluation Activities
+Ongoing Evaluation Activity
+Policy Topic Area
+HUD Strategic Goal
+1.
+Choice Neighborhoods Evaluation
+Community Development
+Support underserved
+2.
+Use and Effectiveness of CDBG in Local
+and Place-based Initiatives
+communities (Goal 1)
+Jurisdictions
+3. Evaluation of Moving to Work (MTW)
+Core Housing Programs
+Ensure access to and
+Understanding the Effects of MTW Flexibility for
+increase the production
+Small Public Housing Agencies Cohort
+of affordable housing
+4.
+Evaluation of MTW Stepped and Tiered Rent
+(Goal 2)
+Cohort
+5.
+Evaluation of MTW Incentives for Landlords
+Cohort
+6.
+Evaluation of the Housing Choice Voucher
+Mobility Demonstration
+7.
+Rental Assistance Demonstration (RAD) Choice
+Mobility and Long-Term Affordability Evaluation
+8.
+Rent Reform Demonstration
+9. Capital Needs Assessment for Public Housing
+10. Impact of RAD on Children in Assisted
+Households
+11. Voucher Success Rate Study
+12. Effectiveness of Disaster Recovery Funding
+Disaster Recovery, Energy,
+Advance sustainable
+and Climate Change
+communities (Goal 4)
+13. Strategies for Reducing the Regulatory
+Housing Finance and
+Ensure access to and
+Impediments to the Financing and Siting of
+Affordable Housing Supply
+increase the production
+Factory Built Housing in American Communities
+of affordable housing
+14. Using Parcel and Household Data to Evaluate the
+(Goal 2)
+Low-Income Housing Tax Credit and Housing
+Choice Voucher Programs: Transportation, Crime,
+Education, and Tenant Choice
+15. Evaluation of the Supportive Services
+Housing and Health
+Advance sustainable
+Demonstration Phase -Integrated Wellness In
+communities (Goal 4)
+Supportive Housing (IWISH2)
+16. Housing and Children's Healthy Development
+17. Moving to Opportunity: Platform to Improve
+Health
+18. Rental Property Health and Safety Violations
+19. The First-Time Homebuyer Education and
+Homeownership
+Promote
+Counseling Demonstration
+homeownership (Goal
+20. Balancing Mortgage Debt Burden and Equity
+3)
+Accumulation
+21. Evaluation of the Family Unification Program and
+Self-sufficiency and
+Support underserved
+Family Self-Sufficiency Demonstration
+Economic Opportunity
+communities (Goal 1)
+22. National Family Self-Sufficiency Program
+Demonstration
+23. The Foster Youth to Independence Initiative
+Implementation Analysis
+24. High-Cost Cities, Gentrification, and Voucher Use:
+Exploring Access to Quality Homes and
+Neighborhoods
+10
+Ongoing Evaluation Activity
+Policy Topic Area
+HUD Strategic Goal
+25. Evaluation of Tacoma Housing Authority's College
+Housing Assistance Program
+26. Study of Work Requirement Policies Established
+by MTW Agencies
+27. Childcare in Assisted Housing
+28. Leveraging Integrated Data to Examine Youth
+Vulnerable and Special
+Support underserved
+Homelessness
+Populations
+communities (Goal 1)
+29. Evaluation of the HUD-DOJ Pay for Success
+Permanent Supportive Housing Demonstration
+30. Coming Home: An Evaluation of New York City
+Housing Authority (NYCHA)'s Family Reentry Pilot
+31. Housing Outcomes, Tenant Satisfaction, and
+Community Integration in Single-site and
+Scattered-site Housing First Models: A
+Randomized Trial
+32. Youth Homeless Prevention Demonstration
+Evaluation
+33. Family Options: Long-term Tracking
+11
+U.S. Department of Housing and Urban Development
+Office of Policy Development and Research
+Washington, DC 20410-6000
+OFF
+un the *
+May 2022
+EQUAL HOUSING
+OPPORTUNITY

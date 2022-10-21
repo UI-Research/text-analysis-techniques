@@ -1,0 +1,1286 @@
+Foundations for Evidence-Based
+Policymaking Act of 2018
+Fiscal Years 2022-2026
+Learning Agenda
+Securing today
+and tomorrow
+Social Security Administration
+|
+February 2022
+Contents
+Introduction
+3
+List of Priority Questions
+5
+Supporting Information on Priority Questions
+6
+Supporting Effective and Equitable Delivery of Social Security Services
+6
+Assessment of the Disability Programs
+9
+Assessment of the Public's Preferences and Needs for Online Services
+12
+Assessment of Customer Communications
+14
+Evaluation of the Redesigned Social Security Statement
+16
+Assessment of the Public's Knowledge of the Disability Programs and How that Knowledge Affects
+the Decision To Pursue Disability Benefits
+18
+Assessment of Employment Barriers and Mitigation Efforts
+19
+Analysis of Federal Court Remands
+22
+Analysis of Program Simplification Proposals
+23
+Development and Evaluation of Interagency Collaborations
+25
+Appendix A: Request for Information
+28
+Comments from Individuals
+28
+Comments from Organizations
+29
+Selected Abbreviations
+ASP
+Agency Strategic Plan
+DI
+Disability Insurance
+FY
+Fiscal Year
+OASI
+Old-Age and Survivors Insurance
+OMB
+Office of Management and Budget
+SSA
+Social Security Administration
+SSAB
+Social Security Advisory Board
+SSI
+Supplemental Security Income
+INTRODUCTION
+This Fiscal Years (FY) 2022-2026 Learning Agenda describes our evidence-building roadmap to
+support the goals in our FYs 2022-2026 Agency Strategic Plan (ASP). We identified ten priority
+questions that correspond to the ASP goals. The priority questions include short-term and long-term
+questions related to our mission, strategic plans, and agency operations. We expect that answers to
+our priority questions will provide valuable information about our agency's performance and promote
+evidence-based decision-making.
+We gathered information from internal and external stakeholders to develop our Learning Agenda. In
+January 2021, our Evaluation Officer held an initial meeting with internal stakeholders from all our
+major offices. At the meeting, our Evaluation Officer provided a description of the Learning Agenda, a
+description of possible Learning Agenda questions, and a sample of information we would include
+with a priority question in the Learning Agenda. Our Evaluation Officer established a working group
+with two representatives from each of our 11 major offices to obtain their input as internal
+stakeholders and to identify priority questions.
+The working group sought input from external stakeholders that included members of the public,
+agencies, State and local governments, and representatives of non-governmental research
+organizations. To solicit input specifically for our Learning Agenda, on April 20, 2021, we published in
+the Federal Register: Request for Information on the Foundations for Evidence-Based Policymaking
+Act of 2018 Learning Agenda. To encourage comments on the Request for Information (RFI), we
+worked with our Office of Communications to send a "Dear Colleague" letter to 3,000 external
+stakeholders and we publicized the RFI on our What's New web page that reaches 59,000 subscribers.
+We considered all comments including those that recommended research or improvements to our
+programs in several areas:
+Understandability of our communications;
+Data sharing and collaboration with other agencies;
+Collecting race and ethnicity data;
+Timely and equitable service delivery;
+Work incentives; and
+The Ticket to Work program.
+We regularly receive information on potential research and evaluation activities during routine
+communications with advocacy groups, our State and Federal agency partners, and the Social Security
+Advisory Board (SSAB). For example, our Associate Commissioner for the Office of Research,
+Evaluation, and Statistics sends an annual request for research topics to the SSAB. We considered
+their response to the request as we developed our Learning Agenda. We also obtained information
+from the SSAB's Roundtable on Social Security's Public Service that included a discussion of
+underserved populations and relevant research questions that we considered for inclusion in our
+Learning Agenda. The working group used this information as part of the process of developing and
+refining priority questions. Stakeholders expressed interest in further research and improvements to
+our programs to address the decline in disability applications during the COVID-19 pandemic or due to
+other long-term trends, race and ethnicity data, challenges related to providing in-person services
+needed by certain populations, improving service delivery for people facing barriers, and improving our
+communication and outreach.
+Social Security Administration
+3
+FYs 2022-2026 Learning Agenda
+The working group compiled a list of potential priority questions based on the information gathered from
+internal and external stakeholders and completed a process of refining and prioritizing the questions. In
+developing the final list, the working group focused on identifying a mix of short-term and longer-term
+priority questions that would inform goals in the FYs 2022-2026 ASP. After consulting with agency
+executives, we arrived at the ten priority questions identified in this Learning Agenda.
+For each priority question, we provide background information and the actions we will take to answer
+the question. Specifically, we include:
+A project title;
+The corresponding agency strategic goal and objective;
+A description of the rationale and activities for the priority question;
+The timeframe for addressing the priority question;
+The potential data, tools, methods, and analytical approaches;
+The anticipated challenges to addressing the priority question; and
+The proposed solutions to those challenges.
+Social Security Administration
+4
+FYs 2022-2026 Learning Agenda
+LIST OF PRIORITY QUESTIONS
+Page
+1
+What are the effects of changes to our service delivery methods on the accessibility, use,
+efficiency, security, and equitable delivery of our services?
+6
+2
+To what extent are the Disability Insurance (DI) and Supplemental Security Income (SSI)
+programs equitably serving and meeting the needs, including return-to-work efforts, of the
+population that Congress intended these programs to serve?
+9
+3
+What are the key factors that influence the public's use of our online services, including the
+services we deliver through my Social Security, and what are the effects of methods to
+modify these key factors on our customers' decisions to create my Social Security
+accounts and use our online services?
+12
+4
+What are the effects of changes to our communication methods on customer satisfaction,
+program integrity, and administrative efficiency?
+14
+5
+Does redesigning the Social Security Statement and providing supplemental fact sheets
+with customized information on Social Security's programs improve people's knowledge
+of the programs and increase the use of internet services?
+16
+6
+Does the working-age population have accurate knowledge of the Social Security disability
+programs, and to what extent does the working-age population's knowledge, attitudes, and
+perceptions of the Social Security disability programs influence the decision to pursue
+benefits?
+18
+7
+To what extent are there systemic barriers to hiring, developing, and advancing a diverse
+and talented workforce and what are the effects of our Action Plan to mitigate those barriers
+in support of our goal to build an inclusive, engaged, and empowered workforce?
+19
+8
+What factors contribute to Federal court remands of disability decisions, and what are the
+effects of modifying relevant factors on the percentage of final decisions that are affirmed
+upon judicial review?
+22
+9
+What are the effects of simplifying administrative rules and requirements on reducing
+the burden on program participants and supporting program integrity?
+23
+10
+What are the effects of improving collaboration and enhancing data sharing with
+external agencies on saving citizens time from reporting required information, reducing
+labor market barriers, improving program solvency projections, improving program
+administration, and reducing improper payments?
+25
+Social Security Administration
+5
+FYs 2022-2026 Learning Agenda
+SUPPORTING INFORMATION ON PRIORITY QUESTIONS
+1
+PRIORITY QUESTION
+What are the effects of changes to our service delivery methods on the accessibility, use,
+efficiency, security, and equitable delivery of our services?
+Project Title: Supporting Effective and Equitable Delivery of Social
+Security Services
+FYs 2022-2026 ASP Goal & Objective: Optimize the Experience of SSA Customers > Identify and
+Address Barriers to Accessing Services
+Description: Our customers traditionally had several options for conducting business with us including
+the use of in-person and telephone service at our field offices, telephone service using our National 800
+number, online services including my Social Security, and video service delivery. This priority
+question will examine the effects of changes to our service delivery methods. It will also support
+evidence-building activities relevant to our Equity Action Plan, and Executive Order 14058 on
+Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government.
+Prior research shows that the field office closures that occurred between 2000 and 2014 resulted in
+fewer disability applications and fewer people receiving benefits, and disproportionately affected those
+individuals with lower education levels and lower pre-disability earnings (Deshpande and Li, 2019).
+Specifically, field office closings reduced "the number of disability applications by 10 percent and the
+number of recipients by 16 percent in neighborhoods whose nearest office closes, and have smaller but
+sizable effects in neighborhoods around neighboring offices.' (Deshpande and Li, 2019, p. 245-246).
+The decline in applications was twice as large for the SSI program (14 percent for adults and
+15 percent for children) as it was for the DI program (7 percent). Two of the conclusions that the
+authors draw from their study are: (1) the services provided by field offices were instrumental for 10
+percent of applicants in the decision to apply, and in the past, legal representatives have not filled the
+gaps created by office closings; and (2) future decisions about field office placement should consider
+the distributional consequences of closings. It is important to note that this study estimates the effect of
+closing a subset of offices while other offices remain open and does not speak directly to the effect of
+closing all field offices at once.
+The public health measures taken due to the COVID-19 pandemic limited the in-person services
+delivered in our field offices. The data show that applications for DI benefits, SSI aged payments, and
+SSI disability payments abruptly fell beginning in March 2020. As of December 2021, applications for
+DI benefits and SSI disability payments have not returned to their pre-pandemic levels. Building on
+prior research on the effects of field office closings, we will examine the distributional consequences of
+the limited in-person services delivered in our field offices by geographic location, race and ethnicity,
+demographic, and socioeconomic characteristics. Our findings will provide evidence on the
+characteristics of people who face barriers in accessing our services and will inform our efforts to
+deliver more effective and equitable services.
+Our Equity Action Plan identifies our efforts to assist people who face challenges accessing and using
+our services. For example, we have taken actions such as providing outreach and support for filing
+applications. We established new liaison positions in our field offices to ensure that we provide quality
+and compassionate service to people experiencing physical or language barriers, medical conditions, or
+Social Security Administration
+6
+FYs 2022-2026 Learning Agenda
+inadequate access to the internet. Our liaisons also communicate with partners, as discussed below,
+on a regular basis to provide support and guidance on SSI claims. We will evaluate such efforts to
+estimate the effect on the use, efficiency, security, and equitable delivery of our services. We will use
+the results of our evaluation to determine whether we need to use other methods.
+In the past, we worked with outside organizations through the Substance Abuse and Mental Health
+Services Administration (SAMSA)-funded SSI/DI Outreach, Access, and Recovery (SOAR) program to
+assist people who are homeless. It might be possible to adapt the SOAR model to assist other
+populations who experience barriers to applying for disability benefits. We will assess whether we can
+successfully adapt other evidence-based programs that help people access needed services and seek
+opportunities to form partnerships with other agencies that will enable people to obtain needed benefits.
+We may initially develop pilot projects designed to assess the efficacy of such programs for our
+purposes before proceeding to a larger scale project that would assess the effects on the use,
+efficiency, security, and equitable delivery of services.
+The five agency-specific commitments in Executive Order 14058 on Transforming Federal Customer
+Experience and Service Delivery to Rebuild Trust in Government will help us assess new service
+delivery options to improve access to our services. This includes an assessment of services requiring
+physical documentation or in-person appearance; developing a mobile-accessible, online process for
+document uploads; maintaining a public policy of technology neutrality in electronic signatures,
+consistent with applicable law and to the extent practicable; eliminating physical signature
+requirements, consistent with applicable law and to the extent practicable; and supporting customers to
+help identify other benefits for which they may be eligible and integrating agency data and processes
+with other Federal and State entitles whenever possible. As we develop and work toward these
+commitments, we will assess the new service delivery methods and identify enhancements that may
+improve the customer experience. We will establish customer research studies and obtain customer
+feedback as part of the Executive Order implementation. Although the details are not formalized at this
+point, we will continue to mature the Executive Order roadmaps and deployment plans. In addition, we
+have explored the use of a video-conferencing platform using the Microsoft Teams application to
+complete Social Security number replacement card transactions and to participate in hearings before
+an administrative law judge. We will continue to assess the use of video-conferencing platforms and
+use the results of our assessments to identify potential improvements. We will conduct foundational
+fact-finding research to identify other innovative methods for delivering our services.
+Timeframe: FYs 2022-2026
+Potential Data, Tools, Methods, and Analytical Approaches: We will use Social Security
+Administration (SSA) program data to produce descriptive statistics on the characteristics of applicants
+and recipients for each of the following programs: (1) Old-Age and Survivors Insurance (OASI) benefits,
+(2) DI benefits, (3) SSI payments based on disability, and (4) SSI payments based on age. The
+characteristics will include geographic location, limited English proficiency, pre-application earnings,
+and other available socioeconomic and demographic characteristics. We will produce descriptive
+statistics for three discrete periods: (1) pre-COVID-19 pandemic, (2) during the COVID-19 pandemic
+when in-person services were limited, and (3) when we increase our in-person services to the public. If
+available, we will expand this analysis using additional data on race and ethnicity, education level,
+household income, and other relevant data that is available in the American Community Survey (ACS)
+that is linked to our program data. This data analysis will provide an initial picture of whether certain
+sub-populations (e.g., low-income households) experienced larger than average declines in
+applications and benefit receipt when we limited in-person services. We will use appropriate
+multivariate statistical models to further assess the consequences of changes to our in-person services.
+This information will help us identify the characteristics of people facing barriers to our service delivery
+Social Security Administration
+7
+FYs 2022-2026 Learning Agenda
+methods. The information is foundational for developing effective and efficient outreach efforts, and for
+identifying communities where additional assistance is needed when our in-person services are limited.
+We will use SSA program data to assess the effect of our outreach efforts during the COVID-19
+pandemic period on applications for benefits, receipt of benefits, the time to a final decision on an
+application (efficiency), fraudulent claims (security), and characteristics of those we serve through our
+outreach (equity). Our assessment will rely on non-experimental methods (e.g., interrupted time series)
+to estimate the effects of our outreach on these outcomes. We plan to use focus groups, analysis of
+our customer experience data, and qualitative studies to supplement our assessment and provide
+additional context on the effects of our outreach.
+We will seek research proposals from the Retirement and Disability Research Consortium (RDRC)
+centers via the "Improving Service Delivery" focal area to evaluate changes in our service delivery
+methods on key outcomes, including those identified in our priority question. We currently fund the
+RDRC centers at Boston College, the National Bureau of Economic Research, the University of
+Michigan, and the University of Wisconsin at Madison. The RDRC centers have expertise using a wide
+array of data sources, tools, methods, and analytical approaches to conduct their research. The
+research by Deshpande and Li (2019) is a good example of research funded through the RDRC.
+For assessments and evaluations of new service delivery methods, we will develop an evaluation plan
+prior to implementation that describes the data, tools, methods, and analytical approaches. We will
+establish an enterprise Voice of the Customer feedback collection tool that will allow us to capture real-
+time customer feedback across all service channels to identify pain points along customer journeys.
+This will enable us to quantify baseline satisfaction with our various service delivery methods. We will
+analyze customer feedback to identify barriers to using our online services and determine ways to
+improve or expand our online services and increase customers' willingness to conduct business with us
+online. Our Evaluation Officer will review and approve the plans before implementation of the new
+program.
+Anticipated Challenges: We have recently completed the agreement with the Census Bureau to link
+our program data to the ACS data for statistical purposes, and we will need to obtain approval from the
+Census Bureau to use the data for this project. The ACS data is a sample and the microdata for 2020
+might not be useable due to issues with data collection during the pandemic.
+Proposed Solutions: We will continue to work with the Census Bureau to obtain needed approval to
+use the data for this project. We will use the ACS to the extent possible for the analysis, and compute
+appropriate standard errors to account for sampling error. We will clearly describe the limitation with
+the ACS data in 2020 and the methods we used to address the limitation. We will identify our resource
+needs and make a concerted effort to obtain the necessary resources to conduct evaluations of new
+service delivery models. We will consult internal stakeholders before we assess service delivery
+methods to ensure that we are complying with legal requirements.
+REFERENCE
+Deshpande, Manasi, and Yue Li. 2019. "Who Is Screened Out? Application Costs and the Targeting of Disability Programs,"
+American Economic Journal: Economic Policy 11(4):213-48.
+Social Security Administration
+8
+FYs 2022-2026 Learning Agenda
+2
+PRIORITY QUESTION
+To what extent are the Disability Insurance (DI) and Supplemental Security Income (SSI)
+programs equitably serving and meeting the needs, including return-to-work efforts, of the
+population that Congress intended these programs to serve?
+Project Title: Assessment of the Disability Programs
+FYs 2022-2026 ASP Goal & Objective: Optimize the Experience of SSA Customers > Identify and
+Address Barriers to Accessing Services
+Description: The DI program provides income support, as well as Medicare coverage after a
+24-month waiting period in most cases, to insured people who meet the definition of disability specified
+in the Social Security Act. The SSI program is a means-tested program that provides income
+assistance and access to Medicaid to adults and children who meet the definition of disability specified
+in the Social Security Act, and to those ages 65 or older. The DI and SSI programs provide access to
+employment supports through the Ticket to Work program, and employment and benefits counseling
+services through work incentive planning and assistance grants. The programs include provisions
+designed to encourage work among program participants.
+While national in scope, there are distinct regional differences in participation in DI and SSI, as well as
+differences in participation by race, ethnicity, sex, age, and socioeconomic background. There might
+be differences in how claims are adjudicated and how people exit from the program (due to both work
+and medical improvement) that are associated with race, ethnicity, sex, age, and socioeconomic
+background. In support of our Equity Action Plan and Strategic Objective 1.1-Identify and Address
+Barriers to Accessing Services, this priority question will address the extent to which these differences
+may be due to the design and administration of the programs and the extent to which they may be due
+to external factors. External factors may include systemic barriers in the labor market, access to
+assistance with the application process, or other local conditions. The question will address whether
+the existing work incentives and services for people with disabilities provide the necessary support for
+achieving work goals including post-program employment outcomes.
+Finally, this question will address the extent to which the disability programs are meeting the needs of
+beneficiaries. Studies have found that the DI and SSI programs substantially reduce poverty among
+beneficiaries; however, many continue to have unmet healthcare needs and disability-related
+expenses, and face barriers to achieving economic mobility. Understanding whether there are
+differences in how the programs meet their fundamental purposes by demographic and socioeconomic
+characteristics, and whether changes are necessary, will help ensure that we administer the programs
+equitably and that any changes we make to the programs are effective and efficient in achieving
+intended outcomes. Additionally, as part of our commitment to Executive Order 14058 on Transforming
+Federal Customer Experience and Service Delivery to Rebuild Trust in Government, we will ensure
+cross-program benefit eligibility by maximally supporting applicants and beneficiaries to identify other
+benefits for which they may be eligible and integrate agency data and processes with other Federal and
+State entities whenever possible. This effort will help remove structural barriers to other benefits while
+we address the extent to which the DI and SSI programs are meeting the needs of the public.
+Timeframe: FYs 2022-2025
+Potential Data, Tools, Methods, and Analytical Approaches: We will conduct foundational fact-
+finding and interventional research to determine the needs of beneficiaries and whether the DI and SSI
+programs are meeting those needs.
+Social Security Administration
+9
+FYs 2022-2026 Learning Agenda
+The new Disability Research Surveys project will include a detailed survey of new applicants so that we
+can learn about how the applicants decided to apply for DI and SSI, their use of representation during
+the application process, and early experiences with the programs. As noted in our Equity Action Plan,
+this foundational fact-finding research will collect race and ethnicity information for program applicants
+and beneficiaries that will help us assess disparities in the application process and the programs, and
+will identify potential changes that might be necessary to more effectively serve applicants and
+beneficiaries.
+The new Interventional Cooperative Agreement Program (ICAP) allows us to work with interested third
+parties to test new strategies for supporting people with disabilities. The ICAP announcement identified
+the following areas of inquiry:
+Examining the structural barriers in the labor market, including for racial, ethnic, or other
+underserved communities, including people with disabilities, that increase the likelihood of people
+receiving or applying for DI or SSI benefits;
+Promoting self-sufficiency by helping people enter, stay in, or return to the labor force, including
+transition-age youth;
+Coordinating planning between private and public human services agencies to improve the
+administration and effectiveness of the DI, SSI, and related programs;
+Assisting claimants in underserved communities apply for or appeal determinations or decisions on
+claims for DI and SSI benefits; and
+Conducting outreach to children with disabilities who are potentially eligible to receive SSI and
+conducting outreach to their parents and guardians.
+In FY 2021, we made two awards. One project will conduct a randomized controlled trial to test an
+employment intervention for rehabilitation patients who experienced a recent neurotrauma, while the
+other project will conduct a feasibility study of implementing the SSI/SSDI Outreach, Access, and
+Recovery (SOAR) model with incarcerated people with serious mental illness. We plan to solicit new
+proposals on a recurring basis. Grant awardees will recommend specific data and methods that we will
+use for the specific project. We will work with the grantees to ensure that the research and evaluations
+are consistent with our evaluation policy (see www.ssa.gov/data). The ICAP is an important
+component of two focal areas within our Equity Action Plan.
+We will conduct demonstrations to determine if potential interventions help reduce barriers to the
+employment programs or to the labor market. The Retaining Talent After Injury/Illness Network
+(RETAIN) project and Promoting Work through Early Interventions Project (PWEIP) will help determine
+if pre-disability program supports can improve worker connection to the labor force. A secondary
+objective of the PWEIP study is to compile data about evidence-based supported employment models
+and build our knowledge stock of effective interventions for people at risk for but not enrolled in DI or
+SSI. These projects will use survey data, SSA program data, focus groups, and qualitative methods to
+conduct both formative and summative evaluations. We are currently testing whether directly referring
+beneficiaries and applicants to vocational rehabilitation services will improve access to employment
+services in the Ohio Direct Referral Demonstration. We use program data and a randomized controlled
+trial design to evaluate the impact of this project on employment outcomes and program participation.
+Finally, we will begin a new evaluation of the Ticket to Work program to determine what barriers may
+exist in using our return-to-work activities and whether the Ticket to Work program meets the needs of
+beneficiaries interested in returning to work. The evaluations will use SSA program data, survey data,
+Social Security Administration
+10
+FYs 2022-2026 Learning Agenda
+and appropriate methods to assess the effects of the Ticket to Work program on use of employment
+services, employment, and SSI and DI program participation.
+We are also working with researchers at the University of Chicago and the National Bureau of
+Economic Research to evaluate the effects of providing early information to families of child SSI
+recipients about the transition to adulthood on short-term and long-term outcomes. This project
+includes using SSA program data and a randomized control trial design to evaluate the impact of
+sending parents information about the likelihood that their child will lose SSI benefits at age 18 on
+parent beliefs and goals, the child's education investment and educational attainment, and ultimately
+employment and program participation outcomes. Combined with previous randomized control trial
+studies related to youth receiving SSI (e.g., the Youth Transition Demonstration and Promoting
+Readiness of Minors in SSI project), we expect to have a solid evidence base upon which to determine
+if changes to youth transition policies are necessary.
+The Beyond Benefits Study will focus on the needs of people who have recently exited or whom we
+expect to exit the DI and SSI programs due to medical improvement. In addition to surveys, the
+Beyond Benefits Study will include focus groups and pilot a version of motivational interviewing to
+provide additional information on the needs and experiences of beneficiaries. The motivational
+interviewing pilot will also provide us with key information about the effectiveness of this as a time-
+limited intervention. The pilot will highlight the processes that are needed if we decide to conduct a
+future demonstration.
+Each of these efforts will enable us to conduct distributional analyses and other evaluation activities to
+determine if the DI and SSI programs affect subgroups differently and if those subgroups have different
+needs from the programs. From these analyses, we will develop recommendations to improve the
+equitable and efficient administration of the DI and SSI programs, which aligns with a focal area
+described in our Equity Action Plan.
+Anticipated Challenges: Each new data collection activity will require Paperwork Reduction Act
+clearance from OMB, as well as legal and privacy compliance actions. Additionally, new projects may
+require contracts or other similar agreements that take time to develop. There may be data limitations
+on what we can use for research purposes or what the agency collects that will limit what analyses we
+can do. Finally, our authority to initiate projects under section 234 of the Social Security Act terminated
+on December 31, 2021, which limits our ability to test DI program changes using the authority in section
+234 unless Congress extends those dates.
+Proposed Solutions: We have planned sufficient time to receive Paperwork Reduction Act clearance,
+address legal and privacy compliance actions, and enter into necessary agreements based on experi-
+ences with similar projects. We will continue to explore options for renewing our DI demonstration
+authority, in addition to using a variety of evidence-building methods, as mentioned above.
+Social Security Administration
+11
+FYs 2022-2026 Learning Agenda
+3
+PRIORITY QUESTION
+What are the key factors that influence the public's use of our online services, including the
+services we deliver through my Social Security, and what are the effects of methods to modify
+these key factors on our customers' decisions to create my Social Security accounts and use
+our online services?
+Project Title: Assessment of the Public's Preferences and Needs for
+Online Services
+FYs 2022-2026 ASP Goal & Objective: Optimize the Experience of SSA Customers > Expand Digital
+Services
+Description: We offer a variety of secure online services to the public, including services within
+my Social Security that provide personalized tools for everyone, whether the person receives benefits
+or not. Through my Social Security, people in most States and the District of Columbia can request a
+replacement Social Security card, check the status of an application, estimate future benefits, and
+manage benefits. As of January 2022, more than 65 million people have a my Social Security
+account. The purpose of this priority question is to develop evidence that will help us increase our
+customers' willingness and ability to create a my Social Security account and use our online services.
+It will also support evidence-building activities relevant to our Equity Action Plan, and Executive Order
+14058 on Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in
+Government.
+We have ongoing evidence-building activities underway on this priority question. We obtain information
+on the public's service delivery preferences and needs through a biannual prospective client survey, the
+University of Southern California's Understanding America Study, and other data collected such as
+customer satisfaction surveys. We will establish an enterprise Voice of the Customer feedback
+collection that will allow us to capture real-time customer feedback across all service channels to
+identify pain points along customer journeys. This will enable us to quantify baseline satisfaction with
+our online services. We will analyze customer feedback to identify barriers to using our online services
+and determine ways to improve or expand our online services and increase customers' willingness to
+conduct business with us online.
+We collect data through focus group interviews and extensive user testing to assess changes to our
+online services before implementation. The insights we obtain through these efforts help us design
+user-friendly online services that are easy for the public to navigate. After we implement changes to
+online services, we will use real-time customer feedback collection to gauge the solutions'
+effectiveness. Our customer feedback management platform will provide data that can help us identify
+the page people were on when they provided their feedback, which will pinpoint where on the site
+customers were having issues. These activities will be important as we develop and implement new
+digital services, such as our support of Executive Order 14058 on Transforming Federal Customer
+Experience and Service Delivery to Rebuild Trust in Government that includes the development of a
+mobile-accessible, online process so that any individual applying for or receiving services from us can
+upload forms, documentation, evidence, or correspondence associated with their transaction without
+the need for service-specific tools or traveling to a field office.
+In some instances, our policy, regulations, authentication methods, and data limitations might impose
+barriers that prevent some people from using our online services. We have addressed some of these
+potential barriers in the past and we will assess how these changes may have influenced the use of our
+Social Security Administration
+12
+FYs 2022-2026 Learning Agenda
+online services. For example, customers now have the option to sign into my Social Security using
+their credentials (username, password, and second factor) from one of our external identity partners or
+sign in using their electronic access (eAccess) credentials (username, password, and second factor).
+This partnership allows customers to reuse existing credentials, which saves them time and effort
+because they do not have to go through the my Social Security registration process. This priority
+question will include an analysis of both the potential barriers to using our online services and the
+potential solutions to the barriers. The results of our analyses and assessments will inform our efforts
+to prioritize changes that will facilitate the use of our online services.
+Timeframe: FYs 2022-2026
+Potential Data, Tools, Methods, and Analytical Approaches: To respond to this priority question,
+we will use data from our biannual prospective client survey, the University of Southern California's
+Understanding America Study, and data collected from customers using other sources such as
+customer satisfaction surveys to continue tracking changes to the preferences and demands for our
+online services over time. We will use standard univariate and multivariate statistical methods, and we
+will use variation in survey responses over time and by demographic groups (e.g., age), to draw
+inferences on changes in our customers' preferences and demands for online services. We will use
+this information to help us identify potential changes to our online services. We will use focus groups
+and user testing to identify how to implement some of these changes.
+We have included a new "Improving Service Delivery" focal area for our Retirement and Disability
+Research Consortium (RDRC) grant program. We will leverage their expertise to explore ways we may
+better identify and evaluate potential methods to improve access to, and use of, our online services.
+For example, some of the RDRC researchers specialize in behavioral economics, and they might
+identify new and innovative ways to guide the public toward establishing my Social Security accounts
+and conducting business with us online.
+When we identify new online services to offer through my Social Security, we will assess potential
+barriers that our existing policies, regulations, authentication methods, and data limitations impose on
+users of some of the new services. We will conduct an analysis of methods that other Federal
+agencies and the private sector have used to overcome such barriers. This assessment will provide
+evidence to help us determine if we need to make changes aimed at increasing access to our
+online services.
+Anticipated Challenges: The "Improving Service Delivery" focal area is new to the RDRC centers,
+and it might take RDRC researchers time to establish a research agenda on the new focal area. In
+addition, we must follow the confidentiality and privacy laws, as well as other legal requirements, when
+we collect customer feedback and perform user testing.
+Proposed Solutions: In the past, we have collaborated with RDRC researchers to conduct studies on
+new priority areas. The collaboration has been successful in that it combines the program expertise
+from our research staff with the methods expertise from the RDRC research team. We might need to
+use this collaboration model to promote service delivery research among the RDRC researchers. We
+will consult internal stakeholders to ensure that we comply with legal requirements.
+Social Security Administration
+13
+FYs 2022-2026 Learning Agenda
+4
+PRIORITY QUESTION
+What are the effects of changes to our communication methods on customer satisfaction,
+program integrity, and administrative efficiency?
+Project Title: Assessment of Customer Communications
+FYs 2022-2026 ASP Goal & Objective: Optimize the Experience of SSA Customers > Build a
+Customer-Focused Organization
+Description: We communicate with our customers and receive communications from them in different
+ways including U.S. mail, telephone, in-person, online (through the my Social Security Message
+Center), and other electronic forms such as text message and email. This priority question will assess
+the effectiveness of our communications and our customers' preferences for receiving communications.
+This assessment will provide us with information about changes that we expect to result in clearer and
+more effective communication that satisfies customer needs and preferences, increases program
+integrity, and helps us administer our programs more efficiently and effectively. The evidence-building
+activities will inform Executive Order 14058 on Transforming Federal Customer Experience and Service
+Delivery to Rebuild Trust in Government.
+We will initially focus our evidence-building activities on the following two sets of questions.
+1. To what extent would customers applying for disability benefits prefer agency communication
+(e.g., requests for forms completion, reminders to return forms or attend a consultative
+examination) by email, text, my Social Security Message Center, or U.S. mail? Why do
+customers prefer a certain method, and does this preference vary by demographic group or
+socioeconomic status? If so, why? Do different communities face different barriers with some
+types of communication?
+2. To what extent would customers prefer to complete and submit forms, necessary for the disability
+determination or redetermination process, electronically or through a paper submission? Why do
+customers prefer electronic or paper submission (e.g., convenience, security concerns related to
+personally identifiable information transmission, access to computers and technology, etc.)? Does
+this preference vary by demographic group or socioeconomic status? Would customers prefer
+using a secure portal (like my Social Security) to complete and submit forms and other required
+information and documents?
+This priority question will assess the effect of new communication services on customer satisfaction,
+program integrity, and administrative efficiency. For example, we are developing a new communication
+service that appointed representatives may use to assist claimants with the applications and claims
+processes. The new service, called Appeals and Appointed Representative Processing Services
+(AARPS), enables appointed representatives to view claimant information, complete forms, and take
+actions on claims without the need to contact the field office or our National 800 number service. We
+will track usage of AARPS, obtain feedback on it from users, and assess the effects of AARPS on
+customer satisfaction, program integrity, and administrative efficiency.
+The potential barriers to making changes to our communications with our customers and their
+representatives are the policy, technology, legal, privacy, and security requirements designed to
+maintain program integrity. As part of our agency commitments in Executive Order 14058 on
+Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government, we
+Social Security Administration
+14
+FYs 2022-2026 Learning Agenda
+will analyze and revise current regulations, forms, instructions, and guidance to remove requirements
+for physical signatures, consistent with applicable law and to the extent practicable.
+We heard in comments on the Request for Information and from other sources that our notices and
+other communications can be difficult for our customers to understand. Although we made efforts to
+simplify notices, some of our notices and communications can be complex and lengthy, and difficult to
+comprehend. The difficulty can sometimes result from the complexity of our programs and legal
+requirements to communicate certain information. We will consider building evidence by sampling
+notices and other communications and assessing the quality and understandability of our
+communications. We will assess factors such as language reading levels, use of clear and easy to
+understand explanations without jargon, information targeted to customer needs, and language free of
+bias that could stereotype or demean groups of people based on disability, race, ethnicity, color,
+gender, and other personal characteristics.
+Timeframe: FYs 2022-2026
+Potential Data, Tools, Methods, and Analytical Approaches: We will convene focus groups to
+obtain qualitative information on customer needs and preferences and we will collect and analyze
+survey data to obtain information on communication preferences. We will use data from the
+University of Southern California's Understanding America Study to assess communication
+preferences from a nationally representative sample. We will use our newly proposed Disability
+Research Surveys to obtain information about the application experience from claimants who recently
+completed the process. We may consider new surveys of appointed representatives and
+representative payees to obtain information on their needs and preferences. We will use the work we
+are conducting on documenting customer journeys to identify pain points related to our
+communication methods. The results of this research will provide us with a clearer picture of our
+customer needs and preferences, which will help us prioritize specific communications methods to
+meet their needs.
+We will conduct foundational fact-finding research on how other governmental agencies (e.g., U.S.
+Department of Veterans Affairs) and the private sector communicate with their customers. We will use
+the results from this research to identify communications methods that may be applicable for our
+purposes and assess the potential for such methods to make it easier for customers to communicate
+with us, while also maintaining program integrity and improving our administrative efficiency. If
+practical, we will pilot test some of these methods to determine whether they are suitable for
+implementing on a larger scale.
+When we implement new communications methods, we will evaluate them to determine whether they
+are working as intended. For example, to evaluate the AARPS we will construct comparison groups
+using our program data from the period just prior to implementation and will explore other methods for
+forming comparison groups. We will estimate the effect of this communication service on the amount of
+time to make disability decisions, and the outcome of the decisions. We will track the use of the service
+and use feedback from users to assess features that are working effectively and aspects of the service
+that we need to improve or add. We will assess whether the new communication service has an
+adverse effect on program integrity compared to other communications methods. We will use the
+information from the evaluation to make improvements to the service and inform new efforts to improve
+communications with our customers.
+To help expand the communication channels we provide for customers, we will conduct foundational
+fact-finding research on the potential trade-offs between accuracy in identity verification and the
+customer experience with our services. One component of this research will document the program
+integrity risks, as well as the legal and privacy risks, for our current methods of verifying identities. We
+Social Security Administration
+15
+FYs 2022-2026 Learning Agenda
+will assess the effects of new identity verification and authentication on the use of our services,
+customer experience, and program integrity.
+We will test potential methods drawn from behavioral science to improve effectiveness and efficiency of
+our communications methods. For example, it may be possible to use behavioral science techniques to
+encourage claimants to provide us with information we need to process a claim or information we need
+to maintain program integrity. Such approaches may contribute to reducing additional burden to
+claimants and beneficiaries, improve administrative efficiency, and support program integrity.
+We will build evidence to help us improve the content of our communications using purposeful sampling
+to identify a small number of our notices and other communications. We will assess the quality and
+understandability of the information presented and consider the effects on overall service quality. We
+will assess factors such as language reading levels, use of clear and easy to understand explanations
+without jargon, how the information is targeted to customer needs, and if the language contains bias
+that could stereotype or demean groups of people based on disability, race, ethnicity, color, gender, or
+other personal characteristics. We will conduct cognitive testing on notices and other communications
+to assess whether users understand the content, and how we might make improvements to them to
+promote communications that are more effective. We will obtain customer feedback on newly
+implemented notices, to ensure the notices convey the intended information. We will use our
+experience from this evidence-building activity to refine our methodology for developing notice and
+communications improvements.
+Anticipated Challenges: We will need to make sure all activities we conduct related to our online
+services, notices, and communications satisfy legal and privacy requirements.
+Proposed Solutions: We will consult internal stakeholders to ensure that we are complying with legal
+and privacy requirements. We will document any impediments to specific methods of communication.
+We will request research and development funding using our statutory authority, and we may explore
+the use of funding through government-wide mechanisms.
+5
+PRIORITY QUESTION
+Does redesigning the Social Security Statement and providing supplemental fact sheets with
+customized information on Social Security's programs improve people's knowledge of the
+programs and increase the use of internet services?
+Project Title: Evaluation of the Redesigned Social Security Statement
+FYs 2022-2026 ASP Goal & Objective: Optimize the Experience of SSA Customers > Build a
+Customer-Focused Organization
+Description: We redesigned the Social Security Statement (Statement) to streamline and modernize
+its content and design. We used plain language and a new design to make it easier to read and
+understand. We added new supplemental fact sheets with customized program and benefit information
+relevant for different customer demographics. We began supplementing the online Statement PDF with
+fact sheets in February 2021. We based the redesigned Statement on recommendations from the
+Social Security Advisory Board and the Government Accountability Office, as well as nationally
+representative survey research on the public's knowledge of the Social Security programs and their
+Social Security Administration
+16
+FYs 2022-2026 Learning Agenda
+communication preferences (Yoong et al, 2015; Alattar et al, 2019). We tailored the supplemental fact
+sheets for workers in different age groups and earnings situations. We launched the redesigned
+Statement online through my Social Security starting with a soft launch from May to September 2021.
+At the full launch of the online Statement in October 2021, we began providing the redesigned
+Statement and supplemental fact sheets by mail to people ages 60 or older and to all
+my Social Security account holders online.
+Timeframe: FYs 2022-2024
+Potential Data, Tools, Methods, and Analytical Approaches: We conducted usability and cognitive
+testing on the redesigned Statement and supplemental fact sheets to assess whether users can
+successfully access the new PDFs online and to ensure understanding of the content. We incorporated
+key findings from the usability and cognitive testing into the redesigned Statement and supplemental
+fact sheets before full release, including moving the Taxes Paid section to page two of the Statement to
+accompany the Earnings Record, updating the title and labels on the benefit estimates chart, updating
+the Medicare box to bold the penalty information and moving all the contact information to the end of
+the section, and making minor edits to the language throughout the Statement to improve
+understandability. After full release in October 2021, we continue to assess the feedback and plan to
+make additional improvements to the Statement in subsequent releases. We have and will continue to
+conduct random sampling of 800 number telephone calls, following the release of the fact sheets and
+redesigned Statement to assess whether there are any increased calls to our operations employees.
+We are tracking the number of visits to my Social Security (through vanity URLs on the redesigned
+Statement and supplemental fact sheets) and the characteristics of users (e.g., age). We will obtain
+data from the University of Southern California's Understanding America Study on people's program
+knowledge by age and whether they reviewed their Statement. The data is regularly collected every
+two years, so we can assess improvement in knowledge as it relates to how people access information
+on our programs over time.
+Anticipated Challenges: Challenges include providing sample Statements and supplemental fact
+sheets in languages other than English and Spanish and providing Statements to customers who
+request special notice options (e.g., braille, large print, audio, etc.). We are actively working on
+solutions to these challenges, including translations of the sample Statement into 11 alternative
+languages and discovery sessions to assess the steps to provide the Statement to customers who are
+blind or visually impaired in alternative special notice options.
+Proposed Solutions: We will work with the contractor to make the necessary changes to the
+Statements we mail to certain members of the public for subsequent releases.
+REFERENCES
+Alattar, Laith, Matt Messel, David Rogofsky, and Mark A. Sarney. 2019. "The Use of Longitudinal Data on Social Security
+Program Knowledge," Social Security Bulletin 79(4): 1-9.
+Yoong, Joanne, Lila Rabinovich, and Saw Htay Wah. 2015. What Do People Know About Social Security? Paper No. 2015-
+22 CESR-Schaeffer Working Paper Series.
+Social Security Administration
+17
+FYs 2022-2026 Learning Agenda
+6
+PRIORITY QUESTION
+Does the working-age population have accurate knowledge of the Social Security disability
+programs, and to what extent does the working-age population's knowledge, attitudes, and
+perceptions of the Social Security disability programs influence the decision to pursue benefits?
+Project Title: Assessment of the Public's Knowledge of the Disability
+Programs and How that Knowledge Affects the Decision To
+Pursue Disability Benefits
+FYs 2022-2026 ASP Goal & Objective: Optimize the Experience of SSA Customers > Build a
+Customer Focused Organization
+Description: Our disability programs, Social Security Disability Insurance (DI) and Supplemental
+Security Income (SSI), have changed over time and our policies have evolved, creating a level of
+complexity that can be difficult for the public to understand. We need information on the working-age
+population's knowledge of the disability programs to help us improve the way we communicate with
+them about their options, responsibilities, and rights.
+Responding to this priority question will provide us with evidence on the kind of general information
+working-age adults (18 to 64 years old) have about our disability programs. We will use this information
+to make changes that will sustain the programs' effectiveness and ensure that our disability programs
+continue to benefit the people we serve, now and in the future. Prior studies of working-age adults'
+knowledge about our disability programs rarely examined behavioral and subjective factors that affect
+individual decisions about applying for benefits in the face of work-limiting conditions. Notably absent in
+prior studies is attention to the level of program knowledge people have about our disability programs
+and what role that knowledge ultimately plays in decisions to apply for benefits.
+We awarded a contract for a new Disability Perceptions Survey. We will use the survey to collect
+information on knowledge, perceptions, and opinions working-age adults have about the disability
+programs. We will use data from the survey linked to SSA program data to assess whether current
+knowledge of the disability programs affects future decisions to seek benefits. We expect that the
+survey will provide insight into the most effective ways to communicate with the public about our
+disability programs and how knowing about our programs influences their claiming behavior.
+In August 2021, we collaborated with our contractor to develop a revised draft survey instrument and
+a
+sampling plan. We also conducted a related system security audit and received OMB approval to
+conduct the pre-test. We completed the pre-test in November 2021.
+Timeframe: FYs 2022-2024
+Potential Data, Tools, Methods, and Analytical Approaches: The Disability Perceptions Survey is
+new, and the initial work involved the development of survey questions that we will use to obtain
+information from working-age adults about their knowledge and understanding of the disability
+programs. As we developed the survey questions, we worked with our contractor to conduct rigorous
+cognitive testing and pre-testing of the survey questions. This component of the project is critical as it
+forms the foundation for the planned analytical work. We expect that this work will increase the
+evidence on effective ways to elicit information from the public on knowledge, perceptions, and
+opinions.
+Social Security Administration
+18
+FYs 2022-2026 Learning Agenda
+After we develop and administer the survey questions to our target population of working-age adults,
+we will use descriptive statistics and cross-tabulations to obtain baseline information on knowledge,
+perceptions, and opinions about the programs. We plan to examine differences across relevant
+subgroups based on demographic, socioeconomic, and health characteristics. We plan to use relevant
+multivariate statistical methods (e.g., regression analysis) to examine the association between the
+characteristics and program knowledge, perceptions, and opinions. The results of this analysis will
+provide us with insight into the most effective ways to communicate with the public about the disability
+programs, as well as project the anticipated need for future benefits among working-age adults.
+We plan to conduct longer-term analysis on the association between program knowledge, perceptions,
+opinions, and the anticipated need for future benefits on subsequent disability applications and awards.
+This will involve linking the Disability Perceptions Survey data to SSA program data. Our analytical
+approach will involve specifying relevant multivariate models (e.g., logistic regressions, survival
+analysis models) to estimate the association between the level of disability program knowledge,
+perceptions, opinions, and anticipated future need for disability benefits on applications and awards.
+The results of this analysis will provide us with insights into the role those factors ultimately play in
+decisions to apply for disability benefits.
+Anticipated Challenges: Because the Disability Perceptions Survey is a new survey, we anticipate
+challenges in developing survey questions that will provide useful information on knowledge,
+perceptions, and opinions. Obtaining a good response rate to the survey is another anticipated
+challenge and our goal is a nationally representative sample. We stratify by region, race, age, and sex,
+with oversampling of Native Americans, people living in rural areas, and individuals with low income to
+allow for subgroup analyses.
+Proposed Solutions: We will use the expertise of our contractor to develop survey questions and we
+will conduct rigorous cognitive testing and pre-testing of the survey questions. We will use our previous
+experience working closely with OMB to obtain clearance, and we will have a contingency plan if there
+are delays. We will provide reasonable incentives for respondents to complete the survey and, if the
+response rate is below 80 percent, we will prepare a non-response bias addendum to the final report.
+7
+PRIORITY QUESTION
+To what extent are there systemic barriers to hiring, developing, and advancing a diverse and
+talented workforce and what are the effects of our Action Plan to mitigate those barriers in
+support of our goal to build an inclusive, engaged, and empowered workforce?
+Project Title: Assessment of Employment Barriers and Mitigation Efforts
+FYs 2022-2026 ASP Goal & Objective: Build an Inclusive, Engaged, and Empowered Workforce
+>
+Promote Diversity, Equity, Inclusion, and Accessibility in Hiring and Advancement
+Description: We are committed to promoting diversity, inclusion, fairness, and equity in our workforce.
+To build a successful organization with these values, we need to continue attracting and retaining
+employees who are committed to our mission, dedicated to providing high quality services to all our
+customers, and who represent the public we serve. Promoting diversity, equity, inclusion, and
+accessibility in our hiring, career development, and employee retention efforts is critical to meeting our
+commitment.
+Social Security Administration
+19
+FYs 2022-2026 Learning Agenda
+Regular assessments of the barriers that some groups may encounter with our hiring and career
+advancement activities provide us with the baseline information we need to achieve our ASP goal. We
+created a Barrier Analysis program that complies with the Equal Employment Opportunity
+Commission's (EEOC) guidelines. As part of our Barrier Analysis program, we conduct annual
+assessments that identify areas where barriers might impede free and open competition in our
+workplace. We examine statistical data and trends to determine what barriers exist. We utilize various
+data sources such as applicant flow data and workforce data to identify and analyze triggers also
+referred to as "red flags." In addition, we investigate triggers to pinpoint actual barriers and root
+causes.
+We use the findings from the barrier analysis to develop an action plan designed to mitigate and
+ultimately eliminate identified barriers. We collaborate with senior managers and other stakeholders to
+identify and eliminate agency policies, procedures, or practices that limit employment opportunities in
+the workplace. For example, our analysis identified that some groups are underrepresented in
+leadership positions within our agency. One objective in our action plan is to increase the number of
+participants from underrepresented groups in our National Leadership Development Program (NLDP),
+which is a source for developing potential leaders. Our plan includes analyzing existing data to identify
+trends in the selection process of the NLDP and to determine strategies that may encourage applicants
+to apply for the NLDP. Our intended result is increased participation among underrepresented groups.
+We will develop an evaluation plan that will provide us with information on whether such strategies are
+working as intended.
+We will also assess practices used by other government agencies or by the non-government sector to
+identify proven methods for gathering data, analyzing data and results, and addressing identified
+systemic barriers to hiring and developing a diverse, equitable, and inclusive workforce. This
+assessment will help us determine additional data that we may need to collect, how we might better
+leverage existing data such as the Federal Employee Viewpoint Survey, and whether we should test or
+implement practices that appear to be effective in other settings.
+Our Diversity, Equity, Inclusion, and Accessibility Self-Assessment identifies actions that may promote
+an inclusive, engaged, and empowered workforce. One action within the plan is to develop an implicit
+bias training curriculum, which has been implemented. Implicit or unconscious bias may influence our
+decisions on hiring, promoting, and retaining talented individuals from some groups. Implicit bias
+training is expected to improve self-awareness among our entire workforce including hiring officials and
+our leadership team. Greater awareness is expected to promote creation of a workforce that
+exemplifies our commitment to diversity, inclusion, fairness, and equity.
+Timeframe: FYs 2022-2026
+Potential Data, Tools, Methods, and Analytical Approaches: Our Barrier Analysis program uses
+workforce data to analyze employee demographics by gender, racial and ethnic background, and
+disability status to identify potential barriers. We use these data to determine if each group has equal
+opportunity throughout all facets of their employment, such as equitable distribution in pay grade levels,
+including higher grades. We use these data to analyze whether the composition of employees at each
+grade level is representative of our agency workforce and of the larger civilian labor force.
+We follow the EEOC's Management Directive 715 (MD-715) to conduct the analysis. We have been
+completing the MD-715 annually, including the barrier analysis portion, since at least 2008. The
+MD-715 requires us to review the following data annually as a part of identifying triggers:
+Total workforce distribution by race, national origin, and sex for both the permanent and
+temporary workforce;
+Social Security Administration
+20
+FYs 2022-2026 Learning Agenda
+Permanent and temporary workforce participation rates for each grade level by race, national
+origin, and sex;
+Permanent and temporary workforce participation rates for each of the agency's major
+occupational categories by race, national origin, and sex;
+Participation rates in supervisory and management positions by race, national origin, and sex;
+The race, national origin, and sex of applicants for permanent employment;
+The rates of selections for promotions, training opportunities and performance incentives by
+race, national origin, and sex; and
+The rates of both voluntary and involuntary separations from employment by race, national
+origin, and sex.
+We complete additional analyses for transactions such as hiring, promotions, awards, and separations
+to determine our successes or shortcomings related to having an inclusive and engaged workforce.
+When we identify specific areas where a group is underrepresented or overrepresented, we conduct
+stakeholder meetings with those involved in the hiring and recruitment process within their respective
+components to determine if a policy, procedure, or practice is limiting employment opportunities. This
+analysis helps us identify actions needed to mitigate or eliminate identified barriers.
+We will couple actions to mitigate or eliminate barriers with data and methods to evaluate whether the
+actions are having the intended effect. Our strategy will include the following.
+We will work with key stakeholders within our agency, including our Diversity and Inclusion
+Council, to mitigate barriers by providing mentor programs, workshops, and outreach for
+underrepresented groups. For example, we have partnerships with over 400 local colleges and
+universities, many of which are Historically Black Colleges and Universities, Hispanic Servicing
+Institutions, Tribal Colleges and Universities, and other similar groups. Members of SSA's
+Recruitment Cadre attend career fairs throughout the year and provide information regarding
+our Pathways programs.
+We will continue to recruit and advertise external vacancies open to all U.S. citizens regardless
+of race, color, religion, sex (including pregnancy, sexual orientation, gender identity, and gender
+expression), national origin, political affiliation, marital status, disability, genetic information, age,
+membership in an employee organization, equal employment opportunity protected activity,
+parental status, military service, or other non-merit factor. We also encourage components to
+take advantage of special hiring authorities specific to targeted populations such as individuals
+with disabilities and veterans.
+We will evaluate the effects of our efforts using our workforce data on employee characteristics
+to measure whether the efforts lead to increases over time in the share of underrepresented
+groups who apply for and participate in our NLDP, and who serve within GS-13/14/15 and SES
+positions.
+We will use data from Federal Employee Viewpoint Survey to measure whether we see
+improvements in employee perceptions on engagement and inclusion. We propose to explore
+collecting additional data about our career development programs.
+The agency will continue to review, discuss, and track progress with key stakeholders.
+Social Security Administration
+21
+FYs 2022-2026 Learning Agenda
+Anticipated Challenges: Our ability to collect and analyze data through a variety of methods is limited
+to available data; and we are committed to fulfilling any labor negotiations required.
+Proposed Solutions: We will work closely with our employee unions.
+8
+PRIORITY QUESTION
+What factors contribute to Federal court remands of disability decisions, and what are the
+effects of modifying relevant factors on the percentage of final decisions that are affirmed
+upon judicial review?
+Project Title: Analysis of Federal Court Remands
+FYs 2022-2026 ASP Goal & Objective: Ensure Stewardship of SSA Programs > Improve the
+Accuracy and Administration of Our Programs
+Description: On judicial review of our agency's final decisions (mostly denials of initial claims for
+disability benefits at the hearing or Appeals Council levels), the Federal courts consistently remand
+roughly half of all cases, even as the agency's regulations, case law applied by the Federal courts,
+agency quality and training initiatives, and other variables have changed. See, e.g., "Court Remands
+as a Percentage of New Court Cases Filed" (an average remand percentage of approximately 47
+percent since FY 2010). This priority question seeks to determine reasons for the high remand rate
+and propose strategies for improvement.
+Timeframe: FYs 2022-2024
+Potential Data, Tools, Methods, and Analytical Approaches: The agency collects data on
+decisions, court dispositions, and the reasons for court remands. There have been studies on aspects
+of this issue. For example, in 2016, the Administrative Conference of the United States issued the
+report, "A Study of Social Security Litigation in the Federal Courts." The report identified variables for
+consideration such as the variations in the remand rate between Federal district courts, circuit case law,
+and the quality of decision writing. We have examined existing data and prior studies and engaged
+subject matter experts across relevant components to propose methods and analytical approaches for
+a discrete number of pilot projects or other interventions that would most likely result in measurable
+improvement. We have preliminarily identified five research areas under the umbrella of this priority
+question that appear promising for further data collection and analysis or for potential pilot projects.
+Next, we will begin specific activities that could include data collection and analysis, pilot projects, and
+other interventions to test outcomes. As analyses or projects are completed, we will examine the
+results and recommend changes in agency business processes.
+Anticipated Challenges: Because there are several variables that affect the court remand
+percentage, it may be challenging to isolate one variable from others for analytical study. In addition,
+some pilot projects that test interventions at the hearing level of our administrative review process may
+take time to evaluate because it can take anywhere from 18 months to two years from the date an
+administrative law judge issues a decision until a Federal court issues its decision on judicial review.
+We will also need to ensure all projects comply with privacy and legal requirements.
+Social Security Administration
+22
+FYs 2022-2026 Learning Agenda
+Proposed Solutions: We are in the process of completing an initial data analysis phase and, based
+on the results, we will narrow our focus to five areas relevant to the judicial review of final agency
+decisions that will meet the agency's objectives for this priority question. Our criteria for selecting these
+areas are that they lend themselves to research initiatives based on data, have a realistic chance of
+improving court results, are achievable with existing resources within the timeframe of this Learning
+Agenda, and the data needed can be collected and shared while still preserving any applicable legal
+privileges. We expect to complete this initial phase in FY 2022. We will consult internal stakeholders to
+ensure that we comply with legal and privacy requirements.
+9
+PRIORITY QUESTION
+What are the effects of simplifying administrative rules and requirements on reducing the burden
+on program participants and supporting program integrity?
+Project Title: Analysis of Program Simplification Proposals
+FYs 2022-2026 ASP Goal & Objective: Ensure Stewardship of SSA Programs > Improve
+Organizational Performance and Policy Implementation
+Description: Many of our administrative rules and requirements are complex and the complexity can
+be burdensome to those filing an application for benefits, their representatives, beneficiaries, and
+representative payees. Some administrative rules and requirements may have unintended
+consequences, such as discouraging beneficiaries from seeking or maintaining employment. In this
+priority question, we will examine the tradeoffs involved with simplifying administrative rules and
+requirements. Specifically, we will examine whether potential program simplification can reduce burden
+for claimants and beneficiaries, and reduce costs (time, stress, and financial) while maintaining
+program integrity.
+We will document user journeys for our core processes associated with the OASI, DI, and SSI
+programs, including applications for benefits, the appeals process, SSI redeterminations, continuing
+disability reviews, and post-entitlement reporting requirements. We will use these documented
+journeys to identify specific rules and requirements that are good candidates for simplification, and we
+will assess the extent to which specific simplification proposals may reduce administrative burden
+without significantly reducing program integrity. As part of this effort, we will assess whether the burden
+associated with specific rules or requirements vary by demographic group and assess the potential
+effects of simplification on improving equity.
+We will identify opportunities to leverage other policy tools that may reduce administrative burden. For
+example, during the COVID-19 pandemic, we issued a temporary final rule for the musculoskeletal
+disorders listings that changes the "close proximity of time" requirement from four months to 12 months
+as a reasonable time frame for providing medical evidence to satisfy the level of severity needed to
+meet the listings. We will evaluate this temporary rule and use the findings to assess whether
+permanent changes may be warranted. Another opportunity that we will pursue is an assessment of
+the extent to which streamlined forms and reporting processes reduce burden and maintain program
+integrity.
+Social Security Administration
+23
+FYs 2022-2026 Learning Agenda
+The DI program includes a set of work incentives, which are special rules, intended to help
+beneficiaries enter, re-enter, or continue their engagement in the workforce by protecting their eligibility
+for cash payments and health care coverage until their work allows them to be self-sufficient. As
+Congress revised these work incentives over the years, the rules have become increasingly complex,
+making it difficult for beneficiaries to understand how work will affect their benefits. As a result, rules
+intended to encourage work may end up having the opposite effect. We will explore options to simplify
+the post-entitlement earnings rules in the DI program. We will look at the patterns of health care
+coverage for beneficiaries who leave the DI rolls due to work. We will explore beneficiaries'
+understanding of current rules and preferences for alternative treatment of earnings.
+Timeframe: FYs 2022-2025
+Potential Data, Tools, Methods, and Analytical Approaches: We will systematically map out end-
+to-end disability customer journeys to identify pain points along these entire journeys. These customer
+journey maps identify the number of touchpoints people have with the agency from start to finish and
+how much time the process takes at each stage and cumulatively. Our initial efforts will focus on two of
+our high impact services: (1) filing for retirement benefits, and (2) applying for a Social Security number
+replacement card. Subsequent efforts will focus on filing for disability benefits. This activity will support
+our annual process of assessing our capacity to manage the customer experience, assessing our
+performance delivering services through meaningful measures from the perspective of the public, and
+planning for the improvement of the customer experience as described in Executive Order 14058 on
+Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government.
+We will complete an assessment of the temporary final rule for the musculoskeletal disorders listings
+that changes the "close proximity of time" requirement from 4 months to 12 months. We will use
+program data to complete an assessment of the effects of the key changes of the "close proximity of
+time" temporary rule on disability applicants at 6 months and 12 months after implementation.
+We will conduct foundational fact-finding research to identify other methods of reducing burden, such
+as investigating opportunities to streamline the SSI application. Other potential areas may include
+reducing burden associated with dedicated accounts, representative payee accounting, and other
+reporting responsibilities for beneficiaries and their representatives.
+We will use qualitative and quantitative methods to explore options for simplifying DI work incentives.
+We will use surveys such as the Disability Research Surveys and focus groups to learn about
+beneficiaries' understanding of current rules, reasons for working and for not working, and to assess
+preferences for various alternative methods of counting earnings. We are finalizing a data-matching
+agreement with the Centers for Medicare & Medicaid Services to analyze patterns of health care
+utilization that will allow us to learn about the prevalence of private health insurance for beneficiaries
+leaving the rolls due to work, and to understand the timing of Medicare termination in relation to work
+activity. We will use the results of the current Promoting Opportunity Demonstration (POD) to
+determine the effect of alternative policy treatments on work activity.
+Anticipated Challenges: Each new data collection activity will require Paperwork Reduction Act
+clearance from OMB. Additionally, new projects may require contracts or other similar agreements that
+take time to develop. There may be data limitations on what we can use for research purposes or what
+the agency collects that will limit what analyses we can do. Finally, our authority to initiate projects
+under section 234 of the Social Security Act terminated on December 31, 2021, which limits our ability
+to test DI program changes using the authority in section 234 unless Congress extends those dates.
+Social Security Administration
+24
+FYs 2022-2026 Learning Agenda
+Proposed Solutions: We have planned sufficient time to receive Paperwork Reduction Act clearance,
+legal and privacy review, and enter into necessary agreements based on experiences with similar
+projects. We are in the process of modifying our system of record notices to update their routine uses
+to allow for additional research. Finally, we will continue to explore options for renewing our DI demon-
+stration authority, in addition to using a variety of evidence-building methods, as mentioned above.
+10
+PRIORITY QUESTION
+What are the effects of improving collaboration and enhancing data sharing with external
+agencies on saving citizens time from reporting required information, reducing labor market
+barriers, improving program solvency projections, improving program administration, and
+reducing improper payments?
+Project Title: Development and Evaluation of Interagency Collaborations
+FYs 2022-2026 ASP Goal & Objective: Ensure Stewardship of SSA Programs > Improve
+Organizational Performance and Policy Implementation
+Description: Collaborations and data exchanges with other agencies help us deliver our services
+more equitably and effectively to the people we serve, especially to those who have been historically
+underserved. We collaborate and exchange data with many Federal partners, including the Internal
+Revenue Service (IRS), and the Departments of State, Health and Human Services, Homeland
+Security, Justice, Veterans Affairs, Labor, and Housing and Urban Development. This priority question
+will assess specific ways we may expand or enhance collaborations to meet one of our commitments in
+Executive Order 14058 on Transforming Federal Customer Experience and Service Delivery to Rebuild
+Trust in Government, which is to maximally support applicants and beneficiaries to identify other
+benefits for which they may be eligible and integrate SSA data and processes with those of other
+Federal and State entities whenever possible. It will also support a focal area in our Equity Action Plan.
+Collaborations and data exchanges have the potential to improve our performance and policy
+implementation in ways that will help eliminate barriers to fully participating in and benefiting from our
+programs. For example, collaborations and data exchanges may result in reducing the burden our
+customers experience as they attempt to navigate processes that can be daunting; and to understand
+policies and procedures that are very complex, in part because our programs have evolved to be
+complex over many years of legislative changes. By working with our Federal, State, and local
+government partners, we can redesign and streamline our programs to ensure that our customers are
+receiving benefits and services in an efficient and equitable manner. Improved collaborations and data
+exchanges can also enhance our ability to make well-informed program solvency projections, assess
+legislative proposals, improve service delivery, improve employment outcomes for beneficiaries, and
+safeguard the integrity of benefit programs to better serve our customers.
+To deliver our programs more equitably, we need to increase the collection and use of data on race and
+ethnicity and conduct distributional analyses to identify potential inequities in the administration of our
+programs and policies. We will explore how collaboration with other agencies and data exchanges
+could improve our ability to collect and use race and ethnicity data for statistical purposes without
+Social Security Administration
+25
+FYs 2022-2026 Learning Agenda
+imposing unnecessary burden on the public to provide that information. This activity will also inform a
+focal area in our Equity Action Plan.
+As part of administering our programs, we provide benefit verifications to our beneficiaries upon
+request. We will examine how improved collaboration with other Federal agencies may increase our
+ability to provide this service to the public efficiently. For example, although we currently have a data
+sharing agreement that allows the Department of Housing and Urban Development to complete benefit
+verifications without placing additional burden on our beneficiaries, in many instances, our beneficiaries
+continue to directly contact us for such benefit verifications. We will identify and analyze methods to
+improve coordination of our benefit verification services with other Federal agencies. We will also
+assess the extent to which improved coordination reduces administrative burden to the public and
+improves our administrative efficiency, which is consistent with Executive Order 14058 on Transforming
+Federal Customer Experience and Service Delivery to Rebuild Trust in Government.
+We received feedback related to the process of issuing new Social Security numbers and cards to
+lawfully admitted immigrants (refugees, asylees, Special Immigrant Visa recipients, Trafficking Victim
+Assistance Program recipients, etc.). Specifically, we heard from stakeholders that their clients' Social
+Security cards were delayed due to an inadequate communication system between the Department of
+Homeland Security and SSA. We will conduct foundational fact-finding research to assess the extent of
+the problem, and to identify potential methods for working more effectively with the Department of
+Homeland Security to reduce administrative burden and increase administrative efficiency.
+We will explore potential collaborations with other Federal agencies (e.g., Department of Labor and
+Equal Employment Opportunity Commission) that may reduce labor market barriers, such as
+employment discrimination, and increase employment for people with disabilities. At this point, this
+effort will consist of preliminary foundational fact-finding research.
+IRS forms 1040 filed by taxpayers and IRS forms 1099-R data will be useful to the Chief Actuary for
+making estimates of future trust fund status and evaluating legislative proposals. Data from these IRS
+sources would allow for: (1) improved modeling of taxation of benefits for both current-law and
+legislative proposals; and (2) improved tax revenue estimates under current law (e.g., the Affordable
+Care Act's additional Medicare tax) and proposed legislation involving taxation of earnings determined
+by filing status. Given legal limitations to shared Federal tax information, we plan to explore whether
+there are options to access SSA program data linked to data from the IRS forms 1040 filed by
+taxpayers and IRS forms 1099-R.
+Timeframe: FYs 2022-2026
+Potential Data, Tools, Methods, and Analytical Approaches: We will conduct foundational fact-
+finding research on the extent to which benefit verifications cause increased and potentially
+unnecessary administrative burden on our beneficiaries and reduce the efficiency of our operations.
+Such fact-finding will inform estimates of how such benefit verifications currently increase beneficiaries'
+administrative burden (defined as hours spent by the public obtaining a benefit verification) and
+increase our administrative costs (defined as hours and associated costs of our employees issuing
+benefit verifications). Based on such fact-finding, we will consider how improved coordination of such
+benefit verifications with other Federal agencies might reduce our costs and the burdens on our
+beneficiaries. We will discuss the results of our fact-finding with our counterparts at other Federal
+agencies and may enter into agreements with those agencies to develop projects that would address
+these costs and burdens.
+We will conduct foundational fact-finding research on potential collaborations with other Federal
+agencies such as the Departments of Homeland Security, Justice, and Labor. The results of such
+Social Security Administration
+26
+FYs 2022-2026 Learning Agenda
+efforts will help us define potential projects that improve our ability to evaluate equitable delivery of
+services, remove barriers to accessing needed services, remove employment barriers, or improve the
+administration of our programs.
+If we can obtain access to SSA program data that has been linked to IRS 1040 forms filed by taxpayers
+and IRS 1099-R forms, we will use that data to construct a counterfactual that represents an ongoing
+data exchange incorporating the additional IRS data. We will estimate effects by comparing program
+stewardship and policy analysis that would occur with the use of additional IRS data to program
+stewardship and policy analysis that occurs under existing conditions (i.e., without the additional IRS
+data). This assessment would provide an initial description of the value of additional IRS data.
+Anticipated Challenges: We will need to consult with internal stakeholders to ensure that we are
+meeting all legal and privacy requirements. In some instances, we are required by law to be
+reimbursed for sharing data with other Federal agencies, which may create challenges for other
+agencies to collaborate with us. When proposals involve other agencies, we will need to consult them
+to determine the viability of any proposed data exchange.
+Proposed Solutions: We will consult with our internal stakeholders early in the process to ensure that
+we are meeting legal and privacy requirements. We will reach out to other Federal agencies to discuss
+potential projects that would benefit both agencies and strive toward cost-effective strategies and
+reimbursement agreements.
+REFERENCE
+Bee, Adam, and Joshua W. Mitchell. 2017. "Do Older Americans Have More Income Than We Think?' Social, Economic, and
+Housing Statistics Division Working Paper Series #SEHSD-WP2017-39 Washington, DC: U.S. Census Bureau.
+Dushi, Irena and Brad Trenkamp. 2021. "Improving the Measurement of Retirement Income of the Aged Population," ORES
+Working Paper #116.
+Social Security Administration
+27
+FYs 2022-2026 Learning Agenda
+APPENDIX A:
+REQUEST FOR INFORMATION
+For this Learning Agenda, we sought input from external stakeholders by publishing a Request for
+Information in the Federal Register on April 20, 2021. We received 18 comments (available at
+www.regulations.gov). Comments generally fall into one of the five categories listed below.
+Agency communications: Commenters noted that information we provide to the public is not always
+clear and easy to understand. The issues include language in our notices, communications with people
+who have limited English proficiency, and information provided by our employees. Commenters noted
+limitations related to within-agency communication such as information from customers not being
+available to other agency employees.
+Coordinating services and information across agencies: Commenters noted opportunities to
+improve data sharing and collaboration in delivering services. These include opportunities to improve
+how we exchange data with the Department of Homeland Security to deliver services to immigrants and
+refugees, and opportunities to share data across agencies that could result in improved service delivery
+for our beneficiaries.
+Data Limitations: Commenters identified the agency's limited data on race and ethnicity as a
+significant issue.
+Service delivery: Commenters identified issues with service delivery delays, challenges with the
+methods we use for the public to provide information to complete their business with us, and perceived
+inequities with service delivery. Commenters identified specific issues related to equitable delivery of
+services to immigrants, refugees, and people of color.
+Work incentives and the Ticket to Work Program: Commenters noted limitations with the current
+set of work incentives and the Ticket to Work Program. The issues related to work incentives include
+the need to maintain health care coverage through the Medicare or Medicaid programs, fears about
+losing access to needed benefits, and confusion about how work affects benefits. Simplification of our
+policies and communication were two themes in the comments related to work incentives. Comments
+related to the Ticket to Work Program include addressing disparities between vocational rehabilitation
+and organizations serving as employment networks.
+Comments from Individuals
+We received comments from eight individuals that included the following suggestions for research,
+evaluation, and program changes.
+Comments about work incentives and Ticket to Work
+Change the DI trial work period to 18 months instead of 9 months.
+Base the substantial gainful activity limit on the cost of living in different areas.
+Reform the cash cliff so people with blindness and people without blindness have the same work
+incentives.
+Change how DI and the trial work period work so the reduction of cash benefits is more gradual.
+Social Security Administration
+28
+FYs 2022-2026 Learning Agenda
+Increase the resource limit for SSI eligibility because it prevents people from pursuing work and
+accumulating savings for long-term goals. Achieving a Better Life Experience (ABLE) accounts
+help but are only for people whose disabilities began before age 26.
+Provide employment networks with an initial timely payment for providing services that include
+resume writing, career assessment, and guidance.
+Offer more training on how the Ticket to Work program could be bundled with other funding
+sources.
+To help ticket holders understand how work affects their benefits, have all vocational rehabilitation
+agencies require (1) work incentives planning and assistance and (2) community work incentives
+coordinators' services at the start.
+Comments on other subjects
+Consider informational videos to help people understand the paperwork and processes involved
+with applying for benefits.
+Hire additional staff to review and process claims faster.
+Improve telephone service to reduce wait times to speak with an SSA representative and make
+sure representatives are providing accurate information.
+Send notices to beneficiaries in plain language that is easier to understand.
+Provide Medicare sooner because people might not have access to employer-based insurance or
+Medicaid prior to the start of Medicare.
+Related to the COVID-19 pandemic, improve evidence verification requirements to reduce the need
+for people to mail important documents to Social Security.
+Comments from Organizations
+We received comments from ten organizations including providers of care for people with disabilities,
+advocacy organizations, and businesses who provide services related to research and evaluation.
+Comments included the following suggestions for research, evaluation, and program changes.
+Community Options Individual and Family Services in Nebraska provides parent and family
+support services, and employment assistance; and is an employment network for the Ticket to Work
+program. Community Options shared that people fear the loss of health care coverage in addition
+to loss of cash benefits. Simplifying SSI rules, especially as it relates to Medicaid eligibility, would
+help when people attempt work. For employment networks, Community Options noted differences
+in payment methods for vocational rehabilitation agencies. People who could benefit from services
+might not work at the trial work level required for employment networks to be reimbursed.
+Interfaith-RISE in New Jersey provides services for immigrants and refugees. This organization
+noted challenges their clients experienced during the pandemic: delays receiving Social Security
+cards needed for employment, difficulty contacting Social Security by telephone especially for
+non-English speaking people, Social Security staff who are not aware of eligibility for cards, and
+delays with getting appointments.
+Cornerstone Montgomery in Maryland is a comprehensive behavioral health provider with
+services that include acute care and community-based treatments such as supported living. This
+Social Security Administration
+29
+FYs 2022-2026 Learning Agenda
+organization states that beneficiaries are confused about our policies, benefits, and the impact of
+work on benefits. They suggest, if there was more education about benefits and work incentives,
+more people may be willing to work or increase work. They note that communication with Social
+Security is challenging because of long wait times for telephone calls and the need for many people
+to have a third party involved.
+Mathematica applies expertise in data, methods, policy, and practice for Federal agencies, state
+and local governments, and other organizations and businesses. Mathematica suggested that
+Social Security consider evidence-building activities in two areas and identified several priority
+questions for each area: (1) how collaboration with other agencies could improve services for
+people with disabilities, and (2) how simplifying program rules and the administration of benefit
+payments could help people with disabilities improve employment-related outcomes. Specific
+questions focused on state differences in disability applications and awards, outreach to ensure
+equitable access to program benefits, improving employment rates for people with disabilities, and
+reporting of earnings.
+National Employment Network Association (NENA) is a national organization of employment
+networks that provides training, operational support, and advocacy to members certified for the
+Ticket to Work program. NENA commented about several areas of concern related to Ticket to
+Work and our benefits programs including improvements in these areas: overpayments and notices,
+work incentives, earnings reporting, health insurance, and educating beneficiaries about our
+programs. NENA suggested research in two areas: (1) including beneficiaries ages 16 - 18 in the
+Ticket to Work program, and (2) utilizing field offices to inform beneficiaries about return-to-work
+incentives and programs.
+National Organization of Social Security Claimants' Representatives (NOSSCR) is a
+specialized bar association for attorneys and advocates who represent DI and SSI claimants
+throughout the adjudicative process. NOSSCR encourages Social Security to follow the
+Consortium for Citizens with Disabilities' demonstration principles that recommended changes
+related to demonstration projects, work incentives, and helping beneficiaries obtain employment.
+NOSSCR suggested research or changes in the following areas: improving the disability application
+process, improving the process for claimant representatives, incentives to encourage work, and
+revising SSI requirements and the expansion of SSI to Puerto Rico and other U.S. territories.
+Justice in Aging is a national legal advocacy organization focused on using the power of law to
+fight senior poverty by securing access to affordable health care, economic security, and the courts
+for older adults with limited resources. Justice in Aging urges Social Security to regularly collect,
+report, and analyze data about (1) the race and ethnicity of claimants and beneficiaries, and
+(2) language access services for people with limited English proficiency. Justice in Aging cited the
+importance of this data to assess differences in earnings and benefits allowance rates, and to
+improve services for people with limited English proficiency.
+Center toward Self Reliance in Colorado is an independent living center for people with disabilities
+and provides core services in advocacy, independent living skills, transition services, peer support,
+and information and referral. This organization suggests improvements in two areas. First, make
+the system easier to understand. For example, when filling out forms, provide instructions for more
+difficult questions. Second, timely accessing Social Security agents is an issue for agencies that
+help consumers navigate through the system.
+DALBAR, Inc. serves as an independent expert for evaluating, auditing, and rating business
+practices, customer performance, product quality, and service. DALBAR noted that Social Security
+would benefit from a program that would enhance public perception of how secure the agency is
+Social Security Administration
+30
+FYs 2022-2026 Learning Agenda
+from fraud and data breaches. DALBAR suggested that greater security perceptions reduce
+attacks, and that research would show perceptions of the agency's security including reliability of
+anti-fraud measures, consequences of attempting a breach, and threat of audits to detect violations.
+SAS Institute is a company that provides analytics solutions to transform data into intelligence.
+SAS provided a document with marketing information that describes the approach they would take
+to help Social Security with data-driven solutions.
+Social Security Administration
+31
+FYs 2022-2026 Learning Agenda
+Securing today
+and tomorrow
+SSA.gov
+in
+Social Security Administration
+February 2022
+Foundations for Evidence-Based Policymaking Act of 2018 Documentation
+Produced and published at U.S. taxpayer expense

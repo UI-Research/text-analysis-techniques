@@ -1,0 +1,4252 @@
+U.S. Small Business Administration
+*
+FY 2022 Evidence
+1953
+you
+Capacity Assessment
+for Statistics, Evaluation,
+Research and Analysis
+Come In
+WE'RE
+OPEN
+Helping All Small Businesses and Entrepreneurs Achieve Their Dreams
+Table of Contents
+EXECUTIVE SUMMARY
+1
+BACKGROUND
+2
+PURPOSE AND GUIDANCE
+4
+CENTRALIZED EVIDENCE INTEGRATION INFRASTRUCTURE
+5
+CAPACITY ASSESSMENT CONCEPTS AND PRINCIPLES
+7
+Evidence Practices and Dimensional Attributes
+7
+Evidence-Building Activities
+.8
+Evidence Capacity Building.
+10
+METHOD AND APPROACH
+11
+Stakeholders Engagement
+11
+Capacity Assessment Framework
+12
+Barriers and Mitigation Strategies
+14
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+15
+Evidence Maturity Model
+15
+Evidence Asset Inventory
+20
+Federal Managers Survey: Results on Government Performance and Management Issues
+21
+APPENDICES
+Appendix A: Evidence Maturity Model
+35
+Appendix B: List of Activities and Operations Evaluated or Analyzed
+43
+Appendix C: Select Literature
+47
+I
+This page intentionally left blank.
+II
+EXECUTIVE SUMMARY
+Executive Summary
+The Foundations for Evidence-Based Policymaking Act
+As of November 30, 2021, approximately two dozen
+of 2018 (Evidence Act) aims to improve the availability
+activities and operations were being or were in the
+and use of evidence to make critical decisions about
+queue to be evaluated, analyzed, or researched.
+program operations, policy, regulations, and strategy.
+Additionally, the Agency inventoried SBA-produced
+Building capacity to collect, generate, synthesize,
+evidence assets from FY 2018 to the present. More than
+prioritize, disseminate, and use evidence increases the
+55 evaluation, fact finding, and policy analysis evidence
+ability of Agency leadership and program managers
+assets were produced and used to inform the Enterprise
+to make critical decisions. This evidence capacity
+Learning Agenda priority questions or advance the
+assessment provides senior officials with information
+Agency's strategic plan goals and objectives. These
+needed to improve the Agency's ability to support the
+evidence assets cover all SBA strategic goals and
+development and use of evidence, coordinate and
+demonstrate a mix of evaluation, analysis, research,
+increase technical expertise within the agency, and
+and statistics. Additionally, more than 800 data assets
+improve the quality of evidence available for decision-
+were made publicly available online for use in evidence-
+making.
+building activities.
+As a key strategy in building a high-performing
+In summary, the assessment findings indicate that
+organization, the U.S. Small Business Administration
+the Agency meets standards, as described in the SBA
+(SBA) recognizes the importance of building evidence-
+evidence maturity model, for all evidence practices.
+related capacities to understand and improve
+Moreover, between 2017 and 2020, the SBA advanced
+the efficiency and effectiveness of its programs
+its capacity for performance measurement and
+and operations. The SBA also acknowledges the
+program evaluation. Notwithstanding, opportunities
+complexities of small business environments and
+for increased capacity building were identified and four
+that rigorous evidence accumulated over time allows
+strategies to further the Agency's evidence maturity
+leadership to make more informed decisions. As a
+were developed. The strategies include: 1) continue
+result, the SBA has developed this capacity assessment
+raising awareness and align expectations; 2) continue
+to assess the Agency's coverage, quality, methods,
+building employee skills, knowledge, and capabilities;
+effectiveness, and independence of its statistics,
+3) continue promoting and supporting effective
+evaluation, research, and analysis efforts. The SBA
+evidence practices and evidence-building activities;
+developed this assessment through collaboration
+and 4) continue institutionalizing evidence capacity
+with its leadership and ensured alignment with the
+throughout organizational systems, structures, and
+Evidence Act and OMB guidance. The SBA will leverage
+policies. The SBA will continue to identify, prioritize,
+best practices, tools, and existing processes from
+and implement activities, and strategies to address
+program evaluation, performance management, and
+identified evidence capacity needs, monitor and assess
+data practices to promote the use of evidence to inform
+emerging capacity needs, and refine capacity building
+decision-making and build evidence capacity.
+activities.
+This report reviews the SBA's evidence-building efforts
+and assesses the Agency's capacity for evidence. The
+SBA compiled a list of evidence, developed an evidence
+maturity model and evidence capacity self-assessment,
+examined findings from the 2017 and 2020 Federal
+Manager's Survey, and started building the SBA's
+evidence capacity-building strategy.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+1
+BACKGROUND
+Background
+The Foundations for Evidence-Based Policymaking Act
+to expand the Agency's capacity to collect, generate,
+of 2018 (Evidence Act) aims to improve the availability
+synthesize, prioritize, disseminate, and use statistics,
+and use of evidence¹ to make critical decisions
+evaluation, research, and analysis, the SBA will be better
+about program operations, policy, regulations, and
+positioned to answer the priority questions identified in
+strategy. The Evidence Act emphasizes collaboration
+the learning agenda and effectively and efficiently carry
+and coordination in developing and using evidence,
+out the strategies identified in the Agency's strategic
+better use of existing federal data in evidence-building
+plan. As the Agency moves toward the FY 2022-2026
+activities, and open government data. In addition to
+Strategic Plan, the SBA continues to build evidence
+emphasizing collaboration and coordination to advance
+to bring businesses back, create jobs, and connect all
+data and evidence-building functions, the Evidence
+entrepreneurs in America by providing the support they
+Act advances program evaluation as an essential
+need to start, grow, and be resilient.
+component of federal evidence building and addresses
+the role of evaluation and evidence-building activities
+The SBA's capacity assessment assesses evidence
+as a component of the Federal Performance Framework.
+capacity and identifies opportunities to build capacity
+to engage with and use evidence to inform decision-
+The Evidence Act requires agencies to establish and use
+making. In developing the capacity assessment, the
+learning agendas, create and issue annual evaluation
+SBA:
+plans, and conduct a capacity assessment. It also
+Conducted a review of the literature and an
+created three new positions at agencies: Evaluation
+environmental scan.
+Officers, Statistical Officials, and Chief Data Officers.
+Engaged stakeholders and built awareness.
+The Office of Management and Budget (OMB) issued
+guidance² that outlines the roles and responsibilities
+Developed and refined the Agency's evidence
+of these positions, steps to integrate evidence use
+maturity goals and framework.
+and evidence-building capacities, and a timeline for
+Developed a description of evidence capacity
+regular review and reporting processes. The purpose of
+expectations, path of maturity progression, and
+this collective effort is to complement and strengthen
+evidence maturity goals.
+performance improvement efforts.
+Developed and administered the SBA Evidence
+Capacity Assessment Survey.
+Evidence-informed decision-making requires linking
+Developed a data collection plan to expand
+sound scientific evidence with pragmatism and
+stakeholder engagement (see Section VII.B. for
+governance principles,3 and the SBA recognizes the
+collected information)
+importance of evidence and evaluation to understand
+and improve the efficiency and effectiveness of its
+Analyzed and reported assessment findings.
+programs and operations. With the development of the
+SBA's FY 2018-2022 Strategic Plan, the Agency created its
+The Agency broadened its communication for evidence-
+first enterprise learning agenda (learning agenda) that
+based policymaking and the development of evidence
+identified key research and evaluation questions for
+capacity with each phase of the capacity assessment.
+each of the SBA's strategic goals. By continually seeking
+Further, the Agency has begun and will continue to use
+1
+OMB Circular A-11 defines evidence as the available body of facts or information indicating whether a belief or proposition is true or valid.
+2
+OMB Circular A-11 (2021); OMB Memorandum M-19-23 Phase 1 Implementation of the Foundations for Evidence-Based Policymaking Act
+of 2018: Learning Agendas, Personnel, and Planning Guidance (2019); Learning Agendas, Personnel, and Planning Guidance (2019); OMB
+Memorandum M-20-12 Phase 4 Implementation of the Foundations for Evidence-Based Policymaking Act of 2018: Program Evaluation
+Standards and Practices (2020).
+3
+Asgharzadeh, A., Shabaninejad, H., Aryankhesal, A., and Majdzadeh, R. (2019). Instruments for assessing organisational capacity for use of
+evidence in health sector policy making: a systematic scoping review. Evidence & Policy: A Journal of Research, Debate and Practice.
+2
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+BACKGROUND
+the evidence capacity and maturity rating information
+This assessment restates the SBA's approach to
+to implement capacity-building activities to train,
+implementing the Evidence Act requirements, which
+mentor, and recruit an evidence-informed workforce.
+leverage established evidence practices and evidence-
+Although evidence capacity-building continues to be a
+building activities at the SBA. Additionally, the
+primary objective of the SBA's Evidence and Evaluation
+assessment emphasizes the use of findings to build
+Community of Practice, additional efforts include
+greater capacity, identifies the Agency's evidence
+evidence presentations designed to build capacity,
+maturity goals, and discusses the roles and cooperative
+mentorship program pairing, and evidence orientated
+efforts of the Evaluation Officer, Statistical Official, and
+training opportunities related to data, evaluation, and
+Chief Data Officer. The iterative approach promotes
+performance measures.
+evidence-informed decision-making while continually
+developing, adopting, and implementing best practices.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+3
+PURPOSE AND GUIDANCE
+Purpose and Guidance
+The capacity assessment focuses on the Agency's
+(E) the extent to which evaluation and research
+capacity to further evidence practices and evidence-
+capacity is present within the agency to include
+building activities that 1) answer priority questions from
+personnel and agency processes for planning and
+the learning agenda and 2) effectively and efficiently
+implementing evaluation activities, disseminating
+implement strategies identified in the Agency's strategic
+best practices and findings, and incorporating
+plan. Given the SBA's active engagement in evidence-
+employee views and feedback; and
+based activities, the capacity assessment further informs
+(F) the extent to which the agency has the capacity to
+the Agency's ongoing evidence building and supports
+assist agency staff and program offices to develop
+the Agency's aptitude for continuous improvement.
+the capacity to use evaluation research and analysis
+approaches and data in the day-to-day operations.4
+The capacity assessment is expected to provide a
+baseline against which the Agency can measure
+The capacity assessment articulates the SBA's specific
+improvements to the coverage, quality, methods,
+evidence needs. Furthermore, it seeks to answer the
+effectiveness, and independence of Agency statistics,
+question, "Does the SBA have the capacity to collect,
+evaluation, research, and analyses activities. This
+generate, and synthesize evidence to 1) answer the
+approach will inform evidence-based activities
+priority questions identified in the learning agenda and
+by identifying and assessing the capability and
+2) effectively and efficiently carry out the strategies
+infrastructure to implement foundational fact finding,
+identified in the Agency's strategic plan?" The findings,
+performance management, policy analysis, and
+in turn, provide decision-makers "with information
+program evaluation. It must also include:
+needed to improve the Agency's ability to support the
+development and use of evaluations, coordinate and
+(A) a list of the activities and operations of the agency
+increase technical expertise available for evaluation and
+that are currently being evaluated and analyzed;
+related research activities, and improve the quality of
+(B) the extent to which the evaluations, research, and
+evaluations and knowledge of evaluation methodology
+analysis efforts and related activities of the agency
+and standards."5 Finally, the assessment affirms Agency
+support the needs of various divisions within the
+priorities by providing leadership with information to
+agency;
+more effectively focus resources to generate evidence
+(C) the extent to which the evaluation research and
+for decision-making needs.
+analysis efforts and related activities of the agency
+address an appropriate balance between needs
+As discussed in the sections below, a 28-question survey
+related to organizational learning, ongoing program
+that maps to a 5-level evidence maturity model was
+management, performance management, strategic
+used to collect information on the coverage, quality,
+management, interagency and private sector
+methods, effectiveness, and independence of statistics,
+coordination, internal and external oversight, and
+evaluations, research, and analysis (collectively
+accountability;
+"evidence practices"). The maturity model's five-by-
+five matrix (See Appendix A) established the evidence
+(D) the extent to which the agency uses methods and
+capacity baseline and serves as the framework to
+combinations of methods that are appropriate
+monitor and assess maturity over time. The assessment
+to agency divisions and the corresponding
+findings equip the SBA's senior leaders with data
+research questions being addressed, including
+to improve the development and use of evidence,
+an appropriate combination of formative and
+coordinate and enhance technical expertise available
+summative evaluation research and analysis
+for evidence-based activities, and heighten the quality
+approaches;
+and robustness of evidence practices.
+4
+Pub. L. No. 115-435, 132 Stat. 5529, § 315
+5
+OMB Circular No. A-11, Preparation, Submission, and Execution of the Budget (June 2019), Part 6.
+4
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+CENTRALIZED EVIDENCE INTEGRATION INFRASTRUCTURE
+Centralized Evidence Integration
+Infrastructure
+Organizational structure, communication, and
+To ensure effective evidence-building activities, the
+leadership are known to influence organizational
+SBA formalized its program evaluation and analysis
+focus, priority, and attitude toward evidence capacity.6
+functions within the Office of Program Performance,
+Therefore, the SBA has established an integrated
+Analysis, and Evaluation (OPPAE) and established the
+infrastructure that advances the Agency's evidence and
+role of the Chief Data Officer. The SBA is not a principal
+evaluation needs identified in the learning agenda.
+U.S. federal statistical agency in accordance with the
+The Agency has a centralized office that supports
+Evidence Act; however, it maintains a Statistical Official
+performance management, program evaluation, and
+who serves in a consultatory capacity in accordance
+program analysis and has a separate independent small
+with the Evidence Act. The organizational proximity
+business research function (Office of Advocacy) that
+of performance management, program evaluation,
+serves as an independent voice for small businesses
+performance analytics, and data management within
+within the Federal Government to review impacts
+the OPPAE allows for greater collaboration toward
+of rulemakings on small entities, including small
+common evidence-building goals (see Figure 1). The
+businesses, through the Regulatory Flexibility Act, and
+co-location of these functions also proactively reduces
+develop and communicate small business statistics
+the fragmentation of activities for evidence building. In
+and research. Operationally, the SBA maintains a
+addition to sitting on the Data Governance Committee,
+learning agenda, an annual evaluation plan, a robust
+the Evaluation Officer, Statistical Official, and Chief
+cadre of performance measurement statistics, and
+Data Officer play key roles in leading the SBA's evidence
+small business research agenda (Office of Advocacy).
+activities, evidence assessment, and answering the
+The Agency leverages multiple processes to engage
+priority questions outlined in the Enterprise Learning
+leadership in evidence-building activities, including
+Agenda.
+strategic planning, annual planning, quarterly deep-
+dive performance reviews, annual evidence and
+evaluation development and monitoring, and program
+management.
+6
+Norton, S., Milat, A., Edwards, B., & Giffin, M. (2016). Narrative review of strategies by organizations for building evaluation capacity.
+Evaluation and Program Planning, 58, 1-19.
+7
+See Statistical Sites on the World Wide Web: U.S. Bureau of Labor Statistics
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+5
+CENTRALIZED EVIDENCE INTEGRATION INFRASTRUCTURE
+Figure 1. Coordinated Evidence-Building
+Office of Performance,
+Planning, and the Chief
+Financial Officer (OPPCFO)
+Performance
+Improvement Officer
+Office of Program
+Office of Financial Systems,
+Performance, Analysis, and
+Innovation, and Data
+Evaluation (OPPAE)
+Transparency
+Evaluation Officer
+Analysis and Evaluation
+Performance
+Chief Data Officer Division
+Division
+Management Division
+Chief Data Officer
+Statistical Official
+OPPAE oversees the SBA's results-driven management
+Data are a strategic asset and serve as a central
+activities, including strategic planning, performance
+element for building and using evidence. They play a
+management, annual planning and reporting,
+fundamental role in evidence practice and assessment,
+dashboard and analytic support, program management,
+and the SBA collects data to administer its programs,
+program evaluation, and economic analysis.
+monitor contracts and grants, and assess and enforce
+Additionally, OPPAE regularly engages key stakeholders,
+regulations. Therefore, coordination with the Chief
+including leadership and program managers, to develop
+Data Officer and consideration of the data literacy
+and use strategic objectives, priority goals, performance
+assessment findings is essential to developing evidence
+indicators, and priority questions such as those
+capacity and maximize opportunities to generate
+appearing in the learning agenda. These engagements
+evidence and improve programs.
+result in prioritized evidence-building activities, support
+organizational learning, increase transparency, enhance
+accountability, and promote more effective and efficient
+building and use of evidence.
+6
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+CAPACITY ASSESSMENT CONCEPTS AND PRINCIPLES
+Capacity Assessment Concepts and
+Principles
+Evidence accumulates over time through an evidence-
+For contextual relevancy and application within the
+building cycle that assesses, prioritizes, generates,
+SBA, the evidence practices are described below.
+and uses analysis, statistics, research, and evaluations
+Evaluation. Evaluation refers to the individual,
+to develop a comprehensive body of knowledge. The
+systematic collection of data to assess program,
+accumulation of rigorous, theoretically grounded
+policy, project, or operational effectiveness,
+evidence links scientific and governance principles.
+efficiency, or implementation fidelity. Evaluation
+Once the availability and quality of existing evidence
+types may include but are not limited to formative
+are assessed, gaps can be identified, and new evidence-
+evaluations, which can consist of design or
+building activities to address them are conducted.
+descriptive studies, process or implementation
+evaluations, outcome evaluations, or impact
+The SBA uses evidence to justify resource requests,
+evaluations. The purpose of evaluation is to
+communicate progress toward outcomes, and inform
+make recommendations to improve, advance,
+decision-making, further emphasizing that where
+or modify existing programs, policies, projects,
+evidence is available, it should be used and where
+or operations. Evaluation is intended to provide
+evidence is absent, it should be sought. The SBA is
+information for decision-making about current
+intentional in its approach to mature its evidence
+and future programming, policy, projects, or
+practices, enhance the rigor of its evidence-building
+operations. Evaluation evidence practices are used
+activities, and support evidence-building. The
+when conducting program evaluation and process
+Agency continues to integrate evidence into strategic
+evaluation evidence-building activities.
+planning, operational decision-making, and policy
+Analysis. Analysis refers to a process of breaking
+and program development. The SBA recognizes that
+a concept, proposition, fact, complex topic, or
+evidence-building occurs over time through rigorous
+substance into its simple and constituent parts so
+and repeated data collection and analysis and has
+that its logical structure can be displayed. Analysis
+established a multi-year evidence capacity timeline to
+is broad in scope and has numerous categories,
+address this need.
+including but not limited to policy analysis, cost-
+benefit analysis, break-even analysis, regulatory
+Evidence Practices and
+impact analysis, regulatory flexibility analysis,
+Dimensional Attributes
+and other analysis-related activities. Analysis is
+also used in both evaluation and research, and,
+The SBA assessment of evidence practices (evaluation,
+depending on the method and purpose of the
+analysis, research, and statistics) considered the
+research or evaluation, analysis overlaps with
+attributes of coverage, quality, method, effectiveness,
+statistics. The purpose of analysis is to uncover
+and independence. In addition to OMB guidance and
+interrelationships and gain a better understanding
+professional association (e.g., American Evaluation
+of information or data. Analysis evidence practices
+Association, the American Statistical Association)
+are used when conducting policy analysis, cost-
+standards and practices, evidence assessments must
+benefit analysis, break-even analysis, regulatory
+consider Agency context. The four evidence practices
+impact analysis, and regulatory flexibility analysis
+are not mutually exclusive, but there are distinguishing
+evidence-building activities.
+elements.
+Research. Research refers to the systematic use
+of scientific methods for the creation of new
+knowledge to describe, explain, predict, and
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+7
+CAPACITY ASSESSMENT CONCEPTS AND PRINCIPLES
+control an observed phenomenon. Research can
+the evidence-practice is used for operational,
+also use existing knowledge in a new or innovative
+management, and policy decision-making.
+way to generate new concepts, methodologies,
+Quality. Quality considers ethics, scientific
+and understandings. Research can be exploratory,
+integrity, and quality of data of evidence produced.
+descriptive, or explanatory. Research uses
+Quality is specific to the evidence-practice being
+inductive (qualitative) and deductive (quantitative)
+assessed, reflecting standards such as relevancy,
+methods. The purpose of research is to generate
+accuracy, timeliness, credibility, objectivity, utility,
+new knowledge or advance knowledge or
+integrity, and transparency.
+theory. Research is intended to prove a theory or
+Method. Method references the techniques,
+hypothesis. Research evidence practices are used
+systems, and processes used in evidence
+to create economic reports, conduct foundational
+generation. Methods vary by evidence practice.
+fact finding, and prepare literature review evidence-
+However, appropriate and rigorous methodological
+building activities.
+approaches are systemic, empirically grounded,
+Statistics. Statistics and statistical activities
+and best support the definitive answers to the
+refer to the collection, compilation, processing,
+questions under investigation.
+or analysis of data for the purpose of describing
+Effectiveness. Effectiveness indicates that
+or making estimates concerning a group (not an
+evidence practices and evidence-building
+individual). Statistical evidence is produced from
+activities support the Agency's intended
+statistical activities for the purpose of describing,
+outcome. Additionally, effectiveness considers
+estimating, or analyzing the characteristics of
+the balance of organizational learning, program
+a group. The purpose of statistics is to describe
+management, performance management, strategic
+or make meaningful and accurate conclusions
+decision-making, interagency, and private sector
+about a population based on a value computed
+coordination.
+from a sample. Statistical evidence practices are
+used with program and performance metrics and
+Independence. Independence denotes that
+are frequently used in conjunction with all other
+evidence practices and evidence-building activities
+evidence practice and evidence-building activities.
+are free from bias and inappropriate influence.
+Although not a statistical agency, the SBA produces
+Independence also considers internal and external
+performance measurement, operational, and
+oversight with identified accountabilities and
+administrative statistics, and partners with federal
+controls.
+statistical agencies to provide essential statistical
+information (e.g., Census Bureau Statistics of U.S.
+Evidence-Building Activities
+Businesses and Census Bureau Nonemployer
+Statistics).
+Evidence is generated through several activities. The
+SBA capacity assessment focuses on four evidence-
+The dimensions, also referred to as dimensional
+building activities: program evaluation, performance
+attributes, are as follows.
+measurement, policy analysis, and foundational fact
+Coverage. Coverage considers what evidence
+finding (See Figure 2). The four evidence-building
+practices are occurring and where within the
+activities are interdependent. The credibility and
+Agency they occur. The assessment also considers
+merit of evidence practices and the level of maturity
+the extent to which evidence practices support
+associated with these dimensions influence the
+Agency strategic goals and objectives and if
+evidence produced.
+8
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+CAPACITY ASSESSMENT CONCEPTS AND PRINCIPLES
+unique but do not operate independently. Although
+Figure 2. Evidence-Building Activities
+described in the section above as evidence practices,
+analysis and statistics are typically used in or are a result
+of the SBA's evidence-building activities described
+Program
+below. Finally, coordinated evidence-building activities
+Evaluation
+lead to a more robust evidence base.
+Program Evaluation. The SBA conducts program
+evaluations to examine Agency activities (program
+and initiative) and operations (administrative
+Foundational
+Body of
+Performance
+and support). Further, program evaluation seeks
+Fact Finding
+Evidence
+Measurement
+to ensure that programs have clear goals and
+objectives, logic models have documented program
+outcomes based on established theory, and
+program operations support intended outcomes.
+Policy
+The SBA focuses evaluation activities on priority
+Analysis
+questions identified in the Agency's learning
+agenda, thereby playing a critical role in the
+development of a body of evidence used to inform
+policy, process, and program decision-making.
+Additional detail on the SBA's evaluation standards
+The SBA routinely conducts in-house evidence-building
+and practices is available in the Framework and
+activities and contracts for or collaborates in third-
+Guidelines for Program Evaluation.8 In addition to
+party evidence-building activities. In-house evidence-
+a dedicated team of evaluators in OPPAE, program
+building activities are performed internally and serve
+offices may independently engage in evaluation
+as a useful and complementary approach to assess
+activities.
+progress toward strategic goals and objectives. The
+Performance Measurement. Effective
+SBA's internally conducted activities typically provide
+performance measurement plays a critical role in
+enhanced programmatic insight but may be perceived
+the realization of strategic goals and objectives. The
+as less independent. Conversely, the SBA's third-party
+regular and ongoing collection, monitoring, and
+evidence activities engage external experts with no
+reporting of established performance measures
+personal interest in the findings. However, externally
+offer opportunities to identify, coordinate,
+conducted activities lack first-hand programmatic
+and execute evidence-based action within
+knowledge and may require internal subject matter
+the Agency. Implementing the performance
+experts to assist with the interpretation of the results.
+management framework emphasizes goal setting,
+Whether done internally or externally, individuals
+prioritization, and the review of performance data
+involved in evidence-building activities are expected
+to make decisions and improve outcomes. SBA
+to be qualified, adhere to evidence practice principals
+performance measurement includes systematic
+and standards, and have no undisclosed conflict of
+assessment, organizational collaboration toward
+interests. The development of meaningful, accurate,
+goal attainment, and data quality documentation
+and objective evidence plays a crucial role in evidence-
+and improvement that contributes to building
+informed decision-making.
+a portfolio of evidence. The SBA's Performance
+Management Division is located within OPPAE. The
+Similar to evidence practices and dimensional attribute
+SBA tracks approximately 100 key performance
+assessments, the four evidence-building activities are
+8
+U.S. Small Business Administration (2019) Framework and Guidelines for Program Evaluation.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+9
+CAPACITY ASSESSMENT CONCEPTS AND PRINCIPLES
+indicators annually in the Annual Performance
+Evidence Capacity Building
+Report.9
+Policy Analysis. Evidence-informed policymaking
+Evidence capacity building is an intentional process
+relies on rigorous, objective evidence. SBA policy
+to increase individual motivation, knowledge, and
+analysis activities inform decision-making with
+skills and a deliberate process to enhance a group
+empirically grounded analysis of policies that
+or organization's ability to conduct or use evidence
+affect Agency programs. Although not exhaustive,
+as
+part
+of routine practice.10 It requires tailored
+policy analysis activities estimate regulatory
+strategies based on capacity assessment needs,
+impact, consider direct and indirect effects, and,
+organizational commitment, training, experiential
+where possible, account for outside influence to
+learning, practical application, and technical support
+develop and evaluate policy. OPPAE and the Office
+within the workplace. 11 While the capacity assessment
+of Advocacy generate evidence through policy and
+is used to analyze the gap between a current and goal
+economic analysis activities.
+state, enhanced capacity for evidence is built over
+time through intentional efforts that targets evidence
+Foundational Fact finding. Foundational fact
+knowledge, skill, and ability development at both
+finding evidence-building activities play a vital
+the organizational and individual levels. The Agency
+role in the SBA's evidence-building cycle, and
+currently seeks to build capacity through the Evidence
+activities include, but are not limited to, descriptive
+and Evaluation Community of Practice, internal and
+statistics, aggregated indicators, literature reviews,
+external training, the use of OPPAE program liaisons,
+exploratory studies, and research. The resulting
+and the integration of evidence discussions into
+foundational facts inform decision-making and
+planning and reviews.
+often serve as inputs to other evidence practices
+and evidence-building activities. The Office of
+Advocacy uses economic research and various fact
+finding activities to advance the views and concerns
+of small businesses.
+ 9www.sba.gov/document/report--congressional-budget-justification-annual-performance-report.
+10
+Labin, S. N., Duffy, J. L., Meyers, D. C., Wandersman, A., & Lesesne, C. A. (2012). A Research Synthesis of the Evaluation Capacity Building
+Literature. American Journal of Evaluation, 33(3), 307-338.
+11
+Norton et al. (2016).
+10
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+METHOD AND APPROACH
+Method and Approach
+To ensure the capacity assessment is thoroughly
+Phase 2 Initial through Final Draft Evidence Capacity
+understood and correctly framed, the SBA reviewed
+Assessment (June through December 2021): Continue
+literature,12 assessed best practices, and engaged
+evidence data collection and analysis while formulating
+stakeholders. Successful capacity building, and by
+capacity-building strategies.
+proxy this capacity assessment, requires context
+Collect data and re-assess the Agency's evidence
+relevancy, tailored strategies, practical application,
+capacity.
+experiential learning, and ongoing leadership support.
+Formulate an evidence capacity development plan
+The SBA used a phased process to build capacity for
+and capacity-building strategies based on findings
+evidence and evaluation. This approach required that
+from the baseline capacity assessment.
+the Agency routinely assess, diagnose, and produce
+actionable results that inform evidence practice and
+Phase 3 Final Evidence Capacity Assessment
+evidence-building activities to inform decision-making.
+(February 2022): Publish Evidence Capacity
+The development of the SBA's capacity assessment
+Assessment.
+is outlined below and is followed by an overview of
+stakeholder engagement, the capacity assessment
+Phase 4 Ongoing: Continue to evaluate, re-assess,
+framework, and barriers to capacity. A detailed timeline
+revise, and build upon existing capacity to sustain
+appears in Section VIII.
+change and embed continuous learning into the SBA
+culture.
+Phase 1 Interim Evidence Capacity Assessment
+(September 2020): Assess the evidence capacity
+literature and landscape, inventory agency evidence
+Stakeholders Engagement
+assets, and conduct a baseline assessment.
+Stakeholders are critical to the success of capacity
+Review capacity-building literature and conduct an
+assessment and capacity-building activities.
+environmental scan.
+Stakeholder engagement supports the development of
+Engage stakeholders and build awareness.
+evidence champions,13 evidence buy-in,14 and ultimately
+Develop the Agency's evidence maturity goals and
+capacity for agencies to engage with and use evidence.15
+framework.
+Stakeholder engagement and the integration of their
+Pilot data collection where the concentration of
+feedback should occur regularly. Internal stakeholders
+evidence activities occur.
+include agency executives, program managers, and
+program staff, including other evaluators, analysts, and
+Analyze and report assessment findings.
+data professionals. External stakeholders include small
+businesses, Congress, OMB and other federal agencies,
+grantees, lenders, researchers, consortiums, and think
+tanks.
+Several forms of stakeholder input informed the
+development of the capacity assessment. First,
+12
+A select list of reviewed literature appears in Appendix C.
+13
+UNDP Capacity Assessment Methodology User's Guide (2008).
+14
+Bremault-Phillips, S. C., Parmar, J., Friesen, S., Rogers, L. G., & Pike, A. (2016). An Evaluation of the Decision-Making Capacity Assessment
+Model. Canadian Geriatrics Journal, 19(3), 83-96.
+15
+Brennan, S.E., McKenzie, J. E., Turner, T., Redman, S., Makkar, S., Williamson, A., Green, S. E. (2017). Development and validation of
+SEER (Seeking, Engaging with and Evaluating Research): a measure of policymakers' capacity to engage with and use research. Health
+Research Policy and Systems, 15(1), 1.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+11
+METHOD AND APPROACH
+feedback from the learning agenda development and
+Following the baseline assessment, the SBA broadened
+annual updates were considered in the design and
+internal stakeholder engagement. In addition to
+the timeline. Second, the quarterly deep-dive reviews
+collecting existing evidence (prior studies, reports,
+and annual evaluation planning meetings were used
+analyses, data, and other evidence) held at the program
+as listening sessions to understand better how to
+level, non-career senior executives, career senior
+conceptualize and use evidence. Feedback from the
+executives, senior leaders, and program managers
+learning agenda development informed the evidence
+across the SBA were invited to complete the SBA
+maturity matrix, and information from the deep-dive
+Evidence Capacity Assessment Survey. Focus group
+reviews and evaluation planning provided input into the
+discussions were offered to those wishing to participate
+evidence maturity rating. Finally, a small sample of SBA
+by alternate means. As presented in Section VII below,
+program managers pretested the survey used to collect
+the perspective of SBA office and program leaders offers
+data on the SBA's evidence maturity. Based on pretest
+a more comprehensive assessment of evidence maturity
+feedback, questions were reworded and contextual
+and offers insight into evidence capacity-building
+information was added, as appropriate.
+activity needs.
+Prior to data collection phase for the interim
+Future iterations may also engage external stakeholders
+capacity assessment, SBA performance analysts,
+and independent experts. In addition to publishing
+program evaluators, and members of the Evidence
+a "Request for Information" on key learning agenda
+and Evaluation Community of Practice provided
+topics in a Federal Register Notice, the SBA will
+feedback on the assessment framework and planned
+interview external stakeholders. It is expected that
+implementation process. More than 25 individuals
+the information exchange with external stakeholders
+received briefs and represented 12 of the SBA's program
+will inform the evidence-practice gap and guide future
+offices. Since that time, evidence capacity discussions
+evidence capacity-building efforts.
+with SBA and program leadership occur regularly, and
+efforts have been made to better understand factors
+influencing perceptions of evidence maturity. The SBA
+Capacity Assessment Framework
+also consulted with external federal agencies on the
+The SBA capacity assessment framework uses a
+design and development of the revised maturity model
+utilization-focused investigation to understand
+and data collection approach.
+Agency perceptions of capacity for evidence practices.
+Additionally, before initiating the Agency's evidence
+Five individuals from the three SBA offices most
+capacity baseline assessment, the SBA developed its
+engaged in evidence-building activities provided the
+evidence capacity maturity model with structured
+information to assess evidence maturity. The key
+levels and descriptive behavioral anchors that tie to
+designated officials (evidence leaders) identified in
+the Evidence Act requirement discussed in Section III
+the Evidence Act-the Evaluation Officer, Statistical
+Purpose and Guidance. The three components of the
+Official, and Chief Data Officer-reside in two of the
+assessment are:
+three offices. The Director of Performance Management
+1) Evidence Maturity Model. The evidence maturity
+and the Director of Economic Research within the Office
+model establishes the evidence baseline, defines
+of Advocacy, an office that develops and aggregates
+the desired goal-state, and provides an analysis
+research and data on small businesses, also provided
+of the gap between a current state and goal-state.
+input. These evidence leaders helped to determine the
+The model describes the present state of the SBA's
+baseline maturity of the SBA's evidence capacity as
+evaluations, research, analysis, and statistical
+reported in the interim evidence capacity assessment
+evidence practices across the dimension attributes
+and Section VII below.
+coverage, quality, methods, effectiveness, and
+independence described in Section V.A. above,
+directly addressing the requirement outlined
+12
+Small Business Administration
+|
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+METHOD AND APPROACH
+Pub. L. No. 115-435, 132 Stat. 5529, § 315 (c)(3)(9)
+management practices. The Government
+(B through E). The structure of the model provides
+Accountability Office (GAO) administers the
+a rubric to measure capacity growth over time. The
+FMS periodically, 19 providing agency-specific
+model outlines a path for continuous improvement
+data related to perceptions of performance
+that moves the SBA toward full implementation
+measures, progress toward agency goals,
+of OMB-defined evidence practices and standards
+quarterly performance reviews, and program
+and an enhanced capacity to generate and use
+evaluation. A random sample of career managers
+evidence. See Appendix A for the full maturity
+and supervisors, including employees at General
+model.¹ 16 The SBA's long-term maturity goals are
+Schedule or equivalent schedules at levels
+identified in Level 5, Above Average.
+comparable to GS-13 through GS-15 and career
+A 28-question assessment, SBA Evidence Capacity
+Senior Executive Service, or equivalent, receive the
+Assessment Survey, was used to collect evidence
+survey. The FMS results are used, in part, to inform
+capacity data. Questions 1 through 7 collect rater
+the requirement outlined Pub. L. No. 115-435, 132
+demographic, individual knowledge, and technical
+Stat. 5529, § 315 (c)(3)(9).
+expertise data. Questions 8 through 27 use a 5-point
+4) Staff Capacity. The SBA's OPPAE supports a
+Likert scale and have a Don't Know/No Basis to
+centralized evidence and evaluation team with
+Judge option.
+technical and applied knowledge to use evaluation,
+2) Evidence Asset Inventory. In addition to meeting
+analysis, research, and statistical approaches
+the statutory requirement17 to list the activities and
+and data in day-to-day operations. OPPAE staff
+operations currently being evaluated or analyzed,
+work with program offices to plan and undertake
+the evidence asset inventory establishes a one-
+evidence-building activities. Work continues
+stop repository for evidence-building activities
+post-evaluation to develop courses of action and
+that advance the goals and objectives identified
+integrate evaluation findings into implementation
+in the strategic plan or are used to answer priority
+and performance management plans. The
+questions outlined in the learning agenda. OPPAE
+evidence and evaluation team also works to extend
+and the Office of Advocacy provided the initial list
+knowledge throughout the organization via the
+of evidence assets. The list was analyzed, and the
+Evidence and Evaluation Community of Practice,
+criteria for inclusion and exclusion as an evidence
+peer-to-peer learning sessions (such as Introduction
+asset or planned evidence-building activity has
+to Using PowerBI for Data Analysis), targeted
+been developed. The list of current and planned
+capacity building (such as Regulatory Analysis
+activities and operations being evaluated and
+Review), and mentorship program matching.
+analyzed has since been expanded to offices
+Finally, identification of evidence capacity needs
+throughout the SBA. See Appendix B for the list of
+and competencies have been included in the
+work completed since FY 2018. Future iterations
+SBA's 2021 Talent Development Needs Survey and
+of the evidence capacity assessment will update
+the Competency Assessment. Collectively, this
+current and planned evidence activities.
+information informs addressing the requirement
+3) Federal Managers Survey: Results on
+outlined Pub. L. No. 115-435, 132 Stat. 5529,
+Government Performance and Management
+§ 315 (c)(3)(9)(F).
+Issues18 (FMS). The FMS collects agency data
+on evidence, evaluation, and performance
+16 As the Agency works toward the final capacity assessment, evidence practice descriptions may be updated to reflect best practices and
+lessons learned.
+17
+Pub. L. No. 115-435, 132 Stat. 5529, § 315 (c)(3)(9)(A).
+18 Formerly known as Survey of Federal Managers on Organizational Performance and Management Issues.
+19
+GAO has administered the FMS in 1997, 2000, 2003, 2007, 2013, 2017, and 2020. The 2017 and 2020 surveys are available at https://www.
+gao.gov/products/gao-17-776sp and https://www.gao.gov/products/gao-21-537sp, respectively.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+13
+METHOD AND APPROACH
+Barriers and Mitigation Strategies
+3) Survey limitations. The FMS provides insight
+into evidence barriers faced by the SBA, such
+Four of the SBA's most pressing capacity assessment,
+as difficulty determining meaningful measures,
+evidence practice, and evidence-building execution
+challenges in obtaining valid or reliable data, and
+barriers include 1) system complexity, 2) data
+commitment to using performance information to
+limitations, 3) FMS limitations, and 4) evidence
+make program decisions. However, only aggregated
+expectations. The capacity-building plan, in part,
+responses are available,20 and the survey itself
+addresses the limitations and develop targeted
+has sampling and response limitations that affect
+mitigation strategies.
+the interpretation. Although these limitations are
+1) System complexity. SBA staff focus primarily on
+outside the Agency's control, the SBA has taken
+service delivery and increasing staff attention to
+steps to mitigate survey barriers by creating
+evidence and evaluation capacity requires buy-in
+and communicating definitions, standardizing
+and allocated time. Additionally, legislative and
+terminology, and embedding discussions of
+regulatory requirements can limit both the method
+evidence in everyday dialogue. Additionally, the
+and type of evidence-based inquiry undertaken,
+FMS topics were relatively constant from one
+as well as the ability to dedicate personnel to
+version to the next, and the SBA intended to use the
+evidence-based activities. Such regulations may
+2017 results as the baseline for the SBA's evidence
+also constrain the use of evidence in decision-
+maturity. GAO released the 2020 survey with
+making. Proactive stakeholder engagement,
+updated and expanded data to account for relevant
+centralized evidence-building activities,
+statute changes and OMB guidance. The 2020
+organizational commitment, communication,
+survey results have been used to measure progress
+feedback loops, and evidence dissemination
+in this assessment.
+strategies mitigate the above barriers.
+4) Evidence expectations. The use of five raters
+2) Data limitations. Specific challenges related to
+to establish the Agency's capacity baseline is an
+data exist, and the concurrent development of the
+additional limitation. However, the five raters were
+SBA's Data Strategy identifies data quality, machine
+purposively selected for the breadth and depth of
+readability, and prohibited data access limitations.
+their knowledge of evidence practices and their
+These limitations impact the Agency's ability to
+exposure across the Agency. Additionally, the
+identify, collect, and analyze evidence, which
+sample of SBA program managers completing the
+directly influences the Agency's evidence capacity.
+SBA Evidence Capacity Survey was not random, and
+Coordinated efforts with the Chief Data Officer
+therefore limits generalizability. Finally, potential
+to foster the Agency's evidence assessment and
+rater bias or differing expectation levels may be
+capacity goals and mitigate identified data issues
+contributing to the identified maturity model
+serve to reduce the impact of data limitations.
+rating differences between the SBA's evidence
+leaders and program managers. Capacity-building
+strategies that target this gap in expectations will be
+developed.
+20
+The government-wide results presented in this report may vary from those presented in GAO-21-536, available at https://www.gao.gov/
+products/gao-21-536, which used raw data and excluded instances where a respondent did not answer a question when calculating
+estimates. Seventy-eight SBA managers completed the survey (weighted response rate 53) completed the 2020 FMS.
+14
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Evidence Capacity Assessment Findings
+and Recommendations
+Evidence Maturity Model
+Managers. Given the response rate, the findings may
+not be generalizable to the broader SBA leadership
+A team of SBA evidence leaders provided input on
+and program manager population, and due to the
+the Agency's baseline evidence maturity for the initial
+nonresponse error, the findings should be interpreted
+assessment. Each evidence leader oversaw the SBA's
+cautiously.
+evidence-based practices and evidence-building activity
+portfolio, including performance management, program
+Individuals completing the survey are well versed in the
+analysis, program evaluation, research, statistics, policy
+SBA's programs, contributing their wealth of knowledge
+analysis, and foundational fact finding. SBA evidence
+and experience to the assessment. Approximately 55
+leaders participating in the development of the baseline
+percent of all survey respondents were Career Senior
+assessment include:
+Executive or Senior Leaders, 35 percent were GS-15
+Director, Office of Program Performance, Analysis,
+program managers, and 10 percent were GS-14 program
+and Evaluation
+managers. Half of all respondents had between 4 and
+Director, Analysis and Evaluation Division
+20 years of work experience at the SBA, and 30 percent
+had 20 or more years' experience at the SBA. Most (80
+Director, Performance Management Division
+percent) were very familiar or extremely familiar with
+Chief Data Officer
+the Agency's Strategic Plan. In contrast, approximately
+Director, Office of Economic Research (Office of
+35 percent were very familiar or extremely familiar with
+Advocacy)
+the Agency's Enterprise Learning Agenda. Finally, 90
+percent of respondents identified as having advanced
+The above experts completed the Evidence Capacity
+or authoritative knowledge in one or more evidence
+Assessment survey, which examined five dimensional
+practice and evidence-building activity.
+attributes (coverage, quality, method, effectiveness,
+and independence) across four evidence practices
+Collective Evidence Maturity
+(evaluation, analysis, research, and statistics). The
+survey questions were mapped to the evidence maturity
+The collective maturity of the SBA's evidence practices
+model (see Appendix A), and the findings were used to
+is Satisfactory. See Figure 3. However, SBA program
+rate evidence maturity on a five-level scale,21 ranging
+manager respondents consistently related the maturity
+from 1 (Unacceptable) to 5 (Above Average) with a
+attributes higher than the SBA's evidence leaders. The
+Don't Know/No Basis to Judge option. The findings
+rating disparity between the two groups suggests a
+are presented in aggregate in the column labeled SBA
+first step in capacity building is to align expectations
+Evidence Leaders.
+throughout the Agency. The method and coverage
+attributes display the largest gap at 0.4 and 0.5,
+After establishing the evidence maturity baseline,
+respectively. Coverage is of particular interest as the
+more than three dozen program managers across the
+evidence leaders rated the attribute as Improving to
+SBA were invited to complete the Evidence Capacity
+Satisfactory, but the program managers rated the
+Assessment survey. The survey attained a 39.5
+attribute as Satisfactory. Developing an evidence
+percent response rate, and the findings are presented
+capacity-building plan addressing organization
+in aggregate in the column labeled SBA Program
+and human capital activities such as scalability,
+training, evidence quality, intra-agency coordination,
+21 SBA Evidence Maturity Model scale: 1 = Unacceptable, 2 = Marginal, 3 = Improving, 4 = Satisfactory, and 5 = Above Average.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+15
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+and evidence dissemination strategies will set the
+of all attributes warrants further investigation and
+framework for future evidence activities. Additionally, as
+should be a focus of initial capacity-building efforts.
+discussed at the end of this section, the rating disparity
+Figure 3. Overall Evidence Maturity
+Evidence Maturity
+(Evaluation, Analysis, Research, Statistics)
+Total
+SBA Program
+SBA Evidence
+Coverage
+Average
+Managers
+Leaders
+5
+Overall Score
+4.3
+4.4
+4.1
+3
+Attribute
+Level
+Level
+Level
+2
+Independence
+Quality
+1
+Coverage
+4.0
+4.2
+3.7
+Quality
+4.4
+4.5
+4.3
+Methods
+4.5
+4.6
+4.2
+Effectiveness
+4.2
+4.3
+4.1
+Effectiveness
+Methods
+Independence
+4.4
+4.5
+4.3
+SBA Program Managers
+SBA Evidence Leaders
+Maturity of Individual Evidence Practices
+a consistent theme throughout the rating is that SBA
+SBA program manager respondents and evidence
+program manager respondents believed that the Agency
+leaders rated evaluation, analysis, and research as
+had a more mature evidence capacity than the evidence
+Satisfactory. See Figures 4 through 6. As noted above,
+leaders indicated when they responded to the survey.
+Figure 4. Evaluation Maturity
+Evaluation Maturity
+Total
+SBA Program
+SBA Evidence
+Coverage
+Average
+Managers
+Leaders
+5
+Overall Score
+4.4
+4.5
+4.3
+3
+Attribute
+Level
+Level
+Level
+2
+Independence
+Quality
+1
+Coverage
+4.1
+4.2
+3.7
+Quality
+4.5
+4.6
+4.7
+Methods
+4.5
+4.6
+4.4
+Effectiveness
+4.3
+4.5
+4.3
+Effectiveness
+Methods
+Independence
+4.6
+4.7
+4.6
+SBA Program Managers
+SBA Evidence Leaders
+16
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 5. Analysis Maturity
+Analysis Maturity
+Total
+SBA Program
+SBA Evidence
+Coverage
+Average
+Managers
+Leaders
+5
+Overall Score
+4.3
+4.4
+4.0
+3
+Attribute
+Level
+Level
+Level
+2
+Independence
+Quality
+1
+Coverage
+4.1
+4.1
+4.0
+Quality
+4.4
+4.6
+4.0
+Methods
+4.3
+4.5
+3.9
+Effectiveness
+4.2
+4.4
+4.0
+Effectiveness
+Methods
+Independence
+4.3
+4.4
+4.1
+SBA Program Managers
+SBA Evidence Leaders
+Figure 6. Research Maturity
+Research Maturity
+Total
+SBA Program
+SBA Evidence
+Coverage
+Average
+Managers
+Leaders
+5
+Overall Score
+4.3
+4.3
+4.3
+Attribute
+Level
+Level
+Level
+2
+Independence
+Quality
+1
+Coverage
+4.0
+4.2
+3.6
+Quality
+4.4
+4.4
+4.4
+Methods
+4.6
+4.5
+4.6
+Effectiveness
+4.2
+4.2
+4.1
+Effectiveness
+Methods
+Independence
+4.3
+4.2
+4.7
+SBA Program Managers
+SBA Evidence Leaders
+Although rating gaps exist in the above evidence
+Judge responses. The findings suggest that additional
+practices, the discrepancy is particularly notable for
+clarity and communication regarding statistical
+the statistical practices. See Figure 7. Where evidence
+practices and activities is warranted. Although to a
+leaders perceive statistical activities and practices to
+lesser extent, between 10 and 15 percent of all possible
+range between Improving and Satisfactory, SBA program
+responses for evaluation, analysis, and research were
+managers rated all attributes as Satisfactory and above.
+also Don't Know/No Basis to Judge, providing additional
+Statistics and statistical activities also received the
+opportunities to increase awareness and knowledge
+largest number of (24 percent) Don't Know/No Basis to
+across the SBA's evidence practices.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+17
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 7. Statistics Maturity
+Statistics Maturity
+(statistical activities and statistical evidence)
+Total
+SBA Program
+SBA Evidence
+Coverage
+Average
+Managers
+Leaders
+5
+Overall Score
+4.3
+4.4
+3.8
+Attribute
+Level
+Level
+Level
+2
+Independence
+Quality
+1
+Coverage
+4.0
+4.2
+3.4
+Quality
+4.3
+4.3
+4.2
+Methods
+4.4
+4.6
+4.0
+Effectiveness
+4.2
+4.4
+3.8
+Effectiveness
+Methods
+Independence
+4.4
+4.6
+3.8
+SBA Program Managers
+SBA Evidence Leaders
+Extending beyond evidence practices, examining
+disseminating, and using evidence. The marked
+dimensional attributes across evidence practices
+difference of perceptions between the SBA's program
+provides additional opportunities to identify
+managers and the SBA's evidence leaders suggests
+and target capacity-building activities. Figure 8,
+that training, technical assistance, and experiential
+Dimensional Attribute Maturity, further illustrates
+learning opportunities that target evidence literacy and
+perceived maturity gaps. Understanding when and
+expectation alignment should be part of the Agency's
+what evidence is sufficient are key considerations
+evidence capacity-building strategy.
+when collecting, generating, synthesizing, prioritizing,
+18
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 8. Dimensional Attribute Maturity
+Evidence Maturity
+Coverage
+Quality
+5
+5
+4
+4
+3
+3
+Evaluation
+Analysis
+Research
+Statistics
+Evaluation
+Analysis
+Research
+Statistics
+Evidence Leaders
+Program Managers
+Evidence Leaders
+Program Managers
+Method
+Effectiveness
+5
+5
+4
+4
+3
+3
+Evaluation
+Analysis
+Research
+Statistics
+Evaluation
+Analysis
+Research
+Statistics
+Evidence Leaders
+Program Managers
+Evidence Leaders
+Program Managers
+Independence
+5
+4
+3
+Evaluation
+Analysis
+Research
+Statistics
+Evidence Leaders
+Program Managers
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+19
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Evidence Asset Inventory
+The Agency actively participated in an evidence-
+building project (evaluation, analysis, research,
+The inventory compiles evidence assets (evaluations,
+statistic) with an external researcher or other
+foundational fact finding, and regulatory analysis)
+federal agency;
+beginning in fiscal year 2018, which coincides with
+A regulatory impact analysis was conducted as
+the passage of the Evidence Act, and extends through
+required by Executive Order 12866,22 or if SBA is
+the fiscal year 2021 planned activities. As the primary
+unable to certify that the regulatory action does not
+offices responsible for program evaluation, analysis,
+have a significant impact on a substantial number
+performance management, and research within
+of small entities; or
+SBA, asset inventory data collection efforts for the
+The analysis uses publicly available data or
+assessment were limited to documents and reports
+performance metric reports, including Annual
+issued from OPPAE and Office of Advocacy, and data
+Performance Reports, Priority Goal reports, or
+collection is now expanded throughout the Agency.
+performance dashboards.
+Collected information included report name, activity
+In addition to the routine and cyclical production
+initiation year, project status, primary evidence
+of performance measures and the Census Bureau
+practice, evidence-building activity, and program office.
+Nonemployer Statistics, the SBA has created more than
+Data used to determine the evidence's priority status
+included:
+5523 evidence assets through the evaluation, analysis,
+and research of activities and operations since FY 2018.
+support of strategic goal and objective,
+Additionally, there are approximately two dozen
+relationship to learning agenda priority questions,
+planned or in-process evaluation, analysis, and research
+and
+projects in FY 2022 (see Appendix B). The SBA's publicly
+support in addressing a legislative requirement,
+available data assets are also available online.24 As of
+regulatory need, or audit recommendatio.
+June 30, 2020, more than 800 data assets were available
+for use in evidence-building activities.
+The Agency recognizes that a broad body of empirical
+evidence on small business and related topics exists.
+The review of activities and operations evaluated
+However, listing all potentially significant external
+or analyzed revealed a mix of program evaluation,
+work extends beyond the scope and intent of the
+foundational fact finding, policy analysis, and
+SBA's inventory of evaluated or analyzed activities
+performance management evidence-building activities
+and operations. Evidence assets should be included if
+that extend across the Agency. This evidence can be
+the evidence-building activity will be used to support
+used to inform priority questions from the learning
+program improvement with a meaningful impact. The
+agenda and contribute toward the effective and efficient
+inclusion criteria are:
+implementation of strategies identified in the Agency's
+strategic plan. Although progress has been made,
+The evidence-building activity is undertaken with
+additional support for the CDO's data quality efforts,
+the intended use for decision-making.
+including the full development of a comprehensive list
+The evaluation, analysis, research, or statistics
+of SBA data systems and information, along with data
+are produced by an SBA employee, contractor,
+quality ratings, will further the SBA's evidence-building
+or interagency partner to inform SBA programs,
+activities. Additionally, removing statutory restrictions
+policies, or processes;
+that prevent the SBA's access to certain resource
+partner data will advance the SBA's program and client
+22 Available at https://www.archives.gov/files/federal-register/executive-orders/pdf/12866.pd
+23
+As of November 30, 2021.
+ 24www.sba.gov/about-sba/sba-performance/open-government/digital-sba/open-data/open-data-source
+20
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+knowledge. In turn, access to resource partner data
+expanding the performance information and evaluation
+will further the Agency's ability to use existing data for
+components and adding data, research, and analysis
+evidence-building activities and, ultimately, promote
+questions.
+informed decision-making.
+Relevant questions from the FMS were coded by
+evidence type and category (organizational, human
+Federal Managers Survey: Results
+capital, individual, external influence, or system,
+on Government Performance
+structure, governance). The categories identified in
+and Management Issues
+Table 1 influence evidence integration and capacity25
+and provide further opportunity to target evidence
+As discussed above in section VI.B.3, GAO periodically
+capacity-building strategies. Where possible, the SBA
+administers the FMS, which reports federal managers'
+used the change in results for questions appearing in
+observations on and perceptions of results-oriented
+the 2017 and 2020 versions of the FMS to assess the
+management topics, such as performance measures
+Agency's evidence capacity progress. Additionally,
+and program evaluation. Questions are periodically
+the SBA 2020 FMS results were compared with the
+updated between survey administration. While revisions
+government-wide estimates. The 2020 FMS now serves
+made to the 2020 FMS affected the ability to compare
+as the new baseline, and the next FMS, which occurs
+results to the 2017 FMS survey, the 2020 FMS allows
+approximately every three years, will be used to
+the SBA to examine its evidence capacity more fully by
+continue monitoring progress over time.
+Table 1. Capacity Categories and Federal Managers Survey Questions
+Category
+Example FMS questions
+Organizational-include leadership, culture/climate,
+Are there performance measures for the program(s) that you were involved with?
+strategy, communication, evidence integration
+Human capital-includes recruitment, retention, training,
+During the past three years, has your agency provided, arranged, or paid for
+experiential learning, practical application
+training that would help you accomplish the following tasks?
+System, structure, governance-includes infrastructure,
+Managers [at my level] can easily access my agency's performance information.
+resources, technical support
+Individual-includes knowledge, skills, abilities, and other
+For those program(s) that you are involved with, to what extent, if at all, do you
+attributes, engagement with and use of evidence
+use the information obtained from performance measures when participating in
+the following activities?
+External influences-includes policymakers, media, public
+To what extent do you agree with the statements [Congress supported the use of
+opinion, customers, and researchers
+evaluations] about evaluations of your program(s)?
+25
+Brownson, R. C., Fielding, J. E., & Green, L. W. (2018). Building Capacity for Evidence-Based Public Health: Reconciling the Pulls of
+Practice and the Push of Research. Annual Review of Public Health, 39(1), 27-53. Norton, et al. (2016); Preskill, H., & Boyle, S. (2008). A
+Multidisciplinary Model of Evaluation Capacity Building. American Journal of Evaluation, 29(4), 443-459. Taylor-Ritzler, T., Suarez-Balcazar,
+Y.,
+Garcia-Iriarte, E., Henry, D. B., & Balcazar, F.E. (2013). Understanding and Measuring Evaluation Capacity: A Model and Instrument
+Validation Study. American Journal of Evaluation, 34(2), 190-206.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+21
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Evidence Capacity Improvements
+Figure 9. SBA Managers Reporting Capacity to
+(2017 to 2020)
+Performance Measurement and Program Evaluation
+The 2017 FMS findings suggested that the SBA's
+Activities26
+evidence-building activities focus on increasing the
+Capacity by Category
+overall capacity for program evaluation. Although the
+Year
+2017
+2020
+2017 and 2020 FMS results revealed perceived capacity
+differences between performance measurement and
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+program evaluation remain, the capacity gap has
+reduced. Additionally, as demonstrated in Figure 9, the
+external evidence capacity estimates for evaluation are
+greater than the performance measurement estimates.
+60
+In 2016, the SBA began investing resources into program
+evaluation activities. Given the increased focus on
+evaluation-related activities, and the evaluation
+maturity ratings discussed in the previous section,
+40
+the SBA anticipates continued capacity development
+with higher ratings of program evaluation capacity in
+the next FMS. Because the 2017 FMS did not collect
+information about other evidence activities, there is no
+20
+comparison for data, research, and analysis.
+80
+5
+6
+0
+Ext.
+HC Ind. O/L SSG Ext. Ind. O/L SSG
+Performance Information Program Evaluation
+Notes: Ext. = External. HC - Human Capital. Ind = Individual. O/L =
+Organizational/Leadership. SSG = System, Structure, and
+Governance.
+The SBA's efforts to enhance evidence-based
+communications and integrate evidence into decision-
+making have advanced the Agency's evidence capacity.
+Figure 10 demonstrates the increase in evidence
+capacity across all five categories, with individual
+capacity estimates now exceeding organizational
+capacity efforts. The findings suggest that the SBA's
+focus on developing employees' evidence-related
+competencies is contributing to evidence capacity
+growth in the individual category. Although progress
+in the human capital capacity category is evident, the
+26
+Sources - Supplemental Material for GAO-17-775: 2017 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-17-776SP), available at https://www.gao.gov/products/gao-17-776sp. See survey items 5a-e, 6a-g, 7a-n, 9a-m, 10a, 10c, 11c-d,
+12c-d, 19a-l, 19p, 22a, 22c, 22e-g, 22j, 24a-c, 24e, 24l and Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on
+Government Performance and Management Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey
+items 4b-e, 4g, 6a-g, 6i-n, 7a-b, 8d-e, 9a-d, 11a-j, 12a-b, 12e, 13b-c, 13e, 14a-b, 16a-j, 16l-n, 19a, 19c-f, 22a-b, 22e-f, 22i.
+22
+Small Business Administration
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+SBA's efforts related to recruitment, retention, training,
+human capital capacity related to program evaluation.
+experiential learning, and practical application lag the
+As seen in Figure 9 above, there were no matching
+capacity development of other categories. However,
+program evaluation human capital questions present in
+this finding is likely attributed to a lack of comparable
+the 2017 and 2020 FMS.
+Figure 10. SBA Managers Reporting Capacity by Category27
+Growth in Capacity by Category: 2017 to 2020
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+Ext.
+98.6
+Individual
+HC
+Ind.
+O/L
+SSG
+Organizational/
+96.6
+Leadership
+Organizational/
+56.7
+Leadership
+System, Structure,
+80.0
+Individual
+54.7
+and Governance
+System, Structure,
+46.9
+and Governance
+53.3
+Human Capital
+Human Capital
+43.2
+51.8
+External
+External
+17.9
+Notes: Ext. = External. HC - Human Capital. Ind. = Individual. O/L = Organizational/Leadership. SSG = System, Structure, and Governance.
+In summary, while the 2017 FMS findings suggested
+SBA and Government-Wide Evidence
+that evidence-building activities should focus on
+Capacity Estimates (2020)
+increasing the overall capacity for program evaluation,
+In addition to assessing capacity across evidence
+the availability of the 2020 FMS findings demonstrate
+activities, the SBA agency-level capacity was examined
+rapidly increasing capacity for evaluation evidence
+against the government-wide estimates. Where
+and evidence-building activities. Moving forward, the
+available, comparisons to the SBA's 2017 FMS estimates
+SBA will continue developing the Agency's capacity
+are introduced.
+for performance and program evaluation evidence
+capacity.
+SBA managers have access to a range of evidence
+and information. Figure 11 illustrates that a higher
+percentage of SBA managers report having access to
+performance and program evaluation information than
+27
+Sources - Supplemental Material for GAO-17-775: 2017 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-17-776SP), available at https://www.gao.gov/products/gao-17-776sp. See survey items 5a-e, 6a-g, 7a-n, 9a-m, 10a, 10c, 11c-d,
+12c-d, 19a-l, 19p, 22a, 22c, 22e-g, 22j, 24a-c, 24e, 24l and Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on
+Government Performance and Management Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey
+items 4b-e, 4g, 6a-g, 6i-n, 7a-b, 8d-e, 9a-d, 11a-j, 12a-b, 12e, 13b-c, 13e, 14a-b, 16a-j, 16l-n, 19a, 19c-f, 22a-b, 22e-f, 22i.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+23
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+is reported by federal managers government-wide.
+demonstrating improved estimates in all measures.
+However, access to administrative data, statistical
+SBA managers reporting they had customer service
+data, and research and analysis lags. Access to output,
+measures to a "great" or "very great" extent achieved
+quality, process, customer service, and outcome
+the largest gain (18.5 percent), followed by outcome,
+measures for performance information items appear
+quality, and output measures. Process measures
+in the 2017 (estimated range 29.1 to 69.1 percent)
+experienced the smallest gain at 7.5 percent.28
+and 2020 FMS (estimated range 45.2 to 79.8 percent)
+Figure 11. Managers Reporting They Had Specific Types of Evidence for Their Programs29
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+79.8
+80
+69.6
+60
+57.0
+57.9
+52.2
+50.1
+46.6
+47.6
+45.245.9
+44.8
+42.8
+39.1
+40
+36.6
+33.6
+31.3
+30.2
+29.8
+26.9
+21.6
+20
+19.3
+16.3
+0
+Input
+Output
+Quality
+Process
+Customer
+Equity
+Outcome
+Program
+Admin
+Statistical
+Research
+Service
+Evaluation
+Data
+Data
+& Analysis
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+2020 Gov-Wide
+. 2020 SBA
+2020 Gov-Wide
+Performance Management
+Data, Research and Analysis
+SBA managers' perception of performance and
+lower perception of performance evidence quality at
+evaluation evidence exceeds the government-wide
+the agency level was also observed in the government-
+estimates. Figure 12 shows that when asked about the
+wide results. When asked about the quality of program
+quality of performance evidence, approximately 66
+evaluation, approximately 42 percent of SBA managers
+percent of SBA managers reported that evidence was
+reported that evidence was of sufficient quality (a
+of sufficient quality (a "great" or "very great" extent) for
+"great" or "very great" extent).
+their program but about 53 percent for the Agency. The
+28
+Supplemental Material for GAO-17-775: 2017 Federal Managers Survey: Results on Government Performance and Management Issues
+(GAO-17-776SP), available at https://www.gao.gov/products/gao-17-776sp. See survey items 5a-e.
+29
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 4a-g, 17b, and 24a-c. Gov-Wide =
+Government Wide.
+24
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 12. Managers Reporting They Had Evidence of Sufficient Quality30
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+80
+65.9
+60
+53.7
+52.8
+41.7
+41.9
+40
+32.1
+20
+0
+Performance
+Program
+Performance
+Information
+Evaluations
+Information
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+2020 Gov-Wide
+My Program
+My Agency
+As illustrated in Figure 13, SBA managers reported using
+revealed that capacity gaps existed in seven of nine
+evidence for various decision-making activities such
+identified data skills, which may explain the reduced
+as program management and information, managing
+use of data in decision-making activities examined.
+crosscutting activities, and communicating information.
+When compared with government-wide results,31 the
+Further examination reveals that performance
+SBA's usage of program information and evaluation
+information is most used and data, research, and
+evidence for decision-making exceeds the government-
+analysis are least used in the scenarios presented.
+wide estimates.
+The recently completed data literacy gap assessment
+30
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 7c, 12d, and 20. Gov-Wide =
+Government Wide.
+31
+Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management Issues
+(GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 6b-e, 6g-l, 19a-f, 25b-k.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+25
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 13. SBA Managers Reporting They Used Various Types of Evidence for Selected Management Activities32
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+Program Management
+Program Improvement
+71.4
+64.1
+63.1
+61.9
+60.6
+64.7
+47.6
+49.3
+50
+50
+40.6
+32.6
+33.2
+31.7
+26.1
+27.1
+29.2
+0
+0
+Adopting New
+Implementing
+Refining
+Allocating
+Developing
+Setting Priorities
+Approaches
+Corrective Action
+Performance
+Resources
+Program Strategy
+And Goals
+Measures
+.
+Data, Research, Analysis
+Performance Information
+Program Evaluation
+Data, Research, Analysis
+Performance Information
+Program Evaluation
+Managing Crosscutting Activities
+Communicating Information
+65.1
+65.0
+65.4
+55.5
+50
+45.1
+46.7
+50
+31.8
+35.6
+36.3
+30.3
+30.2
+PI
+0
+0
+Coordinating
+Identifying
+Informing Public
+Providing Context
+Sharing Promising
+Program Efforts
+Opportunities To
+to Understand
+Practices
+Manage Duplicati.
+Performance
+Data, Research, Analysis
+Performance Information
+Data, Research, Analysis
+Performance Information
+Program Evaluation
+When compared with the 2017 FMS results, SBA
+15 to 29.5 percent (see Table 2). As further evidence
+managers in 2020 reported increases in their use of
+of the SBA's increased capacity for performance
+performance information and program evaluation. SBA
+information, a recently released GAO report noted that
+managers agreed using program evaluation evidence
+the SBA usage of performance information index score,
+for providing context to understand performance
+which approximates the reported use of performance
+from a "great" or "very great" extent increased 32.6
+information in decision-making and engagement
+percent from 12.5 to 45.1 percent. The use of program
+in practices that promote the use of performance
+evaluation evidence for resource allocation, sharing
+information increased significantly between 2017
+promising practices, and informing public also
+and 2020. 33 The report also concluded that the SBA
+increased 30.9, 29.6, and 25.7 percent, respectively.
+estimates exceeded the government-wide estimates on
+3 of 11 questions related to the use index and 9 of the 15
+Where opportunities for comparison of the usage of
+questions related to leading practices that can promote
+performance information existed, increases ranged from
+the use of performance information
+32
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 6b-e, 6g-l, 19a-f, 25b-k.
+33
+Evidence-Based Policymaking: Survey Results Suggest Increased Use of Performance Information Across the Federal Government (GAO-
+22-103910), available at https://www.gao.gov/products/gao-22-103910.
+26
+Small Business Administration
+|
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Table 2. SBA Managers Reporting Use of Performance Information for Selected Management Activities, 2017 and
+2020³
+Performance Information
+(estimated percent)
+2017-2020
+(percent)
+2017
+2020
+Allocating Resources
+46.8
+64.1
++17.3
+Developing Program Strategy
+45.9
+63.1
++17.2
+Setting Priorities And Goals
+43.6
+71.4
++27.8
+Adopting New Approaches
+46.8
+61.9
++15.1
+Implementing Corrective Action
+45.6
+60.6
++15.0
+Refining Performance Measures
+36.6
+64.7
++28.1
+Coordinating Program Efforts
+44.3
+65.1
++20.8
+Informing Public
+26.6
+55.5
++28.9
+Sharing Promising Practices
+35.9
+65.4
++29.5
+SBA managers' estimates of program staff evidence-
+information to a "great" or "very great" extent, but only
+building capacity exceeded the government-wide
+35.6 percent of managers reported evidence-building
+estimates. As shown in Figure 14, approximately 60
+capacity for data, research, and analysis. Aspects of
+percent of SBA managers reported that program
+program evaluation evidence-building capacity ranged
+staff had evidence-building capacity for performance
+from 46 to 47.7 percent.
+34
+Sources - Supplemental Material for GAO-17-775: 2017 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-17-776SP), available at https://www.gao.gov/products/gao-17-776sp. See survey items 7a, 7c. 7e-l, 7m-n. Supplemental
+Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management Issues (GAO-21-537SP),
+available at https://www.gao.gov/products/gao-21-537sp. See survey items 6b-e, 6g-l.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+27
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 14. Managers Reporting Program and Agency Staff Had Evidence-Building Skills35
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+Program staff have the skills needed to..
+2020 SBA
+60.4
+Collect, analyze, and use these types of evidence
+2020 Gov-Wide
+50.5
+Performance Information
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+35.6
+Collect, analyze, and use these types of evidence
+2020 Gov-Wide
+27.1
+Data, Research, and Analysis . 2020 SBA
+2020 Gov-Wide
+Undertake the following program evaluation activities:
+2020 SBA
+47.2
+Conduct evaluations
+2020 Gov-Wide
+32.7
+2020 SBA
+47.7
+Implementing resulting recommendations
+2020 Gov-Wide
+35.3
+2020 SBA
+46.0
+Understand methods, results, and limitations
+2020 Gov-Wide
+33.0
+Program Evaluation
+2020 SBA
+2020 Gov-Wide
+Approximately 52 percent of SBA managers reported
+evidence-building skills for data, research and analysis.
+that Agency-wide evidence-building skills for
+Figure 15 shows that although the reported capacity
+performance information existed to a "great" or "very
+gap between the two evidence activities remains, it is
+great" extent, with 43 percent of managers reporting
+reduced at the Agency level.
+35
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 8b, 21a-c, 26a. Gov-Wide =
+Government Wide.
+28
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 15. Managers Reporting Program and Agency Staff Had Evidence-Building Skills36
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+My agency has staff with the skills needed to.
+2020 SBA
+52.1
+Collect, analyze, and use these types of evidence
+2020 Gov-Wide
+46.2
+Performance Information 2020 SBA 2020 Gov-Wide
+2020 SBA
+43.0
+Collect, analyze, and use these types of evidence
+2020 Gov-Wide
+40.4
+Data, Research, and Analysis
+2020 SBA
+2020 Gov-Wide
+Managers were asked about program and Agency
+information at the program and agency levels to a
+access to analytical tools to collect, analyze, and use
+"great" or "very great" extent.37 SBA managers reported
+performance information and data, research, and
+greater agency-wide access to analytical tools (37.8
+analysis. As illustrated in Figure 16, approximately 49
+percent) than at the program level (20.7 percent) for
+percent of SBA managers reported having performance
+data, research, and analysis.
+36
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 13d and 26c. Gov-Wide = Government
+Wide.
+37
+SBA managers reporting My agency has the tools needed to collect, analyze, and use performance information to a "great" or "very great"
+extent in 2017 was 34.5 percent. See Supplemental Material for GAO-17-775: 2017 Federal Managers Survey: Results on Government
+Performance and Management Issues (GAO-17-776SP), available at https://www.gao.gov/products/gao-17-776sp, survey item 6e.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+29
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 16. Managers Reporting They Had Tools to Collect, Analyze, and Use Evidence³8
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+Managers have the tools to collect, analyze and use.
+2020 SBA
+48.7
+Performance Information
+2020 Gov-Wide
+44.2
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+20.7
+Data, research, and analysis
+2020 Gov-Wide
+25.7
+. 2020 SBA
+2020 Gov-Wide
+My agency has the tools to collect, analyze and use.
+2020 SBA
+Performance Information
+48.8
+2020 Gov-Wide
+47.8
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+37.8
+Data, research, and analysis
+2020 Gov-Wide
+39.2
+2020 Gov-Wide
+More than half of SBA managers (an estimated 55.7
+evaluation, but less than one-third of SBA managers
+to 72.0 percent) reported the availability of training
+reported availability of training related to data,
+to develop, assess, or use performance information.
+research, and analysis. Figure 17 illustrates that this
+Slightly more than one-third of SBA managers reported
+trend is consistent with the experience of managers
+that program staff received training in program
+government-wide.
+38
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 8a, 11f, 26b, 27b. Gov-Wide=
+Government Wide.
+30
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 17. Managers Reporting They or Their Staff Received Training to Conduct Various Evidence-Building
+Activities39
+Estimated Percentage Reporting "Yes"
+In the past 3 years, my agency provided training to..
+2020 SBA
+Assessed the quality of performance data
+55.7
+2020 Gov-Wide
+52.6
+2020 SBA
+Conduct strategic planning
+58.5
+2020 Gov-Wide
+54.8
+2020 SBA
+Develop program performance measures
+69.9
+2020 Gov Wide
+57.5
+2020SBA
+Link the performance of program(s)/operation(s)/project(s) to the achievement
+65.0
+2020 Gov Wide
+57.7
+2020 SBA
+Set program performance goals
+72.0
+2020 Gov-Wide
+61.7
+2020SBA
+Use program performance information to make decisions
+67.2
+2020 Gov-Wide
+56.8
+Performance Information .
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+26.7
+Analyze administrative and statistical data, and research and analysis to draw co
+2020 Gov-Wide
+30.8
+2020 SBA
+26.9
+Assess the credibility of data, research, and analysis
+2020 Gov Wide
+27.2
+2020 SBA
+33.5
+Assess the quality of data, such as administrative or statistical data
+2020 Gov Wide
+30.4
+2020SBA
+25.3
+Identify and collect additional types of information, such as administrative or sta.
+2020 Gov-Wide
+30.7
+Data, Research, and Analysis 0 2020 SBA
+2020 Gov-Wide
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+Program staff have received training on..
+2020 SBA
+37.1
+Program evaluation (e.g., formal classroom training, conferences, on the job trai.
+2020 Gov-Wide
+25.3
+Program Evaluation
+2020 SBA
+2020 Gov-Wide
+It is also worth noting that training on performance
+conduct various evidence-building activities to a "great"
+information has substantially increased over the past
+or "very great" extent has increased since 2017. Most
+three years. As illustrated in Table 3, SBA manager
+notably, training related to the use of performance
+reporting that the Agency provided, arranged, or paid
+information in decision-making increased by nearly 30
+for training to help use of performance measures to
+percent.
+39
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 10a-f, 21d and 28a-d. Gov-Wide =
+Government Wide.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+31
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Table 3. SBA Managers Reporting The Agency Provided Training to Conduct Performance-Related Evidence-
+Building Activities40
+Performance Information
+Change
+2017-2020
+2017
+2020
+Assess the quality of performance data
+36.1
+55.7
++19.6
+Conduct strategic planning
+41.1
+58.5
++17.4
+Develop program performance measures
+46.1
+69.9
++23.8
+Link the performance of program(s)/operation(s)/project(s to the
+40.2
+65.0
++24.8
+achievement of agency strategic goals
+Set program performance goals
+47.7
+72.0
++24.3
+Use program performance information to make decisions
+38.6
+67.2
++28.6
+Similar to the government-wide trend, Figure 18
+Agency investment in improving the quality of and
+illustrates that approximately one-third of SBA
+capacity to use performance information, which is up
+managers reported that the Agency is investing
+from approximately one-quarter reported in the 2017
+resources to improve data, research, and analysis
+FMS.4
+capabilities. Nearly half of SBA managers reported
+40
+Sources - Supplemental Material for GAO-17-775: 2017 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-17-776SP), available at https://www.gao.gov/products/gao-17-776sp.: See survey items 13a-f. Supplemental Material for
+GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management Issues (GAO-21-537SP), available at
+https://www.gao.gov/products/gao-21-537sp. See survey items 10a-f.
+41
+Supplemental Material for GAO-17-775: 2017 Federal Managers Survey: Results on Government Performance and Management Issues
+(GAO-17-776SP), available at https://www.gao.gov/products/gao-17-776sp. See survey items 13c and 13e.
+32
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Figure 18. Managers Reporting Agency Resource Investments in Evidence-Building Capacity42
+Estimated Percentage Reporting to a "Great" or "Very Great" Extent
+My agency is investing the resources needed to.
+2020 SBA
+46.6
+Ensure that its performance information is of sufficient quality
+2020 Gov -Wide
+41.1
+2020 SBA
+45.2
+Improve the agency's capacity to use performance information
+2020 Gov-Wide
+38.7
+Performance Information
+2020 SBA
+2020 Gov-Wide
+2020 SBA
+32.0
+Improve its capability to collect, analyze, and use these types of evidence
+2020 Gov-Wide
+32.1
+Data, Research, and Analysis e 2020 SBA
+2020 Gov-Wide
+In summary, performance-based evidence continues to
+evaluation is expected to further decrease. Finally, the
+outperform other SBA evidence activities and capacity.
+2020 FMS introduced additional types of evidence (data,
+However, the SBA's evaluation evidence-capacity is a
+research, and analysis), reflecting new activities as
+leader among its government-wide peers, and program
+required in the Evidence Act.
+evaluation capacity has substantially improved in
+three years. As the SBA continues program evaluation
+evidence-building, the gap between performance and
+42
+Source - Supplemental Material for GAO-21-536: 2020 Federal Managers Survey: Results on Government Performance and Management
+Issues (GAO-21-537SP), available at https://www.gao.gov/products/gao-21-537sp. See survey items 13c, 13e, 27d. Gov-Wide = Government
+Wide.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+33
+EVIDENCE CAPACITY ASSESSMENT FINDINGS AND RECOMMENDATIONS
+Recommendations and
+capacity can vary across the organization and requires
+constant effort to maintain sufficient levels. The Agency
+Capacity-Building Plan
+may consider offering evidence related trainings,
+This capacity assessment identified and analyzed
+developing specific capacity-building curriculums, and
+the gap between the SBA's current evidence capacity
+identifying a way to track and monitor staff capacity.
+and the goal state. Recommendations have been
+summarized into four overarching strategies: 1) raise
+Strategy 3: The SBA should continue promoting and
+awareness and align expectations; 2) build employee
+supporting effective evidence practices and evidence-
+skills, knowledge, and capabilities; 3) promote and
+building activities. The evidence capacity survey noted
+support effective evidence practices and evidence-
+areas where these could be expanded to provide more
+building activities; and 4) institutionalize evidence
+coverage throughout the Agency. The SBA may consider
+capacity throughout organizational systems, structures,
+organizing opportunities for various offices to discuss
+and policies.
+evidence activities, identify ways to use data integrating
+evaluation, analysis, research, and statistical evidence
+Strategy 1: The SBA should continue raising
+to inform decision-making, and establish mechanisms
+awareness of and align expectations around evidence-
+to procure capacity-building support.
+based decision-making, evidence capacity, and
+evidence building. The findings from this assessment
+Strategy 4: The SBA should continue working
+demonstrate growth in awareness and use of evidence
+to institutionalize evidence capacity throughout
+but also found a misalignment of understanding and
+organizational systems, structures, and policies. An
+expectations between the Agency's evidence leaders
+Agency with a mature evidence capacity will have an
+and program managers. The SBA may consider
+organizational culture that supports the routine use of
+broadly disseminating the results of this assessment
+evidence practices and evidence for decision making.
+among Agency leadership, continual integration of
+The SBA may consider incorporating evidence use
+program staff in the evidence building process, and
+in appropriate templates and policies, developing
+communicating the results of evidence building
+indicators to measure capacity-building activities and
+activities at all staff levels.
+progress, aligning position descriptions and workforce
+need statements to ensure adequate human resources,
+Strategy 2: The SBA should continue building employee
+and re-administer the SBA Evidence Capacity Survey
+skills, knowledge, and capabilities for evidence
+in subsequent years to measure and reassess SBA's
+building and use. The assessment notes that individual
+evidence capacity and progress toward the level 5 goal
+employee capacity has grown. However, individual
+state outlined in the maturity model.
+34
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+APPENDICES
+Appendix A: Evidence Maturity Model
+Evaluation
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level 3 (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+and evidence
+and evidence developed
+and evidence developed
+and evidence
+and evidence developed
+developed through
+through evaluation
+through evaluation
+developed through
+through evaluation
+evaluation activities
+activities RARELY
+activities SOMETIMES
+evaluation activities
+activities ALMOST
+NEVER support the
+support the agency's
+support the agency's
+TYPICALLY support the
+ALWAYS support the
+agency's strategic goals
+strategic goals and
+strategic goals and
+agency's strategic goals
+agency's strategic goals
+and objectives and
+objectives and are
+objectives and are
+and objectives and are
+and objectives and
+are NEVER available
+RARELY available
+SOMETIMES available
+TYPICALLY available
+are ALMOST ALWAYS
+for operational,
+for operational,
+for operational,
+for operational,
+available for operational,
+management, and
+management, and
+management, and
+management, and
+management, and policy
+policy decision-making.
+policy decision-making.
+policy decision-making.
+policy decision-making.
+decision-making.
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+and evidence developed
+and evidence developed
+and evidence
+and evidence developed
+and evidence developed
+through evaluation
+through evaluation
+developed through
+through evaluation
+through evaluation
+activities are NEVER
+activities are RARELY
+evaluation activities
+activities are TYPICALLY
+activities are ALMOST
+ethical and NEVER
+ethical or RARELY meet
+are SOMETIMES ethical
+ethical and TYPICALLY
+ALWAYS ethical and
+meet evaluation quality
+evaluation quality
+and SOMETIMES meet
+meet evaluation quality
+ALMOST ALWAYS meet
+standards (relevant,
+standards (relevant,
+evaluation quality
+standards (relevant,
+evaluation quality
+accurate, timely,
+accurate, timely,
+standards (relevant,
+accurate, timely,
+standards (relevant,
+and credible) and
+and credible) and
+accurate, timely,
+and credible) and
+accurate, timely,
+standards of objectivity,
+standards of objectivity,
+and credible) and
+standards of objectivity,
+and credible) and
+utility, integrity, and
+utility, integrity, and
+standards of objectivity,
+utility, integrity, and
+standards of objectivity,
+transparency.
+transparency.
+utility, integrity, and
+transparency.
+utility, integrity, and
+transparency.
+transparency.
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+and evidence
+and evidence developed
+and evidence developed
+and evidence developed
+and evidence developed
+developed through
+through evaluation
+through evaluation
+through evaluation
+through evaluation
+evaluation activities
+activities RARELY
+activities SOMETIMES
+activities TYPICALLY
+activities ALMOST
+NEVER employ
+employ appropriate or
+employ appropriate
+employ appropriate
+ALWAYS employ
+appropriate or rigorous
+rigorous methodological
+and rigorous
+and rigorous
+appropriate and
+methodological
+approaches that best
+methodological
+methodological
+rigorous methodological
+approaches that best
+support the definitive
+approaches that best
+approaches that best
+approaches that best
+support the definitive
+answers to the
+support the definitive
+support the definitive
+support the definitive
+answers to the
+evaluation questions
+answers to the
+answers to the
+answers to the
+evaluation questions
+under investigation.
+evaluation questions
+evaluation questions
+evaluation questions
+under investigation.
+under investigation.
+under investigation.
+under investigation.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+35
+APPENDICES
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+and evidence developed
+and evidence developed
+and evidence
+and evidence developed
+and evidence developed
+through evaluation
+through evaluation
+developed through
+through evaluation
+through evaluation
+activities are NEVER
+activities are RARELY
+evaluation activities
+activities are TYPICALLY
+activities are ALMOST
+directed at outcomes
+directed at outcomes
+are SOMETIMES
+directed at outcomes
+ALWAYS directed at
+and issues that
+and issues that matter
+directed at outcomes
+and issues that matter
+outcomes and issues
+matter to the agency
+to the agency and
+and issues that matter
+to the agency and
+that matter to the
+and NEVER balance
+RARELY balance
+to the agency and
+TYPICALLY balance
+agency and ALMOST
+organizational learning,
+organizational learning,
+SOMETIMES balance
+organizational learning,
+ALWAYS balance
+program management,
+program management,
+organizational learning,
+program management,
+organizational learning,
+performance
+performance
+program management,
+performance
+program management,
+management, strategic
+management, strategic
+performance
+management, strategic
+performance
+decision-making,
+decision-making,
+management, strategic
+decision-making,
+management, strategic
+interagency, and private
+interagency, and private
+decision-making,
+interagency, and private
+decision-making,
+sector coordination.
+sector coordination.
+interagency, and private
+sector coordination.
+interagency, and private
+Reports and findings are
+Reports and findings are
+sector coordination.
+Reports and findings
+sector coordination.
+NEVER disseminated.
+RARELY disseminated.
+Reports and findings
+are TYPICALLY
+Reports and findings
+are SOMETIMES
+disseminated.
+are ALMOST ALWAYS
+disseminated.
+disseminated.
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+Evaluation activities
+and evidence
+and evidence developed
+and evidence
+and evidence developed
+and evidence developed
+developed through
+through evaluation
+developed through
+through evaluation
+through evaluation
+evaluation activities
+activities are RARELY
+evaluation activities
+activities are TYPICALLY
+activities are ALMOST
+are NEVER free from
+free from bias and
+are SOMETIMES
+free from bias and
+ALWAYS free from bias
+bias and inappropriate
+inappropriate influence
+free from bias and
+inappropriate influence
+and inappropriate
+influence and NEVER
+and RARELY have
+inappropriate influence
+and TYPICALLY have
+influence and ALMOST
+have appropriate
+appropriate levels of
+and SOMETIMES have
+appropriate levels of
+ALWAYS have
+levels of internal and
+internal and external
+appropriate levels of
+internal and external
+appropriate levels of
+external oversight.
+oversight. Policies
+internal and external
+oversight. Policies
+internal and external
+Policies NEVER identify
+RARELY identify
+oversight. Policies
+TYPICALLY identify
+oversight. Policies
+accountabilities and
+accountabilities and
+SOMETIMES identify
+accountabilities and
+ALMOST ALWAYS
+controls related to
+controls related to
+accountabilities and
+controls related to
+identify accountabilities
+evaluation activities
+evaluation activities
+controls related to
+evaluation activities
+and controls related to
+and evidence generated
+and evidence generated
+evaluation activities
+and evidence generated
+evaluation activities and
+from evaluation
+from evaluation
+and evidence generated
+from evaluation
+evidence generated from
+activities.
+activities.
+from evaluation
+activities.
+evaluation activities.
+activities.
+36
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+APPENDICES
+Analysis
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level 3 (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Analysis activities and
+Analysis activities and
+Analysis activities and
+Analysis activities and
+Analysis activities and
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+through analysis
+through analysis
+through analysis
+through analysis
+through analysis
+activities NEVER support
+activities RARELY
+activities SOMETIMES
+activities TYPICALLY
+activities ALMOST
+the agency's strategic
+support the agency's
+support the agency's
+support the agency's
+ALWAYS support the
+goals and objectives
+strategic goals and
+strategic goals and
+strategic goals and
+agency's strategic goals
+and are NEVER available
+objectives and are
+objectives and are
+objectives and are
+and objectives and
+for operational,
+RARELY available
+SOMETIMES available
+TYPICALLY available
+are ALMOST ALWAYS
+management, and policy
+for operational,
+for operational,
+for operational,
+available for operational,
+decision-making
+management, and
+management, and policy
+management, and
+management, and policy
+policy decision-
+decision-making.
+policy decision-making.
+decision-making.
+making.
+Analysis activities and
+Analysis activities and
+Analysis activities
+Analysis activities
+Analysis activities and
+evidence developed
+evidence developed
+and evidence
+and evidence
+evidence developed
+through analysis
+through analysis
+developed through
+developed through
+through analysis
+activities are NEVER
+activities are RARELY
+analysis activities are
+analysis activities are
+activities are ALMOST
+ethical and NEVER
+ethical or RARELY
+SOMETIMES ethical
+TYPICALLY ethical
+ALWAYS ethical and
+meet quality standards
+meet quality standards
+and SOMETIMES meet
+and TYPICALLY meet
+ALMOST ALWAYS
+(relevant, accurate,
+(relevant, accurate,
+quality standards
+quality standards
+meet quality standards
+timely, and credible) and
+timely, and credible)
+(relevant, accurate,
+(relevant, accurate,
+(relevant, accurate,
+standards of objectivity,
+and standards of
+timely, and credible) and
+timely, and credible)
+timely, and credible) and
+utility, integrity, and
+objectivity, utility,
+standards of objectivity,
+and standards of
+standards of objectivity,
+transparency.
+integrity, and
+utility, integrity, and
+objectivity, utility,
+utility, integrity, and
+transparency.
+transparency.
+integrity, and
+transparency.
+transparency.
+Analysis activities and
+Analysis activities and
+Analysis activities and
+Analysis activities and
+Analysis activities and
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+through analysis
+through analysis
+through analysis
+through analysis
+through analysis
+activities NEVER
+activities RARELY
+activities SOMETIMES
+activities TYPICALLY
+activities ALMOST
+employ appropriate or
+employ appropriate
+employ appropriate and
+employ appropriate
+ALWAYS employ
+rigorous methodological
+or rigorous
+rigorous methodological
+and rigorous
+appropriate and
+approaches.
+methodological
+approaches.
+methodological
+rigorous methodological
+approaches.
+approaches.
+approaches.
+Analysis activities and
+Analysis activities
+Analysis activities
+Analysis activities
+Analysis activities and
+evidence developed
+and evidence
+and evidence
+and evidence
+evidence developed
+through analysis
+developed through
+developed through
+developed through
+through analysis
+activities are NEVER
+analysis activities are
+analysis activities are
+analysis activities are
+activities are ALMOST
+directed at outcomes
+RARELY directed at
+SOMETIMES directed
+TYPICALLY directed
+ALWAYS directed at
+and issues that
+outcomes and issues
+at outcomes and
+at outcomes and
+outcomes and issues
+matter to the agency
+that matter to the
+issues that matter
+issues that matter
+that matter to the
+and NEVER balance
+agency and RARELY
+to the agency and
+to the agency and
+agency and ALMOST
+organizational learning,
+balance organizational
+SOMETIMES balance
+TYPICALLY balance
+ALWAYS balance
+program management,
+learning, program
+organizational learning,
+organizational learning,
+organizational learning,
+performance
+management,
+program management,
+program management,
+program management,
+management, strategic
+performance
+performance
+performance
+performance
+decision-making,
+management,
+management, strategic
+management, strategic
+management, strategic
+interagency, and private
+strategic decision-
+decision-making,
+decision-making,
+decision-making,
+sector coordination.
+making, interagency,
+interagency, and private
+interagency, and private
+interagency, and private
+Reports and findings are
+and private sector
+sector coordination.
+sector coordination.
+sector coordination.
+NEVER disseminated.
+coordination. Reports
+Reports and findings
+Reports and findings
+Reports and findings
+and findings are
+are SOMETIMES
+are TYPICALLY
+are ALMOST ALWAYS
+RARELY disseminated.
+disseminated.
+disseminated.
+disseminated.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+37
+APPENDICES
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level 3 (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Analysis activities and
+Analysis activities and
+Analysis activities
+Analysis activities
+Analysis activities and
+evidence developed
+evidence developed
+and evidence
+and evidence
+evidence developed
+through analysis
+through analysis
+developed through
+developed through
+through analysis
+activities are NEVER
+activities are RARELY
+analysis activities
+analysis activities
+activities are ALMOST
+free from bias and
+free from bias and
+are SOMETIMES
+are TYPICALLY
+ALWAYS free from bias
+inappropriate influence
+inappropriate
+free from bias and
+free from bias and
+and inappropriate
+and NEVER have
+influence and RARELY
+inappropriate influence
+inappropriate influence
+influence and ALMOST
+appropriate levels of
+have appropriate
+and SOMETIMES have
+and TYPICALLY have
+ALWAYS have
+internal and external
+levels of internal
+appropriate levels of
+appropriate levels of
+appropriate levels of
+oversight. Policies
+and external
+internal and external
+internal and external
+internal and external
+NEVER identify
+oversight. Policies
+oversight. Policies
+oversight. Policies
+oversight. Policies
+accountabilities and
+RARELY identify
+SOMETIMES identify
+TYPICALLY identify
+ALMOST ALWAYS
+controls related to
+accountabilities and
+accountabilities and
+accountabilities and
+identify accountabilities
+analysis activities and
+controls related to
+controls related to
+controls related to
+and controls related to
+evidence generated from
+analysis activities and
+analysis activities and
+analysis activities and
+analysis activities and
+analysis activities.
+evidence generated
+evidence generated from
+evidence generated
+evidence generated from
+from analysis
+analysis activities.
+from analysis activities.
+analysis activities.
+activities.
+38
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+APPENDICES
+Research
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level 3 (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Research activities and
+Research activities and
+Research activities and
+Research activities and
+Research activities and
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+through research
+through research
+through research
+through research
+through research
+activities NEVER support
+activities RARELY
+activities SOMETIMES
+activities TYPICALLY
+activities ALMOST
+the agency's strategic
+support the agency's
+support the agency's
+support the agency's
+ALWAYS support the
+goals and objectives
+strategic goals and
+strategic goals and
+strategic goals and
+agency's strategic goals
+and are NEVER available
+objectives and are
+objectives and are
+objectives and are
+and objectives and
+for operational,
+RARELY available
+SOMETIMES available
+TYPICALLY available
+are ALMOST ALWAYS
+management, and policy
+for operational,
+for operational,
+for operational,
+available for operational,
+decision-making
+management, and
+management, and policy
+management, and
+management, and policy
+policy decision-
+decision-making.
+policy decision-making.
+decision-making.
+making.
+Research activities and
+Research activities and
+Research activities
+Research activities
+Research activities and
+evidence developed
+evidence developed
+and evidence
+and evidence
+evidence developed
+through research
+through research
+developed through
+developed through
+through research
+activities are NEVER
+activities are RARELY
+research activities are
+research activities are
+activities are ALMOST
+ethical and NEVER
+ethical or RARELY
+SOMETIMES ethical
+TYPICALLY ethical
+ALWAYS ethical and
+meet quality standards
+meet quality standards
+and SOMETIMES meet
+and TYPICALLY meet
+ALMOST ALWAYS
+(relevant, accurate,
+(relevant, accurate,
+quality standards
+quality standards
+meet quality standards
+timely, and credible) and
+timely, and credible)
+(relevant, accurate,
+(relevant, accurate,
+(relevant, accurate,
+standards of objectivity,
+and standards of
+timely, and credible) and
+timely, and credible)
+timely, and credible) and
+utility, integrity, and
+objectivity, utility,
+standards of objectivity,
+and standards of
+standards of objectivity,
+transparency.
+integrity, and
+utility, integrity, and
+objectivity, utility,
+utility, integrity, and
+transparency.
+transparency.
+integrity, and
+transparency.
+transparency.
+Research activities and
+Research activities and
+Research activities and
+Research activities and
+Research activities and
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+evidence developed
+through research
+through research
+through research
+through research
+through research
+activities NEVER
+activities RARELY
+activities SOMETIMES
+activities TYPICALLY
+activities ALMOST
+employ appropriate or
+employ appropriate
+employ appropriate and
+employ appropriate
+ALWAYS employ
+rigorous methodological
+or rigorous
+rigorous methodological
+and rigorous
+appropriate and
+approaches that best
+methodological
+approaches that best
+methodological
+rigorous methodological
+support the definitive
+approaches that
+support the definitive
+approaches that best
+approaches that best
+answers to the research
+best support the
+answers to the research
+support the definitive
+support the definitive
+questions under
+definitive answers to
+questions under
+answers to the research
+answers to the research
+investigation.
+the research questions
+investigation.
+questions under
+questions under
+under investigation.
+investigation.
+investigation.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+39
+APPENDICES
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level 3 (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Research activities and
+Research activities
+Research activities
+Research activities
+Research activities and
+evidence developed
+and evidence
+and evidence
+and evidence
+evidence developed
+through research
+developed through
+developed through
+developed through
+through research
+activities are NEVER
+research activities are
+research activities are
+research activities are
+activities are ALMOST
+directed at outcomes
+RARELY directed at
+SOMETIMES directed
+TYPICALLY directed
+ALWAYS directed at
+and issues that
+outcomes and issues
+at outcomes and
+at outcomes and
+outcomes and issues
+matter to the agency
+that matter to the
+issues that matter
+issues that matter
+that matter to the
+and NEVER balance
+agency and RARELY
+to the agency and
+to the agency and
+agency and ALMOST
+organizational learning,
+balance organizational
+SOMETIMES balance
+TYPICALLY balance
+ALWAYS balance
+program management,
+learning, program
+organizational learning,
+organizational learning,
+organizational learning,
+performance
+management,
+program management,
+program management,
+program management,
+management, strategic
+performance
+performance
+performance
+performance
+decision-making,
+management,
+management, strategic
+management, strategic
+management, strategic
+interagency, and private
+strategic decision-
+decision-making,
+decision-making,
+decision-making,
+sector coordination.
+making, interagency,
+interagency, and private
+interagency, and private
+interagency, and private
+Reports and findings are
+and private sector
+sector coordination.
+sector coordination.
+sector coordination.
+NEVER disseminated.
+coordination. Reports
+Reports and findings
+Reports and findings
+Reports and findings
+and findings are
+are SOMETIMES
+are TYPICALLY
+are ALMOST ALWAYS
+RARELY disseminated.
+disseminated.
+disseminated.
+disseminated.
+Research activities and
+Research activities
+Research activities
+Research activities
+Research activities and
+evidence developed
+and evidence
+and evidence
+and evidence
+evidence developed
+through research
+developed through
+developed through
+developed through
+through research
+activities are NEVER
+research activities are
+research activities
+research activities
+activities are ALMOST
+free from bias and
+RARELY free from bias
+are SOMETIMES
+are TYPICALLY
+ALWAYS free from bias
+inappropriate influence
+and inappropriate
+free from bias and
+free from bias and
+and inappropriate
+and NEVER have
+influence and RARELY
+inappropriate influence
+inappropriate influence
+influence, and
+appropriate levels of
+have appropriate
+and SOMETIMES have
+and TYPICALLY have
+ALMOST ALWAYS have
+internal and external
+levels of internal
+appropriate levels of
+appropriate levels of
+appropriate levels of
+oversight. Policies
+and external
+internal and external
+internal and external
+internal and external
+NEVER identify
+oversight. Policies
+oversight. Policies
+oversight. Policies
+oversight. Policies
+accountabilities and
+RARELY identify
+SOMETIMES identify
+TYPICALLY identify
+ALMOST ALWAYS
+controls related to
+accountabilities and
+accountabilities and
+accountabilities and
+identify accountabilities
+research activities and
+controls related to
+controls related to
+controls related to
+and controls related to
+evidence generated from
+research activities and
+research activities and
+research activities and
+research activities and
+research activities.
+evidence generated
+evidence generated from
+evidence generated
+evidence generated from
+from research
+research activities.
+from research activities.
+research activities.
+activities.
+40
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+APPENDICES
+Statistics
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level 3 (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+and the development
+and the development
+and the development
+and the development
+and the development
+of statistical evidence
+of statistical
+of statistical evidence
+of statistical evidence
+of statistical evidence
+NEVER support the
+evidence RARELY
+SOMETIMES support the
+TYPICALLY support the
+ALMOST ALWAYS
+agency's strategic goals
+support the agency's
+agency's strategic goals
+agency's strategic goals
+support the agency's
+and objectives and
+strategic goals and
+and objectives and are
+and objectives and are
+strategic goals and
+are NEVER available
+objectives and are
+SOMETIMES available
+TYPICALLY available
+objectives and are
+for operational,
+RARELY available
+for operational,
+for operational,
+ALMOST ALWAYS
+management, and policy
+for operational,
+management, and policy
+management, and
+available for operational,
+decision-making
+management, and
+decision-making.
+policy decision-making.
+management, and policy
+policy decision-
+decision-making.
+making.
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities and
+and the development
+and the development
+and the development
+and the development
+the development of
+of statistical evidence
+of statistical evidence
+of statistical evidence
+of statistical evidence
+statistical evidence are
+are NEVER ethical and
+are RARELY ethical
+are SOMETIMES ethical
+are TYPICALLY ethical
+ALMOST ALWAYS ethical
+NEVER meet quality
+or RARELY meet
+and SOMETIMES meet
+and TYPICALLY meet
+and ALMOST ALWAYS
+standards (relevant,
+quality standards
+quality standards
+quality standards
+meet quality standards
+accurate, timely,
+(relevant, accurate,
+(relevant, accurate,
+(relevant, accurate,
+(relevant, accurate,
+and credible) and
+timely, and credible)
+timely, and credible) and
+timely, and credible)
+timely, and credible) and
+standards of objectivity,
+and standards of
+standards of objectivity,
+and standards of
+standards of objectivity,
+utility, integrity, and
+objectivity, utility,
+utility, integrity, and
+objectivity, utility,
+utility, integrity, and
+transparency.
+integrity, and
+transparency.
+integrity, and
+transparency.
+transparency.
+transparency.
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+and the development
+and the development
+and the development
+and the development
+and the development
+of statistical evidence
+of statistical
+of statistical evidence
+of statistical
+of statistical evidence
+NEVER employ
+evidence RARELY
+SOMETIMES employ
+evidence TYPICALLY
+ALMOST ALWAYS
+appropriate or rigorous
+employ appropriate
+appropriate and
+employ appropriate
+employ appropriate and
+methodological
+or rigorous
+rigorous methodological
+and rigorous
+rigorous methodological
+approaches.
+methodological
+approaches.
+methodological
+approaches.
+approaches.
+approaches.
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+and the development
+and the development
+and the development
+and the development
+and the development
+of statistical evidence
+of statistical evidence
+of statistical evidence
+of statistical evidence
+of statistical evidence
+are NEVER directed at
+are RARELY directed at
+are SOMETIMES
+are TYPICALLY directed
+are ALMOST ALWAYS
+outcomes and issues
+outcomes and issues
+directed at outcomes
+at outcomes and
+directed at outcomes
+that matter to the
+that matter to the
+and issues that matter
+issues that matter
+and issues that matter to
+agency and NEVER
+agency and RARELY
+to the agency and
+to the agency and
+the agency and ALMOST
+balance organizational
+balance organizational
+SOMETIMES balance
+TYPICALLY balance
+ALWAYS balance
+learning, program
+learning, program
+organizational learning,
+organizational learning,
+organizational learning,
+management,
+management,
+program management,
+program management,
+program management,
+performance
+performance
+performance
+performance
+performance
+management, strategic
+management,
+management, strategic
+management, strategic
+management, strategic
+decision-making
+strategic decision-
+decision-making,
+decision-making,
+decision-making
+interagency, and private
+making, interagency,
+interagency, and private
+interagency, and private
+interagency, and private
+sector coordination.
+and private sector
+sector coordination.
+sector coordination.
+sector coordination.
+Reports and findings are
+coordination. Reports
+Reports and findings
+Reports and findings
+Reports and findings
+NEVER disseminated.
+and findings are
+are SOMETIMES
+are TYPICALLY
+are ALMOST ALWAYS
+RARELY disseminated.
+disseminated.
+disseminated.
+disseminated.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+41
+APPENDICES
+Level 1 (Unacceptable)
+Level 2 (Marginal)
+Level 3 (Improving)
+Level 4 (Satisfactory)
+Level 5 (Above Average)
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+Statistical activities
+and the development
+and the development
+and the development
+and the development
+and the development
+of statistical evidence
+of statistical evidence
+of statistical evidence
+of statistical evidence
+of statistical evidence
+are NEVER free from
+are RARELY free from
+are SOMETIMES
+are TYPICALLY
+are ALMOST ALWAYS
+bias and inappropriate
+bias and inappropriate
+free from bias and
+free from bias and
+free from bias and
+influence and NEVER
+influence and RARELY
+inappropriate influence
+inappropriate influence
+inappropriate influence
+have appropriate
+have appropriate
+and SOMETIMES have
+and TYPICALLY have
+and ALMOST ALWAYS
+levels of internal and
+levels of internal
+appropriate levels of
+appropriate levels of
+have appropriate levels
+external oversight.
+and external
+internal and external
+internal and external
+of internal and external
+Policies NEVER identify
+oversight. Policies
+oversight. Policies
+oversight. Policies
+oversight. Policies
+accountabilities and
+RARELY identify
+SOMETIMES identify
+TYPICALLY identify
+ALMOST ALWAYS
+controls related to
+accountabilities and
+accountabilities and
+accountabilities and
+identify accountabilities
+statistical activities and
+controls related to
+controls related to
+controls related to
+and controls related to
+statistical evidence.
+statistical activities
+statistical activities and
+statistical activities and
+statistical activities and
+and statistical
+statistical evidence.
+statistical evidence.
+statistical evidence.
+evidence.
+42
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+APPENDICES
+Appendix B: List of Activities and Operations Evaluated or
+Analyzed 43
+Year
+so 1.1: Ensure all entrepreneurs have access to capital to start and grow their business
+Financing Patterns and Credit Market Experiences: A Comparison by Race and Ethnicity for U. S.
+2018
+Employer Firms
+How Did Bank Lending to Small Business in the United States Fare After the Financial Crisis?
+2018
+One Year of Equity Crowdfunding: Initial Market Developments and Trends
+2018
+Small Business Lending in the United States, 2016
+2018
+Microloan Program Logic Model and Lender Performance
+2019
+Office of Credit Risk Management Logic Model
+2019
+Do Banks Lend Where They Borrow? A Study On Local Small Business Lending In The U.S.
+2020
+Minority-Owned Employer Businesses And Their Credit Market Experiences In 2017
+2020
+Research From Advocacy: Bank Lending To Rural Vs Urban Firms In The United States, 2007-2016
+2020
+Small Business Lending In The United States, 2017
+2020
+Small Business Lending in the United States, 2019
+2020
+Evaluation of Surety Bond Guarantee Program
+2020
+Evaluation of Microloan Program Outcomes
+2021
+Streamlining and Modernizing the 7(a), Microloan, and 504 Loan Programs To Reduce
+In-Process
+Unnecessary Regulatory Burden
+Census Joint Statistical Project: OCA 7(a) and 504 Loan Programs
+In-Process
+Census Joint Statistical Project: OCA COVID-EIDL outcomes
+In-Process
+Reducing the Documentation Burden to Improve Equity in Access to COVID-19 Small Business
+In-Process
+Relief Funding
+Community Development Financial Institution and Minority Depository Institution Lender
+Planned
+Participation in SBA Loan Programs Evaluation
+so 1.2: Build a thriving national innovation ecosystem that promotes investments in all small business communities
+How Accelerators Promote Regional Entrepreneurship (Regional Accelerators Report)
+2019
+SBIC Examinations Evaluation
+2020
+SBIC Rural Investments Environmental Scan and Evaluability Assessment
+2020
+SBIR/STTR Women in STEM
+Planned
+43
+Reflects the goals and objectives identified in the 2022-2026 Strategic Plan.
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+43
+Year
+so 1.3: Grow exporting opportunities to help small businesses across the country expand into new markets
+Section 502 Small Business Report on NAFTA-USMCA report
+2018
+Evaluation of Federal and State Technology (FAST) Grantees
+2019
+Contributions Of Small Business Indirect Exports To U.S. International Trade
+2020
+Express Loan Programs; Affiliation Standards
+2020
+Evaluation of SBA's State Trade Expansion Program (STEP) Outcomes
+2021
+so 1.4: Build back an inclusive and proficient small business contracting base ready to compete for all federal procurement
+opportunities
+Census Bureau Statistics of U.S. Businesses (SUSB)
+2018
+Examining Small Business Impacts in the Regulatory Development Process: The Drawbacks of
+2018
+Averaging
+Small Business HUBZone Program; Government Contracting Programs
+2019
+7(j) Training Program for 8(a) Participants Evaluation
+2019
+An Investigation Of Women Business Owners, Industry Concentration, And Family Composition
+2020
+Consolidation of Mentor Protégé Programs and Other Government Contracting Amendments
+2020
+Evaluation of Withdrawals and Terminations from SBA's All Small Mentor-Protégé Program
+2020
+Women-Owned Small Business and Economically Disadvantaged Women-Owned Small Business
+2020
+Certification
+HUBZone Economic Impact Report
+2021
+Small Business Procurement Scorecard Evaluation
+2021
+Women-Owned Small Business (WOSB) Logic Model and Measures Development
+2021
+WOSB NAICS Analysis
+2021
+Evaluation of 8(a) Certified Firms
+2021
+HUBZone Early Engagement Evaluation
+In-Process
+Evaluation of Small Business Procurement Set-Aside (Government Contracting) Surveillance
+In-Process
+Reviews
+Census Joint Statistical Project: GCBD
+In-Process
+Past Performance Ratings for Small Business Joint Venture Members and Small Business First-
+In-Process
+Tier Subcontractors
+National Defense Authorization Act of 2020, Credit for Lower Tier Subcontracting and Other
+Planned
+Amendments
+APPENDICES
+Year
+Service-Disabled Veteran-Owned Small Business Certification
+Planned
+GCBD Certification Program Access Evaluation
+Planned
+8(a) Business Development Program Evaluation
+Planned
+so 1.5: Build an equitable entrepreneurial ecosystem through tailored training and counseling
+Latino Business Ownership: Contributions and Barriers for U.S.-Born and Immigrant Latino
+2018
+Entrepreneurs
+Women's Business Centers Survey
+2018
+Accessing the Internet in Rural America
+2019
+Office of Women's Business Ownership: Women's Business Center Program
+2019
+OED SBDC, WBC, and SCORE Program Logic Models
+2019
+Job Characteristics and Transitions Among Older Self-Employed Individuals With Work-Limiting
+2020
+Health Condition
+Research from Advocacy: An Investigation of Women Business Owners, Industry Concentration,
+2020
+and Family Composition
+SBA Office of Field Operations Customer Experience Data Evaluation
+2020
+Millennial Veteran Entrepreneurship: Research on the Next Generation of Veteran Entrepreneurs
+2021
+Boots-to-Business Virtual Training Evaluation
+In-Process
+SCORE Program
+Planned
+Community Navigator Pilot Program Evaluation
+Planned
+so 2.1: Help small businesses recover from the pandemic and become more resilient
+Report on the Regulatory Flexibility Act FY 2017
+2018
+Small Business Economic Data by Congressional District
+2018
+Nonemployer Statistics by Demographics (NES-D): Exploring Longitudinal Consistency and
+2019
+Subnational Estimate
+Nonemployer Statistics by Demographics (NES-D): Using Administrative and Census Records Data
+2019
+in Business Statistic
+Report on the Regulatory Flexibility Act FY 2018
+2019
+Small Business GDP, 1998-2014
+2019
+Change in Small Business Loans Outstanding During the COVID-19 Pandemic, December 31, 2019
+2020
+to June 30, 2020
+Measuring the Small Business Economy
+2020
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis |
+Small Business Administration
+45
+APPENDICES
+Year
+The Effects of the COVID-19 Pandemic on Small Businesses
+2021
+Census Bureau Nonemployer Statistics (NES)
+Ongoing
+Small Business Size Standards
+Ongoing
+Pandemic Impact on Small Business Concerns: CARES Act Evaluation and Effectiveness
+In-Process
+SBA Small Business Recovery Needs Assessment
+Planned
+so 2.2: Help prepare small businesses and rebuild communities affected by natural disasters
+National Defense Authorization Acts of 2016 and 2017, RISE After Disaster Act of 2015, and Other
+2019
+Small Business Government Contracting Amendments
+Evaluation of Characteristics and Perceptions of Disaster Assistance Mitigation Loan Option
+2021
+Borrowers
+Disaster Loan Assistance series
+In-Process
+Disaster Assistance Mitigation Loan Communication Strategies Evaluation
+In-Process
+Census Joint Statistical Project: ODA
+In-Process
+SO 3.1: Strategically manage resources by integrating quality data, evidence, and risk in decision-making processes
+Evaluation of SBA Acquisition Planning
+2020
+Performance Measures
+Ongoing
+so 3.2: Build an inclusive and high-performing workforce
+Succession Planning Evaluation
+2021
+46
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+APPENDICES
+Appendix C:
+Select Literature
+Akintobi, T. H., Yancey, E. M., Daniels, P., Mayberry, R. M., Jacobs, D., & Berry, J. (2012). Using evaluability assessment
+and evaluation capacity-building to strengthen community-based prevention initiatives. Journal of Health
+Care for the Poor and Underserved, 23(2A), 33-48. https://doi.org/10.1353/hpu.2012.007
+Alkin, M. C., & King, J. A. (2016). The Historical Development of Evaluation Use. American Journal of Evaluation, 37(4),
+568-579. https://doi.org/10.1177/1098214016665164
+Asgharzadeh, A., Shabaninejad, H., Aryankhesal, A., & Majdzadeh, R. (2019). Instruments for assessing organisational
+capacity for use of evidence in health sector policy making: A systematic scoping review. Evidence & Policy: A
+Journal of Research, Debate and Practice. https://doi.org/10.1332/174426419X15704986117256
+Bergeron, K., Abdi, S., DeCorby, K., Mensah, G., Rempel, B., & Manson, H. (2017). Theories, models and frameworks
+used in capacity building interventions relevant to public health: A systematic review. BMC Public Health,
+17(1), 914. https://doi.org/10.1186/s12889-017-4919-y
+Bourgeois, I., & Buetti, D. (2019). Using action research to build evaluation capacity in public health organizations.
+Journal of MultiDisciplinary Evaluation, 15(33), 81-90.
+Bourgeois, I., Toews, E., Whynot, J., & Lamarche, M. K. (2013). Measuring organizational evaluation capacity in the
+Canadian federal government. Canadian Journal of Program Evaluation, 28(2), 1-19.
+Boyko, J. A., Lavis, J. N., Dobbins, M., & Souza, N. M. (2011). Reliability of a tool for measuring theory of planned
+behaviour constructs for use in evaluating research use in policymaking. Health Research Policy and Systems,
+9(1), 29. https://doi.org/10.1186/1478-4505-9-29
+Bremault-Phillips, S. C., Parmar, J., Friesen, S., Rogers, L. G., & Pike, A. (2016). An evaluation of the decision-making
+capacity assessment model. Canadian Geriatrics Journal, 19(3), 83-96. https://doi.org/10.5770/cgj.19.222
+Brennan, S. E., McKenzie, J. E., Turner, T., Redman, S., Makkar, S., Williamson, A., Green, S. E. (2017). Development
+and validation of SEER (seeking, engaging with and evaluating research): A measure of policymakers'
+capacity to engage with and use research. Health Research Policy and Systems, 15(1), 1. https://doi.
+org/10.1186/s12961-016-0162-8
+Brownson, R. C., Fielding, J. E., & Green, L. W. (2018). Building Capacity for Evidence-Based Public Health: Reconciling
+the Pulls of Practice and the Push of Research. Annual Review of Public Health, 39(1), 27-53. https://doi.
+g/10.1146/annurev-publhealth-040617-014746
+Capacity Development Group & Bureau for Development Policy. (2008). Capacity assessment methodology: User's
+guide.
+Clarke, B. (2019). The evidence decision-makers want literature review summary paper. Center for the Study of Social
+Policy.
+Cox, K., Jolly, S., Staaij, S. Van Der, & Stolk, C. Van. (2018). Understanding the Drivers of Organisational Capacity. RAND
+Corporation, 51. https://doi.org/10.7249/RR2189
+Diaz, J., Chaudhary, A. K., Jayaratne, K. S. U., & Assan, E. (2020). Expanding evaluator competency research: Exploring
+competencies for program evaluation using the context of non-formal education. Evaluation and Program
+Planning, 79, 101790. https://doi.org/10.1016/j.evalprogplan.2020.101790
+Gagnon, F., Aubry, T., Cousins, J. B., Goh, S. C., & Elliott, C. (2018). Validation of the evaluation capacity in
+organizations questionnaire. Evaluation and Program Planning, 68(January), 166-175. https://doi.
+org/10.1016/j.evalprogplan.2018.01.002
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+47
+APPENDICES
+Informing Change. (2017). A guide to organizational capacity assessment tools finding-and using-the right tool for the
+job. Retrieved from https://hewlett.org/wp-content/uploads/2017/11/A-Guide-to-Using-OCA-Tools.pdf
+James Bell Associates. (2018). Guide to Data-Driven Decision Making: Using Data to Inform Practice and Policy
+Decisions in Child Welfare Organizations (Issue March) www.acf.hhs.gov/cb
+Kaye-Tzadok, A., & Spiro, S. E. (2016). Evaluation Capacity Building: Can a Classroom-Based Course Make a
+Difference? Research on Social Work Practice, 26(5), 565-571. https://doi.org/10.1177/104973151455952
+Kumar Chaudhary, A., Diaz, J., Jayaratne, K. S. U., & Assan, E. (2020). Evaluation capacity building in the nonformal
+education context: Challenges and strategies. Evaluation and Program Planning, 79. https://doi.
+org/10.1016/j.evalprogplan.2019.101768
+Labin, S. N., Duffy, J. L., Meyers, D. C., Wandersman, A., & Lesesne, C. A. (2012). A Research Synthesis of the
+Evaluation Capacity Building Literature. American Journal of Evaluation, 33(3), 307-338. https://doi.
+org/10.1177/1098214011434608
+Lawrenz, F., Kollmann, E. K., King, J. A., Bequette, M., Pattison, S., Nelson, A. G., Cohn, S., Cardiel, C.L.B., lacovelli, S.,
+Eliou, G. O., Goss, J., Causey, L., Sinkey, A., Beyer, M., & Francisco, M. (2018). Promoting evaluation capacity
+building in a complex adaptive system. Evaluation and Program Planning, 69(March), 53-60. https://doi.
+org/10.1016/j.evalprogplan.2018.04.005
+Makkar, S. R., Brennan, S., Turner, T., Williamson, A., Redman, S., & Green, S. (2016). The development of SAGE: A tool
+to evaluate how policymakers engage with and use research in health policymaking. Research Evaluation,
+25(3), 315-328. https://doi.org/10.1093/reseval/rvv044
+Makkar, S.R., Gilham, F., Williamson, A., & Bisset, K. (2015). Usage of an online tool to help policymakers better
+engage with research: Web CIPHER. Implementation Science, 10(1), 56. https://doi.org/10.1186/s13012-015-
+0241-1
+Mason, S. (2020). Practice makes better? Testing a model for training program evaluators in situation awareness.
+Evaluation and Program Planning, 79, 101788. https://doi.org/10.1016/j.evalprogplan.2020.10178
+Maxwell, N. L., Rotz, D., & Garcia, C. (2016). Data and Decision Making. American Journal of Evaluation, 37(4), 463-485.
+https://doi.org/10.1177/1098214015623634
+Naccarella, L., Pirkis, J., Kohn, F., Morley, B., Burgess, P., & Blashki, G. (2007). Building evaluation capacity:
+Definitional and practical implications from an Australian case study. Evaluation and Program Planning,
+30(3), 231-236. https://doi.org/10.1016/j.evalprogplan.2007.05.00
+Nakrosis, V. (2014). Theory-based evaluation of capacity-building interventions. Evaluation, 20(1), 134-150. https://
+doi.org/10.1177/1356389013517763
+Nightingale, D. S., & Scott, M. M. (2018). Building Evidence Culture and Capacity in Federal Agencies. Urban Institute.
+Retrieved from https://www.urban.org/sites/default/files/publication/98221/2018.04.23_building_
+ evidence_culture_and_capacity_finalized_1.pdf
+Norton, S., Milat, A., Edwards, B., & Giffin, M. (2016). Narrative review of strategies by organizations for
+building evaluation capacity. Evaluation and Program Planning, 58, 1-19. https://doi.org/10.1016/j.
+evalprogplan.2016.04.004
+Nu'Man, J., King, W., Bhalakia, A., & Criss, S. (2007). A Framework for Building Organizational Capacity Integrating
+Planning, Monitoring, and Evaluation. Journal of Public Health Management and Practice, 13(Supplement),
+S24-S32. https://doi.org/10.1097/00124784-200701001-00006
+Preskill, H., & Boyle, S. (2008). A multidisciplinary model of evaluation capacity building. American Journal of
+Evaluation, 29(4), 443-459. https://doi.org/10.1177/1098214008324182
+48
+Small Business Administration
+|
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+APPENDICES
+Reisman, J., & Gienapp, A. (2004). Theory of Change: A Practical Tool. In Organisational Research Services, prepared
+for Annie E. Casey Foundation. Retrieved from https://www.aecf.org/resources/theory-of-change
+Rohacek, M. (2017). Research and Evaluation Capacity: Self-Assessment Tool and Discussion Guide for CCDF Lead
+Agencies (pp. 1-12). pp. 1-12.
+Stetler, C. B., Ritchie, J. A., Rycroft-Malone, J., & Charns, M. P. (2014). Leadership for evidence-based practice:
+Strategic and functional behaviors for institutionalizing EBP. Worldviews on Evidence-Based Nursing, 11(4),
+219-226. https://doi.org/10.1111/wvn.12044
+Suarez-Balcazar, Y., & Taylor-Ritzler, T. (2014). Moving From Science to Practice in Evaluation Capacity Building.
+American Journal of Evaluation, 35(1), 95-99. https://doi.org/10.1177/1098214013499440
+Taylor-Ritzler, T., Suarez-Balcazar, Y., Garcia-Iriarte, E., Henry, D. B., & Balcazar, F.E. (2013). Understanding and
+Measuring Evaluation Capacity: A Model and Instrument Validation Study. American Journal of Evaluation,
+34(2), 190-206. https://doi.org/10.1177/1098214012471421
+Wade, J., & Kallemeyn, L. (2020). Evaluation capacity building (ECB) interventions and the development of
+sustainable evaluation practice: An exploratory study. Evaluation and Program Planning, 79(December 2019),
+101777. https://doi.org/10.1016/j.evalprogplan.2019.10177
+Wade, J., Kallemeyn, L., Ensminger, D., Baltman, M., & Rempert, T. (2016). The unified outcomes project: Evaluation
+capacity building, communities of practice, and evaluation coaching. The Foundation Review, 8(1). https://
+doi.org/10.9707/1944-5660.1278
+U.S. Small Business Administration. (2017). Building Smarter Data for Evaluating Business Assistance Programs. A
+Guide for Practitioners. May.
+United States Government Accountability Office. (2019). Evidence-based Policymaking: Selected Agencies Coordinate
+Activities, but Could Enhance Collaboration (Issue December).
+United States Government Accountability Office. (2017). Program Evaluation Annual Agency-Wide Plans Could
+Enhance Leadership Support for Program Evaluations. September. https://www.gao.gov/assets/690/687526.
+pdf
+Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis | Small Business Administration
+49
+APPENDICES
+This page intentionally left blank.
+50
+Small Business Administration
+| Fiscal Year 2022 Evidence Capacity Assessment For Statistics, Evaluation, Research and Analysis
+non
+1953
+U.S. Small Business Administration
+Office of Program Performance, Analysis, and Evaluation
+409 Third Street, S.W.
+Washington, DC 20416

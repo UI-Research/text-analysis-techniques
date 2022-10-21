@@ -1,0 +1,1621 @@
+U.S. Small Business Administration
+*
+Enterprise
+1953
+Learning Agenda
+Fiscal Years 2022-2026
+Come In
+WE'RE
+OPEN
+Helping All Small Businesses and Entrepreneurs Achieve Their Dreams
+Table of Contents
+INTRODUCTION
+1
+CROSS-CUTTING PRIORITIES: Equity and Customer-Centric Design and Delivery
+4
+STRATEGIC GOAL 1: Ensure Equitable and Customer-Centric Design and
+Delivery of Programs to Support Small Businesses and Innovative Startups
+5
+Objective 1.1: Ensure all entrepreneurs have access to capital to start and grow their business
+.5
+Objective 1.2: Build a thriving national innovation ecosystem that promotes investments
+in all small business communities
+6
+Objective 1.3: Grow exporting opportunities to help small businesses across the country
+expand into new markets
+7
+Objective 1.4: Build back an inclusive and proficient small business contracting base
+ready to compete for all federal procurement opportunities
+.8
+Objective 1.5: Build an equitable entrepreneurial ecosystem through tailored training and counseling. 10
+STRATEGIC GOAL 2: Build Resilient Businesses and a Sustainable Economy
+12
+Objective 2.1: Help small businesses recover from the pandemic and become more resilient
+12
+Objective 2.2: Help prepare small businesses and rebuild communities affected by natural disasters
+14
+STRATEGIC GOAL 3: Implement Strong Stewardship of Resources for Greater Impact
+16
+Objective 3.1: Strategically manage resources by integrating quality data, evidence, and
+risk in decision-making processes
+16
+Objective 3.2: Build an inclusive and high-performing workforce
+17
+Objective 3.3: Develop and deploy technology-driven solutions to enhance mission delivery
+18
+APPENDIX A: Endnotes
+19
+I
+This page intentionally left blank.
+II
+INTRODUCTION
+Introduction
+The U.S. Small Business Administration (SBA) promotes
+Strategic Goal 2: Build Resilient Businesses and a
+the use of evidence to inform the development of its
+Sustainable Economy
+policy, strategy, and resource decisions and improve its
+Strategic Goal 3: Implement Strong Stewardship of
+programs and operations.¹ The Agency has developed
+Resources for Greater Impact
+this Enterprise Learning Agenda (ELA) to empower
+program managers to achieve their goals while
+The SBA has identified ELA questions that align with
+fostering an environment of continuous learning. The
+Administration priorities and core values: equity,
+ELA supports the Agency's implementation of the
+customer-centric design and delivery, and technology
+Foundations for Evidence-Based Policymaking Act of
+modernization. Questions related to these three areas
+2018² (Evidence Act) by identifying and prioritizing areas
+are within the relevant objective sections. Additionally,
+for evidence to improve program or policy effectiveness,
+the ELA has a separate section on equity and customer-
+by assessing progress toward desired outcomes; by
+centric design and delivery that captures cross-cutting
+testing pilot initiatives or program adjustments, and by
+questions spanning multiple objectives.
+building evidence on resource management functions.
+The Evidence Act requires that ELA questions be
+The SBA will update the ELA with new evidence and
+considerate of a broad range of Agency priorities,
+identify the policy, research, evaluation, and regulatory
+including regulations and other policies, defines
+questions it plans to answer in annual ELA updates and
+questions as either long-term (designated LT) or short-
+the SBA's annual evaluation plan. Evidence-building
+term (designated ST); and identifies questions best
+activities will help SBA program managers answer the
+suited for external engagement. Long-term questions
+questions presented and continue to build a suite of
+support the SBA's understanding of intermediate
+evidence to inform decision-making. Results will be
+outcomes, long-term outcomes, or program impact;
+published on the SBA website,³ and findings will be
+answer questions that require multi-stage or multi-
+incorporated into the SBA's performance management
+program evidence building; or are substantially
+framework to inform long-term strategy.
+impacted by external factors. Short-term questions may
+be answered using rapid iterative testing, existing data,
+Enterprise Learning Agenda
+or literature reviews. Additionally, the SBA has identified
+questions that inform its understanding of program
+Framework
+performance, such as questions that support program
+The SBA's ELA is organized according to the strategic
+managers' understanding of customer satisfaction and
+goals and objectives in SBA's FY 2022-2026 Strategic
+may be likely to be answered in the short-term but
+Plan and identifies priority questions for each objective
+require long-term monitoring.
+to build evidence and foster continuous learning. Each
+strategic objective is presented with an overview,
+Stakeholder Engagement
+a review of prior research and results of the SBA's
+evidence building activities, priority questions, and
+The SBA engaged key stakeholders in the development
+current and planned evidence-building activities in
+of the ELA. Collaboration with stakeholders helped
+alignment with OMB guidance.4 The FY 2022-2026
+the Agency expand and better define questions, which
+strategic goals are:
+also promoted transparency. Some questions may
+Strategic Goal 1: Ensure Equitable and Customer-
+benefit from engagement with external researchers
+Centric Design and Delivery of Programs to Support
+or stakeholders where some data necessary to
+Small Businesses and Innovative Startups
+answer a question may reside outside the Agency,
+where SBA data may be made available to external
+researchers interested in these questions, when external
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+Small Business Administration
+1
+INTRODUCTION
+stakeholders share questions and priorities with the
+small business and evidence-focused non-profit
+SBA, or when the answer to the question has broad
+organizations, and other federal agencies; and the
+implications outside the Agency. However, the SBA
+general public through a Federal Register Notice. The
+welcomes input and collaboration from stakeholders on
+SBA considers these conversations to be ongoing and
+all questions.
+continually consults stakeholders.
+The SBA gathered employee input through meetings
+Significant evaluations, identified in the Agency's
+and correspondence and will continue to solicit input
+annual evaluation plan, will be disseminated publicly
+through its Evidence and Evaluation Community
+upon their completion. The SBA frequently presents
+of Practice. The Agency holds quarterly deep dive
+on the results to interested stakeholders. For example,
+performance reviews and an annual strategic objective
+the SBA has presented findings to its Evidence and
+review with senior leadership to discuss performance. At
+Evaluation Community of Practice, interagency
+these sessions, key questions emerge and are integrated
+committees, councils, trade associations, and grantees.
+into the ELA, where appropriate. The SBA's program
+evaluators conduct learning agenda sessions with
+leadership and issue annual evidence and evaluation
+Challenges and Proposed
+guidance to solicit proposals for new evidence-building
+Solutions
+projects. During internal reviews, the SBA seeks
+Although the SBA has begun to expand capacity for
+feedback through the SBA's internal newsletter.
+evidence-based decision-making, some challenges
+remain. First, the SBA, along with most federal agencies,
+When the SBA conducts a program evaluation, program
+struggles to identify or collect quality data to conduct
+managers serve as key partners. The evaluation team
+engages them to better understand and formulate
+rigorous analysis. Collecting data of adequate quality
+for analysis can be expensive and burdensome on the
+their evaluation questions, determine available data,
+respondent and the Agency. To address this challenge,
+understand program needs, and help interpret findings.
+the Agency has taken steps to improve the quality of
+The team involves program managers throughout the
+course of the evaluation and discusses how the results
+its routinely collected administrative data and make
+it adequate and available for research and statistical
+may be used during strategic discussions.
+purposes, including establishing a Data Governance
+Board chaired by the Chief Data Officer and identifying
+The SBA's ELA will be reviewed annually and updated
+priority datasets for publication. The SBA has also made
+as needed to reflect current priorities and ongoing
+progress in creating data documentation, updating
+evidence building. For past iterations, upon which this
+System of Records Notices to include approved uses,
+ELA builds, the SBA sought feedback through channels
+and collecting quality data. The SBA has created a Data
+such as Federal Register Notices, the FedEval Listserv,
+Management Community of Practice, is developing
+and outreach and letters to research organizations,
+a Data Strategy, and will continue to implement the
+professional associations, state and local economic
+Federal Data Strategy. Barriers to access or restrictions
+development organizations, trade groups, and
+on use of data for evaluation pose challenges. The SBA
+think tanks. The present update was created by first
+uses administrative data from statistical agencies (e.g.,
+synthesizing prior evidence questions with submissions
+Bureau of the Census, Bureau of Labor Statistics) and
+from SBA program offices. The SBA then drafted the
+collects further data, such as qualitative data, while
+ELA and gathered feedback from senior leadership
+conducting program evaluations to overcome some of
+and program managers; SBA employees through the
+these challenges.
+Evidence and Evaluation Community of Practice,
+an SBA-wide "Peer-to-Peer" learning session, and
+Even when rigorous evidence or appropriate data are
+announcements in the SBA Daily newsletter; external
+available, SBA staff must have the capacity to identify
+stakeholders through letters to academic researchers,
+2
+Small Business Administration
+|
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+INTRODUCTION
+and use them for decision-making. The SBA recognizes
+To conduct low-cost evidence building, the SBA
+the importance of building staff capacity and has
+frequently uses administrative data from its programs
+established mechanisms to support this activity. The
+and from other state and federal sources. The SBA
+SBA manages an Evidence and Evaluation Community
+uses many administrative datasets and frequently
+of Practice that brings together evaluation, analysis, and
+reviews them to improve their quality and relevance
+data practitioners across the Agency to discuss issues
+for evidence building. The SBA's publicly available data
+and provide training. The SBA also identifies evidence
+can be found at www.sba.gov/data. Additionally, the
+and discusses how it may apply to decision-making
+SBA frequently uses federal contracting data found
+through various senior leadership forums, including
+at SAM.gov for evidence building for its government
+quarterly deep dive performance reviews. The SBA
+contracting programs and uses publicly available data
+has also developed an Evidence Capacity Assessment,
+from the U.S. Bureau of the Census to understand the
+which will guide capacity building.
+general small business landscape.
+The SBA is also making more administrative data
+Methods and Data Sources
+available to researchers through the Census Bureau's
+The SBA strives to conduct more evidence-building
+Federal Statistical Research Data Centers. This
+activities to understand and advance its mission. These
+partnership between the SBA and Census allows
+activities include formative and summative program
+researchers to use SBA data to build rigorous evidence
+evaluations, program performance measurement,
+while maintaining security and privacy protections.
+data analysis and dashboarding, regulatory analyses,
+In FYs 2020 and 2021, the SBA transferred 7(a), 504,
+and research. The methodology for each activity is
+Disaster loan, 8(a), and Small Business Contracting
+tailored to the question(s) of interest and may involve
+data to Census under this agreement, and the agencies
+one or more of the following: experimental and quasi-
+are actively collaborating to share more administrative
+experimental designs, descriptive and inferential
+data. To supplement administrative data use and data-
+statistics, mathematical or econometric modeling, data
+sharing agreements, the SBA conducts its own primary
+visualization, literature reviews or foundational fact
+and secondary data collection as needed for evidence-
+finding, performance measurement, regulatory analysis,
+building efforts, most often in the form of surveys,
+and qualitative research.
+interviews, focus groups, and literature reviews.
+Fiscal Years 2022-2026 Enterprise Learning Agenda |
+Small Business Administration
+3
+CROSS-CUTTING PRIORITIES
+Cross-Cutting Priorities: Equity and
+Customer-Centric Design and Delivery
+The SBA has identified overarching ELA questions
+Through the Federal Government.5 The assessment
+related to priorities that cut across objectives: equity
+will serve as a foundation for identifying gaps that
+and customer-centric design and delivery. They are
+exist in supporting businesses that are underserved.
+discussed in detail by objective, but several questions
+New performance measures are being added across
+broadly apply:
+programs to measure equity, and future program
+evaluations will include questions on equity. Literature
+reviews can provide baseline knowledge regarding the
+Key Research and Evaluation Questions
+needs of entrepreneurs that are underserved, whereas
+1. What is the demographic and geographic makeup
+qualitative analysis can clarify barriers to accessing
+of the SBA's program participants, how does this
+the SBA's programs and methods to address these
+compare with the eligible population, and which
+barriers. Literature review as well as collaboration with
+underserved small businesses can the SBA better
+other agencies can provide insight on collecting better
+serve through its programs? (ST)
+data to increase knowledge around program equity.
+2. Are there barriers that prevent underserved small
+In FY 2021, the SBA partnered with the GSA's Office of
+businesses from accessing SBA programs, and if so,
+Evaluation Sciences to study strategies that promote
+how can the SBA address these barriers to increase
+equitable distribution of COVID-19 relief funds. Findings
+equitable distribution of services? (LT)
+suggest several promising strategies including reducing
+3. How can the SBA increase awareness of, ease of
+documentation burden;6 examining the methods
+access to, and improved outcomes for its programs
+by which applicants are chosen for funding; and
+across the entire demographic makeup of its
+implementing practices that U.S. cities reported to be
+customer base? (ST)
+successful, such as having representative staff provide
+technical assistance, utilizing data, and conducting
+4. How do SBA customers feel about their experience
+community outreach.
+with SBA programs and services, and how can the
+SBA improve this experience, especially for small
+Customer experience, satisfaction, and service metrics
+businesses that are underserved? (LT)
+are continuously collected for SBA programs, with
+5. What best practices in customer-centric design and
+more being added in the current strategic plan cycle.
+delivery of government programs could the SBA
+Interviews, surveys, and focus groups could also
+integrate into its program delivery? (ST)
+help the SBA understand how it can better serve its
+customers. Literature review and collaboration with
+External and Government-Wide Research
+other agencies can be used to identify best practices in
+customer-centric program design and delivery.
+1. How can the SBA best increase response rates and
+data quality for the demographic data it collects to
+develop optimal policies and strategies to support
+underserved small businesses? (ST)
+In addition to cross-cutting questions, the SBA has
+identified ELA questions related to each of its strategic
+Methods and Data for Evidence Building. The
+objectives. These questions represent priority questions
+SBA is conducting an internal equity assessment in
+for evidence-building that, when answered, will
+response to Executive Order 13985, Advancing Racial
+help SBA meet each objective more effectively and
+Equity and Support for Underserved Communities
+efficiently.
+4
+Small Business Administration
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+STRATEGIC GOAL 1
+Strategic Goal 1: Ensure Equitable and Customer-
+Centric Design and Delivery of Programs to Support
+Small Businesses and Innovative Startups
+Objective 1.1: Ensure all
+The percentages of minority-owned, women-owned,
+and start-up businesses that have obtained loans
+entrepreneurs have access to
+in the 7(a) and 504 programs are greater than their
+capital to start and grow their
+percentages in conventional small business loans.17
+business
+The SBA's Surety Bond Guarantee program also reaches
+firms that would otherwise not have access to bonding
+SBA capital programs promote low-cost access to
+and does so with lower costs.18 In terms of equity of
+capital, job creation, and sales increases for small
+outcomes, each $1 million in 7(a) and 504 loans raises
+businesses. Federally guaranteed loans offer borrowers
+employment by three to four jobs, on average, during
+longer terms than conventional loans, allowing them
+the first three post-loan years with greater effects for
+to meet debt-service coverage ratio requirements.9
+younger firms and where credit conditions are weak.19
+SBA 7(a) and 504 loans have been found to increase
+The SBA has potential to support more underserved
+loan recipient employment by 3 to 3.5 jobs on average
+businesses in the future due to the addition of new
+during the first three post-loan years, 10 and
+firms
+lenders through the Paycheck Protection Program
+involved in these programs observed sales increases
+(PPP), which had more than 5,400 participating
+as well. 11 Similarly, 7(a) loans had a small yet positive
+lenders.20
+impact on output and employment growth in 153
+micropolitan areas in the Southeastern United States
+in the period 1990-2015 and promoted diversification
+Key Research and Evaluation Questions
+of the industrial base. 12 A weak but positive statistical
+1. How can the SBA broaden its lender base and keep
+relationship exists between growth in SBA lending
+lenders that have only participated in the PPP
+per capita and a state's civilian employment rates,
+engaged with diverse small businesses? (ST)
+independent of a state's income level. 13 Additionally,
+2. What impact does lending have on job creation,
+SBA Microloan recipients reported increases in revenue
+revenue growth, export sales, and additional
+and number of employees from the year of loan
+capital growth, how do these impacts vary by
+initiation to 2019.14
+business owner demographics, and what factors are
+responsible for these observed impacts? (LT)
+Racial and gender disparities currently exist in the
+use of and access to credit for small businesses and
+Methods and Data for Evidence Building. The SBA
+entrepreneurs.15 Differences in credit risk cause some
+collects administrative data on PPP lenders (type of
+of the differences in minority access to credit. Use of
+lender, new or existing) and limited demographic
+services provided by community development financial
+data on PPP borrowers. These data can be used to
+institutions and credit unions, which specialize in local
+help identify new lenders best poised to serve diverse
+communities, remains low among minority-owned
+businesses.
+firms.16
+In FY 2023, the SBA will conduct a mixed-method
+Partially addressing these racial and gender gaps, a
+formative evaluation to study the attractors and
+body of evidence demonstrates that the SBA makes
+barriers to regulated CDFI and MDI entity participation
+capital available to small businesses that do not
+in the SBA's ongoing capital programs. The evaluation
+traditionally access the private sector for capital needs.
+will also address how the SBA can grow the use of
+Fiscal Years 2022-2026 Enterprise Learning Agenda |
+Small Business Administration
+5
+STRATEGIC GOAL 1
+its capital programs among regulated CDFI and MDI
+Objective 1.2: Build a thriving
+lenders that target underserved small business markets
+to further equitable distribution of capital. The study
+national innovation ecosystem
+will use publicly available information on regulated
+that promotes investments in all
+CDFI and MDI entities and SBA administrative records
+small business communities
+for CDFI and MDI participation in SBA capital programs.
+The SBA will collect qualitative data from regulated
+The SBA's investment and innovation programs are
+CDFI and MDI entities to assess program attractors,
+beneficial to small business growth and represent
+participation barriers, lender needs, and potential
+low-cost catalysts for job creation. Several government
+areas of improvement. Challenges include potential
+agencies with SBIR/STTR programs demonstrate returns
+data gaps in the SBA, CDFI, and MDI data and difficulty
+on investment. For example, SBIR/STTR programs
+recruiting lenders for participation in the qualitative
+run by the National Cancer Institute (NCI) and the
+components of the study. Therefore, purposeful
+Department of the Navy created billions of dollars in
+sampling and extensive outreach may be needed to
+new investments and sales for small businesses, 21,22
+and
+collect sufficient data.
+the Department of Defense estimates a 22:1 return on its
+SBIR/STTR investments. 23 SBIC-funded small businesses
+The SBA's collaboration with Census will continue to
+support job creation in the U.S. economy, with job-
+help the Agency understand the impacts of 504 and
+creation results comparable to those of the private
+7(a) loans through quasi-experimental investigation
+equity industry.24
+of business outcomes for firms that have received
+these loans. Additionally, the SBA collects voluntarily
+The SBA's investment and innovation programs have
+self-reported demographic data for its 7(a) and 504
+promoted diversification of industry sector, geographic
+borrowers and, having reasonable coverage¹ for these
+distribution, and demographic representation. As
+data, can compare outcomes by demographic group.
+of 2020, 70 percent of private equity investments to
+Qualitative analyses, as well as quantitative analyses
+small businesses were made in five metropolitan areas
+like longitudinal regression analyses can elucidate
+in California, Massachusetts, and New York. 25 SBICs
+program outcomes, and surveys can be used to assess
+promote a more equitable allocation of venture capital
+satisfaction with services.
+with a distribution of investments from debenture SBICs
+that is more geographically dispersed than investments
+from private venture capital funds.26 The SBIC program
+promotes greater diversification by industry sector and
+geographic distribution when compared with private
+venture capital, achieving the goal of providing capital
+to underserved entrepreneurs.²
+With respect to gender and socio-economic status,
+greater gender balance exists among investment
+teams of SBICs than in the private equity investment
+community, and SBIC investments are more likely to
+be made in low- or moderate-income communities. 28,29
+One of the SBIR/STTR program goals is to encourage
+women and underserved individuals-who are less
+well represented in STEM fields-to participate in
+innovation and entrepreneurship. The numbers of
+women-owned, small-disadvantaged, and HUBZone
+1
+Throughout, "reasonable coverage" refers to data coverage of approximately 70 percent or more.
+6
+Small Business Administration
+|
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+STRATEGIC GOAL 1
+firms vary significantly by program and agency, with
+Objective 1.3: Grow exporting
+women-owned firms generally being more represented
+in SBIR/STTR than HUBZone and small-disadvantaged
+opportunities to help small
+entrepreneurs.30
+businesses across the country
+expand into new markets
+Key Research and Evaluation Questions
+SBA international trade programs promote exports by
+1. Does the SBIC program help small businesses
+small businesses through loan and grant programs,
+grow, and does this vary for underserved small
+technical assistance, and counseling to advance
+businesses? (LT)
+economic growth. Small businesses can grow revenues,
+2. What are effective resources and strategies to
+diversify customer bases, and increase profits when
+encourage diverse individuals to form innovative
+they sell their goods or services into international
+startups? (LT)
+markets.31 In FY 2020, businesses that received support
+through the SBA's international trade finance programs
+had combined export sales of 3.3 billion dollars.32
+External Research
+Export sales supported by the State Trade Expansion
+1. What needs do underserved entrepreneurs have
+Program (STEP) have increased over the years, peaking
+when starting STEM-focused small businesses, and
+at $1.12 billion in FY 2017. Trade Show Exhibitions have
+how can the SBA best support them? (ST)
+supported the highest export sales with high return on
+investment or high client counts. 33 Despite this success,
+Methods and Data for Evidence Building. The SBA
+recent data from the Census shows a slight decline
+collects administrative data on firms that participate
+(about three percent) in the number of small businesses
+in its investment and innovation programs, including
+that export over the last decade, with most of the
+the number of firms, voluntarily self-reported owner
+declines taking place in the last five years.34
+demographics for small businesses financed by SBICs
+(reasonable coverage) and SBIR/STTR programs
+The SBA fills a market gap where the private sector
+(reasonable coverage in recent years), and for some
+perceives a risk in lending to credit-worthy small
+programs, number of jobs supported. These datasets
+businesses with certain export transactions. According
+can be used to understand some aspects of growth
+to a 2016 Small Business Exporters Association survey,
+for participating firms, including analysis by owner
+24 percent of small business respondents were
+demographics. Further evidence on outcomes could
+concerned with how they would obtain payment for
+be gained through literature review, collaboration with
+export sales, while 35 percent said it was more difficult
+agencies administering programs, using administrative
+to obtain trade financing than conventional business
+data with the Census Bureau, and data collection
+financing.35 Export working capital is particularly
+directly from program participants and analysis of that
+difficult to find for younger companies in need of
+data. Literature review of existing research provides
+smaller dollar loans. Although the SBA's core export
+background knowledge on barriers that women and
+loans meet this need, relatively few lenders and
+other underrepresented populations face when creating
+exporters take advantage of the SBA's core export loans.
+innovation startups. This literature could be extended
+Thus, expanding lender utilization of SBA's export
+through mixed-methods research on strategies that the
+programs is a key to meeting customer needs. In terms
+SBA can employ to support these entrepreneurs.
+of diversity of customers, in FY 2020, underserved
+businesses benefitted from the SBA's core export loans
+with about a third and a fifth of these loans going to
+minority-owned and women-owned firms, respectively.
+At the same time, relatively few U.S. small businesses
+take advantage of SBA's export programs and exporting
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+|
+Small Business Administration
+7
+STRATEGIC GOAL 1
+in general, highlighting the opportunity for broader
+Objective 1.4: Build back an
+reach.
+inclusive and proficient small
+business contracting base
+Key Research and Evaluation Questions
+ready to compete for all federal
+1. How can the SBA increase the use of its export
+programs, and what barriers could be removed to
+procurement opportunities
+increase small business exporting? (LT)
+The Federal Government has consistently met its
+2. How has the decline in small business exporters
+statutory goal of awarding 23 percent of small business-
+affected different demographic groups, geographic
+eligible contracting dollars to small businesses, yet
+communities, and industries, and how can the SBA
+opportunities remain to increase small business
+address this decline through its programs? (LT)
+participation in federal contracting. In FY 2019, the
+Federal Government exceeded its prime contracting
+goal with an achievement of 26.5 percent. 36 Despite this
+External Research/Collaboration/Ongoing
+success, small business procurement has concentrated
+1. What effects do SBA export programs have on
+in a few sectors, small businesses receive relatively
+small business job creation, revenue, salaries, and
+small dollar-value contracts,37 and fewer small
+diversity of exporting firms, and what aspects of
+businesses have been receiving contracts over time. 38
+export programs cause these effects? (LT)
+The SBA's Small Business Procurement Scorecard
+grades agencies on meeting their Federal contracting
+Methods and Data for Evidence Building. The SBA
+goals. The scorecard has been found to influence
+maintains administrative datasets for its export loan
+agencies, but is also an area in which the SBA could
+programs, including data on lenders, borrowers, and
+consider refining its processes for maximum impact. 39,
+40
+loans. These data can be used to help determine areas
+of lower utilization of loan programs. Qualitative
+In FY 2020, the SBA assisted more than 33,000
+analysis (e.g., interviews with lenders, borrowers,
+businesses through its 8(a), 7(j), Mentor-Protégé, and
+and grantees) can be used to identify barriers to
+HUBZone programs.41 One evaluation demonstrated
+participation. With respect to the decline in small
+that the SBA's 7(j) training for 8(a) firms increases the
+business exporters, Census data can provide the
+likelihood of obtaining federal contracts from 47 percent
+numbers of small business exporters over time,
+to 59 percent. 42 Mentees in the SBA's All Small Mentor-
+and literature review can be used to understand the
+Protégé Program had a 58 percent success rate of
+effects and causes of the decrease in exporters on
+winning bids in FY 2019.43
+various communities. Regarding program outcomes,
+such as small business outcomes and diversity of
+The SBA's business development programs have helped
+exporters, both SBA and Census data can help to
+underserved businesses successfully compete for
+explain the outcomes of SBA export programs though
+federal procurement opportunities, but opportunities
+quantitative methods such as descriptive statistics
+for increased representation in federal contracting
+and quasi-experimental design. The SBA collects
+still exist. Specifically, the Federal Government has
+loan data on expected export sales from program
+recently met its small-disadvantaged and service-
+participants. STEP grantees report information on jobs
+disabled veteran-owned contracting goals, has met its
+supported, and counseling programs track the number
+women-owned contracting goal twice, but has not met
+of individuals supported through export training.
+its HUBZone contracting goal.44 Regarding these
+areas
+Ongoing collaboration with Census can supplement
+of disparity, evaluation has demonstrated that federal
+this information with other economic outcomes for
+agencies are more likely to achieve their HUBZone
+participating firms and adds to the ability to create a
+contracting goals by utilizing targeted marketing
+matched sample of non-participating firms.
+and outreach, matchmaking between prime and
+8
+Small Business Administration
+|
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+STRATEGIC GOAL 1
+subcontractors, and contracting with small businesses
+demographic groups, and how experiences can be
+with multiple socioeconomic designations.45
+improved for underserved small businesses. To answer
+these questions, the SBA will deploy web-based CX
+With respect to customer-centric delivery, a recent
+"touchpoint" surveys and conduct additional follow-up
+evaluation of the Mentor-Protégé Program found that
+surveys or interviews. Challenges include the fact that
+factors that contribute to withdrawal from the program
+touchpoint surveys are short, standardized, and contain
+centered on the benefits each party expected to gain
+limited open-ended responses, which necessitates the
+and the quality of the mentor-protégé relationship.46
+use of follow-up surveys or interviews to gain further
+Protégés who continued in the program were much
+insights. Additionally, demographic information may
+more likely to report that the relationship benefitted
+be challenging to collect; if demographic information
+them and that they had positive relationships with their
+is insufficient, the SBA can analyze at a minimum the
+mentors.
+program with which respondents interacted (indicating
+that they identify as socially and economically
+disadvantaged, women, or owners operating in
+Key Research and Evaluation Questions
+HUBZones).
+1. How can the SBA advance equitable contracting
+policies and streamline small business certification
+In FY 2022, the SBA is evaluating the outcomes of its
+in order to help more underserved small businesses
+HUBZone Early Engagement Initiative, which fast tracks
+win federal contracts? (ST)
+the HUBZone certification process for businesses
+2. How does SBA technical assistance impact small
+judged to be substantially "procurement-ready." This
+business performance, and how can firms be better
+evaluation will address ways to streamline small
+prepared to successfully participate and compete in
+business certification so that underserved small
+the federal marketplace? (LT)
+businesses can promptly win federal contracts. In
+FY 2022, the SBA is also evaluating the effectiveness and
+efficiency of its Surveillance Reviews, which are annual
+External Research
+audits that assess whether federal Procurement Centers
+1. What factors have caused the downward trend in
+are providing the maximum practicable opportunity
+the number of small businesses receiving prime
+for small business participation in federal contracting.
+contract awards, and how can the SBA reverse this
+This evaluation will help the SBA understand what
+trend? (LT)
+processes best support small business participation in
+federal contracting, including for underserved small
+Methods and Data for Evidence Building. Literature
+businesses.
+review and collaboration with other agencies can help
+to determine which federal contracting policies tend
+The SBA tracks metrics for its business development
+to disadvantage small businesses. To further support
+programs. Quantitative analysis of contracts won
+the goal of increasing equity in federal contracting,
+(including number and timing, from beta.SAM.gov)
+in FY 2023, the SBA will conduct an evaluation on
+by participating firms can help answer questions
+government contracting certification program customer
+about contracting outcomes for program participants.
+experience (CX). The evaluation will study experiences
+Interviews, surveys, or focus groups could uncover the
+of firms that apply for certification and participate
+challenges with respect to winning contracts and firms'
+in the SBA's government contracting certification
+technical assistance needs. Interviews could further
+programs. The study will identify strengths and areas
+elucidate small business outcomes for trainees.
+of improvement with respect to customer service,
+technology (e.g., certification platforms), and the
+In FY 2023, the SBA will evaluate 8(a) Program and field
+certification process in general. The study will also
+office efforts to deliver consistent, high-quality business
+identify how customer experience differs across
+development services to 8(a) firms. The evaluation will
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+|
+Small Business Administration
+9
+STRATEGIC GOAL 1
+examine business development services and program
+Objective 1.5: Build an equitable
+and field office processes, procedures, coordination,
+communications, and reporting. The evaluation will
+entrepreneurial ecosystem
+also explore the influence of the above activities and
+through tailored training and
+outputs on short-term and intermediate outcomes.
+counseling
+This mixed-method evaluation will use quantitative
+administrative data to examine outputs and outcomes
+Entrepreneur participation in the SBA's training and
+and collect qualitative data from the SBA's OBD, OFO,
+counseling programs is associated with reported
+and supporting offices. The functionality of the SBA's
+likelihood to start a business, reported improvements
+databases and reporting tools may limit data utilization
+in business management practices, reported financial
+and require manual matching. Additionally, varying
+growth, and firm growth. Nearly two-thirds of
+state and local COVID-19 pandemic restrictions may
+participants changed their business and management
+have altered typical business development activities.
+practices after receiving assistance from a Small
+Business Development Center, Women's Business
+The SBA can track the number of firms winning federal
+Center, or SCORE mentor. Participants who completed
+contracts (beta.SAM.gov), and literature reviews can
+more than three hours of counseling were more likely
+help elucidate some factors that may have caused the
+to report improved financial performance, higher
+decline in small businesses winning federal contracts
+employment growth, and greater likelihood to start a
+(e.g., reports on Category Management47). Qualitative
+business.48 Similarly, 65 percent of Emerging Leaders
+analysis with federal procurement officials and small
+program alumni reported that their businesses created
+businesses could help determine both causes and ways
+or maintained jobs, and 70 percent reported increased
+to address the decline.
+revenue.49
+SBA counseling and training programs serve diverse
+clients, such as women, socially and economically
+disadvantaged entrepreneurs, veterans, and
+entrepreneurs with disabilities. 50,51,52
+Business
+outcomes for SCORE, SBDC, and WBC participants have
+generally been similar across demographic groups,
+although rural and black-owned firms reported lower
+revenue growth post participation than urban and
+white-owned firms.5³ Recognizing the importance
+of promoting equitable access to SBA's programs,
+Congress created the Community Navigator Pilot
+Program, which aims to reach more underrepresented
+businesses through partnerships with organizations
+with ties to communities. Some leading practices for
+implementing a community navigator model have
+been identified,54 and future evidence building can help
+identify program outcomes.
+Participants in the SBA's training and outreach
+programs report satisfaction; for example, participants
+of SCORE, SBDC, and WBC programs have reported
+positive experiences, with 80 percent of clients finding
+them useful. 55 Furthermore, the SBA is continually
+10
+Small Business Administration
+|
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+STRATEGIC GOAL 1
+identifying factors that promote customer success and
+The SBA has current and ongoing evaluations planned
+satisfaction. One evaluation found that stakeholder
+to further the goal of increasing equity and customer-
+engagement, outreach, and social support networks
+centric focus. In FY 2022, the SBA is conducting an
+influenced program recruitment, retention, and
+evaluation to understand how to best serve diverse
+satisfaction in the Boots to Business program.56 Through
+entrepreneurs virtually. Due the COVID-19 pandemic,
+program evaluation, the SBA Office of Field Operations
+the SBA's Boots to Business program switched from in-
+(OFO), as part of SBA's High-Impact Service Provider
+person delivery to virtual training. The SBA will conduct
+efforts, recently identified opportunities to enhance CX
+a mixed-methods formative evaluation to examine the
+such as streamlining access to information; improving
+implementation and short-term results of the virtual
+communication between headquarters, field offices,
+program delivery. The SBA has also developed a logic
+program staff, and customers; developing methods
+model for the Community Navigator Pilot Program and
+for tracking customers across SBA interactions; and
+generated proposed program performance measures
+continuously sharing CX data with district leaders.57
+including the number of underserved businesses
+served, application rates for SBA programs, and
+outcomes like business sustainment, job creation, and
+Key Research and Evaluation Questions
+increased revenue.
+1. What are the business outcomes (including access
+to capital/financing) and impacts of the SBA's
+In FY 2023, the SBA will conduct a formative
+counseling, training, and outreach programs and
+evaluation on the implementation and processes
+services? (LT)
+of the Community Navigator program. The study
+2. How can the SBA's counseling, training, and
+will help the SBA understand if the new initiative
+outreach programs and services best contribute to
+was implemented as intended, identify barriers and
+the development of an equitable entrepreneurial
+facilitators to implementing program activities, and
+ecosystem? (LT)
+assess whether the initiative is beginning to produce
+3. How do participant outcomes and experiences
+the intended outputs and outcomes. The mixed-
+differ for new community-based programs (e.g.,
+method implementation evaluation will draw on
+the Community Navigator program), and what
+administrative program data from the NOFA application
+strategies from these programs can be adopted
+and reported performance metrics. The SBA will
+to promote equity in the SBA's other training and
+also collect qualitative data from the SBA Office of
+counseling programs? (LT)
+Entrepreneurial Development and supporting SBA
+offices, partners, community navigators, and potentially
+Methods and Data for Evidence Building. Course
+customers. The evaluation will be undertaken during
+data (satisfaction, feedback) is collected for some SBA
+early implementation, and disbursement schedules
+counseling and training programs. As part of potential
+are expected to occur on a rolling basis. Therefore,
+program evaluation activities, program participants
+sufficient time may not have passed to begin evaluating
+could self-report on business outcomes as well as their
+the initiative across all planned market segments.
+experiences and business needs. These areas could be
+Still, the evaluation will enable early insights to inform
+analyzed by participant demographics to determine
+changes and opportunities for improvements that
+gaps in outcomes and experiences, and for ideas on
+support overall implementation efforts.
+programmatic improvements that promote equity.
+Fiscal Years 2022-2026 Enterprise Learning Agenda |
+Small Business Administration
+11
+STRATEGIC GOAL 2
+Strategic Goal 2: Build Resilient Businesses and a
+Sustainable Economy
+Objective 2.1: Help small
+did not.67 Firms that received PPP loans were also more
+likely to report retaining and rehiring workers compared
+businesses recover from the
+with those who did not.68
+pandemic and become more
+resilient
+The COVID-19 pandemic has disparately impacted
+women-owned,65 minority-owned, and immigrant-
+The COVID-19 pandemic significantly negatively
+owned businesses.70,71
+Equity assessments across
+impacted small businesses. For example, 89.9 percent
+COVID-19 relief programs are underway, but data
+of small businesses surveyed in May 2020 reported a
+availability issues limit the ability to draw complete
+negative impact on their business, with 65.9 percent still
+conclusions. As of May 2021, available data indicates
+reporting a negative effect as of late November 2021.58
+that for PPP borrowers in 2021, nearly 71 percent
+Similarly, 78 percent of employer firms in one survey
+of borrowers did not disclose their race and nearly
+reported decreased revenue growth, and 46 percent
+67 percent of borrowers did not disclose their ethnicity.
+reported decreased employment growth in 2020.59
+Fifty-six percent of borrowers did not disclose their
+gender.72
+Pandemic response legislation such as the Coronavirus
+Aid, Relief, and Economic Security Act (CARES Act)
+After the initial rollout, legislative changes advanced
+and American Rescue Plan Act (ARPA) authorized new
+equity in PPP loan distribution. One study found mixed
+programs to help small businesses recover. These
+evidence on PPP and COVID-EIDL equity, with a positive
+programs provided the SBA with the largest outlay of
+relationship found between minority makeup of a
+capital in the Agency's history. As of early December
+community and COVID-EIDL loan distribution. The study
+2021, the SBA awarded over 16.5 million Paycheck
+also found a positive relationship between number of
+Protection Program (PPP) loans, COVID-Economic
+PPP loans and minority makeup of a community, but a
+Injury Disaster Loans (COVID-EIDL), and Targeted and
+negative relationship when considering the dollars in
+Supplemental Targeted EIDL Advances totaling over a
+loans per employee.74
+trillion dollars. 60, 61 As of November 2021, the SBA also
+awarded over $41.9 billion in Restaurant Revitalization
+The SBA has responded to over 132,000 inquiries
+Fund (RRF) awards and Shuttered Venue Operators
+regarding the PPP (as of April 2021) and made
+Grants (SVOG) to over 121,000 restaurants and
+modifications to its policies and systems to improve the
+venues.62,63
+flow of loans. The SBA also accelerated its Disaster Loan
+Assistance Portal (DLAP) migration by several months
+The SBA and other external researchers have begun to
+to improve user security, which has improved the user
+measure the outcomes of its pandemic relief programs.
+experience.
+Estimated effects of the PPP vary widely depending
+on the data sources and methodology used,64 with
+the number of jobs retained ranging from 18.6 million
+Key Research and Evaluation Questions
+(from loans through August 8, 202065 to 2.3 million
+1. What effects did the SBA's pandemic recovery
+(through June 2020) or less.66 Businesses receiving
+programs have on small business outcomes (e.g.,
+PPP, COVID-EIDL, and loan forgiveness relief were less
+survival, employee retention, revenue and sales
+likely to report revenue and employee-hour decreases
+parity, etc.), and how did these vary by industry,
+in the weeks after this relief, compared with firms that
+geography, and owner demographics? (LT)
+12
+Small Business Administration
+|
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+STRATEGIC GOAL 2
+2. What policies, technologies, or best practices should
+experimental methods to compare SBA pandemic
+the SBA implement to help small businesses recover
+recovery program participants with a comparison
+and adapt to a post-COVID-19 environment? (ST)
+group of similar businesses that did not participate
+in the SBA's COVID-19 recovery programs. Challenges
+for this evaluation center around data availability and
+External Research/Collaboration
+matching. Some data maintained by the Census Bureau,
+1. To what extent do small businesses have emerging
+including Internal Revenue Service (IRS) tax records,
+capital needs as they adapt to, recover from, and
+may not be available for evaluations. Additionally,
+grow after the COVID-19 pandemic? If businesses
+SBA data may be of insufficient quality to produce an
+have emerging needs, what are they?
+appropriate number of matches during the data linking
+phase. However, the SBA has linked other program data
+Methods and Data for Evidence Building. Several
+with Census datasets previously and found it to produce
+methods can be used to understand the effects of the
+sufficient matches for analysis.
+SBA's pandemic recovery programs, including literature
+reviews, collaboration with researchers and federal
+In FY 2023, the SBA will better understand pandemic
+agencies, internal administrative data analysis, and
+program outcomes and ongoing business needs
+future survey data collection. The SBA's internal records
+thorough an SVOG program evaluation. The evaluation
+include business location, industry, and-to a more
+will assess if and how intended recovery outcomes
+limited extent-owner demographics. Data on business
+were met, including measuring the number of jobs
+closures, business starts, and employment are also
+supported and revenue earned by SVOG grantees. The
+available through federal sources.
+SBA will also evaluate divergence of planned versus
+actual expenditures and businesses' ongoing recovery
+The SBA is currently fielding a survey on satisfaction and
+needs. The mixed-method evaluation will draw on
+customer experience for the PPP, COVID-EIDL, Express
+administrative program data from the SVOG Portal to
+Bridge Loans, SVOG, and RRF programs, which includes
+examine planned and actual expenditures, changes in
+outcomes data on operating status, operating capacity,
+revenue, and other reported business metrics. Spending
+and employee retention. The SBA has posted its PPP,76
+and outcomes will be analyzed by owner demographics
+COVID-EIDL,77 SVOG,78 and RRF79 data publicly, making
+and other business characteristics captured in the SBA's
+it possible for outside researchers to approach this
+System for Award Management. The SBA will also collect
+priority question as well. Collaboration with the Federal
+qualitative data from grantees in the form of a closeout
+Research Division of the Library of Congress is also
+survey, which asks grantees to rate the SVOG's impact
+being planned to conduct an evaluation on pandemic
+on reopening and fulfilling business needs. Focus group
+relief programs. With respect to business needs post-
+and interview data will reveal some of the ways in which
+pandemic, the SBA has also participated with the
+the SVOG impacted grantees. One challenge may be
+Census Bureau to develop and collect data through the
+obtaining closeout data from all grantees because grant
+Small Business Pulse Survey.
+closeout is dependent on award dates that varied and
+because grantees may have permanently closed. To
+In FY 2023, the SBA will also complete an evaluation
+address this, the SBA plans repeated communications to
+to determine the impacts of its pandemic recovery
+businesses that do not complete the closeout process.
+programs (PPP, COVID-EIDL, SVOG, and RRF) on
+The SBA will be able to collect more information about
+small business outcomes such as survival, employee
+missing data such as outcomes and demographics
+retention, and revenue and sales parity. The SBA will
+through its Joint Statistical Project with the Census
+match administrative data from its pandemic recovery
+Bureau.
+programs with data at the Census Bureau. No new data
+collection is intended. The evaluation will use quasi-
+Fiscal Years 2022-2026 Enterprise Learning Agenda |
+Small Business Administration
+13
+STRATEGIC GOAL 2
+Objective 2.2: Help prepare
+Key Research and Evaluation Questions
+small businesses and rebuild
+1. How can the SBA increase use of its disaster loan
+mitigation increase option and prepare for future,
+communities affected by natural
+more frequent disasters? (ST)
+disasters
+2. How do SBA disaster assistance loans contribute to
+SBA Disaster Assistance Loans have been associated
+post-disaster individual, business, and community
+with business survival, growth, and revenue. For
+rebuilding? (LT)
+example, SBA Disaster Loans are associated with
+increased business survival and growth after
+Methods and Data for Evidence Building. The SBA is
+floods, especially for businesses with fewer than 50
+currently studying methods to increase the use of its
+employees. 80 Similarly, family-owned businesses
+disaster loan mitigation increase option. In FY 2022, the
+receiving SBA loans after Hurricane Katrina were more
+SBA will conduct an experiment to test new strategies
+likely to survive. 81 One study found an association
+for communicating about the mitigation option to
+between SBA Disaster Loans and increased actual and
+determine effects on use of this option.
+perceived revenue after Hurricane Katrina;82 however,
+another study failed to find revenue increases.83
+Several quantitative analyses are in progress to
+elucidate how SBA disaster assistance loans contribute
+The SBA recognizes the need to adapt to increasing
+to post-disaster rebuilding. The SBA has an ongoing
+disaster frequency due to climate change,84 and this
+partnership with the Risk Management and Decision
+Processes Center at the Wharton School of the
+topic is of interest for future evidence building. The SBA
+is authorized to increase physical disaster loan amounts
+University of Pennsylvania to conduct a series of
+to fund mitigating measures to protect damaged or
+quantitative analyses on the Disaster Loan program.
+destroyed property from possible future disasters. Due
+These analyses use the SBA's Disaster Loan Assistance
+to increased frequency of disasters, the SBA is interested
+data and Experian credit reports and currently focus
+in increasing borrower uptake of its increase option. A
+on creating a profile of how the program is used by
+recent program evaluation found that individuals who
+households and firms, evaluating the program with
+used the mitigation increase option were most likely to
+respect to reducing credit market disruptions that
+be flood survivors and tended to be better resourced
+increase the cost of disasters for households and
+than non-borrowers. Lack of knowledge and resources
+firms, and understanding the role of the program in
+about the mitigation option were barriers for both
+the broader context of public and private disaster
+borrowers and loan officers, and borrowers reported
+management mechanisms.
+fear and confusion during the process. 85
+In FY 2023, the SBA will continue an ongoing evaluation
+Performance metrics indicate efficiency of disaster loan
+to determine the impacts of SBA Physical Disaster
+Assistance Loans on small business outcomes and
+processing and efforts to reach customers promptly
+after disaster hits. In FY 2020, 78 percent of customers
+recovery. The study addresses how these loans impact
+were satisfied with SBA Disaster Loan approvals. The
+small business outcomes such as revenue, employment,
+SBA tracks metrics on the speed of opening Disaster
+and survival, and how they impact the timing of
+Loan Outreach and Business Recovery Centers and
+small business recovery as measured by revenue and
+loan disbursements within standards to best support
+employment. The SBA is using administrative data
+disaster survivors and met these standards 100 percent
+from the SBA Disaster Assistance Loan program, which
+of the time in FY 2020. 86 With respect to equity, one post-
+is being matched with data at the Census Bureau. The
+Katrina study found that women were more likely to
+evaluation will use quasi-experimental methods to
+apply for Disaster Loans; however, they were less likely
+compare recipients of SBA Disaster Assistance Loans
+to receive them and received lower loan amounts. 87
+to a comparison group of similar businesses that did
+not receive these loans. Challenges for this evaluation
+14
+Small Business Administration
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+STRATEGIC GOAL 2
+center around data availability and matching. Some
+number of matches during the data linking phase.
+data maintained by the Census Bureau, including
+However, the SBA has linked this data with other
+Internal Revenue Service (IRS) tax records, may not be
+datasets previously and found it to produce sufficient
+available for evaluations. Additionally, SBA data may
+matches for analysis.
+be of insufficient quality to produce an appropriate
+Fiscal Years 2022-2026 Enterprise Learning Agenda | Small Business Administration
+15
+STRATEGIC GOAL 3
+Strategic Goal 3: Implement Strong
+Stewardship of Resources for Greater Impact
+Objective 3.1: Strategically
+added the SBA to its "High Risk Series" list due to risk of
+improper payments and fraud.93
+manage resources by integrating
+quality data, evidence, and risk in
+In FY 2021, the SBA partnered with the U.S. General
+decision-making processes
+Service Administration's Office of Evaluation Sciences
+to investigate how burden reduction might be used to
+The SBA recognizes the importance of evidence to
+promote equitable distribution of services. The study
+inform decision-making and improve its resource
+found that after one U.S. city reduced its paperwork
+management functions. Across the SBA's resource
+requirements to apply for COVID-19 relief funds,
+management functions, existing evidence indicates
+completed application rates increased for businesses
+several resource management strengths as well
+owned by members of historically underserved groups
+as opportunities for improvement. In the area
+as well as for businesses owned by members of
+of performance management, the SBA tracks
+historically well-represented groups.94
+approximately 100 performance metrics and has
+produced over 40 evaluation, fact-finding, and policy
+The SBA tracks employee satisfaction with its financial
+analysis evidence assets as of FY 2020. The SBA's
+management services; in FY 2020, satisfaction was
+Capacity Assessment found the greatest opportunity for
+rated a 4.6 out of 5. Negative responses are distributed
+the SBA to expand its statistical practice capacity. 88,89
+to managers who follow up with guidance and
+development for staff.95
+The SBA consistently has one of the highest small
+business utilization rates in federal contracting;
+in FY 2020, the SBA awarded 80 percent of eligible
+Key Research and Evaluation Questions
+contracting dollars to small businesses. An evaluation of
+1. How can the SBA support program efforts to
+the SBA's Advanced Acquisition strategy recommended
+increase equitable access to its services (e.g., by
+enhancing communication and proactive engagement
+reducing paperwork requirements, streamlining
+from both acquisition and program offices and
+forms, leveraging data, etc.)? (LT)
+developing Integrated Procurement Teams for highly
+2. How can the SBA minimize fraud and manage fraud
+complex acquisitions.90
+risk within its programs? (LT)
+An independent audit found that in FY 2019, the SBA
+Methods and Data for Evidence Building.
+had met reporting requirements for the Improper
+Retrospective quantitative analyses can also be
+Payments Act of 2002, conducted risk assessments
+conducted exploring whether different levels of
+for applicable programs, and taken steps to reduce
+applicant burden are associated with increased
+improper payments in programs previously identified
+diversity of applicants, as well as whether lower levels
+as targets for reduction (7(a), 504, and Disaster Loans).91
+of burden are associated with increased fraud. Fraud
+Despite efforts to reduce improper payment in its
+and risk can also be studied through literature review
+ongoing programs, the COVID-19 pandemic has added
+and risk analysis. The SBA completed a Fraud Risk
+additional challenges due the need for rapid and large-
+Assessment for its PPP and COVID-EIDL programs.
+scale disbursement of COVID recovery loans.92 GAO
+has
+16
+Small Business Administration
+| Fiscal Years 2022-2026 Enterprise Learning Agenda
+STRATEGIC GOAL 3
+Objective 3.2: Build an inclusive
+External Research
+and high-performing workforce
+1. How will emerging workforce trends and new
+technologies (e.g., AI, New Pay through Shared
+Ongoing evidence building aims to help the SBA
+Services, telework) impact the SBA's human capital
+strengthen its workforce planning. The SBA leadership
+needs? (ST)
+cohort comprises 16.4 percent of the workforce, making
+2. What recruitment flexibilities and strategies (e.g.,
+effective leadership succession planning critical to
+remote workers) can best promote equity, diversity,
+maintaining the SBA's ability to deliver its mission.
+inclusion, and engagement, and how can these
+However, nearly one-third of the SBA's workforce is
+flexibilities be leveraged to create a competitive
+retirement eligible, with retirement eligibility projected
+advantage? (ST)
+to grow to 42 percent by 2022.96 The SBA is currently
+completing an evaluation that examines two of the
+Methods and Data for Evidence Building. To
+SBA's primary talent development strategies for
+understand how the SBA can recruit a diverse
+preparing staff leadership advancement and aims
+workforce, the Agency can build evidence on
+to identify the gaps in staff ability to assume more
+recruitment strategies by conducting literature reviews,
+advanced duties.
+analyzing its use of hiring authorities, analyzing
+demographics of its current applicants and hires, and
+The most recently published EEO workforce reports
+collaborating with other agencies to understand best
+(FY 2019) indicate that, compared with the Federal
+practices. The SBA can study engagement through
+Government, the SBA has a higher percentage of
+the Federal Employee Viewpoint Survey, but studying
+federal employees self-identifying as female, Hispanic/
+inclusion may require qualitative data collection and/or
+Latino, Black/African-American, Asian, or as having a
+analysis of best practices in other agencies. The SBA has
+disability or targeted disability. However, the SBA has
+or is producing several evidence products that inform
+fewer employees that self-identify as Native Hawaiian/
+workforce development strategies, including a Talent
+Pacific Islander, American Indian/Alaska Native, or two
+Development Needs Survey, a Workforce Planning Gap
+or more races. At the SES-level, individuals identifying
+Analysis, and a Dual-Rater Competency Assessment.
+as White and as male are over-represented among SES
+employees compared with the overall SBA workforce,
+To build evidence on emerging workforce trends and
+although these numbers are less far from parity than
+technologies that affect human capital needs, the
+they are in the Federal Government overall. 97 In FY 2020,
+SBA can conduct literature reviews on topics such
+SBA employees reported a 72 percent job satisfaction
+technology trends (e.g., AI, New Pay through Shared
+rate on the FEVS as well as a high level of engagement-
+Services) and other emerging trends in government
+both measures that have been steadily rising over
+work.99 Recruitment flexibilities and strategies, and their
+recent years. However, new hire retention (73 percent-
+contribution to creating diverse, inclusive, and engaging
+defined as retention of new hires for two years or more)
+environments, can be studied in collaboration with
+was lower than in prior years.98
+other agencies and through literature reviews, as well
+as through analyzing existing datasets within the SBA.
+Key Research and Evaluation Questions
+The SBA can analyze its administrative data on its use of
+hiring flexibilities, telework, and remote work and can
+1. How can the SBA recruit, train, and retain a diverse,
+study factors like engagement from the FEVS and recent
+inclusive, and engaged workforce with the right skills
+telework surveys.
+to meet the Agency's mission requirements? (LT)
+2. How can the SBA develop the current workforce to
+adapt and respond to emerging needs? (LT)
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+|
+Small Business Administration
+17
+STRATEGIC GOAL 3
+Objective 3.3: Develop and deploy
+investments; in FY 2020, the SBA completed 81 percent
+of its priority IT investments on time.102
+technology-driven solutions to
+enhance mission delivery
+Key Research and Evaluation Questions
+In recent years the SBA has invested significantly in
+1. How can the SBA improve the experience of
+assessing its IT platforms and taking steps to modernize
+both its internal and external customers through
+and secure them. For example, the SBA has assessed
+technology modernization? (ST)
+IT needs and ways to modernize its technology
+platforms, which has led to an increase in its FITARA
+2. How can the SBA leverage new technology and
+score from a D+ in May 2018 to a B+ in June of 2019.100
+cybersecurity tools to mitigate security threats and
+The SBA's Office of the Inspector General will also be
+prevent fraud? (LT)
+evaluating the effectiveness of the SBA's information
+security program and practices annually to improve and
+Methods and Data for Evidence Building. The SBA
+institutionalize security policies and procedures. 101
+has instituted an Information Technology Customer
+Satisfaction Rate metric, derived from quarterly
+The SBA tracks additional metrics around its IT
+customer satisfaction surveys. This metric will provide
+functions to assess and improve areas including
+a continuous source of evidence regarding service
+its modernization efforts and timely completion of
+delivery. A foundation of evidence related to using
+priority investments. For example, the Agency tracks
+technology to mitigate risk and fraud can be built
+the percentage of the SBA's enterprise-wide cloud
+through literature reviews, including audits (e.g., OIG, 103
+applications completed compared to those applications
+GAO104, government best practices, and government
+standards.
+still needing cloud migration, and in FY 2020 had
+migrated 62 percent of its applications. The SBA
+also monitors efficiency in completing its priority IT
+18
+Small Business Administration
+|
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+APPENDIX
+Appendix A: Endnotes
+1
+Evidence may come from a variety of sources, including program evaluations, performance data, audits, policy analyses, and traditional
+research.
+2
+Public Law 115 - 435 - Foundations for Evidence-Based Policymaking Act of 2018
+3
+www.sba.gov/evaluation
+4
+ELA questions for strategic goals 1 and 2 address strategic questions (i.e., questions about mission programs, policies, and regulations),
+and strategic goal 3 questions address operational questions (i.e., questions about operations concerning human capital, grants,
+acquisition, financial, and information technology management).
+5
+Executive Order on Advancing Racial Equity and Support for Underserved Communities Through the Federal Government
+6
+How Documentation Burdens Affect the Equitable Distribution of Small Business Relief Funding (GSA, 2021)
+7
+Who Receives Access to Small Business Relief? A Simulation-based Approach (GSA, 2021)
+8
+Challenges and Opportunities for Pursuing Equitable Distribution of Small Business Relief (GSA, 2021)
+9
+An Analysis of the Factors Lenders Use to Ensure Their SBA Borrowers Meet the Credit Elsewhere Requirement (The Urban Institute, 2008)
+10
+Finance and Growth at the Firm Level: Evidence from SBA Loans (Journal of Finance, 2017)
+11
+A Performance Analysis of SBA's Loan and Investment Programs (The Urban Institute, 2008)
+12 The Impact of SBA Lending Activity on Micropolitan Statistical Areas in the U.S. Southeast (The International Journal of Business and
+Finance Research, 2017)
+13
+U.S. Small Business Administration Loans and U.S. State-level Employment (Journal of Economics and Finance, 2019).
+14
+Evaluation of SBA's Microloan Program Outcomes (SBA, Forthcoming)
+15
+Access to Capital Among Young Firms, Minority-ownec Firms, Women-owned Firms, and High-tech Firms Research Study (SBA, 2013)
+16
+Minority Owned Employer Businesses and their Credit Market Experiences in 2017 (SBA, 2020)
+17
+Small Business Administration 7(a) Loan Guaranty Program (CRS, 2019)
+18
+Evaluation of Surety Bond Guarantee Program (SBA, 2020)
+19
+Finance and Growth at the Firm Level: Evidence from SBA Loans (Journal of Finance, 2017)
+20
+PPP Data (SBA, 2021)
+21 National Economic Impacts from the National Cancer Institute SBIR/STTR Program (National Cancer Institute, 2019)
+22 National Economic Impacts from the Navy SBIR/STTR Program, 2000-2013 (TechLink, Montana State University and University of Colorado
+Boulder, 2014)
+23 National Economic Impacts from the DOD SBIR/STTR Program, 1995-2018 (Department of Defense, 2019)
+24
+Measuring the Role of the SBIC Program in Small Business Job Creation (Library of Congress, 2017)
+25
+SBIC Rural Investments Environmental Scan and Evaluability Assessment (SBA, 2020)
+26
+SBA Small Business Investment Company Program (CRS, 2019)
+27
+Measuring the Role of the SBIC Program in Financing Small Businesses (Library of Congress, 2017)
+28
+Measuring the Representation of Women and Minorities in the SBIC Program (Library of Congress, 2016)
+29
+Small Business Administration and Job Creation (CRS, 2019)
+30
+SBA SBIR STTR FY18 Annual Report (SBA, 2018)
+31
+Do Jobs in Export Industries Still Pay More? And Why? (Department of Commerce International Trade Administration, 2010)
+32
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+33
+Evaluation of State Trade Expansion Program (STEP) Outcomes and Best Practices (SBA, 2021)
+34
+Calculated from the U.S. Census Bureau's annual press release, Profile of U.S. Importing and Exporting Companies
+35
+Small Business Exporting Survey 2016 (National Small Business Association, 2016)
+36
+Government-Wide Performance FY2019 Small Business Procurement Scorecard (SBA, 2020)
+37
+Evaluation of the Small Business Procurement Goals Established in Section 15(g) of the Small Business Act (SBA, 2014)
+38
+Federal Supplier Base Continued to Shrink in Fiscal 2018 (Bloomberg Law, 2019)
+39
+Evaluation of SBA's Small Business Procurement Scorecard (SBA, 2021)
+40 Actions Needed to Improve Confidence in Small Business Procurement Scorecard (GAO, 2018)
+41
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+42
+7(j) Training Program for 8(a) Participants Evaluation Report (SBA, 2019)
+43
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+44
+Annual data available at SBA.gov: Small Business Procurement Scorecard Overview
+45
+Evaluation of Factors for Reaching the HUBZone Contracting Goal (SBA, 2018)
+46 Evaluation of Withdrawals and Terminations from SBA's All Small Mentor-Protégé Program (SBA, 2020)
+47 GAO-21-40, Federal Buying Power: OMB Can Further Advance Category Management Initiative by Focusing on Requirements, Data, and
+Training (GAO, 2020)
+48
+Study of Entrepreneurial Development Resources (SBA, 2013)
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+Small Business Administration
+19
+APPENDIX
+49
+Emerging Leaders 2020 (SBA, 2020)
+50
+Office of Women's Business Ownership (sba.gov)
+51
+Office of Small Business Development Centers (sba.gov)
+52
+Office of Veterans Business Development (sba.gov)
+53
+Study of Entrepreneurial Development Resources (SBA, 2013)
+54
+Information Notice 6000-806503, Use of Community Navigators to Provide Technical Assistance (SBA, 2021)
+55
+Study of Entrepreneurial Development Resources (SBA, 2013)
+56
+Formative Evaluation of the Boots to Business Program (SBA, 2018)
+57
+SBA Office of Field Operations Customer Experience Data Evaluation (SBA, 2020)
+58
+Small Business Pulse Survey Data (Census, 2021)
+59
+Small Business Credit Survey: 2021 Report on Employer Firms (Federal Reserve System, 2021)
+60
+Paycheck Protection Program (PPP) Report: Approvals through 05/31/2021 (SBA, 2021)
+61 SBA Disaster Assistance Update: Nationwide Economic Injury Disaster Loans COVID-19, December 2 (SBA, 2021)
+62
+Restaurant Revitalization Fund (RRF) Report, Approvals through 06/30/2021 (SBA, 2021)
+63
+Shuttered Venue Operators Grant (SVOG) Public Report - As of Midday 29 Nov 2021 (SBA, 2021)
+64
+Ten Days Late and Billions of Dollars Short: The Employment Effects of Delays in Paycheck Protection Program Financing (Federal Reserve
+Board Finance and Economics Discussion Series, 2021)
+65
+The Job-Preservation Effects of Paycheck Protection Program Loans (Office of Economic Policy, Department of the Treasury, 2020)
+66
+An Evaluation of the Paycheck Protection Program Using Administrative Payroll Microdata (MIT Working Paper, 2020)
+67
+Did the Small Business Administration's COVID-19 Assistance go to the Hard Hit Firms and Bring the Desired Relief? (Journal of Economics
+and Business, 2021)
+68
+Small Business Credit Survey 2021 Report on Employer Firms (Federal Reserve System, 2021)
+69
+Special Report on Women-Owned Small Businesses During COVID-19 (US Chamber of Commerce, 2020)
+70 COVID-19, Small Business Owners, and Racial Inequality (National Bureau of Economic Research, 2020)
+71
+The Impact of Covid-19 on Small Business Owners: Evidence of Early-Stage Losses from the April 2020 Current Population Survey (National
+Bureau of Economic Research, 2020)
+72
+Paycheck Protection Program (PPP) Report: Approvals through 05/31/2021 (SBA, 2021)
+73 Fact Sheet: Changes to Paycheck Protection Program by Biden-Harris Administration Increase Equitable Access to Relief (SBA, 2021)
+74
+Did the $660 Billion Paycheck Protection Program and $220 Billion Economic Injury Disaster Loan Program Get Disbursed to Minority
+Communities in the Early Stages of COVID-19? (National Bureau of Economic Research, 2021)
+75
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+76
+PPP FOIA Dataset (SBA, 2021)
+77
+COVID-19 EIDL Dataset (SBA, 2021)
+78
+Shuttered Venue Operators Grantees Dataset (SBA, 2021)
+79
+Restaurant Revitalization Fund (RRF) FOIA Dataset (SBA, 2021)
+80
+Small Business Vulnerability to Floods and the Effects of Disaster Loans (Small Business Economics, 2017)
+81
+Survival and Success of Family-Owned Small Businesses after Hurricane Katrina: Impact of Disaster Assistance and Adaptive Capacity
+(Journal of Contingencies and Crisis Management, 2018)
+82 The Long-Term Impact of Disaster Loans: The Case of Small Businesses after Hurricane Katrina (Sustainability, 2018)
+83
+The Effect of Small Business Administration (SBA) Disaster Loans on Revenues of Small Businesses in Mississippi After Hurricane Katrina
+(Southern Agricultural Economics Association, 2017)
+84
+SBA Climate Change Adaptation Plan (SBA, 2012)
+85
+Evaluation of Characteristics and Perceptions of Disaster Assistance Mitigation Loan Option Borrowers (SBA, 2021)
+86
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+87
+The Demand for Post-Katrina Disaster Aid: SBA Disaster Loans and Small Businesses in Mississippi (Journal of Contingencies and Crisis
+Management, 2016)
+88
+SBA Evidence Capacity Assessment (SBA, Forthcoming)
+89 U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+90
+Evaluation of SBA Acquisition Planning (SBA, 2020)
+91
+Independent Auditors' Report on SBA's Compliance with IPERA (SBA, 2020)
+92
+Small Business Administration: COVID-19 Loans Lack Controls and Are Susceptible to Fraud (GAO, 2020)
+93
+GAO-21-119SP, High Risk Series: Dedicated Leadership Needed to Address Limited Progress in Most High-Risk Areas (GAO, 2021)
+94 How Documentation Burdens Affect the Equitable Distribution of Small Business Relief Funding (GSA, 2021)
+95
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+96
+U.S. Small Business Administration, 2018-2020 Talent Development Plan
+97
+Annual Reports on the Federal Workforce, FY 2019 (EEOC, 2021)
+98
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+20
+Small Business Administration
+|
+Fiscal Years 2022-2026 Enterprise Learning Agenda
+99
+The Future of Work in Government (Deloitte Insights, 2019)
+100 U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+101 U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+102
+U.S. Small Business Administration FY 2022 Congressional Budget Justification and FY 2020 Annual Performance Report (SBA, 2021)
+103 Top Management and Performance Challenges Facing the Small Business Administration in FY 2021 (SBA, 2020)
+104 Information Technology: Agencies Need to Develop Modernization Plans for Critical Legacy Systems (GAO, 2019)
+APPENDIX
+This page intentionally left blank.
+22
+Small Business Administration
+| Fiscal Years 2022-2026 Enterprise Learning Agenda
+1953
+U.S. Small Business Administration
+Office of Program Performance, Analysis, and Evaluation
+409 Third Street, S.W.
+Washington, DC 20416

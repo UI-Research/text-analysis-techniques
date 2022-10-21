@@ -1,0 +1,1297 @@
+U.S. Department of Homeland Security
+Equity Action Plan
+Pursuant to Executive Order 13985
+January 25, 2022
+DEPARTMENT
+08
+Homeland
+Security
+Table of Contents
+Executive Summary
+11
+Summary of Early Accomplishments
+1
+Notable Changes in Policy
+1
+Notable Changes in Operations
+3
+Equity Action Plan
+6
+I.
+Applying for Naturalization
+6
+II.
+Accessing Humanitarian Protection during Immigration Processing
+8
+III.
+Bidding on a Department Homeland Security (DHS) Contract
+14
+IV.
+Countering Domestic Violent Extremism and Targeted Violence
+16
+V.
+Filing Complaints and Seeking Redress in DHS Programs and Activities
+19
+VI.
+Airport Screening
+21
+VII.
+Access to Trusted Traveler Programs
+23
+Operational Status and Level of Institutional Resources Available to Offices with a Civil Rights
+Mission
+28
+i
+Executive Summary
+Pursuant to Executive Order (EO) 13985, Advancing Racial Equity and Support for Underserved
+Communities Through the Federal Government, the Department of Homeland Security (DHS)
+identified key programs with the greatest potential for advancing equity in DHS operations and
+activities. Six program areas were selected based on input from the DHS Equity Task Force and
+in consultation with the Office of Management and Budget. The DHS Equity Task Force, in
+conducting equity assessments of the Department's programs, relied heavily on public feedback
+and input from stakeholder organizations representing underserved communities. Since those
+engagements, DHS has added a seventh program area to this effort, countering domestic violent
+extremism. This plan does not include an exhaustive list of programs where DHS is working to
+advance equity. For example, this plan does not focus on programs managed by the Federal
+Emergency Management Agency (FEMA), which will be addressed in a separate report
+regarding reducing systemic barriers in FEMA programs, including the agency's grant programs
+and public- and individual-assistance programs.
+This document highlights several of DHS's early accomplishments in building more equitable
+programs, details DHS's initial plan to advance equity in the selected program areas, and sets
+forth a commitment to ensure that DHS's civil rights offices have the resources they need to carry
+out their critical mission.
+EO 13985 defines equity as:
+the consistent and systematic fair, just, and impartial treatment of all
+individuals, including individuals who belong to underserved communities
+that have been denied such treatment, such as Black, Latino, and
+Indigenous and Native American persons, Asian Americans and Pacific
+Islanders and other persons of color; members of religious minorities;
+lesbian, gay, bisexual, transgender, and queer (LGBTQ+) persons; persons
+with disabilities; persons who live in rural areas; and persons otherwise
+adversely affected by persistent poverty or inequality.
+In DHS's 200-day equity assessment report, DHS reported its findings on: (a) potential barriers
+that underserved communities and individuals may face to enrollment in and access to benefits
+and services in the programs selected for inclusion in this effort; (b) potential barriers that
+underserved communities and individuals may face in accessing contracting opportunities; (c)
+whether new policies, regulations, or guidance documents may be necessary to advance equity in
+agency actions and programs; and (d) the operational status and level of institutional resources
+available to offices or divisions within the agency that are responsible for advancing civil rights.
+Consistent with EO 13985, DHS developed this equity action plan setting forth DHS's plans to
+advance equity in the following seven key program areas:
+1. Applying for naturalization: Conduct a comprehensive review of policies, regulations,
+forms, and operations to identify barriers that may impede access to naturalization by
+underserved communities and make recommendations on how to remove these barriers,
+as appropriate and consistent with applicable law.
+ii
+2. Accessing humanitarian protection during immigration processing: Improve access
+to humanitarian protection during immigration processing by addressing language and
+disability-access gaps and enhancing access to legal information and resources.
+3. Bidding on a DHS contract: Improve engagement with small businesses owned by or
+supporting members of underserved communities through outreach activities and, as
+appropriate, monitor and increase small business goals.
+4. Countering Domestic Violent Extremism (DVE) and targeted violence: Augment
+efforts to equitably provide communities with the tools and resources they need to
+prevent targeted violence and terrorism, build resilience, and improve the efficiency and
+effectiveness of ongoing DVE programs.
+5. Filing complaints and seeking redress in DHS programs and activities: Enhance
+communication with the public regarding the right to file complaints and seek redress
+without retaliation in DHS programs and how those processes work.
+6. Airport screening: Enhance and standardize training for Transportation Security
+Officers and improve screening-technology capabilities to advance equity for members of
+underserved communities.
+7.
+Accessing Trusted Traveler Programs: Improve access to the Transportation Security
+Administration (TSA) PreCheck® Application Program for LGBTQ+ persons by
+expanding gender-identification options so they are no longer binary, ensuring that TSA
+PreCheck lanes at airports are consistently accessible, enhancing access to U.S.
+Customs and Border Protection Trusted Traveler Programs for limited English proficient
+persons, and addressing concerns about inequities in membership revocations.
+With respect to each focus area, DHS's plan outlines barriers to equity; specific remedial
+activities DHS agencies and offices are undertaking or will undertake to address those barriers;
+and a methodology for tracking progress in determining whether those activities, once
+undertaken, have substantially reduced or eliminated the barriers. It also includes a commitment
+to ensuring that the steps necessary to implement those changes - and to provide for equity
+generally - are, in fact, carried out (e.g., through incorporation into a strategic plan, embedding
+equity-related goals into performance plans, and receiving regular feedback from stakeholders)
+according to transparent, measurable goals.
+111
+Summary of Early Accomplishments
+Since January 2021, DHS has prioritized efforts to promote equity throughout the Department.
+Below are examples of some of the impactful changes in policy and operations that have
+advanced equity for members of underserved communities.
+Notable Changes in Policy
+Public Charge: On March 9, 2021, after a vacatur of the 2019 Public Charge Final Rule went
+into effect, U.S. Citizenship and Immigration Services stopped applying the final rule to
+pending applications and petitions. The 2019 rule had a chilling effect on immigrants of color
+and individuals with disabilities with respect to their willingness to seek various forms of
+assistance from the federal government. On August 23, 2021, DHS published an Advanced
+Notice of Proposed Rulemaking (ANPRM) to seek public feedback on the public charge
+ground of inadmissibility to inform the development of a future regulatory proposal. USCIS
+also hosted two listening sessions on September 14 and October 5, 2021, on the Public
+Charge ANPRM for intergovernmental stakeholders and community-based organizations. On
+February 24, 2022, DHS published a Notice of Proposed Rulemaking (NPRM) with a 60-day
+public comment period.
+Updated Personal Search Handbook: On April 19, 2021, the U.S. Customs and Border
+Protection (CBP) Office of Field Operations (OFO) promulgated an updated Personal Search
+Handbook and issued an accompanying memorandum to law enforcement personnel
+summarizing the substantive changes, including new guidance on searches of gender
+nonconforming, intersex, and transgender individuals; addressing the needs of travelers with
+mental, physical, and/or developmental disabilities; utilizing technology in personal searches;
+and accommodating religious beliefs.
+Employment Authorization for Noncitizens Seeking U Visa Status: On June 14, 2021,
+USCIS issued new policy guidance on employment authorization and deferred action for
+noncitizens seeking U nonimmigrant status (U visa) with pending, bona fide petitions. USCIS
+anticipates that the new policy guidance will reduce the amount of time U visa petitioners
+living in the United States wait before receiving deferred action and employment
+authorization. U visa petitioners are often members of underserved communities.
+Nondiscrimination based on Disability: On July 8, 2021, CBP issued Directive No.
+2130-033, Nondiscrimination for Individuals with Disabilities in CBP-Conducted Services,
+Programs, and Activities (Non-Employment). The new Directive defines roles and
+responsibilities for CBP offices and personnel under Section 504 of the Rehabilitation Act of
+1973, as amended, to ensure nondiscrimination in CBP-conducted services, programs, and
+activities for members of the public with disabilities. CBP also launched a communication
+plan to notify all CBP offices and personnel of this Directive, announced resources for
+delivery of muster-module training, and disseminated a new job aid titled Engaging in the
+Interactive Process with Individuals with Disabilities in CBP-Public Facing Programs.
+1
+Law Enforcement Coordination Council: On September 29, 2021, Secretary Mayorkas
+announced the establishment of the DHS Law Enforcement Coordination Council (LECC) -
+the Department's first unified law enforcement coordination body - to promote best practices
+in its law enforcement activities. DHS is the largest law enforcement agency in the federal
+government and the LECC will build on the Department's long-standing commitment to
+ensure more fair, equitable, and impartial policing, as well as officer and community safety.
+Central to the LECC's efforts are equity considerations, including adhering to rigorous
+protection of civil rights and civil liberties. The LECC will also employ a data-driven focus
+on preventing implicit bias, assessing use of force, and advancing policies that support
+mental health and increased community trust.
+Civil Immigration Enforcement Guidelines: On September 30, 2021, Secretary Mayorkas
+issued Guidelines for the Enforcement of Civil Immigration Law to better focus DHS's
+resources on the apprehension and removal of noncitizens who pose a threat to our national
+security, public safety, and border security, and to advance the interests of justice by ensuring
+a case-by-case assessment of the individual, which takes into account the totality of the facts
+and circumstances. The Guidelines emphasize that an individual's "race, religion, gender,
+sexual orientation or gender identity, national origin, or political associations shall never be
+factors" in enforcement action decisions.
+Combating Gender-Based Violence: On October 18, 2021, DHS issued a revision to
+Directive 002-01, Council on Combating Gender-Based Violence (formerly the Council on
+Combating Violence Against Women). In addition to renaming the Council in gender-neutral
+terms, the revised Directive provides a definition for gender-based violence, updates the
+purpose and requirements of the Council, and designates the Officer for Civil Rights and
+Civil Liberties as a co-chair of the group. The Directive will serve as a foundational
+document as DHS moves forward with rebuilding the Council.
+Victim-Centered Approach: On October 20, 2021, Secretary Mayorkas issued a
+memorandum directing DHS agencies and offices to integrate a victim-centered approach
+into all Department policies and activities involving victims of crimes. A disproportionate
+number of victims of human trafficking are racial minorities or belong to other underserved
+communities.
+T Visa Policy Guidance: On October 20, 2021, USCIS issued comprehensive guidance
+regarding the adjudication of applications for victims of trafficking seeking T nonimmigrant
+status (T visa). This guidance clarifies agency policies for victims of trafficking, while
+emphasizing a victim-centered approach, and eliminates barriers for noncitizen victims of
+trafficking seeking immigration relief.
+T Visa Law Enforcement Agency Resource Guide: On October 20, 2021, USCIS
+published the first ever standalone T Visa Law Enforcement Agency (LEA) Resource Guide
+for certifying officials. The T Visa LEA Resource Guide emphasizes that completing the
+Supplement B is consistent with a victim-centered approach.
+Protected Areas Memo: On October 27, 2021, Secretary Mayorkas issued a new
+comprehensive policy limiting enforcement actions by Immigration and Customs
+Enforcement (ICE) and CBP in or near certain protected areas, expanding on and superseding
+2
+the April 27, 2021, courthouse guidance. The memorandum explains, "We can accomplish
+our enforcement mission without denying or limiting individuals' access to needed medical
+care, children access to their schools, the displaced access to food and shelter, people of faith
+access to their places of worship, and more." Under this first-ever policy for both CBP and
+ICE, which provides an expanded and non-exhaustive list of protected areas, enforcement
+actions should not be taken in or near a location that would restrain people's access to
+essential services or engagement in essential activities.
+Notable Changes in Operations
+Protection of Communities Against DVE and Targeted Violence: Although racially and
+ethnically motivated violent extremism (RMVE) has existed for a long time, it has
+manifested in new and terrible ways in recent years and has become one of the most lethal
+threats to the homeland. The Office for Civil Rights and Civil Liberties (CRCL) has worked
+closely with DHS intelligence, policy, and law enforcement agencies and offices to ensure
+that DHS's resources can achieve this mission. For example, the series of National Terrorism
+Advisory System (NTAS) Bulletins issued by DHS since January 2021, including most
+recently on November 10, 2021, have each addressed the RMVE threat and recommitted
+DHS to preventing violent acts meant to intimidate or coerce specific populations on the
+basis of race, ethnicity, national origin, religion, gender, sexual orientation, gender identity,
+or political views.
+DVE Equity Task Force: In March 2021, DHS constituted the DHS Asian American,
+Native Hawaiian, and Pacific Islander (AANHPI) Task Force, led by CRCL, in response to
+concerns raised during an Incident Community Coordination Team call and an AANHPI
+community roundtable with Secretary Mayorkas after the Atlanta spa shootings. Now known
+as the DVE Equity Task Force, it is composed of senior-level officials from across DHS. The
+task force developed a package of 16 deliverables that addressed the concerns of the
+AANHPI community related to DVE, immigration, grant opportunities, and outreach. On
+September 17, 2021, CRCL and the DHS Office of Strategy, Policy, and Plans hosted a
+follow-up AANHPI community roundtable with Secretary Mayorkas and 28 AANHPI
+community organizations where the Secretary reported out on the deliverables of the task
+force and responded to community concerns. The task force will continue to address the
+concerns of communities facing the largest threats from DVE.
+Prison Rape Elimination Act (PREA) Implementation: To support ongoing compliance
+with the DHS Standards to Prevent, Detect, and Respond to Sexual Abuse and Assault in
+Confinement Facilities (6 C.F.R. Part 115) and to streamline communications between
+Headquarters and the field, CBP has established PREA Field Coordinators in each Field
+Office and Sector and has provided training to enable them to fulfill their duties, including
+information on how to communicate effectively with individuals who identify as LGBTQ+.
+PREA Risk Assessment: Recognizing the particular risks faced by LGBTQ+ detainees,
+CBP developed an instrument for use at CBP holding facilities nationwide to assess detainees
+for risk of sexual abuse by other detainees (victimization) or toward other detainees
+(abusiveness).
+3
+Revised National Detainee Handbook: ICE issued a new 2021 National Detainee
+Handbook, available in 14 languages. The revised handbook informs detained noncitizens of
+their rights and responsibilities and now includes a language-access section, notifying
+detainees that they are entitled to language services, free of charge, for medical and
+detention-related matters, or other matters related to ICE programs, if they do not speak or
+understand English, or cannot read or write English. The handbook also informs individuals
+of their right to request an accommodation based on a disability, how to request assistance,
+and how to file a complaint.
+Legal Access Webpage: ICE recently developed a new legal-access page on the public-
+facing ICE webpage, "Attorney Information and Resources." This webpage showcases some
+of the legal-access initiatives ICE has implemented, provides answers to frequently asked
+questions regarding legal representation and resources, and serves as a centralized location
+for essential legal access information. This resource advances equity for detained
+noncitizens, many of whom are people of color or members of other underserved
+communities.
+Preventing COVID-19 in Detention: The ICE Office of Diversity and Civil Rights led an
+intra-agency team to provide informational videos in seven indigenous languages with
+Spanish captions for noncitizens in detention. The short videos provide an overview of steps
+to take, such as washing hands and wearing face masks, to protect persons from COVID-19
+while in a congregant setting.
+Gender-Neutral Screening: TSA has piloted gender-neutral algorithms to collect data and
+determine the feasibility of incorporating these algorithms into existing technology at
+screening checkpoints. TSA intends to broadly deploy these algorithms, pending requested
+funding, by the first quarter of Fiscal Year (FY) 2023. This new technology will improve the
+accuracy and efficiency of screening technologies and no longer employ a binary gender
+construct.
+Travel Documents for Asylees and Refugees: TSA has collaborated with CBP and ICE to
+ensure a more seamless travel and screening experience for asylees and refugees, many of
+whom are members of underserved communities. Discussions among these agencies helped
+determine what was needed to ensure individuals released from detention have acceptable
+documents for travel verification.
+Promoting Equity in Passenger Screening: Since January 2021, TSA has published
+National Shift Briefs and shared content via operational bulletins that provide additional
+refresher training for the screening workforce on multiple topics, including unconscious bias
+and appropriate screening of:
+Medically necessary liquids, gels and aerosols;
+Travelers with different disabilities and medical conditions (at least one topic a month);
+Travelers wearing prostheses;
+Acceptability of federally recognized Tribal IDs;
+Travelers with service animals;
+Travelers with diverse gender expressions and gender identities;
+Travelers wearing loose-fitting clothing;
+Travelers with limited English proficiency; and,
+4
+Religious objects in a respectful manner.
+Engagement with Diverse Communities and Other Stakeholders: CRCL's Community
+Engagement section routinely engages with diverse racial, ethnic, and religious communities
+whose civil rights and civil liberties may be affected by Department activities. For example:
+On June 24, 2021, CRCL led a national roundtable on racial equity, community policing,
+and supporting underserved communities. The goal was to address ongoing and systemic
+issues with disproportionate impacts of policing on Black communities and other
+communities of color. In response to concerns raised by community stakeholders, the
+CRCL Officer highlighted the Biden Administration's prioritization of addressing
+targeted violence and violent extremism against Black and Brown communities and noted
+existing lines of effort by DHS agencies and offices to address these concerns.
+On July 29, 2021, CRCL led a national listening session on racial profiling with
+community stakeholders. Issues raised included policies, oversight, training, and
+programs as they relate to community stakeholders' concerns about racial profiling. The
+CRCL Officer welcomed suggestions from participants and noted the status of existing
+lines of effort to address some of the issues.
+Between March and October 2021, the CRCL Officer participated in two public hearings
+and two closed-to-press working-group meetings convened by the Inter-American
+Commission on Human Rights. Issues raised involved DHS's care and custody of
+immigrant populations, including ICE's COVID-19 detention precautions, the provision
+of medical care in ICE detention, policies that have resulted in family separations, and
+DHS's assistance in implementing the Centers for Disease Control and Prevention's Title
+42 authority.
+To commemorate the 20th anniversary of September 11, 2001 terrorist attacks, CRCL
+hosted a virtual discussion with DHS leaders and civil rights experts to discuss DHS's
+efforts to protect civil rights and civil liberties in a post-9/11 society, as well as the
+challenges that remain and suggestions for improving policies related to screening and
+vetting, nondiscrimination, immigration detention, and meaningful redress mechanisms.
+On November 9, 2021, the CRCL Officer met with the United Nations (U.N.) Special
+Rapporteur on Minority Issues on DHS's approach to combating DVE and ensuring it
+does not target but instead protects, religious, ethnic, and racial minority communities.
+On November 17, 2021, the CRCL Officer participated in an interagency meeting on
+racial justice and equity with the U.N. Assistant Secretary General for Human Rights and
+representatives from the Departments of State and Justice, and the Domestic Policy
+Council. The CRCL Officer reaffirmed DHS's commitment to advancing equity across
+all DHS programs and activities.
+5
+Equity Action Plan
+I.
+Applying for Naturalization
+Naturalization is the most significant immigration benefit the United States offers. Over the last
+decade, USCIS welcomed more than 8 million naturalized citizens. Naturalization and
+citizenship encourage full participation in our civic life and democracy and promote integration
+and inclusion. Rights associated with citizenship include the right to vote, the right to run for
+elected office, the right to apply for federal employment, and, with limited exceptions, the right
+to live the rest of one's life in the United States and to sponsor immediate family members for
+immigration benefits.
+Overarching action to advance equity:
+To promote equity, USCIS will conduct a comprehensive review of policies, regulations, forms,
+and operations to identify barriers that may impede access to naturalization by underserved
+communities and make recommendations on how to eliminate these barriers, as appropriate and
+consistent with applicable law.
+A. Barriers to Equitable Outcomes
+USCIS identified key factors that may be potential barriers for underserved communities
+and affect otherwise-eligible individuals' ability to access the program/service, including
+lack of sufficient resources for LEP persons or individuals with disabilities, limited
+financial resources, gender-binary form fields, and the complexity and length of requisite
+forms.
+In reviewing data regarding eligible naturalization applicants and public comments
+obtained through USCIS engagements and Federal Register notices, USCIS has identified
+potential barriers to the naturalization process for specific underserved communities,
+including individuals of certain national origins, transgender or gender-nonconforming
+persons, individuals with disabilities, and people who live in underserved geographic
+areas, including rural areas.
+Some stakeholders have raised concerns about the complexity of forms (including
+Form N-648 for certain individuals with disabilities who need to request a testing
+exception), the use of gender-binary terminology in forms and secure documents, the
+lack of availability of testing and training materials in some languages, and difficulty
+in obtaining disability accommodations for appointments. These barriers may prevent
+otherwise-eligible lawful permanent residents from applying for naturalization,
+depriving them of the benefits naturalization affords.
+Some barriers involve statutory limitations that are not within the purview of USCIS to
+remove and instead require congressional action. Others involve regulatory limitations
+that require amending regulatory text. The time requirements associated with the
+clearance and regulatory processes may slow implementation of changes.
+B. Action and Intended Impact on Barrier
+Continue to implement the DHS Plan to Improve the Citizenship and Naturalization
+Process, issued April 21, 2021. The plan outlines both short-term initiatives that can be
+accomplished within 12 months and long-term initiatives, in compliance with the
+6
+directive under EO 14012, Restoring Faith in Our Legal Immigration Systems and
+Strengthening Integration and Inclusion Efforts for New Americans, Section 5(a),
+Improving the Naturalization Process.
+Review and analyze comments received pursuant to the Request for Public Input (RPI)
+regarding barriers to USCIS benefits and services, published in the Federal Register on
+April 19, 2021, and identify actions to address any barriers found.
+Enhance and translate, as necessary, educational materials to assist applicants in
+preparing for naturalization, including self-study and training materials and other
+informational resources on the naturalization process and eligibility requirements.
+Update policies based on public feedback and comments to remove potential barriers to
+naturalization and citizenship, particularly for LEP persons, individuals with disabilities,
+and transgender or gender-nonconforming persons by reducing burdens on applicants and
+increasing accessibility to immigration benefits and programs/services:
+Medical Certification for Disability Exceptions (Form N-648)
+This form is used by applicants applying for U.S. citizenship who need to request
+an exception to the English and civics testing requirements for naturalization
+because of a disability. USCIS simplified and shortened this form in response to
+public feedback to the Federal Register notices issued on April 21, 2021 and
+October 6, 2021. Feedback included that doctors sometimes decline to fill out the
+form on behalf of patients because it is too long; that the form should allow for
+doctors to also certify when an oath waiver is needed; and that the form is
+confusing in places. The changes to the form address these and other concerns,
+reducing the burden for naturalization applicants with disabilities. The
+corresponding Policy Manual guidance is being updated to reflect the changes
+made to the form.
+Eligibility for Naturalization and Legal Competency
+USCIS plans to issue guidance to clarify the impact of a period of legal
+competency or confinement in a mental health facility on an applicant's ability to
+participate in the naturalization process; evidentiary standards to establish
+restoration of competency; and what information is needed to meet the good
+moral character requirements.
+Eligibility for Oath Waivers Based on Religious Training and Belief or Deeply Held
+Moral or Ethical Code
+To ensure naturalization applicants have the opportunity to express their sincere
+and meaningful beliefs, USCIS updated its Policy Manual on November 19,
+2021, to clarify its oath-waiver process and the circumstances in which an
+applicant is eligible for a waiver.
+Gender markers on USCIS forms and secure documents, including the Certificate of
+Naturalization and the Certificate of Citizenship
+To advance LGBTQ+ equality, USCIS is reviewing gender marker information
+in forms and secure documents to incorporate the use of inclusive language that
+respects gender identities, including gender non-conforming and non-binary
+individuals.
+Responding to public accommodation requests and engaging in the interactive
+process
+In response to public feedback about obstacles to requesting and timely receiving
+disability accommodations for any appointments, USCIS successfully piloted,
+and is in the process of converting to, the centralized processing of
+accommodation requests by accommodation subject matter experts instead of
+7
+field offices. Additionally, USCIS is planning a national virtual outreach event
+targeting customers with disabilities and affording them the opportunity to
+provide feedback about this new approach. USCIS will also issue guidance to
+applicants on requesting accommodations and to USCIS officers on
+communicating with applicants and properly processing requests.
+Fee-waiver eligibility and exemption guidance for naturalization applications.
+USCIS returned to adjudicating fee waivers based on the 2011 fee-waiver policy,
+which expands the ability of USCIS to waive fees for certain immigration benefit
+requests when the requesting individual is unable to pay.
+Engage with targeted communities and provide information regarding basic eligibility
+requirements for naturalization.
+C. Tracking Progress
+Gather and assess stakeholder input to determine whether barriers have been addressed,
+such that:
+individuals with disabilities report little to no difficulty in obtaining the
+accommodations they need or requesting an exception to the testing requirement;
+LEP persons indicate that they have meaningful access to training and testing
+materials;
+LGBTQ+ persons report that forms and documents allow them to indicate their
+gender identity without unnecessary burdens; and,
+other members of underserved communities indicate that they do not feel there are
+barriers to applying for naturalization.
+Over the long term, examine both quantitative and qualitative data to assess whether
+barriers persist.
+D. Accountability
+Promote accountability through tracking progress and related transparency with
+stakeholders and the public.
+Continue to align actions with the DHS Plan to Improve the Citizenship and
+Naturalization Process in accordance with EO 14012.
+Publicly publish Policy Manual updates in accordance with EO 14012 to eliminate
+barriers and improve naturalization processes to underserved communities.
+Periodically publish a list of accomplishments relating to EO 14012 and the DHS
+Plan to Improve the Citizenship and Naturalization Process.
+II.
+Accessing Humanitarian Protection during Immigration
+Processing
+U.S. immigration law provides a number of different forms of humanitarian protection, allowing
+individuals who qualify and are approved to remain in the United States for certain periods of
+time and, in some cases, to apply for LPR status. These protections include, but are not limited
+to, asylum, statutory withholding of removal, withholding or deferral of removal under the
+regulations implementing the Convention Against Torture, parole, U visa status, and T visa
+status. For the noncitizens these protections serve, they afford protection from dangerous or life-
+threatening circumstances. CBP, ICE, and USCIS all have contact with noncitizens who may be
+eligible to seek some form of humanitarian protection.
+8
+Overarching action to advance equity:
+DHS will improve access to humanitarian protection during immigration processing by
+addressing language and disability-acces: gaps and enhancing access to legal information and
+resources.
+A. Barriers to Equitable Outcomes
+CBP
+Despite tremendous strides, barriers in accessing humanitarian protection persist,
+particularly for individuals who speak an indigenous language as their primary
+language or who are deaf or hard-of-hearing. Such concerns have been raised in
+recent stakeholder engagements. CBP continues to recognize the importance of
+effective communication between CBP Officers (CBPOs) or Border Patrol Agents
+(BPAs) and individuals who may be seeking humanitarian protections.
+ICE
+ICE continues to experience challenges in providing qualified interpretive and
+translation services for indigenous languages to noncitizens encountered by ICE
+employees and contractors. These issues were brought to the attention of ICE during
+outreach events in 2021. ICE conducted outreach with the following organizations:
+California Rural Legal Assistance, Binational Center for the Development of
+Oaxacan Indigenous Communities, Indigenous Communities in Leadership, and the
+International Mayan League. Primary concerns relayed to ICE include difficulties
+during initial processing after arrest at the border, and continuing difficulties when
+individuals remain in ICE detention.
+Current government authorization and appropriations for legal representation and
+orientation programs for noncitizens limit legal representation and programming,
+resulting in gaps in services for noncitizens detained in ICE custody. Noncitizens
+with limited financial resources are those most impacted by this barrier.
+Noncitizens detained in ICE custody who have disabilities (such as those who are
+deaf or hard of hearing) may not consistently be provided with reasonable
+modifications and auxiliary aids and services when interacting with ICE employees
+and contractors, or during interactions with USCIS such as for credible fear
+interviews.
+USCIS
+Most detained noncitizens referred to USCIS for credible fear screenings are not
+fluent in English, may have limited education, and must be interviewed using a
+telephonic interpreter. If the individual speaks a language for which an interpreter
+cannot be procured, or if the individual is unable to effectively communicate due to
+mental health or capacity concerns, they may face additional barriers.
+For example, conducting an interview with an individual who is deaf is more
+complicated due to the need to secure an appropriate interpreter through the
+contract interpreter service provider and coordinate the interpreter's appearance
+via video for the detained individual's interview. It is also challenging to elicit
+testimony and make credible fear determinations when individuals have mental
+health or capacity issues.
+9
+Although individuals in the credible fear process are generally provided a list of legal
+service providers, they may face challenges or delays in obtaining legal
+representation. Few organizations serve the often-remote detention facilities, and
+those serving the facilities may be overburdened.
+B. Action and Intended Impact on Barrier
+CBP
+Language Access
+Enhance the effectiveness of the language access program (including the CBP
+Language Access Plan and tools such as CRCL's I Speak language identification
+tool) to enable CBP personnel to communicate with LEP persons who may be
+seeking access to humanitarian protections.
+Develop Internal Operating Procedure defining responsibilities, policy, and
+procedures for U.S. Border Patrol and OFO personnel to ensure meaningful
+access to CBP's operations, services, and other activities by LEP persons,
+including by providing language assistance to individuals who speak languages
+other than English or Spanish.
+Continue to conduct annual reviews of language services to determine if resources
+are being allocated efficiently and effectively. The review will assess language
+services provided by contractors and employees, primary languages encountered,
+and resource expenditures.
+These actions will help to ensure that CBPOs and BPAs are aware of their
+responsibilities to take reasonable steps to ensure that language assistance is
+provided to LEP persons with whom they engage or encounter while carrying out
+their job duties. The language access program will also be monitored to look for
+needed improvements.
+Develop and issue a job aid to provide guidance to CBP employees on how to
+identify vital documents and ensure that such documents are translated into the
+languages most frequently spoken by LEP persons who require access to CBP
+programs and activities.
+Disability Access
+Better enable those who are seeking humanitarian protection to access such
+protections through program enhancements, particularly for persons who are deaf
+or hard-of-hearing.
+Conduct periodic reviews to assess how well CBP policies and procedures for
+receiving and processing reasonable modification requests from members of
+the public based on disability needs are working and determine whether
+program offices need additional training and/or support with reasonable
+modification processing.
+Develop a Performance and Learning Management System training course
+titled "Disability Access Training for Law Enforcement Professionals" to
+educate uniformed officers and agents about their roles and responsibilities for
+ensuring nondiscrimination in CBP-conducted services, programs, and
+activities for members of the public with disabilities. The uniformed officers
+and agents will complete the training on a biennial basis.
+Develop and issue a new job aid titled "Commonly Asked Questions about
+Section 504 of the Rehabilitation Act of 1973 and Federal Law Enforcement"
+to provide uniformed officers and agents with information and examples of
+10
+how to comply with the requirements of Section when interacting and
+communicating with individuals with disabilities.
+Contract for services for video remote sign language interpretation for use
+when interacting with members of the public who may be deaf or hard of
+hearing.
+ICE
+Expand education and resources for ICE field offices and facilities to meet
+obligations to assist underserved populations, particularly LEP persons and
+individuals with disabilities.
+For example, ICE is developing a language access toolkit intended to serve as a
+summary of language access obligations and available resources. The kit can also
+be shared with facility partners as a reminder of their language access
+requirements, training needs, and necessary/suggested tools.
+Expand legal resource information, programming, and access to legal representation
+for noncitizens encountered by ICE.
+Build on recent accomplishments, including the recently issued 2021 National
+Detainee Handbook; a new legal access page on the ICE.gov webpage, "Attorney
+Information and Resources," which serves as a centralized location for essential
+legal access information; and a partnership with the Department of Justice
+Executive Office for Immigration Review (EOIR) to expand the number of
+facilities with access to the EOIR Legal Orientation Program, which educates
+detained persons in immigration court proceedings.
+Increase capacity to identify, accommodate, and effectively communicate with
+noncitizens who are deaf/hard of hearing, and noncitizens who speak rare and
+indigenous languages.
+Expand existing indigenous language service resources and aids by coordinating
+with current vendors, soliciting feedback from indigenous-led organizations, and
+exploring future strategies for expanding the availability of indigenous language
+interpretation and translation.
+Promote the availability of sign language interpretation and video relay services
+for detained noncitizens who are deaf or hard of hearing.
+Provide training to all field offices on the identification, assessment, and available
+accommodations for individuals with disabilities in custody.
+Continue to employ standard procedures to ensure USCIS is informed of
+individuals who may need accommodations during credible fear interviews.
+Pursue initiatives to limit delays in credible fear interviews between noncitizens and
+USCIS asylum officers.
+USCIS
+Update guidance on when offices may issue a Notice to Appear (NTA) to individuals
+whom it cannot interview due to language access issues and guidance on when offices
+may issue an NTA to individuals whom it cannot interview due to mental health or
+capacity concerns.
+The updated guidance will reduce the barrier to equitable outcomes by ensuring
+that individuals who cannot be interviewed in the credible fear screening process
+are placed into removal proceedings where they can apply for asylum or other
+protections from removal, and where an immigration judge can apply appropriate
+11
+safeguards if the individual is not sufficiently competent to proceed with a
+hearing.
+Inform individuals who are entitled to accommodations of their rights and available
+services. This transparency will enable individuals in underserved communities to
+better understand when an NTA is issued for language-access or mental
+health/capacity reasons.
+Partner with ICE to ensure that individuals have access to appropriate legal service
+provider lists and attorneys/consultants.
+Continue to enhance language access efforts for LEP persons.
+For example, USCIS published a temporary final rule on September 17, 2021, as
+part of USCIS's precautions to prevent the spread of COVID 19, to allow
+affirmative asylum applicants to use USCIS-provided contract interpreters who
+are available to interpret in 47 languages. The effective period of this temporary
+rule has been extended until March 16, 2023.
+USCIS prioritized these actions after examining its credible fear process and
+considering past stakeholder and field office feedback and data. USCIS tracks when
+asylum offices are unable to complete a credible fear screening interview because the
+individual speaks a language for which an interpreter cannot be procured. USCIS also
+tracks when asylum offices are unable to complete a credible fear screening interview
+because the individual is unable to effectively communicate due to a physical or
+mental condition. Finally, USCIS has guidance that indicates that NTAs are issued in
+such scenarios and tracks when an attorney or consultant participates in the credible
+fear interview.
+CRCL
+Monitor agencies and offices efforts to address language- and disability-access gaps.
+Coordinate with agencies and offices to develop a plan, in consultation with
+indigenous communities, to address deficiencies in the provision of indigenous
+language services, with an emphasis on services for indigenous women and girls.
+Because indigenous women and girls often have had less access to education in their
+home countries, they are often less likely to speak English or Spanish (the languages
+DHS typically provides).
+C. Tracking Progress
+CBP
+Review vendor-provided language access reports to determine usage of telephonic
+language interpretation services, including the language in which the service was
+provided and the duration of calls.
+Add fulfillment reporting data for future contracts to improve capability to assess the
+language services' effectiveness.
+Add a survey querying users of CBP. .gov for feedback on foreign language
+interpretation needs for CBP.gov content.
+Consistent with CBP's Disability Access Plan, continue to evaluate current policies
+and procedures to develop and implement best practices to strengthen access to CBP-
+conducted programs and activities by qualified individuals with disabilities.
+Over the long term, assess whether complaints from members of the public decline;
+CBPOs and BPAs are well versed in the protocols for identifying LEP persons and
+providing language services, including use of I Speak posters, pocket guides, and the
+indigenous-languages identification tool; and LEP persons and individuals with
+12
+disabilities indicate they are able to communicate their intention to seek humanitarian
+protection and participate in the process in a meaningful way.
+ICE
+Assess whether and to what extent stakeholder groups report that language and
+disability access efforts allow LEP persons and individuals with disabilities to pursue
+humanitarian protections without barriers to access.
+Track progress and outcomes for the above initiatives through regular outcome
+reporting to ICE leadership, including quarterly reports presented to ICE's Detention
+Monitoring Council.
+Continue to monitor interpretation and translation services utilized, including
+fulfillment rates, and evaluate (including via stakeholder feedback) the effectiveness
+of service providers in connecting with and providing language services to those in
+need.
+USCIS
+Continue to track the number of credible fear interviews where accommodations are
+provided, as well as the number of individuals in credible fear interviews who have
+the assistance of consultants or attorneys.
+Host stakeholder engagement events to hear from members of underserved
+communities regarding whether effective accommodations are being provided, such
+that LEP persons and individuals with disabilities are able to participate effectively in
+the process, and whether other access issues present challenges.
+CRCL
+Conduct community engagement to assess whether and to what extent gaps in
+language and disability access have been addressed, such that individuals who speak
+rare languages and individuals with disabilities are able to seek humanitarian
+protection and meaningfully participate in the process.
+D. Accountability
+CBP
+Include metrics tied to the implementation of the action items described in this plan in
+the performance plans of relevant CBP officials.
+Use the Self Inspection Program to monitor compliance with key provisions of CBP
+Directive 2130-033, Nondiscrimination for Individuals with Disabilities in CBP-
+Conducted Services, Programs, and Activities (Non-Employment), July 8, 2021,
+Section 14.
+Provide periodic progress updates to stakeholders.
+ICE
+Review progress and outcomes at quarterly ICE Detention Monitoring Council
+meetings and sub-committee meetings chaired by ICE leadership.
+Continue to conduct regular outreach with stakeholders representing speakers of
+indigenous languages, including direct communication with ICE leadership, to aid in
+future policy development.
+Monitor language services to confirm the quality and effectiveness of language
+services provided and track complaint resolution outcomes.
+13
+Report to ICE leadership on an annual basis ICE's overall compliance with its
+Language Access and Disability Access Plans.
+USCIS
+Meet with stakeholders to provide progress updates and seek feedback on the extent
+to which barriers have been addressed or remain.
+Develop a systematic approach to incorporating stakeholder feedback into
+policymaking, including the establishment of an internal site to track incoming
+feedback and outcomes/resolution.
+CRCL
+Publicly report progress during community engagements and seek feedback regarding
+DHS's efforts to make the process of seeking humanitarian protection more
+accessible.
+III. Bidding on a DHS Contract
+DHS is a leader in federal procurement innovation, industry engagement, and providing
+procurement opportunities to small businesses. Preliminary FY 2021 data indicate the total small
+business-eligible dollars obligation was nearly $8 billion, the highest in DHS's history. In FY
+2020, DHS obligated over $7.6 billion of the eligible $21 billion of contract expenditures to
+contracts with small businesses. These include awards to firms owned by members of
+underserved communities, including service-disabled veteran-owned businesses; women-owned
+businesses; small-disadvantaged businesses (SDBs), including 8(a) Program certified businesses;
+and HUBZone small businesses.¹
+DHS prioritized procurement in its equity plan because of the large amount of money DHS
+expends to purchase goods and services from the private sector. This represents a significant
+potential impact on firms owned by members of underserved communities who may face barriers
+in bidding on these opportunities.
+Overarching action to advance equity:
+DHS supports federal small business contracting programs and aims to expand federal
+contracting opportunities for companies that are owned by members of underserved
+communities, including women, minorities, and individuals with disabilities. DHS will prioritize
+enhancing efforts to engage these firms through various outreach activities, in addition to
+monitoring and increasing small business goals as appropriate.
+A. Barriers to Equitable Outcomes
+During an engagement session held in 2021, stakeholders reported they perceived several
+barriers to bidding on a contract at DHS, including:
+goals for SDBs do not take into account the needs of specific minority groups;
+1 Section 8(a)-certified businesses are SDBs that have been accepted for a special government contracting program
+run by the Small Business Administration. Historically Underutilized Business Zones (HUBZones) are designated
+areas in which the median income level is below a certain threshold. To participate in the HUBZone Program, a
+business must have a principal office in a HUBZone, and at least 35 percent of employees must live in a HUBZone.
+14
+inability to break into areas where there are existing contracts; and,
+limited awareness in some sectors of how to navigate the contracting process.
+B. Action and Intended Impact on Barrier
+Focus additional outreach efforts on underserved communities for whom statutory set-
+aside authorities may not exist.
+The Office of Small and Disadvantaged Business Utilization (OSDBU), working in
+partnership with the DHS Office of the Chief Procurement Officer, manages the DHS
+small business program. OSDBU oversees the Vendor Outreach Sessions Program
+(VOS), a government-wide best practice.
+Vendor outreach sessions are a series of pre-arranged 15-minute appointments,
+currently virtual in the COVID-19 environment, involving small businesses, DHS
+Small Business Specialists, and several large prime contractors seeking small
+businesses for mentoring and subcontracting opportunities.
+These sessions, held 10 times each fiscal year, provide a platform for the small
+business community to discuss their capabilities and to learn more about doing
+business with DHS. Several of the sessions target firms that are considered
+underserved.
+DHS will expand vendor outreach and engagement by hosting additional "How to Do
+Business with DHS" sessions, targeted specifically to underserved communities.
+Increase awareness of procurement opportunities, requirements, and guidelines among
+groups that may have thought those opportunities were out of reach or were unaware of
+DHS's commitment to small businesses.
+These actions aim to address the identified barriers by improving awareness of available
+opportunities and navigating the contracting process in general, particularly for
+underserved communities for which there is no statutory procurement program.
+C. Tracking Progress
+Track achievement of Small Business Administration (SBA) goals at the Department and
+agency/office levels. (Annually, small business goals are negotiated between DHS and
+the SBA. Separate goals are negotiated between the OSDBU and each DHS
+agency/office).
+Expansion of outreach efforts and the President's management agenda should
+generate an increase in small business goal achievement throughout DHS.
+Expand current vos surveys to include additional demographic questions that enable
+assessment of the effectiveness of these efforts with respect to particular underserved
+communities. This information will provide DHS with disaggregated data on the types of
+firms that are benefitting from outreach opportunities and whether they found that the
+sessions reduced barriers and increased transparency.
+Monitor and increase DHS small business goals as appropriate. The OSDBU and SBA
+monitor contract awards to businesses owned by individuals identifying as eligible for
+federal statutory set-aside contracting. These include women-owned, service-disabled
+veteran-owned, and Historically Under-Utilized Business Zone ("HUBZone") programs
+with various and highly specific criteria. However, businesses that are not eligible to
+compete in these programs may be able to compete as a small business under SBA
+programs, based on company revenue or number of employees. Even though the SBA
+programs are likely to benefit underserved communities, there is currently no separate
+numerical goal for underserved communities in federal small business contracting
+15
+programs. OSDBU will therefore monitor and establish or increase these goals as
+appropriate.
+D. Accountability
+Increase accountability for DHS leadership and the acquisition community in assessing
+DHS's commitment to small business participation. This commitment is currently
+measured in part by the SBA Annual Procurement Scorecard (Scorecard). The Scorecard
+provides accountability for DHS's small business, socioeconomic, and subcontracting-
+goal accomplishments in federal contracting. The current Scorecard also measures DHS's
+adherence to the Small Business Act and changes in the size of DHS's small-business
+vendor pool. DHS has received a grade of "A" or "A+" on the Scorecard for the past 12
+fiscal years and will continue to strive for this level of excellence.
+Provide vos survey data and feedback quarterly to DHS leadership with analysis of
+participation by underserved communities. This information will be used to better target
+outreach efforts.
+IV. Countering Domestic Violent Extremism and Targeted
+Violence
+U.S.-based lone actors and small groups, including homegrown violent extremisms and domestic
+violent extremists (DVEs) who are inspired by a broad range of ideological motivations, pose the
+most significant and persistent terrorism-related threat to our country. DVEs are motivated by
+various factors, including racial bias, perceived government overreach, conspiracy theories
+promoting violence, and false narratives about unsubstantiated fraud in the 2020 presidential
+election. Among DVEs, racially or ethnically motivated violent extremists, including white
+supremacists (RMVE-WS), will likely remain the most lethal DVE movement in the Homeland.
+DVE threatens not only life and property, but also the ability of persons in the United States to
+safely exercise their civil rights and civil liberties, especially for religious, ethnic, and racial
+minority communities. DHS is committed to combatting all forms of terrorism and targeted
+violence, including terrorism and targeted violence meant to intimidate or coerce specific
+populations on the basis of their ethnicity, national origin, religion, gender, sexual orientation,
+gender identity, or political views.
+Overarching action to advance equity:
+DHS will augment efforts to address domestic violent extremism and targeted violence by
+enhancing programs to empower communities to prevent targeted violence and terrorism, build
+resilience among communities, and improve the efficiency and effectiveness of ongoing
+domestic violent extremism programs.
+A. Barriers to Equitable Outcomes
+Domestic Violent Extremism and targeted violence are barriers to underserved
+communities' full participation in society at large. They pose not just a threat to life and
+property, but also to the ability of persons in the U.S. to safely exercise their civil rights
+and civil liberties, especially for religious, ethnic, and racial minority communities. For
+example, there has been a troubling increase recently in violence toward the AANHPI
+16
+community, the Jewish community, African Americans, and other racial minorities.
+Similarly, synagogues, mosques, and Black churches have been targets of violent attacks.
+Combatting and preventing domestic violent extremism and targeted violence is a
+critically important equity issue, especially since prominent DVE movements often target
+communities of color and others based on their perceived race, ethnicity, or religion. This
+also often interferes with these communities' exercise of their civil rights and civil
+liberties, including the exercise of their First Amendment rights to engage in free speech
+and to freely exercise their faith.
+B. Action and Intended Impact on Barrier
+Continue implementing a whole-of-society approach to preventing terrorism and targeted
+violence.
+Moving away from previous "countering violent extremism" approaches that targeted
+specific communities, this approach provides communities with the tools to help
+prevent individuals from radicalizing to violence.
+Enhance support for local efforts to build violence prevention frameworks.
+The DHS Center for Prevention Programs and Partnerships (CP3), which is leading
+DHS's efforts in this critical space, supports communities with representatives in the
+field across the United States, providing both resources and knowledge to build the
+capacity to identify individual behavioral indicators that may lead to violence
+regardless of motive or ideology.
+For example, in October 2021, CP3 held a Digital Forum on Prevention that focused
+on civil rights and civil liberties. This Forum built off extensive engagement with a
+variety of community advocacy and civil rights and civil liberties organizations that
+CP3 held throughout 2021. These included representatives from the Black, Latino,
+AANHPI, Arab/Middle Eastern, and LGBTQ+ communities as well as faith-based
+organizations. CP3 recently began a rotational detail of its personnel into CRCL to
+further enhance this approach.
+Promote greater interest in and awareness of CP3 and the Cybersecurity and
+Infrastructure Security Agency's resources for faith-based organizations among
+underserved communities.
+Improve underserved communities' access to grant programs that counter domestic
+violent extremism.
+The Targeted Violence and Terrorism Prevention Grant Program provides funding for
+state, local, tribal, and territorial governments, nonprofits, and institutions of higher
+education to establish or enhance capabilities to prevent targeted violence and
+terrorism. In FY20, CP3 awarded approximately $20 million in grant funding through
+this program.
+Design a communications plan that will not only seek to reach more local and
+underserved communities, but also provide technical assistance and support to
+those stakeholders. For example, CP3 will host webinars on the application
+process, ensure deadlines and program requirements are communicated
+effectively to underserved communities, connect stakeholders from
+underserved communities to CP3 Regional Prevention Coordinators, and
+provide one-on-one calls to those interested stakeholders.
+Leverage existing digital communication plans (e.g., website, newsletter,
+GovDelivery, etc.) to make content easily accessible and searchable to key
+audiences; provide easy-to-understand content that outlines the application
+17
+process and tips for preparing a successful application; use live virtual events to
+promote resources and authentically engage with and receive feedback and
+insights from key audiences; and build upon partner relationships to amplify
+messaging.
+Nonprofit Security Grant Program (NSGP).
+The NSGP is a competitive grant program that provides funds to nonprofit
+organizations at risk of a terrorist attack, including attacks perpetrated by DVEs,
+for physical security enhancements and other security-related activities. This
+program is currently allocated $180 million annually.
+Capture information on who applied and who was or was not awarded funding
+and assess the history of awards by applicant type/entity, state, zip code, and
+region.
+Determine whether particular entities, communities, or geographic areas have
+been excluded from the program.
+Identify barriers to applying or otherwise participating in NSGP.
+Prevent, detect, and respond to potential DVE threats internal to DHS.
+Establish clear policies and guidance to prevent, detect, and respond to potential
+domestic violent extremists within DHS, while protecting employees' privacy rights,
+civil rights, and civil liberties.
+Augment intelligence analysis and information-sharing capabilities with a priority focus
+on developing and sharing objective and timely intelligence with federal, state, tribal,
+territorial, and local partners.
+Provide actionable and timely intelligence to the broadest audience at the lowest
+classification level possible.
+Publish and disseminate intelligence bulletins that provide our partners with greater
+insight into evolving threats and situational awareness that can inform public safety
+and security planning efforts to identify and prevent violence.
+Continue to increase collaboration with the Federal Bureau of Investigation, the
+Intelligence Community, and other federal partners to better understand and assess
+the extent of operational relationships between violent extremists in the United States
+and those operating in other parts of the world.
+Continue to conduct robust engagement with members of underserved communities to
+understand their concerns related to domestic violent extremism and targeted violence.
+C. Tracking Progress
+Assess the degree to which members of underserved communities, particularly religious,
+ethnic, and racial minority communities, report that they feel that DHS, and the
+government generally, has taken action that makes them feel that the DVE threat against
+them has diminished.
+Regularly review program effectiveness. For example, DHS recently conducted a
+Counterterrorism and Targeted Violence Posture Review to identify opportunities and
+gaps across DHS to address all forms of foreign and domestic terrorism and targeted
+violence, consistent with privacy protections, civil rights, civil liberties, and legal
+requirements. The findings of this review, combined with the strategic guidance set forth
+in the National Strategy for Countering Domestic Terrorism (June 2021), are being used
+to prioritize, update, and modify existing goals, objectives, roles, responsibilities, and
+timelines for all actions across DHS, including those that advance equity.
+18
+D. Accountability
+Continue to meet regularly with members of underserved communities and other
+stakeholders to report on DHS's efforts to counter DVE and acts of targeted violence, and
+to welcome feedback on the effectiveness of those efforts.
+V.
+Filing Complaints and Seeking Redress in DHS Programs and
+Activities
+DHS has procedures in place that enable members of the public to file complaints and seek
+redress without retaliation regarding DHS programs, including allegations of unlawful
+discrimination in a departmental activity or profiling on the basis of race, national origin,
+language proficiency, gender, gender identity, disability, or religion. DHS selected this area for
+inclusion in the equity plan because of its importance in promoting equity across all other
+programs. Strong, transparent, and accessible complaint and redress procedures provide DHS an
+opportunity to make improvements in policies and procedures and take corrective action, help
+build trust between the public and DHS, ensure underserved communities are treated equitably in
+DHS programs and activities, and address allegations of misconduct, mistreatment, and/or
+discrimination.
+Overarching action to advance equity:
+To advance equity within its complaint and redress programs, DHS will enhance communication
+with the public regarding the right to file complaints concerning DHS programs and seek redress
+without retaliation, how these processes work, and what individuals can expect from these
+processes. In implementing these changes, DHS will work toward providing seamless and
+comprehensive language access to complaint and redress procedures, as well as greater
+transparency in complaint and redress mechanisms. DHS will also conduct robust and inclusive
+stakeholder engagement.
+A. Barriers to Equitable Outcomes
+In interacting with an agency as large as DHS and with such diverse and wide-ranging
+programs, members of the public may be confused or have insufficient information about
+their options for filing complaints and seeking redress in DHS programs. They may also
+fear retaliation. Because of this, as well as other potential barriers, members of the public
+may be discouraged from filing complaints and seeking redress, delay in submitting
+complaints, or provide incomplete information.
+Populations disproportionately impacted may include migrant and immigrant
+communities, LEP persons, disaster survivors, persons with disabilities, persons who are
+unfamiliar with government processes, those with limited access to technology,
+noncitizens in detention or otherwise in DHS custody, or those who may fear retaliation
+or other negative impact from filing a complaint.
+DHS lacks sufficient quantitative data to conclude that there are ethnic, racial, or other
+disparities as a result of this barrier; however, information from a stakeholder
+engagement session that DHS held on this topic included feedback that lack of clarity on
+how and where to file complaints, including complaints about disability-access concerns,
+is impacting members of underserved populations.
+19
+B. Action and Intended Impact on Barrier
+Enhance systems for informing members of the public of their options and right to file
+complaints and seek redress in DHS programs, how those options work, and what they
+can expect from these processes. Specific actions items include:
+Update and enhance the DHS webpage at https://www.dhs.gov/how-do-i/provide-
+feedback-dhs, which has information about avenues for filing complaints and seeking
+redress in DHS, and create associated fact sheets. Information on the webpage will be
+in plain language and available in most commonly spoken languages in the United
+States. Each DHS agency and office operating relevant programs will be expected to
+link to this webpage from its homepage.
+Expand avenues for disseminating information about how to file complaints and seek
+redress (e.g., stakeholder engagements, press releases, and roundtable or individual
+meetings between DHS officials and community members). These efforts should
+include outreach targeted to LEP persons, immigrant communities, and other
+underserved communities who may be disproportionately impacted by inequities in
+DHS programs and reluctant-potentially due to access barriers or fear of
+retaliation-to file a complaint with DHS.
+Review and consider options for improving System of Record Notices (SORNs)
+concerning redress requests or complaint investigations to ensure that any dissemination
+and retention of a complainant's personally identifiable information (PII) is limited to
+what is relevant to such request or investigation, as appropriate and consistent with the
+law.
+Create clear policies that insulate complainants from retaliation and make clear that
+retaliation will not be tolerated.
+C. Tracking Progress
+Create measurable progress goals that will enable the actions described above to be
+completed within two years.
+Conduct robust stakeholder engagement to evaluate whether barriers have been reduced
+or eliminated.
+Assess the degree to which relevant stakeholders report that members of underserved
+communities are aware of how to file a complaint and feel comfortable doing so
+without fear of retaliation. For example, assess whether detained noncitizens report that
+they understand how to file a complaint about the conditions of their detention and feel
+comfortable doing so without fear of retaliation.
+D. Accountability
+Promote accountability through stakeholder engagement and reporting to Congress.
+Hold regular meetings to share information about implementation of this action with
+stakeholders and receive input on the impact and effectiveness of DHS actions.
+Ensure that performance plans for executives responsible for complaint and redress
+mechanisms address these aims.
+Report progress on these efforts in CRCL's statutorily mandated yearly report to
+Congress.
+20
+VI. Airport Screening
+Airport security screening is the largest public-facing program for TSA. Notably, TSA's security
+screening was identified as one of the high-impact service programs delivered by the federal
+government under the OMB Circular A-11 guidance. Each day, TSA encounters and serves more
+than two million travelers in TSA's security screening process.
+Overarching action to advance equity:
+In furtherance of TSA's mission to equitably protect the nation's transportation systems and
+facilitate lawful travel, TSA will enhance and standardize training for its screening officers and
+improve screening technology capabilities.
+A. Barriers to Equitable Outcomes
+Members of the public, especially those from underserved communities, continue to
+report concerns regarding racial and ethnic profiling during the screening process at
+airport screening checkpoints. TSA has learned of these concerns in regular meetings
+with stakeholders through TSA's Disability and Multicultural Coalition and traveler
+complaints. Stakeholders have expressed, for example, that the items below are important
+areas of concern. TSA is urgently working to assess and address these claims.
+Limitations in current screening technology sometimes result in the need for
+additional screening for individuals wearing religious headwear or with certain
+hairstyles, and individuals with disabilities who are carrying medically necessary
+liquids.
+Stakeholders have reported that interactions with some Transportation Security
+Officers (TSOs) seem to reflect insufficient training in procedures for handling these
+situations in alignment with cultural competency best practices, including best
+practices for how to communicate the need for additional screening.
+Tribal Nations continue to report that their federally recognized tribal IDs are not
+consistently accepted by TSOs, and that TSOs may need to complete additional
+related training.
+LGBTQ+ persons and individuals with disabilities face challenges as a result of current
+screening-technology limitations and security-screening procedures. Currently, on-person
+screening technology is limited to the binary-gender construct, which may lead to
+additional-and sometimes more invasive-screening for transgender or gender-
+nonconforming individuals. Depending on the individual's needs, physical screening may
+be required due to capability limitations of existing screening technology; for example,
+individuals with disabilities who are unable to stand or walk, or otherwise unable to
+proceed through existing screening technology (e.g., due to internal or external medical
+devices on their person), are subject to more time-consuming and invasive physical
+screening (e.g., pat-downs).
+B. Action and Intended Impact on Barrier
+Enhance Officer Training
+TSA Gender Diversity Awareness training is provided to TSOs during their initial
+Basic Training Program and required annually thereafter. TSA will modify the
+training to reflect any changes to Standard Operating Procedures or updates to
+equipment functionality. TSA will continue to improve training based on trends,
+21
+questions, and issues identified by travelers and members of the screening workforce.
+TSA will include training around use of X as gender marker in passports and use of
+gender-neutral language in communications.
+In addition, Lead, Expert, and Supervisory TSOs, as well as Security Training
+Instructors, Training Managers, and Passenger Support Team members are required
+to complete an Introduction to Passenger Support Specialist training, which includes
+best practices for effective engagement and screening of travelers who may need
+assistance when going through airport screening (e.g., travelers with disabilities and
+medical conditions, travelers from diverse cultural backgrounds, etc.).
+TSA will develop additional scenario-based trainings for areas of concern for racial
+and religious minorities, LGBTQ+ persons, individuals with disabilities, and
+members of Tribal Nations. This training will cover nondiscriminatory screening
+principles, proper procedures for situations requiring additional screening, and how to
+recognize and process Tribal-identification documents.
+Update Machine Algorithms
+TSA has tested and collected data on a gender-neutral algorithm that increases the
+accuracy and efficiency of screening procedures. While implementing technological
+changes can take time, TSA is committed to deploying this technology as quickly as
+possible to increase security and improve the airport screening experience for
+transgender and gender-nonconforming passengers.
+TSA is working to develop technologies that will facilitate the screening of headwear
+and face coverings that travelers cannot remove in public for religious reasons.
+TSA has partnered with the DHS Science and Technology Directorate to explore new
+technologies for screening medical items, whether on-person or in accessible
+property.
+Sustain Engagement
+To enhance the airport screening experience, TSA continues to engage disability and
+multicultural advocacy and community-based organizations through the TSA
+Disability and Multicultural Coalition by:
+gathering firsthand accounts of diverse travelers' concerns;
+incorporating subject-matter expertise from the Coalition into related workforce
+training;
+facilitating organizational leadership discussions; and,
+ensuring equitable access to TSA programs among underserved communities.
+To promote transparency and help travelers understand what to expect during the
+screening process, all policy changes will be announced on TSA.gov, available
+through the TSA Contact Center, and shared with the TSA Disability and
+Multicultural Coalition.
+C. Tracking Progress
+Regularly track and monitor training compliance across the Agency to ensure
+requirements are met.
+Assess the degree to which stakeholders from the Disability and Multicultural Coalition
+and other minority groups indicate that barriers have been addressed (e.g., whether
+individuals who wear religious headwear report that they are experiencing a respectful
+and efficient screening process).
+22
+Review complaint volume-particularly from members of racial, ethnic, and religious
+minority groups, limited English proficient (LEP) persons, women of color, LGBTQ+
+persons, and travelers with disabilities and medical conditions-to determine whether
+traveler complaints submitted to TSA decline in response to the above actions.
+D. Accountability
+Promote accountability through management controls and stakeholder feedback.
+TSA's Management Control Objective Plan (MCOP) requires complaints to be
+resolved within specific timelines and calls for continuous engagement through the
+TSA Disability and Multicultural Coalition.
+Performance plans for several TSA leaders and staff include MCOP performance
+goals.
+TSA will communicate progress in implementing changes through the Disability and
+Multicultural Coalition and seek feedback on their effectiveness on at least a
+quarterly basis.
+Communicate progress to the public at large, including through TSA.gov and the TSA
+Contact Center.
+VII. Access to Trusted Traveler Programs
+DHS selected Trusted Traveler Programs (TTPs) for inclusion in the equity plan based on the
+large number of customers and potential customers, as well as the importance of the programs to
+the agency and members of the traveling public who benefit from reduced wait times and
+streamlined processing. Millions of travelers pass through U.S. airports of entry every day. Over
+10 million travelers are currently enrolled in TSA PreCheck®, and 9.6 million are enrolled in
+CBP's four TTPs. Many more are eligible to participate in these programs. DHS has identified
+several actions to improve equity in these programs, while continuing to ensure the safety and
+security of the traveling public.
+Overarching action to advance equity:
+To promote equity in these programs, DHS will undertake the following actions:
+TSA will continue to take steps to improve equitable access to the TSA PreCheck®
+Application Program writ large and especially for LGBTQ+ persons by expanding
+gender-identification options so they are no longer only binary, and for individuals with
+disabilities by ensuring that TSA PreCheck lanes at airports are consistently accessible.
+CBP will enhance access to its TTPs for LEP persons and address concerns about
+inequities in TTP membership revocations.
+A. Barriers to Equitable Outcomes
+TSA PreCheck®
+The current application process may cause confusion or limit access for some
+LGBTQ+ persons. Presently, the form allows for male (M) or female (F) gender
+options only. The gender indicated on the application must match the identification
+documents provided by the applicant, presenting a challenge for those travelers
+unable to obtain official documents consistent with their gender identity.
+Additionally, if an individual with TSA PreCheck® wishes to change their gender,
+they must submit supporting documentation that shows gender change.
+23
+TSA has received complaints regarding this policy from applicants who have
+transitioned genders or are non-binary. Similarly, TSA has received congressional
+inquiries about individuals who have non-binary values on their identity or citizenship
+documents and are unsure how to enroll in TSA PreCheck with legal identity or
+citizenship documentation that was not accepted by TSA and its enrollment provider.
+TSA considered removing the gender field on the PreCheck® application entirely.
+However, gender has been a key piece of biographic data used for vetting and
+continues to be required by numerous vetting systems on which TSA relies. See 49
+C.F.R. §§ 1572.9(a)(4) and 1572.17(a)(4). Historically, many of these vetting systems
+have not allowed for non-binary genders.
+TSA has received stakeholder concerns about the mental health-related questions in
+TSA application forms.
+TSA has also received complaints from stakeholders about the lack of accessible
+PreCheck® lanes at some airports, preventing PreCheck members who have
+disabilities from utilizing the streamlined screening procedures.
+CBP Trusted Traveler Programs
+CBP's online TTP application process, currently viewable in English, Spanish, and
+French, may present difficulties for LEP persons, especially those whose primary
+language is not Spanish or French. In addition, the website defaults to English, and
+navigating to Spanish or French may be difficult for some LEP persons.
+Based on comments received from the public, CBP is aware of ongoing concerns
+about inequities in the granting, denial, and revocation of Global Entry membership.
+More specifically, there are concerns that CBP has denied or revoked Global
+Entry membership based on race, national origin, and/or religion.
+As an example, community stakeholders point to the revocation of hundreds of
+Global Entry Memberships in 2017 after the implementation of EO 13780.
+Moreover, the public has expressed concerns about inequities in the Global Entry
+redress process, asserting that CBP does not provide meaningful information
+regarding the substantive reason for the denial or revocation.
+B. Action and Intended Impact on Barrier
+TSA
+In the near term, recognizing that gender verification is not needed for the PreCheck®
+security-screening process, TSA will allow for self-reporting/attestation of gender
+without the need for supporting medical documentation, even if gender differs on
+identity documents. Over the long term, the agency will update front-end and back-
+end systems to allow for selection of an additional gender marker that aligns with the
+Department of State's incorporation of "X" gender markers on U.S. passports. Due to
+the complexity of the technology systems involved, this process will take time. To
+carry out these efforts, TSA will:
+Notify all entities collecting applicant data (e.g., enrollment providers) that
+verification of gender is not required during enrollment and to allow applicants to
+self-report gender, even if the gender selected does not match the gender on the
+applicant's supporting documentation.
+Establish procedures consistent with this approach.
+Work with internal vetting systems to allow for inclusion of an additional gender
+option, if the vetting system does not already do so. This will be available on
+24
+enrollment forms and easily incorporated into the backend systems for routing to
+the applicable vetting programs.
+TSA cannot provide an exact timeline for beginning to offer a gender option
+for non-binary, intersex, and gender non-conforming persons, as this change
+affects numerous systems. TSA is aiming to introduce this change, however,
+by the first quarter of FY 2023.
+These actions reflect internal awareness that there is a population that is not being
+equitably served and the realization of a burdensome process for individuals wishing
+to change their gender. These actions will reduce the stress, cost, and time burden on
+applicants to provide supporting documentation for gender change and reduce TSA's
+case management workload. They will also allow for inclusion of an additional
+gender option for those who do not identify with a binary gender, without having
+a
+negative impact on vetting results or approval of TSA PreCheck® benefits.
+In addition, while TSA's Checkpoint Design Guide incorporates the U.S. Access
+Board's guidelines to ensure design of accessible checkpoints and checkpoint lanes,
+including the TSA PreCheck lanes, TSA continues to monitor stakeholder concerns
+and traveler complaints where, for purposes of traveler volume, local airport
+management may make adjustments to the checkpoints that create barriers for
+individuals with disabilities. When TSA is made aware of these circumstances, it
+engages with local airport leadership to take corrective actions in compliance with
+accessibility requirements.
+CBP
+CBP will take steps to improve language assistance services to help LEP persons with
+the TTP application process. Among those efforts, it will:
+Seek opportunities to expand language assistance services through multiple
+resources. Depending on the situation, these resources may include a contract
+provider for foreign language interpretation or the use of staff, such as bilingual
+personnel and CBP Officers who receive a proficiency rating pursuant to CBP
+Directive No. 51451-004B, Foreign Language Awards Programs. Additionally,
+where the relevant language assistance services are provided in Spanish, CBP
+Officers who receive Spanish language training during basic academy training
+may also be used.
+Issue Internal Operating Procedures to define responsibilities, policy, and
+procedures for OFO personnel to ensure reasonable steps to provide LEP persons
+meaningful access to CBP's operations, services, and other activities.
+Engage with LEP communities and other external stakeholders to assess
+effectiveness of language services.
+CBP will expand web content and issue mission-specific operating procedures to
+reduce and eventually eliminate barriers to effective communication during the TTP
+online application process; and,
+Promote greater transparency in the CBP Ombudsman review process for travelers
+whose TTP membership has been denied or revoked.
+CBP will continue to utilize a CBP Ombudsman Team to review reconsideration
+requests to determine whether to exercise discretion and allow denied/revoked
+TTP applicants/members who fall outside the strict standards of TTP eligibility to
+attain/retain membership despite a failure to meet the strict criteria. The
+reconsideration review process allows the applicant/member to directly address
+25
+their reason for denial or revocation by providing expanded details and
+explanations of why they should be allowed to participate in the program.
+CBP is unable to provide applicants information that is law enforcement sensitive
+or part of an ongoing investigation regarding applicants. To promote greater
+transparency, consistent with this limitation, CBP will update the response letter
+to advise applicants or members whose memberships are denied or revoked of the
+opportunity to submit additional documentation for further consideration by the
+Ombudsman, to include civil or criminal court documentation demonstrating
+resolution of otherwise disqualifying factors.
+C. Tracking Progress
+TSA
+In the near term, track feedback received from TSA Disability and Multicultural
+Coalition members, as well as customers (through complaints), regarding the extent
+to which the barriers have been addressed.
+Ensure that applicants can self-report gender with binary and non-binary options
+without the need for supporting documentation to match what is indicated on their
+identification documents. TSA is currently implementing this policy change.
+CBP
+Measure whether there is increased participation in TTPs and a reduction in
+complaints from members of the public regarding provision of language-assistance
+services.
+Assess whether there are increased membership applications and fewer complaints of
+discrimination from members of the public, particularly from members of racial or
+religious minority groups.
+Measure the effectiveness of language access initiatives.
+In FY 2021, CBP issued contracts for language-assistance services. CBP's Office
+of Field Operations (OFO) recently launched a communication plan to notify its
+workforce of the availability of the language-assistance services. To determine
+whether the agency's actions have eliminated or substantially reduced the
+communication barriers, the contract vendor will provide CBP with reports, which
+will allow CBP to determine the scope and continued need for language services.
+CBP will also add a survey, querying users of CBP.gov, for feedback on foreign
+language interpretation and translation needs of CBP.gov content.
+D. Accountability
+TSA
+Promote accountability through robust stakeholder engagement and communication
+with the public.
+Develop a defined communication plan to inform all impacted internal and
+external stakeholders of progress in implementing these changes.
+Provide information to the public to manage expectations and message updates
+through the agency website and communications (e.g., e-broadcasts,
+teleconferences, FAQs) with the TSA Disability and Multicultural Coalition.
+CBP
+Promote accountability through management controls and respond to customer
+concerns.
+26
+Ensure customer service remains embedded in the performance plans of the
+Director and Branch Chiefs for CBP's TTPs. This core competency defines
+performance standards associated with communication with customers to
+understand their needs and the provision of timely, flexible, and responsive
+services to customers.
+Provide a Traveler Communications Center that is available and responsive to the
+public and ensure applicants are able to submit any questions or concerns about
+CBP TTP applications and processing.
+Promote accountability through robust stakeholder engagement and communication
+with the public.
+Participate in CRCL Community Engagement Roundtables to provide information
+and publicize the TTP process to attendees.
+27
+Operational Status and Level of Institutional
+Resources Available to Offices with a Civil Rights
+Mission
+With current resources, DHS's civil rights offices are able to undertake efforts in furtherance of
+each of their mission areas. However, additional resources are necessary to carry out all mission
+areas fully and effectively. Safeguarding civil rights and civil liberties is fundamental to all the
+work we do at DHS, and we will continue to examine options for ensuring that all of DHS's
+dedicated civil rights offices have the resources they need to carry out and uphold this mission.
+28

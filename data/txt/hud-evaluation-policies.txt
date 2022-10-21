@@ -1,0 +1,596 @@
+U.S. GOVERNMENT
+INFORMATION
+GPO
+44738
+Federal Register/ 86, No. 154/Friday, August 13, 2021/ Notices
+Assess the extent to which access to
+disparities residing in communities
+Added questions to capture details
+health care was enhanced for
+targeted by funded interventions.
+on the intervention and the referrals to
+population groups and individuals
+Assess the process of adopting and
+the record management section
+vulnerable to behavioral health
+implementing the SPF with the target
+(completed by grantee staff).
+populations.
+TABLE 1-ESTIMATES OF ANNUALIZED HOUR BURDEN
+Number of
+Responses
+Total
+Hours per
+Total burden
+Type of respondent activity
+respondents
+per
+respondent
+responses
+response
+hours
+Quarterly Progress Report
+197
+4
+732
+4
+2,928
+Adult questionnaire
+10,000
+2
+20,000
+.20
+4,000
+Youth questionnaire
+2,500
+2
+5,000
+.20
+1000
+Total
+12,697
+25,732
+7,928
+Send comments to Carlos Graham,
+SUPPLEMENTARY INFORMATION:
+the expert panels and review the quality
+SAMHSA Reports Clearance Officer,
+of program evaluations.
+5600 Fishers Lane, Room 15E57-A,
+I. Background
+On December 6, 2016 (81 FR 87949),
+Rockville, Maryland 20857, OR email a
+Evaluation activity occurs in several
+HUD issued a policy statement in the
+copy to carlos.graham@samhsa.hhs.gov.
+offices at HUD, but the special mission
+Federal Register 2 responding to the
+Written comments should be received
+of HUD's Office of Policy Development
+GAO report by setting out the core
+by October 12, 2021.
+and Research (PD&R) is to inform HUD
+principles and practices of PD&R's
+policy development and
+evaluation and research activities. This
+Carlos Graham,
+implementation to improve life in
+statement incorporated some language
+Clearance Officer.
+American communities through
+from a policy statement by the Office of
+[FR Doc. 2021-17290 Filed 8-12-21; 8:45 am]
+conducting, supporting, and sharing
+Policy, Research, and Evaluation of the
+BILLING CODE 4162-20-P
+research, surveys, demonstrations,
+Administration for Children and
+program evaluations, and best practices.
+Families of the U.S. Department of
+Within HUD, PD&R is responsible for
+Health and Human Services.
+DEPARTMENT OF HOUSING AND
+most, but not all, program evaluations.
+On January 14, 2019, the Foundations
+URBAN DEVELOPMENT
+The office provides reliable and
+for Evidence-Based Policymaking Act of
+2018 ("Evidence Act"), Public Law 115-
+[Docket No. FR-6278-N-01]
+objective data and analysis to help
+inform policy decisions.
+435, was enacted. Section 101 of the
+Evidence Act created 5 U.S.C. 311-315
+HUD Program Evaluation Policy-
+In July 2016, GAO issued a report
+and mandated that the head of each
+Policy Statement
+entitled "Department of Housing and
+Urban Development: Actions Needed to
+agency appoint an Evaluation Officer,
+AGENCY: Office of Policy Development
+Incorporate Key Practices into
+including at HUD. This officer must
+and Research, HUD.
+establish common standards for all HUD
+Management Functions and Program
+ACTION: Notice.
+Oversight," (GAO 16-497) in which
+evaluations, whether performed by
+PD&R or another office. This issuance
+GAO presented a broad assessment of
+SUMMARY: This policy statement
+HUD's management of its operations
+articulates department-wide evaluation
+articulates the core principles and
+standards and states other new
+and programs. In the report, GAO
+practices of the Department of Housing
+examined HUD efforts to: (1) Meet
+principles based on PD&R's experience
+and Urban Development's evaluation
+Federal requirements and implement
+since the November 2016 publication.
+and research activities. This policy
+key practices for management functions,
+II. HUD Program Evaluation Policy
+reaffirms HUD's commitment to
+including performance planning and
+conducting rigorous, relevant
+Section 101 of the Evidence Act
+reporting and human capital, financial,
+evaluations and to using evidence from
+defines "evaluation" to mean "an
+acquisition, and information technology
+evaluations to inform policy and
+assessment using systematic data
+(IT) management; and (2) oversee and
+practice.
+collection and analysis of one or more
+evaluate programs.
+programs, policies, and organizations
+DATES: August 13, 2021.
+PD&R is the primary office within
+intended to assess their effectiveness
+FOR FURTHER INFORMATION CONTACT: For
+HUD responsible for data analysis,
+and efficiency."
+information about this notice, contact
+research, program evaluations, and
+HUD has identified the following core
+Todd M. Richardson, Evaluation Officer,
+policy studies that inform the
+principles and practices as fundamental
+Office of Policy Development and
+development and implementation of
+to ensuring high-quality and consistent
+Research, U.S. Department of Housing
+programs and policies across HUD
+evaluation results: Rigor, relevance,
+and Urban Development, 451 7th Street
+offices. PD&R undertakes program
+transparency, independence, ethics, and
+SW, Washington, DC 20410, telephone
+evaluations, often by using a process
+technical innovation. This policy
+(202) 402-5922. The listed telephone
+that includes convening expert panels.
+applies to all HUD-sponsored
+number is not a toll-free number.
+However, GAO found that PD&R had
+Persons with hearing- or speech-
+neither developed agency-wide, written
+2 https://www.federalregister.gov/d/2016-29215.
+impairments may access this number
+policies for its program evaluations, nor
+3
+https://www.congress.gov/115/plaws/publ43.
+through TTY by calling Federal Relay
+documented the criteria used to select
+LAW-115publ435.pdf. See also thewebsite, at
+https://www.congress.gov/bill/115th-congress
+Service at 1-800-877-8339 (this is a
+house-bill/4174, on the bill, H.R. 4174 of the 115th
+toll-free number).
+1 See http://www.gao.gov/assets/680/678551.pdf.
+Congress, that became the Act.
+Federal Register/ 86, No. 154/Friday, August 13, 2021 / Notices
+44739
+evaluations and regulatory impact
+feasible, HUD uses the most rigorous
+special attention to race, national origin,
+analyses; they also apply to the
+approach that is feasible.
+color, familial status, religion, disability,
+selection of projects, contractors, and
+In both quantitative and qualitative
+age, and sex (including gender identity
+HUD staff that are involved in
+research, rigor means having clear
+and sexual orientation).
+evaluations.
+research questions and an explicit
+To support this goal, insofar as
+analytic framework; justification for
+feasible, HUD collects and reports data
+Rigor
+case selection and sampling methods in
+on race, ethnicity, gender, and income,
+HUD is committed to using the most
+relation to research goals; and
+and other characteristics of
+rigorous methods that are appropriate to
+transparent, verifiable methods of
+underrepresented and underserved
+the evaluation questions and feasible
+systematic data collection and analysis,
+communities relevant for research and
+within budget and other constraints.
+auditable records, and attention to
+analysis efforts.
+The need for rigor is not restricted to
+possible alternative interpretations
+HUD also encourages research to
+impact evaluations; rigor is also
+during analysis and writing.
+engage studied populations.
+necessary in implementation or process
+HUD ensures that contractors and
+"Engagement" means the deliberate and
+evaluations, descriptive studies,
+grantees conducting evaluations have
+intentional inclusion of the thoughts
+outcome evaluations, and formative
+appropriate expertise through
+and perspectives of studied groups,
+evaluations; in both qualitative and
+emphasizing the requirement for rigor in
+such as program participants, grantees,
+quantitative approaches. Rigor requires
+requests for proposals and funding
+and underrepresented and underserved
+ensuring that inferences about cause
+opportunity announcements, noting that
+populations. This includes collecting
+and effect are well founded (internal
+applicants' capacity for rigor will be
+people's thoughts and perspectives
+validity); requires clarity about the
+evaluated in the selection process. In
+through standard (valid and rigorous)
+populations, settings, or circumstances
+addition, HUD will judge research teams
+research methods such as surveys, focus
+to which results can be generalized
+with equal capacity for rigor to be more
+groups, in-depth interviews, or
+(external validity); requires that
+qualified if the team includes
+ethnography to produce published
+researchers seek to understand and
+researchers demographically similar to
+research that conveys studied
+correct for implicit bias in the
+or knowledgeable about the perspectives
+populations' thoughts and perspectives.
+formulation of research questions and
+and lived experiences of the
+In another type of engagement, people
+methods; and requires the use of
+populations studied.
+influence the research that is about
+measures that accurately capture the
+HUD employs a strategic human
+them. This includes a wide range of
+intended information (measurement
+capital development plan to hire, train,
+activities that lie on a continuum from
+reliability and validity). Implicit biases
+and retain a workforce that ensures staff
+simple input (which should be
+are discriminatory biases that reflect
+have the tools and resources to
+documented and published) to full co-
+unidentified traces of past experience,
+accomplish the mission.
+creation of any aspect of the research,
+including implicit attitudes that affect
+Relevance
+from topic selection to research design,
+feelings, thoughts or actions, and
+data collection, data analysis,
+implicit stereotypes that affect how
+The HUD evaluation agenda reflects
+interpretation, writing, or
+others are characterized. Survey
+the legislative requirements and policy
+dissemination, or even being on the
+instruments are pre-tested with
+issues related to HUD's mission. HUD
+research team. An example of simple
+members of the population to be studied
+solicits input from stakeholders, both
+input is to include in the final report a
+to increase measurement validity. When
+internal and external, including
+summary of comments on the research
+statistically appropriate, and
+stakeholders with lived experience,
+by members of studied groups.
+particularly if the number of hypotheses
+such as program participants, and
+Examples of collaboration include, but
+being tested is large, HUD will require
+grantees, on the selection of programs to
+are not limited to, co-creating the list of
+the use of commonly accepted
+be evaluated, initiatives,
+topics to be covered in a survey or
+adjustments to classical statistical
+demonstrations, and research questions.
+having members of a studied group on
+testing to reduce the probability that
+For new initiatives and demonstrations
+the research team.
+random outliers are presented as
+in particular, evaluations will be more
+To raise awareness of and spur
+meaningful.
+feasible and useful when planned in
+creative approaches to engagement of
+In assessing the effects of programs or
+advance, in concert with the
+studied populations in program
+services, HUD evaluations use methods
+development of the initiative or
+evaluations and HUD-sponsored
+that isolate to the greatest extent
+demonstration, rather than as an
+research, HUD may require contractors
+possible the impacts of the programs or
+afterthought. HUD strives to understand
+and grantees to explain how their
+services from other influences, such as
+the relevance of its completed research
+research will and will not engage
+trends over time, geographic variation,
+through concerted stakeholder
+studied populations. HUD recognizes
+or pre-existing differences between
+engagement, including with people and
+that engagement must be tailored to
+participants and non-participants.
+grantees affected by HUD programs, to
+particular research efforts.
+Where feasible, research should employ
+continuously improve its research
+HUD retains the right to determine
+a treatment group and a counterfactual.
+agenda.
+research methods.
+A treatment group is a population that
+Expert panels include research and
+HUD disseminates findings in ways
+has received an intervention. A
+other subject matter experts and are
+that are accessible and useful to
+counterfactual is a population that did
+diverse in ways tailored to the study,
+policymakers, practitioners, and
+not receive the intervention and can
+including racial and ethnic diversity
+members of communities affected by
+credibly represent what would have
+and representatives of the studied
+HUD programs and policies. Published
+happened to the treatment group in the
+populations.
+findings will be accessible to
+absence of the intervention according to
+HUD strives to design program
+individuals with disabilities pursuant to
+the above standard for rigor. For such
+evaluations and other analyses to better
+Section 508 of the Rehabilitation Act.
+causal questions, experimental
+understand structural racism and to
+PD&R partners with other HUD program
+approaches are preferred. When
+reveal unequal benefits and harms
+offices to inform internal and external
+experimental approaches are not
+across social groups as relevant, with
+stakeholders through disseminating
+44740
+Federal Register/ 86, No. 154/Friday, August 13, 2021 / Notices
+evidence from HUD-sponsored
+HUD evaluation contracts will
+Technical Innovation
+evaluations.
+generally permit contractors to publish
+their findings within 6 months of the
+PD&R supports and employs new
+Transparency
+termination of the contract if HUD has
+methods of data collection and analysis
+HUD will release methodologically
+not already published them.
+that more reliably and efficiently answer
+valid evaluations without regard to the
+research questions than old methods do.
+findings. Evaluation reports must
+Independence
+describe the methods used, including
+Independence and objectivity are core
+Application of These Principles to
+strengths and weaknesses, and discuss
+principles of evaluation. Agency and
+Economic Analysis of Regulations
+the generalizability of the findings.
+program leadership, program staff,
+Economic analysis of both existing
+Evaluation reports must present
+service providers, and others participate
+and proposed regulations, properly
+comprehensive results, including
+actively in setting evaluation priorities,
+conducted, is a critical tool in
+favorable, unfavorable, and null
+identifying evaluation questions, and
+findings. HUD will publish interim
+assessing the implications of findings.
+improving public policy. Economists at
+findings, as projected in the initial
+However, it is important to insulate
+HUD rely on the insights, data, and
+research design. If there are indications
+evaluation functions from undue
+empirical estimates from rigorous
+that the findings of the final report may
+influence and from both the appearance
+program evaluations when predicting
+differ, HUD will provide appropriate
+and the reality of bias. To promote
+the economic impact of an incremental
+qualifications accompanying the
+objectivity, HUD protects independence
+change to the program. In any HUD
+publication to guard against
+in the design, conduct, and analysis of
+Regulatory Impact Analysis:
+misunderstanding or misuse of the
+evaluations. To this end:
+HUD analyzes whether the issues
+interim findings. If there are interim
+HUD conducts evaluations through
+addressed by the regulation stem from a
+findings, HUD will publish those
+the competitive award of grants and
+market failure, government failure, or
+findings even if there are indications
+contracts to external experts who are
+other systemic problem, and whether
+that the findings of the final report may
+free from conflicts of interest.
+the regulation addresses the root causes
+differ. When findings are highly
+HUD also conducts evaluations in-
+of those problems.
+relevant to current policy, HUD
+house and supports unsolicited external
+evaluations carry a foreword articulating
+evaluation proposals with funding, data,
+HUD uses and as necessary
+the policy position of the Department
+or both.
+produces the best objective estimates of
+with respect to those findings.
+The Evaluation Officer will consult
+the benefits, costs, and transfers
+If the findings of a HUD evaluation
+with the HUD office with lead
+resulting from the regulation, taking into
+will have broad public interest and
+responsibility on the design of
+account gaps and uncertainties in the
+includes a counterfactual, PD&R will
+evaluation projects and analysis plans
+available data and methodologies.
+publish a synopsis of the research
+and will advise that office on whether
+HUD assesses the economic
+design, data collection and analysis plan
+to publish evaluation reports.
+benefits, costs, and transfers of proposed
+soon after it is approved and will
+Ethics
+regulatory actions as required by
+require interim and final reports that
+deviate from that document to explain
+HUD-sponsored evaluations must be
+Executive Order 12866.7 HUD provides
+conducted in an ethical manner and
+additional analysis of impacts across
+how they deviate and why.
+HUD publishes a 5-year Learning
+safeguard the dignity, rights, safety, and
+groups defined by race, ethnicity, and
+Agenda 4 that outlines the research and
+privacy of participants. HUD-sponsored
+other characteristics that may define
+evaluation that it believes would be of
+evaluations must comply with both the
+underrepresented and underserved
+spirit and the letter of relevant
+groups when such analyses are relevant
+greatest value to public policy. PD&R
+requirements such as regulations
+and feasible.
+lists all ongoing evaluation projects at
+the HUDUSER.gov website 5 and
+governing research involving human
+Where clear alternatives to the
+updates it quarterly. PD&R will release
+subjects. In particular, PD&R protects
+regulatory actions exist, HUD
+evaluation results timely, usually within
+the privacy of HUD-assisted households
+objectively estimates the benefits, costs,
+4 months of receiving the final report.
+and HUD-insured borrowers through its
+and transfers of those alternatives, and
+HUD will, where possible, archive
+Rule of Eleven; that is, PD&R allows no
+additional analysis of impacts of those
+administrative and evaluation data for
+disclosure of information about the
+alternatives across underrepresented or
+secondary use by interested researchers.
+characteristics of any group of
+underserved groups as well.
+HUD typically builds requirements into
+individuals or households numbering
+contracts to prepare data sets for
+fewer than eleven by PD&R staff,
+Todd M. Richardson,
+secondary use. Access for external
+contractors, grantees, or licensees.
+Evaluation Officer.
+researchers may be provided directly
+HUD is a signatory to the Federal
+[FR Doc. 2021-17339 Filed 8-12-21; 8:45 am]
+through data licenses or indirectly
+Policy for the Protection of Human
+BILLING CODE 4210-67-P
+through inter-agency agreements. This
+Subjects, generally known as the
+policy may not apply for data that has
+"Common Rule." 24 CFR part 60, which
+obvious commercial value, such as
+includes its own requirements for
+mortgage performance data. HUD staff
+ensuring adequate provisions to protect
+may publish the results of their
+the privacy of human subjects research. 6
+scholarship and analysis in any forum,
+HUD does not tolerate plagiarism, or
+so long as they do not claim to speak for
+fabrication or deliberate
+the Department.
+mischaracterization of data by staff,
+7 See https://www.archives.gov/files/federal-
+contractors or grantees who are engaged
+register/executive-orders/pdf/12866.pdf for the
+https://www.huduser.gov/portal/about/pdr
+in evaluation activity.
+original order, and see https://www.archives.gov/
+learningagenda.html.
+federal-register/executive-orders/1993-clinton.ht
+5
+https://www.huduser.gov/portal/about/PDR-
+6
+https://www.ecfr.gov/cgi-bin/
+for citations of, and links to, other executive orders
+Research.html.
+retrieveECFR?n=pt24.1.60.
+that amended or supplemented this order.

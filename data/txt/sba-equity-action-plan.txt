@@ -1,0 +1,535 @@
+Equity Action Plan
+SBA
+U.S. Small Business
+Administration
+Executive Summary
+The U.S. Small Business Administration (SBA) helps entrepreneurs start, build, grow, and, if
+needed, recover their businesses. Created in 1953, SBA is the only cabinet-level federal agency
+fully dedicated to small business owners and entrepreneurs in their pursuit of the American
+dream.1 Since its founding, SBA has delivered millions of loans, loan guarantees, contracts,
+counseling sessions, and other forms of assistance to small businesses.
+Each year, SBA serves thousands of small businesses across the country. Many of these
+businesses are owned by entrepreneurs who identify with communities that have been
+traditionally underserved. These underserved communities include the following:
+Persons who/who are
+Asian American
+Black and African American
+Hispanic and Latino
+Middle Eastern
+North African
+Other Persons of Color
+Alaska Native
+Native American
+Native Hawaiian
+Pacific Islander
+Tribal Communities
+Have Disabilities
+Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+)
+Of Religious Minorities
+Live in Rural or underserved Urban areas
+Veterans, Military Servicemembers, and Spouses
+Women
+Are otherwise adversely affected by persistent poverty or systemic inequality
+1
+About SBA https://www.sba.gov/about-sba (Pulled Jan 2022)
+Page 1 of 17
+SBA offers support for each stage of the entrepreneurship journey through products and
+services. Entrepreneurs of underserved communities can experience barriers to accessing
+those resources. This Equity Action Plan, in conjunction with Executive Order (EO) 13985
+("Advancing Racial Equity and Support for Underserved Communities Through the Federal
+Government"), outlines how SBA will reduce barriers and improve access to the following
+resources:
+Capital Access
+Disaster Assistance
+Federal Government Procurement
+Business Counseling, Training, and
+and Contracting Opportunities
+Services
+The plan also highlights SBA's commitment to advancing civil rights including leadership
+from the agency's Office of Diversity Inclusion and Civil Rights.
+Lastly, an essential component to the Equity Action Plan is for SBA to improve its quantitative
+and qualitative data gathering to help inform ongoing analysis. SBA is committed to a
+process that includes working with OMB to identify the most efficient and effective ways to
+acquire needed information, without incurring unnecessary costs or creating additional
+burden, potential for disclosure, or trust issues for underserved communities.
+Summary of Early Accomplishments
+During the past year, SBA was successful in reducing barriers and improving access to SBA
+resources for underserved communities. Between January 20, 2021, to January 20, 2022:
+SBA funded small businesses across key demographic groups, including: rural Americans
+($58 billion+), Black and African Americans ($17 billion+), Hispanics and Latinos ($15 billion+),
+Native Americans ($699 million+), and Asian American, Native Hawaiian and Pacific Islanders
+($23 billion+). SBA also distributed $15.2 billion in critical Restaurant Revitalization Fund
+(RRF) relief aid to women-owned ($7.5 billion), veteran-owned ($1 billion), and socially and
+economically disadvantaged-owned ($6.7 billion) small businesses. In low-income
+communities, over 500,000 small businesses received a lifeline of up to $15,000 in relief
+grants through the COVID Economic Injury Disaster Loan (EIDL) Targeted and Supplemental
+Advance programs, while 22 percent of Paycheck Protection Program (PPP) loans went to
+those in rural areas.
+Along with the federal Interagency Policy Committee (IPC) on Executive Order 13985, SBA
+worked with agencies to raise the governmentwide goal for spending with Small
+Disadvantaged Businesses to 11%, from 5%. Further, SBA and the IPC finalized reforms-
+issued by OMB in December-to help grow the small-business industrial base. These reforms
+include tailoring OMB's Category Management program to serve disadvantaged businesses,
+adding SBA to the governmentwide Category Management Leadership Council, and adding
+Page 2 of 17
+new entrants to government contracting. SBA also issued a proposed rule in the Federal
+Register that, when finalized, will open up possibilities for new and nontraditional small
+business contractors to compete for contract opportunities. The rule would allow
+contractors without direct experience in government contracting to count experience gained
+through participating as a joint venture member or first-tier subcontractor. This addresses a
+common complaint from small businesses, that they cannot get their first contract until they
+have their first contract. For the first time, the SBA released disaggregated data across
+industries and sectors by race and ethnicity and helped deliver contracting reforms that will
+require federal agencies to track and publicly report how they are bringing in new
+contractors, develop diversification strategies, and open doors for more socio-economic,
+underserved firms to sell their goods and services to the Federal marketplace.
+Additionally, SBA has allocated nearly 30 percent of its Small Business Development
+Center Program funding to Minority Serving Institutions to host Small Business
+Development Centers. This action will lead to over 280 small business development centers
+increasing their access to and impact within underserved communities. SBA also supported
+the implementation of three Women's Business Centers (WBCs) on the campuses of
+Historically Black Colleges and Universities and elevated the issue of women's
+entrepreneurship through public engagement. Of the 24 new WBCs announced in March
+2021, 60 percent were in rural communities. And, most recently, SBA reconvened the
+Council on Underserved Communities under the authority of the Federal Advisory Committee
+Act (FACA). The restoration of the Council will help support the SBA's prioritization of
+equity across its programs and initiatives. The Council consists of 20 diverse stakeholders
+from every region of the country tasked with advising the SBA on strengthening and
+improving its strategies to help underserved communities.
+Page 3 of 17
+SBA Equity Action #1
+Improve Access to Capital
+A. Barrier to Equitable Outcome(s)
+There is a gap in access to capital among small business owners that represent the
+following characteristics²:
+Annual revenue of <$100K
+Sole proprietors
+Seeking loans of <$150K,
+Low profit industries such as
+especially $10K
+childcare
+This gap contributes to racial inequities, as small business owners with these
+characteristics are more likely to be from underserved communities than adequately
+served communities. Another contributor to the capital gap is the high prevalence of
+credit invisible and credit unscorable U.S. adults. Like the small business capital gap,
+underserved small business owners are more likely to have thin consumer and
+business credit files than other communities due to lack of banking and/or debt history. 3
+Community Financial Institutions (CFIs), including Community Development
+Financial Institutions (CDFIs), are private financial institutions that deliver responsible,
+affordable finance to help people and communities underserved by mainstream finance.
+CFIs, however, can be limited in their capacity due to a number of factors including their
+capital structure, challenges associated with hiring and retaining highly skilled lending
+officers, and the high cost of servicing smaller dollar loans to small business owners with
+non-traditional profiles. Additionally, they can lack the resources to invest in the
+infrastructure needed to achieve greater efficiencies and the marketing to attract more
+borrowers. This results in CFIs being limited in their connection to at-need borrowers and
+capacity to generate significantly higher volume.
+SBA programs LenderMatch and the Community Advantage Pilot do not optimize the
+marketplace to match CFIs and underserved borrowers, currently. LenderMatch is an
+online platform matching potential borrowers to potential lenders offering SBA-backed
+funding and is being marketed to CFIs to reach underserved borrowers. Community
+Advantage is a loan program designed to meet the credit and technical assistance needs
+of small businesses in underserved markets.
+2
+$100K revenue Small businesses: >50% Black, 30% Hispanic, 18% Asian, 13% white
+1-4 employee businesses: 76% Black, 69% Hispanic, 60% Asian, 52% white
+For non-employer firms, 42% women-owned vs. employer firms 21% women-owned
+(Source: Federal Reserve Small Business Credit Survey - 2021
+3
+~20% of US adults are credit invisible or unscorable due to thin or stale files, with nearly 30% of Black and
+Hispanic adults falling into this category (Source: Consumer Financial Protection Bureau)
+<50% Hispanic borrowers and 33% of Black borrowers were deemed to have a low credit risk for firms vs. 72% of
+white borrowers (Source: Federal Reserve Small Business Credit Survey - 2021)
+~ 40% of households without a high school diploma used bank credit vs. ~90% of those with college degrees.
+(Source: Federal Deposit Insurance Corporation)
+Page 4 of 17
+B. Actions and Intended Impact on Barrier
+Building on LenderMatch and Community Advantage, SBA will invest in additional
+technology to optimize the marketplace to match underserved borrowers and CFIs,
+including CDFIs. For borrowers, application requirements will be simplified, data will
+integrate automatically, and a high-quality customer service support system will be
+available. It will also be mobile-friendly. By delivering the platform in a user-friendly
+manner, borrowers can simply and seamlessly complete the process to connect to
+mission-based lenders. For CFIs, the platform's automatic integration of data sources
+will make it possible to easily evaluate credit score alternatives. Matched CFIs will be
+provided with this analysis.
+SBA will also 1) invest in the marketing of the platform so all CFIs users can benefit from
+this gain and more historically underserved borrowers can learn about this platform's
+availability, and 2) complete the CFI-borrower matching process in a way that generates a
+proposal, making the borrower assessment and underwriting process easier.
+By prioritizing these actions, underserved communities will have a more focused
+resource that meets them where they are today, making the marketplace and capital
+more accessible. Lenders that are servicing underserved communities will be able to
+better fill the gaps to access to capital and expand their impact.
+SBA expects that by connecting more underserved small business owners to CFIs the
+small business capital gap for underserved borrowers will decrease. The number of
+underserved small business owners that lack banking and/or debt history will decrease,
+also. The platform will increase the operational capacity for CFIs. Increasing CFI access
+and use of SBA's integrated platform will result in more loans to underserved
+entrepreneurs, with more small businesses having the opportunity and support to
+start and grow.
+C. Tracking Progress
+Factors to determine progress/success 2-4 years out:
+Number of underserved borrowers and CFIs participating on the platform
+increases year over year.
+Number of customer survey results indicating a positive experience is prevalent.
+Factors to determine progress/success 5-8 years out:
+Number of small business loans being generated that can reduce the small
+business capital gap for underserved communities increases.
+D. Accountability
+SBA's Office of Capital Access (OCA) will align these actions with the Agency's Strategic
+Plan and build upon already embedded equity-related goals in the office's performance
+plan. OCA and the Agency will continue to report to senior leadership, members of
+Congress, and the White House at regular intervals to ensure that all OCA programs and
+Page 5 of 17
+services are meeting the intended goals. With a focus on transparency and customer
+engagement, updates will be provided to the public on an ongoing basis and customer
+feedback will be obtained consistently.
+Page 6 of 17
+SBA Equity Actions #2 and #3
+Improve Access to Federal Government Procurement
+and Contracting Opportunities
+Actions #2 and #3 both support improving access to Federal Government procurement and
+contracting opportunities. Action #2 focuses on SBA's authority for setting goals for federal
+agencies. Action #3 focuses on SBA's role as an administrator of programs for small
+businesses.
+A. Barrier to Equitable Outcome(s)
+The U.S. Federal Government is the largest purchaser of goods and services in the
+world. Federal Government purchases can have a substantial impact on the success of
+small businesses, especially firms owned by members of underserved communities.4 To
+assist small businesses that are at least 51 percent owned by one or more individuals who
+are both socially and economically disadvantaged, and competing for procurement and
+contracting opportunities, a self-certification as a Small Disadvantage Business (SDB)
+is available.
+In FY 2020, SDBs represented 25 percent of all businesses participating in government
+contracting, but SDBs received only roughly 10 percent of total federal procurement
+dollars.5 Increased SDB spending would prepare the contracting base for the next set
+of 21st-century challenges, from climate change to public health, and decrease wealth
+disparities.6
+Narrowing the spending gap requires not just spending more with existing contractors,
+but also expanding the opportunities available for new and less-established
+disadvantaged businesses. As a whole, the government has only recently recognized that
+consolidated buying practices-a emphasized over the past half-decade-can squeeze
+out smaller vendors, including some SDBs and socioeconomic businesses. Balancing
+those buying practices with socioeconomic goals requires a renewed focus on
+recruiting and retaining SDBs, and OMB recognized that as a necessary effort in
+Memorandum M-22-03.
+B. Actions and Intended Impact on Barrier
+4 The Benefits of Increased Equity in Federal Contracting
+The White House
+ ttps://www.whitehouse.gov/cea/written-materials/2021/12/01/the-benefits-of-increased-equity-in-federal-
+contracting/(Pulled Jan 2022)
+5
+FACT SHEET: Biden-Harris Administration Announces Reforms to Increase Equity and Level the Playing Field for
+Underserved Small Business Owners The White House https://www.whitehouse.gov/briefing-room/statements-
+releases/2021/12/02/fact-sheet-biden-harris-administration-announces-reforms-to-increase-equity-and-level-the-
+laying-field-for-underserved-small-business-owners/(Pulled Jan 2022)
+6
+FACT SHEET, The White House (Pulled Jan 2022)
+Page 7 of 17
+#2 Increase Government Spending on Small Disadvantaged Businesses
+SBA negotiates contracting goals with all 24 Chief Financial Officers Act7 agencies and will
+use this authority to drive more federal dollars to disadvantaged business owners.
+The SBA Administrator will assign ambitious but attainable goals to each agency that
+represent an improvement over the agency's historical SDB spending. To reach those
+goals, agencies-with help from SBA-will need to take concerted efforts to lower barriers
+to entry and incentivize their workforces to attract more SDB contractors.
+For fiscal year (FY) 2022, the government-wide SDB contracting goal has been
+increased to 11 percent, working toward the goal of 15 percent in FY 2025. Each
+agency will receive an increased SDB prime contracting goal based on the agency's past
+performance in contracting with SDBs. To determine the goals, SBA reviewed each
+agency's SDB contracting levels over the past decade, focusing primarily on the past three
+years. SBA then followed the guidance from OMB Memorandum M-22-03 that FY22 goals
+"shall demonstrate improvement at each agency.' SBA proposed initial goals to each
+agency and negotiated with agencies on an individual basis to arrive at a final level. The
+final goals aggregate to 11% governmentwide for FY22.
+Under the authority granted in OMB Memorandum M-22-03, SBA will use its new voting
+capacity on the Category Management Leadership Council to advocate for small
+businesses, and SBA will promote to qualified small businesses their new enhanced status
+under recent Category Management reforms.
+#3 Increase Small Disadvantaged Business Participation
+SBA and other agencies will need to reach new businesses. SBA will enroll more
+disadvantaged small businesses into SBA's business development and contracting
+programs (e.g., the 8(a) Business Development program, HUBZone program,
+Economically Disadvantaged Women-Owned Small Business (EDWOSB) certification) and
+strengthen those businesses' capabilities to compete and perform contracts.
+To encourage development of 8(a) applicants and current participants, the Agency will
+take several steps. For potential applicants, SBA will maximize application education
+and assistance by offering quarterly trainings to educate firms on 8(a) program eligibility
+and the application process. These trainings will aim to improve the quality of application
+submissions and, thereby, lead to more approved firms into the program. For certified
+8(a) Program participants, concentrated training is planned for the developmental years
+one through four, and the transition years five through nine of the program's term. This
+support will position the firms for successful growth. SBA will also open to the public a
+monthly conference call to further enhance its customer service.
+72.4 Chief Financial Officers Act (1990) | CIO.GOV https://www.cio.gov/handbook/it-laws/cfo-act/(Pulled Jan
+2022)
+Page 8 of 17
+Overall, SBA will examine areas of the 8(a) application requirements to reduce the
+administrative burden for small businesses. The Agency will also conduct an equity
+impact assessment to determine how its benefits apply to different groups of participants
+in the program.
+SBA will continue to work with Office of Federal Procurement Policy (OFPP) to
+construct measures and goals to determine whether contracting is welcoming small
+businesses, encouraging innovation and dynamism, and furthering Administration
+priorities of equity and inclusion.
+By prioritizing these actions, SBA and other federal agencies will reopen the door for
+small businesses and small disadvantaged business to enter the federal marketplace.
+This will result in a more diverse supply chain, greater competition in contracting, better
+results for agencies, and equity for underserved communities.
+SBA expects that governmentwide spending with SDBs will reach 15% in FY25, which will
+be a 50% increase over current levels. This will translate to tens of billions of dollars more
+to disadvantaged business owners. Because of this increase in contracting opportunities,
+SBA also expects the number of disadvantaged small business owners participating in
+business development and government contracting programs, as well as actual
+government contracting, to increase. Ultimately, these efforts will expand the economic
+benefits of federal spending to underserved communities, provide opportunities to
+reduce wealth inequality, and improve the overall economy.
+C. Tracking Progress
+Factors to determine progress/success 2-4 years out:
+Dollars spent on SDBs by Federal Government agencies increases.
+Number of Federal Government procurement and contracting opportunities
+available for small business increases.
+SBA will develop an indicator to track the number of opportunities.
+Number of SDBs participating in Federal Government procurement and
+contracting increases.
+Along with the OFPP, SBA will continue to track the number of vendors in
+the federal marketplace. Under the guidance in OMB's M-22-03, SBA will
+begin to measure the number of new entrants each year into the Federal
+marketplace.
+SBA will track the number of firms that are certified into SBA's contracting
+and business development programs.
+Factors to determine progress/success 5-8 years out:
+Economic benefits, such as building wealth, increases for underserved businesses
+and communities.
+D. Accountability
+Page 9 of 17
+Action #2: SBA will measure other agencies' progress - and the Federal Government
+as a whole - on the SBA Scorecard, the flagship data product for the agency. The
+governmentwide SDB goal will have specific milestones on the way to 15% in FY25, and
+the SBA Scorecard will reflect those milestones. Agency buying officials and senior
+leadership will have scorecard achievements in their performance plans, and SBA will
+ensure that small-business advocates within each agency have access to the highest level
+of decisionmakers in the agency. Traditionally, each agency, including SBA, amplifies the
+annual results of the SBA Scorecard through various public communication channels.
+SBA will publish annual disaggregated data on each agency's performance contracting
+with small businesses grouped by race/ethnicity.
+Action #3: SBA's Office of Government Contracting and Business Development
+(GCBD) will align the above actions with the SBA's Strategic Plan and build upon
+already embedded equity-related goals in the office's performance plan. GCBD and the
+Agency will continue to report to senior leadership, members of Congress, and the White
+House at regular intervals to ensure that all GCBD programs and services are meeting the
+intended goals. With a focus on transparency and customer engagement, updates will be
+provided to the public on an ongoing basis (i.e., making the vendor and new entrant
+information available publicly) and customer feedback will be obtained consistently.
+Page 10 of 17
+SBA Equity Action #4
+Improve Access to Disaster Assistance
+A. Barrier to Equitable Outcome(s)
+SBA provides low-interest disaster loans directly to survivors to help them recover from
+declared disasters. Borrowers are not just small business owners. Other business
+owners, private nonprofits, homeowners, and renters can also qualify for a disaster
+loan. The lending criteria for disaster loans (credit/cashflow/income to debt ratio),
+although less stringent than private lenders, can make it more difficult for disaster
+survivors of underserved communities (compared to adequately served communities)
+to actively participate in the disaster assistance programs due to financial disparities.8
+SBA disaster loan applicants who do not meet underwriting criteria fail to obtain disaster
+loans. SBA does not regularly have resources in position to assist applicants who are
+declined a loan and who need financial counseling.
+B. Actions and Intended Impact on Barrier
+SBA will work with its field and program offices to develop a systematic and formal
+process with SBA Resource Partners (i.e., Small Business Development Centers (SBDCs),
+SCORE, Women's Business Centers (WBCs), Veterans Business Outreach Centers (VBOCs))
+to assist businesses with application completion, reconsiderations, credit repair, and
+managerial and technical services. These partnerships foster direct engagements with
+disaster survivors and will help them to obtain financial and credit counseling services
+such as how to prepare income statements and balance sheets; how to manage debt to
+improve credit scores; and, how to apply for disaster loans. These actions will increase
+the likelihood of disaster survivors receiving recovery funds from SBA. The SBA will also
+identify and develop formal and informal relationships with financial institutions and
+local community support groups to arrange for additional assistance.
+This process will be nested throughout SBA's loan processing procedures from
+application intake to application decline and will be standardized across the entire
+enterprise to meet the disaster survivor's unmet needs. To continue to improve upon this
+process, SBA will conduct targeted outreach and "listening sessions" to get feedback
+from new and existing stakeholders.
+8
+20% of US adults are credit invisible or unscorable due to thin or stale files, with nearly 30% of Black and
+Hispanic falling into this category (Source: Consumer Financial Protection Bureau)
+<50% Hispanic borrowers and 33% of Black borrowers were deemed to have a low credit risk for firms vs. 72% of
+white borrowers (Source: Federal Reserve Small Business Credit Survey - 2021)
+~ 40% of households without a high school diploma used bank credit vs. ~90% of those with college degrees.
+(Source: Federal Deposit Insurance Corporation)
+Page 11 of 17
+By prioritizing these actions, SBA will be able to provide a positive customer experience
+that will extend beyond a negative loan decision. With this continued engagement, SBA
+will become more aware of the needs of disaster survivors, particularly survivors from
+underserved communities. In turn, SBA will be able to deliver improved and more
+equitable service.
+SBA expects that by connecting disaster survivors of underserved communities to
+financial counseling and additional resources, more of these survivors will meet the
+disaster loan underwriting criteria. Also, new partners will become part of the SBA
+network permanently and will facilitate even more connections with underserved
+communities. With access to financial and other assistance, disaster survivors of
+underserved communities can more quickly transition from an emergency situation
+to a long-term, productive, and economically viable recovery phase.
+C. Tracking Progress
+Factors to determine progress/success 2-4 years out:
+Number of underserved disaster survivors utilizing SBA-referred financial
+counseling increases.
+Number of underserved disaster survivors utilizing SBA products and services
+increases.
+Number of organizations partnering with SBA to assist underserved disaster
+survivors increases.
+Factors to determine progress/success 5-8 years out:
+Number of underserved disaster survivors who are initially declined a disaster loan
+due to not meeting underwriting criteria but are later able to remedy issues after
+receiving SBA-referred financial counseling and successfully reapply increases.
+D. Accountability
+SBA's Office of Disaster Assistance (ODA) will align these actions with the Agency's
+Strategic Plan and build upon already embedded equity-related goals in the office's
+performance plan. ODA and the Agency will continue to report to senior leadership,
+members of Congress, and the White House at regular intervals to ensure that all ODA
+programs and services are meeting the intended goals. With a focus on transparency and
+customer engagement, updates will be provided to the public on an ongoing basis and
+customer feedback will be obtained consistently.
+Page 12 of 17
+SBA Equity Action #5
+Improve Access to Business Counseling, Training, and
+Services
+A. Barrier to Equitable Outcome(s)
+At the forefront of all SBA programs is outreach - connecting entrepreneurs to
+information on how to start, grow, manage, and recover their businesses. Often this
+information is provided through business counseling, training, and services. At times,
+however, communication and information gaps can prevent SBA clients and potential
+clients from receiving information on the benefits of SBA products and services. 9
+For entrepreneurs of underserved communities, communication and information gaps
+can be more critical. Underserved business survival rates are below the national average
+with only about two-thirds of businesses surviving to at least 4-5 years old. 10 This makes
+the window of opportunity shorter for providing relevant, accurate, and timely
+information that could increase how long a business survives.
+B. Actions and Intended Impact on Barrier
+To strengthen the lines of communication with underserved communities, an all-
+hands approach is needed. All SBA offices are investigating new approaches for reaching
+clients. The following are some examples of the latest actions SBA is implementing:
+Office of Entrepreneurial Development - Launching the Community Navigator
+Pilot Program, as established in the American Rescue Plan Act of 2021. The
+program aims to strengthen and expand outreach to underserved businesses by
+partnering with organizations with deep roots in their communities.
+Office of Entrepreneurial Development & Office of Small Business Development
+Centers - Requiring Small Business Development Centers to enhance collaboration
+with Minority Serving Institutions. This includes onboarding new SBDC service
+centers that best support historically underserved communities.
+Office of Disaster Assistance - Securing on-demand translation services to meet
+the immediate needs of disaster survivors with limited English proficiency
+(translators, document translation, etc.) and hiring local staff within the impacted
+community to facilitate understanding of the disaster loan process.
+9
+20.7% of the more than 7.9 million small establishments (<500 employees) are in counties without any type of
+SBA service center. (Source: U.S. Census County Business Patterns; SBA calculations)
+10 The 2016-2018 national, two-year survival rate for young employer establishments (2-3-year-old firms surviving
+to at least 4-5 years old) was 71 percent. The survival rates for women (67 percent), Black (65 percent), Hispanic
+(64 percent) and Asian (70 percent) led firms were below the national rate. Veteran-owned businesses (63
+percent) were also below the national rate. (Source: BED, BDS; Office of Advocacy calculations)
+Page 13 of 17
+Office of Women's Business Ownership - Requiring Women's Business Centers that
+have Historically Black Colleges and Universities (HBCUs) in their coverage
+areas to partner and host at least one community-focused training event, actively
+recruit program participants, and use HBCU faculty as subject matter experts.
+Office of Veterans Business Development - Conducting training events in
+partnership with veterans of specific underserved communities throughout the
+year and during the annual National Veteran Small Business Week. Marketing
+efforts, including monthly outreach kits, will be aligned with the new events.
+Office of Field Operations & Office of Rural Affairs - Creating a collection of best
+practices on how SBA field and program offices can reach clients that do not have
+sufficient access to broadband services.
+Multiple offices will be organizing listening sessions with underserved
+communities to identify community-specific outreach techniques and determine
+how SBA and the communities can collaborate.
+By prioritizing these actions, SBA will develop a more comprehensive and inclusive
+outreach strategy. SBA will be able to communicate more efficiently and effectively with
+entrepreneurs of underserved communities and provide the support that may help their
+businesses survive.
+SBA expects that by connecting more underserved community entrepreneurs to
+resources and connecting them earlier in the lifespan of their businesses, the survival rate
+of the businesses will increase. Also, new partners will become part of the SBA network
+permanently and will facilitate even more connections with underserved communities.
+As more businesses keep their doors open and the entrepreneurial ecosystem
+becomes more robust, the nation's economy will thrive. 11
+C. Tracking Progress
+Factors to determine progress/success 2-4 years out:
+Number of underserved entrepreneurs utilizing SBA resources increases.
+Number of organizations partnering with SBA increases.
+Factors to determine progress/success 5-8 years out:
+Two-year survival rate for new businesses of underserved entrepreneurs increases.
+D. Accountability
+SBA program offices will align these actions with the Agency's Strategic Plan and build
+upon already embedded equity-related goals in performance plans. SBA will continue to
+report to senior leadership, members of Congress, and the White House at regular
+intervals to ensure that all SBA programs and services are meeting the intended goals.
+11 Frequently Asked Questions About Small Business, 2021 (sba.gov) https://cdn.advocacy.sba.gov/wp-
+ ontent/uploads/2021/12/06095731/Small-Business-FAQ-Revised-December-2021.pdf
+Page 14 of 17
+With a focus on transparency and customer engagement, updates will be provided to the
+public on an ongoing basis and customer feedback will be obtained consistently.
+Page 15 of 17
+Civil Rights and Equity at SBA
+A. Overall
+SBA recognizes that civil rights protections ensure the public has equal and full access to
+all programs and services funded or operated by the agency. SBA also recognizes that
+discrimination can be intentional or as a result of a program or service that has
+unintentional discriminatory consequences because it disproportionately impacts
+individuals protected by civil rights laws.
+B. SBA Resources Available to Advance Civil Rights
+Responsibility for ensuring implementation of the Administration's and SBA's equity
+policies is shared across the agency. The Office of Diversity, Inclusion, and Civil Rights
+(ODICR) provides leadership for these activities as well as coordination of agency-wide
+assessments and plans.
+ODICR ensures that individuals receiving services from SBA-funded or conducted
+programs are not subject to discrimination and that the privacy and security of
+individuals' health information is protected through collaborative efforts within the
+agency and with other Federal agencies. For example, ODICR provides information in 127
+different languages regarding civil rights, language access, and recipient guidance.
+ODICR and SBA's program offices collaborate with each other and with other Federal
+Government agencies to share resources and improve efficiency. For example, ODICR
+participates in the Department of Justice Title VI Interagency Working Group to
+standardize Federal terminology with respect to Limited English Proficiency (LEP) issues.
+ODICR investigates complaints, conducts compliance reviews, promulgates
+regulations, develops guidance, provides technical assistance, and educates the
+public on civil rights. In partnership with Department of Justice (DOJ) and Department
+of Education (ED), ODICR reviews referred civil rights cases that do not fall within DOJ's or
+ED's jurisdiction.
+ODICR oversees adherence to Title VI of the Civil Rights Act of 1964, Section 504 of the
+Rehabilitation Act of 1973, and Title IX of the Education Amendments of 1972, P.L. 92318,
+20 U.S.C. $1681 et seq.
+C. Improving ODICR Capacity
+The SBA Administrator is implementing a reorganization plan to create a more proactive
+Diversity and Inclusion component to ODICR. The plan includes hiring a Chief Diversity
+Officer and, over time, increasing the number of Diversity and Inclusion staff. This
+additional capacity will allow ODICR to provide programs that address diversity, inclusion,
+equity, and accessibility not only to the agency, but also to other Program Offices that
+Page 16 of 17
+work directly with SBA entrepreneurs and small business owners. The Diversity and
+Inclusion Program will provide guidance and insights into identifying and overcoming
+barriers such as accessibility and potential bias in systems and processes that may be
+limiting access to underserved communities.
+ODICR is also exploring the opportunity to work more collaboratively with the SBA
+National Ombudsman. The National Ombudsman assists small businesses, small
+government entities, and small nonprofits when they are subject to excessive
+enforcement by a federal agency. This includes, but is not limited to, repetitive audits or
+investigations, excessive fines, penalties, threats, or other unfair enforcement action. As
+an impartial liaison, the National Ombudsman refers comments submitted by a small
+business to the appropriate agency for high-level fairness review and works across the
+federal government to address those concerns to help small businesses succeed. To
+begin the exploration for more collaboration, ODICR and the National Ombudsman will
+examine data and identify possible strategies to improve assistance and resolve issues for
+small business owners of underserved communities who believe they have been treated
+unfairly.
+SBA is also contemplating the publication of a Title VI Civil Rights email box and
+detailed information for the public on the external facing website. This would be in
+addition to the Agency's established civil rights email box.
+Each of the above actions - from designing and managing new programs to processing,
+investigating, and referring claims - will require the addition of new staff and resources to
+ensure smooth implementation and maximum benefit for the underserved communities
+SBA assists.
+Page 17 of 17

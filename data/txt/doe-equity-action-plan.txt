@@ -1,0 +1,795 @@
+ENT
+OF
+Department of Energy
+Washington, DC 20585
+STATES OF
+U.S. Department of Energy's Equity Action Plan
+Agency Lead: Shalanda H. Baker, Secretarial Advisor on Equity
+Executive Summary
+The Department of Energy (hereinafter DOE or the Department) is responsible for ensuring the
+Nation's security and prosperity by addressing its energy, environmental and nuclear challenges
+through transformative science and technology solutions. DOE maintains the Nation's nuclear
+weapons stockpile, reduces the threat of nuclear proliferation, oversees the Nation's energy
+supply, leads the Nation in areas of federally sponsored basic research critical to U.S. innovation
+and international competitiveness, carries out the environmental clean-up from the Cold War
+nuclear mission and maintains those sites, and operates 17 National Laboratories.
+The Department's mission areas touch upon equity and provide an opportunity to advance
+justice. From the households grappling with issues of energy burden and energy insecurity, to the
+universities advancing basic research with Department funds and the business and community-
+based organizations that partner with DOE to deliver on its mission, the Department has an
+extraordinary reach. Executive Order (EO) 13985, Advancing Racial Equity and Support for
+Underserved Communities Through the Federal Government, provides an opportunity for the
+Department to examine its internal processes and programs to ensure that the agency eliminates
+barriers to access; transform programs and policies to open even broader pathways for
+underrepresented groups to access DOE resources; and stand up new programs to better serve
+communities. EO 13985 provides an opportunity for the Department to continually strive for
+equity across its mission areas. Moreover, these actions and ongoing efforts will position DOE as
+a critical partner within an all-of-government approach to tackling the climate crisis. EO
+13985-focused on equity within the Department's functions and programs-dovetails with the
+Department's efforts to ensure that 40% of the benefits of its clean energy, energy efficiency,
+and climate programs flow to underserved communities (the Justice40 Initiative) and provides
+the blueprint for delivering on the historic Justice40 Initiative.
+In implementing EO 13985, the Secretary's Advisor on Equity (SAE) first stood up an Executive
+Steering Committee comprised of senior leaders from across the DOE complex. The Executive
+Steering Committee then embarked on a yearlong, comprehensive process to assess the whole of
+DOE's activities in the following areas: Procurement, Financial Assistance, Research and
+Development (R&D), Demonstration and Deployment (D&D); and Stakeholder Engagement.
+The Executive Steering Committee members led six teams comprised of over 150 DOE staff and
+managers representing a diverse cross-section of DOE programs and support functions. Each
+Working Group then provided its top priorities, which were based on an in-depth assessment of
+barriers to accessing DOE programs. From that list of priorities, the SAE determined the
+following top five Departmental priority actions to advance equity at DOE:
+1) Address broad gaps in data collection to facilitate data-informed decision-making.
+2) Increase opportunities for new entrants in DOE acquisition (i.e., procurement and
+financial assistance).
+1
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+3) Increase participation by individuals and institutions underrepresented in DOE R&D and
+other programs supported through financial assistance.
+4) Expand strategic Tribal and stakeholder engagement in all DOE business areas.
+5) Improve access and equity in DOE's Weatherization Assistance Program.
+Early Accomplishments
+To execute EO 13985, DOE commenced equity-related activities. Early accomplishments
+include: (1) conducting a crowdsourcing campaign to identify barriers underrepresented groups
+face within the procurement space; (2) establishing a pilot program to incorporate equity-
+centered provisions into funding opportunity announcements; (3) creating a process within the
+Office of Indian Energy to facilitate the reduction of cost-share for Tribes requesting cost-share
+waivers; (4) initiating a first-of-its-kind pilot program to provide in-depth technical assistance to
+low-income communities engaged in energy transition activities and a pathway to equitable clean
+energy deployment; and (5) diversifying Departmental outreach efforts to highlight diversity,
+equity, and inclusion, and reaching media outlets that serve underrepresented groups.
+Procurement Crowdsourcing Campaign:
+DOE co-sponsored a crowdsourcing campaign with the Office of Federal Procurement Policy
+(OFPP) to determine barriers to doing business with the federal government. To ensure
+participation by historically underserved groups located in underserved areas, DOE and OFPP
+conducted targeted outreach focused on reaching business owners who are people of color;
+persons with disabilities; service-disabled veteran-owned businesses (SDVOB); business owners
+located in historically underutilized business zones (HUBZones) and rural areas; 8(a) certified
+businesses; women-owned small businesses (WOSBs); small disadvantaged business (SDBs);
+community development for not-for-profits; minority serving institutions, including Asian
+American and Native American Pacific Islander-Serving Institutions (AANAPISIs), Alaska
+Native-Serving and Native Hawaiian Serving Institutions (ANNHs), Historically Black Colleges
+and Universities (HBCU), Hispanic-Serving Institutions (HSIs), Native American-Serving
+Nontribal Institutions (NASNTIs), Predominantly Black Institutions (PBIs), Tribal Colleges and
+Universities (TCUs) (collectively hereafter referred to as MSIs), and other educational
+institutions; and Tribal Owned and Alaska Native Corporations.
+The campaign consisted of two phases. During Phase One (June 1-15, 2021), 75 respondents
+provided thoughts on what barriers exist to doing business with the federal government. The top
+barrier responses included: difficulty locating DOE opportunities; cumbersome federal
+acquisition rules, processes, and concepts, including how to do business with federal agencies;
+lack of data for DOE to understand equity gaps and opportunities; unnecessarily restrictive
+multi-year contracts; and applicant resource constraints (e.g., financial, information technology,
+and human capital). Phase Two (November 8-19, 2021) focused on solutions to these five
+barriers with respondents contributing 540 votes on solutions to the barriers by drawing down on
+thirty-two pre-defined actions. The top five solutions by vote were:
+1) Strengthen prime contractor commitment to subcontractors (42 votes).
+2) Increase access to agency program officials and decision makers (32 votes).
+2
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+3) Make large contracts more manageable for small businesses (32 votes).
+4) Increase the number of small businesses "visible" to the federal buyers (27 votes).
+5) Improve procurement forecast tools (23 votes).
+DOE intends to take into consideration these ideas as well as other data generated from the
+crowdsourcing campaign when addressing barriers to entry in DOE procurement practices.
+Office of Energy Efficiency and Renewable Energy DEI Funding Opportunity Announcement
+(FOA) Pilot Program:
+In March 2021, DOE ran a pilot program through the Office of Energy Efficiency and
+Renewable Energy (EERE) requiring all financial assistance applicants to submit a plan
+demonstrating how federally funded financial assistance projects will incorporate diversity,
+equity, and inclusion (DEI) elements to promote the representation and participation of different
+groups in the R&D space. Eleven FOAs were issued as part of the pilot program. As part of the
+application, EERE applicants were required to submit a DEI Plan that describes the applicant's
+future actions to foster a welcoming and inclusive environment, support people from groups
+underrepresented in science, technology, engineering, and math (STEM), advance equity, and
+encourage the inclusion of individuals from these groups in the project either from the
+applicant's own staff or a subrecipient like an MSI, as well as describe the extent the project
+activities will be located in, or benefit, underserved communities.
+To develop a DEI Plan, applicants needed to identify and evaluate their internal processes and
+outreach methods to determine whether there were institutional barriers in their hiring practices,
+as well as examine their partnerships with groups in underserved communities. The plans further
+required at least one SMART (Specific, Measurable, Assignable, Realistic and Time-Related)
+milestone per budget period, supported by metrics, to measure the success of the proposed
+actions. The DEI Plans were evaluated as part of the technical review process and incorporated
+into the award, if selected. In addition to requiring a DEI Plan, EERE added a DEI-specific
+program policy factor to the FOA template. Program policy factors allow the selecting official
+the flexibility to consider factors other than technical merit.
+Through this pilot program, EERE set up a team to track questions, issues, and results, and
+acquired significant information which will inform the development of a comprehensive
+approach that can be expanded across the Department. The pilot program helped identify (1) the
+tools needed to apply the approach more broadly across the Department (e.g., internal and
+external training needs, and external outreach), and (2) areas that need improvement or
+development (e.g., guidance for program and financial assistance staff specific to DEI Plan
+negotiation and administration of DEI requirements, DEI Plan templates, merit review processes,
+and reviewer selection). The pilot also allowed DOE to build business processes on a smaller
+scale that could be replicated across the Department.
+Office of Indian Energy Cost Share Reductions:
+Cost share requirements reduce the pool of potential applicants from underrepresented groups
+due to financial restraints. In late October 2020, the Office of Indian Energy (IE) formalized a
+process for eligible Indian tribes and tribal entities to request a cost share reduction for awards
+3
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+under the Energy Policy Act of 2005 to alleviate financial impacts to Native American and
+Alaska Native communities struggling with the impacts of the COVID-19 pandemic. Beginning
+in early 2021, IE approved a cost share reduction of $17.75 million for 31 existing and pending
+awards. In July 2021, IE provided $12 million to 13 Native American and Alaska Native
+communities for projects that will reduce energy costs and increase energy security and
+resiliency, which included additional cost share reductions for the first time. IE has facilitated
+DOE-wide tribal consultations, bringing together tribal voices and issues with DOE leadership
+teams committed to listening and substantive policy changes. Along with the Interagency
+Working Group on Coal and Power Plant Communities and Economic Revitalization, IE co-
+hosted the Revitalizing Navajo and Hopi Energy Communities workshop on September 8, 2021;
+the workshop engaged over 80 rural tribal members and tribal leaders to highlight available
+resources and discuss potential projects for regional economic revitalization.
+Communities LEAP (Local Energy Action Program) Pilot
+The DOE Communities LEAP (Local Energy Action Program) Pilot is a first-of-its-kind
+program that will help environmental justice communities and communities with historical ties to
+fossil fuel industries access the economic and environmental benefits of clean energy and clean
+energy manufacturing. Communities LEAP aims to facilitate sustained community-wide
+economic and environmental benefits primarily through DOE's clean energy deployment work.
+This opportunity is specifically open to low-income, energy-burdened communities that are also
+experiencing either direct environmental justice impacts, or direct economic impacts from a shift
+away from historical reliance on fossil fuels. The program will provide services up to a total of
+$16 million to help develop community-driven plans to more effectively leverage public and
+private sector resources to reduce local air pollution, increase energy resilience, lower utility
+costs and energy burdens, and create good-paying jobs. The first round of applications closed on
+December 17, 2021. Selections will be announced in the Spring of 2022.
+Office of Public Affairs Stakeholder Engagement and Community Outreach:
+Since the release of the EO, DOE's Office of Public Affairs (PA) has launched new stakeholder
+engagement activities, including hosting digital engagement events featuring Secretary
+Granholm. Designed to increase outreach on the cornerstone items of the Administration's
+environmental, social, and energy justice actions encapsulated in the "Build Back Better"
+agenda, this digital engagement strategy has proven to be effective with many events reaching
+thousands of views, and one reaching over 14,000 views. Such outreach tackles a persistent
+barrier to accessing DOE opportunities: lack of awareness.
+Outreach examples include:
+1) Our Time is Now: Latinx Leaders on Climate Action featuring American labor leader and
+civil rights activist Dolores Huerta and youth climate advocates, on October 5, 2021;
+2) A Conversation with Sophia Bush on Building an Equitable Clean Energy Future held on
+July 27, 2021, discussing pathways to broaden the energy workforce; and
+3) A Conversation with Jonathan Scott on Building a Clean Energy Future for All held on
+July 7, 2021, examining the building of an affordable and reliable clean energy future for
+all.
+4
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+Media coverage of the Department's focused engagement with underrepresented individuals and
+communities include:
+1) ESSENCE.com, DOE Launches Fund for Organizations Prioritizing Climate Solutions
+for Black Communities (October 19, 2021);
+2) MSNBC The Choice segment, One-on-One with Energy Secretary Jennifer Granholm
+(May 20, 2021); and
+3) Navajo Nation press release, President Nez welcomes U.S. Secretary of Energy Granholm
+to the Navajo Nation to discuss renewable energy (August 19, 2021, picked up by Indian
+Country Today).
+In addition to PA-led activities, DOE offices continue to create programs to increase outreach
+efforts. For example, in December of 2020, the Office of Legacy Management introduced a
+STEM pilot program, Go with the Flow, which aims to teach Navajo youth about groundwater
+through hands-on activities that are relevant to their environment, teach valuable skills,
+encourage creativity, and explain disposal cell technologies. On July 22, 2021, the Loan
+Programs Office launched a new division, Outreach and Business Development, designed to
+address equity in the deployment and development space by strategically focusing outreach and
+business development efforts to guide potential loan applicants through the application process
+and manage the resulting relationships.
+The pages that follow include an overview of DOE's Equity Action Plan: five key actions DOE
+will undertake in the long term to facilitate equity within the Department and facilitate the
+equitable execution of the Department's mission.
+Action #1: Address Broad Gaps in Data Collection to Facilitate Data-Informed Decision-
+Making
+The Department's current approaches to data collection limit visibility into who is participating
+in its business opportunities, outreach events, and programs. Gaps in current data collection
+processes pose barriers to achieving equity within the Department because DOE cannot obtain a
+baseline of existing participation. Without this baseline, the agency cannot effectively strategize
+to ensure all communities benefit from Departmental work and activities.
+Data challenges include:
+1) Inconsistent collection of demographic information on applicant institutions and key
+personnel, awardees, and merit reviewers, as well as limited analysis of applicants,
+success rates, and participation rates from individuals and institutions historically
+underrepresented in the DOE portfolio.
+2)
+Incomplete data collection across DOE program offices regarding who participates in
+DOE strategic planning efforts.
+3) Incomplete data regarding applicants and recipients of financial assistance awards.
+4) Limited geospatial understanding of overall investment impact (e.g., census tract, census
+block, or community level).
+5
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+5) Limited awareness and understanding of what demographic information DOE is allowed
+to collect and how DOE may collect it.
+6) Limited collection of information concerning participation in DOE organized stakeholder
+meetings and events. As such, there is little data on who DOE is reaching to inform
+efforts to engage underserved and underrepresented communities.
+7)
+Limited data and analysis of applicants and awardees of DOE contracting and funding
+opportunities, which limits tracking of new entrants.
+8) Inconsistent collection of equity-related metrics in demonstration and deployment
+activities (e.g., programs utilize different approaches to capturing energy savings,
+avoided emissions, reduction in household energy burden, and investments in workforce
+training).
+9) Incomplete understanding of the impacts of cost sharing requirements (and the potential
+benefits of waiving such requirements for underrepresented stakeholders).
+The foregoing challenges impact the Department's ability to collect accurate data concerning
+SDBs; MSIs; persons with disabilities; Black, Latino, Indigenous, and Native American persons;
+Asian Americans, Pacific Islanders, and other persons of color; members of religious minorities;
+Lesbian, Gay, Bisexual, Transgender, Queer, Intersex, Asexual, and other sexual orientations and
+gender identities (LGBTQIA+); persons who live in rural areas; and persons otherwise adversely
+affected by persistent poverty or inequality.
+To address the data gaps, DOE intends to undertake the following tasks:
+1) Create a data collection system for underserved communities and individuals for all DOE
+contract and financial assistance opportunities that applies to all federal and contractor
+Management and Operating (M&O) and other major site and facility management
+contracts requirements. This may include broadening what is currently reported in the
+Management and Operating Subcontract Reporting Capability (MOSRC) system to
+encompass financial assistance and the two DOE field sites not currently captured in
+MOSRC.
+2) Request demographic information at time of financial assistance application submission
+through, for example, the usage of the White House Office of Management and Budget's
+(OMB) Research and Related Personnel Data form, and DOE's application management
+systems, and provide guidance for the collection of demographic data and addressing
+voluntary VS. nonvoluntary disclosures of demographic data.
+3) Collaborate with OMB to broadly streamline the Paperwork Reduction Action waiver
+process and set uniform Department standards on data collection.
+Ongoing Accountability
+To determine progress within a two-to-four-year period, DOE will also rely on newly-collected
+demographic data to analyze trends and to determine whether the number of applicants from and
+the number of awards flowing to underrepresented institutions and underserved communities and
+individuals are increasing. DOE will also provide guidance for and track performance on
+6
+ENT
+OF
+Department of Energy
+OF
+Washington, DC 20585
+increasing the diversity of merit reviewers and endeavor to baseline the current demographics of
+our reviewers.
+Action #2: Increase Opportunities for New Entrants in DOE Acquisition (i.e., Procurement
+and Financial Assistance)
+Based on information gathered through the crowdsourcing campaign with OFPP (see Early
+Accomplishments above), DOE is focused on improving how acquisition opportunities are
+communicated and better supporting vendors so that the federal acquisition process is
+understood. The populations most impacted by this barrier are SDBs; MSIs; persons with
+disabilities; Black, Latino, Indigenous, and Native American persons; Asian Americans, Pacific
+Islanders, and other persons of color; members of religious minorities; LGBTQIA+; persons who
+live in rural areas; and persons otherwise adversely affected by persistent poverty or inequality.
+No specific policy, program or regulation contributes to this barrier. However, crowdsourcing
+respondents indicated that providing education of the federal acquisition process and concepts;
+improving and updating the small business programs, subcontract oversight and acquisition
+forecasting; and addressing resource constraints for historically and economically disadvantaged
+groups could reduce barriers to entry for underrepresented applicants. Modifying these processes
+will expand procurement and financial assistance opportunities for underrepresented groups in
+both the federal and contractor acquisition space.
+To increase the opportunities for new entrants, alleviate resource constraints (e.g., financial, IT,
+human resources, etc.) and expand the number of awards to SDBs, MSIs, and people with
+disabilities for DOE acquisitions (including contracts and DOE prime contracts, and subcontracts
+under M&O and other major site and facility management contracts), the Department will
+engage in a range of activities:
+1) Create a central portal for DOE acquisition opportunities, to include direction on
+navigating DOE and federal acquisition and highlighting this resource on the front page
+of energy.gov.
+2) Streamline/relax subcontracting requirements.
+3) When applicable, rely on Other Transactional Authority.
+1
+4) Identify current practices of M&O and other major site and facility management
+contractors and determine what can help overcome identified barriers, including use of
+flexibilities in their purchasing systems to combat these barriers.
+5)
+Assess and determine additional statutory and regulatory authorities/flexibilities DOE
+may utilize to overcome known barriers.
+1 Section 1007 of the Energy Policy Act of 2005 gives the Secretary of Energy authority to enter
+into transactions (other than already existing statutorily defined instruments - contracts,
+cooperative agreements, and grants), subject to the same terms and conditions as those given to
+the Secretary of Defense under 10 U.S.C. 2371. The purposes of this authority are to reduce
+barriers that prevent some for-profit firms from participating in DOE's research, development,
+and demonstration (RD&D) programs and broaden the technology base available to meet DOE
+mission requirements. For additional information, please see Department of Energy Guide to Financial Assistance.
+7
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+Ongoing Accountability
+DOE views acquisition as central to effectuating the DOE mission. M&O and other major site
+and facility management contract dollars are approximately 90 percent of the annual budget on
+contracts to operate scientific laboratories, engineering and production facilities, and
+environmental restoration sites, and to acquire capital assets. Contractors at DOE sites and
+laboratories perform critical missions, including maintaining nuclear weapons stockpiles,
+cleaning up radioactive and hazardous waste resulting from the legacy of the Manhattan Project,
+and conducting the world's most sophisticated basic and applied energy and scientific research
+activities.
+In light of the Department's overall acquisition mix, DOE is setting additional procurement
+targets for M&O contractors and the Department that mirror the President's ambition spelled out
+in directive M-22-03 Advancing Equity in Procurement, issued on December 2, 2021. Consistent
+with M-22-03, by 2025, DOE will support the government-wide objective of 15 percent of prime
+and subaward dollars obligated to SDBs, by endeavoring to commit 15 percent of DOE prime,
+subaward, and M&O subcontractor dollars to underserved populations. In support of this goal,
+for FY23, DOE will advance a stretch goal of 6 percent2 of its prime contracts going to SDBs,
+following the calculation method for the Small Business Administration's Small Business
+Scorecard. In FY23, 15 percent of M&O dollars should be to SBDs, utilizing the M&O data
+reported in the MOSRC data collection system.
+With the additional efforts described under this action item to support new entrants, DOE will
+also increase its baseline spend to WOSBs, HUBZones, and SDVOSBs, which is in alignment
+with M-22-03. DOE will work with the M&O contractors and other major site and facility
+management contractors to increase subcontracting opportunities for underserved populations
+consistent with the principles in EO 13985. DOE will and track and report Department prime and
+subcontract/subaward performance through annual Acquisition Town Hall meetings with a focus
+on underrepresented groups.
+To determine whether DOE equity actions have reduced the acquisition barriers in a two- to
+four-year period and to establish a baseline for performance, DOE completed a data analysis
+using award and obligation data for DOE SDBs from FY2016-FY2020. This analysis established
+a baseline in which the Department will compare with future data to see where progress has been
+made.³ DOE will also periodically poll contractors about the centralized portal to determine
+2 The stretch goal of 6 percent is higher than what is generally negotiated with the Small Business Administration.
+By incorporating the actions in this Plan, DOE will increase SDB participation, with the hope the Department can
+achieve 6 percent in this area.
+3 Further, on December 2, 2021, the Whitehouse and the Small Business Administration (SBA) released
+disaggregated data of federal contracting spend by business owner race/ethnicity. Beginning with FY 2020 data, the
+federal government will publicly release this disaggregated data on an annual basis so that procurement officials,
+business owners, and the American people can use it as a tool to track equity and progress over time. This data will
+also allow DOE to assess its performance across industries and sectors, helping the Department better target
+interventions to areas with the greatest opportunity for growth. FACT SHEET: Biden-Harris Administration
+8
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+accessibility and improvements so that it can be a resource for new entrants and current federal
+vendors. Further, DOE will create a dashboard to track M&O subcontractor and other major site
+and facility management contractor spending, disaggregated by contractor and detailing
+subcontracts/subawards to underrepresented groups and institutions, including MSIs. Summary
+data will be made publicly available at the aforementioned annual Acquisition Town Hall
+focused on underrepresented groups' access to DOE acquisition activities.
+Action #3: Increase Participation by Individuals and Institutions Underrepresented in
+DOE R&D and other programs supported through Financial Assistance
+DOE recognizes that current practices do not do enough to support diversity in financial
+assistance. Financial assistance includes the full spectrum of R&D activities, including basic and
+applied research, and discretionary financial assistance awarded through DOE programs.
+Existing barriers in the financial assistance space persistently impact women; SDBs; MSIs
+persons with disabilities; Black, Latino, Indigenous, and Native American persons; Asian
+Americans, Pacific Islanders, and other persons of color; and the LGBTQIA+ community. DOE
+has an opportunity to incorporate evidence-based best practices to make programs and
+opportunities more accessible to businesses, academic institutions, and underrepresented
+communities and stakeholders that have otherwise been underserved by DOE.
+This action leverages the DOE actions to be taken in two other Priority Actions of the DOE
+Equity Plan: Action I-Address broad gaps in data collection to facilitate data-informed
+decision-making, and Action 4-Expand strategic Tribal and stakeholder engagement in all DOE
+business areas. Critical to implementing this action is the capacity for DOE program offices to
+engage the broader scientific community in both strategic planning as well as in advertisement
+and outreach surrounding each solicitation. Similarly, DOE program offices must improve their
+capacity to collect voluntary demographic information from applicants, awardees, and reviewers,
+and develop data analysis practices consistent with Privacy Act requirements to utilize the data to
+make informed award selection decisions based on established program policy factors.
+One of DOE's primary methods of issuing financial assistance is through R&D grants and
+programs. The R&D life cycle includes several components, including strategic planning, design
+and dissemination of financial assistance opportunities, merit review, and program evaluation.
+The following discussion addresses barriers within each aspect of the overall R&D life cycle,
+noting areas where the Department can improve.
+Currently, technical experts from institutions identified through traditional forums and long-
+standing Departmental relationships inform DOE's strategic planning processes. Such processes
+often fail to include the full spectrum of DOE stakeholders, including members of
+underrepresented groups and researchers from MSIs. This lack of inclusion may have
+reverberating consequences throughout the funding life cycle.
+Announces Reforms to Increase Equity and Level the Playing Field for Underserved Small Business Owners
+The
+White House
+9
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+With respect to the dissemination of funding opportunities, Tribal organizations and MSI
+stakeholders have identified several challenges that present barriers to participation in DOE's
+standard funding opportunities. These include, but are not limited to, limited support for
+sponsored research offices to address the administrative burden of applying; insufficient time to
+respond to DOE's complex funding announcements; and limited collaborations with DOE labs
+and limited access to DOE facilities to build relationships needed to partner on DOE awards.
+Turning to merit review, DOE's internal assessments indicate many opportunities to advance
+DEI in its processes for external and internal peer review and within its selection processes.
+Specific attention is needed in the areas of soliciting merit-based peer reviews from a more
+diverse community of reviewers; ensuring the merit review criteria create appropriate
+expectations of applicants; and empowering DOE program offices to consider a broad range of
+program policy factors. Emphasis on these actions will ensure that when all other aspects, such
+as technical merit, are considered equal, programs can select applications that broaden the
+diversity of institutions and individuals who are awarded DOE R&D funding.
+The Department will engage in a variety of activities designed to mitigate and remove the
+foregoing barriers. Starting in FY22, DOE will increase opportunities for underrepresented
+groups to participate in DOE financial assistance programs by incorporating DEI requirements
+into all DOE financial assistance FOAs. These requirements will include: equity-related program
+policy factors; broadening diversity of DOE merit reviewers; introducing a training program for
+DOE merit reviewers; reducing the administrative burdens to applying for financial assistance
+funding (whilst remaining compliant with National Security Presidential Memorandum 33); and
+establishing a Financial Assistance Technical Assistance Pilot Program (FATAPP) to assist
+underrepresented groups with applying for DOE financial assistance programs.
+DOE will engage in the following key tasks to increase investments at underrepresented
+institutions and advance DOE equity priorities:
+1) In FY22, DOE will establish a baseline of understanding regarding DOE financial
+assistance to MSIs, with a goal of increasing the percentage of DOE awards awarded to
+MSIs to 15% by 2025. Initiatives in support of this goal include:
+a) Implementation of an annual cross-cutting program office challenge geared
+towards MSIs, focusing on opportunities to fund consortia, faculty exchange
+programs, centers of excellence, collaborative research projects, and building
+institutional research capacity.
+b) Establishment of cross-office funding for "Centers of Excellence" that link a
+National Lab with an MSI or community college to strengthen relationships,
+expose underserved populations to DOE infrastructure, and deepen field of
+expertise in a certain topical area.
+c) Creation of a centralized announcement portal to communicate upcoming DOE
+financial assistance opportunities to the broader communities, referencing
+grants.gov.
+10
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+2) Women- and minority-owned Small Business Innovation Research (SBIR) and Small
+Business Technology Transfer (STTR) award recipients appear to be underrepresented
+when compared to the overall population of women- and minority-owned small
+businesses in the broader market. For example, women- and minority-owned small
+businesses make up between 10-11% of SBIR/STTR grant recipients, compared to 15-
+18% women- or minority-owned businesses in the overall small business population.
+DOE will endeavor to distribute 15% of SBIR/STTR Phase 1 awards to women, and 15%
+to minority-owned businesses by FY25.
+3) Implicit bias and mitigation training is one strategy for supporting structural and
+institutional changes to achieve equitable outcomes. In FY22, DOE will develop and
+implement mandatory implicit bias awareness and mitigation training for Federal
+program staff and contractor staff involved in DOE solicitations and require the same for
+external peer reviewers.
+4) Starting in FY23, DOE will formalize the EERE DEI FOA pilot program and initiate a
+rulemaking process. The rulemaking process will allow DOE to institutionalize the
+approach in its financial assistance regulations, and benefit from an internal and public
+comment process. DOE will task a small intra-agency writing group to develop the draft
+rulemaking, guidance, templates and related procedures.
+5)
+Beginning in FY22, DOE will require at least one DEI-specific program policy factor be
+included in all DOE FOAs, which will allow DOE to prioritize equity-related factors in
+awarding financial assistance.
+Ongoing Accountability
+DOE will measure progress against this Action by actively tracking the demographics of
+Principal Investigators (PIs), key grant personnel, and additional grant participants on proposals
+(both applicants and awardees), as well as tracking the institution types of applicant and recipient
+institutions. DOE will publicly post the aggregate information of applicant and recipient
+institutions annually, as well as publicly post aggregate, anonymized applicant and awardee
+demographic information, which shall be updated annually. DOE program offices will begin
+externally peer reviewing their business processes for awards management every three to four
+years to get input and provide accountability on how programs are adopting new business
+practices for increasing DEI in awards management.4
+Action #4: Expand Strategic Tribal and Stakeholder Engagement in all DOE Business
+Areas
+Stakeholder engagement is critical to ensuring DOE communicates effectively with the public to
+share information, enhance and increase the public's awareness of opportunities and activities,
+build trust between diverse stakeholders and Tribal entities, increase DOE's understanding of the
+4
+See, for example, https://science.osti.gov/sc-2/Committees-of-Visitors
+11
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+multifaceted and intersectional challenges for which it is creating solutions, and hear from those
+affected by the work DOE performs.
+Currently, the Department's program offices individually engage in stakeholder engagement, but
+there is insufficient data collected on who is being engaged and their perceptions of the
+Department. Further, Tribal and stakeholder relationships tend to stall when trusted contacts or
+leaders leave DOE. Given there is no lead office responsible for managing the Department's
+Tribal and stakeholder engagement, these barriers persist.
+Through listening sessions with Tribal entities and DOE stakeholders, DOE discovered that its
+program offices have not had a comprehensive or coordinated strategy for outreach and
+engagements to individuals and institutions historically underrepresented in the DOE portfolio.
+Moreover, DOE programs have not conducted the needed outreach to understand the research
+and technical expertise at various MSIs that may be relevant to DOE's work and to establish
+working relationships with these institutions.
+The populations most impacted by the foregoing challenges are Persons with Disabilities; Black,
+Latino, Indigenous, and Native American persons; Asian Americans, Pacific Islanders, and other
+persons of color; members of religious minorities; LGBTQIA+; persons who live in rural areas;
+and persons otherwise adversely affected by persistent poverty or inequality.
+To improve how the Department manages Tribal and stakeholder engagement, the following
+specific actions are planned:
+1) In FY22, explore the establishment of a position or positions within the Department to
+shepherd Department-wide Tribal and stakeholder engagement, track agency-wide work,
+and facilitate engagement activities throughout program offices.
+2) DOE's diverse mission activities that encompass national security, environmental
+cleanup, energy efficient technologies, and basic science research, among many others,
+are largely unknown to the public. The diverse mission has an equally diverse audience
+ranging from Tribal entities, to regulators, to elected and appointed officials, to interest
+groups and members of the public who are interested, curious, concerned, or opposed to
+DOE's programs or proposed actions. The discrepancy between DOE's mission and the
+public's understanding of that mission invites important opportunities for more
+meaningful and comprehensive engagement by DOE on an agency-wide level. The
+actions to support centralized support through personnel and contracts have been and are
+currently successful at agencies like the Department of the Interior and the Environmental
+Protection Agency.
+In FY22, DOE will conduct an analysis of the feasibility of awarding a Tribal and
+stakeholder engagement contract(s) utilizing contractor(s) versus centralizing the Tribal
+and stakeholder function within an office or offices at the Department. The feasibility
+study should be based on the capacity to: conduct socio-economic and demographic
+12
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+analysis; design and implement survey tools to reach underrepresented groups; facilitate
+DOE program staff engagement with underrepresented and underserved communities;
+assist with the National Environmental Policy Act process implementation; assist DOE
+program staff with engagement with Native American tribes and Native Alaska villages;
+develop metrics to assess effectiveness of programs; conduct multilingual and limited
+literacy outreach to rural areas, areas with high poverty rates, and underserved
+populations; and develop and implement a training program for DOE personnel.
+3) In FY22, develop a template for program implementation of "Continuity Binders" that
+would contain essential foundational information about Tribal and stakeholder
+engagement or outreach related to a site, project, or program and be targeted to personnel
+with direct stakeholder engagement responsibilities. Foundational materials in the binders
+would include at a minimum:
+a) key points of contact;
+b) key Tribal entities and stakeholders and their interests and concerns;
+c) information on current projects;
+d) programmatic lessons learned;
+e) important policies and other directives pertinent to the program of work; and
+f) helpful historical information and additional context for cultural competency.
+4) In FY22, implement DOE-wide "Leadership Continuity Plans" (LCP) with specified
+contents to be prepared and maintained. Essential to the LCPs is, at minimum,
+information that facilitates understanding history, status, and direction needed by those in
+key leadership roles, such as:
+a) key inter- and intra-agency counterparts;
+b) key points of contact, especially for major initiatives and controversial projects;
+c) major ongoing projects and their status;
+d) legal challenges and matters before the courts;
+e) important policies and other directives pertinent to the Department;
+f) helpful historical information and points of contact for Department programs and
+offices; and
+g) key Tribal entities and stakeholders and their interests and concerns.
+5) In FY22, develop creative advertising mechanisms (social media, radio, postcards, etc.)
+in multiple languages and use universal design principles to ensure communications
+reach all DOE stakeholders and Tribal entities by the most appropriate method for that
+area, community.
+Ongoing Accountability
+In the longer term, a strategic approach to Tribal and stakeholder engagement should reduce the
+barriers to equitable access to DOE programs. That function will assist the Department with
+establishing goals and priorities that support being attentive to the engagement needs of diverse
+13
+ENT
+OF
+STATES it OF
+Department of Energy
+Washington, DC 20585
+underrepresented and underserved populations that are a part of DOE's larger Tribal and
+stakeholder community. As a result of this institutionalized function, DOE measure increases in
+engagement with underrepresented and underserved communities and demonstrate continuing
+effective engagement with underserved communities, even with personnel changes.
+Once a broader Department Tribal and stakeholder engagement strategy is developed, DOE
+intends to obtain internal or contract support for the services of professional social scientists to
+measure the Department's progress on Tribal and stakeholder engagement. This will ensure that
+demographic data collection and analysis methods are designed to achieve measurable results
+that can demonstrate engagement with historically marginalized groups. Additional efforts to
+further support engagement and bolster accountability could include hosting special "Town Hall"
+meetings at DOE-owned and/or DOE-funded visitor engagement sites, which will increase
+overall Tribal and stakeholder outreach while simultaneously ensuring that members of
+underrepresented and underserved communities are invited and accommodated. Progress would
+be reported in DOE publications, newsletters, and other internal and public-facing documents. 5
+Action #5: Improve Access and Equity in DOE's Weatherization Assistance Program
+DOE will take actions to improve the accessibility of the Weatherization Assistance Program
+(WAP). The actions will lower deferral rates and improve the efficiency of the energy auditing
+process so that dwellings owned or occupied by low-income persons can receive the benefits of
+WAP.
+WAP receives an annual appropriation of formula funding for the purpose of increasing the
+energy efficiency of dwellings owned or occupied by low-income persons, reducing their total
+residential energy expenditures, and improving their health and safety, especially low-income
+persons who are particularly vulnerable such as the elderly, the handicapped, and children. 6 One
+5 Should the Department engage Tribal entities and stakeholders external to DOE, it will continue to only receive
+information from such audiences when those audiences are presenting their individual advice and recommendations
+to DOE. To avoid any appearance that DOE is giving preferential treatment to any individual or group, DOE will
+avoid the regular and systematic participation of the same Tribal entities and stakeholders. Non-governmental
+entities will not be permitted to participate in a group decision-making processes. Any such participation by non-
+governmental entities will be in compliance with the Federal Advisory Committees Act.
+Further,
+(a) Nothing in this plan shall be construed to impair or otherwise affect:
+(i.) the authority granted by law to an executive department or agency, or the head thereof;
+(ii.) the functions of the Director of the Office of Management and Budget relating to budgetary,
+administrative, or legislative proposals; or
+(b) This plan shall be implemented consistent with applicable law and subject to the availability of
+appropriations.
+(c) This plan is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable
+at law or in equity by any party against the United States, its departments, agencies, or entities, its officers,
+employees, or agents, or any other person.
+6
+42 U.S.C. 6861 (b); https://www.govinfo.gov/content/pkg/USCODE-2013-title42/pdf/USCODE-2013-title42-
+chap81-subchapIII-partA.pdf.
+14
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+of the benefits of formula grants is that they can be designated for certain priority populations,
+and the implementation is executed at the local level where the specific needs of the population
+can be addressed.
+While regulatory7 and programmatic8 directives exist to ensure WAP delivers program benefits
+to low-income households according to Congressional priorities (42 U.S.C. 6864(b)(2)), other
+constraints may be limiting access to the most disadvantaged consumers within the group.
+The specific barriers include:
+1) Deferrals. The use of WAP formula funds is limited to home repairs that are deemed
+cost-effective when evaluated with potential energy savings. 9 Buildings that need
+significant non-energy related home repairs may be temporarily deferred from WAP
+services until DOE is able to locate additional funds to remedy the cause of deferral.
+Based on 2019-2020 DOE research and feedback during March 2021 DOE-hosted
+listening sessions, common deferral reasons include the need for major roof repairs,
+electrical upgrades, plumbing repairs, hazards and remediation beyond the scope of WAP
+including asbestos and vermiculite, and other major home repairs. Although the causes
+and rates of deferrals vary by region and service territory, this is a barrier to
+weatherization across the country and a key equity challenge. Studies have shown that
+Native American, Latino and Black households have higher rates of repair needs and
+higher cost burdens.
+2) Energy audit procedures and use of a Savings-to-Investment Ratio (SIR) calculation help
+to ensure the WAP is maximizing energy savings benefits and achieving the statutory
+purpose of the program to reduce the energy burden of low-income households. 10
+However, the SIR historically only considers potential energy savings in the pre-
+weatherization estimate of cost-effectiveness, which may cause the following challenges
+for the WAP:
+a) External factors such as materials and fuel prices impact the ability to justify
+cost-effective weatherization work, resulting in deferral of service.
+b) Potential limitations on the amount of formula funds that may be used to pay
+local weatherization workers and contractors, because direct labor is included
+in the estimate of cost-effectiveness.
+c) Missed opportunities to measure the broader societal benefits and household
+health and safety benefits that result from providing weatherization services.
+The Weatherization Assistance Program plans to take actions that will lower deferral rates and
+improve the efficiency of the energy auditing process. These actions will ensure program
+benefits are provided to all eligible households, consistent with Congressional intent. Based
+7 10 CFR 440.3.
+8
+Weatherization Program Notice 22-1, Application Instructions, V.3.
+9 10 CFR 440.18 (d); https://www.ecfr.gov/current/title-10/chapter-II/subchapter-D/part-440/section-440.18.
+10
+10 CFR 440.21; Weatherization Program Notice 19-4.
+15
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+primarily on feedback from WAP stakeholders, DOE WAP will prioritize three action items
+related to lowering deferral rates by providing additional funds and resources to address health
+and safety hazards and home repairs:
+1) The FY22 EERE Budget Request included creation of a new "Weatherization Readiness"
+fund to ensure DOE funding is available to all grantees and low-income households. This
+funding would be segregated from the WAP formula appropriation and not subject to the
+formula program constraints on home repair costs. This method of funding will ensure
+each WAP grantee will receive an allocation, providing equitable distribution to address a
+nation-wide program barrier.
+2) Weatherization Enhancement and Innovation (E&I) is a new Congressionally directed
+competitive grant program that will provide financial assistance for measures to make
+homes weatherization ready. 11 Funding for the competitive grants is limited and will be
+utilized to pilot innovation and best practices that may be scaled nationally. On December
+15, 2021, DOE published the first E&I Funding Opportunity Announcement (DE-FOA-
+0002520). Pending future allocations of WAP funding, DOE anticipates additional E&I
+opportunities through 2025. A total of $18.6 million is available from the FY2021
+appropriation with a maximum award amount of $2 million. Through partnerships and
+leveraging of WAP and other funding sources, these awards will enable deep energy
+retrofits of low-income housing in four topic areas: 1) place-based initiatives; 2)
+multifamily housing; 3) single family and manufactured housing; and 4) workforce
+development. Applicants are encouraged to use awarded E&I funds in conjunction with
+DOE WAP formula awards and other funding sources to deploy demonstration projects
+that have potential to be scaled nationally, enhance the benefits realized by underserved
+communities, and ensure an equitable transition to a clean-energy economy. Specifically,
+this FOA will support the goals of carbon pollution-free electricity by 2035 and net zero
+GHG emissions by 2050 while also supporting quality jobs and economic growth by:
+a) Developing new place-based methods for delivering deep energy retrofits to
+benefit communities disproportionally impacted by high energy burden;
+b) Increasing the number of homes eligible for energy efficiency retrofits by making
+homes weatherization and electrification ready, while also ensuring healthy
+indoor environments;
+c) Growing community partnerships and leveraging additional funds to maximize
+the installation of renewable and new technologies; and,
+d) Supporting workforce development and creating pathways to careers in the home
+performance, energy efficiency, and renewable energy sectors by recruiting,
+hiring, and retaining individuals underrepresented in these industries.
+3) DOE WAP will maximize, leverage, and braid DOE funds with other federal and non-
+federal fund sources by continuing inter-agency coordination with the Department of
+11 42 USC 6864(d).
+16
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+Housing and Urban Development and the Department of Health and Human Services and
+investing in Training and Technical Assistance (T&TA) resources.
+Ongoing Accountability
+In response to the Consolidated Appropriations Act of 2021 12 and feedback from WAP
+stakeholders, DOE will continue to explore revising the definition of cost-effectiveness and
+implementing enhancements to energy audit procedures. Potential actions include:
+1) Update the savings-to-investment ratio calculation to include non-energy impacts. Based
+on recently completed research, DOE is prioritizing water savings and the social cost of
+carbon emissions. By increasing the estimated benefit in the initial cost/benefit
+calculation, WAP will maximize the number of efficiency measures that may be selected
+by the energy audit and installed in homes. This may also allow for more repairs to be
+justified by the audit and as a result a decrease in deferral rates.
+2) Develop streamlined approaches to assessing buildings for suitable cost-effective
+services, such as the use of regional priority lists and upgrading DOE-developed energy
+auditing tools. Weatherization Assistant, a computer-based energy auditing tool
+developed by the Oak Ridge National Laboratory and used by the weatherization
+program, will be migrated to an online platform and enhancements such as incorporating
+heat pumps will improve evaluation of new technologies and simplify the energy auditing
+process.
+With guidance from the DOE Office of Economic Impact and Diversity, WAP plans to update
+metrics and reporting to enable more accurate estimates of program benefits such as energy
+savings, avoided emissions, reduction in household energy burden, and investments in workforce
+training. Changes in program reporting will require compliance with the Paperwork Reduction
+Act, and implementation of new data collection tools is planned for 2023. WAP will select
+metrics with the goals of improving program evaluation capabilities and aligning with the
+Justice40 Initiative, while also minimizing the administrative burden on Grantees and
+Subgrantees. Initial output metrics and outcome-based indicators developed for the OMB M21-
+28 150-day deliverable include:
+1) Household Energy Savings (MMBTU)
+2) Workforce Development (Dollars Spent)
+3) Reduction of Local and Global Emissions (CO2, NOx, SO2, PM2.5)
+4) Technical Assistance and Stakeholder Engagement (Dollars Spent)
+Each year the DOE WAP headquarters office receives an allocation of funds designated for
+T&TA. Pending an increase of T&TA from Bipartisan Infrastructure Law funding, 13 WAP plans
+to invest in national program evaluations to update previously completed studies and assess the
+progress and success of new programs to reduce deferral rates, and other modifications to
+12
+42 U.S.C. 6863 (b)(4).
+13 Public Law 117-58.
+17
+ENT
+OF
+Department of Energy
+STATES OF
+Washington, DC 20585
+program policies and procedures. Retrospective evaluations will provide insight on long-term (5-
+8 years) program outcomes such as:
+1) Reduction in deferral rates;
+2) Reduction in energy burden;
+3) Benefits delivered to disadvantaged communities; and
+4) Weatherization workforce demographics and diversity.
+The DOE WAP will continue to hold itself accountable to implementing actions by aligning with
+Congressional directives and soliciting regular feedback from WAP stakeholders through
+mechanisms including, but not limited to, ongoing listening sessions, Justice40 stakeholder
+engagement sessions, American Customer Satisfaction Index Surveys, and Continuous
+Improvement Workshops. Progress will be communicated to stakeholders via regular national
+conference and training presentations, and official DOE WAP communications available
+publicly via the DOE website and GovDelivery.
+18

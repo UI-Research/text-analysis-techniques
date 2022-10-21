@@ -1,0 +1,790 @@
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT
+STATES
+OF
+Department of Labor Equity Action Plan
+Executive Summary
+The U.S Department of Labor (DOL) is committed to improving the well-being of
+underserved, marginalized, and excluded communities, recognizing that by doing so we
+improve working conditions and economic opportunities for all workers. This document,
+submitted in response to Executive Order 13985 on Advancing Racial Equity and Support for
+Underserved Communities, summarizes key aspects of DOL's principles and approach to
+advancing equity.
+In subsequent sections, we detail five areas where DOL plans ambitious activity to support
+underserved communities, including through: (1) enforcement of wage and hour laws; (2)
+administering and improving the federal-state Unemployment Insurance system; (3)
+broadening access to DOL programs, services, and information for workers with limited
+English proficiency; (4) expanding sector-based training and employment strategies; and (5)
+diversifying the federal workforce by building new pathways into government apprenticeships.
+In each area, we identify barriers to more equitable access to programs and services for
+relevant populations, detail steps to overcoming those barriers, and lay out planned activities
+and accountability measures. These five areas represent only a portion of the equity work DOL
+has carried out and is planning to implement over the coming years. But by releasing a
+roadmap for these five high-impact program areas, we hope to help the communities we serve
+better understand our vision for advancing equity-so that they can both give us input and hold
+us accountable for meaningful change.
+1
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Mission and Introduction
+The U.S. Department of Labor's (DOL, Department) mission is to "foster, promote, and
+develop the welfare of the wage earners, job seekers, and retirees of the United States; improve
+working conditions; advance opportunities for profitable employment; and assure work-related
+benefits and rights." This mission translates into four core functions: (1) worker protection
+(including protecting workers' wages, health and safety, and retirement savings, as well as the
+rights of workers on federal contracts); (2) benefits administration (including overseeing the
+federal-state Unemployment Insurance system and managing the federal workers compensation
+system); (3) workforce development (including administering the federal workforce system);
+and (4) development of labor market information (including the production of important
+statistical series characterizing the workforce and the economy).
+The charge we received through Executive Order 13985 on Advancing Racial Equity and
+Support for Underserved Communities Through the Federal Government complements and
+reinforces the Department's core functions, which to be effective necessitate close attention to
+the needs of workers who have faced and continue to face exclusion, marginalization, and
+discrimination. Realizing the full promise of wage-and-hour laws, for instance, requires
+assessing whether we are protecting the most vulnerable workers-such as low-paid workers,
+women of color workers, LGBTQ+ workers, workers with disabilities, veterans, and immigrant
+workers-who are most likely to experience violations of their rights. In a similar vein, the
+federal-state Unemployment Insurance system fails to fulfill its objectives when large numbers
+of workers-especially low-paid workers or workers of color-cannot access adequate benefits
+in a timely manner.
+The need to center underserved populations in the Department's work would be important at
+any moment, but it is especially urgent as the country grapples with deep social and economic
+disparities revealed and accelerated by the COVID-19 pandemic, the accompanying economic
+crisis, and the current economic recovery. Not only were women, workers of color, immigrant
+workers, low-paid service-sector workers, and other disadvantaged groups hit hardest by illness
+and death, but they also suffered some of the largest economic damage. New federal actions,
+bolstered by the passage of the American Rescue Plan and Bipartisan Infrastructure Law, have
+provided timely and much-needed support to these vulnerable communities and promise new
+historic investments in the coming years. But more work remains to ensure that the Department
+fully realizes its mission that all working people, jobseekers, and retirees have the economic
+security, opportunity, and voice they need to thrive in our society.
+2
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Summary of Early Accomplishments
+Over the past year, the Department of Labor has prioritized initiatives to center underserved
+populations in how we develop and administer programs and policies. Below, we summarize
+early actions already underway, noting that this list represents a small proportion of the overall
+work DOL has carried out to support marginalized, vulnerable, and underserved communities.
+Broadening the equity impacts of DOL grantmaking: DOL has established Department-
+wide principles for advancing equity in our grantmaking, for instance, by removing barriers
+to the participation of small, new, or emerging community-based organizations in the
+grantmaking process; encouraging grantees to serve hard-to-reach and historically
+underserved populations; building a pipeline of diverse community-based organizations
+capable of delivering services to local communities; supporting existing grantees that
+demonstrate commitments to expanding their own diversity, equity, and inclusion work;
+and building accountability for equity in grant reporting requirements and associated
+research and evaluation activities. In support of these principles, the Employment and
+Training Administration (ETA) has developed a menu of options for DOL program offices
+to select and customize when developing grantmaking opportunities. These include options
+such as extending the open period for applications for certain grants, removing
+requirements that may have hindered grantee diversity in the past, and increasing the points
+given to grant applications that propose serving areas of greater need. ETA reviewed and
+revised FY 2021 funding opportunities to incorporate these options. For instance, ETA's
+community college investments now require colleges to identify and propose plans for
+addressing and closing key equity gaps.
+Understanding-and improving-the equity data we collect: Advancing equity requires
+data in order to assess the needs of underserved populations, the scope of existing
+programs, and the impacts of potential interventions. Last year, DOL conducted an
+inventory of the equity-oriented data collected by agencies to better understand where there
+are gaps in necessary data and opportunities for addressing those gaps. One issue identified
+by this inventory involves missing demographic data for program participants, including
+employment and training programs, which makes it more difficult to assess whether those
+programs are reaching our nation's workers. ETA thus launched an analysis to better
+understand the extent of missing demographic data, its impact on interpreting program
+data, and options for improving data quality. Lessons from this project are being applied to
+other programs (including new grant initiatives, within the bounds of federal
+nondiscrimination law), to expand the collection of demographic data and improve its
+quality, and to strengthen analyses of equitable access to programs and services.
+3
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Centering vulnerable and underserved communities in the rulemaking process: As
+part of the development of DOL's rulemaking agenda, program agencies have prioritized
+initiatives which are especially important for low-paid workers, workers of color, and other
+traditionally underserved communities. For instance, the Occupational Safety and Health
+Administration (OSHA) issued rules requiring employers to provide time off for
+vaccination and recovery to remove obstacles to this life-saving protection for low-paid
+workers in underserved communities. Additionally, OSHA has launched an enforcement
+initiative on heat-related work hazards, which pose increasing risk to many workers as
+climate change continues. OSHA also began its rulemaking process around a workplace
+standard governing hazardous heat conditions, publishing an Advance Notice of Proposed
+Rulemaking and seeking diverse stakeholder input. The Wage and Hour Division (WHD),
+for its part, has engaged in rulemaking for tipped workers. Tipped workers are
+disproportionately people of color and most are women. They suffer a poverty rate over
+twice that of non-tipped workers. The rule helps ensure tipped workers are treated with
+dignity and respect and that they receive the appropriate wage for the work they are
+performing.
+Building stronger partnerships with community-based organizations: Another cross-
+cutting approach DOL is taking to advance equity is forging stronger partnerships with
+community-based organizations that have trusted relationships and reach into traditionally
+underserved populations. These partnerships can help workers better understand their
+workplace rights and expand access to employment and training-related benefits and
+services. These partnerships can also help DOL better understand the needs faced by
+specific communities. For instance, the Veterans' Employment and Training Service
+(VETS) launched an engagement initiative with Historically Black Colleges and
+Universities (HBCUs) to help connect service members and veterans with employment
+supports, spread awareness of VETS' work, and better understand the needs of underserved
+communities of color and their intersection with service members and veterans. For its part,
+the Office of Disability Employment Policy (ODEP) has launched several national online
+dialogues to solicit broad stakeholder input on the effectiveness of employment programs
+and services for people from underrepresented groups within the disability community.
+ODEP has also entered in a formal alliance with the American Association for Access,
+Equity, and Diversity, which includes a range of collaborative activities to advance
+inclusion of people with disabilities into the workforce. OSHA is also expanding its own
+alliance program to develop more voluntary, collaborative relationships with stakeholders,
+especially those that can reach vulnerable worker populations.
+Establishing equity focused Agency Priority Goals (APGs): APGs are two-year goals
+that provide agencies a mechanism to focus leadership priorities, set outcomes, and
+measure results, bringing attention to mission areas where agencies need to drive
+4
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES OF
+significant progress and change. To highlight the importance of this initiative, DOL has
+established an APG, An Economy for all Workers or "Equity APG", which encompasses
+the equity initiatives of twelve DOL sub agencies. Equity is also a core component of the
+Department's other two APGs: Strengthening America's Safety Net for Workers or "UI
+APG" and Making Safe, Healthful, Fair-Paying and Equitable Workplaces a Priority or
+"Worker Protection APG." These APGs prioritize the advancement of racial equity,
+diversity, and inclusion, to better support underserved communities, and to hold the
+Department accountable to this goal.
+5
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES OF
+Equity Action Plan for Protection of Workers' Wage and Hour Rights
+The Department of Labor's Wage and Hour Division (WHD) aims to serve low-paid workers
+and ensure that they are receiving all the wages they have earned. WHD cannot advance this
+mission without addressing the impact of systemic inequities on its policies and programs.
+Indeed, ongoing research suggests that economically marginalized and underserved workers
+tend to be most vulnerable to wage and hour violations. Data from the Current Population
+Survey, for instance, indicates that non-citizen workers, Hispanic workers, women workers,
+and Black workers are especially likely to experience minimum wage violations-that is,
+failure to receive earnings from their employers to which workers are legally entitled. The
+pandemic, moreover, highlighted poor compensation and working conditions faced by many of
+these workers in essential occupations and sectors who kept the country moving forward
+during the COVID-19 pandemic.
+Barriers to Equitable Outcomes
+Concentration of underserved workers, especially workers of color, immigrant
+workers, workers with disabilities, women, and workers with low levels of formal
+education, in occupations and sectors especially prone to wage and hour violations
+Lack of structures for communicating to workers about their workplace rights and
+access and availability of channels for complaints
+Worker fear of reporting potential violations due to employer retaliation, especially
+retaliation related to perceived immigration status
+Limited enforcement resources relative to the scale of the workforce served, with
+approximately one WHD investigator for every 190,000 workers
+Intended Impact on Barriers to Equity
+Target WHD initiatives to sectors disproportionately employing low-paid, essential
+workers most likely to experience wage and hour violations and where WHD
+actions will amplify effects on employer practices
+Improve workers' awareness of rights and knowledge of how to file complaints,
+especially by targeting education and training campaigns to sectors and regions
+most likely to have large proportions of vulnerable, low-paid workers and by
+working through trusted channels of communication, like community-based
+organizations
+Maximize WHD capacity to identify and address retaliation against workers who
+attempt to exercise their workplace rights, especially immigration-based retaliation
+Develop and leverage strategic partnerships and memorandums of understanding
+(MOUs) with other entities, including state and local governments and other federal
+agencies, to yield the greatest possible protections for low-paid, vulnerable workers
+Action, Tracking Progress, and Accountability
+Maximize Strategic Partnerships with State and Local Governments Informed by a
+Sector and Place-Based Enforcement Analysis
+6
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+WHD has historically focused enforcement on industries that employ some
+of the lowest-paid workers with the highest rates of wage violations; in
+addition, WHD will conduct a new enforcement analysis to understand
+comparative labor standards offered by relevant worker protection laws,
+including the scope of worker protections, the enforcement capacity of state
+and local partners, and available remedies across the country
+This enforcement analysis will answer the question, for each U.S. region
+and industrial sector, what are the different sources of protection that
+workers can expect to receive from different levels of government and
+community partners?
+The results of this enforcement analysis will inform the development of
+strategic partnerships and MOUs to ensure that workers are receiving the
+greatest possible protections through all tools available in particular regions
+and sectors of the country
+WHD will focus on ensuring that offices have the training, tools, and
+resources needed to unleash the power of partnerships with state and local
+governments, make MOUs more than commitments on paper, and ensure
+that MOUs are aligned with the enforcement analysis described above.
+These activities will be tracked as part of WHD's agency management plan,
+and the Department will also be held accountable through its continuing
+engagement with state and local governments and community and worker
+organizations
+Reaffirm WHD's Commitment to Preventing and Addressing Retaliation
+All WHD field staff will receive training to identify and address workplace
+retaliation, particularly immigration-based retaliation and the retaliation and
+exploitation of vulnerable workers, under the acts enforced by WHD; these
+trainings will also help investigators to identify more subtle or novel forms
+of retaliation based on fact patterns that are raised by worker or community
+stakeholders regularly interacting with vulnerable workers
+This activity will be tracked as part of WHD's agency management plan,
+and the Department will also be held accountable through its continuing
+engagement with state and local governments and community and worker
+organizations participating in strategic partnerships
+WHD will track as a performance milestone the launch of an agency-
+wide training initiative focused on retaliation and workplace crimes
+Continue Conducting Equity-Focused Outreach to Essential Workers
+WHD will continue to develop and disseminate worker-focused information
+and resources to educate workers and raise public awareness of workers'
+rights, including through posters, audio public service announcements,
+digital advertising banners, webinars, and educational workshops
+WHD will launch and track a media and outreach campaign focusing on
+economically marginalized communities and make materials available in
+multiple languages
+7
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Regional and local WHD offices will receive training on hosting effective
+listening sessions, including barriers faced by underserved communities
+when working with WHD, misclassification of workers as independent
+contractors when they should be classified as employees, and retaliation,
+among other topics
+Information gathered during listening sessions will be incorporated into
+future policies and practices; worker impact stories will be collected for
+analysis and incorporated in future outreach events
+This activity will be tracked as part of WHD's agency management plan,
+and the Department will also be held accountable through its continuing
+engagement with state and local governments and community and worker
+organizations participating in strategic partnerships
+Develop Strategic Partnerships with Community-Based Organizations, Worker
+Centers, Unions, and Industry Associations
+Many local and regional offices have spent years developing and
+maintaining meaningful strategic partnerships with community-based
+organizations, worker centers, unions, industry associations, consulates,
+faith-based organizations, and worker advocacy groups; many of these
+organizations work closely with vulnerable communities, including
+vulnerable communities of color, and are trusted by workers
+WHD will empower each level of the agency-local, regional, and
+national-to maximize the full potential of these strategic partnerships by
+providing training, resources, and guidance to ensure meaningful
+relationships that can impact these communities
+This activity will be tracked as part of WHD's agency management plan,
+and the Department will also be held accountable through its continuing
+engagement with state and local governments and community and worker
+organizations participating in strategic partnerships
+8
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Equity Action Plan for Unemployment Insurance
+The federal-state Unemployment Insurance (UI) system offers crucial income replacement to
+workers who have lost a job for good cause or through no fault of their own, as well as
+macroeconomic support for the overall economy during downturns. During the pandemic, UI
+benefits helped over 53 million workers and put some $800 billion into the economy.
+Despite its important relief and stimulative effects, UI's reach across jobless workers remains
+uneven. While different data sources sometimes point in different directions, the overall picture
+is that the current system of unemployment insurance-both before and during the pandemic-
+provides unequal access to benefits for marginalized communities, including racial and ethnic
+minorities, low-paid and part-time workers, workers with limited English proficiency, and
+workers with lower levels of formal education. For instance, pre-pandemic, unemployed Black
+workers were 21% less likely to receive benefits than white workers, according to the 2018
+Current Population Survey UI Non-Filers Supplement. The gap by education was even larger:
+30% of jobless workers with at least a college degree reported receiving benefits in 2018,
+compared to just 11% of workers with less than a high school degree.
+In light of these equity gaps, the Department of Labor is engaged in a comprehensive effort to
+improve timely access to benefits for eligible workers, above all for workers historically
+underserved by the UI system.
+Barriers to Equitable Outcomes (Depending on State Given Federal-State Structure of
+Program)
+Lack of structures for communicating with workers about their eligibility for
+benefits, the application process, and how to fulfill requirements for continuing to
+receive benefits (like ongoing certification of work search effort)
+Cumbersome application and ongoing certification processes impose barriers on
+underserved communities, including individuals with limited internet access,
+limited English proficiency, disabilities, and low trust in government
+Large backlogs of claims may have a disparate impact on individuals with historical
+barriers to access
+Fraud and identity verification detection methods may deter or disproportionately
+flag as ineligible underserved workers, especially workers of color or individuals
+who have changed names or genders
+Lack of disaggregated data on program access by demographic characteristics
+prevents regular equity tracking that could promote accountability and inform
+changes to program laws and administration
+Intended Impact on Barriers to Equity
+Promote greater worker awareness and knowledge about the program, including by
+conducting more outreach, training, education, and assistance
+Piloting efforts to streamline benefits application and certification, including by
+using more plain language in program communications, reengineering benefits
+9
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES OF
+application, eligibility determinations, and ongoing certification processes to be
+faster and less burdensome on workers
+Reducing backlogs that have disparate impacts on underserved communities,
+including through process engineering and supporting new hires
+Revise fraud detection tools to ensure that screening methods do not have disparate
+impacts on underserved communities, while still effectively combatting fraud
+Create new indicators of program access and barriers to identify equity gaps using
+UI program data, including key measures like application, recipiency, denial, and
+timeliness rates broken out by demographic groups (especially race, ethnicity,
+education, age, gender, disability status, geographic area, and language proficiency)
+Action, Tracking Progress, and Accountability
+Tiger Team Initiative
+Multi-disciplined "Tiger Teams" are being sent to individual states to
+identify technological, operational, and administrative short-term solutions
+in the areas of equitable access, timeliness, and fraud reduction
+Participating states will demonstrate gains in equity of recipiency and
+develop baseline measurements for the timeliness of benefits across racial
+demographics, and other attributes of underserved communities
+Equity Grants to States (through Unemployment Insurance Program Letter No. 23-
+21)
+This funding opportunity provides up to $260 million in grants to states to
+promote equitable access to UI programs, including by eliminating
+administrative barriers to benefits applications, reducing state workload
+backlogs, improving the timeliness of payments to eligible individuals, and
+ensuring equity in fraud prevention, detection, and recovery activities
+States submitted applications by the end of calendar year 2021; as part of
+their grant applications, states identified specific outcome measures tied to
+their proposed equity-related activities
+These outcome measures will be used to track the impact of their efforts; for
+instance, if grant funds were used to modify IT systems to allow individuals
+with two-letter last names or two-word last names to successfully submit an
+initial claim electronically, the state might measure first payment timeliness
+for those groups of claimants
+Equity grantee performance will be tracked as part of the Department's
+strategic plan; in addition, the Department will track state and claimant
+feedback on this initiative through ongoing engagements with state UI
+agencies and claimant groups
+Pilot Navigator Grants to States (through forthcoming Unemployment Insurance
+Program Letter)
+This funding opportunity provides up to $15 million in grants to states to
+create navigator programs-partnerships between state UI agencies and
+community-based organizations-to help underserved workers learn about,
+apply for, and if eligible, receive UI benefits
+10
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Selected states will partner with community-based organizations with
+documented experience working with underserved workers on activities that
+may include outreach, training UI agency staff, education, and general
+assistance with completing applications for UI benefits
+Community-based organizations participating as navigators will also
+regularly report on barriers experienced by the populations they are serving
+to state agencies and DOL; these organizations will then work with state UI
+agencies to collaboratively address identified barriers
+The Department will help states and community-based organizations better
+target their efforts by sharing equity indicators that can inform outreach,
+education, training, and assistance activities
+As a condition of receiving the grant, states and community navigators will
+participate in an evaluation conducted by the Department of Labor to
+identify promising practices and scalable approaches for future navigator
+initiatives
+Navigator grantee performance will be tracked as part of the Department's
+strategic plan; in addition, the Department will convene a learning
+community between navigator grantees to share best practices, common
+obstacles, and lessons learned across states
+Lastly, the Department will track state and claimant feedback on this
+initiative through ongoing engagements with state UI agencies and claimant
+groups
+Elizabeth Brandeis UI Equity Research to Action Center
+The Department of Labor's Chief Evaluation Office is launching a grant
+competition for an academic institution (or network of institutions) to create
+a new center to conduct and disseminate research related to the UI system,
+with a cross-cutting focus on equity in program administration and
+outcomes
+The research center will support training and teaching, data collection,
+research and evaluation, and outreach and education to researchers,
+practitioners, program administrators, policymakers, and the general public
+An important priority for the research center's work is recruiting, retaining,
+and training diverse students, scholars, and researchers, especially scholars
+and students who are affiliated with institutions that have not had the
+capacity to mentor students or conduct research on the UI program in the
+past
+Another important priority for the research center's work involves
+lartnership-building-including with state UI agencies, community and
+worker organizations, and the Department of Labor-to make the evidence
+that the research center generates actionable; this includes providing
+expertise to DOL and state UI agencies on research and evaluations, public
+programming, events, and trainings, and fellowship programs to bring
+researchers into government, for instance, to DOL through
+Intergovernmental Personnel Act assignments
+11
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES OF
+Equity Data Partnerships with States
+The Department of Labor's Chief Evaluation Office is initiating a series of
+pilot data partnerships with state UI agencies to receive state UI records and
+produce, for the first time, disaggregated federal indicators of access to UI
+benefits by demographic groups
+These partnerships will produce indicators of application, recipiency, denial,
+and timeliness by demographic groups and across regions within a state that
+state UI agencies can use to inform changes to program administration to
+improve equity for underserved populations, including through new
+outreach, education, and training
+States can use funds from the Equity Grants described above for these
+partnerships
+The Department is currently moving ahead with partnerships in five states,
+and plans to release initial results for these states by summer 2022
+The Department will recruit more states throughout 2022 and 2023, and will
+also produce broader lessons learned from these partnerships that will be
+applied to ongoing UI modernization efforts
+Equity data partnership progress will be tracked as part of the Department's
+strategic plan; in addition, the Department will convene a learning
+community between equity data partners to share best practices, common
+obstacles, and lessons learned across states
+The Department will track state and claimant feedback on this initiative
+through ongoing engagements with state UI agencies and claimant groups
+12
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Equity Action Plan for Improving Language Access
+Carrying out the mission of the Department of Labor requires reaching all segments of the
+population, including those individuals with limited English proficiency (LEP). According to
+the latest data available from the American Community Survey, in 2019 8.5% of the labor
+force reported limited English proficiency, totaling over 14 million workers. Data suggest that
+LEP workers are disproportionately likely to experience workplace violations, like wage theft,
+and during the COVID-19 pandemic language barriers posed significant risks to LEP workers
+who were unable to receive important health and safety information from employers or
+government agencies. The Department is committed to ensuring that all workers, including
+LEP workers, are fully aware of their rights, knowledgeable about the process for exercising
+their rights in the event of a potential violation, and able to report any suspected violations to
+appropriate authorities without fear of retaliation. Language access barriers prevent LEP
+workers from fully participating in programs and activities, and receiving important services
+provided by DOL.
+Barriers to Equitable Outcomes
+Translation and language access activities are frequently decentralized across each
+of the Department's agencies, with each agency being responsible for identifying
+and funding the language access needs of the populations they serve
+As a result of this decentralization, agency compliance with language access
+requirements has been inconsistent and, at times, runs the risk of being insufficient
+to fulfill the Department's interests and responsibilities of reaching all workers, and
+especially vulnerable workers
+Intended Impact on Barriers to Equity
+Improved understanding of the language needs of the populations we serve across
+all Departmental agencies
+Increasing internal DOL language capacity through hiring and retaining more
+bilingual and multilingual staff
+Development of centralized resources for Departmental agencies to use to meet
+needs for individual programs and populations served
+More Departmental information resources and interactions available in the
+languages used by populations served
+Action, Tracking Progress, and Accountability
+Agency-Specific Language Access Initiatives
+Individual agencies, including the Occupational Safety and Health
+Administration (OSHA) and the Mine Safety and Health Administration
+(MSHA), are planning efforts to reach LEP workers in the populations that
+these agencies currently serve over the next year
+13
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+OSHA's Susan Harwood Training Grant Program funds hazard recognition
+and prevention training in hard-to-reach and diverse communities of at-risk
+workers; OSHA is planning to expand and track the number of Harwood
+grant applicants proposing to deliver or develop materials for training in
+languages other than English to broaden the reach of this important program
+to more non-English language speaking communities that may be at risk for
+workplace safety and health dangers
+MSHA is planning several initiatives to expand its reach to Spanish
+language-speaking populations, including by recruiting for new bilingual
+positions in regions where there is a mining community that is
+predominantly Spanish-speaking, developing more bilingual signs to inform
+mine workers of health and safety risks in languages they can read and
+understand, and introducing new bilingual training assistance, including for
+mine operators and contractors, to ensure that health and safety training
+initiatives reach all mine workers
+These activities will be tracked through OSHA and MSHA's agency
+management plans
+OSHA will track as a performance measure the percentage of
+Harwood grant applicants proposing to deliver or develop materials
+for training in languages other than English
+In addition, MSHA will track as a performance milestone when half
+of all MSHA signs are available in Spanish
+Greater Department-wide Language Access Planning
+The Department is requesting funds to support a centralized team, staffed at
+both the national and regional levels by the Civil Rights Center and the
+Office of Public Affairs, to develop greater consistency in the delivery of
+language access services across all Department agencies and programs
+This centralized language access team would also develop and provide
+training to DOL employees on language access policies and procedures,
+oversee the ongoing translation of vital information on DOL's website, and
+ensure the Department's digital communications are reaching LEP
+communities
+The centralized language access team would use existing data along with
+new surveys of Departmental agency staff to better understand language
+needs for common material (such as the Department's website) as well as
+the language needs of local and regional service populations, providing
+support at both the national and regional/local levels
+If funded, this team would track its activities through new performance
+indicators in the Department's management plan
+14
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+Equity Action Plan for Workforce Training
+The mission of the public workforce system is to develop the welfare of job seekers by
+improving their working conditions and advancing opportunities for profitable employment. To
+accomplish this goal and foster equity, the Department must center historically marginalized
+and underserved workers and job seekers. Prior to the COVID-19 pandemic, for example, the
+Bureau of Labor Statistics reported that the unemployment rate for Black workers was 6.1%
+compared to 3.3% for white workers. These disparities have persisted through the pandemic
+and the recovery; as of November 2021, Black workers are 65% more likely to be unemployed
+than their white counterparts.
+In order to realize its mission, the Department must intensify its focus on workers who have
+been and continue to be marginalized in the public workforce system and the labor market.
+Barriers to Equitable Outcomes
+Outreach efforts are necessary to understand the unique challenges faced by
+members of underserved communities in accessing ETA programs, services, and
+benefits, and to achieve equitable outcomes
+Missing data and incomplete demographic data creates challenges in assessing the
+equity of access to services and outcomes within workforce programs; deeper
+analysis into workforce performance data is required to identify programmatic
+barriers to marginalized job seekers and set accountability goals
+Current discretionary grant policies and processes may limit the ability of smaller
+diverse organizations to access federal workforce funding; these organizations,
+often based locally in underserved communities, may be particularly well
+positioned to address the regional training, education, and labor market barriers of
+job seekers
+Specific populations, like individuals who were formerly incarcerated and at-risk
+youth, may require additional support and programs to address their unique
+challenges
+Workforce development training and services that do not lead to actual job
+placements or that result in low quality employment, particularly for workers from
+underserved communities
+Intended Goals to Address Barriers to Equity
+Identify programmatic barriers, through workforce system data analysis, that
+prevent underserved populations from receiving full and equitable access to
+workforce services and establish performance measures to drive accountability
+Establish and maintain strong relationships with stakeholders representing
+underserved communities to better understand and address the needs of the
+community
+Leverage stakeholder feedback and data analytics to identify barriers in the
+equitable distribution of discretionary grant funding and create performance
+measures to incentivize behaviors that will advance equity goals
+15
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES OF
+Develop and continue to invest in programs and services that mitigate the
+challenges faced by underserved communities with specific needs and expand
+diversity within Registered Apprenticeships
+Invest in industry and sector-based high road training partnerships that focus on
+equity and job quality, bringing together workers, labor and other worker
+organizations, employers, and training entities to jointly develop workforce
+development solutions with pathways to quality jobs especially for vulnerable
+workers
+Action, Tracking Progress, and Accountability
+Leverage and Expand Public Workforce System Data to Identify and Address
+Barriers to Underserved Populations
+Accurate and complete data are critical to understanding the degree to which
+employment and training services are administered equitably; ETA plans to
+undertake a number of actions to assess the adequacy and limitations of its
+demographic program data, mitigate challenges presented by incomplete
+data where feasible, and take steps to improve the quality and scope of data
+collections including data disaggregation
+ETA will identify data collection techniques and features of program
+administration that are associated with high or low demographic response
+rates, develop recommendations for future information collections, and
+provide technical assistance to states to improve demographic data quality
+ETA plans to expand the scope of apprenticeship data collected in the
+Registered Apprenticeship Partners Information Management Data System
+(RAPIDS) to cover all states to support comprehensive demographic
+analyses of the Registered Apprenticeship system
+ETA plans to analyze participant outcomes and access to services
+segmented by salient demographic variables for key ETA programs; the
+results of this analysis, along with qualitative analysis and other evidence,
+will inform the development of equity-related strategies, activities, and
+performance metrics in FY23
+ETA will be held accountable for the completion of these activities through
+milestones tracked in the agency management plan
+Engage with Stakeholders to Identify Barriers to Equity in ETA Administered
+Services, Programs, and Benefits
+ETA will engage with stakeholders that represent underserved communities
+to identify equity barriers in employment and training services for
+individuals and to discuss potential barriers and solutions for organizations
+seeking grants
+ETA will use the information gathered through stakeholder outreach to work
+with existing grantees to improve access to services in structurally
+disadvantaged communities
+ETA will work closely with the Diversity and Inclusion Registered
+Apprenticeship Technical Assistance (RA-TA) Center of Excellence to
+16
+OF
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES As OF
+ensure that it is successful in providing technical assistance to employers
+and industries in order to expand opportunities in Registered Apprenticeship
+to underserved populations
+ETA will also work with DOL leadership to support the Advisory
+Committee on Apprenticeship (ACA) which includes a diverse set of
+stakeholders from across the nation, reflective of communities, including
+those communities most affected by poverty, to build a Registered
+Apprenticeship Program (RAP) that works in all communities
+ETA will be held accountable for the completion of these activities through
+milestones tracked in the agency management plan
+Foster Equity in Discretionary Grantmaking
+ETA and VETS will conduct an equity assessment to identify and address
+barriers that prevent organizations representing underserved communities
+from receiving discretionary grant funding; this includes a review of the
+discretionary grantmaking process, including conducting analysis on
+grantees, participants served, and associated outcomes to identify
+opportunities to advance equity goals and develop performance measures
+and milestones to drive accountability in FY23
+ETA and VETS will assess the developmental phase in grantmaking to
+identify opportunities for pre-notices, stakeholder engagements, and other
+tools to increase feedback opportunities for stakeholders, test and assess the
+feasibility of the proposed approaches as well as an extended application
+period
+In order to identify and eliminate outdated and unnecessary requirements
+and inform planning and procedures for the FY 2023 grant year, ETA and
+VETS will conduct a retrospective review of FY 2022 grants and program
+designs and issue new guidelines as appropriate
+ETA and VETS will be held accountable for the completion of these
+activities through milestones tracked in agency management plans
+Pilot Programs and Services, Issue Grants, and Provide Technical Assistance (TA)
+to Mitigate Deep Barriers Faced by Specific Populations
+ETA will continue to invest in employment and training services for those
+most affected by the COVID-19 pandemic, including historically
+marginalized groups such as women, people of color, immigrants, youth,
+persons with disabilities, and justice-impacted individuals, among others by
+providing TA on evidence-based strategies to improve employment
+outcomes for program participants
+As part of a White House-led effort to incorporate Community Violence
+Intervention (CVI) strategies, ETA will inform, support, and fund workforce
+system practitioners to participate in CVI; in addition to issuing guidance to
+grantees and leading cross-agency guidance for community-wide impact,
+ETA will award Reentry Employment Opportunities (REO) youth grants
+that focus on CVI strategies and best practices for serving populations that
+have higher incidents of poverty and homelessness
+17
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES OF
+ETA will continue testing and evaluating pre-release services for
+incarcerated individuals, through a third round of the Pathways Home grants
+in FY 2022
+ETA will continue administering the WIOA Indian and Native American
+Program (INAP) and publish a funding opportunity to award INAP grants;
+ETA plans to continue engaging with the Native American Employment and
+Training Council and to consider their recommendations on INAP program
+administration
+ETA will continue to implement State Apprenticeship Expansion, Equity,
+and Innovation (SAEEI) grants that bolster states' efforts to expand
+programming and recruitment strategies to attract a diverse workforce
+ETA will be held accountable for the completion of these activities through
+milestones tracked in the agency management plan
+Establish and Invest in Industry and Sector-based High Road Training Partnerships
+(HRTPs) that Build Pathways to Quality Jobs for Vulnerable Workers.
+ETA will invest in high road training partnerships (HRTPs) that bring
+together workers, labor and other worker organizations, employers, and
+training providers to collaborate in developing industry and sector-based
+workforce solutions that focus on equity and job quality
+By establishing a framework in which industry leaders (workers, labor, and
+employers) and training entities partner to address industry and workforce
+needs in real-time, HRTPs provide marginalized workers with pathways to
+quality jobs (including actual employment in good jobs), while employers
+benefit from a skilled workforce and increased market competitiveness
+ETA will consider how to integrate the HRTP approach into existing
+discretionary grants to promote economic mobility and equitable access to
+good jobs for underserved and marginalized workers
+18
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+STATES OF
+Equity Action Plan for Government Apprenticeships
+Advancing equity requires a qualified and diverse Federal Government workforce that is
+representative of the communities that it serves. One way to advance this goal is through
+developing Government Apprenticeships that can provide new pathways to federal service for
+job applicants and help close the gap for the demand for skilled workers.
+Barriers to Equitable Outcomes
+Existing hiring practices and pre-qualifications may inadvertently dissuade or
+exclude otherwise talented and diverse candidates from accessing employment
+apprenticeship opportunities in the Federal Government
+Recruitment geography for most Federal Government jobs is often limited to larger,
+high-cost metropolitan areas (e.g., San Francisco, CA; Washington, D.C.; Boston,
+Massachusetts) which may be a deterrent for talented individuals unable or
+unwilling to relocate away from their families and communities
+Lack of support for relocation and completion of apprenticeship programs (e.g.,
+transportation, flexible timing, access to childcare, and support for additional
+education, training, and pre-apprenticeship opportunities)
+Intended Impact on Barriers to Equity
+Provide new pathways for diverse candidates to find employment in the Federal
+Government through developing a framework for Public Service/Federal
+Government Registered Apprenticeships that other program offices or agencies can
+implement
+Expand the recruitment pool by leveraging Historically Black Colleges and
+Universities (HCBUs), other educational institutions serving diverse populations,
+national advocacy organizations, and other local community partners that can help
+promote on-ramps to Registered Apprenticeship opportunities; evaluating eligibility
+for supports for unemployed, underemployed, underrepresented individuals, as well
+as communities that have been adversely impacted by the pandemic to align with
+the President's diversity and reemployment goals
+Provide support, including mentors/coaches or other supportive services, needed to
+persist, succeed, and complete an apprenticeship program
+Action, Tracking Progress, and Accountability
+Conduct Stakeholder Outreach to Government Agencies
+Host listening sessions with existing federal agencies that sponsor existing
+apprenticeship programs to identify best practices and lessons learned
+Establish a partnership effort with the Office of Personnel Management
+(OPM) to explore opportunities to expand public service apprenticeships,
+particularly in common occupations across the Federal Government
+Launch Apprenticeship Programs within DOL and Beyond
+19
+U.S. Department of Labor
+Equity Executive Order
+Implementation
+MENT STATES OF
+ETA plans to lead by example by launching an internal apprenticeship
+program based on the successful pathways apprenticeship program DOL
+piloted several years ago; the goal is to develop a framework and structure
+that other DOL agencies and offices can eventually utilize
+ETA is working with other agencies within DOL to explore opportunities to
+expand apprenticeship across the Department
+ETA plans to track development of Federal Government Registered
+Apprenticeship Programs in the Registered Apprenticeship Partners
+Information Management Data System (RAPIDS)
+Innovate Recruitment and Support Strategies to Target Public Service/Federal
+Government Registered Apprenticeship Opportunities for Underrepresented
+Communities by Expanding Jobs to the Areas in Which They Live
+Widely publicize recruitment for key positions used across multiple
+agencies (e.g., program analysts, program specialists, training
+representatives, project and contracting officers, etc.) to create economies of
+scale in on-boarding and training apprentices
+Work with OPM to consider options for larger-scale recruitment and
+pathway opportunities that can benefit multiple agencies in need of more
+Federal workers, while offering greater flexibilities that expand jobs to more
+localities
+Consider using "Opportunity Zones" and other areas highlighted by the
+Federal Government with grants and incentives for DEIA development and
+support to define geographic areas
+Use existing resources such as the Universal Outreach Tool to help with
+targeting and outreach
+20

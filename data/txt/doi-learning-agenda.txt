@@ -1,0 +1,849 @@
+DOI FY 2022-2026 Learning Agenda
+U.S. Department of the Interior
+FY 2022-2026 Learning Agenda
+OF
+The
+is
+MARCH 3,
+DOI FY 2022-2026 Learning Agenda
+Table of Contents
+Introduction: Building and Using Evidence at the Department of the Interior
+3
+Fiscal Years 2022 - 2026 DOI Strategic Plan
+4
+Stakeholder Engagement
+4
+Guidance for Navigating the Learning Agenda
+5
+Strategic Goal 1: Promote well-being, equity, and justice for Tribes, American Indians, Alaska
+Natives, Native Hawaiians, and insular communities
+6
+Related Studies and Research
+6
+Priority Learning Questions
+8
+Planned Activities
+8
+Strategic Goal 2: Conserve, protect, manage, and restore natural and cultural resources in the
+face of climate change and other stressors
+10
+Related Studies and Research
+10
+Priority Learning Questions
+13
+Planned Activities
+14
+Strategic Goal 3: Sustainably balance the use of resources while supporting communities and
+the economy
+16
+Related Studies and Research
+16
+Priority Learning Questions
+18
+Planned Activities
+19
+Strategic Goal 4: Serve and honor the public trust
+21
+Related Studies and Research
+21
+Priority Learning Questions
+22
+Planned Activities
+22
+Page 2 of 23
+DOI FY 2022-2026 Learning Agenda
+Introduction: Building and Using Evidence at the Department of the Interior
+The U.S. Department of the Interior (DOI or the Department) protects and manages the
+Nation's natural resources and cultural heritage; provides scientific and other information
+about those resources; and honors its trust responsibilities or special commitments to
+American Indians, Alaska Natives, and affiliated island communities. To fulfill its mission in the
+most effective manner, DOI recognizes the importance of building and using evidence as a tool
+in program delivery. The bureaus and offices that constitute the Department have a range of
+capacity and maturity for using and building evidence; as such, a number of new and existing
+activities will help move the Department forward, including program evaluations, program
+audits, internal control reviews, performance data analysis, policy analysis, and the wealth of
+scientific research and data visualization that DOI provides to the public. This learning agenda is
+an initial look at how DOI leadership can establish an evidence base to inform decision making
+by focusing on the highest priority and most challenging questions for the Department.
+The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) P.L 115-435
+requires federal agencies to establish and use a learning agenda for planned learning and
+evidence-building. The four-year learning agenda lays out a set of priority learning questions to
+begin DOI's process to build evidence, improve its use, and report out on progress made. The
+learning agenda aligns with and supports the DOI (Fiscal Years) FY 2022-2026 Strategic Plan.
+However, this learning agenda is a snapshot of key priority areas where the Department wants
+to put extra focus on learning needs. As DOI continues to learn and build evidence, and as new
+questions and priorities arise, the plans established in this learning agenda may change.
+The Department of the Interior champions evidence-building activities within the Office of
+Planning and Performance Management (PPP). PPP's Director, who also serves as DOI's
+Evaluation Officer, works closely with the Chief Data Officer and Statistical Official named as
+part of implementation of the Evidence Act. These three officials provide guidance, direction,
+and consultation, as well as technical assistance, to bureaus, departmental offices, and regional
+and field level offices in building and using evidence. The leadership of the Evidence Act officials
+was key in developing the learning agenda and will be instrumental in answering the priority
+learning questions and identifying further evidence-building needs. As evidence is built, the
+officials will also ensure that the evidence is used for decision making, is equitable and
+transparent, and that the Department's maturity for evidence-building and use continues to
+improve. DOI's Evaluation Policy will guide the implementation of program evaluations within
+the Department and inform how evidence is gathered, used, and shared externally and
+internally.
+Along with answering the priority learning questions in the learning agenda, the Department is
+developing its evidence-building capabilities, building maturity, and identifying current
+capabilities from which improvements in the upcoming years can be based. DOI's capacity
+assessment reviews the Department's coverage, quality, methods, effectiveness, and
+independence in its use of statistics, evaluation, research, and analysis and lays out a plan for
+building that maturity. Improving DOI's evidence-building capacity will better enable the
+Department to answer the learning agenda questions and be more effective in using evidence
+in decision-making.
+Page 3 of 23
+DOI FY 2022-2026 Learning Agenda
+Fiscal Years 2022 - 2026 DOI Strategic Plan
+The learning agenda is aligned with the FY 2022-2026 DOI Strategic Plan which provides the
+framework for identifying and pursuing priority learning questions for the Department. In the
+Strategic Plan, DOI lays out four strategic goals:
+Goal 1: Promote well-being, equity, and justice for Tribes, American Indians, Alaska
+Natives, Native Hawaiians, and insular communities
+Goal 2: Conserve, protect, manage, and restore natural and cultural resources in the
+face of climate change and other stressors
+Goal 3: Sustainably balance the use of resources while supporting communities and the
+economy
+Goal 4: Serve and honor the public trust
+In pursuit of these strategic goals, the Department is also striving to address four intersecting
+challenges that President Biden identified: COVID-19, economic recovery, racial equity and
+climate change.
+DOI approached the development of the FY 2022-2026 Learning Agenda as a way to further
+leadership conversation and dialogue around Departmental initiatives that support specific, and
+span multiple, strategic goal areas. These include:
+Accelerating responsible development of renewable energy on public lands and waters;
+Strengthening the government-to-government relationship with Tribal nations;
+Making investments to support the Administration's goal of creating millions of family-
+supporting and union jobs;
+Working to conserve at least 30% each of lands and waters by the year 2030; and
+Centering equity and environmental justice.
+As DOI stewards its public lands, increases environmental protections, pursues environmental
+justice, and honors the nation-to-nation relationship with Tribes, integration of strategic goals,
+Agency Priority Goals, learning questions, and enterprise risk reduction strategies - and using
+this suite of program management tools in the most effective manner possible - is an
+intentional management objective. The DOI Learning Agenda presents priority learning
+questions in alignment with the Department's strategic goals, outlines prior research that will
+inform the approach to answering a priority question, and provides information on initial plans
+to conduct evidence-building activities to address priority questions in the coming years.
+Stakeholder Engagement
+DOI engaged internal and external stakeholders in the process of developing DOI's learning
+agenda. The Evaluation Officer, Statistical Official, and Chief Data Officer, along with other
+leaders in the Department, identified areas where priority learning questions would need to be
+answered to better accomplish the DOI mission and to support the Biden-Harris administration
+and the priorities of Secretary Haaland. The Department also held consultations with Tribes and
+Page 4 of 23
+DOI FY 2022-2026 Learning Agenda
+Alaska Native Corporations, covering topics including climate impacts, equity, investments from
+the Bipartisan Infrastructure Law, government-to-government consultations, and the contents
+of and performance goals in DOI's FY 2022-2026 Strategic Plan. These consultations and the
+specific feedback Tribal leaders provided will be incorporated into performance and learning
+plans and DOI's priority learning questions. The process of developing learning questions
+revealed many opportunities for evidence-building within the Department and the importance
+of maturing DOI's evidence-building capacity.
+Guidance for Navigating the Learning Agenda
+The DOI FY 2022-2026 Learning Agenda is organized within the framework of the FY 2022-2026
+Strategic Plan. The learning agenda is divided into sections for each of the strategic plan's four
+strategic goals. Each strategic goal section contains a brief overview of the strategic goal and
+the strategic objectives that support the strategic goal; studies and research relating to the
+strategic goal; the priority learning questions; and initial, planned activities for the next four
+years to answer priority learning questions.
+A learning agenda is not a fixed plan, but a guide to identify the Department's learning needs
+and how evidence-building and learning will proceed. As DOI learns and builds evidence, the
+learning agenda will remain flexible and responsive to new information and data. The planned
+activities in each section identify how the Department will begin to build data and evidence to
+answer priority learning questions. As learning plans are adjusted, the Department will report
+progress in the Annual Performance Plan and Report (APP&R).
+DOI will conduct activities using methods including foundational fact-finding, policy analysis,
+performance measurement and analysis, and program evaluations. All of these types of
+evidence-building activities will be important to advance learning. DOI will prioritize increasing
+the use of formal program evaluation, a more rigorous form of evidence-building, and will
+publish planned program evaluations and results each year, per the Department's Evaluation
+Policy, in the DOI Annual Evaluation Plan.
+Page 5 of 23
+DOI FY 2022-2026 Learning Agenda
+Strategic Goal 1: Promote well-being, equity, and justice for Tribes, American
+Indians, Alaska Natives, Native Hawaiians, and insular communities
+The Department is a multi-faceted agency, and part of the Department's goals are to promote
+equity and justice for Tribes, American Indians, Alaska Natives, Native Hawaiians, and insular
+communities. The scope of the Department's responsibilities includes fulfilling fiduciary trust
+responsibilities, supporting Tribal self-governance and self-determination, and strengthening
+the government-to-government relationship between the Federal Government and Tribal
+nations. Additionally, the Department funds 33 Tribal colleges, universities, technical colleges,
+and post-secondary schools that provide quality education for students to equip them to meet
+the demands of the future. The Department also provides technical assistance through
+partnerships with Native Hawaiian and insular communities to efficiently and effectively secure
+and manage Federal funds through planning and program activities.
+This strategic goal is supported by the following strategic objectives in the FY 2022-2026 DOI
+Strategic Plan:
+Tribes and the U.S. Department of the Interior have an effective government-to-
+government relationship and trust and treaty obligations are upheld
+Tribal, Native Hawaiian, and insular communities are safe and healthy
+Tribal, Native Hawaiian, and insular communities have economic security and growth
+Bureau of Indian Education students have the education necessary for future success
+Related Studies and Research
+The U.S. Government Accountability Office (GAO) and DOI's Office of Inspector General
+completed recent reports related to strategic issues facing DOI's goal to promote well-being,
+equity, and justice for Tribes and insular communities.
+Missing or Murdered Indigenous Women: New Efforts Are Underway but Opportunities Exist to
+Improve the Federal Response (GAO, 2021). 1 This study examined the extent to which the
+number of missing or murdered AI/AN women in the United States is known and whether U.S.
+Department of Justice and DOI have taken steps to address the crisis. GAO recommended that
+DOI develop plans to implement the requirements in Savanna's Act and the Not Invisible Act of
+2019 that remain unfulfilled past their statutory deadlines.
+Native American Cultural Resources: Improved Information Could Enhance Agencies' Efforts to
+Analyze and Respond to Risks of Theft and Damage (GAO, 2021). 2 This study examined
+approaches that federal agencies have taken to prevent and detect theft and damage and
+factors that have hindered agencies' efforts to prevent, investigate, and prosecute incidents of
+theft and damage. GAO recommended that DOI take steps to identify and obtain the
+information needed to target its efforts for analyzing and addressing risks to American Indian
+1 https://www.gao.gov/products/gao-22-104045
+2 https://www.gao.gov/products/gao-21-110
+Page 6 of 23
+DOI FY 2022-2026 Learning Agenda
+cultural resources and share any promising practices with the Departmental Consulting
+Archeologist.
+National Park Service Employees Violated Federal and National Park Service Regulations During
+Cleanup Efforts at Virgin Islands National Park (DOI OIG, 2021) 3 The OIG found that NPS did not
+follow its compliance and protection process required by Section 106 of the National Historic
+Preservation Act to protect archeological, cultural, and historic resources before a crew started
+work in 2018 at the Virgin Islands National Park. The crew's work damaged artifacts at the site.
+The OIG also found that the NPS failed to comply with a DOI regulation under the Archeological
+Resources Protection Act, which seeks to protect archeological resources on federal lands.
+The Bureau of Indian Affairs Jeopardized Land Buy-Back Program Accomplishments by
+Delegating Land Title Authority (DOI OIG, 2021). 4 The OIG evaluated DOI's Land Buy-Back
+Program for Tribal nations, finding that BIA violated federal regulations by delegating land title
+authority to its Acquisition Center. The delegation of land title authority resulted in confusion
+about roles and responsibilities, allegations of title document defects, breakdown in
+communication between offices, and the potential for litigation.
+Facility Improvements Still Needed at Pine Hill School (DOI OIG, 2021). 5 The OIG completed a
+follow-up inspection of Pine Hill School to determine whether the facility conditions had
+changed since the OIG's last review. The OIG found that BIA and the school implemented 9 of
+the 12 recommendations from the OIG's 2016 inspection and addressed a number of safety and
+health issues. However, some of the issues identified in the OIG's 2016 inspection remained
+unresolved-mainly the extensive water damage and mold in the library, kindergarten
+classroom, and the gymnasium, as well as general deficiencies that were present throughout
+the school. The OIG also identified additional safety, health, and security risks during this
+inspection not covered in the 2016 inspection.
+Indian Education: Schools Need More Assistance to Provide Distance Learning (GAO, 2021). 6
+This study examined the extent to which BIE had provided schools with guidance to develop
+and implement distance learning programs during the COVID-19 pandemic, and whether BIE
+students had the technology they needed to participate in such programs. GAO recommended
+that BIE provide comprehensive guidance to schools on distance learning and establish policies
+and procedures to ensure it has complete, accurate, and up-to-date information on schools'
+technology needs.
+Land management explains major trends in forest structure and composition over the last
+millennium in California's Klamath Mountains (Knight et al, 2022). 7 This study by the U.S.
+Geological Survey, the Yurok and Karuk Tribes, and others, suggested that traditional ecological
+  https://www.doioig.gov/reports/investigation/national-park-service-employees-violated-federal-and-national-
+park-service
+4 https://www.doioig.gov/reports/inspection-evaluation/bureau-indian-affairs-jeopardized-land-buy-back-program
+5 https://www.doioig.gov/reports/inspection-evaluation/facility-improvements-still-needed-pine-hill-school
+6 ittps://www.gao.gov/products/gao-21-492t
+7 https://www.pnas.org/doi/10.1073/pnas.2116264119
+Page 7 of 23
+DOI FY 2022-2026 Learning Agenda
+indigenous practices to remove forest fuels in what is now northern California created healthier
+forests.
+Compacts of Free Association: Implications of Planned Ending of Some U.S. Economic
+Assistance (GAO, 2022) 8 GAO previously found the Federated States of Micronesia and
+Republic of the Marshall Islands trust funds may not provide sustainable income and
+recommended that DOI work to develop a trust fund distribution policy to address the funds'
+sustainability. In this report, GAO studied the effects of the ending certain assistance under the
+compacts to the aforementioned and Palau, as well as the sustainability of compact trust fund
+disbursements to replace grants and financially support the three nations.
+Priority Learning Questions
+1.1. How effective are DOI surveys to get feedback on the usefulness of available materials
+and tools, particularly in light of limited broadband connectivity of some Tribes?
+1.2.
+How well does DOI collect and document traditional knowledge that informs
+decisions?
+1.3. What challenges are Tribes facing in their ability to reclaim remaining abandoned
+mine lands?
+1.4. How effective is DOI in upholding its responsibilities of the trust and treaty
+relationships with Tribes and the Federal Government? What specific improvements
+need to be made in coordination among federal agencies, improving notice to Tribes,
+and ensuring consistency and accountability in achieving meaningful consultations?
+1.5. How effective is DOI at supporting Tribes to be successful in self-determination or self-
+governance? What are the factors of successful self-determination or self-governance
+that DOI can support?
+1.6. How can DOI better support Tribes to establish and use Indian Forest Land Assistance
+Accounts (FL) funds to develop and enhance natural resource programs?
+1.7. To what extent are the pilot Interactive Beneficiary Kiosks effective at providing
+service to a variety of beneficiaries? To what extent does the design of the pilot
+Interactive Beneficiary Kiosk allow for beneficiaries of various ages, geographic
+locations, and other attributes to access information about their trust accounts more
+easily?
+1.8. How effectively is the Bureau of Indian Education (BIE) data being used to support
+improving student achievement? What organizational processes and data most affect
+education service delivery? What processes and data are being used for decisions
+impacting education service delivery and what are the outcomes?
+Planned Activities
+Plans for evidence-building are under development. DOI will strive to leverage existing work
+underway while expanding the Department's ability to track and use evidence for decisions. For
+8
+https://www.gao.gov/products/gao-22-104436
+Page 8 of 23
+DOI FY 2022-2026 Learning Agenda
+strategic goal 1 questions, the Department will pay particular attention to learning that comes
+from Tribal consultations. Initial activities include:
+An investigation of identified sites on Tribal lands that require remediation from prior
+coal mining activity. The purpose of the investigation will be to determine what is
+holding Tribes back from completing reclamation work and to identify potential
+solutions. (supporting priority question 1.3)
+An implementation evaluation that looks at the interactions using the Interactive
+Beneficiary Kiosk as part of the pilot program and will collect metrics about the type of
+request made, the duration of the interaction, and the location where the Interactive
+Beneficiary Kiosk was used. The Interactive Beneficiary Kiosk pilot users will be included
+in BTFA's survey of call center users and that data will be included in the Interactive
+Beneficiary Kiosk Evaluation. (supporting priority question 1.7)
+A process evaluation to identify what BIE processes and data exist and their connections
+to student outcomes. This will inform providers and stakeholders of the connections
+with current decisions from data and the connection to program goals and objectives.
+Understanding this, the process evaluation method will identify the extent that program
+activities have been implemented based on previous data-informed decisions and
+results related to academic performance. (supporting priority question 1.8)
+Page 9 of 23
+DOI FY 2022-2026 Learning Agenda
+Strategic Goal 2: Conserve, protect, manage, and restore natural and cultural
+resources in the face of climate change and other stressors
+DOI is a steward of more than 480 million acres of public lands accounting for almost 20
+percent of the Nation's land mass, and over 760 million acres of cooperatively managed marine
+areas comprising approximately 25 percent of U.S. waters. DOI ensures that America's natural
+endowment - the natural land and water resources of the United States- is conserved for the
+benefit, use, and enjoyment of current and future generations. In the face of climate change
+and other stressors, DOI uses the best available science, evidence-based natural resource
+management techniques, technology, engineering, and partnerships and alliances to guide
+stewardship of public lands and waters. The Department, in partnership with States, local, and
+Tribal governments, as well as agricultural and forest landowners, fishers, non-profit
+organizations, and other key stakeholders, is working to advance the goals of America the
+Beautiful to tackle climate change, stem the decline of biodiversity, and improve equitable
+access to nature. The Department will continue to support conservation and restoration in a
+manner that is faithful to its guiding principles-building a locally led movement that benefits
+people and the economy, is anchored in science, honors Tribal sovereignty, and respects
+private landowners.
+This goal is supported by the following strategic objectives in the FY 2022-2026 DOI Strategic
+Plan:
+Lands, waters, and heritage are conserved for present and future generations
+Species, habitats, and ecosystems are protected, sustained, and healthy
+People find enjoyment and take pride in our lands, waters, and heritage
+Related Studies and Research
+Fourth National Climate Assessment (USGCRP, 2018) 9 Required by the Global Change Research
+Act of 1990, the U.S. Global Change Research Program provided the fourth National Climate
+Assessment to Congress and the President that, per the law, integrates, evaluates, and
+interprets the findings of the Program; analyzes the effects of global change on the natural
+environment, agriculture, energy production and use, land and water resources, transportation,
+human health and welfare, human social systems, and biological diversity; and analyzes current
+trends in global change, both human-induced and natural, and projects major trends for the
+subsequent 25 to 100 years.
+The Status of Tribes and Climate Change Report (Institute for Tribal Environmental
+Professionals Tribes and Climate Program and the BIA Tribal Climate Resilience Program,
+2021). 10 This study found that inadequate funding remains one of the greatest barriers for
+Tribes planning for and adapting to climate change, as at least $6.2 billion will be needed over
+the next 50 years to protect, replace, and move existing Tribal infrastructure.
+9 https://nca2018.globalchange.gov/chapter/front-matter-about,
+10 https://sites.google.com/view/stacc2021-itep/home
+Page 10 of 23
+DOI FY 2022-2026 Learning Agenda
+Biodiversity and Climate Change Workshop Report (IPBES and IPCC, 2021). 11 This co-sponsored
+workshop synopsis report provided ongoing and future assessments by both the
+Intergovernmental Panel on Climate Change and the Intergovernmental Platform on
+Biodiversity and Ecosystem Services related to the connections between climate and
+biodiversity.
+Plan to Conserve Global Forests: Critical Carbon Sinks (US Department of State, 2021). 12 This
+report presents the USG approach to conserving critical global terrestrial carbon sinks, a plan to
+catalyze the global effort to conserve and restore the forests and other ecosystems that serve
+as critical carbon sinks.
+Department of the Interior Climate Action Plan (DOI 2021). 13 This plan presents actions that
+DOI is currently or will undertake to address the impacts and threats from climate change. The
+plan identifies DOI's actions for adaptation and resiliency and its five primary vulnerabilities.
+America the Beautiful Plan (DOI, CEQ, USDA, Commerce, 2021). 14 This plan presents President
+Biden's goal to conserve, connect, and restore 30 percent of America's lands and waters by
+2030. This plan lays out how federal agencies will pursue a locally led and voluntary, nationwide
+effort to conserve, connect, and restore lands, waters, and wildlife. The plan also outlines key
+principles that will guide conservation efforts.
+State of the Birds (USFWS, USGS, NPS, USFS, AFWA, and 24 other partners in the U.S.
+Committee of the North American Bird Conservation Initiative). 15 This report calls attention to
+drastic declines of some the most common birds in our nation's forests, grasslands, coastlines,
+and other habitats. A consortium of bird conservation organizations and wildlife agencies is
+currently working on the 2022 State of the Birds report. The consortium and report may be a
+model for reviewing the condition of fish and wildlife habitats and populations more broadly as
+part of the America the Beautiful campaign.
+Climate Benefits, Co-benefits, and Trade-offs of Green Infrastructure: A systematic literature
+review (Journal of Environmental Management, 2021). 16 This research made recommendations
+for planning and design of green infrastructure to maximize multiple benefits and minimize
+trade-offs for climate benefits and co-benefits.
+EPA's Social Vulnerability Report: Climate Change and Social Vulnerability in the United States:
+A Focus on Six Impacts (EPA, 2021). 17 This report highlighted the degree to which four socially
+vulnerable populations- - defined based on income, educational attainment, race and ethnicity,
+and age - may be more exposed to the highest impacts of climate change.
+11 ttps://ipbes.net/sites/default/files/2021-06/20210609_workshop_report_embargo_3pm_CEST_10_june_O.pdf
+12https://www.whitehouse.gov/wp-content/uploads/2021/11/Plan_to_Conserve_Global_Forests_final.pdf
+13
+https://www.doi.gov/sites/doi.gov/files/department-of-interior-climate-action-plan-final-signed-508-9.14.21.pdf
+14 https://www.doi.gov/sites/doi.gov/files/report-conserving-and-restoring-america-the-beautiful-2021.pdf
+15 https://www.stateofthebirds.org/
+16https://www.sciencedirect.com/science/article/pii/S0301479721006459?via%3Dihub
+17 https://www.epa.gov/cira/social-vulnerability-report
+Page 11 of 23
+DOII FY 2022-2026 Learning Agenda
+Incorporating Climate Uncertainty into Conservation Planning for Wildlife Managers (Earth,
+2022). 18 This report described current practice and thinking related to climate uncertainty and
+management of USFWS resources, focused on three agency domains which represent various
+conservation planning responsibilities: evaluating species to be listed as threatened or
+endangered, Habitat Conservation Plans for listed species, and land management techniques on
+wildlife refuges.
+Seeds of Success: A conservation and restoration investment in the future of U.S. lands (Barga
+et al, 2020). 19 The researchers identified how many sites from the Seeds of Success program
+burned since collection and identified 662 fires at 631 sites. If fire continues at the pace
+observed since 2011, an estimated 14% of collection sites will burn by 2050 and over 24% by
+2080, putting genetic diversity at risk in areas where fire is linked with invasion. Analysis of 14
+native forb species from the western United States found that many collections were from the
+warmest and driest portions of their range or from areas at the highest risk of wildfire,
+subsequent invasion, and local extinction.
+Seeds of Success: A National Seed Banking Program Working to Achieve Long-Term
+Conservation Goals (Haidet, M., Olwell, P., 2015) 20 This article described the Seeds of Success
+program, a national native seed collection program, led by DOI's Bureau of Land Management
+in partnership with numerous federal agencies and nonfederal organizations.
+Seed Sourcing for Restoration in an Era of Climate Change (Havens et al., 2015). 21 The article
+discussed how plants are responding to changing climates through plasticity, adaptation, and
+migration, and how this may influence seed sourcing decisions. The authors recommended
+focusing on developing adequate supplies of "workhorse" species, undertaking more focused
+collections in both "bad" years and "bad" sites to maximize the potential to be able to adapt to
+extreme conditions as well as overall genetic diversity, and increasing seed storage capacity to
+ensure seed is available as further research is conducted to determine how best to deploy it in
+a changing climate.
+Seed storage: maintaining seed viability and vigor for restoration use (De Vitis et al., 2020). 22
+This paper provided an overview of the key concepts in seed storage and the steps to take for
+effective storage of native seeds for restoration use.
+Operation and Maintenance of Passive Acid Mine Drainage Treatment Systems: A Framework
+for Watershed Groups (WV Department of Environmental Protection, 2014). 23
+This report
+discussed the need for watershed groups to develop plans for the operation and maintenance
+(O&M) of all their projects, including passive treatment systems, and to gather resources to
+carry out those plans. Sections include institutional practices supporting O&M, O&M
+18 https://www.mdpi.com/2673-4834/3/1/7
+19 https://www.fs.usda.gov/treesearch/pubs/59993
+20
+  https://www.researchgate.net/publication/276326945_Seeds_of_Success_A_National_Seed_Banking_Program_W
+ling_to_Achieve_Long-Term_Conservation_Goals
+21 https://www.jstor.org/stable/90008730
+22 ittps://onlinelibrary.wiley.com/doi/full/10.1111/rec.13174
+23 https://dep.wv.gov/WWE/Programs/nonptsource/Documents/Projects/OM_Manual.pdf
+Page 12 of 23
+DOII FY 2022-2026 Learning Agenda
+considerations through the project life cycle, common best management practices for AMD
+remediation and their maintenance needs, post construction inspection, monitoring, and
+operation, and postconstruction major maintenance.
+What is the evidence that counter-wildlife crime interventions are effective for conserving
+African, Asian and Latin American wildlife directly threatened by exploitation? A systematic
+map protocol (Rytwinski et al., 2021). 24 This paper describes a protocol to assess the evidence
+that counter-wildlife crime interventions are effective at protecting targeted species using a
+systematic mapping approach. Systematic maps are a form of evidence synthesis that aims to
+provide an accurate description of the evidence base relating to a particular question. To our
+knowledge, this is the first systematic evidence review commissioned by USFWS.
+Priority Learning Questions
+2.1. To what extent are vulnerability assessment frameworks from the DOI Climate Action
+Plan being used across DOI? To what extent are they successful at capturing
+vulnerabilities and risks of climate change, and in projecting vulnerability and risk into
+the future?
+2.2. How can DOI better define and improve the selection of metrics and indicators to
+monitor the effectiveness of specific, nature-based solution (NbS) strategies?
+What is the specific applicability of NbS (e.g., what, when and where to deploy NbS),
+design standards (e.g., engineering, hydraulic, economic cost-benefit considerations),
+and duration of project effectiveness (i.e., compared to a hardened structure)? What
+is the overall effectiveness of NbS to alleviate climate impacts? What are the
+ecological, economic, engineering, and social costs and benefits of NbS strategies?
+2.3. What is the best approach to leveraging IT systems, including the Recreation And
+Permit Tracking and Online Reporting (RAPTOR) system, the Potential Fossil Yield
+Classification (PFYC) system, the National Cultural Resource Information Management
+System (NCRIMS), and the Interior Collections Management System (ICMS), to ensure
+heritage resources are managed for long-term resilience and stability?
+2.4. What are the most effective strategies to increase native seed availability for restoring
+public lands to combat climate change and repair landscapes after wildfires or
+wildland fires?
+2.5. How effective are DOI's identified High Impact Service Provider programs at improving
+the customer experience?
+2.6. To what extent are various restoration techniques effective at restoring habitat in the
+long-term?
+2.7. What maintenance is required, and with what frequency, to ensure that passive
+treatment systems constructed to address water pollution discharges from abandoned
+mine lands continue to be effective?
+2.8. What is the impact and effectiveness of U.S. Fish and Wildlife Service's foreign species
+conservation assistance?
+24
+https://besjournals.onlinelibrary.wiley.com/doi/10.1002/2688-8319.12104
+Page 13 of 23
+DOI FY 2022-2026 Learning Agenda
+2.9. To what extent are personnel and methodologies effective in assessing whether
+invasive plant and animals are under control on DOI managed lands and waters?
+2.10. How can DOI improve data integrity in its electronic Abandoned Mine Land Inventory
+System to ensure the information on current and future coal AML problems is reliable
+and consistent?
+2.11. How should DOI conduct a review of the condition of fish and wildlife habitats and
+populations, as called for by the America the Beautiful campaign, to meaningfully
+measure the conservation impact of that campaign and other collaborative
+conservation efforts of the US Fish and Wildlife Service?
+Planned Activities
+Plans for evidence-building are under development. DOI will strive to leverage existing work
+underway while expanding the Department's ability to track and use evidence for decisions.
+Initial activities include:
+A formative evaluation that will assess the Department's vulnerability assessment
+frameworks and their impact on vulnerability reduction efforts in programs and
+activities as it is being planned and implemented. The evaluation will include consulting
+and engaging with Tribes and affected communities to assess improvements in climate
+conditions. The evaluation will develop a baseline for subsequent monitoring. Under the
+direction of the DOI Climate Task Force, surveys, interviews, and focus group discussions
+among program stakeholders will be conducted. The evaluation will seek to understand
+the need for the assessment and what improvements should be considered. (supporting
+priority question 2.1)
+A review of grant reports from funds distributed by OSMRE to non governmental
+organizations and local and state government agencies to help operate, maintain, and
+rehabilitate abandoned mine land passive treatment systems that were constructed to
+address water pollution. The review will increase DOI's knowledge of passive treatment
+system maintenance requirements. (supporting priority question 2.7)
+A systematic evidence review to evaluate the effectiveness of the Department's
+assistance for foreign species conservation. The evaluation will support evidence-
+informed decision making and policy development in the financial assistance programs
+of USFWS International Affairs. A two-year contract is underway with the Centre for
+Evidence-Based Conservation to systematically assess the effectiveness of interventions
+funded by USFWS grants, including efforts to counter wildlife crime for species targeted
+by the agency's international assistance. The partnership is also intended to establish a
+public baseline for a new DOI Strategic Plan performance measure: the percentage of
+funding awarded to projects implementing at least one action with evidence of
+effectiveness. As resources allow, USFWS plans to build upon pilot efforts to model the
+return-on-investment of its financial assistance. Working with subject matter experts in
+academia, the International Union for Conservation of Nature (IUCN) Species Survival
+Commission, the conservation evidence community, and recipients of DOI/USFWS funds
+Page 14 of 23
+DOI FY 2022-2026 Learning Agenda
+for foreign species conservation, the agency aims to identify the factors that result in
+highest estimated impact and performance to inform and improve grant-making
+decisions and program strategy). (supporting priority question 2.8)
+An invasive species program review, to include field level surveys and interviews;
+program design/logic model(s) to describe operations on the ground; data gathering and
+analysis of Bureau invasive species data management processes and results from annual
+reporting of GPRAMA performance measures for invasive species control over time;
+assessment of monitoring techniques (post-treatment effectiveness, population
+suppression, meeting resource management objectives); and policy review (as it
+pertains to control, data management, monitoring, and associated training). (supporting
+priority question 2.9)
+Continuation of a review of the electronic Abandoned Mine Land Inventory System data
+and system controls to improve data consistency and reliability in the data entered by
+states and Tribes. This work is currently ongoing, using contractor resources, and is
+critical for OSMRE's planning for abandoned mine land remediation. (supporting priority
+question 2.10)
+Page 15 of 23
+DOI FY 2022-2026 Learning Agenda
+Strategic Goal 3: Sustainably balance the use of resources while supporting
+communities and the economy
+As manager of one-fifth of the Nation's mineral and energy resources, including almost 2.5
+billion acres of the Outer Continental Shelf (OCS), DOI plays a critical role in meeting America's
+energy needs and moving the Nation toward a clean energy future. The Department's lands and
+waters play an important role in contributing to the Nation's energy production. From oil and
+natural gas to renewable geothermal, hydroelectric, solar, and wind power, a comprehensive
+energy strategy ensures responsible energy development. Projects on DOI-managed lands are
+producing affordable energy to power homes, vehicles, and businesses; creating jobs; and
+providing on average more than $10 billion in annual revenue supporting federal, state, local,
+and Tribal economies. The Department is committed to responsible energy and mineral
+development and resource use. As a steward of the Nation's natural resources, DOI strives for
+careful planning of conventional energy development projects, a transition to clean
+technologies to meet the energy needs of the future, and science-informed decisions on
+resource distribution to support communities in need. In carrying out these activities, DOI will
+contribute to solutions to address climate change, strengthen and decarbonize the nation's
+economy, and help communities transition to a clean energy future.
+This goal is supported by the following strategic objectives in the FY 2022-2026 DOI Strategic
+Plan:
+Future energy needs will be increasingly met through renewable and sustainable
+sources
+Current energy needs are met through balanced resource use
+Land, water, and non-energy mineral resources support the diverse needs of
+communities
+Related Studies and Research
+Offshore Oil and Gas: Updated Regulations Needed to Improve Pipeline Oversight and
+Decommissioning (GAO, 2021). 25 This study reviewed BSEE's management of offshore oil and
+gas pipelines, specifically the processes for ensuring active pipeline integrity and addressing
+safety and environmental risks posed by decommissioning. GAO recommended that BSEE take
+actions to further develop, finalize, and implement updated pipeline regulations to address
+long-standing challenges in these areas.
+Federal Lands Snapshot: Hardrock Mining Systems (GAO, 2021). 26 This study described the
+systems used to manage mining on federal lands. It also provided examples of the challenges
+and opportunities for improvement related to managing such mining, particularly in the areas
+of environmental stewardship, governance and transparency, and administrative resources.
+25 https://www.gao.gov/products/gao-21-293
+26https://www.gao.gov/products/gao-22-105438
+Page 16 of 23
+DOI FY 2022-2026 Learning Agenda
+Oil and Gas: Interior Should Strengthen Management of Key Data Systems Used to Oversee
+Development on Federal Lands (GAO, 2021). 27 This study reviewed the data systems DOI uses
+to oversee oil and gas development on federal lands and waters. GAO recommended that DOI
+develop a plan to improve data sharing among its key data systems and that DOI update its
+guidance for developing new data systems to address how program offices are to implement
+agile development.
+The Bureau of Land Management Did Not Review the Federal Exclusions List Before Issuing
+Federal Mineral Leases (DOI OIG, 2022). 28 DOI's Office of Inspector General found that BLM did
+not review the federal exclusions to determine if mineral lease recipients were suspended or
+debarred before issuing leases. Also, BLM did not have policies or procedures in place to
+determine if a lessee was excluded from doing business with the Federal Government. DOI's
+OIG recommended that BLM comply with federal regulations and reduce the risk of issuing
+federal mineral leases to entities that are suspended or debarred.
+2020 BLM Specialist Report on Annual Greenhouse Gas Emissions and Climate Trends (DOI
+BLM, 2020) 29 This report estimated greenhouse gas emissions from coal, oil, and gas
+development that is occurring, and is projected to occur, on the federal onshore mineral estate.
+This information supports evaluation of the cumulative impacts of GHG emissions from fossil
+fuel energy leasing and development authorizations.
+2021 Assessment of Undiscovered Oil and Gas Resources of the Nation's Outer Continental
+Shelf (BOEM, 2021). 30 This report assessed undiscovered oil and gas resources for the U.S.
+Outer Continental Shelf (OCS). The 2021 assessment considered relevant data and information
+available as of January 1, 2019 and builds upon previous OCS resource assessments. This
+assessment provided an estimate of undiscovered, technically and economically recoverable oil
+and natural gas resources outside of known oil and gas fields on the OCS considering recent
+geophysical, geological, technological, and economic information.
+Future Water Priorities for the Nation-Directions for the U.S. Geological Survey Water Mission
+Area (National Academies of Sciences, 2018). 31 This NAS report identified key water resources
+challenges and corresponding strategic opportunities on which the USGS could focus to achieve
+its long-term goals. In the report, the committee defined a series of questions to help address
+priority water science and resource challenges for which USGS science could make the most
+difference.
+Impacts of turbine and plant upsizing on the levelized cost of energy for offshore wind (National
+Renewable Energy Laboratory, 2021). 32 This analysis explored the levelized cost of energy
+impacts of turbine ratings between 6 and 20 MW and plant capacities between 250 and 2,500
+MW for fixed-bottom offshore wind using techno-economic cost models for foundation,
+27 https://www.gao.gov/products/gao-21-209
+28 https://www.doioig.gov/reports/inspection-evaluation/bureau-land-management-did-not-review-federal-
+exclusions-list-issuing
+29https://www.blm.gov/content/ghg/
+330 https://www.boem.gov/2021-assessment-undiscovered-oil-and-gas-resources-nations-outer
+31 https://www.nap.edu/catalog/25134/future-water-priorities-for-the-nation-directions-for-the-us
+32 https://www.nrel.gov/docs/fy21osti/78126.pdf
+Page 17 of 23
+DOI FY 2022-2026 Learning Agenda
+electrical, installation, and operation and maintenance costs, along with annual energy
+production.
+Offshore Wind Market Report: 2021 Edition (DOE, 2021). 33 This report detailed information on
+the U.S. and global offshore wind energy industries to inform policymakers, researchers, and
+analysts about technology and market trends. The scope of the report covered the status of
+over 200 global operating offshore wind energy projects through December 31, 2020, and
+provided the status of, and analysis on, a broader global pipeline of projects in various stages of
+development. This report also tracked the most significant domestic developments and events
+from January 1, 2020, through May 31, 2021.
+Report on the Federal Oil and Gas Leasing Program (DOI, 2021). 34 Prepared in Response to
+Executive Order 14008, this DOI report identified significant reforms that should be made to
+ensure onshore and offshore oil and gas programs provide a fair return to taxpayers, discourage
+speculation, hold operators responsible for remediation, and more fully include communities
+and Tribal, state, and local governments in decision-making.
+Oil and Gas: Federal Actions Needed to Address Methane Emissions from Oil and Gas
+Development (GAO, 2022). 35 This report described the steps federal agencies have taken to
+reduce methane emissions from oil and gas development on federal lands and implementation
+challenges; the actions selected industry entities are taking to reduce methane emissions; and
+how selected states regulate methane emissions and to what extent those efforts could inform
+federal actions.
+Priority Learning Questions
+3.1. What are the critical processes to establish or revise in order to effectively build DOI's
+offshore wind energy capabilities?
+3.2.
+How can DOI develop awareness and increase capacity to augment the percentage of
+NEPA decision documents that incorporate merits, drawbacks, analysis of impacts, and
+mitigation measures of DOI actions to people, such as through socioeconomic and
+environmental justice analyses?
+3.3. How can DOI identify and document an increase in carbon sequestration in net carbon
+budgets with a majority of projects or decisions (pairing development projects with
+conservation)?
+3.4. What is an effective approach to build corporate-level dataset monitoring and
+diagnostic resources and data science tools that could improve hydropower power
+program efficiency and effectiveness to allow DOI to better assess and refine asset
+management strategies and implementation? What is an effective way to share and
+aggregate high-resolution datasets for the hydropower program in a secure, timely
+manner?
+33 https://www.energy.gov/sites/default/files/2021-
+08/Offshore%20Wind%20Market%20Report%202021%20Edition_Final.pdf
+34 https://www.doi.gov/sites/doi.gov/files/report-on-the-federal-oil-and-gas-leasing-program-doi-eo-14008.pdf
+35 https://www.gao.gov/products/gao-22-104759
+Page 18 of 23
+DOI FY 2022-2026 Learning Agenda
+3.5. How effective are DOI's processes for reviewing and approving feasibility studies for
+water reclamation and reuse projects?
+3.6. To what extent are non-energy mineral resources appropriately sourced from public
+lands in order to maintain balanced use if other domestic sources are not adequate?
+To what extent is sufficient economic data available on an appropriate level of
+domestic production on public land by commodity/mineral?
+3.7. Are USGS's water mission area projects successfully addressing National Academies of
+Sciences' recommendations, meeting technical requirements, and achieving priority
+goals laid out in the program roadmaps?
+3.8. What are the environmental impacts associated with the construction and initial
+operations of the first tranche of offshore windfarms in federal waters, and what
+mitigation strategies can be undertaken to allow for long term sustainability and
+mutual co-existence of offshore wind with commercial and recreational fisheries?
+Planned Activities
+Plans for evidence-building are under development. DOI will strive to leverage existing work
+underway while expanding the Department's ability to track and use evidence for decisions.
+Initial activities include:
+Pilot projects in collaboration with federal and industry partners to look into corporate-
+level dataset monitoring and diagnostic resources and data science tools for USBR's
+hydropower program. (supporting priority question 3.4)
+An assessment of a sample of water reclamation and reuse projects to determine to
+what extent the review process for associated feasibility studies followed established
+procedures and to what extent the process was impacted positively or negatively by
+timeframes set by statute. Efficiently managing the feasibility study review process
+helps to increase the number of eligible projects which, in turn, benefits water
+conservation capacity to address drought. (supporting priority question 3.5)
+To build evidence for the USGS assessment to understand how Water Mission Area
+projects are addressing National Academies of Sciences' (NAS) recommendations,
+meeting technical requirements, and achieving intermediate objectives laid out in the
+program roadmaps, DOI assesses progress during quarterly management reviews that
+summarize the entire set of program projects and review program progress. Annually,
+during the fourth quarter review, program managers will be asked to add an assessment
+component to the overall success of project activities in meeting NAS recommendations,
+program technical requirements, and achieving priority goals laid out in the program
+roadmaps. This will be compiled and summarized for each science portfolio: the Water
+Resources Availability portfolio and Water Observing Systems portfolio. (supporting
+priority question 3.7)
+Realtime Opportunity for Development Environmental Observations (RODEO): To
+understand the environmental impacts of offshore wind development and operations,
+the Bureau of Ocean Energy Management has undertaken a multi-year monitoring and
+Page 19 of 23
+DOI FY 2022-2026 Learning Agenda
+data collection effort. The purpose of the Realtime Opportunity for Development
+Environmental Observations study is to make direct, real-time measurements of the
+nature, intensity, and duration of potential stressors during the construction and initial
+operations of selected offshore wind facilities. The purpose also includes recording
+direct observations during the testing of different types of equipment that may be used
+during future offshore development to measure or monitor activities and their impact
+producing factors. (supporting priority question 3.8)
+Fisheries Mitigation Strategy for Offshore Wind Development: Currently there is no
+overarching federal or state guidance for fisheries mitigation for offshore wind
+development. Some states, using authorities under state regulations, have required
+offshore wind developers to establish compensatory funds to offset potential impacts to
+the fishing industry, to fund research programs aimed at better understanding those
+potential impacts, and to provide navigation enhancements and safety training.
+Mitigation has thus differed from project to project, and state by state. To standardize
+mitigation approaches and find effective strategies, the Bureau of Ocean Energy
+Management (BOEM), in consultation with the National Marine Fisheries Service and
+affected coastal states, is developing national guidance to inform plans and
+environmental reviews for mitigating impacts from offshore wind projects on fisheries.
+BOEM recently conducted a series of virtual public meetings with representatives from
+states, federal agencies, the fishing community, and the offshore development
+community to inform development of mitigation measures that will help reduce or
+eliminate potential negative impacts that offshore wind development could have on
+commercial and recreational fisheries. (supporting priority question 3.8)
+Page 20 of 23
+DOI FY 2022-2026 Learning Agenda
+Strategic Goal 4: Serve and honor the public trust
+Trust and confidence are cornerstones of DOI's unique and expansive mission, which includes a
+geographically distributed workforce, a vast set of management responsibilities, and diverse
+stakeholders with varying needs and responsibilities. The American people have entrusted DOI
+with the sustained use of critical natural resources, the preservation of iconic places, and the
+science to ensure robust decision making, all of which require assurance and fairness at the
+highest levels. This includes promoting a culture of ethical and inclusive decision-making
+grounded in the best available science to ensure that departmental operations are safe,
+effective, and optimized for the changing environment. Beginning with a workforce that mirrors
+the diversity of the Nation that it serves, DOI will prioritize service delivery and performance
+improvement to redress inequities and systemic barriers to environmental justice and
+participation in DOI's programs and activities. This includes actively seeking ways to create
+opportunities for traditionally underserved communities to enjoy increased access to and
+benefits of public lands and waters, resources and opportunities.
+This goal is supported by the following strategic objectives:
+People, communities and organizations benefit from DOI data, science, and information
+Access to opportunities, services, and resources is equitable and just
+The DOI workforce is diverse, safe, engaged, and committed to the DOI mission
+There is confidence and satisfaction in the U.S. Department of the Interior
+Related Studies and Research
+U.S. Department of the Interior Law Enforcement's Body Camera Policy and Practices Are Not
+Consistent With Industry Standards (DOI IOIG, 2018). 36 This study evaluated DOI's draft body
+camera policy and bureau body camera practices and determined that they were not consistent
+with industry standards. The OIG identified two leading authorities on law enforcement use of
+body cameras-the International Association of Chiefs of Police and the Police Executive
+Research Forum-and concluded that by adopting their recommendations, the Department and
+bureaus will strengthen their body camera policies and practices.
+The U.S. Department of the Interior Needs To Strengthen Governance Practices To Improve Its
+Management of Geospatial Data (DOI OIG, 2020). 37 This study evaluated DOI's progress
+in
+implementing the objectives of the Geospatial Data Act of 2018. The OIG found DOI made
+progress in meeting 11 of the 13 Geospatial Data Act requirements but that DOI did not
+implement Department-wide controls to ensure that geospatial data purchased from third
+parties met quality standards and did not ensure that bureaus regularly searched the
+GeoPlatform before expending federal funds to purchase geospatial data from a third party.
+36 https://www.doioig.gov/reports/evaluation/us-department-interior-law-enforcements-body-camera-policy-and-
+practices-are-not
+37
+ttps://www.doioig.gov/reports/evaluation/us-department-interior-needs-strengthen-governance-practices-
+improve-its
+Page 21 of 23
+DOI FY 2022-2026 Learning Agenda
+Natural Hazard Mitigation Saves: 2019 Report (National Institute of Building Sciences, 2019). 38
+This report provided a benefit-cost analysis of natural hazard mitigation, from adopting up-to-
+date building codes and exceeding codes to addressing the retrofit of existing buildings and
+utility and transportation infrastructure.
+Department of the Interior Strategic Plan to Advance Diversity, Equity, Inclusion, and
+Accessibility in the Federal Workforce (DOI, 2022). 39 This plan presents DOI's strategy to
+identify funding and resources to build capacity and deploy actions that advance equity across
+the Department, both for the workforce that delivers the missions and for all Americans who
+are beneficiaries of those missions.
+Priority Learning Questions
+4.1. How can DOI improve the public benefit of the Department's data, science, and
+information resources, especially among vulnerable communities?
+4.2. How can DOI achieve better data and science equity, and increase the use of evidence
+and data in DOI decision making?
+4.3. How can DOI remove barriers to participation and ensure equitable access to the
+Department's grant and contracting opportunities for historically underrepresented
+populations?
+4.4. How can the Department increase stakeholder engagement to improve environmental
+justice outcomes for infrastructure investments?
+4.5. To what extent are the Department's recruitment and hiring practices adequate to
+attract and retain a diverse and highly skilled workforce?
+4.6. What are the primary challenges to retaining a diverse, highly skilled workforce
+capable of delivering the Department's mission?
+4.7. How can DOI strengthen public trust and confidence in Interior's public safety
+programs?
+Planned Activities
+Plans for evidence-building are under development, including a comprehensive mix of
+evaluations, studies and data analysis to answer the Department's learning questions. DOI will
+strive to leverage existing work underway while expanding the Department's ability to track
+and use evidence for decisions. Initial activities include:
+An evaluation to identify current and potential "use cases" for Earth MRI data and
+products, using both internal subject matter expert input and selected stakeholder
+input. For current use cases, interviews and surveys will focus on identifying what Earth
+MRI products are being used, how beneficial that information is, and whether different
+types of data or products that the program could produce would be more useful. For
+potential use cases, cases where scientists or stakeholders believe Earth MRI data
+38 https://www.nibs.org/reports/natural-hazard-mitigation-saves-2019-report
+39 Ittps://www.doi.gov/ppa/equity
+Page 22 of 23
+DOI FY 2022-2026 Learning Agenda
+should be useful but where it is not yet being used, interviews and surveys will focus
+more on "bottom up" descriptions of what data would be helpful for those use cases.
+Stakeholder groups will be interviewed or surveyed, using standard social science
+methods and following appropriate guidance for collection of data from human
+subjects. (supporting priority question 4.1)
+An initial evaluation to include data and analysis related to awards, applications and
+determining whether a specific step in the process of grant award and management
+process demonstrates a statistically significant disparity of underrepresented groups.
+This evaluation will also explore whether a specific step in the process demonstrates a
+statistically significant disparity increase. DOI will conduct extensive stakeholder
+outreach, surveys, and other data gathering. (supporting priority question 4.3)
+A proposal to use evaluation funds for a longitudinal tracking study of students in USGS
+internships following them from school through internships and into careers (supporting
+priority question 4.5)
+Using existing demographics data from the different points in the employee life cycle to
+establish a baseline for Department-level and organization-level performance in
+workforce diversity. DOI's DEIA Council will review performance of other Federal
+agencies, and National and state-level census information to benchmark the relative
+success of DOI in attracting, hiring, promoting, and retaining talent. Using this
+information, DOI decision makers can identify gaps and opportunities to improve
+diversity, with appropriate outcomes based on differences in mission area, geography,
+and other factors. Data insights will inform requirements for more in-depth analysis,
+identification of potential barriers, and need for immediate corrective action. DOI will
+also assess effective models in promoting Federal workforce diversity, consult with
+subject matter experts in academia and industry, and use findings to identify promising
+strategies for the Department. (supporting priority questions 4.5 and 4.6)
+An Office of Wildland Fire evaluation to include surveying human resources staff at
+multiple organization levels; surveying fire managers and supervisors at multiple
+organization levels; surveying applicants and new hires; analyzing data from staffing
+databases and other systems which support recruitment and onboarding; conducting
+focus group follow-up based on outcomes of surveys and data analysis; reviewing
+relevant research findings regarding effective best practices for recruitment;
+consolidating findings; making recommendations for actions needed; and presenting
+report and briefing fire management leadership on findings and recommendations.
+(supporting priority question 4.7)
+Page 23 of 23

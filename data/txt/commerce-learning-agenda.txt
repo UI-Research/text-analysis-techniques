@@ -1,0 +1,3088 @@
+OF
+STATES
+OF
+U.S. Department
+oc
+M
+M
+R
+G
+of Commerce
+Learning Agenda
+2022 - 2026
+Innovation, Equity, and Resilience
+Strengthening American Competitiveness in the 21st Century
+Companion to the 2022 - 2026 Strategic Plan
+Overview
+What is a Learning Agenda?
+is important, as well as a brief description of the approach to
+developing the evidence or evaluation prescribed, and some
+The Foundations for Evidence-Based Policymaking Act of 2018
+additional details on the lead unit for the work and challenges
+(Evidence Act) statutorily mandates Federal evidence-building
+likely to be encountered in answering the question(s).
+activities. The intention is to bring the best possible information
+In many cases, the details provided on a project are notional.
+and analysis to decision making. The Evidence Act's provisions
+modify what is required in agency strategic plans. A new
+This is a five-year Agenda and the questions and methodology
+for the research will be refined when a project is initiated by
+strategic plan is developed in the first year of the four-year
+presidential cycle and is published in February of the second
+the expert(s) engaged to do the work. Further, this plan will be
+revisited annually to make updates and revisions. Events, White
+year. Beginning in fiscal year (FY) 2022, a learning agenda
+must now be published with the strategic plan. This new
+House direction, and findings from the ongoing research may
+require evidence/evaluation on different topics and priorities
+companion document is a systematic plan for identifying and
+may change.
+addressing policy questions relevant to the programs, policies,
+and regulations of the agency. It identifies short and long-term
+How the Learning Agenda
+strategic questions (i.e., questions about how, how well and
+Was Developed
+how should programs, policies, and regulations function) and
+operational questions (i.e., questions that inform or assess
+This Learning Agenda was developed as part of the process
+agency's operations like human resources, grant-making,
+of developing the Department Strategic Plan. A working group
+and internal processes).
+with representatives from every bureau and the Secretary's Office
+of Policy and Strategic Planning (OPSP) was led by the Deputy
+Learning Agendas address Administration priorities and
+Performance Improvement Officer and the Evaluation Officer.
+information needs, as well as long-standing challenges and
+This team developed an initial outline of draft Department goals
+future priorities that may emerge. The questions being asked
+and strategic objectives. That outline was revised by the Office
+drive the choice of research method(s), and all types of
+of the Deputy Secretary with OPSP. Teams were created for each
+evidence-program evaluation, performance measurement,
+of the resulting strategic objectives, with an executive lead and
+policy analysis, and foundational factfinding-are employed
+members from the bureaus that will contribute to achieving the
+to answer questions on the Learning Agenda.
+objective. The teams were asked to collaborate with the bureau
+Evaluation Leads to develop Learning Agenda questions that,
+Document Structure
+if answered, would significantly help the Department achieve
+the strategic objective assigned to the team.
+The organization of this Learning Agenda parallels the
+organization of the Department of Commerce FY 2022-2026
+The questions were reviewed by OPSP. Bureau Evaluations
+Strategic Plan. Broad goal areas are followed by more specific
+Leads were asked to coordinate completion of templates for
+strategic objectives. For the respective strategic objectives, this
+each of the questions OPSP approved. The templates required
+Learning Agenda provides questions that will be researched
+the information listed in Office of Management and Budget
+to support achieving the strategic objective. For each of the
+(OMB) Memorandum 19-23 Appendix B which provides
+questions some background is provided on why the question
+instructions for department Learning Agendas. The completed
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+templates were compiled into a draft Learning Agenda that
+The listening session participants were informed of a Federal
+was sent to OMB for review. This document is the result of that
+Register Notice that was published on December 3, 2021,
+process and final reviews and revisions from OPSP and the
+inviting public comment on how the Department should engage
+Office of the Deputy Secretary and the Office of the Secretary.
+with communities and experts as the Learning Agenda is
+executed. This broad outreach was continued in mid-December
+Stakeholder Engagement
+when Commerce hosted a public event called The Opportunity
+Project Summit: Open Innovation for All. The event was
+Stakeholder involvement improves the products and services
+virtual, free, and open to the public. Program stakeholders
+provided to the public and improved this Learning Agenda
+were encouraged to participate. The summit focused on the
+(see OMB 21-27). Internal stakeholders were involved in
+Expand Opportunity and Discovery Through Data Goal area of
+the development of Learning Agenda questions through the
+the strategic plan and Learning Agenda, and created dialogue
+tiered system of working groups and teams used to develop
+with companies and universities, including minority-serving
+the strategic plan. Staff who participated in working groups
+institutions.
+and teams consulted with subject matter experts in their
+bureaus on strategies and Learning Agenda questions.
+Going Forward
+External stakeholders provided extensive input on priorities
+The Administration and Department leadership emphasize
+and preferences to the Secretary, Deputy Secretary, and bureau
+dialogue with stakeholders as essential to improving programs
+leadership in meetings and site visits across the Nation. The
+and service delivery. Therefore, this Learning Agenda includes
+Economic Development Administration, the Minority Business
+several projects that use qualitative research to gather
+Development Agency, and the Census Bureau held virtual and
+stakeholder input through surveys, interviews, workshops,
+community based "listening sessions" to understand the needs
+and focus groups. This work will create a foundation for
+and issues relevant to different communities and demographics.
+research on the impact of efforts to be responsive to the
+community needs and service gaps that are identified.
+Emphasis has been placed on providing opportunity for input
+to historically underserved communities and populations. This
+Upon publication of this Learning Agenda in 2022, ideas,
+is consistent with Executive Order 13985: Advancing Racial
+suggestions, and possible collaborations will be offered by
+Equity and Support for Underserved Communities Through
+academics, activists, businesses, and nonprofits. It is the
+the Federal Government. It is also central to the mission of
+Department's intention to use this dialogue to improve
+the Department of Commerce to create economic opportunity
+the Learning Agenda and operations. Publishing this
+for all Americans. To support diversity, equity, and inclusion
+first Department of Commerce Learning Agenda is an
+(DEI) in Department programming, the Department Evaluation
+important step toward government that is more evidence
+Officer and bureau Evaluations Leads participated in a listening
+based and community centered.
+session on questions in the Learning Agenda that pertain to
+DEI. Senior staff of major organizations representing minority
+communities, women, the disabled, and LGBT+ groups
+participated. They offered exceptional insights on topics
+that should be researched to improve service delivery.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Table of Contents and
+List of Research Questions
+GOAL 1: Drive U.S. Innovation and Global Competitiveness
+6
+Strategic Objective 1.1: Revitalize U.S. manufacturing and strengthen domestic supply chains
+7
+To what extent do Commerce's existing partnerships with other agencies, industry, communities,
+nonprofits, and academia affect manufacturing, including the environmental sustainability of
+manufacturing? What partnership factors are associated with strengthening manufacturing?
+7
+What Minority Business Development Agency (MBDA) interventions most effectively increase
+minority business enterprise (MBE) participation, innovation, and competitiveness in manufacturing?
+What interventions increase MBEs' ability to participate, innovate, and compete in manufacturing?
+8
+Strategic Objective 1.2: Accelerate the development, commercialization, and deployment
+of critical and emerging technologies
+9
+What types of partnerships or enhancements to service delivery would strengthen the impact
+of measurement science research and standards development on U.S. industry in the fields
+of artificial intelligence (AI), quantum science, advanced manufacturing, engineering biology,
+and advanced communications?
+9
+Strategic Objective 1.3: Increase international cooperation and commerce
+10
+How effective are SelectUSA services in bringing foreign direct investment (FDI)
+into communities and in supporting different industries?
+10
+Do U.S. exporters that have been assisted by the International Trade Administration's (ITA)
+Global Markets (GM) program outperform U.S. exporters that have not been assisted by GM?
+11
+How much and what type of export assistance have been extended to underserved
+communities? Does the data indicate any patterns in what approaches are most
+successful in assisting these businesses to export?
+11
+Strategic Objective 1.4: Protect national security interests and enforce trade rules
+12
+Are the export controls that have been implemented on emerging technologies effective?
+12
+Is the export control system adaptable to the changing security environment, including the new threats?
+13
+Strategic Objective 1.5: Promote accessible, strong, and effective intellectual property rights
+to advance innovation, creativity, and entrepreneurship
+14
+What regional economic conditions influence women's choices to seek and obtain
+patent protection? What approaches can improve the accuracy of attributing gender
+or other demographic identifiers needed to assess if underserved populations are
+participating in the intellectual property (IP) (i.e., Patent) system?
+14
+How can effectiveness and efficiency of the patent examination process be improved?
+15
+Strategic Objective 1.6: Improve the Nation's cybersecurity and protect
+Federal Government networks
+16
+What incentives or policies will facilitate industry's adoption of cybersecurity standards,
+guidelines, and best practices?
+16
+What mechanisms are needed to improve collaboration and information sharing between
+the Federal Government and private sector on cybersecurity issues?
+17
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 1.7: Advance U.S. leadership in the global commercial space industry
+18
+What Department of Commerce actions and initiatives would most effectively promote
+U.S. competitiveness in the commercial space industry?
+18
+What Department of Commerce actions and initiatives are needed to promote long-term
+space safety and sustainability?
+19
+GOAL 2: Foster Inclusive Capitalism and Equitable Economic Growth
+20
+Strategic Objective 2.1: Drive equitable, resilient, place-based economic
+development and job growth
+21
+What types of Economic Development Administration (EDA) funded activities, including those funded
+by the Coronavirus Aid, Relief, and Economic Security Act (CARES Act) and the American Rescue Plan
+Act (ARP Act) are associated with the strongest long-term economic advances, particularly for
+underserved communities and populations?
+21
+Given rapid changes in oceans due in part to climate change, how can the National Oceanic
+and Atmospheric Administration (NOAA) enhance fisheries management approaches to increase
+the sustainability and economic competitiveness of U.S. seafood?
+22
+What techniques will raise awareness of the New Blue Economy? Which new statistics, once
+developed, will most accurately measure and demonstrate the value of the New Blue Economy?
+23
+Strategic Objective 2.2: Build sustainable, employer-driven career pathways to meet employers'
+need for talent and to connect Americans to quality jobs
+24
+What are the most effective and promising approaches to partnering with businesses
+to identify skill gaps and train workers to fill them?
+24
+Strategic Objective 2.3: Advance entrepreneurship and high-growth small
+and medium-sized enterprises
+25
+How effective are Department efforts to enable entrepreneurs to design and scale companies
+around new technologies? How can these efforts be improved?
+25
+What are the most effective approaches to increase capital availability to minority businesses?
+26
+Did Revolving Loan Fund (RLF) projects, funded via the CARES Act, result in additional lending,
+and did additional lending lead to positive outcomes for recipients?
+27
+Strategic Objective 2.4: Expand affordable, high-quality broadband to every American
+28
+How many U.S. residents have received broadband or improved or more affordable service
+as a result of Federal broadband support programs and the Universal Service Fund Programs?
+28
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+GOAL 3: Address the Climate Crisis Through Mitigation, Adaptation, and Resilience Efforts
+30
+Strategic Objective 3.1: Increase the impact of climate data and services for decisionmakers
+through enhanced service delivery and improved weather, water, and climate forecasts
+31
+What new and sustained observations, data, and capabilities would be most beneficial
+to support emergency managers and generally protect the economy and save lives?
+31
+What new tools, strategies, and techniques would most effectively improve communication
+of NOAA's weather and climate forecasts to vulnerable populations?
+32
+How effectively is NOAA delivering Impact-Based Decision Support Services (IDSS) to public
+safety officials and partners, especially in communities that are particularly vulnerable to
+climate hazards? Do NOAA indicators ensure the information or support is accurate and
+adequate for the level of decisions made by public safety officials and partners?
+33
+Strategic Objective 3.2: Strengthen coastal resilience and advance conservation and
+restoration of lands and waters for current and future generations
+34
+What approaches have proven most effective in helping coastal communities and ecosystems prepare
+for and recover from extreme weather events, climate hazards, and changing ocean conditions?
+34
+Do the models and tools that are currently available for communities to prepare for
+coastal inundation at seasonal, annual, and multiyear timescales meet community needs?
+What new models and tools should be developed to address unmet needs?
+35
+Strategic Objective 3.3: Accelerate development and deployment of clean technologies
+36
+What could be key sources of U.S. competitive advantage?
+36
+How can regional forums be an opportunity for clean technology standards?
+36
+Strategic Objective 3.4: Embed climate considerations across Department programs
+37
+What are the gaps in publicly available data, tools, and services that are needed for communities
+to develop climate and environmental assessments required for EDA grant applications?
+37
+GOAL 4: Expand Opportunity and Discovery Through Data
+38
+-
+Strategic Objective 4.1: Implement evidence-based decision making within
+the Department of Commerce to increase program and policy impact
+39
+What challenges hinder the availability and usability of statistical, administrative,
+and scientific data for evidence building? Which actions would have the highest
+impact in overcoming these challenges?
+39
+What datasets are available/needed to track the impact of Department programs
+on historically underserved communities/populations?
+40
+Strategic Objective 4.2: Modernize economic and demographic statistics to better
+meet business, policymaker, and community needs
+41
+What refinements and new statistics would support more equitable management of the economy?
+41
+How reliable are early estimates of key economic indicators and what actions can improve reliability?
+41
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 4.3: Improve Commerce data usability and advance ethical,
+responsible, and equitable data practices
+42
+What barriers exist to collecting information from underserved communities?
+42
+What fundamental areas of research and standards, if targeted by the National Institute of Standards
+and Technology (NIST) and its stakeholders, will further develop the foundation for trustworthy Al?
+43
+What emerging technologies effectively enhance data sharing while preserving privacy and confidentiality?
+44
+What skills and training techniques are most effective in preparing the Commerce workforce
+for current and emerging data challenges?
+45
+What barriers exist to using climate-related data by underserved and at-risk communities
+and which, if addressed, would have the highest impact? What practices and techniques
+would effectively expand environmental and climate data equity and usability?
+46
+GOAL 5: Provide 21st Century Service with 21st Century Capabilities
+48
+Strategic Objective 5.1: Effectively implement new Department of Commerce
+authorities and investments
+49
+What grant disbursement processing procedures could be streamlined to reduce
+bottlenecks and overall processing times?
+49
+How can data collection and analysis processes better inform whether a grant
+recipient is progressing toward the success criteria established in the award?
+49
+Strategic Objective 5.2: Optimize workforce and diversity, equity, and inclusion practices
+50
+How effective are changes in the recruitment and hiring process in reducing the
+cycle time for hiring and improving the quality of candidates on certification lists?
+50
+How could the Department's leadership development programs be more effective
+in supporting succession planning?
+51
+Strategic Objective 5.3: Equitably deliver exceptional customer experience
+52
+What are the most significant barriers to providing business assistance to underserved
+communities and populations? How can they be removed?
+52
+How can bureau customer relationship management (CRM) systems be integrated with other key
+customer data and be used to track cycle time for service and the quality of customer experience?
+53
+What customer and human-centered design approaches should be used to routinely assess
+and improve the design and navigation of Department websites?
+54
+Strategic Objective 5.4: Make Department facilities and operations more sustainable and efficient
+55
+What actions are needed to achieve electricity use free of carbon pollution by 2030?
+55
+What actions are needed to achieve net-zero emission buildings by 2045?
+55
+Strategic Objective 5.5: Modernize mission support processes and infrastructure
+56
+What systems can be established to quickly identify and correct process problems
+that cause service delays outside of standards?
+56
+What mission support activities can be further streamlined to reduce the burden on mission
+delivery staff time? How can processes be leaned without compromising value-add requirements?
+56
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Goal 1
+Drive U.S. Innovation
+and Global
+Competitiveness
+oc 0 M M F R C E
+b
+6
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 1.1
+Revitalize U.S. manufacturing and strengthen
+domestic supply chains
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+factors that enhance effectiveness. Partnerships under review
+To what extent do Commerce's existing partnerships
+will include those within Manufacturing USA, the Hollngs
+with other agencies, industry, communities, nonprofits, and
+Manufacturing Extension Partnership program, technology
+academia affect manufacturing, including the environmental
+transfer programs (such as NIST on a Chip), workforce
+sustainability of manufacturing? What partnership factors
+development programs, and cybersecurity education.
+are associated with strengthening manufacturing?
+Timing of Activities
+Lead Bureau/Unit
+The work will begin in FY 2022 with focus groups and run
+National Institute of Standards and Technology (NIST)
+through FY 2026.
+Background
+Potential Data, Tools, Methods,
+and Analytic Approaches
+The manufacturing sector is the sixth-largest employer
+in the United States, representing 11 percent of gross
+The approaches to answering this question will include both
+domestic product (GDP) and contributing $2.3 trillion to
+qualitative and quantitative methods. Qualitative methods
+the economy. However, the COVID-19 crisis has underscored
+include focus groups and interviews. The quantitative work
+the risk of fragile supply chains and diminished domestic
+will be carried out using in-house staff and a third-party
+manufacturing. To respond to this challenge, Commerce
+contractor who will study industry trends and the influence
+will employ several strategies to strengthen domestic
+of affiliations on the trends.
+manufacturing and understand the effectiveness of current
+approaches. NIST is the lead Department bureau for
+Anticipated Agency-Specific
+providing technical assistance to domestic manufacturers
+Challenges and Proposed Solutions
+and therefore, will lead the research.
+Given the confounding variables, developing a causal
+relationship between partnerships and manufacturing
+Activities to Address Question(s)
+sustainability and expansion will be challenging.
+Foundational factfinding will provide information on the
+nature of existing partnerships (i.e., what organizations
+How Results Will Be Used
+are partners? how do the partnerships work? etc.) and
+Results will identify which partnerships may have positive
+how these partnerships relate to domestic manufacturing
+associations with manufacturing and the factors that led to
+sustainability and expansion. Literature reviews, focus
+positive outcomes. This information will be used to identify
+groups with partners in the manufacturing sector, and
+future partnerships and which manufacturing sectors may
+analysis of existing data on trends in manufacturing will
+be the most promising for partnerships.
+add insight into the effectiveness of partnerships and the
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+7
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What Minority Business Development Agency (MBDA)
+This project is in the FY 2023 Evaluation Plan.
+interventions most effectively increase minority business
+enterprise (MBE) participation, innovation, and
+Potential Data, Tools, Methods,
+competitiveness in manufacturing? What interventions
+and Analytic Approaches
+increase MBEs' ability to participate, innovate, and
+The study will establish statistical benchmarks among firms
+compete in manufacturing?
+of similar characteristics. The assessment will compare
+data on industry and firm-specific characteristics (e.g., the
+Lead Bureau/Unit
+value of capital assets, number of employees, firm age,
+MBDA, Office of Policy Analysis and Development (OPAD)
+financial condition, demographics, locations, size, export
+destinations, and industry presence). Data from MBDA client
+Background
+records, the Small Business Administration, the International
+Strengthening domestic manufacturing is central to the
+Trade Administration, NIST, and the Federal Reserve will
+Administration's domestic policy and is a Department
+provide comparative analysis using a wider universe of
+strategic objective; as is ensuring that the benefits
+firms. MBDA will study the data for minority manufacturing
+of Federal programs reach historically underserved
+characteristics, types of assistance provided, international
+communities (Executive Order 13985). A baseline is
+market challenges, regional factors, and the level of
+needed to establish their current level of activity in
+specialization in industry sectors.
+manufacturing and the characteristics of the firms, and
+to assess progress in advancing manufacturing among
+Anticipated Agency-Specific
+underserved populations. As the sole Federal agency
+Challenges and Proposed Solutions
+dedicated to supporting minority businesses, MBDA
+A challenge is the availability of information on race and
+will lead this research.
+ethnicity, which can be overcome by using imputation
+algorithms. Sample-selection bias may require two-step
+Activities to Address Question(s)
+estimators or similar techniques.
+MBDA is collaborating with the Census Bureau (Census)
+on the research design. An Intergovernmental Personnel
+How Results Will Be Used
+agreement will be used to engage an academic expert
+This research will help identify the operational needs of
+in the work. Census data and administrative data will
+minority manufacturers, to guide MBDA programs and
+quantify the level and trends in minority and other
+possibly overall Federal actions taken. The analysis will
+underserved populations in manufacturing. The data
+also inform additional research on minority manufacturers'
+will also identify differences in the characteristics of
+growth needs, risk factors, innovation, technology, workforce
+firms in minority/non-minority groupings, support a
+needs, and opportunities for targeted government assistance
+dashboard and visualizations, as well as identify areas
+leading to manufacturing success. Ultimately, the research
+for further research.
+will help provide more equitable access to manufacturing
+opportunities.
+8
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 1.2
+Accelerate the development, commercialization, and
+deployment of critical and emerging technologies
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Development Consortium, the "Digital NIST" pilot, and
+What types of partnerships or enhancements to service
+the development of the Department Standards Strategy.
+delivery would strengthen the impact of measurement
+The workshops are structured facilitated meetings of
+science research and standards development on U.S.
+stakeholders designed to reach and document consensus
+industry in the fields of artificial intelligence (AI), quantum
+on key aspects of the research question.
+science, advanced manufacturing, engineering biology, and
+advanced communications?
+Timing of Activities
+Work will continue in FY 2022 and end in FY 2023.
+Lead Bureau/Unit
+National Institute of Standards and Technology (NIST)
+Potential Data, Tools, Methods,
+and Analytic Approaches
+Background
+The research will be qualitative using focus groups
+Science and technology are rapidly evolving, and new
+and interviews.
+capabilities are being integrated across the economy,
+including manufacturing, transportation systems, critical
+Anticipated Agency-Specific
+infrastructure, and health care. While these innovations
+Challenges and Proposed Solutions
+contribute to the U.S. economy and quality of life, they
+The advantages of approaches may differ across products,
+have many associated interoperability, security, usability,
+sectors, and firm size. This challenge will be addressed
+performance, and resiliency challenges. Commerce will
+using stakeholder engagement and by segmenting findings.
+address these challenges through measurement science
+and technology research, the creation of technical standards,
+How Results Will Be Used
+establishment of testbeds, and joint partnerships. NIST will
+The work will be used to inform the modernization of
+gather evidence on how to increase the effectiveness of
+this work in dialogue with business owners and leaders.
+NIST measurement service programs and initiate new
+partnerships in critical and emerging technologies.
+Activities to Address Question(s)
+The question will be researched using workshops,
+focus groups, and independent assessments of existing
+partnerships and programs such as the Quantum Economic
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+9
+Strategic Objective 1.3
+Increase international cooperation and commerce
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+How effective are SelectUSA services in bringing foreign
+Research will be conducted in FY 2022-2023.
+direct investment (FDI) into communities and in supporting
+different industries?
+Potential Data, Tools, Methods,
+and Analytic Approaches
+Lead Bureau/Unit
+Geocoded data will be segmented across industry and
+Global Markets (GM) business unit of International Trade
+socioeconomic groups. Spatial analysis will determine
+Administration (ITA)
+key trends.
+Background
+Anticipated Agency-Specific
+SelectUSA identifies and assists U.S. communities with the
+Challenges and Proposed Solutions
+potential for attracting job supporting FDI to the United
+Data quality on the types and levels of interventions may
+States. Specifically, ITA's SelectUSA program provides data
+be challenging. A review of missing data elements and
+and research products, organizes investment promotion
+outliers will address the problem. The lack of a standard
+events, and conducts one-on-one client counseling in
+definition for a disadvantaged community and lagged data
+promising markets. These efforts are designed to demonstrate
+publication at the county level are also challenges. ITA
+U.S. competitiveness and value for high-impact international
+developed a definition of an underserved community for
+business investment. Information will be compiled and
+FDI attraction as "a U.S. county or tribal area where the
+analyzed on the effectiveness of past approaches and
+unemployment rate is greater than the upper bound of one
+alternatives in attracting FDI deals to identify ways to
+standard deviation from the median of all U.S. counties.
+increase the return on investment of these efforts.
+How Results Will Be Used
+Activities to Address Question(s)
+Information on the impact of past SelectUSA work will
+Data on GM interventions and client verified outcomes
+be used to design future interventions.
+will be mapped with community demographics to
+identify patterns.
+10
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+and employment levels, and demographic information.
+Do U.S. exporters that have been assisted by ITA's GM
+The analysis will be done at the Census Bureau and findings
+program outperform U.S. exporters that have not been
+provided to ITA. This evaluation will be similar to an earlier
+assisted by GM?
+analysis done by the Census Bureau for ITA, Statistics on
+ITA's GM program.
+How much and what type of export assistance have
+been extended to underserved communities? Does the
+data indicate any patterns in what approaches are most
+Timing of Activities
+successful in assisting these businesses to export?
+Activities scheduled for FY 2022-2023.
+Lead Bureau/Unit
+Potential Data, Tools, Methods,
+and Analytic Approaches
+GM unit in ITA
+The research will use a quasi-experimental design with
+statistical controls comparing ITA clients to non-users.
+Background
+Survey research will be used to assess the quality of
+For robust growth in gross domestic product (GDP), the
+technical assistance. Data sources will include two Census
+United States must increase efforts to promote exports.
+datasets, the Business Register, and the Longitudinal
+Exporting provides clear economic benefits to U.S.
+Foreign Trade Transactions Database.
+businesses, workers, and communities. However, compared
+to other industrialized nations, U.S. firms under export.
+Anticipated Agency-Specific
+Therefore, the Department is expanding efforts to help U.S.
+Challenges and Proposed Solutions
+firms export, including digital services. ITA will collaborate
+with the Minority Business Development Agency to expand
+The Internal Revenue Service (IRS) must approve the use
+its reach to more businesses, especially those that belong
+of Census data that includes IRS data. A similar study was
+to underserved communities. To support the effectiveness
+done in 2015 and, the IRS approved the project.
+of these efforts, ITA will be evaluating the impact of prior
+export assistance work.
+How Results Will Be Used
+The findings will provide insight into variables that affect
+Activities to Address Question(s)
+export success, e.g., small versus large companies, part of
+The work will be conducted in collaboration with the Census
+an underserved community, industry. The analysis will also
+Bureau (Census), Center for Economic Studies. The export
+provide insight into which types of assistance have the most
+levels, revenues, and job creation of firms assisted by GM
+impact for businesses in different demographic groups.
+will be compared to firms with similar demographics that
+The information will be used to identify best practices
+ITA has not assisted. ITA files on firms assisted and how,
+and increase the economic impact of ITA services.
+will be linked to Census data on firm exports, revenues
+1 As defined by President Biden's Executive Order 13985: Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.
+Per Executive Order 13985, "'underserved communities' refers to populations sharing a particular characteristic, as well as geographic communities, that have
+been systematically denied a full opportunity to participate in aspects of economic, social, and civic life.", including minority-owned businesses; "persons who
+live in rural areas" or rural U.S. businesses; "persons otherwise adversely affected by persistent poverty or inequality" (such as women-owned businesses); and
+members of religious minorities; lesbian, gay, bisexual, transgender, and queer (LGBTQ+) persons; and persons with disabilities.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+11
+Strategic Objective 1.4
+Protect national security interests and enforce trade rules
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+Are the export controls that have been implemented
+BIS works continuously with its TACs, especially the
+on emerging technologies effective?
+Emerging Technology TAC, to gain insight into the
+implemented controls' effectiveness on emerging
+Lead Bureau/Unit
+technologies and to develop improved strategies.
+Bureau of Industry and Security (BIS)
+Potential Data, Tools, Methods,
+Background
+and Analytic Approaches
+Through consultation with industry, academia, research
+Qualitative approaches include consultation with advisory
+institutions, technical advisory committees (TAC), other
+committees and organizations and agencies that lead
+U.S. Government agencies, and allied governments, BIS
+technology development. Notices for public comment will
+is increasing its efforts to identify emerging technologies
+be published. Processes will be reviewed and re-engineered
+essential to national security, and implement and enforce
+based on expert advice on effectiveness.
+appropriate export controls for these technologies. As
+part of this effort, BIS will gather evidence on the impact
+Anticipated Agency-Specific
+of new controls on the development of technologies
+Challenges and Proposed Solutions
+in the United States and consider additional expertise
+More staff capacity is needed to develop and execute
+that may be needed to identify and regulate emerging
+assessments effectively. BIS will collaborate with agencies
+technologies effectively.
+with technical expertise that are not traditionally involved
+with export controls, and work with the traditional export
+Activities to Address Question(s)
+control agencies that support the National Security
+Processes for communication to industry and research and
+Council-led emerging technology "sprint groups" to
+development (R&D) institutions and notices of inquiry will
+vet inputs provided by the public and the TACs.
+be reviewed. BIS will work with government agencies that
+conduct or fund research relevant to emerging technologies
+How Results Will Be Used
+as well as TACs, identify proposed new controls for
+Results will be used to improve methodologies to identify
+public comment, and develop new controls through
+and control emerging technologies, thereby enhancing
+the multilateral export control regimes.
+support of U.S. industry developing emerging technologies by
+minimizing bureaucracy and protecting the national security.
+12
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+Is the export control system adaptable to the changing
+Data will be analyzed annually.
+security environment, including the new threats?
+Potential Data, Tools, Methods,
+Lead Bureau/Unit
+and Analytic Approaches
+BIS
+The approach will include monitoring performance metrics;
+review of data and literature on new products; and review of
+Background
+open source and classified information on potential threats,
+U.S. technologies should not be misappropriated in ways
+industry developments, and trends. Datasets on exports
+that harm U.S. national security or foreign policy. Through
+will be reviewed for patterns that suggest technologies of
+the administration and enforcement of export controls and
+concern are being exported to nations that pose a threat
+to the United States.
+participation in the Committee on Foreign Investment in
+the United States, the Department guards against threats,
+including the unauthorized use of U.S. technology for
+Anticipated Agency-Specific
+purposes contrary to U.S. interests. BIS utilizes multiple
+Challenges and Proposed Solutions
+methods to enhance the administration of export controls.
+The statistics readily available to measure adaptability are
+This includes implementing changes from the multilateral
+incomplete in the sense that they apply to the Department's
+export control regimes in an expeditious manner and
+defensive actions and not to the capabilities of the entities
+gathering evidence to gain additional insight into the
+involved in activities contrary to U.S. national security. BIS
+Bureau's adaptability to new threats as they emerge.
+will work with the intelligence community to maintain high
+levels of awareness and knowledge of U.S. adversaries'
+Activities to Address Question(s)
+plans and activities.
+BIS will track performance metrics, including its average
+processing time for license applications and commodity
+How Results Will Be Used
+classification requests. This information will be used to
+The results will be used to measure and increase the
+develop evidence on adaptability. BIS will also request input
+adaptability of Commerce's export control system.
+from its TACs. Staff will research resources that identify
+emerging technologies and activities of concern.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+13
+Strategic Objective 1.5
+Promote accessible, strong, and effective intellectual
+property rights to advance innovation, creativity, and
+entrepreneurship
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+and statistical analysis. Alternative attribution approaches
+What regional economic conditions influence women's
+will be compared. Model development will be used to
+choices to seek and obtain patent protection? What
+investigate location-specific factors influencing women's
+approaches can improve the accuracy of attributing
+participation in the patent system.
+gender or other demographic identifiers needed to
+assess if underserved populations are participating
+Timing of Activities
+in the intellectual property (IP) (i.e., Patent) system?
+Data and model development are in progress. Workshop
+will be in FY 2023.
+Lead Bureau/Unit
+Office of the Chief Economist, U.S. Patent and Trademark
+Potential Data, Tools, Methods,
+Office (USPTO)
+and Analytic Approaches
+Econometric and statistical tools and data mapped
+Background
+geographically will be employed in the analysis.
+All Americans-regardless of race, gender, geography,
+or economic conditions-should have the opportunity to
+Anticipated Agency-Specific
+innovate and reap the rewards from innovation through
+Challenges and Proposed Solutions
+entrepreneurship and commercialization. Patents protect
+Factors influencing a decision to seek a patent may
+inventors' right to financial rewards from their ideas.
+be influenced by a complex array of factors, including
+However, USPTO reports that in 2019 women made up
+awareness of the system, socioeconomic factors, employment
+only 17.3 percent of new entrants into the patent system,
+agreements, and demographics of science, technology,
+but women make up over half the population. More
+engineering, and mathematics (STEM) graduates. Several
+research and better data are needed to understand the
+models will be run to identify factors that can be influenced
+factors that influence women and minorities to invent
+by public policy and outreach.
+and seek patent protection.
+How Results Will Be Used
+Activities to Address Question(s)
+Results will inform outreach and educational programming
+A workshop of methodology experts will be held to
+on the patent system.
+exhibit and critique approaches for the attribution of
+demographic characteristics using administrative data
+14
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+How can effectiveness and efficiency of the patent
+The ideation workshops took place in FY 2021; testing
+examination process be improved?
+lab set up will be in FY 2022; and implementation of
+priority findings will be over four years.
+Lead Bureau/Unit
+Patents Organization of USPTO
+Potential Data, Tools, Methods,
+and Analytic Approaches
+Background
+Approaches will include tools and methods for Lean
+Strong IP systems fuel investments in research and
+Six-Sigma process improvement projects, including focus
+innovation, spur new businesses, protect consumers from
+groups, process mapping, data collection on cycle time and
+counterfeit goods, and promote economic competitiveness.
+error rate, and lab testing of alternative improvements.
+To unleash the full potential of the U.S. economy and build
+back better, the Department must make continued strides
+Anticipated Agency-Specific
+to ensure equitable and affordable access to the benefits
+Challenges and Proposed Solutions
+of IP protection. The Department must also resolve and
+Revising labor agreements in line with process changes
+deliver IP rights timely, while ensuring granted protections
+will be a challenge. The solution will be building a
+are clear and valid and curb abusive behaviors within the
+compelling business case for new processes and standards.
+IP system. Toward those ends, USPTO will review its process
+for examining patent applications and identify actions
+How Results Will Be Used
+(including use of new technology) to streamline the process
+Results will inform new processes that improve the
+and make it easier for applicants to access and use.
+timeliness and quality of patent examination practices.
+Activities to Address Question(s)
+An examiner ideation workshop will be used to identify
+potential examination inefficiencies; empirical approaches
+using cycle time data will be used to verify or refute
+examiner hypotheses about patterns and causes of delay;
+a lab will be set up to test and refine proposed process
+improvements.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+15
+Strategic Objective 1.6
+Improve the Nation's cybersecurity and protect
+Federal Government networks
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What incentives or policies will facilitate industry's adoption
+Depending on funding levels, initiation of research will
+of cybersecurity standards, guidelines, and best practices?
+begin in FY 2022 or FY 2023.
+Lead Bureau/Unit
+Potential Data, Tools, Methods,
+Information Technology Lab, National Institute of Standards
+and Analytic Approaches
+and Technology (NIST)
+The research will use qualitative methods, including
+interviews, focus groups, and survey research.
+Background
+The Department will work with stakeholders worldwide
+Anticipated Agency-Specific
+to develop strong, trusted cybersecurity standards and
+Challenges and Proposed Solutions
+guidelines. Open processes will bring together industry,
+The urgency of needed action presents a challenge.
+government, and academia to develop workable approaches
+The short-term solution is the deployment of information
+to practical security. NIST will develop resources in various
+on the implications of vulnerabilities.
+formats to enhance their usability and accessibility, better
+suit the needs of small and medium businesses, and meet
+How Results Will Be Used
+the varied needs of organizations in their unique contexts.
+Results can inform changes to NIST cybersecurity programs
+However, adopting cybersecurity practices has costs in time
+and potential legislation to increase industry adoption and
+and money; businesses, particularly in some sectors, operate
+utilization of cybersecurity.
+on narrow profits margins. Evidence is needed on what
+government actions will support businesses in adopting
+cybersecurity measures.
+Activities to Address Question(s)
+NIST will hold structured facilitated workshops with
+representatives of different business sectors to explore how
+government policies or incentives can increase the uptake
+of cybersecurity practices. As options are developed, their
+viability may be further explored using survey research.
+16
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Workshops will discuss alternative approaches and
+What mechanisms are needed to improve collaboration
+innovations that may address the challenges. Discussions
+and information sharing between the Federal Government
+will also include approaches to keeping businesses informed
+and private sector on cybersecurity issues?
+on new developments in hacking and recommended
+counteractions. Promising approaches will be tested
+Lead Bureau/Unit
+and assessed using survey research.
+Information Technology Lab, NIST
+Timing of Activities
+NIST will convene workshops throughout FY 2022 with
+Background
+key stakeholders, including other agencies and partners.
+The Department will work with private companies of all
+sectors and sizes, as well as government and academia,
+Potential Data, Tools, Methods,
+to develop usable and effective domestic and global
+and Analytic Approaches
+cybersecurity risk management practices. A new NIST effort,
+known as the National Initiative for Improving Cybersecurity
+Initially, the research will use qualitative methods, including
+in Supply Chains (NIICS), will emphasize tools, technologies,
+interviews and focus groups. Discussions and a literature
+and guidance focused on the developers and providers
+review will inform data gathering on the take-up of best
+of technology. The initiative will build on lessons learned
+practices and the barriers to using them.
+from past cybersecurity risk management efforts and focus
+on supply chains involving smaller organizations that face
+Anticipated Agency-Specific
+unique challenges. To support the success of this effort, NIST
+Challenges and Proposed Solutions
+will gather evidence on ways to better collaborate with
+Often private sector entities are reluctant to share
+the private sector on solving cybersecurity problems and
+information with the Federal Government about security
+communicate new developments and best practices.
+issues for fear of highlighting weakness or opening
+themselves up to liability. As a result, NIST will gather
+Activities to Address Question(s)
+anonymized data to encourage private sector participation.
+A review of best practices from the National Cybersecurity
+Center of Excellence (NCCoE) will inform further work.
+How Results Will Be Used
+NIST will hold structured facilitated workshops with
+Results will inform steps the U.S. Government can take
+representatives of different business sectors to explore
+to enhance information sharing about cyber threats and
+the challenges in cybersecurity for their business niche.
+risks and countermeasures.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+17
+Strategic Objective 1.7
+Advance U.S. leadership in the global
+commercial space industry
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What Department of Commerce actions and initiatives
+Early FY 2022: Establish metrics and develop ideas.
+would most effectively promote U.S. competitiveness in
+the commercial space industry?
+FY 2022-2024: Implement new initiatives.
+Annually: Track performance.
+Lead Bureau/Unit
+National Oceanic and Atmospheric Administration (NOAA),
+Potential Data, Tools, Methods,
+Office of Space Commerce
+and Analytic Approaches
+This effort will leverage the Bureau of Economic Analysis's
+Background
+annual publication of data on the Space Economy Satellite
+The U.S. commercial space industry pioneers innovative
+Account, results from the Bureau of Industry and Security's
+technologies that transform people's daily lives, gather
+ongoing space industrial base assessment, as well as
+critical climate and weather data, and help secure the
+the International Trade Administration's advocacy and
+Nation. Increasingly, space-based assets are critical
+export promotion data and initiatives. It will also align
+components of the interconnected world and key to
+with NOAA's advocacy, regulatory, and space situational
+economic growth, national security, and competitiveness.
+awareness (SSA) missions.
+The Department has the tools and expertise to ensure
+continued U.S. leadership in space, and the Office of
+Anticipated Agency-Specific
+Space Commerce is central to this effort.
+Challenges and Proposed Solutions
+Challenges will include projecting trends in an emerging
+Activities to Address Question(s)
+industry.
+The Department will leverage a cross-bureau team of
+space experts to collect data on the status and trends in the
+How Results Will Be Used
+industry and develop performance indicators for measuring
+the competitiveness of the U.S. commercial space industry.
+Results will be used to assess the Department's
+This foundational information will help generate ideas
+effectiveness in promoting the U.S. commercial space
+for interventions and guide the implementation of new
+industry's competitiveness, develop and support additional
+initiatives. The metrics will be used to track performance
+efforts in this area, and potentially discontinue ineffective
+lines of effort.
+over time and assess alternative strategies.
+18
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+in international standards setting bodies. The Department
+What Department of Commerce actions and initiatives
+will continue stakeholder engagement and development
+are needed to promote long-term space safety and
+of cybersecurity frameworks for space assets. Established
+sustainability?
+criteria will assess the performance of these approaches
+and monitored metrics will identify unmet needs and
+Lead Bureau/Unit
+performance gaps.
+NOAA, Office of Space Commerce
+Timing of Activities
+Activities are ongoing and will continue through FY 2024.
+Background
+Tracking performance is an ongoing activity.
+Space safety and sustainability are foundational to continued
+commercial space activity and exploration. Promoting safe
+Potential Data, Tools, Methods,
+and sustainable space operations also has the potential to
+and Analytic Approaches
+increase investment in the U.S. space industry by mitigating
+risk to space-based assets and human spaceflight. SSA is a
+Regarding SSA, the establishment of key milestones and
+key component of space safety and sustainability, particularly
+performance against milestones. Collection of stakeholder
+given the increase in space-based assets and orbital debris.
+feedback through formal channels (e.g., requests for
+Cybersecurity is also central to the protection of space-based
+information), workshops, and relevant conferences and
+assets and activities. Cybersecurity measures and policies
+events. Participation in international standards setting
+bodies and conversations.
+are ubiquitous in the design, development, delivery, and
+operation of components supporting U.S. space activities
+and strong standards are required.
+Anticipated Agency-Specific
+Challenges and Proposed Solutions
+Activities to Address Question(s)
+Budget uncertainties are challenging. Plans will depend
+The Department will provide basic SSA services, contribute
+on budget outcomes and be adjusted accordingly.
+to relevant international standards, and develop space
+cybersecurity frameworks. The Department is developing
+How Results Will Be Used
+an SSA data sharing platform called the Open-Architecture
+Results will be used to support programmatic, funding, and
+Data Repository (OADR) for civil and commercial use. The
+organizational decisions on the next steps and capabilities
+Department will continue to support the development of
+for the Department to fulfill its role as the lead civil agency
+standards and best practices to promote long-standing
+for providing SSA services to the commercial space industry.
+safe and responsible behavior through the participation
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+19
+Strategic Goal 2
+Foster Inclusive
+Capitalism and
+Equitable Economic
+Growth
+oc 0 M M F R C
+20
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 2.1
+Drive equitable, resilient, place-based economic
+development and job growth
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+to measure changes. Stakeholders and program participants
+What types of Economic Development Administration (EDA)
+will also be engaged throughout the process. One approach
+funded activities, including those funded by the Coronavirus
+will be a grantee survey. Data before and after program
+Aid, Relief, and Economic Security Act (CARES Act) and the
+implementation will be compared to measure community
+American Rescue Plan (ARP Act) are associated with the
+progress. The inclusion of information on other government
+strongest long-term economic advances, particularly for
+interventions and investments in the analysis will provide
+underserved communities and populations?
+insight into the particular impact of EDA programming on
+improving economic outcomes.
+Lead Bureau/Unit
+EDA
+Timing of Activities
+Data collection began in FY 2021 and will continue into
+Background
+FY 2026. EDA expects to identify research partners in
+FY 2022, with corresponding research occurring from
+Limited job opportunities, low labor force participation, and
+FY 2022 and running through FY 2026.
+poverty remain in communities in the United States, even
+when national growth is strong. Additionally, many of these
+Potential Data, Tools, Methods,
+communities were disproportionally impacted by COVID-19.
+and Analytic Approaches
+Supporting economic development in these areas will help
+jumpstart economic recovery and build more economically
+The approaches to answer this question will include a mix
+resilient communities. To achieve this, Commerce will employ
+of quantitative and qualitative analyses. Case studies will
+several strategies, and research on the effectiveness of
+inform the analysis. Potential data will include EDA award
+alternatives will inform future decisions on approaches.
+data, modeled demographic data from Census, and grantee
+Part of EDA's mission is to prepare U.S. regions for growth
+questionnaire responses. Additionally, EDA will conduct a
+and success in the worldwide economy, and the Bureau is
+literature review on related research and will collaborate
+best positioned to lead this research.
+with external researchers.
+Activities to Address Question(s)
+Anticipated Agency-Specific
+Evaluations will be conducted to measure the effectiveness
+Challenges and Proposed Solutions
+of EDA programs on long-term economic development
+During this process, several challenges are expected,
+and reaching underserved communities. EDA is partnering
+including work on modeled data, grantee non-response to
+with the Census Bureau (Census) to better understand
+questionnaires, and modernization of EDA's data systems
+how to measure and collect information on underserved
+during the Learning Agenda timeframe. EDA will engage with
+communities and changes in local economies. EDA will
+the Census Bureau on modeled data early on and incorporate
+collect data prior to program implementation to establish a
+questionnaires into more easily accessible platforms
+baseline of economic indicators in regions and communities.
+(i.e., Qualtrics) to overcome these challenges. Continued
+Throughout program implementation, data will be tracked
+engagement will also occur with Department stakeholders
+(continued on next page)
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+21
+Learning Agenda Question(s) (continued)
+on the development of new grants management systems
+How Results Will Be Used
+to ensure they meet EDA's data needs. Isolating the effect of
+Results will help inform approaches that are emphasized
+EDA programming from that of other government programs is
+and scaled. Findings will be integrated into future program
+an expected methodological challenge that will be addressed
+design for continued improvement.
+primarily through collaboration with the academic community.
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+Given rapid changes in oceans due in part to climate
+Development of capacity to account for climate change
+change, how can the National Oceanic and Atmospheric
+will extend over four years; technological advances
+Administration (NOAA) enhance fisheries management
+(e.g., uncrewed systems, 'Omics, artificial intelligence
+approaches to increase the sustainability and economic
+(AI), machine learning (ML)) are being developed.
+competitiveness of U.S. seafood?
+Survey expansion and integrating effects of climate
+change into fisheries management strategies will also
+Lead Bureau/Unit
+extend past FY 2026.
+NOAA, National Marine Fisheries Service (NMFS)
+Potential Data, Tools, Methods,
+Background
+and Analytic Approaches
+The seafood industry and fisheries are key drivers of
+NOAA vessel days at sea will be increased to collect
+economic growth and employment. However, rapid changes
+relevant data. Additional data will be collected using
+in oceans are significantly impacting marine ecosystems.
+unmanned hardware and survey charters.
+Through multiple initiatives, NOAA's NMFS promotes
+productive and sustainable fisheries and builds healthy
+Anticipated Agency-Specific
+ecosystems. The rapid change in the environment requires
+Challenges and Proposed Solutions
+more and better data/evidence for decision making on
+The underlying science of fish biological response to
+trends and conditions.
+climate change and ocean acidification is ongoing but
+not yet robust. Continued science/data analysis and
+Activities to Address Question(s)
+integration will address this challenge.
+NOAA will increase survey days at sea on chartered
+fishing vessels and NOAA ships, and integrate advanced
+How Results Will Be Used
+ocean sampling and data processing technologies. These
+Results will enable the eight U.S. Regional Fishery
+technologies will include remote sensing, uncrewed
+Management Councils to incorporate climate-related science
+systems, analytical tools, and cloud-based platforms to
+products into their highly collaborative, stakeholder-driven
+increase the geographic extent and resolution of species
+decision-making processes. NOAA will conduct necessary
+distribution shifts. NOAA will also integrate more climate
+environmental analyses and process management to fully
+and environmental data to support fisheries management,
+serve the fishermen and fishing-dependent communities
+accounting for ecosystem changes.
+who rely on the Nation's sustainable fishery resources.
+22
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+marine dependent sectors to the National Economy, i.e., the
+What techniques will raise awareness of the New Blue
+Marine Economy Satellite Account (MESA). Data collection
+Economy? Which new statistics, once developed, will
+and statistical reporting is ongoing. Additionally, NOAA
+most accurately measure and demonstrate the value
+provides the Economics: National Ocean Watch (ENOW)
+of the New Blue Economy?
+dataset, which collects and reports state and county-level
+data for six sectors that are dependent on the ocean
+Lead Bureau/Unit
+economy. Stakeholders will be consulted through interviews
+and advisory committees on what additional data/statistics
+NOAA, National Ocean Service (NOS) and Performance,
+are needed to understand and grow the Blue Economy.
+Risk and Social Science Office (PRSSO)
+Timing of Activities
+Background
+MESA statistics to be released in 2022.
+Expanding opportunity for more Americans is central
+to the Department of Commerce's mission, and as the
+Potential Data, Tools, Methods,
+Nation continues to build back better, this mission is more
+and Analytic Approaches
+critical than ever. The Department will use established
+programs and employ new public investments to promote
+Data for the Ocean Enterprise report is an inventory of
+placed-based growth in communities across the country.
+businesses based on a representative sample survey.
+NOAA has a leading role in implementing numerous
+MESA and ENOW use the National Account Framework,
+initiatives to support the growth of Blue Economy sectors
+input-output (I/O) model, government (Census Bureau,
+and coastal communities and will lead enabling research.
+Bureau of Labor Statistics, U.S. Coast Guard, Department
+The New Blue Economy refers to the value of the ocean's
+of Defense, Department of Energy) and private sector data.
+data and information to address emerging societal
+challenges. NOAA data and information is essential to
+Anticipated Agency-Specific
+"evidence-based decision making" locally and nationally.
+Challenges and Proposed Solutions
+Need to further develop the MESA Blue Technology sector
+Activities to Address Question(s)
+statistics. With stakeholder input, options will be explored
+NOAA is conducting a market analysis on the Ocean
+for investment in sector research and data collection.
+Enterprise to raise visibility and awareness of the New
+Blue Economy and better understand the linkages between
+How Results Will Be Used
+NOAA investments and the quality and quantity of ocean
+The information will be used for policy analysis
+observations. NOAA is also collaborating with the Bureau
+nationally and locally. Further investments will be
+of Economic Analysis to measure the contributions of the
+influenced by findings.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+23
+Strategic Objective 2.2
+Build sustainable, employer-driven career pathways
+to meet employers' need for talent and to connect
+Americans to quality jobs
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What are the most effective and promising approaches to
+Literature review began in FY 2021, and new material will
+partnering with businesses to identify skill gaps and train
+be incorporated throughout the Learning Agenda timeframe.
+workers to fill them?
+Evaluation will begin in the later half of the timeframe for
+the FY 2022-2026 Strategic Plan to allow time for program
+Lead Bureau/Unit
+implementation and data collection.
+Economic Development Administration (EDA)
+Potential Data, Tools, Methods,
+Background
+and Analytic Approaches
+Global competitiveness and a healthy democracy require
+A mix method approach will use qualitative and quantitative
+that all Americans have an opportunity to participate in
+data to answer this research question. Qualitative data will
+the 21st century economy. Expanding opportunity for
+include review of journal articles, publications, and reports
+more Americans is central to the Department's mission,
+as well as subject matter expert interviews. The impact
+especially as the Nation continues to build back better.
+evaluation will use quantitative data. EDA will explore
+EDA is addressing this challenge through several programs
+options to collect additional data on program activities
+and the use of administrative data.
+to support businesses and workers, notably skills training
+systems and programs developed in collaboration
+with businesses. To support maximizing the benefit of
+Anticipated Agency-Specific
+these efforts, EDA will monitor and study the relative
+Challenges and Proposed Solutions
+effectiveness of different approaches.
+There may be limited research on related topics. There may
+also be challenges around accessing and collecting relevant
+Activities to Address Question(s)
+data because of privacy considerations. EDA may partner
+Foundational factfinding will provide information on the
+with academics or another bureau (e.g., the Census Bureau)
+nature and current approaches of existing partnerships
+to overcome these challenges.
+and how these partnerships help businesses identify and
+fill skill gaps. Literature reviews and subject matter expert
+How Results Will Be Used
+interviews will provide insights into current evidence of
+Results from research and evaluation activities will inform
+effective partnerships and partnership approaches. This
+selected approaches in partnering with businesses to improve
+foundational information will inform the design of an
+their ability to identify and fill skill gaps in their workforce.
+impact evaluation using a quasi-experimental design.
+These results will inform future program activities and
+design to better meet business needs.
+24
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 2.3
+Advance entrepreneurship and high-growth
+small and medium-sized enterprises
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+How effective are Department efforts to enable
+Project development will be in FY 2022. Partner selection
+entrepreneurs to design and scale companies around
+and data collection will be in FY 2023.
+new technologies? How can these efforts be improved?
+Potential Data, Tools, Methods,
+Lead Bureau/Unit
+and Analytic Approaches
+Economic Development Administration (EDA)
+A mix method approach will use qualitative and quantitative
+data to answer this research question. Qualitative data will
+Background
+include review of journal articles, publications, and reports.
+The vitality of U.S. economic recovery and growth are driven
+Quantitative analysis will use information reported to EDA
+by innovations that spur entrepreneurship and strengthen
+on project performance. The analysis may also include
+domestic industries. The Department of Commerce plays
+administrative and statistical data on employment.
+an important role in fostering the growth of inclusive
+entrepreneurial ecosystems that are aligned with their
+Anticipated Agency-Specific
+regional technology and innovation initiatives. EDA provides
+Challenges and Proposed Solutions
+multiple programs and resources to facilitate technology
+Anticipated challenges include limitations in accessing
+commercialization and entrepreneur support. As such,
+relevant data and selecting a research partner with the
+EDA is well positioned to lead this research.
+proper experience in this area. Outreach to identify new
+research partners with new and specific expertise will
+Activities to Address Question(s)
+address this challenge.
+Foundational factfinding will assess the strengths and
+weakness of existing programs and how they enable
+How Results Will Be Used
+entrepreneurs to use new technologies to design and scale
+Results will inform what programs and activities are most
+companies. Literature reviews and existing internal and
+likely to support entrepreneurs in using new technologies
+external data on project performance will provide further
+to create and scale companies. The findings will be used
+insight and evidence as to what programs have been
+to upgrade the programming of EDA's Office of Innovation
+effective for entrepreneurs. New data may be collected on
+and Entrepreneurship.
+program activities and metrics identified or developed to
+gauge progress. Additionally, methodology and analysis
+will be informed by a research partner or partners. EDA
+will undergo a selection process to identify partners who
+have expertise in this area.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+25
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What are the most effective approaches to increase
+The Census Opportunity Project and analysis of results
+capital availability to minority businesses?
+are expected to run in FY 2022. In-depth research on
+models and impact will run through FY 2023.
+Lead Bureau/Unit
+Minority Business Development Agency (MBDA),
+Potential Data, Tools, Methods,
+Office of Policy Analysis and Development (OPAD)
+and Analytic Approaches
+Approaches to answering this question will include both
+Background
+qualitative and quantitative data. Qualitative data will
+The Department of Commerce plays an important role
+include a review of academic literature, evaluations,
+in fostering the growth of inclusive entrepreneurial
+reports, and subject matter expert interviews as well as
+ecosystems. Minority business enterprises (MBE) are critical
+case studies. Quantitative data will include Census data
+to the national and local economies, but access to capital
+and administrative and financial data from other agencies
+remains a significant barrier to their growth. MBDA leads
+(i.e., CFPB, Federal Reserve, Community Development
+Federal Government efforts to promote the growth and
+Financial Institutions and Small Business Administration).
+global competitiveness of MBEs. Through Business Centers,
+Modeling and analysis may be conducted on the data to
+programs, and initiatives, MBDA is addressing this problem
+identify the factors and characteristics that are positively
+of access to capital. Additionally, there will be ongoing
+related to increased access to capital for MBEs.
+research to assess the relative effectiveness of alternative
+approaches to the problem.
+Anticipated Agency-Specific
+Challenges and Proposed Solutions
+Activities to Address Question(s)
+Limited access to capital for MBEs is likely a result of many
+Foundational factfinding will provide insight into the
+factors within a system. It is a challenge for programs or
+advantages and disadvantages of models, approaches, and
+initiatives to correctly identify and mitigate these many
+alternative financing for MBEs. Literature review, a meta-
+influences. One potential solution is to use research
+analysis of existing evidence, case studies, and interviews,
+findings to inform and collaborate with the private sector.
+will indicate what approaches have proven successful
+This collaboration and increased awareness may lead to
+in improving access. This review will include models and
+programs that better target multiple challenges and biases.
+approaches conducted by the government and financial
+institutions (i.e., banks, fintech, and nonprofit entities).
+How Results Will Be Used
+MBDA will also use data from other agencies (e.g., Small
+Results will be used to improve advocacy and awareness
+Business Administration) to identify what factors are related
+among private and public stakeholders. Findings will also
+to improved access. Additionally, MBDA is collaborating
+inform the development and design of programs to better
+with the Census Opportunity Project to crowd source
+address the needs of MBEs.
+ideas and is exploring joint projects with the Consumer
+Financial Protection Board (CFPB) and the Federal Reserve.
+26
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+resulted, the characteristics of businesses assisted, the status
+Did Revolving Loan Fund (RLF) projects, funded via
+of businesses that received the loans (i.e., closed, open,
+the Coronavirus Aid, Relief, and Economic Security
+expanded), and how the loans were used (e.g., protective
+Act (CARES Act), result in additional lending, and did
+equipment, online presence). Outcome measures of loans will
+additional lending lead to positive outcomes for recipients?
+be developed to support further evaluation of the program.
+Lead Bureau/Unit
+Timing of Activities
+Performance Research and National Technical Assistance
+Awards and resulting loans will be ongoing through FY 2022.
+Division of EDA
+Data collection will be concurrent. Preliminary results relating
+to early award will be available in FY 2023.
+Background
+The Department makes investments to enhance the capacity
+Potential Data, Tools, Methods,
+of regions to advance local entrepreneurs and foster industry
+and Analytic Approaches
+innovation. One of the numerous Department programs
+EDA will collect and analyze quantitative data of the
+that supports innovation and entrepreneurship is EDA's RLF.
+RLF to measure the RLF performance. Research may
+The RLF allows grantees to provide capital to incubate or
+also include qualitative data, such as case studies. The
+accelerate new and growing businesses that can provide
+evaluation will be conducted by a third-party contractor
+high-quality jobs. The RLF program has also been used as
+or academic collaborator.
+a tool to assist businesses in continuing to operate and
+recover from the impact of the COVID-19 quarantine. This
+Anticipated Agency-Specific
+research will provide information on the effectiveness of
+Challenges and Proposed Solutions
+the program in supporting business survival and recovery.
+Capturing detailed data by RLF recipient organizations
+on resulting loans will require new information technology
+Activities to Address Question(s)
+(IT) capabilities. To address this challenge EDA will roll out
+As awards are provided, data will be collected and reviewed
+a reporting portal for those entities to report information
+on the RLF program, including the number of recipients,
+consistently and securely.
+geographic information on recipients, and disbursement
+amounts. Data collection will also include information on
+How Results Will Be Used
+loans provided by specific RLF recipient organizations. This
+Findings will be used to improve the performance of
+data will be analyzed to determine the level of lending that
+the RLF and similar programs.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+27
+Strategic Objective 2.4
+Expand affordable, high-quality broadband
+to every American
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+How many U.S. residents have received broadband or
+ACCESS Broadband Report data collection and reporting will
+improved or more affordable service as a result of Federal
+be conducted annually. NTIA's Consolidated Appropriations
+broadband support programs and the Universal Service
+Act, 2021 grant program biannual awardee reporting (during
+Fund Programs?
+the awardee period of performance) is likely to start during
+summer 2022 and continue through the end of period of
+Lead Bureau/Unit
+performance (two to five years post award). Programmatic
+National Telecommunications and Information
+results/metrics/data from new NTIA grant programs will lag
+Administration (NTIA)
+18 to 24 months from award given reality of timelines for
+deployment of broadband infrastructure.
+Background
+Potential Data, Tools, Methods,
+Broadband is an engine for opportunity in the modern
+and Analytic Approaches
+economy and a necessary foundation for inclusive growth.
+Yet many Americans-especially those living in rural areas,
+Analysis will use a mix method approach. This will
+tribal reservations, and minority neighborhoods-do not
+include comparative case studies of grant-funded projects
+have access to quality, affordable broadband. The Department
+and input-output analysis of the short and long-term
+of Commerce will drive broadband expansion and adoption
+economic impacts of Federal broadband funding based
+across the Nation using strategies to support broadband
+on recipient budgetary spending and programmatic
+infrastructure, planning, digital inclusion, and technology.
+outcomes, e.g., homes passed or improved with broadband
+NTIA is leading the coordination of varied programs across
+infrastructure. The economic impact analysis of areas with
+Federal broadband infrastructure investment will focus on
+the Federal Government to invest in advancing the Nation's
+broadband capabilities. The Department will be assessing
+changes in gross domestic product (GDP), unemployment
+the output of these efforts.
+rate, change in the number of jobs, change in the number
+of small businesses, changes in household income, changes
+in life expectancy, and changes in graduation rates. The
+Activities to Address Question(s)
+baseline development for homes passed and cost will
+NTIA will collect and analyze data associated with the
+leverage analytics of commercially available broadband
+annual ACCESS Broadband Report (new per the Consolidated
+subscription cost data to measure any national aggregate
+Appropriations Act, 2021). Data will include cross-agency
+changes in broadband costs (e.g., cost/Mbit) over time.
+spending on Federal broadband support programs across
+Analysis will also leverage the Federal Communications
+the country. These data and administrative data will be used
+Commission (FCC) (and other) benchmark data on the
+to determine how investments have affected the number
+number of locations/households without broadband
+of U.S. residents connected and local economic conditions.
+infrastructure to measure the gap that needs to be closed.
+Additional activities will include reporting from new grant
+programs on key broadband deployment and access metrics.
+(continued on next page)
+28
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s) (continued)
+Broadband Specific Data Sources:
+Anticipated Agency-Specific
+Challenges and Proposed Solutions
+NTIA grant-funded recipient budget and programmatic
+One potential challenge is getting standardized data from
+reporting
+other Federal agencies to align to metrics being analyzed.
+NTIA grant-funded recipient project case studies
+There is an inherent time lag in NTIA awardee reporting of
+NTIA's National Broadband Availability Map
+achieved outcomes (e.g., homes with available broadband
+NTIA Internet Use Survey
+infrastructure), given the time involved with deploying
+broadband infrastructure and getting households connected.
+Data collected from other Federal agencies to support
+More accurate data on the gap of households/locations
+the annual ACCESS Broadband Report
+without access broadband will not be available from the
+USA Spending Data from Federal agencies funding
+FCC until summer 2022 at the earliest, and current FCC
+broadband efforts
+data undercounts the gap. Solutions will be explored as
+Census Bureau: 2018 Computer and Internet Use
+data is collected.
+in the United States (released in 2021)
+How Results Will Be Used
+New FCC Broadband Location Maps (anticipated in
+Summer 2022)
+Results will be used to enumerate the effect of Federal
+(and NTIA) funding on broadband capabilities across the
+FCC: January 2021 Fourteenth Broadband Deployment
+United States and measure the impact of Federal (and NTIA)
+Report
+funding in closing the gap of households/locations without
+Pew Research: April 2021: Internet/Broadband Fact Sheet
+broadband.
+FCC: 2021 Urban Rate Survey Data
+Broadband cost metrics, sources include BroadbandNow
+datasets
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+29
+Strategic Goal 3
+Address the Climate
+Crisis Through
+Mitigation,
+Adaptation, and
+Resilience Efforts
+oc O M M F R C E
+30
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 3.1
+Increase the impact of climate data and services for
+decisionmakers through enhanced service delivery
+and improved weather, water, and climate forecasts
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Users will be interviewed to identify information gaps and
+What new and sustained observations, data, and capabilities
+approaches to improving delivery of the information and
+would be most beneficial to support emergency managers
+investments in the observations and research activities that
+and generally protect the economy and save lives?
+would most effectively improve weather and climate models.
+Lead Bureau/Unit
+Timing of Activities
+National Oceanic and Atmospheric Administration (NOAA),
+These activities will continue over the next five fiscal years
+Oceanic and Atmospheric Research (OAR)
+according to the Infrastructure Investment and Jobs Act.
+Background
+Potential Data, Tools, Methods,
+and Analytic Approaches
+Measuring and predicting climate change impacts are
+fundamental to NOAA's mission. NOAA's world-class
+NOAA will coordinate with other agencies to identify
+observations of the ocean, atmosphere, and space provide
+best practices and improve the data acquisition process.
+timely, actionable data to make vital decisions that affect
+NOAA will also deploy long-term planned observational
+all sectors of the U.S. economy on a local and global scale.
+infrastructure. Once observations are operational and
+The next generation of climate prediction tools will rely
+fed into model forecasts, improved accuracy will be
+upon NOAA's ability to advance innovative observing
+determined by statistical analysis and scientific review.
+technologies such as satellites, artificial intelligence (AI),
+Focus groups with decisionmakers will provide the
+and uncrewed systems. They will increase computing power
+gauge for determining if forecasts are actionable.
+and cloud hosting to process unprecedented amounts of
+environmental data and develop revolutionary coupled
+Anticipated Agency-Specific
+models to capture the complexity of the earth system. High
+Challenges and Proposed Solutions
+resolution models at variable timescales will be used to
+Project management will be challenging but not beyond
+provide timely and geographically precise forecasts that can
+NOAA's capabilities based on past evolution of the
+be targeted to the communities most in need. To stay ahead
+forecasting system.
+of the impending dangers climate change poses, NOAA
+will increase investments in observational and research
+How Results Will Be Used
+infrastructure and capabilities, and translate weather and
+Results will influence future decisions on investments
+climate models into more accurate and actionable forecasts.
+in observational and research infrastructure. Investments
+that result in more accurate and actionable forecasts will
+Activities to Address Question(s)
+accelerate the transition of research on climate, space
+NOAA will assess project performance year-on-year
+weather, and coastal and ocean prediction into climate
+reviewing the accuracy and completeness of data and user
+science breakthroughs to protect life, property, and
+ability to correctly interpret and act on the information.
+the economy.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+31
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What new tools, strategies, and techniques would most
+Research on format, timeframe, and audience for critical
+effectively improve communication of NOAA's weather
+communications is currently in progress. Review of data,
+and climate forecasts to vulnerable populations?
+observation, and tools needed will extend over four years.
+Lead Bureau/Unit
+Potential Data, Tools, Methods,
+NOAA, National Weather Service (NWS)
+and Analytic Approaches
+The qualitative approach will include interviews with local
+Background
+officials in different roles and survey information on current
+Climate and weather information is only as powerful as the
+use of data and tools and information gaps. NOAA's science
+actions it motivates and informs. To this end, the Department
+community and data science community will collaborate
+of Commerce provides decisionmakers across the private
+on the development of new data and tools for delivering
+information.
+and public sectors with critical, actionable data to inform
+their decisions. The increased frequency of extreme weather
+requires forecasting improvements and enhancing service
+Anticipated Agency-Specific
+delivery, including extending the flood-mapping service to
+Challenges and Proposed Solutions
+the entire Nation. NOAA is undertaking the research needed
+The principal challenge will be anticipating the unique needs
+to provide more detailed and usable forecast information
+of individual communities. Involving local weather forecast
+and tailor communication on weather and climate
+offices and conducting assessments of local user needs will
+vulnerabilities to differing needs of local governments
+address this challenge.
+and communities.
+How Results Will Be Used
+Activities to Address Question(s)
+Results will influence what new analysis tools are
+Activities will include focus groups, an assessment of
+developed, what sustained observations and data will
+patterns of previous damages and vulnerabilities, and
+be provided, and the design of communication protocols.
+documentation of end users' needs to identify new
+observations, tools, datasets, and capabilities that
+will enhance forecasts. Enhancements will be tested
+to assess their effectiveness before being scaled to
+additional locations and regions.
+32
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+How effectively is NOAA delivering Impact-Based Decision
+Customer surveys and equity assessments began in
+Support Services (IDSS) to public safety officials and partners,
+FY 2021 and will continue over the next four years.
+especially in communities that are particularly vulnerable to
+climate hazards? Do NOAA indicators ensure the information
+Potential Data, Tools, Methods,
+or support is accurate and adequate for the level of decisions
+and Analytic Approaches
+made by public safety officials and partners?
+Several customer and partner surveys and assessments will
+be conducted. They will assess fidelity to the IDSS system.
+Lead Bureau/Unit
+Process maps and guidance may be clarified or modified
+NOAA, NWS
+based on findings, and training modules created.
+Background
+Anticipated Agency-Specific
+Ninety-eight (98) percent of all presidentially declared
+Challenges and Proposed Solutions
+disasters are related to weather, leading to approximately
+Assessing IDSS consistency among partners and forecast
+500 deaths per year and nearly $15 billion in damage.
+offices is challenging given that localities have different
+Emergency managers tell NOAA that NWS's IDSS has
+structures for roles and responsibilities. Developing a
+provided impact-based forecasts, supported their life-saving
+methodology that specifically measures the impact to
+work, and was communicated through trusted relationships.
+vulnerable communities will require survey expertise
+That quality of service should be available to all communities.
+from the Census Bureau and survey testing in diverse
+Therefore, NOAA is assessing consistency in the quality of
+communities.
+IDSS implementation.
+How Results Will Be Used
+Activities to Address Question(s)
+Feedback from partners via surveys and assessments
+NOAA's NWS will conduct two surveys of customers, an
+will be used to improve products and services.
+Annual Core Partner survey that covers the full breadth
+of NOAA's NWS services provided and an Episodic Core
+Partner survey on specific weather, water, and climate
+events. NOAA's NWS will conduct a follow-on to the
+FY 2021 Service Equity Assessment to identify the necessary
+people, technology, and expertise to reach historically
+underserved and socially vulnerable communities better.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+33
+Strategic Objective 3.2
+Strengthen coastal resilience and advance
+conservation and restoration of lands and
+waters for current and future generations
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+review post-training evaluations and how the increased
+What approaches have proven most effective in helping
+skills and information have been applied.
+coastal communities and ecosystems prepare for and
+recover from extreme weather events, climate hazards,
+Timing of Activities
+and changing ocean conditions?
+Infrastructure assessments are ongoing; database
+enhancements are planned for FY 2022-2023.
+Lead Bureau/Unit
+National Oceanic and Atmospheric Administration (NOAA),
+Potential Data, Tools, Methods,
+National Ocean Service (NOS)
+and Analytic Approaches
+NOAA will assess the effectiveness of natural infrastructure
+Background
+approaches to make coastal communities more resilient
+If current trends continue, $66 to $106 billion dollars of
+to changing conditions. A natural infrastructure database
+existing U.S. coastal property could be below sea level by
+already exists but is being enhanced using a more robust
+2050. Furthermore, the United States could see a 1 percent
+suite of the current literature regarding effectiveness and
+reduction in its gross domestic product (GDP) by 2100 due to
+approaches, as well as approaches to finance resilience
+coastal flooding. Given these projections, NOAA will address
+activities. As new approaches are implemented, they will
+the increasing demand for the science and services needed to
+be tested for efficacy. Findings will be used to develop
+enhance coastal resilience to climate change. The natural and
+policy changes that are evidence based.
+economic resilience of oceans and coasts will be advanced
+using state-of-the-art risk-based tools and actionable
+Anticipated Agency-Specific
+information, strengthening on-the-ground partnerships,
+Challenges and Proposed Solutions
+and improving place-based conservation efforts. To deliver
+A challenge will be understanding the needs of underserved
+on these goals, NOAA must understand the effectiveness
+communities and ensuring equitable access to NOAA's
+of various approaches in supporting coastal resilience
+NOS resources, products, and services. The challenge will
+and preparedness for both extreme events and gradually
+be addressed using surveys and direct engagement with
+changing environmental conditions.
+communities and organizations advocating for inclusion,
+equity, and climate justice. Web analytics and vulnerability
+Activities to Address Question(s)
+indices will also be used.
+Data on how and how often datasets and tools are used will
+be reviewed to understand patterns on how communities
+How Results Will Be Used
+are accessing NOAA's NOS information. Surveys may be
+Results will influence modifications to existing NOAA's
+conducted to understand whether products are easily usable
+NOS tools, development of new tools, and information that
+and useful. Coastal program performance metrics and
+is shared with state and local partners to justify investments
+research will be reviewed to understand the effectiveness
+in natural infrastructure or other resilience tools and policies.
+and cost-benefit of resilience approaches. NOAA's NOS will
+34
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+Do the models and tools that are currently available for
+The implementation plan for the existing strategy will be
+communities to prepare for coastal inundation at seasonal,
+developed through FY 2022.
+annual, and multiyear timescales meet community needs?
+What new models and tools should be developed to address
+Integration of research-to-operations will be ongoing
+unmet needs?
+for several years.
+Lead Bureau/Unit
+Potential Data, Tools, Methods,
+and Analytic Approaches
+NOAA, NOS
+Interagency coordination will be required for planning,
+Background
+developing the models, and implementation. Established
+methodologies for weather and climate modeling will be
+If current trends continue, $66 to $106 billion dollars of
+used and refined.
+existing U.S. coastal property could be below sea level by
+2050. Furthermore, the United States could see a 1 percent
+Anticipated Agency-Specific
+reduction in its GDP by 2100 due to coastal flooding. Given
+Challenges and Proposed Solutions
+these projections, NOAA will address the increasing demand
+for the science and services needed to enhance coastal
+A challenge will be establishing a process of continuous user
+resilience to climate change. The natural and economic
+engagement to guide tool development and improvement.
+resilience of oceans and coasts will be advanced using
+The challenge will be addressed by ensuring that the NOAA
+state-of-the-art risk-based tools and actionable information,
+Service Delivery Framework is central to user engagement
+strengthening on-the-ground partnerships, and improving
+design and is prioritized in funding discussions.
+place-based conservation efforts. To understand and prepare
+for the future, NOAA must identify what additional modeling
+How Results Will Be Used
+capabilities and tools will be needed for communities to
+Results will improve the quality of data provided to
+prepare for various scenarios of coastal inundation.
+communities to support climate resilience and adaptation.
+Activities to Address Question(s)
+NOAA is establishing an implementation plan for its strategy
+for advancing models and tools for coastal inundation at
+climate timescales. As the strategy is implemented in phases,
+new models and tools will be assessed for quality and
+contribution.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+35
+Strategic Objective 3.3
+Accelerate development and deployment
+of clean technologies
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Activities to Address Question(s)
+What could be key sources of U.S. competitive
+Market research and review of existing data will be
+advantage?
+conducted to project trends and identify factors that will
+How can regional forums be an opportunity for
+contribute to success/dominance in the market. Internal
+clean technology standards?
+targets will be identified that could help measure U.S. clean
+tech client engagement to grow U.S. exports and inward FDI.
+Lead Bureau/Unit
+Timing of Activities
+International Trade Administration (ITA),
+Research will be conducted in FY 2022-2023.
+Industry and Analysis Division
+Potential Data, Tools, Methods,
+Background
+and Analytic Approaches
+Promoting the development and deployment of clean
+Modeling will be used to develop projections under
+technologies will accelerate global decarbonization and
+differing assumptions. Interviews will be conducted to
+position the U.S. industry for future success in a net-zero
+probe current manufacturing capacity. Research will
+economy. The Department will advance the transition
+identify emerging technology that could enhance the
+to net-zero emissions by supporting clean technology
+United States' competitive position.
+industries necessary to achieve global climate targets and
+U.S. competitiveness goals. In the near-term, the U.S. Clean
+Anticipated Agency-Specific
+Tech Export Competitiveness Strategy (CTECS) will seek to
+Challenges and Proposed Solutions
+increase global market access for U.S. clean tech exporters,
+provide more targeted market intelligence to these
+Anticipating technological breakthroughs and the timing
+companies, and grow greenfield foreign direct investment
+of commercialization of breakthroughs is difficult but
+(FDI) in U.S. clean tech. In the medium-term, the CTECS
+Federally-funded research and an incentive system may
+will seek to position nascent and emerging U.S. clean tech
+truncate the timeframe.
+market segments to compete globally. Market research will
+be needed to achieve both near and medium-term ends.
+How Results Will Be Used
+Results will be provided to U.S. manufacturers to support
+manufacturing and commercialization strategies.
+36
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 3.4
+Embed climate considerations across
+Department programs
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+associated with the development of climate assessments.
+What are the gaps in publicly available data, tools, and
+Development of descriptive statistics based on identified
+services that are needed for communities to develop climate
+challenges will point to (1) areas for targeted new datasets
+and environmental assessments required for Economic
+and tools, and (2) promotion or improved usability of
+Development Administration (EDA) grant applications?
+existing datasets and tools. Additional activities to address
+highlighted challenges will be identified and pursued after
+the factfinding phase.
+Lead Bureau/Unit
+Office of the Undersecretary for Economic Affairs (OUSEA)
+Timing of Activities
+with advisory support from EDA and National Oceanic and
+The work will begin in FY 2022 with focus groups and will
+Atmospheric Administration (NOAA)
+address gaps as they are found.
+Background
+Potential Data, Tools, Methods,
+The Department is incorporating climate considerations,
+and Analytic Approaches
+including mitigation, adaptation, and resilience measures,
+The approaches to answering this question will include both
+into all relevant aspects of its policies and programs. In
+qualitative and quantitative methods. On the qualitative
+particular, climate considerations will be factored into the
+side, focus groups and interviews will be conducted. On the
+grant-making process. In the recent 2021 Department of
+quantitative side, descriptive statistics will be developed
+Commerce Climate Action Plan, Commerce committed to
+based on the gaps that are identified in the focus groups.
+"Further embed climate considerations into EDA's grant
+making, through investment priorities, grant criteria,
+application evaluation, and economic development
+Anticipated Agency-Specific
+planning." This means that EDA will require all grant
+Challenges and Proposed Solutions
+applicants that propose infrastructure projects to consider
+A challenge will be ensuring that diverse underserved
+impacts from climate change in project design. However,
+communities are reached. To address this Commerce
+not all communities have the same access to data and
+will work with partners in cooperative institutes and
+resources needed to develop these climate assessments.
+extension programs to identify underserved and
+This learning question seeks to identify what gaps exist
+struggling communities and their specific data needs.
+in publicly available data needed to develop these
+assessments during the grant application process.
+How Results Will Be Used
+Results will first identify if gaps exist in the availability
+Activities to Address Question(s)
+and usability of data needed for climate assessments in the
+Foundational factfinding will provide information on
+grant application process. If gaps exist, new datasets, tools,
+difficulties grant applicants have in obtaining the necessary
+and services will be developed and made widely available to
+information for climate assessments. Literature reviews, focus
+ensure that all communities can develop climate assessments
+groups with partners and state and local governments, and
+needed to be eligible for EDA funding.
+analysis of existing data will add insight into the challenges
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+37
+Strategic Goal 4
+Expand Opportunity
+and Discovery
+Through Data
+oc 0 M M F R C E
+38
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 4.1
+Implement evidence-based decision making
+within the Department of Commerce to increase
+program and policy impact
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What challenges hinder the availability and usability of
+Research will be conducted in FY 2022-2023. The
+statistical, administrative, and scientific data for evidence
+implementation schedule will depend on findings.
+building? Which actions would have the highest impact
+in overcoming these challenges?
+Potential Data, Tools, Methods,
+and Analytic Approaches
+Lead Bureau/Unit
+The research will include foundational factfinding, analytics,
+Office of the Chief Data Officer (OCDO), Evaluation Officer,
+process review, data on page views and downloads, and
+Commerce Data Governance Board (CDGB)
+testing alternative technologies.
+Background
+Anticipated Agency-Specific
+The Foundations for Evidence-Based Policymaking Act
+Challenges and Proposed Solutions
+of 2018 (Evidence Act) and White House circulars and
+Access problems may be caused by dataset format,
+memoranda direct the Federal Government to make decisions
+platform, and metadata differences. These differences may
+using the best available evidence. The complex issues and
+take significant time and resources to correct. There are legal
+challenges facing the American people must be met with
+constraints regarding access to data. The solution will be
+facts, competence, and urgency. Doing so requires the timely
+to establish priorities for improvements that provide better
+use of information arrived at through rigorous analysis that
+access (within legal limits) to the most useful data.
+is governed by principles of scientific integrity and inclusion.
+These challenges require that datasets be more readily
+How Results Will Be Used
+available and usable for research, analysis, and evaluation
+Findings will provide easier access to and analysis of data,
+to provide timely information to policymakers.
+and will facilitate linking datasets. Ultimately, the work
+will support data-based decision making.
+Activities to Address Question(s)
+Interviews will be conducted with internal experts on
+analytics and evaluation, and current and potential users
+of Department data. Staff will research enabling technology
+and case studies. Novice users attempting to access data
+will be observed to develop more intuitive web access.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+39
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What datasets are available/needed to track the impact
+In FY 2021, the Census Bureau began collaborating with the
+of Department programs on historically underserved
+Economic Development Administration on data needs, and
+communities/populations?
+Census has created a website dedicated to "equity data."
+A Federal Equity Data Committee has been convened.
+Lead Bureau/Unit
+Additional research focused on the Department of Commerce
+evaluation needs will be conducted in FY 2022.
+OCDO and the Evaluation Officer in collaboration
+with the Census Bureau (Census)
+Potential Data, Tools, Methods,
+Background
+and Analytic Approaches
+The Evidence Act and White House circulars and memoranda
+Approaches will include foundational factfinding and
+direct the Federal Government to make decisions using
+literature review, possible use of an algorithm that identifies
+the best available evidence. Released on January 20, 2021,
+datasets used in research (see Coleridge Initiative), and
+Executive Order 13985: Advancing Racial Equity and
+surveys of evaluation staff on data needs.
+Support for Underserved Communities Through the Federal
+Government, directs Federal agencies to evaluate whether
+Anticipated Agency-Specific
+their policies produce racially inequitable results when
+Challenges and Proposed Solutions
+implemented, and make the necessary changes to ensure
+Some useful data may not be consistently available for
+underserved communities are properly supported. Data
+all areas. The frequency of data updates may be a barrier
+are needed for these assessments and to track if actions
+to tracking economic recovery in small geographic areas.
+to increase equity are achieving their objectives. Federal
+Use of private sector generated data may help to address
+datasets are available to measure community resilience to
+the problem.
+natural and economic disasters, but available data may not
+provide the detail and currency needed to track conditions
+How Results Will Be Used
+in small, underserved geographies. Useful data may be
+Results will be used to help monitor and support recovery
+available at the state level, at academic institutions, or
+in areas with economies that have been the most profoundly
+with nonprofits. Research will be done to identify useful
+affected by the COVID-19 quarantine.
+existing data and to develop strategies for refining
+available data to better meet assessment needs.
+Activities to Address Question(s)
+A literature search will be conducted and Census experts
+and organizations representing underserved communities
+will be consulted.
+40
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 4.2
+Modernize economic and demographic statistics
+to better meet business, policymaker, and
+community needs
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What refinements and new statistics would support
+Refinements to income distribution statistics have been
+more equitable management of the economy?
+in progress and will continue through FY 2022-2023.
+Work on increased accuracy of early releases of economic
+How reliable are early estimates of key economic
+indicators and what actions can improve reliability?
+indicators is ongoing.
+Potential Data, Tools, Methods,
+Lead Bureau/Unit
+and Analytic Approaches
+Office of the Chief Economist,
+The work is done through advanced statistical methodologies
+Bureau of Economic Analysis (BEA)
+and research and testing of data that is available through the
+private sector.
+Background
+To navigate a dynamic economy, U.S. communities
+Anticipated Agency-Specific
+increasingly require detailed, timely, and user-friendly data
+Challenges and Proposed Solutions
+and statistics to support policy making and decision making.
+There are challenges inherent in using data sources
+Additionally, the COVID-19 pandemic demonstrated a need
+developed for other purposes for statistics. Data must
+for high-frequency and user-friendly economic indicators
+be adjusted to fit national accounting principles and be
+to enable decisionmakers to quickly assess the effects of
+publicly available and regularly produced. The challenge
+changing circumstances and sudden events. Therefore, the
+is met through research and collaboration with the
+Department is developing new economic indicators and
+academic and statistical community.
+approaches to increasing the accuracy of early releases
+of existing indicators.
+How Results Will Be Used
+Results will be used to help manage the economy.
+Activities to Address Question(s)
+Research includes improving indicators of income distribution
+and economic activity, and improved statistical techniques.
+All new indicators and methods must be consistent with
+national accounting principles and the Office of Management
+and Budget Statistical Policy Directives.
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+41
+DEPARTMENT OF COMMERCE
+Strategic Objective 4.3
+Improve Commerce data usability and advance
+ethical, responsible, and equitable data practices
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What barriers exist to collecting information from
+An approach has been developed and is under review
+underserved communities?
+by a Department Paperwork Reduction Act expert.
+The approach will be submitted for public comment
+Lead Bureau/Unit
+in FY 2022 as a next step.
+Office of Privacy and Open Government
+Potential Data, Tools, Methods,
+A multibureau Paperwork Reduction Act Equity Workgroup
+and Analytic Approaches
+has been established.
+In addition to survey instruments, other approaches to
+identifying needed improvements will be used. They may
+Background
+include electronic social media, observation of user struggles
+The American public and businesses rely on the Department
+with data entry, focus groups, and in-person interviews. All
+of Commerce as a trusted source of data. The timely delivery
+improvements will be tested before they are scaled.
+of quality, equitable, ethical, and secure data products and
+services is necessary to sustain that trust. The Department
+Anticipated Agency-Specific
+will provide leadership in raising the standard for responsible
+Challenges and Proposed Solutions
+data practices. By first addressing equity in data collection,
+A challenge will be developing and testing new approaches
+Commerce will advance the ethical, responsible, and
+to gathering information currently needed as new and
+equitable practices in the first step of the data lifecycle.
+expanded programming are designed. The solution will
+be to request input on programming through several
+Activities to Address Question(s)
+media channels.
+In collaboration with experts on the Federal paperwork
+reduction requirements, approaches will be tested to increase
+How Results Will Be Used
+feedback from underserved communities. One alternative will
+Approaches to gathering data will be refined. The information
+be the development of a comprehensive question bank for all
+gathered will be used to develop policies and programs that
+bureaus to use to develop survey instruments. The standard
+deliver resources and benefits more equitably. By addressing
+questions, vetted by survey experts, would be used to collect,
+equity in data collection, Commerce will advance the ethical,
+analyze, and interpret information gathered to identify gaps
+responsible, and equitable practices in the first step of the
+in the equitable delivery of services and gain insight into the
+data lifecycle.
+accessibility of information to the underserved. Data will be
+collected and reviewed to assess the quality of information
+gathered using the questions to inform revisions.
+42
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What fundamental areas of research and standards,
+These activities are ongoing.
+if targeted by the National Institute of Standards and
+Technology (NIST) and its stakeholders, will further develop
+Potential Data, Tools, Methods,
+the foundation for trustworthy artificial intelligence (AI)?
+and Analytic Approaches
+Literature reviews and foundational factfinding, including
+Lead Bureau/Unit
+expert opinion, are used as a means of identifying risks
+Information Technology Laboratory of NIST
+of bias and why bias occurs. As possible standards are
+developed to address bias, tests assess their effectiveness.
+Background
+The American public and businesses rely on the Department
+Anticipated Agency-Specific
+of Commerce as a trusted source of data. The timely delivery
+Challenges and Proposed Solutions
+of quality, equitable, ethical, and secure data products and
+Challenges include long lead times to establish the
+services is necessary to sustain that trust. The Department
+necessary partnerships with industry who need solutions
+provides leadership in raising the standard for responsible
+in real time. Recruiting talent in areas of Al, mathematics,
+data practices. As a leader in data practices, NIST has done
+statistics, and computer science is challenging, but
+and will continue extensive work on Al integrity. Trustworthy
+will be addressed through NIST's extensive network
+Al will increase public confidence in the Department and
+of relationships in the data science community.
+empower communities to use data to drive positive change.
+How Results Will Be Used
+Activities to Address Question(s)
+NIST will gather and share needs, strategies, roadmaps,
+Standards development will include engagement with a
+terminology, use cases, and best practices in support
+community of experts through workshops, solicitation of
+of reliable, robust, and trustworthy Al in government
+comments, requests for information, and dissemination of
+operations.
+publications, datasets, and frameworks.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+43
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What emerging technologies effectively enhance data
+Research is being conducted, pilot scoping is in progress, and
+sharing while preserving privacy and confidentiality?
+prototype(s) are to be built in accordance with resourcing.
+Lead Bureau/Unit
+Potential Data, Tools, Methods,
+Census Bureau (Census)
+and Analytic Approaches
+Tools and methods will include literature reviews, user
+Background
+interviews, landscape analysis (i.e., products and services
+The Department of Commerce is referred to as "America's
+available), technical prototyping using agile methodologies,
+Data Agency" because it collects, stores, and analyzes
+and policy analysis.
+vital scientific data and data on the Nation's economy,
+population, and environment. To continue to provide this
+Anticipated Agency-Specific
+leadership and make data more usable for research, efforts
+Challenges and Proposed Solutions
+are ongoing to modernize data ecosystems (i.e., data
+Reducing the burden of data sharing and making Census
+collection approach, data storage and configuration, and
+data more accessible while protecting privacy is a formidable
+tools for data linking and analytics). Through this process,
+challenge. Emerging technologies may provide part of the
+the Census Bureau will identify which emerging technologies
+solution (e.g., Secure Multi-Party Computation).
+effectively enhance data sharing while preserving privacy
+and confidentiality.
+How Results Will Be Used
+Results will produce findings on potential emerging
+Activities to Address Question(s)
+technologies that can be incorporated in operations.
+Conduct research on emerging technologies, landscape/
+possibilities, and develop prototypes to test.
+44
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Create capacity and access to Commerce-wide data
+What skills and training techniques are most effective
+skills training
+in preparing the Commerce workforce for current and
+Conduct data skills assessments to measure effect
+emerging data challenges?
+of initiatives
+Survey/interview supervisors and learners on utility
+Lead Bureau/Unit
+of training and lessons learned
+Commerce Data Governance Board (CDGB) Maturity
+Research, share, and support good data management
+Assessment and Data Skills (MADSkills) Working
+and data stewardship practices.
+Group-representatives from each bureau with a
+volunteer chair from one bureau (currently International
+Trade Administration (ITA)) and support from the Office
+Timing of Activities
+of the Chief Data Officer (OCDO) in the Office of the
+Personas and associated skill needs have been developed;
+Undersecretary for Economic Affairs (OUSEA)
+the first training package pilot test took place October to
+November FY 2022. Additional training options are being
+Background
+explored. Following selection of a training approach(s),
+The Department of Commerce is referred to as "America's
+skills assessments approaches will be piloted to determine
+the best method. Research on best data management and
+Data Agency" because it collects, stores, and analyzes
+vital scientific data and data on the Nation's economy,
+stewardship practices and data skill needs will be ongoing.
+population, and environment. These functions are central
+to the work of the Census Bureau, the Bureau of Economic
+Potential Data, Tools, Methods,
+Analysis, NIST, and the National Oceanic and Atmospheric
+and Analytic Approaches
+Administration (NOAA). However, all Department bureaus
+Methods and approaches will include foundational
+manage and use datasets. Data analytics has become central
+factfinding, focus groups (through working group and
+to the work of all Department bureaus. To optimize data
+Learning Officer Council), pilot projects, policy analysis,
+management across all programs, Commerce and each of
+process review, and evaluation of trainings.
+its bureaus will implement sustainable data governance
+and stewardship policies and practices to manage data
+Anticipated Agency-Specific
+more effectively from data collection to dissemination.
+Challenges and Proposed Solutions
+To support data-based decision making, data analytics
+A challenge is that each bureau has its unique mission with
+will be incorporated into more functions. This will require
+unique skill sets required of its employees. It will be difficult
+building a workforce that is highly data literate. To build
+to identify a single training approach for data skills and
+this workforce, Commerce must identify the skills needed
+acumen for the entire Department. The solution is to identify
+and the most effective training techniques to prepare the
+a best fit to provide as an option at the Commerce level, but
+workforce for current and emerging data challenges.
+allow for bureau autonomy in deciding the end approach for
+data skills and acumen training.
+Activities to Address Question(s)
+Develop Departmentwide personas (e.g., Data Analyst,
+How Results Will Be Used
+Data Scientist) linked to necessary sets of data skills
+Results will help Commerce identify and deploy the best
+Pilot data skills training options for all personas
+training approaches to meet Commerce employee needs.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+45
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+the time between dataset identification to availability and
+What barriers exist to using climate-related data by
+utilization. Pilots and projects will explore best practices
+underserved and at-risk communities and which, if
+for data cataloguing (both within and external to NOAA),
+addressed, would have the highest impact? What
+data discovery and access, as well as ensuring all NOAA
+practices and techniques would effectively expand
+data is Al and machine learning (ML) ready.
+environmental and climate data equity and usability?
+Timing of Activities
+Lead Bureau/Unit
+These activities are ongoing, iterative, and agile over the
+NOAA, Office of the Chief Information Officer (OCIO)
+next five years. Feedback from early studies and pilots
+with support from all NOAA Line Offices and National
+are expected in FY 2022. Identification and assessment
+Centers for Environmental Information (NCEI) in NOAA's
+of best data practices used across sectors and then
+National Environmental Satellite, Data, and Information
+implementation of recommendations is long term.
+Service (NESDIS).
+Potential Data, Tools, Methods,
+Background
+and Analytic Approaches
+The Department of Commerce aspires to improve data
+The approach will include customer focus groups,
+availability and usability for the American people. As the
+process/practice analysis, analysis of pilot project
+Nation's lead climate and statistical agency, Commerce
+results, performance measurement of community
+provides the authoritative climate science, demographic
+utilization of climate related data, and surveys to
+collect customer feedback.
+data, and geospatial mapping services required to address
+climate change and growing income inequality. To address
+equity challenges and effectively deliver climate data to all
+Anticipated Agency-Specific
+Americans, Commerce will identify barriers for underserved
+Challenges and Proposed Solutions
+communities to use climate-related data and will develop
+The challenge is identifying underserved and at-risk
+techniques to address them.
+communities. The solution is aligning this activity with
+others in Commerce that are identifying underserved
+Activities to Address Question(s)
+and at-risk communities.
+The approach to identifying barriers will include customer
+focus groups, and outreach and engagement with local
+How Results Will Be Used
+data users and potential data users. Internal processes will
+Results will influence recommendations for making
+be reviewed to identify improvements that would reduce
+data more usable and available for all communities.
+46
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+This page left intentionally blank.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+47
+Strategic Goal 5
+Provide 21st Century
+Service with
+21st Century
+Capabilities
+oc 0 M M F R
+/P.
+n
+48
+DEPARTMENT OF COMMERCE
+2022 - - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 5.1
+Effectively implement new Department of Commerce
+authorities and investments
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+program staff and grant recipients will provide further
+What grant disbursement processing procedures could
+insights into challenges in process efficiency and consistent
+be streamlined to reduce bottlenecks and overall
+measurement of project impact. A literature review and
+processing times?
+case studies will examine potential alternative approaches.
+Additionally, an examination of existing bureau processes
+How can data collection and analysis processes better
+and performance metrics will identify which approaches
+inform whether a grant recipient is progressing toward
+have proven successful and provide opportunities to scale.
+the success criteria established in the award?
+Timing of Activities
+Lead Bureau/Unit
+The research will be conducted in FY 2022-2023.
+Office of Acquisition Management (OAM), Commerce
+Infrastructure Coordination Office
+Potential Data, Tools, Methods,
+and Analytic Approaches
+Background
+This analysis will include quantitative and qualitative
+Managing funds with integrity and delivering results for
+data. Quantitative data will include grant disbursement,
+the American people is a fundamental responsibility of the
+cycle time, and award data. Qualitative data will consist
+Department. To achieve this, Commerce should process grant
+of interviews with program staff and grant recipients.
+funding efficiently and collect and assess program data to
+A literature review and case studies will help identify
+verify if programs are cost effective and making progress
+alternative approaches. Additionally, a cost-benefit
+toward desired outcomes. The Department will assess
+analysis will examine the feasibility of implementing
+processes and further integrate its systematic approach
+and scaling new processes.
+for performance management into all new and expanded
+programs. These efforts will enable a more efficient grant
+Anticipated Agency-Specific
+disbursement process and effective use of program data.
+Challenges and Proposed Solutions
+OAM will lead research on best practices for streamlining
+processing procedures. The Commerce Infrastructure
+An anticipated challenge is identifying approaches that
+Coordination Office will lead research on alternative
+work well for different programs and bureaus. The solution
+performance metrics, and data collection and analysis
+is to establish frameworks and processes that are flexible
+of grant recipient progress.
+and can accommodate different program requirements.
+How Results Will Be Used
+Activities to Address Question(s)
+An analysis of current grant processes will include a
+Results will establish a more streamlined grants
+review of grant disbursement and award data to identify
+management and data collection process and improved
+inefficiencies and opportunities to reduce reporting burden
+data for grant monitoring.
+and improve technological capabilities. Interviews with
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+49
+Strategic Objective 5.2
+Optimize workforce and diversity, equity,
+and inclusion practices
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+How effective are changes in the recruitment and hiring
+Changes will be implemented in FY 2022-2023,
+process in reducing the cycle time for hiring and improving
+and assessment will be conducted in FY 2024.
+the quality of candidates on certification lists?
+Potential Data, Tools, Methods,
+Lead Bureau/Unit
+and Analytic Approaches
+Enterprise Services, Office of Human Resources
+This analysis will use quantitative human resource
+Management (OHRM)
+data, including the average number of days to hire, a
+candidate quality index, and vacancy backlog. Approaches
+Background
+to answering the question will include customer
+experience mapping and process management.
+The competition to attract and retain top talent has become
+fierce. Toward these ends, the Department is committed to
+Anticipated Agency-Specific
+improving the hiring process, reducing the time required
+to recruit and hire highly qualified staff. Enterprise Services
+Challenges and Proposed Solutions
+provides recruitment and hiring services for the Department
+Challenges include navigating complex compliance-focused
+and manages the technology that supports the process.
+hiring systems as well as standardizing systems across the
+In collaboration with OHRM, they will analyze how process
+Department. The solution is to develop and test innovations
+improvements have affected service and candidate quality.
+in collaboration with the Office of Personnel Management
+to provide a clear benefit to the bureaus.
+Activities to Address Question(s)
+How Results Will Be Used
+Analysis of cycle time, candidate quality, and vacancies
+(number and duration) will provide baseline information on
+Results will reduce cycle time, improve candidate quality,
+the recruitment and hiring process. This analysis will identify
+and reduce vacancy backlogs.
+inefficiencies that cause hiring delays, negatively impact
+candidate quality, and increase vacancy backlogs. As needed,
+revision of metrics and dashboards will provide information
+on process performance. Additionally, regular review of
+performance metrics will inform continuous improvement
+and maintain advances from previous process improvements.
+50
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+How could the Department's leadership development
+Research will begin in FY 2022.
+programs be more effective in supporting succession
+planning?
+Potential Data, Tools, Methods,
+and Analytic Approaches
+Lead Bureau/Unit
+A review will examine current approaches to administering
+OHRM, Office of Civil Rights
+development programs, including dissemination of
+information on the programs, steps in the application
+Background
+protocols, selection criteria, and tracking the impact
+The future of work requires new and evolving skills sets.
+on career advancement and diversity and inclusion.
+The Department will ensure employees can collaborate, build
+knowledge, strengthen skills, and use evolving technologies
+Anticipated Agency-Specific
+and methods to excel in new mission areas and forms of
+Challenges and Proposed Solutions
+work. The Department will share and collaborate across
+Anticipated challenges include navigation of the complex
+bureau talent pools to broaden employees' experiences and
+Federal hiring and promotion authorities, correctly identifying
+knowledge base. Leadership development programs will
+occupations that lack diversity, the availability of data on
+enable bureaus to increase knowledge sharing and build
+developmental programs, and linking data from multiple
+a learning network. Empowering the workforce will allow
+sources. The solution is to collaborate with staff with
+Commerce to excel as its mission expands and evolves.
+expertise on human resources (HR) and HR dataset options.
+Activities to Address Question(s)
+How Results Will Be Used
+A cross-functional team will conduct an organizational
+Results will enhance leadership development and
+assessment to evaluate existing leadership development
+succession planning.
+and training programs. The team will also develop data on
+the number of staff who participated in programs and their
+demographics. Analysis will examine the career progression
+of staff who have completed leadership programs and
+identify challenges and opportunities for improvement
+in current approaches.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+51
+Strategic Objective 5.3
+Equitably deliver exceptional customer experience
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+changes. The Department will share best practices across
+What are the most significant barriers to providing business
+bureaus, particularly from the Department's High Impact
+assistance to underserved communities and populations?
+Service Providers (HISP) (U.S. Patent and Trademark Office
+How can they be removed?
+and the Census Bureau) so all bureaus will benefit from their
+extensive experience with service and information delivery.
+Lead Bureau/Unit
+Timing of Activities
+Senior Advisor for Delivery and Chief Diversity Officer
+in collaboration with the Performance Office
+Research will begin in FY 2022 and continue into FY 2023.
+Background
+Potential Data, Tools, Methods,
+and Analytic Approaches
+The Department provides many critical business services
+to U.S.-based companies and entrepreneurs. These services
+The approach will use qualitative methods, including
+interviews and a literature review. Tools used will include
+should be available to businesses across the spectrum of
+size and sophistication. Therefore, the quality of customer
+process mapping and data analysis. Additionally, data
+experience should be central to service delivery, especially
+collection on customers' key life experiences will provide
+for businesses in underserved communities. The Department
+information on how Federal services support or negatively
+will undertake efforts focused on providing customers
+impact those experiences. Performance measurement will
+first-rate services and solutions that are easy to access,
+monitor processes to sustain improved performance.
+equitable, effective, and responsive for all.
+Anticipated Agency-Specific
+Activities to Address Question(s)
+Challenges and Proposed Solutions
+Processes that have the most impact on service access
+A challenge is to achieve simplified processes while
+will have priority for review. The Department will map
+maintaining controls needed for good stewardship
+current processes, collect data on error rates and the time
+of resources. As a solution, the Department will
+required for process steps, apparent bottlenecks, and
+recommend rule changes when rules don't add value,
+user satisfaction. The review will include interviews with
+create standardization, and implement best practices
+underserved populations and analysis to identify pain points.
+that have been fully vetted by legal counsel and experts
+A literature review will explore proven strategies to better
+on internal controls.
+meet customer needs. Analysis on customers' life experience
+will provide further insights into customer needs. The Senior
+How Results Will Be Used
+Advisor for Delivery and Chief Diversity Officer, collaborating
+Results will improve service to underserved communities
+with the Performance Office, will track and collect data
+and all communities.
+throughout implementation to measure the effect of
+52
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+and vendors. If CRM system integration is feasible, the
+How can bureau customer relationship management (CRM)
+Department will incrementally test and implement the
+systems be integrated with other key customer data and
+approach. Ideally, the integrated CRM system will ultimately
+be used to track cycle time for service and the quality of
+collect and track data continually to understand customer
+customer experience?
+experience and track response time to customer requests.
+Lead Bureau/Unit
+Timing of Activities
+Commerce Data Governance Board (CDGB), Senior Advisory
+Project design will be conducted in FY 2022; project research
+for Delivery, and the Performance Office in collaboration
+in FY 2023; and change execution in FY 2024.
+with bureau staff
+Potential Data, Tools, Methods,
+Background
+and Analytic Approaches
+The Department provides services to communities
+The review will include interviews and collaboration
+and businesses through the Economic Development
+with technical experts and users on CRM integration.
+Administration, Minority Business Development Agency,
+Consultations with mission and technical staff will also
+International Trade Administration, Census Bureau, etc.
+explore including standard customer satisfaction measures
+However, with service tracked in CRM siloes, one bureau
+and cycle time measures in CRMs, regardless of the
+does not necessarily know what service another bureau
+feasibility of system integration.
+provided to an organization. As a result, the Office of
+the Secretary may interact with an entity without full
+Anticipated Agency-Specific
+information of prior interactions with the Department
+Challenges and Proposed Solutions
+resulting in lost opportunities for orchestrating service
+Challenges will include negotiating the inclusion of standard
+and fully understanding customer needs. Integrating the
+service quality measures in bureau CRMs and the time and
+CRMs would address the problem and provide a system
+expense associated with integrating systems. However, most,
+to track the experience of individual customers when
+but not all, bureau CRMs are hosted on the same application.
+they interact with any bureau. CRMs could also help track
+The solution is to create focus on the Administration's priority
+the time lapse before a request for service is fulfilled and
+of improved customer service and experience.
+customer satisfaction ratings.
+How Results Will Be Used
+Activities to Address Question(s)
+Results will be used for improved service through
+The Department will explore the feasibility of integrating
+service quality tracking and comprehensive records
+CRMs with other agencies, private sector CRM uses,
+on services provided.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+53
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Timing of Activities
+What customer and human-centered design approaches
+Project design and research will be conducted in
+should be used to routinely assess and improve the
+FY 2022-2023, and implementation will be ongoing.
+design and navigation of Department websites?
+Potential Data, Tools, Methods,
+Lead Bureau/Unit
+and Analytic Approaches
+Web Advisory Council, Performance Office
+Assessments will use machine generated customer
+experience data (e.g., search topics, click patterns)
+Background
+and customer survey data requesting observations
+The Department is the front door for Federal business
+on accessibility and experience with websites and
+services. For many people, websites are the key to the
+Department contact centers.
+front door. To make that door easy to open, the quality
+of customer web experience should be central to service
+Anticipated Agency-Specific
+delivery. The Department will establish overarching customer
+Challenges and Proposed Solutions
+experience standards and guidelines to assist bureaus
+The collection and development of accurate customer
+using web information and tools for planning, analysis,
+service data is a challenge. The data is collected through
+and decision making. This will ensure a customer-centric,
+different channels and comprehensive analysis requires
+structured approach.
+centralized data collection and development.
+Activities to Address Question(s)
+How Results Will Be Used
+A 360-degree assessment of customer website experiences
+Improvements will lead to enhanced customer service
+will identify potential areas of improvement for how
+and service delivery.
+services are delivered. Assessments will address current
+and prospective customer experience with the support of
+technology and human resources analytics. The assessments
+will also collect and analyze customers' feedback, along
+with insights from Department and public sources on
+quality website design.
+54
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+Strategic Objective 5.4
+Make Department facilities and operations more
+sustainable and efficient
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+collaboration with GSA and experts on heating, ventilation,
+What actions are needed to achieve electricity use
+and air conditioning (HVAC) and energy conservations
+free of carbon pollution by 2030?
+will assess options and inform action plans. Cost-benefit
+analysis will help determine the feasibility of implementing
+What actions are needed to achieve net-zero
+alternatives. The Department will track metrics before and
+emission buildings by 2045?
+after conservation project implementations to measure
+improvements.
+Lead Bureau/Unit
+Commerce Office of Facilities and Environmental
+Timing of Activities
+Quality (OFEQ)
+Research will begin in FY 2022.
+Background
+Potential Data, Tools, Methods,
+The Department must reduce the carbon footprint of its
+and Analytic Approaches
+facilities and equipment to address the climate crisis.
+Assessments will include quantitative and qualitative data.
+Strategies include converting Department vehicles to electric
+Quantitative data will include financial data, emission data,
+vehicles, procuring sustainable products and services, and
+levels of renewable and nonrenewable energy use, and
+increasing energy and water efficiencies in facilities. OFEQ
+engineering services. Qualitative data will include input from
+provides facility support and infrastructure management,
+building occupants. Approaches to answering the questions
+and leads these activities in collaboration with the General
+include foundational factfinding to create a baseline and
+Services Administration (GSA) on facilities. A recent
+identify inefficiencies, cost-benefit analysis to determine
+Executive Order has raised the bar for Green Federal
+feasible approaches, and performance measurement to
+Operations. The order sets specific deadlines for agencies:
+track improvements.
+by 2030, net annual electricity use must be free of carbon
+pollution. By 2035, agencies must stop purchasing emission
+Anticipated Agency-Specific
+vehicles. By 2045, all Federal buildings must be net-zero
+Challenges and Proposed Solutions
+emission buildings. The Department must conduct extensive
+research and planning to meet these standards, particularly
+Challenges include up-front expense for change and
+for monument buildings (like the Commerce Herbert Clark
+building renovation that is in progress as well as availability
+Hoover Building) built in the 1930s.
+of electric vehicles and other necessary equipment.
+Assessment of solutions will follow the lead of GSA.
+Activities to Address Question(s)
+How Results Will Be Used
+Foundational factfinding will assess the Department's
+current state of water and energy consumption and the
+Project improvements will reduce the Department's
+projected effect of planned building renovations. Close
+carbon footprint.
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+55
+Strategic Objective 5.5
+Modernize mission support processes and infrastructure
+Learning Agenda Question(s)
+Priority Question(s) to Be Answered
+Commerce. A literature review will explore the availability
+What systems can be established to quickly identify
+of technologies to enable greater efficiencies. The Department
+and correct process problems that cause service
+will establish priorities for improvement based on their
+delays outside of standards?
+potential impact on staff productivity and effectiveness.
+What mission support activities can be further
+streamlined to reduce the burden on mission delivery
+Timing of Activities
+staff time? How can processes be leaned without
+One significant process is scheduled per fiscal year.
+compromising value-add requirements?
+Potential Data, Tools, Methods,
+Lead Bureau/Unit
+and Analytic Approaches
+Performance Office, Evaluation Officer, Enterprise Risk Staff,
+This analysis will include quantitative and qualitative data.
+and Enterprise Services
+Quantitative data will include employee ratings for internal
+service quality, the number of re-engineered workflows,
+and cycle time for service requests. Qualitative data will
+Background
+include interviews to assess existing processes and literature
+Efficient internal processes and information technology (IT)
+reviews. Approaches to answer these questions include
+infrastructure enable the Department to provide essential
+a cost-benefit analysis to determine feasibility as well
+services, foster advancement, and decrease costs. Modern
+as advantages and disadvantages of change. Dashboards
+technology and "lean" reliable processes are essential
+of performance metrics will monitor if service standards
+to government performance and building public trust.
+for cycle time and quality are maintained and will trigger
+To increase the efficiency and accuracy of core processes,
+corrective action when needed.
+the Department will employ industry standard, productivity,
+and process analysis tools. These productivity tools will
+Anticipated Agency-Specific
+automate repetitive tasks, reduce duplication of effort
+Challenges and Proposed Solutions
+and infrastructure, and standardize processes.
+A challenge is to effectively engage staff who provide
+a service in the improvement process. One solution is
+Activities to Address Question(s)
+to establish improvement teams and ensure these staff
+Interviews of staff will identify pain points in service
+are included.
+delivery. Data collection will include the level of effort
+and time required for high-volume tasks and service
+How Results Will Be Used
+needs. Benchmarking services at other agencies will
+identify opportunities for improvement and best practices
+Enhancements will improve the delivery of mission
+and approaches that can accelerate improvement at
+support services.
+56
+DEPARTMENT OF COMMERCE
+2022 - 2026 LEARNING AGENDA (Companion to the 2022 - 2026 Strategic Plan)
+OF
+STATES OF
+U.S. Department of Commerce
+1401 Constitution Ave NW
+Washington, DC 20230
+commerce.gov
+in
+f

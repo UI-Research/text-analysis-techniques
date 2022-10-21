@@ -1,0 +1,461 @@
+U.S. Small Business Administration
+FY 2023 Annual Evaluation Plan
+DOD
+1953
+Table of Contents
+I.
+Introduction
+2
+II.
+Program Evaluation: Community Development Financial Institution and Minority
+Depository Institution Lender Participation in SBA Loan Programs
+3
+III.
+Program Evaluation: 8(a) Business Development Service Delivery
+4
+IV.
+Program Evaluation: Government Contracting Certification Program Customer
+Experience
+5
+V.
+Program Evaluation: Community Navigator Pilot Program Implementation
+7
+VI.
+Program Evaluation: COVID-19 Recovery Program Impacts
+8
+VII.
+Program Evaluation: Shuttered Venue Operators Grant Outcomes
+9
+VIII.
+Program Evaluation: Disaster Assistance Loan Impacts
+11
+I.
+Introduction
+The SBA recognizes the importance of evidence and evaluation to understand and improve the efficiency
+and effectiveness of its programs and operations in pursuit of the Agency's mission. To support
+evaluation planning, the SBA has established an Annual Evaluation Plan (AEP) in alignment with the
+Foundations for Evidence-Based Policymaking Act.¹ The AEP identifies the evaluation questions the Agency
+plans to complete through the next fiscal year.
+New program evaluations are selected annually through consultations with SBA program leadership,
+review and development by internal program evaluators and management, and coordination with
+external stakeholders, including the U.S. Office of Management and Budget. The evaluations are
+designed to meet SBA priorities, answer research questions in the Enterprise Learning Agenda (ELA),
+and build a suite of evidence to inform decision-making. Evaluations highlighted in this AEP reflect the
+most significant planned evaluations for FY 2023. The SBA defines "significant" evaluations according to
+their alignment with the SBA's mission as reflected in the Agency's FY 2022-2026 Strategic Plan and their
+ability to fill important knowledge gaps that, when addressed, will most strongly support program
+improvement and impact small businesses and other Agency stakeholders.
+Agency program evaluations follow the SBA Framework and Guidelines for Program Evaluation at the us
+Small Business Administration² and include a broad range of evaluation types, from evaluability
+assessments to impact evaluations, to best answer the questions posed. To ensure actionable results, the
+SBA's evaluations follow the principles of ethics, independence, rigor, relevance, and transparency. These
+principles reflect standards in OMB Memo M-20-12.³
+After the SBA completes an evaluation, the Agency conducts pre-dissemination review with the
+Evaluation Officer, Performance Improvement Officer, and Associate Administrator of the evaluated
+program's respective office. The SBA takes actions to help programs transform processes and activities
+through the evidence gathered by creating recommendation action plans, where appropriate. To promote
+transparency, the SBA publishes its evaluations on its Program Evaluation and Evidence Registry (PEER)
+website and presents results to internal and external stakeholders (e.g., presentations to the SBA's
+Evidence and Evaluation Community of Practice, interagency committees and councils, trade
+associations, and grantees).4
+The following sections, organized by strategic objective, provide an overview of the programs evaluated,
+their connection to the SBA's ELA, the specific evaluation questions for the study, key methods and data,
+anticipated challenges and remedies, and plans for using and disseminating results in alignment with
+OMB guidance.
+1
+www.congress.gov/bill/115th-congress/house-bill/4174
+2
+vww.sba.gov/document/policy-guidance--framework-guidelines-program-evaluation-us-small-business
+administration
+3
+www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf
+4 https://www.sba.gov/about-sba/organization/performance#section-header-6
+2
+II.
+Program Evaluation: Community Development Financial Institution and
+Minority Depository Institution Lender Participation in SBA Loan Programs
+Strategic Plan Linkage. Strategic Objective 1.1: Ensure all entrepreneurs have access to capital to start and
+grow their business
+Overview. The Paycheck Protection Program (PPP) attracted nearly 5,500 new lenders, including
+Community Development Financial Institution (CDFI) and Minority Depository Institution (MDI) lenders
+serving diverse and underserved businesses. Increased and persistent use of the SBA's flexible and
+patient capital programs by financial institutions specializing in service to underserved and minority
+communities may reduce racial and gender disparities that persist in using and accessing credit. This
+evaluation will study the attractors, facilitators, and barriers to regulated CDFI and MDI entity
+participation in the SBA's ongoing capital programs.
+Enterprise Learning Agenda. This evaluation supports the SBA's understanding of the following ELA
+questions:
+How can the SBA broaden its lender base and keep lenders that have only participated in the
+PPP engaged with diverse small businesses?
+Are there barriers that prevent underserved small businesses from accessing SBA programs,
+and if so, how can the SBA address these barriers to increase equitable distribution of
+services?
+Evaluation Questions. The SBA seeks to answer the following evaluation questions in this study:
+How has participation in the SBA's capital programs among regulated CDFI and
+MDI
+lenders changed since the introduction of the PPP programs?
+What are the attractors, facilitators, and barriers to CDFI and MDI entity participation in the
+SBA's ongoing capital programs?
+How can the SBA grow the use of SBA capital programs among regulated CDFI and MDI
+lenders that target underserved small business markets to further equitable distribution of
+capital?
+Data. The SBA will use publicly available information on regulated CDFI and MDI entities and
+administrative records for CDFI and MDI participation in SBA capital programs. The SBA will collect
+qualitative data from regulated CDFI and MDI entities.
+Methods. This mixed-method formative evaluation will use administrative data to quantitively examine
+CDFI and MDI lender participation in the SBA's capital program. Additionally, the evaluation will
+qualitatively assess program attractors, participation barriers, lender needs, and potential areas of
+improvement.
+Anticipated Challenges. The SBA will rely on lender matching across the SBA's lending program databases
+that may have varying recordkeeping practices or be of insufficient quality to produce an appropriate
+number of matches during the data linking. The SBA will also rely on publicly available data to identify
+regulated CDFI and MDI lenders for participation in the qualitative components of the study, which may
+have reporting lags or may have ceased to operate. Additionally, recent efforts to evaluate an SBA loan
+program achieved less than a 40 percent participation rate among existing lenders. Therefore, efforts to
+attract existing and potential lender participation in the proposed evaluation may be difficult. Finally, the
+3
+increase in SBA capital program participation during the COVID-19 pandemic is likely attributable to the
+forgivable nature of the funding and may not be representative of long-term interest in the SBA's flexible
+lending programs.
+Evidence Use and Dissemination. Extending access to the SBA's capital programs through lending
+institutions specializing in local communities may reduce racial and gender disparities that persist in the
+use of and access to credit. The findings from the evaluation may be used to improve program design,
+communications, and outreach. The findings will be presented to SBA senior leadership and program
+staff, published on the SBA website, and shared in the SBA's Evidence and Evaluation Community of
+Practice.
+III.
+Program Evaluation: 8(a) Business Development Service Delivery
+Strategic Plan Linkage. Objective 1.4: Build back an inclusive and proficient small business contracting base
+ready to compete for all federal procurement opportunities
+Overview. The 8(a) Business Development Program (8(a) Program) provides participating small
+disadvantaged businesses with training, technical assistance, and contracting opportunities in the form of
+set-aside and sole-source awards. Program eligibility is limited to small business entities owned and
+controlled by one or more socially and economically disadvantaged individuals. Once admitted to the
+8(a) Program, an 8(a) firm is assigned to a Business Opportunity Specialist (BOS). However, it is not yet
+known how or to what extent BOS business development activities influence an 8(a) firm's knowledge
+and capacity, contract awards, or post-program success. Further, business development services are
+tailored to the 8(a) firm needs, and therefore, by necessity, vary. This proposed evaluation offers the
+opportunity to examine service delivery differences related to BOS business development activities.
+This evaluation will contain formative and summative components focusing on 8(a) Program and field
+office efforts to deliver consistent, high-quality business development services to 8(a) firms. The
+evaluation will examine business development services and program and field office processes,
+procedures, coordination, communications, and reporting. The evaluation will also explore the influence
+of the above activities and outputs on short-term and intermediate outcomes. This evaluation emphasizes
+the SBA's goal to ensure equitable and customer-centric design and delivery of programs to support
+small businesses and innovative startups.
+Enterprise Learning Agenda. This evaluation supports the SBA's understanding of the following ELA
+questions:
+How does SBA technical assistance impact small business performance, and how can firms
+be better prepared to successfully participate and compete in the federal marketplace?
+Evaluation Questions. The SBA seeks to answer to the following evaluation questions in this study:
+What is the frequency and distribution of business development services received by 8(a)
+firms?
+What processes and procedures do staff use to conduct 8(a) business development activities?
+What business development activity coordination, communications, and reporting strategies
+and techniques do staff use?
+To what extent do processes, procedures, coordination, communications, and reporting
+variations result in different business development short-term and intermediate outcomes?
+4
+What process and procedure revisions or coordination and communication enhancements
+between national program and field staff could advance business development outcomes?
+Data. The SBA will use program documentation and administrative records, including data from the
+Goals Measures Activity Tracking Tool, 8(a) performance metrics, BOS annual review workbook, and
+certify.sba.gov. 8(a) small business contract award data will be gathered through the System for Award
+Management database. The SBA will collect qualitative data from the SBA's Office of Business
+Development (national program), Office of Field Operations, and supporting offices.
+Methods. The mixed-method evaluation will use quantitative data to examine outputs and outcomes.
+Qualitative data will be collected via interviews and focus groups. A Define, Measure, Analyze, Improve,
+and Control, Define, Measure, Analyze, Design, and Verify, or similar work session may also occur.
+Anticipated Challenges. Variation among district offices and 8(a) firms is anticipated, but capturing all
+nuanced differences is beyond the scope of the evaluation. Varying state and local restrictions and
+extension of 8(a) Program participation related to the COVID-19 pandemic may have altered typical
+business development activities. Historically, 8(a) Program, field office, and certify.sba.gov data have
+been challenging to reconcile. Should data discrepancies be present, confidence in the findings may be
+diminished. Finally, short-term and intermediate outcomes can lag program changes by 12 to 24 months,
+so the time allocated to test the recommendations may be insufficient.
+Evidence Use and Dissemination. Findings from the evaluation may be used to make recommendations
+regarding the structural and procedural elements between national program and field staff coordination
+and communication, which could then be pilot tested to see if a full-scale implementation is warranted.
+Findings from the evaluation will also be used for logic model revisions, if appropriate, and the planned
+follow-up experimental or quasi-experimental evaluation examining 8(a) outcomes. The findings will be
+presented to SBA senior leadership, business development program managers, field staff, and 8(a)
+advocates, and they will be shared in the SBA's Evidence and Evaluation Community of Practice.
+IV.
+Program Evaluation: Government Contracting Certification Program
+Customer Experience
+Strategic Plan Linkage. Objective 1.4: Build back an inclusive and proficient small business contracting base
+ready to compete for all federal procurement opportunities
+Overview. The government limits competition for certain contracts to businesses that participate in the
+SBA's federal contracting assistance programs. These programs include the SBA's 8(a) Business
+Development program, for businesses owned by socially and economically disadvantaged individuals;
+the Women-Owned Small Business program (WOSB), for women-owned businesses operating in
+industries in which women-owned firms are underrepresented; and the Historically Underutilized
+Business Zone (HUBZone) program, for businesses located in and employing individuals from
+geographic areas designated as historically underutilized. Firms must apply for and become certified to
+participate in these programs and must also obtain annual recertification.
+The present evaluation will study customer experience (CX) for firms that apply for certification and
+participate in the 8(a), WOSB, and HUBZone programs. The study will identify both strengths and areas
+of improvement with respect to customer service, technology (e.g., certification platforms), and the
+5
+certification and recertification processes more generally. The SBA will deploy web-based CX
+"touchpoint" surveys and conduct additional surveys or interviews to gather detailed follow-up
+information. The SBA also aims to create a baseline CX metric which can be used to track year-to-year CX
+progress.
+Enterprise Learning Agenda. This evaluation supports the SBA's understanding of the following ELA
+questions:
+How do SBA customers feel about their experience with SBA programs and services, and
+how can the SBA improve this experience, especially for small businesses that are
+underserved?
+How can the SBA increase awareness of, ease of access to, and improved outcomes for its
+programs across the entire demographic makeup of its customer base?
+How can the SBA advance equitable contracting policies and streamline small business
+certification in order to help more underserved small businesses win federal contracts?
+Evaluation Questions. The SBA seeks to answer the following evaluation questions in this study:
+As customers apply for and gain certification/recertification for the SBA's federal contracting
+programs, what aspects of their experience are positive, and what aspects need
+improvement?
+What specific changes can the SBA make to improve customer experience for its federal
+contracting programs?
+How does customer experience vary by program and customer demographics, and in what
+ways can the SBA meet user needs for all of its customers?
+Data. For this formative evaluation, customers will complete "touchpoint" CX surveys at various stages
+during their application and program experience, such as pre-application submission, post-application
+submission, participation/servicing, and recertification or annual review. The survey will utilize
+standardized OMB CX questions to measure satisfaction, areas of improvement, and drivers of
+experience (e.g., effectiveness, ease of use, efficiency, etc.). To the extent that survey length permits,
+respondents will also report on the purpose of their interaction and their demographics. Respondents will
+be given an option to be contacted for follow-up data collection. Those that opt in will be invited to
+provide more details on their experiences by survey or interview.
+Methods. Touchpoint CX surveys will provide quantitative CX measures, brief qualitative information,
+and an aggregate CX metric. Data will be analyzed by program, program stage (e.g., application,
+certification, recertification), and to the extent possible, respondent demographics. Follow-up surveys or
+interviews will also be conducted program customers; this will provide additional qualitative (and/or
+quantitative) information to help understand broad trends identified in touchpoint surveys and to
+provide additional insights on areas of strength, opportunity, potential improvement, and customer
+experience by program and demographic group.
+Anticipated Challenges. OMB guidance states that CX touchpoint surveys are short, standardized, and
+contain limited open-ended responses. Initial information will thus be high level, and highly detailed
+questions may not be feasible. To address this challenge, the study will supplement touchpoint data with
+more detailed follow-up surveys or interviews that investigate specific strengths, weaknesses, and
+program-specific topics of interest. Additionally, demographic information may be challenging to collect;
+if demographic information is insufficient or unavailable, the SBA can analyze at a minimum the
+6
+program with which respondents interacted (indicating that they identify as socially and economically
+disadvantaged, women, or owners operating in HUBZones). A final challenge is that the ideal study
+includes measuring CX for several programs over multiple timepoints, and determining when and how
+to deploy surveys will be critical. The evaluation team will work closely with program administrators to
+identify the most important touchpoints and with IT to identify the best methods of survey delivery.
+Evidence Use and Dissemination. The SBA will use the results of this study to measure year-to-year CX
+progress to make certification process improvements, to reduce administrative burden for customers, and
+ultimately to improve service to gain more participants as part of a broader effort to increase equitable
+participation in federal contracting. Findings will be published online, shared with Office of Government
+Contracting & Business Development program leadership, and presented to the SBA's Evidence and
+Evaluation Community of Practice.
+V.
+Program Evaluation: Community Navigator Pilot Program Implementation
+Strategic Plan Linkage. Objective 1.5: Build an equitable entrepreneurial ecosystem through tailored
+training and counseling
+Overview. In 2021, the SBA launched the Community Navigator Pilot Program to provide high-quality
+technical assistance with pandemic relief programs and recovery services to small businesses and
+entrepreneurs. A primary goal of the $100 million Community Navigator Pilot Program is to reach more
+underrepresented businesses through partnerships with organizations with ties to these communities.
+The SBA developed a hub and spoke logic model for the Community Navigator Pilot Program and
+generated proposed program performance measures, including outputs and outcomes at the Agency, hub
+(partner), and spoke (community navigator) levels.
+This formative evaluation will focus on the implementation and processes of the program, specifically the
+relationship between inputs, activities, and outputs, and begin to capture progress toward short-term
+outcomes. Developing a precise understanding of how the new program was implemented can identify
+the factors responsible for successful implementation and contribute to learning from factors that
+contributed to implementation challenges. This evaluation will help the SBA understand if the new
+initiative was implemented as intended, identify barriers and facilitators to implementing program
+activities, and assess whether the initiative is beginning to produce the intended outputs and outcomes
+(e.g., outreach events, businesses counseled). This evaluation will inform future outcome evaluations and
+may identify needed logic model revisions or best practices in customer-centric design and program
+delivery.
+Enterprise Learning Agenda. This evaluation supports the SBA's understanding of the following ELA
+questions:
+How do participant outcomes and experiences differ for new community-based programs
+(e.g., the Community Navigator program), and what strategies from these programs can be
+adopted to promote equity in the SBA's other training and counseling programs?
+How can the SBA increase awareness of, ease of access to, and improved outcomes for its
+programs across the entire demographic makeup of its customer base?
+What best practices in customer-centric design and delivery of government programs could
+the SBA integrate into its program delivery?
+7
+Evaluation Questions. The SBA seeks to answer the following evaluation questions in this study:
+To what extent has the Community Navigator Pilot Program been implemented as planned
+(in documentation such as the Notice of Funding Opportunity and grant application)?
+To what extent are funded partners aligning implementation to the approach and objectives
+(use of partner entities, measurable goals, program innovations, ecosystem resources and
+assets, budgets and staffing) stated in the application submission?
+To what extent is the Community Navigator Pilot Program making progress towards the
+desired outputs and short-term outcomes (e.g., development of training curriculum,
+utilization of innovative service models and tools) at the Agency, partner, and community
+navigator levels?
+What best practices in customer-centric design and program delivery have been identified in
+the implementation to date, and how might those practices be integrated into other SBA
+programs?
+Data. The SBA will use administrative data from the Notice of Funding Application submission
+(measurable goals, program innovations, ecosystem resources) and performance metric reporting. The
+SBA will also collect qualitative data from the SBA Office of Entrepreneurial Development and
+supporting SBA offices, including but not limited to the Office of Field Operations. Data will also be
+collected from partners, community navigators directly interacting with targeted customers, and
+potentially customers.
+Methods. The mixed-method implementation evaluation will draw on administrative program data from
+the NOFA application submissions and reported performance metrics. Qualitative data will be collected
+through observation, interviews, or focus groups.
+Anticipated Challenges. Because disbursement schedules from grants will vary and are expected to occur
+on a rolling basis, sufficient time may not have passed to begin evaluating the initiative across all funded
+entities. The evaluation focuses on the implementation and processes of the program. However, there
+may be wide variations among funded entities, which can impact sampling and generalizability of
+findings. Finally, there may be insufficient awards by tier, partner type, customer reached, urban/rural, or
+region to assess implementation at each planned segment.
+Evidence Use and Dissemination. The SBA will use the results of this study to inform logic model revision
+and improve program design and implementation, as appropriate. Findings will also be used to inform a
+future outcome evaluation. Additionally, the findings may provide insight into customer-centric design
+practices and service delivery that the SBA can integrate into its other programs. Findings will be
+published on the SBA website and shared with partners, community navigators, and the SBA's Evidence
+and Evaluation Community of Practice.
+VI.
+Program Evaluation: COVID-19 Recovery Program Impacts
+Strategic Plan Linkage. Objective 2.1: Help small businesses recover from the pandemic and become more
+resilient
+Overview. Pandemic response legislation such as the Coronavirus Aid, Relief, and Economic Security Act
+and American Rescue Plan Act authorized new programs to help small businesses recover. These
+programs provided the SBA with the largest outlay of capital in the Agency's history. As of July 2021, the
+8
+SBA has awarded over 15.9 million Paycheck Protection Program (PPP) loans, COVID-19 Economic
+Injury Disaster Loans (COVID-EIDL), and Targeted and Supplemental Targeted EIDL Advances, totaling
+over a trillion dollars.5,6 As of summer 2021, the SBA also awarded over $36 billion in Restaurant
+Revitalization Fund (RRF) Grants and Shuttered Venue Operators Grants (SVOG) to over 110,000
+restaurants and venues.7.8 This evaluation will determine the impacts of these relief efforts on small
+business outcomes and recovery.
+Enterprise Learning Agenda. This evaluation supports the SBA's understanding of the following ELA
+question:
+What effects did the SBA's pandemic recovery programs have on small business outcomes
+(e.g., survival, employee retention, revenue and sales parity, etc.), and how did these vary by
+industry, geography, and owner demographics?
+Evaluation Questions. The SBA seeks to answer the following evaluation questions in this study:
+How did SBA pandemic recovery programs impact small business outcomes such as
+survival, employee retention, and revenue and sales parity?
+How did SBA pandemic recovery programs impact the timing of small business recovery as
+measured by revenue and employment?
+Did these impacts vary based on business characteristic (e.g., size, industry, geography,
+owner demographics)?
+Data. The SBA will use administrative data from the SBA pandemic recovery programs (PPP, COVID-
+EIDL, SVOG, and RRF), which will be matched with data at the Census Bureau. No new data collection is
+intended.
+Methods. This evaluation will employ quasi-experimental methods. Comparison groups with similar
+businesses that did not receive SBA pandemic recovery assistance will be compared with recipients of
+pandemic recovery assistance using Census Bureau data.
+Anticipated Challenges. Some data maintained by the Census Bureau, including Internal Revenue Service
+(IRS) tax records, may not be available for evaluations. Additionally, SBA data may be of insufficient
+quality to produce an appropriate number of matches during the data linking phase. However, the SBA
+has linked other program data with Census datasets previously and found it to produce sufficient
+matches for analysis.
+Evidence Use and Dissemination. The SBA will use these results to understand the effects of its pandemic
+recovery programs and to inform other disaster relief efforts where applicable. The findings will be
+presented to senior leadership and program staff, published on the SBA website and the Census Bureau
+website, and shared in the SBA's Evidence and Evaluation Community of Practice.
+VII. Program Evaluation: Shuttered Venue Operators Grant Outcomes
+5Paycheck Protection Program (PPP) Report: Approvals through 05/31/2021 (SBA, 2021)
+6SBA Disaster Assistance Update: Nationwide Economic Injury Disaster Loans COVID-19, July 29, 2021 (SBA, 2021)
+7 Restaurant Revitalization Fund (RRF) Report, Approvals through 06/30/2021 (SBA, 2021)
+8 Shuttered Venue Operators Grant Public Report, As of Midday 2 August 2021 (SBA, 2021)
+9
+Strategic Plan Linkage. Objective 2.1: Help small businesses recover from the pandemic and become more
+resilient
+Overview. In December 2020, the Shuttered Venue Operators Grant (SVOG) program was established to
+provide economic aid to shuttered venues who suffered revenue losses as a result of the COVID-19
+pandemic. The grant was designed for operators of live venues, performing arts organizations, museums,
+theatrical producers, and talent representatives, with the primary goal of venue survival. The award of
+nearly $14 billion has helped keep businesses open and re-open businesses that suffered revenue losses as
+a result of closures. A tiered approach to application processing assigned higher priority to venues that
+reported greater revenue loss from April through December 2020.
+This summative evaluation will focus on assessing if and how logic model outcomes were met, especially
+regarding the number of jobs supported and revenue earned by SVOG grantees. Divergence of planned
+versus actual expenditures will also be evaluated.
+Enterprise Learning Agenda. This evaluation supports the SBA's understanding of the following ELA
+questions:
+What effects did the SBA's pandemic recovery programs have on small business outcomes
+(e.g., survival, employee retention, revenue and sales parity, etc.), and how did these vary by
+industry, geography, and owner demographics?
+What policies, technologies, or best practices should the SBA implement to help small
+businesses recover and adapt to a post-COVID-19 environment?
+To what extent do small businesses have emerging capital needs as they adapt to, recover
+from, and grow after the COVID-19 pandemic? If businesses have emerging needs, what are
+they?
+Evaluation Questions. The SBA seeks to answer the following evaluation questions in this study:
+What are the characteristics of SVOG grantees? How do SVOG grantees compare with grant
+applicants that did not receive SVOG funds?
+What is the change in number of jobs for SVOG venues before and after grant receipt? What
+about for venues that did not receive SVOG funds during the same time frame? How does
+the change in number of jobs vary by venue type, geography, business size, owner
+demographics, or other key characteristics?
+What is the average change in revenue earned by SVOG venues before and after grant
+receipt? What about for venues that did not receive SVOG funds during the same time
+frame? How does the average change in revenue vary by the variables above?
+How many SVOG grantees are still in operation three months, six months, and one year after
+grants were received?
+How have SVOG grantees used their grant funds? How did actual use of funds compare with
+planned use at the time of application?
+What remaining pandemic recovery needs do SVOG grantees have?
+Data. The SBA will use administrative data from the SVOG Portal to examine planned expenditures,
+change in revenue, and other reported business metrics, such as venue type. The System for Award
+Management (SAM) contains business owner demographics and other business characteristics; the SBA
+will use this data to make comparisons. The SBA will also collect qualitative data from grantees in the
+form of a closeout survey, which asks grantees to rate the SVOG's impact on reopening and fulfilling
+10
+business needs. Focus group and interview data will reveal some of the ways in which the SVOG
+impacted grantees.
+Methods. The mixed-method outcomes evaluation will draw on administrative program data from SAM
+and reported performance metrics. Qualitative data will be collected through interviews or focus groups.
+Anticipated Challenges. By time of analysis, all closeout survey data may not be available because grant
+closeout is dependent on the award date, which varied. In addition, it may be difficult to receive closeout
+survey data from businesses that permanently closed, so the SBA plans to issue repeated communications
+to businesses that do not complete the closeout process. Since demographic information is voluntarily
+reported, response rates to demographic questions may be low. COVID-19 variants may also result in
+closures and affect the reopenings of grantee businesses, impacting grantee responsiveness as well. The
+SBA will have more information about demographic comparisons through its Joint Statistical Project with
+the Census Bureau, but this may not occur within the SVOG's evaluation timeframe.
+Evidence Use and Dissemination. The SBA will use the results of this study to improve the disbursement of
+funds and the design of grant programs for specific industries. Findings will be published on the SBA
+website and shared with senior leadership, program staff, partners, and the SBA's Evidence and
+Evaluation Community of Practice.
+VIII. Program Evaluation: Disaster Assistance Loan Impacts
+Strategic Plan Linkage. Objective 2.2: Help prepare small businesses and rebuild communities affected by
+natural disasters
+Overview. The SBA's Disaster Assistance Loan program provides direct loans to businesses of all sizes,
+private non-profit organizations, homeowners, and renters who are survivors of disaster. Loans may be
+used to replace or repair real estate, personal property, machinery and equipment, inventory, and other
+business assets that have been damaged or destroyed in a disaster and to help small businesses recover
+from economic injury caused by a disaster. This evaluation will determine the impacts of SBA disaster
+assistance loans on small business outcomes and recovery.
+Enterprise Learning Agenda. This evaluation supports the SBA's understanding of the following ELA
+question:
+How do SBA disaster assistance loans contribute to post-disaster individual, business, and
+community rebuilding?
+Evaluation Questions. The SBA seeks to answer the following evaluation questions in this study:
+How do SBA physical Disaster Assistance Loans impact small business outcomes such as
+revenue, employment, and survival?
+How do SBA physical Disaster Assistance Loans impact the timing of small business
+recovery as measured by revenue and employment?
+Do these impacts vary based on business characteristic (e.g., size, industry)?
+Do these impacts vary based on characteristics of the disaster (e.g., hurricane, tornado)?
+Data. The SBA will use administrative data from the SBA Disaster Assistance Loan program from FYs
+2005-2020, which will be matched with data at the Census Bureau. No new data collection is intended.
+11
+Methods. This evaluation will employ quasi-experimental methods. Comparison groups with similar
+program businesses that did not receive an SBA Disaster Assistance Loan will be compared with
+recipients of SBA Disaster Assistance Loans using Census Bureau data.
+Anticipated Challenges. Some data maintained by the Census Bureau, including IRS tax records, may not be
+available for evaluations. Additionally, SBA data may be of insufficient quality to produce an appropriate
+number of matches during the data linking phase. However, the SBA has linked this data with other
+datasets previously and found it to produce sufficient matches for analysis.
+Evidence Use and Dissemination. The SBA will use these results to inform program and policy decisions for
+the Disaster Assistance Loan program and other loan programs in the Agency. The SBA may choose to
+enhance policy or develop different programmatic offerings based on small business need. The SBA
+findings will be presented to senior leadership and program staff, shared with resource partners and the
+U.S. Federal Emergency Management Agency, published on the SBA website and the Census Bureau
+website, and shared in the SBA's Evidence and Evaluation Community of Practice.
+12

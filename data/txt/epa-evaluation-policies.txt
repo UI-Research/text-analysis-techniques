@@ -1,0 +1,454 @@
+ORDER 1000.33 03/25/2022
+U.S. Environmental Protection Agency
+Policy for Evaluations and Other Evidence-Building Activities
+Contents
+I.
+Purpose
+1
+II.
+Background
+1
+III.
+Policy Applicability
+3
+IV.
+Policy Scope
+4
+V.
+Policy for Evaluations and Other Evidence-Building Activities
+4
+VI.
+Definitions
+6
+VII.
+Roles and Responsibilities
+8
+VIII. References
+9
+Purpose
+EPA's ability to pursue its mission to protect human health and the environment depends upon the
+availability and quality of data and evidence that support environmental policies, decisions, guidance,
+and regulations. This Policy provides a framework to comply with the Foundations for Evidence-Based
+Policymaking Act of 2018 and OMB guidance and to promote a culture of evaluation and continuous
+learning that ensures agency decisions are made on the best available evidence. EPA is committed to
+using evaluation, statistics, research, analysis, and other evidence to achieve our mission. This Policy
+establishes expectations for EPA's development and use of evaluations and other evidence-building
+activities.
+Background
+The Foundations for Evidence-Based Policy Making Act of 2018 (The Evidence Act) was signed into law
+with bipartisan support on January 14, 2019 [1]. The Evidence Act's goal is to ensure the availability and
+rigorous use of evidence and evaluation as a routine part of government operations to improve public
+policy and decision making. The Evidence Act promotes strategic evidence-building, addressing
+unintentional limits on data access, and strengthening agency capacity to develop the evidence needed
+to support regulatory and policy decisions.
+EPA developed this Policy as part of the agency's effort to ensure that evaluations and evidence
+developed to support policy and decision making are relevant, rigorous, independent and objective,
+transparent, ethical, and consistent with scientific integrity. This Policy is issued pursuant to Office of
+Management and Budget (OMB) M-20-12 [2], M-19-23 [3], and M-21-27 [4], which require federal
+agencies to "establish, implement, and widely disseminate an agency evaluation policy" that "affirms
+the agency's commitment to conducting rigorous, relevant evaluations and to using evidence from
+evaluations to inform policy and practice," and to "ensure evaluation activities adhere to an evaluation
+1
+policy and that stakeholders are aware of its content and use." As described in OMB M-19-23 and
+reemphasized in OMB M-20-12 and M-21-27:
+"These standards for evaluation are designed to operate in tandem with key Federal statutes, as well as
+implementing guidance for these statutes issued by OMB. Additionally, these standards and practices
+recognize the implementation of evaluation and evidence-building activities of the Evidence Act as a
+complement to principles of the Paperwork Reduction Act of 1995 [5], OMB's implementing guidance for
+the Information Quality Act [6], and the Performance Framework outlined in the Government
+Performance and Results Act Modernization Act of 2010 [7]. These standards and practices focus on
+evaluation, as is mandated by the Evidence Act [and other evidence-building activities] and are not
+addressed by other Federal policies and frameworks."
+EPA's Policy for Evaluations and Other Evidence-Building Activities extends these principles to the suite
+of evidence-building activities developed by the agency to inform policy and decision-making. This Policy
+also builds upon and leverages existing EPA and government-wide policies, standards, and guidance to
+promote the quality, reliability, and accuracy of the information EPA develops and/or uses to inform
+policy and decision making. These include the 2002 OMB Information Quality Guidelines [6], the 2005
+OMB Information Quality Bulletin for Peer Review [8],¹ EPA's Environmental Information Quality Policy
+[9],2 EPA's Peer Review Policy [10] and Handbook for Internal and External Review of Scientific Products
+[11],³ EPA's Information Quality Guidelines [12] 4 and Summary of General Assessment Factors for
+1 OMB's Bulletin for Peer Review [8] "establishes that important scientific information shall be peer reviewed by
+qualified specialists before it is disseminated by the Federal government." The Bulletin defines a "scientific
+assessment" as "an evaluation of a body of scientific or technical knowledge that typically synthesizes multiple
+factual inputs, data, models, assumptions, and/or applies best professional judgment to bridge uncertainties in the
+available information."
+2 EPA's Environmental Information Quality Policy [9] requires programs to: "Evaluate Information using the
+Information Quality Guidelines (Pre-Dissemination Review)[; Plan for and assess all environmental information
+prior to use in supporting Agency actions or decisions to verify the information is of sufficient quality, objectivity,
+utility and integrity for their intended use and purpose[;] Ensure information disseminated by or for EPA conforms
+with the Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility and Integrity of Information
+Disseminated by the Environmental Protection Agency[; and] Retain documentation of pre-dissemination review
+performed on disseminated information products."
+3 EPA's Peer Review Policy [10] encourages and expects peer review "of all scientific and technical information that
+is intended to inform or support Agency decisions." The Peer Review Handbook [11] "should be used as guidance
+by EPA staff and managers to ensure that the Agency's Peer Review Policy is implemented effectively and that the
+integrity of our peer review activities can be demonstrated transparently to the American public." The Handbook
+describes peer review as "a documented process for enhancing a scientific or technical work product so that the
+decision or position taken by the Agency, based on that product, has a sound, credible basis [Peer review] is
+conducted by qualified individuals (or organizations) who are independent of those who performed the work and
+who are collectively equivalent in technical expertise to those who performed the original work (i.e., peers). Peer
+review is conducted to ensure that activities are technically defensible, competently performed, properly
+documented and consistent with established quality criteria. Peer review is an in-depth assessment of the
+assumptions, calculations, extrapolations, alternate interpretations, methodology, acceptance criteria and
+conclusions pertaining to the scientific or technical work product, and of the documentation that supports them.
+Peer review also may provide an evaluation of a topic where quantitative methods of analysis or measures of
+success are unavailable or undefined."
+4 In addition to data and analyses developed by EPA, the agency often uses existing data and information
+generated by third parties to inform its decisions. EPA's Information Quality Guidelines [6] also requires the quality
+and scientific soundness of this type of data to be reviewed and documented prior to use.
+2
+Evaluating the Quality of Scientific and Technical Information [13], 5 EPA's Enterprise Data Management
+Policy [14], 6 EPA's Policy and Procedures on Protection of Human Subjects in EPA Conducted or
+Supported Research [15], 7 EPA's Plan to Increase Access to Results of EPA-Funded Scientific Research
+[16], 8 and EPA's Scientific Integrity Policy [19].9
+Policy Applicability
+As of the effective date, all agency employees, including staff, managers, and political appointees, are
+required to follow this Policy when engaging in, supervising, managing, influencing, or communicating
+evaluations or other evidence-building activities. In addition, all contractors, grantees, and student
+volunteers of the agency who engage in evaluations and other evidence-building activities are expected
+to uphold the standards established by this Policy and may be required to do so as part of their
+5 EPA's General Assessment Factors for Evaluating the Quality of Scientific and Technical Information were
+developed as a "resource for Agency staff as they evaluate the quality and relevance of information, regardless of
+source," to "enhance the transparency about EPA's quality expectations for information that is voluntarily
+submitted to or gathered or generated by the Agency for various purposes," and to "inform
+information-generating scientists about quality issues that should appropriately be taken into consideration at the
+time information is generated." The assessment factors include soundness, applicability and utility, clarity and
+completeness, uncertainty and variability, and evaluation and review.
+6 EPA's Enterprise Data Management Policy (EDMP) "updates EPA's standard approach to developing, managing,
+and using data and information to support the development of evidence and evidence-based decision-making. It
+strengthens EPA's data and information management principles, practices, and standards to ensure data are
+discoverable, understandable, accessible, useable, and re-useable by internal and external users seeking to
+conduct analyses and develop evidence." The EDMP "incorporates the data and information planning, governance,
+and OPEN (Open, Public, Electronic, and Necessary) data management requirements of the Foundations for
+Evidence-Based Policymaking Act of 2018; codifies the Chief Data Officer's (CDO) role for leading and coordinating
+EPA's data management functions as defined by the Act; and provides a framework for promoting an EPA culture
+of open, active, collaborative, and evidence-based data management."
+7 EPA's Policy and Procedures on Protection of Human Subjects in EPA Conducted or Supported Research requires
+that all "human subjects research conducted or supported by EPA must either be approved or be acknowledged as
+exempt research by the EPA Human Subjects Research Review Official (HSRRO) before any work involving human
+subjects research can begin." The policy defines research to mean, "a systematic investigation, including research,
+development, testing, and evaluation designed to develop or contribute to generalizable knowledge."
+8 EPA's Plan to Increase Access to Results of EPA-Funded Scientific Research [16] "describes how the Agency
+intends to increase access to peer-reviewed scholarly publications and digital data resulting from EPA-funded
+scientific research. The policies and approaches outlined in [the] Plan are consistent with the OSTP [Office of
+Science and Technology Policy] Memo [17] and with the Office of Management and Budget (OMB) Open Data
+Policy (M-13-13) issued May 9, 2013 [18].'
+9
+EPA's Scientific Integrity Policy [19] "provides a framework intended to ensure scientific integrity throughout the
+EPA and promote scientific and ethical standards, including quality standards; communications with the public; the
+use of peer review and advisory committees; and professional development." The Scientific Integrity Policy applies
+to all agency employees "engaging in, supervising, managing, or influencing scientific activities; communicating
+information in an official capacity about Agency scientific activities; and utilizing scientific information in making
+Agency policy or management decisions." The Scientific Integrity Policy also applies to contractors and grantees.
+For the purpose of the Scientific Integrity Policy, ""science" and "scientific" are expansive terms that refer to the
+full spectrum of scientific endeavors, e.g., basic science, applied science, engineering, technology, economics,
+social sciences, and statistics. The term "scientist" refers to anyone who collects, generates, uses, or evaluates
+scientific data, analyses, or products."
+3
+respective agreements with EPA. Where practicable, EPA should consider how different implementation
+methods, tools, or technologies could assist in the application of this policy.
+This Policy guides agency activities in an area that is already subject to several laws, rules, and policies
+for various purposes. When there is overlap with other applicable rules and guidance, this Policy is not
+intended to preempt other authorities, but instead to work in conjunction with and supplement them.
+This Policy reinforces EPA's Scientific Integrity Policy and other policies related to ethical conduct,
+information and scientific quality, and public dissemination. In implementing this Policy, the Evaluation
+Officer will consult and coordinate with other relevant EPA officials (e.g., Chief Data Officer, Chief
+Information Officer, Human Subjects Research Review Official, Science Advisor, Scientific Integrity
+Official, and Statistical Official).
+This Policy is intended to improve the internal management and operation of the agency. It does not
+create any obligation, right, or benefit for any member of the public, substantive or procedural,
+enforceable by law or in equity by any party against the United States, its departments, agencies, or
+entities, its officers, employees or agents, or any other person.
+Actions taken in accordance with this Policy are subject to the availability of appropriated funds and
+must be authorized under and consistent with existing authorities, including applicable law and
+regulations, Executive Orders, and Federal and EPA ethics, information, and personnel rules and policies.
+Policy Scope
+This Policy applies to evidence-building activities, including but not limited to evaluations, policy
+analysis, foundational fact finding (e.g., aggregate indicators, exploratory studies, descriptive statistics,
+and other research), performance measurement, data collection, data acquisition, and data
+management (see Section VI. Definitions).
+EPA strives to use quality data and evidence to inform policy and decision making. This Policy builds on
+existing agency policies and aims to ensure the scientific integrity, quality, and accountability of EPA's
+evaluation and other evidence-building activities and provide EPA staff, managers, political appointees,
+and agency stakeholders "with a clear understanding of the expectations related to key principles, such
+as evaluation relevance and utility, rigor, independence and objectivity, transparency, and ethics" [20].
+Policy for Evaluations and Other Evidence-Building Activities
+It is EPA's policy that the following standards will be applied to all evaluations and other evidence-
+building activities planned, funded, conducted, or used to support agency regulations, policies,
+directives, guidance, reports, and plans. These standards are based on, and are consistent with, OMB's
+"Federal Program Evaluation Standards" in OMB M-20-12 [2] and M-21-27 [4]. Applying each standard
+"requires the integration of all of the other standards; however, at times adherence to one or more of
+these standards must be judiciously balanced with adherence to others" [2]. The agency recognizes that
+the best policies and decisions are informed by data and evidence that adhere to the following
+principles:
+4
+Relevance and Utility: EPA will carry out evaluations and other evidence-building activities that
+reflect policy and programmatic priorities of the agency and have the potential to impact those
+priorities. EPA's evaluations and other evidence-building activities will address high priority
+questions and serve information needs of EPA and EPA's stakeholders, including the general
+public. EPA will work to ensure that findings from evaluations and other evidence-building
+activities are actionable and timely, and that information is presented clearly so that it can
+inform agency decision making in areas such as policy development, strategic program planning,
+budgeting, rulemaking, program design and improvement, management, and accountability.
+Rigor: EPA will produce findings that are credible and that internal and external stakeholders
+can rely upon. The Agency will use approaches for data collection, evaluation, and other
+evidence-building activities that are of appropriate quality for their intended use. EPA will
+include clear explanations of limitations as part of its findings. The agency will ensure that
+evaluations and other evidence-building activities are staffed and managed by qualified
+personnel with the appropriate education, skills, and experience for the methods undertaken.
+EPA will ensure that evaluations and other evidence-building activities use the most appropriate
+design and methods to answer identified questions, while balancing goals, scale, timeline,
+feasibility, and availability of staff and resources.
+Independence and Objectivity: It is important that evaluations and other evidence-building
+activities are objective to ensure that agency decisions are based on facts and unbiased research
+and information. It is also important that evaluations and other evidence-building activities are
+viewed as objective so that agency decisionmakers, stakeholders, internal and external experts,
+and the public accept the findings. EPA will ensure the independence and objectivity of
+personnel conducting and managing evaluations and other evidence-building activities.
+Stakeholders may have an important role in helping the agency identify evaluation and other
+evidence-building priorities, but EPA will insulate the implementation of evaluations and other
+evidence-building activities, including how evidence-building project staff and managers are
+selected and how they operate, from political and other undue influences that may affect their
+objectivity, impartiality, and professional judgment. Agency evaluation and other evidence-
+building staff and managers will strive for objectivity in the planning and conduct of evaluations
+and evidence-building activities, and in the interpretation and dissemination of findings.
+Objectivity in evaluations and other evidence-building activities supports agency decision-
+making informed by facts, and unbiased research and information. Agency evaluation and
+evidence-building staff and managers will avoid conflicts of interest, balance bias, and other
+partiality.
+Transparency: EPA is committed to ensuring that internal and external researchers, agency
+collaborators, policymakers, and the public can learn from its work; EPA evaluations and other
+evidence-building activities and their underlying data should be open by default and to the
+extent possible under applicable law. 10 To the extent possible, before conducting an evaluation
+or other evidence-building activity, EPA will clearly document and broadly share the purpose
+and objectives (including internal versus public use) of evaluations and other evidence-building
+activities, the range of stakeholders who will have access to details of the work and findings, the
+design and methods, and the timeline and strategy for releasing findings. To the extent possible
+10
+EPA's Enterprise Data Management Policy states that, "It is EPA policy to develop and manage its data as an
+open data asset and to use it as critical input in developing evidence to support agency decision-making."
+5
+under all applicable laws, including but not limited to the Freedom of Information Act and the
+Privacy Act, once evaluations and other evidence-building activities are complete, EPA will
+publicly release the findings in a timely manner and will provide enough detail so that others can
+review, interpret, or reanalyze the work.
+EPA will make information about evaluations and other evidence-building activities and their
+findings broadly available and accessible, typically on the Internet. This includes providing the
+names of key personnel who contribute to individual evidence building activities, 11 releasing
+study plans, and describing the methods. EPA will publicly release results in a timely manner of
+all evaluations and other evidence-building activities that are not specifically focused on internal
+management, legal, or enforcement procedures, or that are not otherwise privileged or
+prohibited from disclosure.
+Ethics: EPA will conduct evaluations and other evidence-building activities in an ethical manner
+and safeguard the dignity, rights, safety, and privacy of participants. Evidence-building staff and
+managers will comply with all applicable ethical and legal requirements. Evaluations and other
+evidence-building activities will be equitable, fair, and just, and will consider cultural and
+contextual factors that could influence the findings or their use.
+Equity: 12 EPA will consider and promote equity throughout the lifecycle of evidence-building. At
+the outset when priority questions are being identified, EPA will work to ensure that the full
+range of perspectives and voices are gathered to inform and refine those questions. EPA will
+consider equity as evidence-building activities are designed and implemented, including as the
+theory of change is developed, methods are selected, and when data collection, analysis and
+dissemination and reporting plans are made and implemented. A diverse set of stakeholder
+perspectives and experiences is critical so that evidence-building activities can yield high-quality
+insights and do not inadvertently perpetuate underlying biases.
+Definitions
+13
+Data: As defined in the Foundations for Evidence-Based Policymaking Act of 2018 (§202(a)), "the term
+'data' means recorded information, regardless of form or the media on which the data is recorded" [1].
+11 EPA's Scientific Integrity program published Best Practices for Designating Authorship to (1) affirm "the Agency's
+commitment to transparency in its interactions with the public. [recognizing that the] designation of authorship
+plays a critical role in transparency by identifying who is responsible for the information and conclusions in EPA
+work products and how they were developed; and (2) fulfill "the need for a common understanding of the best
+practices for recognizing the contributions of individuals through authorship of EPA work products."
+12
+For the purposes of this Policy, equity is defined in the Executive Order On Advancing Racial Equity and Support
+for Underserved Communities Through the Federal Government [21] as: "the consistent and systematic fair, just,
+and impartial treatment of all individuals, including individuals who belong to underserved communities that have
+been denied such treatment, such as Black, Latino, and Indigenous and Native American persons, Asian Americans
+and Pacific Islanders and other persons of color; members of religious minorities; lesbian, gay, bisexual,
+transgender, and queer (LGBTQ+) persons; persons with disabilities; persons who live in rural areas; and persons
+otherwise adversely affected by persistent poverty or inequality." The Executive Order defines "underserved
+communities" as "populations sharing a particular characteristic, as well as geographic communities, that have
+been systematically denied a full opportunity to participate in aspects of economic, social, and civic life".
+13 Additional definitions related to this Policy are found in OMB M-20-12 [2] and M-21-27 [4].
+6
+Evaluation and Program Evaluation: OMB defines evaluations and program evaluations in 5 U.S.C. §
+311(3) to mean "an assessment using systematic data collection and analysis of one or more programs,
+policies, and organizations intended to assess their effectiveness and efficiency" [2, 20]. OMB further
+defines the following five types of evaluations [2]:
+Impact Evaluation: This type of evaluation assesses the causal impact of a program, policy, or
+organization, or aspect of them on outcomes, relative to a counterfactual. In other words, this
+type of evaluation estimates and compares outcomes with and without the program, policy, or
+organization, or aspect thereof. Impact evaluations include both experimental (i.e., randomized
+controlled trials) and quasi-experimental designs. An impact evaluation can help answer the
+question, "does it work?" or "did the intervention lead to the observed outcomes?"
+Outcome Evaluation: This type of evaluation measures the extent to which a program, policy, or
+organization has achieved its intended outcome(s) and focuses on outputs and outcomes to
+assess effectiveness. Unlike impact evaluation above, it cannot discern causal attribution but is
+complementary to performance measurement. An outcome evaluation can help answer the
+question, "were the intended outcomes of the program, policy, or organization achieved?"
+Process or Implementation Evaluation: This type of evaluation assesses how the program or
+service is delivered relative to its intended theory of change, and often includes information on
+content, quantity, quality, and structure of services provided. These evaluations can help answer
+the question, "was the program, policy, or organization implemented as intended?" or "how is
+the program, policy, or organization operating in practice?"
+Formative Evaluation: This type of evaluation is typically conducted to assess whether a
+program, policy, or organizational approach - or some aspect of these - is feasible, appropriate,
+and acceptable before it is fully implemented. It may include process and/or outcome measures.
+However, unlike outcome and impact evaluations, which seek to answer whether the program,
+policy, or organization met its intended goals or had the intended impacts, a formative
+evaluation focuses on learning and improvement and does not answer questions of overall
+effectiveness.
+Descriptive Studies: These studies can be quantitative or qualitative in nature, and seek to
+describe a program, policy, organization, or population without inferring causality or measuring
+effectiveness. While not all descriptive studies are evaluations, some may be used for various
+evaluation purposes, such as to understand relationships between program activities and
+participant outcomes, measure relationships between policies and outcomes, describe program
+participants or components, and identify trends or patterns in data.
+Evidence: OMB broadly defines evidence as "the available body of facts or information indicating
+whether a belief or proposition is true or valid. As such, evidence can be quantitative or qualitative and
+may come from a variety of data and information sources, including foundational fact finding (e.g.,
+aggregate indicators, exploratory studies, descriptive statistics, and other research), performance
+measurement, policy analysis, and program evaluation. Evidence has varying degrees of credibility, and
+the strongest evidence generally comes from a portfolio of high quality, credible sources rather than a
+single source" [2]. In addition, the Evidence Act defines "evidence" per 44 U.S.C. § 3561(6) to mean
+"information produced as a result of statistical activities conducted for a statistical purpose" [1]:
+44 U.S.C. § 3561(10) defines the term statistical activities" as "the collection, compilation,
+processing, or analysis of data for the purpose of describing or making estimates concerning the
+whole, or relevant groups or components within, the economy, society, or the natural
+7
+environment and includes the development of methods or resources that support those
+activities, such as measurement methods, models, statistical classifications, or sampling
+frames."
+44 U.S.C. § 3561(12) defines the term "statistical purpose" as "the description, estimation, or
+analysis of the characteristics of groups, without identifying the individuals or organizations that
+comprise such groups and includes the development, implementation, or maintenance of
+methods, technical or administrative procedures, or information resources that support [those]
+purposes."
+Evidence-building activities: Consistent with OMB guidance [3], evidence building activities include, but
+are not limited to:
+Program evaluation (see definition above).
+Policy analysis (including analysis of data, such as general-purpose survey or program-specific
+data, to generate and inform policy, e.g., estimating regulatory impacts and other relevant
+effects).
+Foundational fact finding (including foundational research and analysis such as aggregate
+indicators, exploratory studies, descriptive statistics, and basic research).
+Performance measurement (including ongoing, systematic tracking of information relevant to
+policies, strategies, programs, projects, goals/objectives, and/or activities).
+Data collection, acquisition, and management.
+Research plans, research roadmaps, enterprise learning agendas, or evaluation strategic plans.
+Planning and managing or conducting specific evaluations and other evidence-building activities,
+summarizing findings for particular programs or policies, when supporting other offices within
+EPA or other agencies to interpret findings, and bringing evidence to bear in decision-making.
+Roles and Responsibilities
+The Evaluation Officer is the primary agency official responsible for implementing this Policy. The
+Evaluation Officer is responsible for:
+Promoting agency compliance with this Policy, including safeguarding against, and instituting
+mechanisms to ensure accountability for, any alteration or manipulation of evaluations or other
+evidence-building activities by agency managers and leaders.
+Issuing additional guidance, standards, procedures, and reporting necessary to implement and
+assess the effectiveness of this Policy.
+Consulting and coordinating with other relevant agency officials to ensure implementation of
+this Policy is consistent with and supports implementation of related laws and policies.
+Providing training, seminars, and other opportunities to make agency staff and management
+aware of the Policy and its role in guiding the agency's evaluation and other evidence-building
+activities.
+The Evaluation Officer collaborates with the Statistical Official and Chief Data Officer, Scientific Integrity
+Official, as well as program staff; other evaluation, statistics, analysis, data, enterprise risk management,
+and performance units and personnel in the agency; policy staff; regulatory staff; privacy and
+information law and policy personnel; and agency leadership [20]. Specifically:
+8
+The Statistical Official is the Agency's senior advisor for statistical policy, techniques, and procedures to
+support the conduct of credible, accurate, and objective statistical activities used for evaluation and
+evidence-building. The Statistical Official is responsible for promoting the use of techniques that provide
+necessary levels of data quality, confidentiality, and rigor, along with procedures that implement those
+techniques systematically and efficiently in the implementation of this Policy.
+The Chief Data Officer is responsible for Agency data management throughout the information lifecycle
+from data collection and creation through records management. The Chief Data Officer further ensures
+that, to the extent possible, agency data and data management conforms with data management best
+practices. The Chief Data Officer strives to ensure that the agency maximizes the use of data across the
+agency, particularly with respect to production of evidence. The Chief Data Officer will support this
+Policy by identifying procedures and providing data governance that maximizes the use of EPA data in
+agency evaluation and other evidence-building activities.
+The Chief Information Officer is the EPA senior management official for quality management and leads
+Agency-wide implementation of EPA's Environmental Information Quality Policy and Quality Program.
+The Chief Information Officer will collaborate with the Chief Data Officer, Statistical Official, and
+Evaluation Officer to promote adherence of evaluations and other evidence-building activities with
+agency data and information policies and procedures.
+The agency's Evidence Act Workgroup14 will advise the Evaluation Officer to ensure consistent
+implementation of this Policy, including providing advice on the applicability of the Policy to specific
+evidence-building activities and assisting in the development and dissemination of, and compliance
+with, implementation guidances, standards, procedures, and reporting pursuant to this Policy.
+References
+1.
+Foundations for Evidence-Based Policymaking Act of 2018. 2019.
+2.
+Office of Management and Budget, Memorandum M-20-12: Phase 4 Implementation of the
+Foundations for Evidence-Based Policymaking Act of 2018: Program Evaluation Standards and
+Practices. March 10, 2020.
+3.
+Office of Management and Budget, Memorandum M-19-15: Improving Implementation of the
+Information Quality Act. April 24, 2019.
+4.
+Office of Management and Budget, Memorandum M-21-27: Evidence-Based Policymaking:
+Learning Agendas and Annual Evaluation Plans. June 30, 2021.
+5.
+Information Quality Act, Section 515 of the Consolidated Appropriations Act, 2001.
+6.
+Office of Management and Budget, Guidelines for Ensuring and Maximizing the Quality,
+Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies. Feb. 22, 2002.
+7.
+Government Performance and Results Act (GPRA) Modernization Act of 2010.
+14 The Evidence Act Workgroup is co-chaired by the three Evidence Act designated officials. Workgroup
+membership is outlined in its Charter and includes: Learning Priority Leads (Headquarter offices and assigned Lead
+Regions), Headquarter representatives, and Lead Region for each of the following offices Office of the Chief
+Financial Officer, Office of Mission Support, and Office of Policy. Note that EPA's Lead Region system assigns
+regional offices to work with EPA National Program Managers to identify and synthesize the concerns of all ten
+regions into a "regional view" that can be effectively factored into Agency decision-making.
+9
+8.
+Office of Management and Budget, Final Information Quality Bulletin for Peer Review. Jan. 14,
+2005.
+9.
+U.S. Environmental Protection Agency, Chief Information Officer, Environmental Information
+Quality Policy (CIO 2105.1). 2021.
+10.
+U.S. Environmental Protection Agency, Peer Review and Peer Involvment at the U.S.
+Environmental Protection Agency. Jan. 31, 2006.
+11.
+U.S. Environmental Protection Agency, Science and Technology Policy Council, Peer Review
+Handbook, 4th Edition. Oct. 2015.
+12.
+U.S. Environmental Protection Agency, Guidelines for Ensuring and Maximizing the Quality,
+Objectivity, Utility, and Integrity, of Information Disseminated by the Environmental Protection
+Agency (EPA/260R-02-008). 2002.
+13.
+U.S. Environmental Protection Agency, Science Policy Council, A Summary of General
+Assessment Factors for Evaluating the Quality of Scientific and Technical Information
+(EPA/100/B-03/001).2003.
+14.
+U.S. Environmental Protection Agency, Chief Information Officer, Enterprise Data Management
+Policy (EDMP). 2022.
+15.
+U.S. Environmental Protection Agency, EPA Order 1000.17A: Policy and Procedures on Protection
+of Human Subjects in EPA Conducted or Supported Research. 2016.
+16.
+U.S. Environmental Protection Agency, Plan to Increase Access to Results of EPA-Funded
+Scientific Research (601-R-16-005). 2016.
+17.
+Office of Science and Technology Policy, Memorandum: Increasing Access to the Results of
+Federally Funded Scientific Research. Feb. 22, 2013.
+18.
+Office of Management and Budget, Memorandum M-13-13: Open Data tolicy-Managing
+Information as an Asset. May 9, 2013.
+19.
+U.S. Environmental Protection Agency, Scientific Integrity Policy (601B17001). Jan.15, 2010.
+20.
+Office of Management and Budget, Circular No. A-11: Preparation, Submission and Execution of
+the Budget. Dec. 2019.
+21.
+Biden, J.R., Jr., Executive Order on Advancing Racial Equity and Support for Underserved
+Communities Through the Federal Government. January 20, 2021, The White House:
+Washington, DC.
+10

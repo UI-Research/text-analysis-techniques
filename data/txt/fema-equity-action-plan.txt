@@ -1,0 +1,683 @@
+U.S. Department of Homeland Security
+Washington, DC 20472
+DEPARTMENT
+Sin FOR
+FEMA
+1) Executive Summary
+Federal Emergency Management Agency (FEMA)
+February 23, 2022
+Leslie Saucedo, Acting Director, Office of Equal Rights, 202-746-2708,
+Leslie.Saucedo@fema.dhs.gov
+Paul Judson, Deputy Associate Administrator, Office of Policy & Program Analysis,
+(202) 213-9453, Paul.Judson@fema.dhs.gov
+FEMA serves the American public by helping people before, during, and after disasters, through
+its core values of respect, integrity, compassion, and fairness in its interactions with disaster
+survivors, colleagues, recipients, and partners.
+FEMA can enhance equity by executing a methodical, multilayered, and systematic approach to
+analyzing intended and actual accessibility to and impacts for underserved andmarginalized
+communities. Starting from the highest level of leadership, FEMA is integrating equity into its
+strategic plan, goals and priorities, programs and activities, and foundational documents and
+processes. These actions will help to achieve the following impacts:
+Underserved communities can access and leverage FEMA resources in ways that
+meet their needs.
+Underserved communities are routinely consulted in FEMA decisions about policy
+and program implementation.
+FEMA and our partners have the training and tools required to advance equity in
+their programs.
+FEMA directs resources to eliminating disparities in outcomes.
+FEMA programs routinely evaluate and address disparities in outcomes.
+FEMA conducted an initial equity analysis of multiple programs across the agency, each ofwhich
+has different capacity to conduct a thorough equity assessment and implement actions
+www.fema.gov
+to address identified barriers. The following pages summarize the barriers discovered so farfor each
+program and potential actions that could be taken to address them.
+2) Summary of Early Accomplishments
+In April 2021, FEMA established an Equity Enterprise Steering Group (ESG) with two objectives:
+(1) Create a FEMA-wide definition of equity and framework for implementing equity into
+agency programs, in line with FEMA's core values: compassion, fairness, integrity,
+andrespect; and
+(2) Review and recommend revisions to FEMA-wide policies, procedures, plans and
+guidance, in collaboration with FEMA's Enterprise Governance Boards, as
+appropriate, to ensure the integration of equity considerations to drive equitable
+outcomes.
+The Equity ESG has announced FEMA's definition of equity: Equity is "the consistent and systematic
+fair, just, and impartial treatment of all individuals, including individuals who belong to underserved
+communities of color, persons who belong to communities that may face discrimination based on sex,
+sexual orientation, and gender identity (including members of the LGBTQ+ community); persons with
+disabilities, persons who may face discrimination based on their religion, national origin and persons with
+Limited English Proficiency, and persons who live in rural areas that have been systematically denied a
+full opportunity to participate in aspects of economic, social, and civic life." The Equity ESG also
+created an equity principle: Ensuring all people are helped before, during and after disasters,
+based on their specific needs. The Equity ESG is now working on its second objective of policy
+review, to includea data analytics subgroup, and a strategic plan subgroup.
+FEMA's Office of Equal Rights (OER) and Privacy Office are also developing a System of
+Records Notice (SORN) that will allow the agency to collect demographic data of applicants
+for FEMA assistance, recipients, and subrecipients who apply for financial assistance and
+grants, and organizations that do business with FEMA, grants. The SORNwill allow FEMA to
+collect and analyze demographic data based on the protected characteristics of the Stafford Act
+(race, color, religion, national origin, sex, age, disability, English proficiency, and economic
+status). The enhanced data collection will allow FEMA to accurately identify and increase
+targeted resources to the underserved and marginalized communities that policies and funding
+are intended to benefit. The Stafford Act and other civil rights authorities applicable to FEMA
+give FEMA the abilityto advance civil rights, equity, and data collection efforts to ensure equal
+access to and equitable impacts of FEMA and recipient programs and activities and better
+serve underserved and marginalized communities. The ability to collect demographic data of
+populations served by FEMA is imperative to achieving the intent and spirit of civil rights
+laws.
+To accomplish this FEMA is actively building a robust external civil rights program by
+recruiting and hiring experienced civil rights subject matter experts in the OER and developing
+programs to enforce and ensure compliance with civil rights laws and authorities. The OER
+ensures that FEMA programs are conducted, and FEMA funding sadministered in a
+nondiscriminatory manner. Also, OER processes complaints under
+2
+the authorities of the Stafford Act, Title VI of the Civil Rights Act of 1964, Section 504 of the
+Rehabilitation Act of 1973, and other applicable civil rights laws. The OER is currently
+reviewing and revising the FEMA Language Access Plan, collaborating with the Office of
+External Affairs (OEA) on developing an agency-wide Community Engagement Plan, to
+include enhancement of and best practices for stakeholder outreach. The OER also provides
+technical assistance to FEMA program offices to help ensure thatrecipients of FEMA funding
+comply with civil rights and are working towards achieving equity among targeted populations.
+Additionally, FEMA is building the institutional and staff capacity to integrate equity into
+policy and program delivery activities by enhancingawareness, understanding and appreciation
+of the principles of civil rights compliance. Further, FEMA will develop and implement an
+annual equity and civil rights assessmentagenda, building on the steps taken in developing the
+Equity Action Plan.
+On April 22, 2021, FEMA issued a Request for Information (RFI) to seek input from the public
+on FEMA programs, regulations, collections of information, and policies for the agency to
+consider modifying, streamlining, expanding, or repealing considering the recent Executive
+actions. The RFI is intended to help FEMA ensure that its programs, regulations, and policies
+contain necessary, properly tailored, and up-to-date requirementsthat effectively achieve
+FEMA's mission in a manner that furthers the goals of advancing equity for all and bolstering
+resilience from the impacts of climate change. The RFI closedon July 21, 2021, and FEMA
+continues reviewing and responding to the 345 comments received. FEMA also continues
+robust engagement with its National Advisory Council to request and receive feedback from the
+emergency management community at large.
+FEMA also regularly engages with the National Voluntary Organizations Active in Disaster
+(National VOAD). In addition, FEMA conducted its second Civil Rights Summiton November
+17, 2021, to inform and engage with members of the public regarding how FEMA can identify
+actual and perceived biases impacting equal access to and equitable distribution of FEMA's
+programs and services. The Civil Rights Summit also assisted FEMA in learning how to better
+meet the needs of underserved and marginalized communities before, during, and after disasters.
+Finally, as part of both normal operations and the equity assessments, FEMA programs are
+reviewing a number of activities to enhance external engagement, including community surveys,
+focus groups, mailers, and door-to-door canvassing.
+On January 13, 2022, in alignment with its 2022-2026 Strategic Plan, FEMA introduced "Equity
+Day." Equity Day brought the entire FEMA workforce together to understand what equity
+means for the Agency and how FEMA will advance equity through the 2022-2026 FEMA
+Strategic Plan. Leaders from across FEMA engaged in discussions around theAgency's ongoing
+and upcoming efforts to integrate equity into the workforce, practices, and communication. The
+workforce heard directly from FEMA leadership about their commitment to achieving the
+objectives outlined in the Strategic Plan to cultivate a more diverse FEMA workforce, remove
+barriers to FEMA programs, and achieve equitable outcomes for all those served by the agency.
+3
+3) Equity action plan
+Action 1: Procurement: Continuing to Ensure Inclusiveness
+Barriers to Equitable Outcome(s)
+The Office of the Chief Component Procurement Officer (OCCPO) is bound by the
+rules and regulations codified within the federal acquisition statues and regulations, as
+well as agency supplementals. As such, the outreach conducted by FEMA is done in accordance
+with those statues and regulations, as well as based on the experience of FEMA staff, and
+consistent with the Small Business Act, which expresses very clearly the concerns eligible for
+participation in set asides procured by the government for socially disadvantaged small
+businesses which are generally members of underserved communities. As the Federal
+Acquisition Regulation (FAR) is the governing statute forfederal procurement, any reforms to
+procurement policy would need to be approved through the Office of Federal Procurement
+Policy (OFPP), OCCPO is unable to make any changes to any of the Small Business programs
+as currently structured.
+Actions and Intended Impact on Barriers
+OCCPO has processes in place intended to improve outcomes for the public that are
+conducted in compliance with the FAR, which provides the procurement framework
+for executive agencies. The Small Business Program directs OCCPO to set aside
+certain procurements for participation by small business concerns, including women-
+owned and minority businesses (WOSB), in accordance with provisions of the Small
+Business Act.
+OCCPO ensures the awarding of contracts to small businesses to the maximum extent
+possible, while also:
+Promoting the participation of all small businesses in FEMA contracts;
+Developing information to ensure small businesses compete for and receive a
+fairs hare of the Department's expenditures; and
+Participating and hosting Vendor Outreach Sessions (VOS) to educate
+vendors on how to effectively market their products and services to
+FEMA.
+OCCPO's Small Business Specialist works closely with the operating divisions to
+ensure small businesses and other businesses represented in the Small Business
+Program and provided maximum opportunities to compete for federal contracting
+dollars.
+OCCPO's Industry Liaison Program (ILP) works diligently with its internal and
+external stakeholders to ensure we provide procurement opportunities for members of
+underserved communities to access procurement opportunities to the maximum extent
+practical by providing outreach, training, and other resources on how to do business
+with the federal government, before, during and after disasters.
+Contracting Officers, upon arrival at Joint Field Offices (JFOs), will coordinate with
+the local Small Business Administration office to obtain vendor information on 8(a)
+firms, as well as other businesses eligible for direct award to increase minority
+business outreach and maximize small business goals.
+For procurement requirements that are complex and appropriately designated for a
+large business, OCCPO works with the program office to break down the complexity
+to allow small business awards whenever possible.
+4
+Regarding outreach, while OCCPO conducts numerous outreach and awareness
+events in regions, states, cities specific to socio-economic categories, there are
+opportunities to increase public engagement, such as:
+Publish upcoming OCCPO outreach events and activities on SAM.gov website;
+Review and track progress against the items in the Industry Engagement Plan;
+Collaborate with DHS and other components to share best practices and
+lessons learned to maximize the value in outreach events and information
+share;
+Engage more organizations which focus solely on minority and under-served
+communities such as Minority Business Development Agency (MBDA); and
+Collect participating registrants Small Disadvantaged Business (SDB) and
+economic identifiers up front for events that we facilitate.
+OCCPO will continue to build on the outreach growth last year by host a minimum of
+12 industry and community engagement events during the calendar year, including
+webinars in all 10 FEMA regions prior to the start of hurricane season which begins on
+June 1. These outreach programs include Procurement Technical Assistance Centers
+(PTACs) and Minority Business Development Councils nationwide to maximize
+outreach.
+OCCPO is planning a series of FEMA talks, short informative videos for the vendor
+community designed to maximize outreach and increase access to FEMA programs, tobe
+released during Fiscal Year 2022 (FY22).
+OCCPO ILP has a goal that requires the program to reach out to the minority business
+councils in every region and territory under FEMA's purview to host how to do businesswith FEMA
+events for those underserved communities prior to the start of the hurricane season.
+OCCPO ILP reaches out to minority business councils located in the potential hurricane
+impact zone and provide contracting information prior to hurricanes making landfall such as: the
+most highly used services and supplies during disaster response and recovery; a list of the FEMA
+Advance Contracts which are executed immediately beforeor after a disaster to help stabilize the
+impact zone allowing small businesses to contact those companies and establish teaming
+arrangements or subcontracting agreements; and,opportunities for those small businesses
+representing the underserved communities to request a direct sit down with FEMA OCCPO.
+Tracking Progress
+OCCPO's data on contract awards, including small business awards and local business
+awards, are readily available through OCCPOs contract reporting system, as well as
+theFederal Procurement Data System, the reporting system Congress uses to track
+awards.
+DHS provides monthly reporting progress on meeting small business goals.
+OCCPO tracks the number of outreach events by category and the total number of
+participants for:
+large scale events like the regional industry days which include Minority
+Businesses;
+targeted events include outreach pre and post hurricane landfall to engage
+minority and small businesses in the impacted area; and
+industry outreach as part of market research.
+5
+Mission Support has established a Business Excellence dashboard that tracks the
+Procurement Acquisition Lead Time and Industry Engagements.
+Accountability
+OCCPO's Head of the Contracting Activity (HCA) and Deputy HCA meet
+regularly with the Chairman of the House of Representatives Committee on
+Homeland Security. The Chairman consistently asks for updates on
+OCCPO'sminority engagement.
+The HCA has established goals for ILP to have a minimum of 12 industry
+engagements annually.
+FAR requires market research efforts to reflect consideration for the required sources
+of supply, such as people who are blind or severely disabled and underserved
+programs.
+OCCPO's contract documentation ensures that all contractors are registered,
+certified, and responsible to do business with the government.
+The OCCPO strives to meet its Historically Underutilized Business Zones
+(HUBZone) goal, one of the goals required for the agency to meet its overall small
+business goals, and one that challenges the agency regularly. The HUBZone goal is
+designed to help small businesses in urban and rural communities gain preferential
+access to federal procurement opportunities. Awards to HUBZone increase
+employment opportunities, investment, and economic development in affected
+areas.
+The OCCPO Small Business Specialist participates in Integrated Procurement Team
+(IPT) kick-off meetings and advocates for the use of small businesses.
+The OCCPO Small Business Specialist reviews and approves all Acquisition Planning
+forecast System (APFS) submissions ensuring market research includes capabilities
+for small businesses.
+The DHS Chief Procurement Officer has an established review process, the
+Procurement Strategy Roadmap, which requires an assessment of the acquisition
+approach that provides rationale regarding the determination made to not set aside
+requirements at $10 million dollars and above.
+Mission Support has established a Business Excellence dashboard that tracks the
+Procurement Acquisition Lead Time, small business goals accomplishment, and
+Industry Engagements. Performance metrics have been established and are incorporated
+in the HCA and DHCA's performance plans.
+6
+Action 2: Equity as a Foundation for Public Assistance
+Barriers to Equitable Outcome(s)
+As stated in the January 21, 2021, Executive Order 13995, COVID-19 has had a disproportionate
+impact on communities of color and other underserved populations, including members of the
+LGBTQ+ community, persons with disabilities and Limited English Proficiency, and those living
+at the margins of our economy. Due to underlying health conditions and inadequate access to
+testing and treatment, these communities suffer from higher rates of COVID-19 cases,
+hospitalizations, and death. Thus, impacts of COVID-
+19 on historically underserved and marginalized communities have been particularly devastating.
+To combat this inequity, FEMA's Public Assistance (PA) Program recognizesthe important role
+it plays in coordinating pandemic response and recovery that prioritizes the needs of high risk,
+under-resourced communities. As such, FEMA's PA Program chose toassess equity in this area and
+specifically assess request whether the additional requirementslaid out in FEMA Policy #104-21-
+0004 (Coronavirus (COVID-19) Pandemic: Medical CareEligible for Public Assistance (Interim)
+(Version 2) (March 2021) led to more equitable useof assistance, should be expanded and in the
+future required of other, non-vaccination, program activities.
+New policies, regulations, guidance documents, communications materials, and an improved
+website are necessary to advance equity and improve the accessibility of PA programs. As FEMA
+continues to strive to advance equity, the PA Program will provide guidance for Recipients and
+Subrecipients to identify and support traditionally underservedor marginalized communities.
+Actions and Intended Impact on Barriers
+FEMA has worked to magnify the impact of its existing review and technical
+assistance capacity through the creation and distribution of webinars, job aids, and
+other guidance documents for Recipients and Subrecipients to ensure response and
+recovery efforts are conducted in an equitable manner. Additional capacity will
+enable FEMA to provide more meaningful feedback and more actionable
+technicalassistance to all Applicants to better ensure their disaster recovery
+funding reacheshistorically underserved communities.
+Moving forward, FEMA will work to clarify the Recipient's legal responsibility and
+to structure a more comprehensive reporting process so that Recipients and
+Subrecipients clearly understand their obligations to develop and report on their
+strategies for equitable response and recovery.
+FEMA is redeveloping the way it collects, documents, and processes information
+from applicants to be less burdensome, more effective, and to enhance equitable
+distribution of PA. FEMA is restructuring and updating the guidance for how the
+Agency assigns PA Program Delivery Managers to ensure better technical
+assistancefor historically underserved and vulnerable Applicants.
+FEMA is assessing other areas of the PA program that could be contributing to
+inequitable outcomes. In 2022, equity efforts will include consideration of
+outcomeindicators.
+FEMA is reviewing the outcomes of reports and the timeliness of reviews to
+determine whether additional reporting requirements will be added beyond
+vaccination work, and whether additional FEMA resources are needed to
+7
+complete reviews.
+The vaccine mission is one of the most important life-saving efforts in our nation
+right now. FEMA has prioritized these actions to have the most immediate,
+effective, and enduring impact on improving equitable provisions of vaccines to
+Americans. FEMA Applicants are now prioritizing resources to ensure an
+equitable pandemic response and are demonstrating how equity was considered as
+a part of the vaccine administration strategy. The reporting requirements for
+Applicants on equitable vaccine administration are an opportunity to consider
+equity in other response and recovery activities.
+Tracking Progress
+FEMA will measure the impact of the actions taken to reduce these barriers by consideringthe
+timeframe necessary for review of reports and an increase the percentage of reports thatare
+reviewed and returned as "acceptable" outcomes. The FEMA Policy 104-21-0004, Coronavirus
+(COVID-19) Pandemic: Medical Care Eligible for Public Assistance (Interim)(Version 2) (March
+2021) is only applicable to activities related to COVID-19 response andrecovery. Therefore,
+Recipient and Subrecipient reporting on equitable vaccination efforts will end with the conclusion
+of the vaccination mission. However, the actions FEMA is considering, such as increased capacity,
+additional reporting clarifications, redeveloped information collection processes, updated technical
+assistance processes, and increasing the scope of reporting beyond vaccination requirements, will
+help FEMA to further reduce barriers to equitable access. Long-term success in this effort will
+mean that equity is considered as part of the entire PA lifecycle, including the provision of
+technical assistanceat the outset of disaster recovery, the enhancement of data-gathering processes
+and responses, the prioritization of resources to build back better, and the ongoing monitoring and
+evaluation of response and recovery work.
+Accountability
+FEMA's PA Program is communicating frequently with stakeholders and will continue to do so
+through updated guidance, additional webinars, targeted feedback, and ad hoc sessions, as
+necessary. FEMA is also updating the forms, processes, and online Grants Portalsystem that the
+Agency uses to support Applicants to include considerations for traditionally underserved or
+marginalized communities. FEMA PA is embedding equitable response andrecovery principles
+into its strategic plan. FEMA recognizes the importance of building on this work and expanding
+the consideration of equity into other parts of PA program implementation. To that end, the
+consideration of equity was incorporated into FEMA's PADivision's 2022 senior executive and
+leadership performance plans. Specific provisions include developing and implementing policy,
+doctrine, information sharing, and risk management mechanisms and controls to facilitate
+equitable outcomes for disaster survivors. As of January 12, 2022, FEMA is supporting over nine
+hundred Applicants withCOVID-19 vaccination projects. FEMA has obligated over $6.5 Billion
+for projects that include vaccination activities in fifty-four states, tribes, and territories (also known
+as Recipients or Subrecipients). In addition to distributing job aids and other guidance documents,
+FEMA PA has required Recipients and Subrecipients to document that pandemic response and
+recovery efforts are conducted in an equitable manner and report onthe consideration of equity in
+vaccine administration to FEMA every 30 days. FEMA established an email inbox for questions
+related to the equitable response and recovery reporting process and has conducted multiple
+webinars in English and Spanish to inform Recipients and Subrecipients of the requirements and
+key reporting guidance for equitable COVID-19 response and recovery.
+8
+Action 3: People First: Achieving Equitable Outcomes for Disaster Survivors
+Barriers Equitable Outcome(s)
+IA knows that disasters have a disproportionate impact on lower income persons, families,
+and communities that are historically under-resourced, underserved, and underrepresented.
+IA also acknowledges that these underserved and marginalized communities are
+disproportionately people and communities of color. Due to IA's commitment to excellencein
+public service and dedication to creating equitable long-term disaster recovery outcomes,IA must
+build more equitable outcomes, reduce administrative burdens, increase eligibility for
+underserved and vulnerable applicants, increase access, and improve external messaging.
+Actions and Intended Impact of Barriers
+Improving External Messaging
+FEMA has various methods of communicating with individuals who apply for disaster
+assistance and needs to ensure assistance is being communicated in a manner that
+resounds with the population we are serving. Therefore, the Individual Assistance (IA)
+Program will coordinate closely with the OEA to improve and target messaging across all
+aspects of Individuals and Household Program 0 (IHP program delivery to ensure
+applicants have the information necessary in the method that is most helpful to them to
+assist them with navigating the disaster assistance process.
+FEMA's IA Program is performing a comprehensive review of the correspondence
+provided to individuals who apply for disaster assistance. This review is focusedo
+ensuring the correspondence is easy to read, decipher decisions made, and navigate next
+steps.
+Work through Recovery Support Function Leadership Group (RSFLG) and the White
+House on recovery and equity to encourage action from other federal agencies.
+The IA Program will ensure that individuals, including vulnerable populations, are not
+experiencing administrative burden such as receiving unnecessary ineligible letters
+premature to final eligibility decision.
+Address any language barriers that could present administrative burden to individuals
+with Limited English Proficiency.
+Expand methods of ownership and occupancy verification for homeowners and rentersto
+increase the potential eligibility for assistance from FEMA to include:
+Re-evaluating automated third-party data matching verification for identity,
+occupancy, and ownership verification decisions.
+Utilizing past disaster data from FEMA's system of record within the past two years
+to verify occupancy and past disaster data from any previous disaster to verify
+ownership.
+Issuing inspections for all IHP referrals and authorizing on-site FEMA inspectors to
+view and approve occupancy and ownership verification documentation.
+Expanding forms of documentation to prove ownership and occupancy.
+Allow self-certification of occupancy and ownership for Mobile Homes / Travel
+Trailers as a last resort.
+Allow self-certification of ownership for heirship properties as a last resort.
+Expanding the timeframe requirements for documents to be dated prior to the incident
+9
+start date for occupancy and ownership verification. Most occupancy and ownership
+verification documents can now be "dated within one year prior to the disaster or within
+the 18-month period of assistance."
+Performing initiative-taking casework and outreach to applicants who continue to fail
+ownership and occupancy.
+Expand financial assistance funding for applicants to include:
+Providing a limited amount of financial assistance under Other Needs Assistance (ONA)
+for renters and homeowners with disaster-caused real property damage that did not
+render the home uninhabitable.
+Increasing the ONA-Small Business Administration (SBA) Failed Income Test (FIT)
+threshold to allow more lower income applicants to receive ONA grants without first
+requiring SBA loan denial.
+Aiding survivors who incurred a disaster-related disability and now require special
+components (such as ramps or grab bars) to make their home safe and functional for
+them, regardless of whether those components were in the survivor's home before the
+disaster.
+Providing financial assistance to clean or repair real-property components impacted
+by
+disaster-caused mold growth.
+Explore additional services offered by Disaster Legal Services to improve alignment
+with survivor needs.
+Enhancing Access
+Prioritize outreach and case processing for historically underserved and vulnerable
+populations to include Limited English Proficiency and access and functional needs to
+improve eligibility and verification outcomes.
+Focus deploying Disaster Survivor Assistance teams and opening Disaster Recovery
+Centers in underserved areas to help applicants register for assistance and provide
+necessary documentation to FEMA for eligibility.
+Outline a strategy for the OER Cadre and Interagency Recovery Coordination to assist
+with outreach to vulnerable populations and communities during disaster operations.
+Tracking Progress
+FEMA's IA Program has established reporting mechanisms to track completion and full
+implementation of actions. The IA Program also intends to continue to work with the Recovery
+Reporting and Analytics Division to apply data-informed strategies to ensure objective assessment
+of equity outcomes based on these actions. These actions will be measured for each disaster to
+inform whether additional applicants were made eligible by FEMA's proactive outreach and
+approach and expanded documentation for occupancy and ownership and whether additional
+assistance is provided based on the increased housing andother needs assistance available. This
+analysis will also inform any additional actions necessary to create equitable long-term disaster
+recovery outcomes focused on reducing administrative burdens and increasing eligibility for
+underserved, vulnerable applicants, increase access to FEMA programs, and improve external
+messaging. Identified metrics include:
+Percentage occupancy verification through new documentation process.
+Percentage ownership verification through new documentation process.
+Additional applicants and dollars assisted through clean and sanitize assistance.
+Additional applicants and dollars assisted through mold remediation assistance.
+Percentage ownership verified through inspector in-person visits.
+10
+Percentage occupancy verified through inspector in-person visits.
+Accountability
+FEMA's Individual Assistance Program is communicating updates via FEMA.gov toprogram
+guidance and policy as implemented and will continue to do so with any additional updates that
+occur. FEMA Individual Assistance also received additional feedback throughthe RFI and is
+incorporating updates based on this feedback into upcoming policy updates for the Individual
+Assistance Program and Policy Guide set to be released in 2023. In alignment with Executive
+Order 13985, "Advancing Racial Equity and Support for Underserved Communities through the
+Federal Government," FEMA published a RFI to seek input from the public on FEMA programs,
+regulations, and policies. Through this process, IA responded to 77 unique comments submitted via
+the Agency's RFI related to equity and the IHP and already included some of the input from the
+comments via the FEMAPolicy 104-009-03, Individual Assistance Program and Policy Guide
+(IAPPG) (Version .1)(May 2021) and intends to include future updates to policy and regulations
+based on the comments received.
+As part of the correspondence review, FEMA will be facilitating focus groups with FEMA disaster
+assistance applicants to gather feedback and recommendations to inform additional changes
+necessary as part of this effort.
+The IA Division Director is accountable for ensuring these actions are completed and outcomes
+related to equity will be included in annual performance management planning. Recovery
+Directorate leadership will provide oversight for these actions and will spur integration and
+collaboration across Recovery for full implementation of these actions.
+11
+Action 4: Building Resilience
+FEMA Nonprofit Security Grant Program
+Barriers to Equitable Outcome(s)
+The Non-Profit Security Grant Program (NSGP) provides for physical security enhancements and
+other security-related activities for non-profit organizations that are at elevated risk of a terrorist
+attack based on their ideology, beliefs, and/or mission. NSGP also seeks to integrate the
+preparedness activities of nonprofit organizations with broader state andlocal preparedness efforts.
+FEMA is reviewing NSGP's current structure to identify and reduce or remove barriers to
+participation from organizations in or serving underserved communities and to promote equitable
+processes and outcomes to program participants.
+Actions and Intended Impact on Barriers
+FEMA will identify opportunities to diversify the populations of applicants. As a
+result, the program will more effectively address the security needs of
+underservedand marginalized communities.
+FEMA will address barriers to NSGP program participation, including application,
+eligibility, and qualification requirements, where allowed by statute, and will review
+intended versus actual outputs and outcomes.
+FEMA will conduct a thorough review of the evaluation criteria used at both the
+state and federal levels to identify criteria that could be added or deleted to achieve
+more equitable outcomes during the application review process.
+In addition, FEMA will conduct a comparative analysis of intended versus actual
+NSGP outcomes to better understand where grant outcomes meet or fail to meet
+program objectives.
+FEMA will meet with current NSGP grant recipients and subrecipients, as well as
+relevant community, civil rights, and faith-based organizations, to solicit comments
+regarding the application and award processes, discuss barriers to participation, and
+identify additional concerns and recommendations to enhance NSGP.
+FEMA will review other FEMA-managed grant programs for best practices on
+advancing equity goals. This review will include an assessment of evaluation criteria
+and data that may assist the agency in identifying underserved and marginalized
+communities.
+FEMA will review the processes used by various State Administrative Agencies
+(SAAs) to communicate NSGP program availability and requirements to the
+nonprofit community, the application review processes conducted at the state level,
+and any resultant barriers to participation.
+Tracking Progress
+To better identify barriers to NSGP participation, FEMA will conduct a GIS analysis to identify
+where project requests initiate, and which localities are not represented. Further, ananalysis of
+relevant Census tract data will be conducted. NSGP will also conduct an evaluation of why NSGP
+project requests, investment justifications, and applications have not been forwarded to FEMA by
+an SAA or whether technological or other barriers prevent or discourage organizations from
+participating. This GIS evaluation could reveal whether specific communities or geographic
+locations are under-represented in the NSGP program. This evaluation also will inform deliberate
+12
+outreach efforts targeting underserved or marginalized communities to encourage and facilitate
+program participation.
+Accountability
+While FEMA has identified actionable steps to reduce barriers to NSGP for underserved
+communities, a detailed plan will be created to ensure staff can conduct all equity maximizing
+actions. FEMA announced the Fiscal Year (FY) 2021 NSGP awards in July 2021 and has issued
+those awards to the SAAs, who will pass the funding through to the non-profit organizations
+approved by the Secretary of Homeland Security. As part of the FY 2022 process and moving
+forward, FEMA is working with the DHS Office of the Secretaryand the Office for Civil Rights
+and Civil Liberties (CRCL) to consider how to increase the amount of funding provided to
+underserved communities, identify and remove barriers to participation, and improve the
+program's accessibility to all communities. These efforts are informing changes to the program
+that will be reflected in future Notices of FundingOpportunity funding opportunities (NOFOs).
+Jointly, FEMA and CRCL conducted a review of applications submitted from underserved
+communities to determine their funding potential.
+FEMA Hazard Mitigation Assistance (HMA) Program
+Barriers to Equitable Outcome(s)
+FEMA HMA Programs provide funding before, during, and after disasters and fund risk
+Reduction projects to state, local, tribal, and territorial (SLTT) governments, which provide a
+tremendous opportunity to address mitigation and resilience needs. By law, some HMA programs,
+such as the Hazard Mitigation Grant Program (HMGP), allow the state/tribe/territory the discretion
+to determine how they will fund mitigation projectsaligned with priorities identified by FEMA-
+approved Hazard Mitigation Plans. Other HMA grant programs, Building Resilient Infrastructure
+and Communities (BRIC) and Flood Mitigation Assistance (FMA), are competitive, and FEMA
+establishes criteria for the selection and funding of mitigation projects. Federal law requires a non-
+federal cost share that the President has no authority to waive, which is typically 25%. This
+requirementcan be a barrier to underserved and under-resourced communities applying for hazard
+mitigation grants.
+With the increasing severity and frequency of disasters and their disproportionate impact on
+underserved communities, it is essential to identify mitigation opportunities to help build SLTT
+capability and capacity to address the impacts of climate change. Specifically, manyunderserved
+communities are unable to undertake mitigation planning - a requirement for HMA grant funding
+and project development/management to make mitigation investments due to lack of capability.
+FEMA understands the barrier to undertake mitigation planning to be two-fold: 1) underserved
+communities may lack sufficient capacity to complete a Hazard Mitigation Plan,as evidenced by
+feedback received from FEMA's Request for Information on Climate and Equity and 2) FEMA's
+planning policies for state, local and tribal hazard mitigation plans, which outline the criteria for
+FEMA approval, have never required that equity be considered.
+NOAA's recently published report continues to reiterate that there is an increase in large- scale
+disasters resulting in over one billion dollars of damage. These damages largely take place in
+underserved communities. FEMA recognizes the value in addressing any barriers tosupporting
+underserved communities in resilient rebuilding.
+13
+Intended Impact on Barriers
+The Administration's Justice40 Initiative is an opportunity to help address these challenges. The
+Justice40 Initiative sets a goal that 40 percent of the overall benefits of investments flow to
+underserved communities. HMA's BRIC and FMA programs are participating as pilot program as
+part of the Justice40 Initiative.
+FEMA views this EO equity assessment, together with the Administration's Justice40 Initiative,
+as a major opportunity to deliberately and comprehensively assess our programs and advance our
+efforts to direct program benefits to underserved communities. The Justice40 Initiative sets a goal
+that 40 percent of the overall benefits of investments flow to underserved communities. HMA's
+BRIC and FMA programs are participating as pilot programs as part of the Justice40 Initiative. As
+pilot programs, the programs developed a robust and intentional outreach plan to try and reach
+more disadvantaged communities to increase access to our programs as well as an implementation
+plan for how to increase program benefits to these communities. Identifying where our funding is
+going through comprehensive data analysis (e.g., who is benefitting) starting with our Justice40
+programs,and prioritizing outreach and technical assistance to underserved communities are two
+of HMA's biggest priorities for this coming year. FEMA is committed to data transparency andwill
+continue to make data on funding available through OpenFEMA on www.fema.gov. Inaddition to
+equitably funding mitigation projects, HMA is working to increase SLTT capability and capacity
+through the following actions.
+Data:
+Measure equitable outcomes, in alignment with Justice40.
+Coordinate with other federal agencies such as the EPA and HUD, as well as across
+FEMA programs (e.g., Public Assistance, Hazard Mitigation Planning) to use data to
+identify mitigation activities that have broader and more far-reaching impacts.
+Program Design:
+Collaborate with FEMA's Hazard Mitigation Planning Program to ensure plans
+focus on advancing equity and incorporate climate change considerations to better
+align plans with mitigation project scoping in the future.
+Conduct best practice research and gather feedback from stakeholders to
+improve the equitable outcomes of HMA programs.
+Use an equity lens to amend evaluation criteria for Building Resilient Infrastructure
+and Communities (BRIC) and Flood Mitigation Assistance (FMA) in future notices
+of funding opportunities (NOFOs).
+Implement a pilot for the Hazard Mitigation Grant Program, during
+implementation of funding recently authorized for COVID-19 declarations, to test
+how partnerships with private nonprofits, NGOs and philanthropic organizations
+can provide the non-federal match and ease the financial burden on underserved
+communities.
+Advance the FMA initiative, including funding received under the Bipartisan Infrastructure Law,
+that will provide a 90 percent cost share for certain properties.
+14
+Outreach and Engagement:
+Develop more accessible and targeted outreach methods to reach underserved
+communities that may not have access to digital resources so that communities
+canmore accurately develop and submit projects to reduce risk.
+Conduct outreach and engagement with underserved communities and leverage
+partnerships with organizations to understand specific needs and concerns and
+increase access to and awareness of mitigation planning and grant opportunities.
+Connect funders and practitioners to leverage program opportunities like the
+BRIC non-financial Direct Technical Assistance (DTA) to improve the overall
+capability of communities that need the assistance.
+Host the 2022 Hazard Mitigation Partners Virtual Workshop with the theme of
+Building Whole Community Resilience: Partnerships, Capability, and Capacity,
+providing a platform to engage with a large number of our mitigation partners on
+topics such as future conditions and climate change adaptation, nature-based
+solutions, equity in hazard mitigation planning and projects, building codes and
+standards, and capacity and capability building.
+Tracking Progress
+Multi-pronged assessment approach - 1) use data analysis to set program metrics
+and determine baseline; 2) explore contextual and procedural inequities impacting
+application through research; 3) evaluate existing approaches, such as DTA; and
+4) conduct external engagements to better understand the needs of underserved
+communities.
+Identify and prioritize hazard mitigation projects in underserved communities and
+increase investment to these communities who are more vulnerable to disasters.
+Identify equity indicators that could be tracked over time and use the identified
+indicators to provide a current baseline to describe the equity landscape. The
+methodsused to do this will include interviewing data informants; researching peer
+jurisdictions and practitioners; gathering and analyzing data; and vetting the
+determinant indicators and data within their HMA programs.
+Accountability
+FEMA will modify its program to reach a broader cross-section of communities. Prior stakeholder
+engagement and the examination of the BRIC DTA efforts will guide further exploration of the
+challenges communities face when applying for, administering, and implementing HMA's
+programs.
+FEMA will continue to seek input from both internal and external stakeholders to evaluatethe
+outcomes of the actions outlined in the Equity Action Plan. Through iterative feedback
+gathering, FEMA will pursue course corrections and program
+improvements to ensure the equitable distribution of HMA funds.
+FEMA will strive toward its target for equitable outcomes:
+Access equity - increase the number of successful applicants benefitting underserved
+communities; streamline program requirements that meet more communities where
+they are in terms of capability and capacity; additional outreach and engagement
+15
+efforts to reach underserved communities; assistance centered on stakeholder needs
+(e.g., grants management capacity; multi-modal/multi-medium materials). FEMA is
+considering opportunities to promote or provide full-life cycle resources that could
+help a community from activity development through activity implementation.
+Distributional equity - as part of the Justice40 initiative, the BRIC and FMA programs
+will work toward a goal of 40% of the benefits being directed to disadvantaged
+communities (as defined in the Justice40 Interim Guidance); through HMA technical
+assistance or financial assistance, improved community capacity to develop and implement
+successful mitigation activities.
+Partnerships - improved coordination across agencies and more robust
+partnerships with nonemergency management organizations that support
+underserved communities to drive equitable outcomes.
+FEMA National Flood Insurance Program (NFIP)
+Barriers to Equitable Outcome(s)
+Several million low incomes households live in high flood risk special flood hazard areas (SFHA).
+Through previous research, the NFIP has determined that roughly 26% of current policyholders in
+the SFHA meet HUD low-income definitions and 51% ofnon-policyholdersin the SFHA meet HUD
+low-income definitions. Outside the SFHA, roughly 21% of currentpolicyholders meet HUD low-
+income definitions, and 41% of non-policyholders meet HUDlow-income definitions.
+Flood insurance is statutorily required to be rated based on risk-its price is not based on a
+policyholder's ability to pay. This leaves an insurance gap for some households: those who
+cannot afford flood insurance and are at risk of flooding. These households will not have the
+resources available to them after a flood to rebuild and replace damaged property and
+possessions. The NFIP can close the insurance gap and increase financial resilience for flood-
+prone, low-income households by developing a flood insurance affordability program.
+Actions and Intended Impact on Barriers
+The NFIP spent five years in evidence-based policymaking to develop its
+proposed affordability program. The NFIP engaged the broader policy
+community, including academia and other government agencies, to develop an
+affordability framework. TheNFIP has reviewed the affordability framework,
+academic research, and previous legislative attempts to solve the challenge of
+flood insurance affordability.
+If the NFIP's legislative proposal is passed, the NFIP will conduct a marketing
+andoutreach effort to reach underserved populations.
+The NFIP will also analyze publicly available datasets to develop
+additional statistically validated data points related to the NFIP's current
+policy base andpotential policyholders.
+The NFIP will increase stakeholder engagement to strengthen the NFIP
+external advocacy by reaching out to private sector insurance companies and
+other relevantorganizations.
+The NFIP will address flood insurance affordability challenges by:
+Leveraging planned work by the Office of the Flood Insurance Advocate
+inunderserved communities.
+16
+Providing legislative language to OMB and technical drafting assistance to
+congressional offices pertaining to building a flood insurance affordability
+program.
+Continuing to publicly promote the challenge of flood insurance affordability.
+Working with the Individual Assistance program to identify previous
+disaster assistance recipients who may qualify for affordability
+assistance.
+Tracking Progress
+While the NFIP does not currently collect any demographic data related to flood insurance
+policyholders, the NFIP will begin collection of needed data. In the past, the NFIP coordinated
+with the Census Bureau to produce the Flood Insurance Affordability Framework, where the
+NFIP matched Census micro data with flood insurance policy data todevelop analyses and
+aggregate statistics. If the NFIP's flood insurance affordability legislative proposal is enacted
+into law, the NFIP will collect income information from policyholders and potential
+policyholders to implement the program. Success will be measured as the insurance gap is
+decreased. In the long term, the NFIP will use outcome-based metrics to demonstrate progress
+includedecisions made that address cumulative impacts on quantifiable flood resiliency and
+underserved communities.
+Accountability
+Because flood insurance is statutorily required to be rated based on risk, the NFIP can do little
+to meaningfully close the insurance gap and increase financial resilience for low-income flood
+disaster survivors without a flood insurance affordability program. In the meantime, the NFIP
+can conduct marketing and outreach to inform underserved populations about their flood risk,
+but low-income households will still face a barrier to entry in the program because they cannot
+afford the flood insurance.
+17

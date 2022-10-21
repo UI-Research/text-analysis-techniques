@@ -1,0 +1,1678 @@
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Background and Introduction
+The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) intends to improve
+decision-making for federal programs and policy development by requiring a transparent, question-
+driven approach to evidence development and analysis.
+The Department of Health and Human Services (HHS) is a large, decentralized agency with 11 operating
+divisions, 11 staff divisions, and 10 regional offices whose programs and policies impact the lives of
+nearly every American. Understanding the evaluation, research, and analysis efforts and coordinating
+plans across the Department is a significant undertaking and is conducted by the Office of the Assistant
+Secretary for Planning and Evaluation (ASPE). In particular, through the Evaluation Officer, ASPE plays a
+significant leadership role, especially for evaluation and evidence-building activities.
+Evaluation and analysis provide essential evidence for HHS to understand how its programs work, for
+whom, and under what circumstances. HHS builds evidence through evaluation and analysis in order to
+inform decisions in budget, legislative, regulatory, strategic planning, program, and policy arenas. Given
+the breadth of work supported by HHS, many evaluations and analyses are conducted each year. These
+efforts range in scope, scale, design, and methodology, but all aim to understand how the effect of
+programs and policies and how they can be improved.
+Across HHS, evidence-building comes in many forms, including:
+Program evaluations using the most rigorous designs appropriate;
+Capacity-building initiatives to improve administrative data collection, accessibility, and use for
+management;
+Exploratory and preliminary quantitative and qualitative analysis to build evidence;
+Pilots and demonstrations; and
+Statistical analysis of factors related to health and human services programs and policies.
+ASPE coordinates the evaluation community by regularly convening the HHS Evidence and Evaluation
+Policy Council (the Council), which builds capacity by sharing best practices and promising new
+approaches across HHS. The Council predates the Evidence Act and is made up of senior evaluation staff
+and subject-matter experts from each agency within HHS. The Council meets monthly to address issues
+related to evidence-building and evaluation policies or activities across HHS, with a recent focus on
+Evidence Act implementation activities, especially within Title I. ASPE tasked the Council with developing
+guidance for Operating and Staff Divisions regarding contributions to the HHS Evidence-Building and
+Evaluation Plans. Based on the contributions of Operating and Staff Divisions, ASPE developed this
+Evidence-Building Plan.
+What is this document?
+As part of the Evidence Act, HHS is required to submit "a systematic plan for identifying and addressing
+policy questions relevant to the programs, policies, and regulations of the agency," or the Department
+of Health and Human Services (HHS) Evidence-Building Plan (the plan), also referred to as the Learning
+Agenda. All activities described in this document are subject to availability of appropriations.
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+The Evidence-Building Plan must include the following elements:
+Strategic goals and objectives that the plan will address (referred to as "priority areas" in this
+document)
+Priority questions to be answered
+Activities that the agency will engage in to address priority questions
+Timing of activities
+Potential data, tools, methods and analytic approaches to be used to answer priority questions
+Anticipated agency-specific challenges and proposed solutions to developing evidence to
+support agency priorities
+This document provides a summary of these components and additional details are included in the
+Appendix.
+Plan Development
+A subcommittee of the Council provided input on the Evidence-Building Plan development process and
+helped create a template and instructions which were used to collect information on significant
+evidence-building activities across the Department. Because HHS is such a large, decentralized agency,
+with a vast number of evidence-building activities, Operating Divisions submitted a sample of up to 5
+significant evidence-building activities, which have been compiled in this plan. This plan includes 30
+examples of significant evidence-building activities from divisions including the Administration for
+Children and Families (ACF), the Administration for Community Living (ACL), the Agency for Health
+Research and Quality (AHRQ), the Office of the Assistant Secretary for Planning and Evaluation (ASPE),
+the Office of the Assistant Secretary for Preparedness and Response (ASPR), the Centers for Disease
+Control and Prevention (CDC), the Centers for Medicare and Medicaid Services (CMS), the Food and
+Drug Administration (FDA), the Health Resources and Services Administration (HRSA), the National
+Institutes of Health (NIH), and the Substance Abuse and Mental Health Services Administration
+(SAMHSA).
+This document details significant evidence-building activities related to each priority area that are
+ongoing or will occur during FY 2023-FY 2026. Some evidence-building activities fall into multiple priority
+areas and address multiple priority questions. The activities included are planned efforts that are subject
+to receiving appropriate approvals and resources, and they are subject to change.
+HHS organized the plan by priorities aligned with the HHS Strategic Plan Goals. These areas are:
+Strategic Goal 1: Protect and Strengthen Equitable Access to High Quality and Affordable
+Healthcare
+Strategic Goal 2: Safeguard and Improve National and Global Health Conditions and Outcomes
+Strategic Goal 3: Strengthen Social Well-being, Equity, and Economic Resilience
+Strategic Goal 4: Restore Trust and Accelerate Advancements in Science and Research for All
+Strategic Goal 5: Advance Strategic Management to Build Trust, Transparency, and
+Accountability
+The five (5) priority areas, each with associated priority questions, align with the HHS Strategic Plan FY
+2022-2026 Goal and Objective Framework and are recognized administration priorities. Each set of
+Page 2 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+priority questions includes a sample of planned or ongoing evidence-building activities HHS will perform
+during FY 2023-2026. Given the plan encompasses a four-year period, these questions are high-level in
+nature, and many may take several years and various approaches, methods, and data sources to
+examine. Those priority questions without listed activities do not necessarily indicate that no activities
+are planned; the number of activities described is constrained by the limit on the number of evidence-
+building activities requested from Operating and Staff Divisions. In addition, new activities may be
+planned and included in future HHS Annual Evaluation Plans or in subsequent updates to the HHS
+Evidence-Building Plan.
+The HHS Evidence-Building Plan, Annual Evaluation Plan, and Strategic Plan have been developed and
+will be published on the same timeline. This poses several challenges regarding alignment, especially
+because the planning teams for the three plans were simultaneously and respectively convening
+stakeholders, coordinating across operating and staff divisions, executing data calls, and drafting plan
+content. In particular, developing evidence-building activities takes time, and as such, many of the
+activities included in this plan began development before the current HHS Strategic Plan Goal and
+Objective Framework was in place. Thus, some priority questions do not have evidence-building
+activities included in this plan. That may be a result of the timing of the identification of activities for
+inclusion in the Evidence Building Plan. HHS will continue to assess evidence-building activities to
+address the questions in the HHS Strategic Plan Goal and Objective Framework, and will plan activities to
+fill knowledge gaps. The annual plan updates will include these new activities.
+HHS Priority Areas for Developing and Using Evidence for Decision-Making, 2023-2026
+This section details a sample of evidence-building activities related to each priority area that are ongoing
+or will occur in FY 2023-2026. The activities included in this document are planned efforts that are
+subject to receiving appropriate approvals and resources, and they are subject to change. Some
+evaluations fall into multiple priority areas and address multiple priority questions.
+Each priority area includes the priority questions and a discussion of how HHS plans to address them
+during the four-year period. The separate list of evidence-building activities in the appendix includes the
+sample of activities provided by divisions, including full details for each activity (timing, potential data,
+tools, methods, analytic approaches, anticipated challenges and proposed solutions).
+Strategic Goal 1: Protect and Strengthen Equitable Access to High Quality and Affordable Healthcare
+HHS works to protect and strengthen equitable access to high quality and affordable healthcare.
+Increasing choice, affordability and enrollment in high-quality healthcare coverage is a focus of the
+Department's efforts in addition to reducing costs, improving quality of healthcare services, and
+ensuring access to safe medical devices and drugs. HHS also works to expand equitable access to
+comprehensive, community-based, innovative, and culturally-competent healthcare services while
+addressing social determinants of health. The Department is driving the integration of behavioral health
+into the healthcare system to strengthen and expand access to mental health and substance use
+disorder treatment and recovery services for individuals and families. HHS also bolsters the health
+workforce to ensure delivery of quality services and care.
+Page 3 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+The activities in this priority area include increasing affordability and enrollment in high quality
+healthcare coverage; equitable access to quality health-care services; integrating behavioral healthcare
+into the healthcare system; expanding access to mental health and substance use disorder treatment
+and recovery services; and bolstering the healthcare workforce.
+Healthcare Priority Questions
+How do HHS policies and programs increase choice, affordability and enrollment in high-quality
+healthcare coverage?
+To what extent do HHS programs and policies reduce costs and improve quality of healthcare
+services?
+How and to what extent do HHS programs and policies ensure access to safe medical devices and
+drugs?
+How do HHS programs and policies expand equitable access to comprehensive, community-based,
+innovative, and culturally-competent healthcare services while addressing social determinants of
+health?
+How effective are HHS programs and policies at integrating behavioral health services into the
+healthcare system?
+To what extent do HHS programs and policies strengthen and expand access to mental health and
+substance use disorder treatment and recovery services for individuals and families?
+How do HHS programs and policies bolster the primary and preventive healthcare workforce to
+ensure delivery of quality services and care?
+Healthcare Evidence-Building Activities
+Divisions across HHS are conducting evidence-building activities to address these questions, including
+ASPR, ACL, CDC, CMS, NIH, and SAMHSA. These activities address various HHS programs, such as
+Medicare, Medicaid, Community Health Centers, and grantmaking programs like the National Paralysis
+Resource Center (NPRC). Eight identified evidence-building activities address healthcare priority
+questions. Full details on these activities are provided in the appendix.
+Populations impacted by the healthcare evidence-building activities contained in this plan include
+mothers, individuals with disabilities (physical and cognitive disabilities), children, homeless individuals,
+and those recovering from substance use disorders. Notably, there are several instances of multiple
+divisions building evidence around the same populations and healthcare topics. An example includes the
+NIH impact assessment for The Role of Opioids in the Treatment of Chronic Pain Pathways to Prevention
+Workshop and the CMS evaluation of Maternal Opioid Misuse (MOM) Model. Additionally, some
+evidence-building activities that address the healthcare priority questions may seek to improve services,
+assess resource center effectiveness, advance telehealth capabilities, bolster preventative care, and
+identify promising value-based insurance models.
+HHS executes a broad range of evidence-building activities to answer these priority questions. Activities
+include but are not limited to policy analysis, descriptive analysis, program evaluation, foundational fact-
+finding, and performance measurement. Most of the activities in this plan use a combination of
+methods to address a priority question. For example, using administrative data and program participant
+interviews to evaluate telehealth strategies to address hypertension management and control or site
+visits along with claims analysis to evaluate the Maternal Opioid Misuse Model. The activities utilize
+Page 4 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+existing HHS data, including program enrollment data, administrative claims, grant applications, survey
+data, and the Area Health Resource File (AHRF). They also incorporate external data such as electronic
+health records, data provided by program participants, and area-level measures of social deprivation
+(such as the Area Deprivation Index). Finally, activities also collect new data through surveys, interviews,
+focus groups, and site visits.
+Strategic Goal 2: Safeguard and Improve National and Global Health Conditions and Outcomes
+HHS is dedicated to safeguarding and improving health conditions and health outcomes for everyone.
+The Department improves capabilities to predict, prevent, prepare for, respond to, and recover from
+emergencies, disasters, and threats, domestically and abroad. The Department protects individuals,
+families, and communities from infectious disease and prevent non-communicable disease through the
+development and equitable delivery of effective, innovative, readily available, treatments, therapeutics,
+medical devices, and vaccines. HHS enhances the promotion of healthy behaviors to reduce occurrence
+and disparities in preventable injury, illness, and death. The Department also mitigates the impacts of
+environmental factors, including climate change, on health outcomes.
+The activities in this priority area include improving capabilities related to public health emergencies and
+disasters; protection against communicable and infectious disease; promotion of healthy behaviors, and
+mitigation of environmental risk factors.
+Public Health Priority Questions
+What improvements are needed to HHS capabilities to predict, prepare for, respond to, and recover
+from public health emergencies and threats in the nation and across the globe?
+How effective are HHS programs and policies at protecting individuals, families, and communities
+from infectious disease and preventing non-communicable disease through development and
+equitable delivery of effective, innovative, readily available, treatments, therapeutics, medical
+devices, and vaccines?
+How do HHS policies and programs enhance promotion of healthy lifestyle behaviors to reduce
+occurrence and disparities in preventable injury, illness, and death?
+How effective are HHS programs and policies at mitigating the impacts of environmental factors,
+including climate change, on health outcomes?
+Public Health Evidence-Building Activities
+HHS plays a significant role in both the American and global public health infrastructure and advances.
+The COVID-19 pandemic has highlighted the importance of public health and the widespread impact of
+public health policies, programs, and decisions on individuals and entities, including governments,
+schools, and private businesses. That said, HHS invests substantially in developing strong, timely, and
+rigorous evidence supporting ongoing and changing public health conditions.
+Several divisions across HHS are conducting evidence-building activities to address these questions,
+including ASPR, ASPE, CDC, FDA, NIH, and SAMHSA. Most of the public health activities included in this
+plan focus on programs related to the COVID-19 pandemic, such as vaccinations, the National Hospital
+Preparedness Program, the Strategic National Stockpile, and the HHS emPOWER Program. However, the
+area also includes other public health programs, such as the Garrett Lee Smith Youth Suicide Prevention
+and Early Intervention Program, as well programs like Medicare and Medicaid. Eight identified evidence-
+Page 5 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+building activities address public health priority questions. Full details on these activities are provided in
+the appendix.
+Many of the public health evidence-building activities target the entire American population. However,
+some activities have a more narrow focus, such as youth or individuals with hypertension. Additionally,
+some activities incorporate equity by assessing health disparities across sub-populations and focusing on
+building evidence to reduce the observed differences, such as helping communities protect the health of
+at-risk populations prior to, during, and after a disaster.
+These activities address public health topics such as combating the opioid epidemic, vaccine hesitancy
+and confidence, and suicide prevention. Specifically, evidence-building activities contained in this
+document aim to assess long term effects of COVID-19 on vulnerable populations, analyze factors
+related to vaccine hesitancy and confidence, evaluate the National Healthcare Preparedness Program,
+and monitor programs focused on empowering at-risk populations, among others.
+HHS utilizes a variety of methods and combinations of methods for the development of evidence
+supporting public health policies and programs. Research and other methodologies include case studies,
+descriptive and trend analysis, retrospective analysis, and literature reviews, performance
+measurement, outcome evaluation, quasi-experimental evaluation, and policy analysis, among others.
+Many of the public health activities in this plan use a combination of methods to address a priority
+question. For example, a review of existing literature, statistical analysis, and predictive modeling to
+understand COVID-19 vaccine hesitancy and confidence. These activities draw on internal resources,
+such as data held by the Centers for Medicare and Medicaid enrollment and claims, SAMHSA's
+Performance and Accountability Reporting System, SAMHSA's Infrastructure Development, Prevention
+and Mental Health Promotion (IPP) measures, as well as external data sources, including the U.S. Census
+Household Pulse Survey, the American Community Survey, and private medical supply distribution data.
+In addition to existing data, these evidence-building activities require development of new data through
+via sources including the program data, such as the Annual Hospital Preparedness Program Cooperative
+Agreement End-of-Year data, and qualitative interviews.
+Strategic Goal 3: Strengthen Social Well-being, Equity, and Economic Resilience
+HHS works to strengthen the economic and social well-being of Americans across the lifespan. HHS
+provides effective and innovative pathways leading to equitable economic success for all individuals and
+families. The Department strengthens early childhood development and expand opportunities to help
+children and youth thrive equitably within their families and communities. HHS expands access to high-
+quality services and resources for older adults and people with disabilities, and their caregivers to
+support increased independence and quality of life. HHS also increases safeguards to empower families
+and communities to prevent and respond to neglect, abuse, and violence, while supporting those who
+have experienced trauma or violence.
+Human Services Priority Questions
+To what extent do HHS programs and policies provide effective and innovative pathways leading to
+equitable economic success for all individuals and families?
+Page 6 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+What are the impacts of HHS programs and policies on strengthening early childhood development
+and expanding opportunities to help children and youth thrive equitably within their families and
+communities?
+What effective strategies or combinations of strategies expand access to high-quality services for
+older adults and people with disabilities, and their caregivers, to support increased independence
+and quality of life?
+Human Services Evidence-Building Activities
+Answering these priority questions uses numerous activities, resources, and divisions and several
+divisions across HHS are conducting evidence-building activities to address these questions, including
+ACF, ACL, CMS, and HRSA. These activities address programs like child welfare, the African American
+Child and Family Research Center, the Medicaid innovation models, Healthy Start, and grant programs
+like those from the HRSA Maternal and Child Health Bureau. Seven identified evidence-building activities
+address human services priority questions. Full details on these activities are provided in the appendix.
+Human services evidence-building activities focus on a variety of populations, including mothers,
+children, and individuals with disabilities. Activities support HHS programs and policies related to
+underserved communities, child welfare, services for individuals with disabilities, maternal health, and
+health equity, among others. Notably, ACF, CMS, and HRSA will all be conducting evidence-building
+activities for maternal and child health programs. Health equity is salient throughout the activities
+contained in this plan and is especially salient among human services focused activities, such as the
+African American Child and Family Research Center, which intends to identify promising approaches to
+promote social and economic well-being among low-income African American populations.
+HHS executes a broad range of evidence-building activities to answer these human services priority
+questions. Activities include but are not limited to policy analysis, descriptive analysis, program
+evaluation, foundational fact-finding, and performance measurement. Most of the activities in this plan
+use a combination of methods to address a priority question, such as using a statistical analysis of claims
+data and participant focus groups to evaluate the Integrated Care for Kids Model or web-based grantee
+and stakeholder surveys and participant enrollment information to evaluate the Healthy Start program.
+The activities utilize existing HHS data, including program enrollment data, administrative claims, grant
+applications, survey data, and the Area Health Resource File (AHRF). They also incorporate external data
+such as electronic health records, data provided by program participants, and vital records. Finally,
+activities collect new data through surveys, interviews, focus groups, structured observation, site
+assessments, and site visits.
+Strategic Goal 4: Restore Trust and Accelerate Advancements in Science and Research for All
+HHS is dedicated to restoring trust and accelerating advancements in science and research. The
+Department is prioritizing science, evidence, and inclusion to improve the design, delivery, and
+outcomes of HHS programs. It is investing in the research enterprise and the scientific workforce to
+maintain leadership in the development of innovations that broaden our understanding of disease,
+healthcare, public health, and human services resulting in more effective interventions, treatments, and
+programs. Strengthening surveillance, epidemiology, and laboratory capacity is another major focus to
+better understand and equitably address diseases and conditions. HHS is also increasing evidence-based
+Page 7 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+knowledge through improved data collection, use, and evaluation efforts to achieve better health
+outcomes, reduced health disparities, and improved social well-being, equity, and economic resilience.
+Activities in this priority area include, but are not limited to, support of scientific research, data,
+evaluation, evidence, innovation, surveillance, epidemiology, and laboratory capacity.
+Research and Evidence Priority Questions
+How does HHS improve the design, delivery, and outcomes of HHS programs by prioritizing science,
+evidence, and inclusion?
+Which HHS investments in the research enterprise are most effective for maintaining leadership in
+the development of innovations that broaden our understanding of disease, healthcare, public
+health, and human services resulting in more effective interventions, treatments, and programs?
+Where does HHS need to further invest in the scientific workforce to maintain leadership in the
+development of innovations that broaden our understanding of disease, healthcare, public health,
+and human services resulting in more effective interventions, treatments, and programs?
+What improvements would most strengthen surveillance, epidemiology, and laboratory capacity to
+understand and equitably address diseases and conditions?
+What improvements are needed to HHS programs and policies for data collection, use, and
+evaluation to increase evidence-based knowledge that leads to better health outcomes, reduced
+health disparities, and improved social well-being, equity, and economic resilience?
+Research and Evidence Evidence-Building Activities
+HHS is dedicated to the mission of enhancing the health and well-being of all Americans, by providing for
+effective health and human services and by fostering sound and sustained advances in the sciences
+underlying medicine, public health, and social services. A large percentage of the Department's budget
+is devoted to supporting research, and as such, many evidence-building activities are undertaken to
+supplement and further understand research results. Divisions across HHS are conducting evidence-
+building activities to address research and evidence questions, including HRSA, NIH, ONC, and SAMHSA.
+These activities address programs across HHS, including child welfare, patient centered outcomes
+research, vaccination, CDC's Public Health Law Program, the HHS emPOWER program, Quality
+Improvement and Innovation Contracts, the Collaborative Health Equity Measurement Project in
+Maternal and Child Health, the Cancer Moonshot, and the ONC Health IT Certification Program.
+Fourteen identified evidence-building activities address research and evidence priority questions. Full
+details on these activities are provided in the appendix.
+As such, the research and evidence focused activities contained in this document address topics such as
+the use and application of evidence, grant-making processes, health equity measurement, disease
+reporting and epidemiological approaches, data sharing, evidence capacity needs, quality improvement
+and innovation, and more. For the most part, research and evidence activities focus on grantees,
+providers, and communities, rather than individual beneficiaries.
+These division-level evaluations, research, and analysis efforts support cross-cutting issues, major
+department-level goals, and time sensitive priority issues. In addition to division-level activities,
+departmental analyses laid out in the Strategic Plan and this Evidence-Building Plan support and
+coordinate efforts of divisions in achieving key priorities of HHS, especially related to research and
+Page 8 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+evidence programs, policies, capacity-building, resource needs, and agency processes. Long term goals
+are identified through HHS' Strategic Planning and Evidence-Building Plan processes.
+HHS executes a broad range of evidence-building activities to answer these priority questions at the
+division-and department-levels. Activities include but are not limited to policy analysis, legal
+epidemiology, descriptive analysis, program evaluation, foundational fact-finding, impact analysis, and
+performance measurement. Most of the activities in this plan use a combination of methods to address
+a priority question. For example, using administrative data and semi-structured interviews to
+understand how ACF can continue to develop and improve its evidence infrastructure and culture. NIH is
+conducting a portfolio and outcomes analysis to assess the success of the Cancer Moonshot. The
+activities utilize existing HHS data, including program administrative data, claims data, legal databases,
+provider performance measures, grant applications, survey data, and area-level measures such as the
+CDC's Social Vulnerability Index. They also incorporate external data such as electronic health records,
+patent data, weather data, housing information, power outages, data provided by program participants,
+and survey data. Finally, activities collect new data through surveys, interviews, focus groups, real world
+testing data, and site visits.
+Strategic Goal 5: Advance Strategic Management to Build Trust, Transparency, and Accountability
+HHS is dedicated to advancing strategic management across the Department to build trust,
+transparency, and accountability. A major focus of the Department is promoting effective enterprise
+governance to ensure programmatic goals are met equitably and transparently across all management
+practices. HHS sustains strong financial stewardship of resources to foster prudent use of resources,
+accountability, and public trust. HHS works to uphold effective and innovative human capital resource
+management resulting in an engaged, diverse workforce with the skills and competencies to accomplish
+the HHS mission. The Department also ensures the security of HHS facilities, technology, data, and
+information, while advancing environment-friendly practices.
+Management Priority Questions
+What improvements to HHS programs and policies can promote effective enterprise governance to
+ensure programmatic goals are met equitably and transparently across all management practices?
+Which HHS efforts are most effective for sustaining strong financial stewardship of HHS resources
+to foster prudent use of resources, accountability, and public trust?
+Which HHS investments are optimal to uphold effective and innovative human capital resource
+management resulting in an engaged, diverse workforce with the skills and competencies to
+accomplish the HHS mission?
+What strategies can HHS implement to ensure the security of HHS facilities, technology, data and
+information, while advancing environment-friendly practices?
+Management Evidence-Building Activities
+HHS prioritizes effective management of HHS resources, programs, and policies through coordinated
+efforts across the Department as well as through division-level initiatives. Divisions across HHS are
+conducting evidence-building activities to address these questions, including ASPR, CMS, and FDA,
+across programs such as the Biomedical Advanced Research and Development Authority, quality
+Page 9 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+improvement contracts, and food safety. Three identified evidence-building activities address
+management priority questions. Full details on these activities are provided in the appendix.
+As with other priority areas, addressing major management priorities and challenges requires division-
+level and cross-department activities. Evidence-building activities within this document address effective
+enterprise governance, equitable and transparent enterprise management, strong financial stewardship,
+innovative human capital resource management, and security of HHS facilities, technology, and data and
+information, among others. They target evidence-building within HHS' programs to improve the
+Department's ability to achieve its mission.
+Management evidence-building activities utilize methods and approaches such as systematic needs
+assessments, administrative data analysis, performance measurement, portfolio analysis, statistical
+analysis, literature reviews, coding and qualitative analysis, outcome and impact evaluation, direct
+estimation, and small area analysis (SAE). Activities seek to understand the extent to which data is used
+for policy and program development, identify problematic practices and structures, develop research
+agendas, build and strengthen programmatic and operational evaluation capacity, translate evidence-
+based findings into translational federal-to-community level innovative data, mapping, and artificial
+intelligence tools, inform common measures for health equity, measure program progress, and inform
+future policy making.
+These activities utilize existing HHS data such as administrative data, Medicare fee-for-service claims
+data, provider performance, and FDA inspections data. They also leverage external data such as data
+from contractors. Finally, these activities include collection of new data as needed. For example, the
+epidemiology on COVID-19 will continue to inform BARDA's portfolio, and CMS continuously uses
+provider satisfaction surveys to inform policy and program decisions.
+Data Sources
+HHS has identified a range of data sources to support the evidence-building activities identified in this
+plan, including data held by the Department, data held by other entities, and new research and data
+collection, as discussed in the priority areas above. Although each activity relies on data sources specific
+to the question and program being addressed, there are some data sources that are used frequently. In
+particular, Medicare and Medicaid administrative and claims data are used for a number of program and
+policy analyses. Specific programs use provider and enrollee information, including ACF program
+administrative data and vital records provided by Maternal Opioid Misuse (MOM) Model awardees.
+Many evidence-building activities rely on information submitted through grant applications or provided
+by grantees, such as grant applications to the National Paralysis Resource Center. Program specific
+information is often supplemented with area-level measures, such as those included in the Area Health
+Resource File or CDC's Social Vulnerability Index. Other major sources of Federal data will also be
+utilized, including the American Community Survey, the Census Pulse Survey, and national weather and
+climate data.
+Many of the activities identified will also collect qualitative data to supplement quantitative analyses.
+These may be interviews, focus groups, or site visits. They may also field activity-specific surveys to
+gather additional information from grantees or program participants.
+Additional details on the data sources for all evidence-building activities are provided in the appendix in
+sections titled "Existing Data Sources Held by the Division", "Existing Data from Other Sources", and
+Page 10 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+"New Data Collection". The first of these sections describes existing data sources held by the division,
+which are used for each analysis; the second describes existing data from other sources that are utilized;
+the third describes any new data collection undertaken for each activity.
+Methods
+HHS uses a wide variety of methods and approaches to develop and use evidence to inform decision-
+making. These include the four interdependent components of evidence according to Evidence Act:
+policy analysis, program evaluation, performance measurement, and fact-finding, among others.
+As mentioned previously, many, if not all, of these methods and approaches will be used to answer the
+priority questions, and many activities will use a combination of multiple approaches. HHS agencies will
+utilize both quantitative and qualitative data collection and analysis strategies to inform the
+development of policy analysis, research, and evidence-building in support of the five priority areas.
+Specific methods include trend analysis of program data over time, including stratification to examine
+disparities in trends; portfolio analysis; bibliometric analysis; stakeholder interviews; small area analysis;
+differential equation simulation modeling; and logistic regression, among others. When required,
+sampling schemes will be developed to draw representative samples from datasets or populations of
+interest.
+Additional details on the methods for all evidence- building activities are provided in the appendix in the
+section titled "Study Design or Approach" For each activity, the information in this section describes the
+study design or approach used for the analysis.
+Challenges and Mitigation Strategies
+Challenges
+Protecting the health and safety of Americans requires the coordination and engagement of divisions
+across HHS and the federal government, utilizing the full range of health and human service activities. It
+can be challenging to isolate the role of a specific program or policy, as well as to determine how
+programs or policies interact to produce outcomes. Additionally, the American healthcare and human
+services systems are complex and vast, involving federal, state, local, and tribal governments, private
+payers, and hundreds of thousands of providers. This complexity requires a high level of engagement
+and coordination in order to reduce the challenges caused by silos or service disruptions.
+To conduct analyses, resources may be required to purchase key data sources and contractor support.
+Given the expansive data resources and tools across HHS, it is challenging to identify all appropriate data
+sources and tools for evaluative and assessment purposes. Data quality issues may be difficult to identify
+given that some data sources may be completely new. In many cases, the primary use of the data and
+the reason for its creation were not for evaluative purposes, making it challenging to know whether the
+data is truly appropriate to address the question. Developing data use agreements to govern the
+exchange of data for analyses can cause significant delays. Data management can be another challenge.
+Depending on the topic, database development, maintenance, and dissemination require a complex
+infrastructure including technical, logistical, and legal support and protections. Furthermore, data are
+subject to a range of quality issues including completeness, accuracy, and timeliness, which can delay or
+complicate analyses. Self-reported data, as intended to be use for some activities, are subject to
+additional concerns arising from reporting bias and recall bias. Many projects will compile data from
+different states, which may have different laws and regulations governing the collection of data,
+Page 11 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+introducing challenges related to comparability. HHS requires highly expert, experienced, and
+specialized staff both to oversee the collection and creation of databases and to use and analyze data to
+develop information that is useful and accessible to decision makers. Additional challenges described in
+the Appendix include time lags with regard to data availability, setting realistic expectations for project
+timelines, and the availability of data on certain populations of interest.
+As this plan is under development, the country is still in the midst of responding to the COVID-19
+pandemic. The rapidly changing nature of the science, the economy, and the combined federal response
+to the pandemic created a number of new challenges related to how HHS builds and uses evidence. For
+example, interventions or policies that were successful when there were fewer risks of communicable
+disease may no longer produce the same results. Data collection for surveys may have been interrupted
+or halted altogether, disrupting trend lines. Healthcare visits dropped or switched to virtual
+appointments. HHS staff were deployed or temporarily reassigned from their regular daily duties to
+assist with the response.
+Mitigation Strategies
+Mitigating challenges will require a coordinated, transparent, collaborative process with relevant
+stakeholders. Given the potential complications related to the scope of these priority areas, analyses
+and recommendations will focus on data resources, tools, and needs that are likely to be of most benefit
+widely across HHS. Additionally, because these priority areas are in line with the Strategic Plan, HHS
+leadership will be actively engaged on a regular basis in understanding any progress, barriers, and
+facilitators to the work.
+Mitigation of challenges related to data resources may include offering multiple ways to submit data,
+offering training and technical assistance to facilitate data collection, or relaxing deadlines for data
+submission. Data quality can be improved with clear communication, training for those collecting data,
+and review and validation processes. Some projects plan to initiate steps to acquire data and develop
+methodology early in the study process to mitigate likely delays. The use of mixed methods approaches
+are in themselves mitigation strategies - utilizing different sources and types of information with distinct
+strengths and weaknesses in complementary ways. The inclusion of "research and evidence" as a
+priority demonstrates the significant support and commitment from HHS leadership to address
+challenges in data collection and use.
+Mitigation and response to challenges related to the COVID-19 pandemic include adoption of tools to
+maintain continuity of operations while many HHS employees work remotely (i.e., virtual meeting
+platforms), revisiting policies to best meet the evolving work environment, and developing contingency
+plans for future emergency situations minimize disruption to HHS services and operations, including
+evidence-building activities. Some analysis plans will be revised to accommodate delays in data
+collection caused by the pandemic.
+Additional information about anticipated challenges and mitigation strategies for each evidence-building
+activity is included in the section titled "Anticipated Challenges and Mitigation Strategies".
+Page 12 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Stakeholder Engagement
+During the COVID-19 Pandemic to avoid placing additional burden on state and local governments, and
+representatives of non-governmental research, HHS engaged a range of stakeholders with various
+expertise across the Department, utilizing existing communication channels and bodies, such as the HHS
+Evidence and Evaluation Council. This Council includes representatives from all HHS Operating and
+several Staff Divisions. The Evidence and Evaluation Council, and specifically the Evaluation and
+Evidence-Building Plans subcommittee, supported development of the plan, cross-department
+coordination, and identification of stakeholders to be engaged. The Council has and will continue to be
+an integral body for Evidence Act implementation, given that Council members provide division-level
+insights and guidance for a cross-HHS implementation approach.
+Specific HHS stakeholders are listed below:
+HHS leadership
+Operating and staff divisions
+Evaluation Officer (EO), Laina Bush
+Evidence & Evaluation Council members
+Evidence-Building Plan and Evaluation Plan Subcommittee
+HHS Division of Strategic Planning
+The HHS Office of the Assistant Secretary for Financial Resources
+The HHS Strategic Planning community, especially the HHS Division of Strategic Planning in ASPE, has
+been a key stakeholder and partner for the development of this plan. The HHS Evidence-Building Plan
+and Strategic Plan are complimentary plans, which requires a high level of communication and
+coordination for alignment of strategic planning and evidence-building activities. ASPE's Division of
+Evidence, Evaluation and Data Policy will work closely with the Division of Strategic Planning to
+coordinate stakeholder engagement efforts throughout the effective periods for both plans. These
+activities will be described in annual Plan updates.
+Beyond the Department, HHS coordinates with other Federal Evaluation Officers, agency Evidence Act
+leadership, evaluation and evidence-building staff, the Office of Management & Budget, and others.
+Federal agencies vary greatly in mission, scope, capacity, size, and organizational structure. For those
+reasons, implementation approaches have differed greatly based on unique agency needs and context.
+HHS is committed to engaging external stakeholders through a variety of methods and channels.
+Stakeholder meetings such as those held by Federal Advisory Committees, including the National
+Vaccine Advisory Committee and the Advisory Committee on Minority Health, provide opportunity for
+public engagement. But, the primary approach to external stakeholder engagement is through HHS
+Divisions and program offices which foster a wide range of two-way exchanges with diverse stakeholder
+groups and the results of which were incorporated into their contributions to this plan. These exchanges
+include Federal Register Notices, the use of Communities of Practice and panels of subject matter
+experts, publishing Division-specific Evidence-Building Plans¹, and presentations regarding Evidence-
+1 For example, the ACF plan and the ACL plan.
+Page 13 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Building and evaluation activities². The information gathered through these activities is used to inform
+their evidence building activities and is reflected in this document.
+Commitment to Scientific Integrity
+OMB's standards for program evaluations notes that Federal evaluations must produce findings that
+Federal agencies and their stakeholders can confidently rely upon, while providing clear explanations of
+limitations: they are to be conducted in accordance with principles of scientific integrity. In addition to
+the program evaluation standards and practices issued by OMB and the subsequent HHS Evaluation
+Policy, the release of recent memorandum and guidance are providing HHS with additional support and
+direction for ensuring the scientific integrity of agency evaluations and evidence-building activities. The
+Presidential Memorandum, Restoring Trust in Government Through Scientific Integrity and Evidence-
+Based Policymaking, and OMB Memorandum, Evidence-Based Policymaking: Learning Agendas and
+Annual Evaluation Plans, require that scientific integrity principles be incorporated into agency
+evidence-building plans and annual evaluation plans. This memorandum, together with OMB guidance
+and HHS policies, affirm that evaluations are scientific activities and as such, require the use of
+appropriate methods which can include a broad range of approaches, independence from undue
+influence, and processes that ensure integrity and quality. These recent requirements will contribute to
+improved evaluation and evidence-building activities in HHS and will guide the development and
+conduct of evaluations in accordance with the principles and foundations for scientific integrity.
+Further demonstrating the Department's commitment to scientific integrity, Chief Data Officer,
+Evaluation Officer, and Statistical Official of the U.S. Department of Health and Human Services (HHS),
+are developing a joint statement of commitment to scientific integrity in support of HHS's work and
+fulfillment of the HHS mission to enhance the health and well-being of all Americans, by providing for
+effective health and human services and by fostering sound, sustained advances in the sciences
+underlying medicine, public health, and social services.
+2 An example of a presentation is available at https://mathematica.org/publications/hhs-aspe-webinar-series
+ developing-using-learning-agenda-approach-to-evidence-building-video-1
+Page 14 of 44
+APPENDIX: Evidence-Building Activities
+Contributing Division: ACF
+Activity Title: Research and Evaluation for Underserved Communities in Child Welfare
+HHS Priority Questions: What are the impacts of HHS programs and policies on strengthening early
+childhood development and expanding opportunities to help children and youth thrive equitably within
+their families and communities? How can HHS optimize investments in the research enterprise to
+maintain leadership in the development of innovations that broaden our understanding of disease,
+health care, public health, and human services resulting in more effective interventions, treatments, and
+programs?
+Activity Description/Research Questions: This project will explore how child welfare agencies and their
+community partners currently support underserved communities. The project also aims to gain insights
+on the extent to which data are being used to determine service delivery gaps for underserved
+communities, identify problematic practices and structures, and support child welfare agency staff and
+partners to address these gaps. Further, the project will develop a research agenda and designs to
+better understand and build the capacity for child welfare agencies and their partners to serve children
+and families in these communities. It will address the following research questions: How do child welfare
+agencies and their community partners currently support underserved communities? What research is
+needed to better understand and build the capacity for child welfare agencies and their partners to
+serve children and families in underserved communities?
+Time Period for the Activity (estimated start and end dates): 2021 - 2026
+Existing Data Sources Held by the Division: TBD
+Existing Data from Other Sources: TBD
+New Data Collection: TBD
+Study Design or Approach: TBD
+Anticipated Challenges and Mitigation Strategies: TBD
+Contributing Division: ACF
+Activity Title: African American Child and Family Research Center
+HHS Priority Questions: To what extent do HHS programs and policies provide effective and innovative
+pathways leading to equitable economic success for all individuals and families?
+Activity Description/Research Questions: This research center will lead and support research on the
+needs of African American populations served by ACF and promising approaches to promote social and
+economic well-being among low-income African American populations. The center will provide
+leadership on culturally competent research that can inform policies concerning low-income African
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+American populations and will foster significant scholarship regarding the needs and experiences of the
+diverse African American population throughout the nation. The research questions are: What are the
+needs of African American populations served by ACF? What are promising approaches to promote
+social and economic well-being among low-income African American populations?
+Time Period for the Activity (estimated start and end dates): TBD
+Existing Data Sources Held by the Division: TBD
+Existing Data from Other Sources: TBD
+New Data Collection: TBD
+Study Design or Approach: The research center will bring together a diverse, inclusive, culturally
+sensitive, and interdisciplinary team of academic and organizational partners to undertake research,
+capacity building, and communication activities. The Center will develop research products, resources,
+and a comprehensive communication plan that aims to build research capacity in the field and improve
+understanding of African American populations in order to inform policy development and
+programmatic responses.
+Anticipated Challenges and Mitigation Strategies: Traditionally, research that has informed
+predominate views of underrepresented groups, including African American populations, has not been
+community engaged, culturally rigorous, or informed by consideration of structural inequities.
+Moreover, such research has relied heavily on a comparative research framework in which the
+behaviors, experiences, and outcomes of White Americans are used as the standard or reference point
+against which the behaviors, experiences, and outcomes of underrepresented populations are assessed.
+Often this research approach fails to acknowledge how aspects of research design and measurement
+can bias findings and fails to acknowledge important historical and cultural contexts that differ across
+groups. This research approach has contributed to the inherent assumption that the behaviors,
+experiences, and outcomes of underrepresented groups that differ from White Americans represent
+deficits and must be addressed to promote their economic and social well-being. We aim to support
+research that is contextualized by a thorough understanding of historical and contemporary inequitable
+social structures and systems as well as the diverse cultural practices of African American populations.
+Contributing Division: ACF
+Activity Title: ACF Evidence Capacity Support
+HHS Priority Questions: How can HHS programs and policies improve data collection, use, and
+evaluation to increase evidence-based knowledge that leads to better health outcomes, reduced health
+disparities, and improved social well-being, equity, and economic resilience?
+Activity Description/Research Questions: This project will support ACF's efforts to build and strengthen
+programmatic and operational evidence capacity by conducting foundational evidence activities with
+ACF programs including systematic needs assessments and administrative data analysis. The research
+Page 16 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+questions are: How can ACF continuously improve the effectiveness and efficiency of its programs? How
+can ACF continue to develop and improve its evidence infrastructure and culture?
+Time Period for the Activity (estimated start and end dates): 2020 - 2025
+Existing Data Sources Held by the Division: ACF program administrative data
+Existing Data from Other Sources: TBD
+New Data Collection: Semi-structured interviews, focus groups, and brief surveys of internal and/or
+external stakeholders
+Study Design or Approach: Project activities will include systematic needs assessments that will collect
+and analyze information on program learning priorities; and administrative data analysis to assess the
+suitability of ACF administrative data to address learning priorities.
+Anticipated Challenges and Mitigation Strategies: Challenges may include setting realistic expectations
+for project timelines; limited ACF SME time; and timely execution of data sharing agreements for access
+to administrative data sources. To address these issues, the team has instituted a continuous quality
+improvement approach, incorporating lessons learned into the design and execution of future
+engagements.
+Contributing Division: ACL
+Activity Title: Process and Outcome Evaluation of the National Paralysis Resource Center (NPRC)
+HHS Priority Questions: How do HHS programs and policies expand equitable access to comprehensive,
+community-based, innovative, and culturally-competent health care services while recognizing social
+determinants of health? What effective strategies or combinations of strategies expand access to high-
+quality services for older adults and people with disabilities, and their caregivers, to support increased
+independence and quality of life?
+Activity Description/Research Questions: Research questions are:
+How and to what extent does the National Paralysis Resource Center (NPRC):
+1. improve the health and quality of life of individuals living with paralysis of all ages, their families,
+and their support system?
+2.
+raise awareness of members of the target populations about paralysis?
+3. increase access of members of the target populations to services relevant to individuals with
+paralysis
+4. increase the empowerment, confidence, and independence of individuals living with paralysis
+5. strengthen support networks for individuals living with paralysis
+6.
+improve or increase opportunities for individuals living with paralysis for community living
+Time Period for the Activity (estimated start and end dates): Federal Fiscal Years 2022-2027
+Page 17 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Existing Data Sources Held by the Division: Grant applications and reports (administrative data)
+Existing Data from Other Sources: N/A
+New Data Collection: Interviews and surveys of a sample of key stakeholders and service recipients.
+Study Design or Approach: Data for the process evaluation will be collected primarily through reviews
+and administrative records and interviews with NPRC staff and partners (including grantees and
+subcontractors). This secondary data collection will provide information about the inputs, activities and
+outputs of the NPRC to provide information about the quality, structure, and efficiency of NPRC services.
+Data for the outcome evaluation will be collected through surveying and interviewing a sample of those
+served by the NPRC. This primary data collection will provide information about the impact of the NPRC
+services on individuals living with paralysis of all ages, their families, and their support system.
+Anticipated Challenges and Mitigation Strategies: None
+Contributing Division: AHRQ
+Activity Title: TAKEheart Initiative
+HHS Priority Questions: How does HHS improve the design, delivery, and outcomes of HHS programs by
+prioritizing science, evidence, and inclusion?
+Activity Description/Research Questions: An important goal of AHRQ is to facilitate implementation of
+findings from patient centered outcomes research (PCOR) into health care practice. Accordingly, to help
+improve cardiac rehabilitation rates, the American Association of Cardiovascular and Pulmonary
+Rehabilitation/Millior Hearts Cardiac Rehabilitation Collaborative has developed a Cardiac
+Rehabilitation Change Package (CRCP) and established a national goal of 70% participation in CR (up
+from 20-30%) by 2022 for eligible patients. AHRQ's TAKEheart initiative is designed to broadly
+disseminate and implement the strategies described in the CRCP to hospitals nationwide to help achieve
+this goal. The research question is: How can AHRQ help disseminate evidence-based practices and foster
+their implementation within care delivery settings?
+Time Period for the Activity (estimated start and end dates): March 2019-March 2023
+Existing Data Sources Held by the Division: N/A
+Existing Data from Other Sources: TAKEheart project leaders are collecting data from Partner Hospitals
+and Learning Community hospitals.
+New Data Collection: N/A
+Study Design or Approach: A public TAKEheart Website has been created to (a) increase awareness of
+the challenges of increasing patient participation in CR nationwide and (b) provide educational
+resources and training materials (e.g., web-based training modules and implementation guides) for
+hospitals wishing to adopt evidence-based strategies for meeting these challenges. In addition, a group
+Page 18 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+of TAKEheart Partner Hospitals (PHs) recruited from across the US is currently participating in monthly
+web-based training sessions and receiving individual coaching in developing and implementing
+individualized hospital action plans for putting these evidence-based strategies into practice. These PHs
+exchange insights with their peers through monthly meetings of Peer Action Groups. Finally, a larger
+group of hospitals will be invited to join Learning Community Affinity Groups to share knowledge about
+ways to address challenges to and disparities in patient participation in CR. Since the Learning
+Community was launched in March 2020, the first set of Affinity Groups focused on strategies for
+adapting CR to the COVID-19 pandemic (e.g., providing in-person CR under restricted conditions and in
+using remote phone and other remote technologies to provide CR training at home).
+Anticipated Challenges and Mitigation Strategies: The monthly trainings of the first of two cohorts of
+Partner Hospitals were halted in March 2020 due to the pandemic and were resumed in May 2021.
+Some of the hospitals enrolled in the first cohort had to drop out and were replaced with hospitals that
+had applied to be in a second cohort. Additional recruitment is now underway for this second cohort
+(that will begin training in Fall 2021), but it is unlikely that the target of an additional 50 hospitals for the
+second cohort will be met.
+Contributing Division: ASPE
+Activity Title: Long term effects of COVID on vulnerable patients
+HHS Priority Questions: How effective are HHS programs and policies at protecting individuals, families,
+and communities against communicable, and infectious disease through effective, innovative, readily
+available and equitable delivery of treatments, therapeutics, medical devices, and vaccines?
+Activity Description/Research Questions: Two studies will examine downstream effects of COVID on
+vulnerable populations. The first will examine the long term health effects of a COVID diagnosis, the
+second the long term health effects of medical care services foregone due to the pandemic. The
+research question is: How can we prepare to meet the long term needs of patients affected directly or
+indirectly by COVID 19?
+Time Period for the Activity (estimated start and end dates): Ongoing through FY 2023
+Existing Data Sources Held by the Division: Core components database used for HSP contracted
+research completed in FY 21 (this aggregates findings from evaluations of youth programs)
+Existing Data from Other Sources: TBD; data from previous evaluations could be used to take a meta-
+analytic approach to determining core components of a particular type of program focused on specific
+outcomes
+New Data Collection: TBD; new data could be generated by requiring certain federally funded
+evaluations to use a core components approach
+Study Design or Approach: Study 1 is a cohort analysis comparing outcomes for patient diagnosed with
+COVID to a matched set of patients without a COVID diagnosis. Study 2 will compare potential
+Page 19 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+downstream health consequences of key services not provided during March through May of
+2020.Anticipated Challenges and Mitigation Strategies: The core studies will use Medicare data. We
+are examining the challenges that will arise due to the issues of completeness, privacy, and continuity of
+data that arise with TMSIS and private data sources.
+Contributing Division: ASPE
+Activity Title: Increasing Use of Core Components in HHS Evidence Building and Application
+HHS Priority Questions: How does HHS improve the design, delivery, and outcomes of HHS programs by
+prioritizing science, evidence, and inclusion?
+Activity Description/Research Questions: HHS will work with a leading expert in the field to establish a
+federal working group on using component-based research for evidence-based policymaking, to
+establish common interagency understandings about the potential of evidence generated with core
+components research, and provide tools and support for using this evidence. This working group will
+help federal staff put this approach into action for ongoing program improvement and increased,
+equitable policy and program impact. The research question is: How can the federal government apply
+a core components approach to improve outcomes by increasing uptake of evidence-based practices?
+Time Period for the Activity (estimated start and end dates): August 2021 - August 2024
+Existing Data Sources Held by the Division: N/A
+Existing Data from Other Sources: N/A
+New Data Collection: N/A
+Study Design or Approach: To move the evidence base beyond identification of "model programs,"
+which do not often achieve widespread uptake in the field because they are expensive, difficult to
+adapt, or don't meet the community's needs. ASPE and other research finds that the core components
+of effective programs can be identified and disseminated to program administrators. This builds on
+previous work that used meta-analyses to identify core components (program, participant, and
+implementation features) that were empirically related to specific positive outcomes across youth
+programs represented in the database used. The working group, to be established in FY 22, will gather
+additional examples of core components approaches from across the government and develop tools to
+expand the use of such approaches.
+Anticipated Challenges and Mitigation Strategies: HHS agencies and other federal agencies are not at
+the same point of pursuing core components approaches and may need time and support to work
+toward a common language and understanding.
+Page 20 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Contributing Division: ASPE
+Activity Title: COVID-19 Vaccine Hesitancy and Confidence
+HHS Priority Questions: How does HHS improve the design, delivery, and outcomes of HHS programs by
+prioritizing science, evidence, and inclusion? How does HHS improve the design, delivery, and outcomes
+of HHS programs by prioritizing science, evidence, and inclusion?
+Activity Description/Research Questions: Evidence-building activity: This policy analysis utilizes data on
+COVID-19 vaccination and intent to vaccinate. The analysis examines demographic and geographic
+factors associated with vaccine hesitancy, including reasons for not vaccinating. The analysis also
+develops predictions of vaccine hesitancy, and vaccination at state, county and sub-state levels. The
+research questions are: How can HHS improve the comprehensiveness and applicability of vaccine
+confidence and related data available for stakeholders and policymakers? How can HHS programs be
+utilized to build confidence in COVID-19 vaccines?
+Time Period for the Activity (estimated start and end dates): 02/2021-ongoing
+Existing Data Sources Held by the Division: N/A
+Existing Data from Other Sources: U.S. Census Household Pulse Survey; American Community Survey;
+CDC Vaccine Administration Tracker; CDC Social Vulnerability Index; Surgo COVID-19 Vaccine Coverage
+Index
+New Data Collection: N/A
+Study Design or Approach: The statistical analysis utilizes a logistic regression to analyze predictors of
+the outcome of interest (e.g., vaccination, vaccine hesitancy) that include sociodemographic and
+geographic information. The estimates are then used to make predictions for other geographic areas.
+Our approach also discusses the relevant literature or other information to complement the findings
+from the statistical approach.
+Anticipated Challenges and Mitigation Strategies: Data for certain groups or areas may not be available
+and may need to be supplemented with information from the literature or case studies.
+Contributing Division: ASPR
+Activity Title: National Healthcare Preparedness Program (NHPP) Evaluation
+HHS Priority Questions: How can HHS improve capabilities to predict, prepare for, and respond to public
+health emergencies and threats in the nation and across the globe?
+Activity Description/Research Questions: NHPP Evaluation activities use performance measure data
+across programs (including the Hospital Preparedness Program Cooperative Agreement, the Hospital
+Association Cooperative Agreement, and funding to the Regional National Special Pathogen System) to
+assess progress toward program goals, successes, challenges, and gaps in health care preparedness. The
+Page 21 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+research question is: How have NHPP's cooperative agreement activities improved and addressed gaps
+in health care preparedness?
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: HPP Cooperative Agreement End-of-Year data; Hospital
+Association Cooperative Agreement End-of-Year data
+Existing Data from Other Sources: N/A
+New Data Collection: Annual Hospital Preparedness Program Cooperative Agreement End-of-Year data;
+Annual Hospital Association Cooperative Agreement End-of-Year data; COVID-19 Supplemental Funding
+Data
+Study Design or Approach: Annual Hospital Preparedness Program Cooperative Agreement End-of-Year
+data; Annual Hospital Association Cooperative Agreement End-of-Year data; COVID-19 Supplemental
+Funding Data.
+Anticipated Challenges and Mitigation Strategies: A challenge is the self-reported nature of the data.
+Clear communications, training for recipients, and validation processes are conducted to mitigate this
+challenge and to seek to enhance the quality and completeness of the data.
+Contributing Division: ASPR
+Activity Title: Biomedical Advanced Research and Development Authority (BARDA) Portfolio Review
+HHS Priority Questions: How can HHS sustain strong financial stewardship of HHS resources to foster
+prudent use of resources, accountability, and public trust?
+Activity Description/Research Questions: BARDA will continue to evaluate alignment of medical
+countermeasure investments to the forthcoming BARDA Strategic Plan, MCM requirements and policies,
+and relevant authorizing legislation. As these investments generate data and new advancements are
+made in life sciences, the opportunity to calibrate these investments will be undertaken. The research
+question is: How can BARDA optimize investments in medical countermeasure (MCM) development and
+procurement to protect Americans from national health security threats?
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: Data showing how well the existing portfolio aligns with
+identified threats, forthcoming BARDA Strategic Plan, and MCM requirements and policies will be
+regularly evaluated.
+Existing Data from Other Sources: Data from contract performers is regularly conveyed to the BARDA as
+part of the reporting process spelled out in the agreements. The outside data will include preclinical
+toxicology and efficacy and clinical safety & efficacy. Other programs that are not specific to a single
+Page 22 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+MCM, will utilize data relevant to the performance or advancement of a technology, capability or
+platform.
+New Data Collection: Data from contract performers is regularly conveyed to the BARDA as part of the
+reporting process spelled out in the agreements. The outside data will include preclinical toxicology and
+efficacy and clinical safety & efficacy. Other programs that are not specific to a single MCM, will utilize
+data relevant to the performance or advancement of a technology, capability or platform.
+Study Design or Approach: The design of the portfolio analysis is to:
+1. Evaluate alignment of current BARDA portfolio to identified threats, forthcoming BARDA
+Strategic Plan, and MCM requirements and policies
+2. Account for the ongoing costs for the advancement and procurement of MCMs in the
+portfolio
+3. Analyze the current and prospective future investments to enhance the preparedness posture
+4. Inform budget formulation process
+The Portfolio Review process will initiate in January 2022 and continue an annual basis thereafter. The
+Portfolio Review will build on focused Program Reviews BARDA conducted in 2021.
+Anticipated Challenges and Mitigation Strategies: Uncertainty: An enormous amount of emerging data
+regarding the performance of MCMs for COVID-19 in real-time will guide how BARDA should invest. A
+clear understanding of the multiyear COVID-19 funding will a prerequisite to any/all choices made about
+ongoing development or procurement of vaccines, therapeutics, and diagnostics. Wherever transitions
+for financial obligations to other agencies or institutions can be articulated, the scope of data BARDA
+should collect or maintain will be simplified. Operational: Collecting the detailed data to support
+Portfolio Analysis will require systematic and centralized capture of MCM level information from within
+each BARDA Contract. The data structure and systems to manage this are nearing completion within
+BARDA.
+Contributing Division: ASPR
+Activity Title: Supply Chain Control Tower (SCTT)
+HHS Priority Questions: How can HHS improve capabilities to predict, prepare for, and respond to public
+health emergencies and threats in the nation and across the globe?
+Activity Description/Research Questions: Identify medical supplies of interest in support of various
+types of incident responses to add to the SCCT that would be of use for ASPR and Strategic National
+Stockpile situational awareness. As part of the distributor sustainment plan and updated data user
+agreements, identify and prioritize new data feeds for enhanced medical supply visibility. The research
+question is: How have the types of supply chain data feeds into the SCCT been expanded and enhanced
+in support of ASPR's all-hazards response beyond COVID?
+Page 23 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Time Period for the Activity (estimated start and end dates): Ongoing
+Existing Data Sources Held by the Division: PPE, pharmaceutical, testing, and select needles and syringe
+data feeds that identify product distribution from private distributors, manufacturers, USG stockpiles,
+and State stockpile inventory
+Existing Data from Other Sources: Private medical supply distributors, state stockpiles, and non-HHS
+federal supplies (such as FEMA)
+New Data Collection: With new product identification, request current SCCT participants to expand
+their data feeds to include the new products as it relates to SNS needs in addition, identifying new
+partners to participate in SCCT to enhance the end to end visibility for these new product additions
+Study Design or Approach: A complete review of relevant medical supply products will need to be
+performed and mapped to types of responses that have medical impacts that ASPR responds to. That
+mapping will demonstrate which supplies are used for multiple types of incidents and would be
+considered as a higher priority supply to include in the SCCT data feeds.
+Anticipated Challenges and Mitigation Strategies: Encouraging new participants to contribute data,
+justification for importance of data needs, establishing DUAs for new participants, and updating current
+DUAs. All these things take time and legal review.
+Contributing Division: ASPR
+Activity Title: emPOWER At-risk Population and Healthcare System Resilience Monitoring and
+Evaluation
+HHS Priority Questions: How effective are HHS programs and policies at protecting individuals, families,
+and communities against communicable, and infectious disease through effective, innovative, readily
+available and equitable delivery of treatments, therapeutics, medical devices, and vaccines? How can
+HHS programs and policies improve data collection, use, and evaluation to increase evidence-based
+knowledge that leads to better health outcomes, reduced health disparities, and improved social well-
+being, equity, and economic resilience?
+Activity Description/Research Questions: The HHS emPOWER Program and healthcare system
+monitoring project seeks to identify gaps and translate evidence based findings into translational
+federal-to-community level innovative data, mapping, and artificial intelligence tools, as well as training
+and resources, to help communities nationwide protect the health of at-risk populations prior to, during,
+and after a disaster. For example, prior studies identified gaps in assistance for electricity and healthcare
+service dependent at-risk populations living independently in communities. These findings were
+translated into mitigation tools via the HHS emPOWER Program that is currently helping communities
+prepare for over 4.2 million individuals who live independently and rely on electricity-dependent
+durable medical and assistive equipment and devices, and or essential health care services. Research
+questions are: How can HHS programs, policies, and data identify gaps and inform federal to community
+Page 24 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+based mitigation tools to protect at-risk populations prior to, during and after a public health emergency
+or disaster? How can HHS programs, policies, and data provide critical information to reduce disparities
+and advance community readiness to address at-risk needs prior to, during, and after a disaster? How
+can HHS programs, policies, and data help communities identify opportunities to strengthen healthcare
+system readiness and delivery from inpatient to home and community-based models of care and reduce
+adverse outcomes in at-risk populations? How can HHS programs, policies, and data help communities
+understand gaps in access to healthcare coverage and services to advance health equity?
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: ASPR, in partnership with the Centers for Medicare and
+Medicaid Services Center for Medicare, evaluate Medicare and Medicaid administrative claims data
+Existing Data from Other Sources: Federal hazard and other available data sources as needed (e.g.,
+weather and other climate, housing, power outage, etc.).
+New Data Collection: Monthly updated Medicare, and as available Medicaid, administrative claims data
+obtain from CMS standard operations
+Study Design or Approach: N/A
+Anticipated Challenges and Mitigation Strategies: The studies will not represent 100% of the at-risk
+population as studies will use Medicare and Medicaid claims data. However, studies and their peer-
+reviewed publications have identified critical findings for addressing needs and may be similarly applied
+across at-risk populations even though they may not be fully represented by Medicare and Medicaid
+data. Additionally, publishing methods for these studies allows researchers who may have access to
+other data sources the ability to expand analyses and findings as well.
+Contributing Division: CDC
+Activity Title: Rigorous Evaluations of Telehealth Strategies to Address Hypertension Management and
+Control
+HHS Priority Questions: To what extent do HHS programs and policies reduce costs and improve quality
+of health care services? How do HHS policies and programs promote healthy lifestyle choices to reduce
+occurrence and disparities in preventable injury, illness, and death?
+Activity Description/Research Questions: Telehealth is one avenue that may increase access to
+healthcare for underserved populations, and this project will focus on identifying implications and
+recommendations for the use of telehealth among populations who experience disproportionate risk of
+hypertension and barriers to healthcare access. The project will use a stepwise approach, using an
+understanding of the context and policies related to telehealth, to develop an evaluation plan which will
+evaluate the implementation of telehealth at three health systems. The evaluations will assess
+telehealth implementation, cardiovascular disease outcomes over time, compare differences in
+outcomes among patients receiving telehealth services versus those receiving in-person medical care,
+Page 25 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+cost-effectiveness, and the sustainability of telehealth strategies including the policy context for long
+term implementation of telehealth.
+Time Period for the Activity (estimated start and end dates): September 2021 - November 2023
+Existing Data Sources Held by the Division: N/A
+Existing Data from Other Sources:
+Secondary data analysis using data extracted from health
+system site data systems (i.e., EHRs)
+Secondary data analysis of Federal and state telehealth
+statutes, legislation, and regulations Secondary data analysis of published and grey literature
+for the use of telehealth to address cardiovascular disease and address health disparities
+New Data Collection: Qualitative Interviews
+Study Design or Approach: Overall, evaluation methods will include a retrospective analysis of adult
+patients with hypertension, hypercholesterolemia, or other cardiovascular disease who received
+telehealth services at three separate health systems over the past year or more. The evaluation design
+will use quasi-experimental methods that includes a comparison group to assess the contribution of
+telehealth implementation to relevant outcomes including hypertension. A policy analysis will include a
+systematic assessment of Federal and state policies, statutes, and regulations that facilitate and limit
+telehealth.
+Anticipated Challenges and Mitigation Strategies: This effort aims to build practice-based evidence
+within a national context of rapidly changing of healthcare delivery, largely driven by the ongoing
+COVID-19 pandemic. These challenges also present unique opportunities for evidence-building. The
+evaluation design seeks to demonstrate effectiveness of telehealth strategies to address cardiovascular
+disease and health disparities, while proactively considering how current policies and regulations affect
+telehealth implementation and reimbursement of services, and the role of the COVID-19 pandemic in
+catalyzing broad health system implementation of telehealth.
+Contributing Division: CDC
+Activity Title: Disease Reporting Legal Epidemiological Studies
+HHS Priority Questions: How can HHS further strengthen surveillance, epidemiology, and laboratory
+capacity to understand and equitably address diseases and conditions? How can HHS programs and
+policies improve data collection, use, and evaluation to increase evidence-based knowledge that leads
+to better health outcomes, reduced health disparities, and improved social well-being, equity, and
+economic resilience?
+Activity Description/Research Questions: PHLP attorneys analyze state laws that require healthcare
+providers, laboratories, and other entities to report findings of certain diseases and conditions to state
+or local public health authorities. Attorneys use legal epidemiology to build datasets that allow
+researchers to view trends and variations across jurisdictions related to identified factors such as
+Page 26 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+diseases and conditions required to be reported, the manner in which reporting must take place, and
+the information required to be reported. Compilation of these data can be used to (1) help health care
+providers and laboratories achieve compliance with reporting laws; (2) study the reporting of
+demographic information, and (3) inform public health professionals about the scope of disease
+reporting requirements by jurisdiction. The research question is: How do state disease reporting laws
+factor into state, tribal, local, and territorial public health authorities with disease surveillance and
+presentation?
+Time Period for the Activity (estimated start and end dates): August 2020 - September 2023
+Existing Data Sources Held by the Division: CSTLTS/OPHLS currently holds preliminary datasets on state
+disease reporting laws in the Public Health Law Information Portal.
+Existing Data from Other Sources: The datasets on state disease reporting laws held by the
+CSTLTS/OPHLS were constructed based on searches and data extraction from the following secondary
+data sources: Westlaw (for statutes and regulations) and health department websites (for disease lists
+and procedures).
+New Data Collection: This activity involves ongoing search and data extraction from the aforementioned
+secondary data sources. New data will be collected as the dataset is updated following legislative
+sessions each year. Additional data elements may be added as need requires.
+Study Design or Approach: Attorneys use legal epidemiology to build datasets that will allow
+researchers to view trends and variations across jurisdictions related to identified factors such as
+diseases and conditions required to be reported, the manner in which reporting must take place, and
+the information required to be reported. These legal epidemiology methods include the collection of
+legal text (state statutes, regulations, and policies), coding and qualitative analysis of legal text for the
+presence or absence of previously identified legal attributes. This portfolio is expected to grow and
+evolve over time.
+Anticipated Challenges and Mitigation Strategies: There are several challenges with this project: (1)
+states use various legal and policy mechanisms to promulgate these requirements - statutes,
+regulations, health department websites - so ensuring a complete collection is challenging; (2) there are
+a tremendous number of laws in this domain - across at least fifty-one jurisdictions and covering over
+485 reportable diseases and conditions; (3) designing a coding scheme that applies consistently across
+the wide array of mechanisms and jurisdictions; (4) designing a coding scheme that works applies across
+the hundreds of diseases and conditions covered by these laws. To address these challenges,
+researchers will make improvements to the coding scheme(s) through the systematic application of
+coding questions to sample states, strategically selected to represent the diversity of laws and
+jurisdictions. PHLP will also continue to engage with subject matter experts at CDC and STLT health
+departments and in healthcare settings.
+Page 27 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Contributing Division: CMS
+Activity Title: Maternal Opioid Misuse (MOM) Model Evaluation
+HHS Priority Questions: To what extent do HHS programs and policies strengthen and expand access to
+mental health and substance use disorder treatment and recovery services for individuals and families?
+What are the impacts of HHS programs and policies on strengthening early childhood development and
+expanding opportunities to help children and youth thrive equitably within their families and
+communities?
+Activity Description/Research Questions: MOM is a program for pregnant/postpartum Medicaid and
+CHIP participants with opioid use disorder (OUD). The MOM Model evaluation seeks to determine if
+evidenced-based, integrated care that includes access to medication assisted treatment (MAT) can
+improve outcomes and reduce costs for pregnant and postpartum women with opioid disorder and their
+infants. The evaluation seeks to build the evidence base for what works best for treating pregnant
+women with OUD, especially in light of multiple co-morbidity often present (particularly other substance
+abuse and behavioral health disorders). The evaluation also seeks to assess the effects of integrated
+care (including data sharing) among provider and social service entities. The research questions are: To
+what extent does implementing a coordinated care model for pregnant and postpartum women with
+OUD improve quality and reduce the costs associated with treating pregnant and postpartum women
+and infants affected by OUD? What are specific best practices for serving this population?
+Time Period for the Activity (estimated start and end dates): January 2020 - January 2027
+Existing Data Sources Held by the Division: Medicaid T-MSIS data for MOM Model awardees and
+potential comparison States (yet to be determined), including demographic and eligibility data, inpatient
+data, other services data, pharmacy data, and other T-MSIS data files
+Existing Data from Other Sources: Vital records data provided by MOM Model awardees; Mother-infant
+dyad identifiers provided by MOM Model awardees; Ongoing literature reviews and environmental
+scans, including any new documents provided by MOM Model awardees; MOM Model awardee-
+reported, participant-level data on demographic characteristics, mental and physical health
+characteristics, substance abuse, social determinants of health data, service use type and frequency, and
+outcomes.
+New Data Collection: Primary data collection in the form of key informant interviews, focus groups/in-
+depth interviews with MOM Model participants, Photovoice with MOM Model participants, and
+structured observations of care delivery sites.
+Study Design or Approach: The evaluation will produce annual reports of model outcomes beginning
+with an evaluation of the model pre-implementation period (through June 20, 2021). The evaluation
+uses a theoretically guided, integrated mixed methods design. As such, each aspect of the evaluation
+continuously informs the others. Participant level data includes program-based quality measures and
+information on participants provided by care delivery partners. The qualitative analysis includes in-
+person and virtual site visits that involve environmental scans, interviews, focus groups, and innovative
+participant-directed methods. The quantitative analysis of claims and vital records (birth and death) will
+Page 28 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+include impacts analyses with comparison groups as possible. Where an impacts analysis is not possible,
+the evaluation will consider pre-post analysis and forms of descriptive statistical analysis.
+Anticipated Challenges and Mitigation Strategies: An impact analysis may not be possible for all
+awardees (barriers include small sample sizes, difficulties in establishing appropriate comparison groups,
+and quality of claims data for this population).
+Contributing Division: CMS
+Activity Title: Integrated Care for Kids (InCK) Model Evaluation
+HHS Priority Questions: To what extent do HHS programs and policies reduce costs and improve quality
+of health care services? What are the impacts of HHS programs and policies on strengthening early
+childhood development and expanding opportunities to help children and youth thrive equitably within
+their families and communities?
+Activity Description/Research Questions: The evaluation seeks to determine whether implementation
+of InCK improves health outcomes and reduces Medicaid costs among beneficiaries in the targeted
+population. The evaluation employs a mixed methods approach that includes measures for key service
+areas (clinical and behavioral health, food and housing security), rigorous qualitative case studies, and
+an impacts analysis of Medicaid claims data using within-state comparison groups. The primary
+questions for the pre-implementation period are:
+What are the characteristics of the InCK population? What are barriers and facilitators to initiating InCK
+programs, including APM design? How do these barriers and facilitators differ by awardee and by local
+and state-specific contexts?
+The primary evaluation questions for the implementation period are: Does the InCK intervention
+(including the APM) result in reduced total health care expenditures and improved quality of care, and
+specifically:
+a reduction in Medicaid and CHIP covered inpatient utilization and Emergency Department (ED)
+use?
+reductions in cost of care to Medicaid and CHIP?
+reductions in out of home placement (e.g., foster care, prolonged hospitalization)?
+Time Period for the Activity (estimated start and end dates): August 2020 - August 2029.
+Existing Data Sources Held by the Division: Unredacted, Final and Preliminary T-MSIS Analytic Research
+Identifiable Files (TAF RIF) for the years covering 2017-2027; CMS TAF Vital Status Files for the years
+covering 2017-2027; Model documentation submitted by awardee recipients (ARs) including progress
+reports, operational plans, standard operating procedures, and applications/NCCs; Clinical and non-
+clinical performance measure data (to be captured by the Implementation and Monitoring contractor)
+Page 29 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Existing Data from Other Sources: Area Health Resource File (https://data.hrsa.gov/topics/health-
+workforce/ahrf); HPSAs (https://bhw.hrsa.gov/shortage-designation/hpsas); US Census/American
+Community Survey (https://www.census.gov/programs-surveys/acs/data.html); Rural-Urbar
+Commuting Areas (https://www.ers.usda.gov/data-products/rural-urban-commuting-area-code Area
+Deprivation Index https://www.neighborhoodatlas.medicine.wisc.edu/);COVID-19 data from
+USAFacts.org(https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/);County Health
+Rankings (https://www.countyhealthrankings.org/); Social Determinants of Health
+(https://www.ahrq.gov/sdoh/index.html);Child welfare and foster care data: Data from states'
+Statewide Automated Child Welfare Information System (SACWIS) or Child Welfare Information Systems
+(CCWIS) or alternative administrative data system (specifically, data elements that support states'
+submissions to the Federal Adoption and Foster Care Analysis and Reporting System (AFCARS) and the
+National Child Abuse and Neglect Data System (NCANDS)); Juvenile justice data: Data from states'
+juvenile justice agencies, courts, or other sources containing data related to "systems that respond to
+youth that come into contact with law enforcement and are accused of breaking the law"; Education
+data: Data from states' education agencies and/or local school districts; Food security data: Data from 1)
+states' health departments, 2) human services / social services agencies, or 3) education agencies
+related to eligibility/utilization of food assistance or food-related needs; Cash assistance data: Data from
+states' health departments or human services / social services agencies related to eligibility/utilization of
+cash assistance programs; Housing data: Data from federal, state, or local agencies on
+eligibility/utilization of housing assistance
+New Data Collection: Retrospective Attribution Files (collected by ARs); Retrospective Comparison Files
+(collected by ARs); Service Integration Level (SIL) Checklists (collected by ARs); Aggregate Performance
+Measures and underlying individual-level admin or EHR data (collected by ARs); Interviews with ARs ;
+Interviews with State Medicaid Agencies; Interviews with members of the Partnership Council;
+Interviews/focus groups with providers serving the attributed population and providers serving the
+comparison group population.; Interviews/focus groups/other TBD data collection with patients and
+families/caregivers potentially involved with and/or impacted by the InCK model
+Study Design or Approach: The evaluation will produce annual reports of model outcomes beginning
+with an evaluation of model pre-implementation. Milestones are still being negotiated with awardees.
+The design plan for the implementation design is due in the fall of 2021. The evaluation uses an
+integrated mixed methods approach. As such, each aspect of the evaluation continuously informs the
+others. Quality measures and demographic information on participants are provided by awardees. The
+qualitative analysis includes in-person and virtual site visits that involve environmental scans, interviews,
+focus groups, and innovative participant-directed methods. The quantitative analysis of Medicaid (and
+CHIP where applicable) claims will include impacts analyses with comparison groups from non-
+overlapping areas in the same states where beneficiaries are served.
+Anticipated Challenges and Mitigation Strategies: Implementation has not yet begun for this model,
+and quality of the anticipated data is unclear.
+Page 30 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Contributing Division: CMS
+Activity Title: Network of Quality Improvement and Innovation Contractors (NQIIC) Independent
+Evaluation
+HHS Priority Questions: How does HHS improve the design, delivery, and outcomes of HHS programs by
+prioritizing science, evidence, and inclusion? How can HHS programs and policies improve the
+promotion of effective enterprise governance to ensure programmatic goals are met equitably and
+transparently across all management practices?
+Activity Description/Research Questions: The QIOs and other quality improvement contractors are
+required to provide evidence-based, data-driven technical assistance to health care facilities to improve
+quality and meet pre-defined outcomes related to: Opioid use and misuse; Patient safety; Chronic
+disease management; Care coordination; Responding to public health emergencies and COVID-19 and
+infection control; Immunization; and Training. CMS's evaluation strategy aims to understand: which
+aspects of QIO interventions are effective; variance in performance across QIOs and interventions;
+providers' satisfaction with the quality improvement interventions.
+This information will inform current work and future Quality Improvement Program planning to shape
+program based on potential for maximum effectiveness and impact, in addition to eliminating low-value,
+low-impact activities. The NQIIC Independent Evaluation Contractor executes a formative evaluation
+that plans to address the following priority questions: Which contractors are meeting which program
+targets? What strategies are they using to meet them? What barriers are keeping contractors from
+meeting targets and how can these be overcome? Annual provider satisfaction surveys will measure:
+What proportion of targeted providers use QIO contractor resources to improve health care quality?
+How satisfied are the providers with these resources? What can the QIOs do to improve satisfaction?
+The impact evaluation will measure: To what extent did the QIO program meet the targets for each
+quality improvement category? To what extent can we attribute the changes in outcomes associated
+with the categories to the quality improvement networks and/or other activities supported through the
+QIO? What are the likely projected and actual ROI for QIO program outcomes (both quantitatively and
+qualitatively)? How does ROI and impact vary by contractor? For COVID-19 response, what synergies
+were achieved between the QIOs and other major HHS programs, especially AHRQ's Project Echo?
+Time Period for the Activity (estimated start and end dates): September 25, 2020-September 24, 2025.
+Existing Data Sources Held by the Division: Major quantitative data sources include: Medicare fee-for-
+service claims; Provider/Physician Performance (Hospital Compare, Nursing Home Compare, Physician
+Compare); Medicare Current Beneficiary Survey (MCBS); Deliverable Administration Review Repository
+Tool (DARRT) data
+Existing Data from Other Sources: Quality and Safety Review System (QSRS) inpatient safety data: a
+multi-stage sample of medical charts from Medicare beneficiaries from a small sample of hospitals. (See:
+AHRQ National Scorecard on Hospital-Acquired Conditions); National Healthcare Safety Network
+(NHSN); Tiberius data (HHS); Nursing Home Minimum Data set;
+New Data Collection: QIN-QIO real-time collected data (Qualtrics); OMB cleared survey of providers'
+satisfaction with NQIIC services (not yet executed)
+Page 31 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Study Design or Approach: This is a 5-year mixed methods evaluation using both qualitative and
+quantitative methods. An Independent Evaluation Contractor, Booz Allen Hamilton, with highly
+credentialed statisticians and health services researchers conducts the work under the direction of CMS.
+Although the evaluation is independent, the specific research questions are defined and the work is
+monitored by Ph.D.-trained researchers and clinicians at CMS who use their program knowledge to
+assure the contractors investigate the right populations, interventions, and outcomes.
+Anticipated Challenges and Mitigation Strategies: No challenges identified at this time.
+Contributing Division: CMS
+Activity Title: Section 2001 of the SUPPORT Act: Impact of Telehealth Amendments on Healthcare
+Utilization and Outcomes related to SUD
+HHS Priority Questions: To what extent do HHS programs and policies strengthen and expand access to
+mental health and substance use disorder treatment and recovery services for individuals and families?
+Activity Description/Research Questions: The SUPPORT for Patients and Communities Act provisions
+allow expanded telehealth reimbursement for individuals receiving treatment for SUD and co-occurring
+MH disorders; therefore, changes in telehealth use for these services is of interest. For our analysis, we
+will select individuals with a SUD diagnosis, and measure any telehealth use for SUD or MH treatment
+among this population. We will ask whether the use of telehealth for these services increased after
+enactment of the SUPPORT for Patients and Communities Act, compared to the year prior to enactment,
+by examining metrics associated with the following areas: SUD/MH treatment utilization; Emergency
+Department Visits Related to SUD; Follow-up After ED Visit; Overdoses; 2.1.2.5 Hospital Utilization
+Related to SUD; Treatment Lag; and Costs.Questions to Be Addressed in the Quantitative Analysis: 1)
+What is the impact of SUPPORT for Patients and Communities Act implementation on telehealth use for
+treatment of OUD and SUD and co-occurring MH disorders? 2) What is the impact of SUPPORT for
+Patients and Communities Act implementation on the following healthcare utilization outcomes?
+Emergency department (ED) visits related to SUD; Follow-up after an ED visit related to SUD;
+Hospitalization related to SUD; Treatment lag (i.e., time between diagnosis and treatment); Costs
+related to SUD and MH treatment reimbursement. 3) What is the impact of implementation of SUPPORT
+for Patients and Communities Act on the following health outcomes? Rate of overdoses, Rate of
+overdose deaths Questions to Be Addressed in the Qualitative Analysis: 1) What, if any, are the key
+facilitators to implementation that have resulted in positive outcomes (clinical or non-clinical)? 2) What,
+if any, are the key barriers/challenges preventing effective and efficient implementation? 3) What, if
+any, are the unintended consequences associated with implementation?
+Time Period for the Activity (estimated start and end dates): Ongoing - 2023
+Existing Data Sources Held by the Division: Medicare FFS Part A, Part B and Part D claims
+Existing Data from Other Sources: Explore the use of social and geographic covariates, such as the Area
+Deprivation Index (ADI), other census block variables, or variables from the Health Resources and
+Services Administration (HRSA) Area Health Resources Files (AHRF). This evaluation will also look at
+Page 32 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+National Death Index (NDI) data, which is included in the Chronic Conditions Data Warehouse (CCW) for
+the years through 2016. The NDI is a compendium of death record information on file in state vital
+statistics offices and is maintained by the National Center for Health Statistics (NCHS) and the Centers
+for Disease Control and Prevention (CDC).
+New Data Collection: Qualitative data collection will be conducted.
+Study Design or Approach: The Health Federally Funded Research and Development Center (FFRDC) will
+first conduct descriptive analyses examining crude differences and rates of telehealth use and other,
+related outcomes across the three time periods (baseline; SUPPORT act implementation; COVID
+waivers), as well as by key demographic characteristics including (but not necessarily limited to) age,
+sex, race/ethnicity, disability status, comorbidities, urban or rural residence, urban or rural provider
+location, facility type, and other geographic and socioeconomic indicators. Telehealth use and outcomes
+may also be examined stratified by substance(s) used and by MH condition. We will also conduct
+descriptive analyses of OUD and SUD prevalence, deaths, overdoses, and related healthcare utilization,
+such as ED visits. Based on results from the descriptive analyses, we will construct analytic models that
+seek to determine changes in trends of telehealth use and other outcomes between the three time
+periods. We propose using regression discontinuity in time (RDiT), a regression-based analysis approach
+that tests for differences in outcomes between the different time periods, controlling for variables
+shown to be associated with each outcome. The primary goal of this analysis is to examine whether the
+SUPPORT for Patients and Communities Act telehealth policy change was associated with an overall
+difference in the rates of the various measured outcomes. In addition to the RDiT analysis, we propose
+conducting case-control analysis to address whether outcomes differ between individuals with SUD who
+received telehealth treatment compared to those who received treatment in-person only. For this
+analysis, we examine differences only among beneficiaries with SUD who received any form of SUD or
+MH treatment during the three time periods. Cases will be defined as those receiving any form of SUD
+or MH treatment via telehealth. Controls will be selected from those who received in-person only
+treatment and will be matched to cases based on propensity scores. Propensity scores will be generated
+using an artificial intelligence machine learning algorithm based on patient demographic, clinical (e.g.,
+type of substance), and geographic characteristics. The goal of this analysis is to examine whether
+receiving these services via telehealth versus in-person only was associated with differences in the risk
+of experiencing various utilization and health outcomes, including emergency department visits and
+overdoses.
+Anticipated Challenges and Mitigation Strategies: No challenges identified at this time.
+Contributing Division: CMS
+Activity Title: Evaluation of the Value-Based Insurance Design (VBID) Model
+HHS Priority Questions: To what extent do HHS programs and policies reduce costs and improve quality
+of health care services?
+Page 33 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Activity Description/Research Questions: The VBID Model allows Medicare Advantage organizations
+(MAOs) to further target benefit design to enrollees based on chronic condition and/or socioeconomic
+characteristics and/or incentivize the use of Part D prescription drug benefits through rewards and
+incentives. MAOs may also offer the Medicare hospice benefit to its enrollees as part of the VBID Model.
+Additionally, the VBID model requires that all participating plans engage their enrollees through
+structured and timely wellness and health care planning, including advanced care planning. The primary
+aim of the evaluation is to rigorously assess the impact of the VBID model on enrollee health outcomes,
+behavior, service use, and quality of care, and on costs to health plans, enrollees and to Medicare.
+Research Questions:
+Impact of the VBID Model (including Hospice component):
+1) Eligibility and Enrollment:
+Do participating plans enroll more or fewer enrollees over the course of the model test,
+and why?
+2) Utilization and health outcomes:
+Does the model result in targeted enrollees consuming fewer high-intensity services,
+such as emergency department visits and inpatient admissions?
+Does the model improve targeted enrollees' overall health status and specific
+conditions? What, if any, impact does the model have on enrollees' risk scores?
+How does the hospice benefit component of the model impact the decision to elect
+hospice, and the timing of hospice election, by enrollees?
+How does the model affect enrollee hospice experience, as measured by visits in the last
+week of life, likelihood of live discharge/transfer/revocation, among others? Where
+relevant, how do these utilization patterns differ between hospice patients in MA vs
+FFS?
+3) Cost:
+What is the model's impact on plans' cost (both medical and drug benefit)?
+What is the model's effect on plans' bids, for Parts C and D?
+What is the model's impact (if any) on targeted enrollees' and non-targeted enrollees'
+overall cost-sharing, premiums and the availability of supplemental benefits for non-
+targeted enrollees in participating plans?
+What factors or variables are driving any increases or decreases in plan's costs and bids?
+Time Period for the Activity (estimated start and end dates): Ongoing - 2028
+Existing Data Sources Held by the Division: Medicare Advantage plan enrollment/disenrollment files,
+Fee-for-Service claims, Medicare Advantage Organizations encounter, Bid Pricing Tool, Provider of
+Page 34 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Service, Hospice Item Set, Prescription Drug Event, Star ratings, risk scores, Reusable Framework
+monitoring data (submitted by VBID plans)
+Existing Data from Other Sources: CAHPS, Health Outcomes Survey, Healthcare Effectiveness Data and
+Information Set
+New Data Collection: Semi-structured interviews with participating and non-participating plans, in-
+network and out-of-network hospices, other VBID providers, and beneficiaries
+Study Design or Approach: Our evaluation of the VBID model test takes a mixed-methods approach by
+integrating primary qualitative data with secondary quantitative data to assess the model test's effects
+on key outcomes. This approach allows us to observe, from multiple angles, the experiences of MAOs,
+beneficiaries, and providers with the model test and develop a more complete picture of the potential
+benefits and drawbacks of VBID in the Medicare population. MAOs that offer VBID through the model
+test are required to submit information on beneficiary participation to CMMI's Reusable Framework
+reporting system. We will use these data to calculate the number of VBID-eligible beneficiaries in
+participating MAOs, the share of VBID-eligible beneficiaries who participated in the model test (versus
+opting out or not completing participation requirements), and changes over time in participation rates.
+We will use difference-in-differences regression models to estimate whether MAOs that participated in
+VBID and their eligible beneficiaries experienced changes in outcomes relative to a matched comparison
+group. Our analyses will estimate how MAOs' participation in the VBID model test affected outcomes.
+For most analyses, we will pool all VBID-participating MAOs and beneficiaries (and their matched
+comparators) into a single regression. As a result, the "treatment" effect is generally exposure to any
+VBID intervention implemented by a participating MAO, rather than exposure to a specific VBID design.
+The hospice component will be evaluated separately. Finally, we will characterize the experience of
+beneficiaries, providers, and MAOs with VBID through a series of semi-structured telephone interviews.
+Anticipated Challenges and Mitigation Strategies: The evaluation relies on encounter data submitted by
+MAOs. While quality of these data has improved in recent years, the ongoing time lag (approximately
+24-month runout period) delays answering key questions related to utilization. While the hospice
+component will be separately evaluated, the other flexibilities embodied in VBID are evaluated
+collectively even though there is variation in how they are used by participating MAOs. Thus, our
+evaluation of the VBID "proper" (non-hospice) speaks to access to the overall suite of flexibilities rather
+than the impact of any single one or subset of mechanisms.
+Contributing Division: FDA
+Activity Title: Modeling the evolution of the U.S. opioid crisis for national policy development
+HHS Priority Questions: How do HHS policies and programs promote healthy lifestyle choices to reduce
+occurrence and disparities in preventable injury, illness, and death?
+Page 35 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Activity Description/Research Questions: This is a modeling activity with a systems approach to capture
+major dynamics in the opioid crisis, to be able to assess short term and long term, intended and
+unintended consequences of potential policies
+Time Period for the Activity (estimated start and end dates): 2019 - Ongoing
+Existing Data Sources Held by the Division: N/A
+Existing Data from Other Sources: IQVIA, NSSATS, NFLIS, TEDS-A, NVSS, NBER, Symphony Health,
+NSDUH
+New Data Collection: N/A
+Study Design or Approach: The model has been built using System Dynamics methodology, which is a
+differential equation simulation modeling technique. Additional data science techniques and methods
+have been used to prepare and utilize the data for this model.
+Anticipated Challenges and Mitigation Strategies: Data scarcity in this arena remains the biggest
+challenge (i.e., we lack true longitudinal, national level drug use data). Other challenges include lack of
+comprehensive understanding on some of the underlying behavioral dynamics.
+Contributing Division: FDA
+Activity Title: Outcome Measures Integration Workgroup/Food Safety Dashboard
+HHS Priority Questions: How can HHS programs and policies improve the promotion of effective
+enterprise governance to ensure programmatic goals are met equitably and transparently across all
+management practices?
+Activity Description/Research Questions: The OMI workgroup is responsible for implementing
+measures to track the progress of the Food Safety Modernization Act (FSMA). The Workgroup utilizes
+the Food Safety Dashboard to monitor progress and performance towards achieving key outcomes over
+time. The research Question is: How can HHS programs and policies best protect the food and medical
+supply chains?
+Time Period for the Activity (estimated start and end dates): 2016 - Ongoing Existing Data Sources
+Held by the Division: Domestic and Foreign PCHF Inspections (including classifications); Domestic and
+Imported Recall Events (Class I and II); Foreign Supplier Verification Program (FSVP) Inspections
+Existing Data from Other Sources: N/A
+New Data Collection: N/A
+Study Design or Approach: The FDA has finalized seven major rules to implement FSMA, recognizing
+that ensuring the safety of both the human and animal food supply is a shared responsibility among
+many different parties at various points in the global supply chain. The FSMA rules outline specific
+Page 36 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+actions the food industry must take at each of these points to prevent contamination. For each rule, the
+FDA has identified measures that will help to evaluate how well the regulations are being implemented
+and where there could be room for improvement. The agency anticipates these performance measures
+will evolve and improve over time as the agency and its partners continue to implement FSMA and
+collect more and better-quality data. FDA will update the Food Safety Dashboard on a quarterly basis.
+Anticipated Challenges and Mitigation Strategies: The compliance dates for the FSMA rules were
+staggered over time, largely based on business size, and some entities still have not reached certain
+compliance dates. Routine inspections for others may only just be starting. This means that the early
+data collected based on these performance measures will reflect the current status of implementation.
+Depending on the measure, it may take several years to establish baselines and identify meaningful
+trends in FSMA implementation.
+Contributing Division: HRSA
+Activity Title: Healthy Start (HS) Evaluation & Capacity Building Support
+HHS Priority Questions: What are the impacts of HHS programs and policies on strengthening early
+childhood development and expanding opportunities to help children and youth thrive equitably within
+their families and communities?
+Activity Description/Research Questions: This effort is a four-year national evaluation of the HS
+program applying implementation, utilization, outcome, and transformative evaluation approaches to
+determine the effectiveness of the program. The social ecological model is used as the framework
+to
+assess characteristics, behaviors, and activities at the individual level (e.g., use of program services), the
+organizational level (e.g., HS initiatives), the community level (e.g., HS Community Action Networks),
+and the larger social-structural level (e.g., policies, systems, structural environment). Results of the
+evaluation will be used to inform decision-making and develop recommendations to improve
+implementation of the HS program. The research question is: To what extent are HHS programs
+associated with improved health status among participants served, and how effective are HHS programs
+in addressing maternal and infant health disparities?
+Time Period for the Activity (estimated start and end dates): Sept 2021 - Sept 2025
+Existing Data Sources Held by the Division: Healthy Start Monitoring & Evaluation Data System
+(HSMED); - Reporting system for participant-level data received on a monthly basis:
+- Based on information provided in the Healthy Start Data Collection Forms (Background Form,
+Prenatal Form, Parent/Child Form)
+- Contains demographic, participant behavior, healthcare utilization, access, and perinatal
+outcomes data
+Page 37 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Discretionary Grant Information System (DGIS)
+- Collects grantee-level data on annual basis
+- Addresses MCHB-wide and HS program-specific performance measures
+Existing Data from Other Sources: CDC Pregnancy Risk Assessment Monitoring System (PRAMS)
+New Data Collection: Quantitative and qualitative data collected from Healthy Start grantees and their
+stakeholders via web-based surveys, semi-structured interviews, and site visit assessments
+Study Design or Approach: The evaluation will use a mixed methods approach: for much of the
+implementation and utilization evaluation, HSMED data, DGIS data, and the Program Staff Survey will be
+analyzed to provide descriptive statistics and determine associations. Grantee reports, stakeholder
+interviews, and network analysis will inform the implementation and transformative evaluation
+components. The outcome evaluation will measure the impact of HS on participant health outcomes
+using dosage analysis. Anticipated Challenges and Mitigation Strategies: The HS grantees have varying
+levels of organizational data and evaluation capacity based on level of experience with the program and
+other factors. An organizational assessment was conducted that identified challenges in collecting and
+submitted required data, time and effort required, staff experience, and variations in data systems. The
+evaluation design includes a risk mitigation plan to address these challenges that includes technical
+assistance provided by the evaluation contractor and the HS TA & Support Center.
+Contributing Division: HRSA
+Activity Title: Collaborative Health Equity Measurement (CHEM) Project in Maternal and Child Health
+HHS Priority Questions: What are the impacts of HHS programs and policies on strengthening early
+childhood development and expanding opportunities to help children and youth thrive equitably within
+their families and communities? How can HHS programs and policies improve data collection, use, and
+evaluation to increase evidence-based knowledge that leads to better health outcomes, reduced health
+disparities, and improved social well-being, equity, and economic resilience?
+Activity Description/Research Questions: This is an evidence-building effort to support development of
+common measures for health equity in maternal and child health (MCH) and expand the capacity and
+use of meaningful and practical health equity measures to track the impact of MCH programs on health
+equity, for two main audiences: (1) states and communities nationwide and, (2) HRSA Maternal and
+Child Health Bureau grantee programs. The activity will support measuring the baseline of health equity
+in MCH populations and monitor the trend. The research question is: How can HHS health and social
+services policies and programs improve equity for the Maternal and Child (MC) population in the US?
+How can HHS policies and programs address upstream social determinants of health to improve overall
+health status and disease burden in MC population?
+Time Period for the Activity (estimated start and end dates): July 1, 2022 - January 1, 2024
+Page 38 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Existing Data Sources Held by the Division: MCHB Health Equity Performance Measures and data
+reported within the Child & Adolescent Health Measurement Initiative; MCHB data collection systems
+for discretionary and non-discretionary grant programs; Title V Block Grant reporting related to equity
+Existing Data from Other Sources:
+New Data Collection: Public datasets that measure health equity and social determinants of health at
+the national, state, and local level
+Study Design or Approach: Direct estimation and/or small area analysis (SAE) to measure health equity
+among MCH populations at the national, state, and local-level; data tables that contain national, state,
+and local-level estimates for the health equity measures; stratified data to be incorporated into the
+MCHB data warehouse.
+Anticipated Challenges and Mitigation Strategies: The methodology for the SAE may take time to
+develop which may delay the progress of the project. To prevent it from happening, OER staff will
+identify the needed datasets and the methodology while developing the contract SOW, and invite SAE
+methodology experts to be on the expert panel.
+Contributing Division: NIH
+Activity Title: Impact Assessment - Opioid and Chronic Pain Pathways to Prevention Workshop
+HHS Priority Questions: To what extent do HHS programs and policies strengthen and expand access to
+mental health and substance use disorder treatment and recovery services for individuals and families?
+How can HHS programs and policies improve data collection, use, and evaluation to increase evidence-
+based knowledge that leads to better health outcomes, reduced health disparities, and improved social
+well-being, equity, and economic resilience?
+Activity Description/Research Questions: The NIH Office of Disease Prevention is currently conducting
+an impact assessment of the recommendations that resulted from the 2014 Pathways to Prevention
+(P2P) Workshop- The Role of Opioids in the Treatment of Chronic Pain. The workshop addressed four
+key areas, including the long-term effectiveness of opioids; the safety and harms of opioids in patients
+with chronic pain; the effects of different opioid management strategies; and the effectiveness of risk
+mitigation strategies for opioid treatment. The workshop was designed to identify future research needs
+and priorities to improve the treatment of pain with opioids. Results of the impact assessment will
+inform how well this workshop influenced future funding in this area as well as how to improve the
+design of future P2P workshops.
+Time Period for the Activity (estimated start and end dates): Fall 2021 - Fall 2022
+Existing Data Sources Held by the Division: iSearch - Grants (including the Portfolio tool) iSearch -
+Publications; iCite; RCDC
+Existing Data from Other Sources: Almetric
+Page 39 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+New Data Collection: N/A
+Study Design or Approach: Three products were produced as a result of the P2P workshop which
+outlined key research gaps and recommendations to address these gaps. The impact assessment will
+include three components:
+(1) portfolio analysis - assess NIH grant portfolio of funding announcements and research
+funding post-workshop.
+(2) bibliometric analysis - use citation data to assess the impact of publication of systematic
+evidence review and recommendation by external panel.
+(3) key leader and stakeholder interview - anecdotal insight regarding the key activities and
+collaborations that resulted from the workshop proceedings and recommendations.
+Anticipated Challenges and Mitigation Strategies: It may be difficult to provide a causal link between
+the recommendations and the resulting funding opportunity announcements and grants that don't
+specifically cite the P2P workshop. NIH will complement the quantitative analyses with key leader and
+stakeholder interviews who provided subject matter expertise during the workshop process and
+oversaw/guided the resulting activities and collaborations.
+Contributing Division: NIH
+Activity Title: Cancer Moonshot Assessment
+HHS Priority Questions: How can HHS programs and policies improve data collection, use, and
+evaluation to increase evidence-based knowledge that leads to better health outcomes, reduced health
+disparities, and improved social well-being, equity, and economic resilience?
+Activity Description/Research Questions: The Cancer Moonshot is an exceptional opportunity to
+accelerate progress in cancer prevention, diagnosis, treatment, and care. The 21st Century Cures Act
+provided 7 years of funding for the initiative from FY 2017 through FY 2023. The National Cancer
+Institute (NCI) is conducting a data-driven overall assessment to look at cross-Moonshot trends that will
+complement ongoing and planned evaluations of a subset of individual initiatives that are occurring
+throughout NCI. The overall assessment focuses on the overarching goals of the Moonshot: generating
+new knowledge, fostering collaboration, and improving data sharing.
+Time Period for the Activity (estimated start and end dates): 2019 - 2027
+Existing Data Sources Held by the Division: NIH administrative funding data - grants, cooperative
+agreements, contracts, and intramural research project data; Publication and clinical trials data
+Existing Data from Other Sources: US patent data; Dimensions Database
+New Data Collection: Data associated with data sharing metrics
+Page 40 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Study Design or Approach: Impacts and outcomes of scientific funding typically become apparent years
+after the investment. As a result, the assessment will be divided into two phases - phase 1 (Data
+Collection, Monitoring, and Interim Reporting) is the development of an evidence base that both
+supports annual reporting and will be used as an input for phase 2, the final assessment. The evidence
+base will include both quantitative data and qualitative data collected through automated and manual
+methods. Portfolio analysis will be conducted to understand the Cancer Moonshot investment, the
+workforce funded by the Cancer Moonshot, and the outputs and achievements from the Cancer
+Moonshot funds.
+Anticipated Challenges and Mitigation Strategies: In general, a challenge of this type of assessment is
+the lag time between investment in research and notable societal benefit. In addition, societal benefit of
+a particular investment often cannot be directly measured. This can be compensated for by the use of
+surrogate measures of impact. Specific to this assessment, challenges exist in ways to measure data
+sharing. A number of possible methods and metrics for this are being explored, and NIH anticipates that
+new methods may be developed by the research community as there is increased use of shared data
+sets.
+Contributing Division: NIH
+Activity Title: Analyzing the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+Data Science portfolio and Developing Plans for NIDDK implementation of the New NIH Data
+Management and Data Sharing Policies
+HHS Priority Questions: How can HHS programs and policies improve data collection, use, and
+evaluation to increase evidence-based knowledge that leads to better health outcomes, reduced health
+disparities, and improved social well-being, equity, and economic resilience?
+Activity Description/Research Questions: NIDDK has embarked on an evidence-based approach to: a)
+evaluate current data science activities to plan for future data science needs, and b) assess the types of
+data NIDDK-supported investigators generate.
+Time Period for the Activity (estimated start and end dates): January 2021 - January 2023
+Existing Data Sources Held by the Division: NIH Information for Management Planning, Analysis, and
+Coordination (IMPAC II); NIDDK Data Repository; NIDDK Intramural investigators; NIH Intramural
+Databases
+Existing Data from Other Sources: N/A
+New Data Collection: N/A
+Study Design or Approach: NIDDK is developing a sampling algorithm that seeks to target about 20% of
+all new NIDDK awards from the past five years. It will develop the algorithm to ensure that it includes a
+representative sampling with respect to institution type, science type, and discipline. A data science
+Page 41 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+contractor will evaluate the dataset and then answer a set of questions developed by NIDDK about the
+awards.
+Anticipated Challenges and Mitigation Strategies: One challenge is balancing cost/level of effort and
+informativeness. NIDDK prefers a sampling algorithm that provides the smallest set of data that is
+sufficiently representative of the Institute's entire portfolio given the logistical constraints. A second
+challenge is in developing a set of questions that can adequately inform both policy decisions and
+strategic planning for future data science needs.
+Contributing Division: ONC
+Activity Title: ONC Certification Program Evidence Building
+HHS Priority Questions: How can HHS programs and policies improve data collection, use, and
+evaluation to increase evidence-based knowledge that leads to better health outcomes, reduced health
+disparities, and improved social well-being, equity, and economic resilience?
+Activity Description/Research Questions: The key goal of this project is to identify the impacts of the
+ONC Health IT Certification Program on health IT. This will be an ongoing analysis of the Program
+through data collection from multiple sources. The results of this analysis will be used to assess the
+progress of the Program as well as inform future policy making. The research Question is: In what ways
+is certification of health IT improving the access, exchange, and use of electronic health information for
+patient care?
+Time Period for the Activity (estimated start and end dates): FY 2022 - FY 2026
+Existing Data Sources Held by the Division: Data from the Certified Health IT Products List; Centralized
+Feedback System
+Existing Data from Other Sources: Health IT Surveys (e.g., AHA, NEHRS, HINTS, LOINC); CMS Promoting
+Interoperability Program data
+New Data Collection: Real World Testing data; EHR Reporting Program data; New Surveys
+Study Design or Approach: ONC will primarily be conducting quantitative analyses, looking at progress
+in key areas over time. ONC measures interoperability through healthcare providers' ability to query,
+send, receive, and integrate electronic health information into their systems. In addition to exchange of
+patient health records, this analysis will explore the impacts on improving exchange of health
+information in areas of public health, SDOH, patient access, and other areas related to the HHS Federal
+Health IT Strategic Plan.
+Anticipated Challenges and Mitigation Strategies: In order to get a clearer picture of what is happening
+in health IT interoperability, ONC will attempt to collect real world data. ONC expects challenges in the
+diversity and quality of such data. Thus, ONC is working with subject matter experts to best determine
+the requirements for collecting this data.
+Page 42 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Contributing Division: SAMHSA
+Activity Title: Internal Formative Evaluation of the Projects for Assistance in Transition from
+Homelessness (PATH)I
+HHS Priority Questions: How do HHS programs and policies expand equitable access to comprehensive,
+community-based, innovative, and culturally-competent health care services while recognizing social
+determinants of health?
+Activity Description/Research Questions: The PATH evaluation report includes information on funding,
+staffing, numbers served/contacted and enrolled, client demographics, service provision and service
+referrals made and attainment. Data are submitted by the PATH providers via the SAMHSA PATH Data
+Exchange (PDX), though parts are to be provided through local Homeless Management Information
+Systems (HMIS). The PATH grantees' State PATH Contacts (SPCs) approve the data submitted by their
+providers. The research question is: How can HHS health and social services programs increase access to
+those experiencing homelessness?
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: PDX
+Existing Data from Other Sources: Web-based survey
+New Data Collection: N/A
+Study Design or Approach: Mixed method approach
+Anticipated Challenges and Mitigation Strategies: Delay in data collection
+Contributing Division: SAMHSA
+Activity Title: SAMHSA's Report to Congress on Garrett Lee Smith (GLS) Youth Suicide Prevention and
+Early Intervention Program.
+HHS Priority Questions: How do HHS policies and programs promote healthy lifestyle choices to reduce
+occurrence and disparities in preventable injury, illness, and death?
+Activity Description/Research Questions: Performance measurement and outcome evaluation to
+evaluation how HHS programs can reduce suicidal ideation leading to reductions in mortality and
+morbidity among youth across the country
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Page 43 of 44
+FY 2023-2026 Evidence-Building Plan
+Department of Health & Human Services
+Existing Data Sources Held by the Division: SAMHSA's Performance and Accountability Reporting
+System (SPARS), Infrastructure Development, Prevention and Mental Health Promotion (IPP) measures
+Existing Data from Other Sources: N/A
+New Data Collection: N/A
+Study Design or Approach: Examination of program data over time and with particular emphasis on
+priority and high risk populations
+Anticipated Challenges and Mitigation Strategies: Delay in data collection
+Contributing Division: SAMHSA
+Activity Title: Performance Measurement of SAMHSA's discretionary grants (40-50 Program Profiles)
+HHS Priority Questions: How can HHS programs and policies improve data collection, use, and
+evaluation to increase evidence-based knowledge that leads to better health outcomes, reduced health
+disparities, and improved social well-being, equity, and economic resilience?
+Activity Description/Research Questions: Performance measurement, portfolio analysis, and data
+dissemination to understand how the ongoing assessment of clients' demographic and associated early
+outcomes data can help HHS leaders to make data-driven decisions.
+Time Period for the Activity (estimated start and end dates): Ongoing annually
+Existing Data Sources Held by the Division: SPARS
+Existing Data from Other Sources: N/A
+New Data Collection: N/A
+Study Design or Approach: The profiles share descriptive data, frequencies and formative evaluation
+data including short term outcomes
+Anticipated Challenges and Mitigation Strategies: Delay in data collection due to COVID-19 pandemic
+Page 44 of 44

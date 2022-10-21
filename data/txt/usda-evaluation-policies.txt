@@ -1,0 +1,341 @@
+U.S. DEPARTMENT OF AGRICULTURE
+WASHINGTON, D.C. 20250
+NUMBER:
+DEPARTMENTAL REGULATION
+DR 1230-001
+SUBJECT: U.S. Department of Agriculture Evaluation
+DATE:
+Policy
+March 1, 2022
+EXPIRATION DATE:
+OPI: Office of Budget and Program Analysis
+March 1, 2027
+Section
+Page
+1. Purpose
+1
+2. Special Instructions and Cancellations
+2
+3. Scope
+2
+4. Policy
+2
+5. Roles and Responsibilities
+7
+6. Inquiries
+9
+Appendix A - Acronyms and Abbreviations
+A-1
+Appendix B - Authorities and References
+B-1
+1. PURPOSE
+a.
+The United States Department of Agriculture (USDA) is committed to using
+performance measurement, data analysis, and evaluation to achieve the most effective
+and equitable program outcomes and greater accountability. Per the Foundations for
+Evidence-Based Policymaking Act of 2018 (Public Law (P.L.) 115-435, the "Evidence
+Act"), this Departmental Regulation (DR) establishes the policy, best practices, and
+requirements for evaluations for the Department. Such best practices and requirements
+will help the Department better characterize and account for the ways resources are
+used, who benefits, and to achieve Mission Area, agency, and enterprise-level goals and
+objectives. The purpose of the policy is to give USDA employees, partners, and
+stakeholders a common framework and approach to designing, conducting, and using
+evaluations.
+b.
+USDA can strengthen accountability and ease continuous learning through its evidence-
+building activities. A key goal of this policy is to establish best practices and standards
+for evaluations that ensures performance and meaningful outcomes for all people and
+communities we must serve. Another goal is to educate USDA stakeholders on the
+benefits of using evaluation findings to measure program and project effectiveness,
+relevance, and efficiency. This includes partnering with USDA stakeholders in building
+capacity for evaluation and evidence-based framework so together we can build a
+culture and system that enables USDA to budget, plan, design programs, drive
+investments, and improve outcomes. Stronger evaluation and evidenced-based policy
+would result in better program delivery, continual process improvement, and improved
+budgetary prioritization and decisions. Strong evaluations can build knowledge and
+allow for the correction, improvement, risk management, and equitable delivery of
+programs and operational support.
+2. SPECIAL INSTRUCTIONS AND CANCELLATIONS
+a.
+All Departmental directives that reference program evaluation must follow and keep to
+the standards stated in this policy.
+b.
+Evaluation policies and procedures implemented by individual Mission Areas, agencies,
+and staff offices must follow and keep to the standards stated in this DR.
+3. SCOPE
+a.
+Mission Areas, agencies, and staff offices will conduct evaluations at the agency level.
+The Office of Budget and Program Analysis (OBPA) will act as the lead office in the
+coordination and creation of guidance, frameworks, and implementation practices for
+evaluation.
+b.
+The USDA Evaluation Policy will govern all program evaluations conducted by staff,
+external partners and contractors, and Federal award recipients who are working on the
+Department's behalf.
+c.
+This policy does not apply to evaluations of proposals, applications, quotations, or
+similar submissions that the Department has requested in relation to the award of
+contracts, grants, or cooperative agreements.
+4. POLICY
+a.
+Definition of Evaluation:
+(1) The Evidence Act defines evaluation as "an assessment using systematic data
+collection and analysis of one or more programs, policies, and organizations
+intended to assess their effectiveness and efficiency."
+(2) Evaluations may address questions on the implementation or institution of a
+program, policy, or organization.
+2
+(3) They may address questions on the effectiveness or impact of specific strategies for
+or used by a program, policy, or organization.
+(4) They may also address questions on factors of variability in the effectiveness of a
+program, policy, or organization, or their strategies.
+(5) Evaluations can also consider questions on understanding the contextual factors
+around a program and how to target specific populations or groups for an
+intervention.
+(6) Evaluations can provide important information to inform decisions about current
+and future programming, policies, and organizational operations.
+(7) Evaluations are crucial for learning and improvement purposes, as well as
+accountability purposes.
+b.
+Benefits of Evaluation:
+An evaluation allows for well-informed, objective policy decision making and improved
+programmatic implementation. Evaluations may inform and strengthen policy
+development and adoption, program implementation, and effectiveness, and they may
+build the evidence base for policy interventions. An evaluation can look beyond the
+program, policy, or organizational level. It may include the assessment of projects or
+interventions within a program, aspects of a policy, or functions within an organization.
+There are different types of evaluations, each of which address different questions.
+Office of Management and Budget (OMB) Memorandum M-20-12, Phase 4
+Implementation of the Foundations for Evidence-Based Policymaking
+Act of 2018: Program Evaluation Standards and Practices, provides the following
+definitions for specific types of evaluation:
+(1) Formative evaluation:
+Assesses whether a program, policy, or organizational approach - or some aspect of
+these - is feasible, appropriate, and acceptable before it is fully implemented. It
+may include process and outcome measures. However, unlike outcome and impact
+evaluations, which seek to answer whether the program, policy, or organization met
+its intended goals or had the intended impacts, a formative evaluation focuses on
+learning and improvement and does not aim to answer questions of overall
+effectiveness.
+(2) Process or implementation evaluation:
+Assesses how the program or service is delivered relative to its intended theory of
+change, and often includes information on content, quantity, quality, and structure
+of services provided. These evaluations can help answer the question, "Was the
+3
+program, policy, or organization implemented as intended?" or "How is the
+program, policy, or organization operating in practice?"
+(3) Outcome or effectiveness evaluation:
+Measures the extent to which a program, policy, or organization has achieved its
+intended outcome(s) and focuses on outputs and outcomes to assess effectiveness.
+An outcome evaluation can help answer the question, "Were the intended outcomes
+of the program, policy, or organization achieved?"
+(4) Economic evaluation:
+Uses methodologies that incorporate cost considerations (e.g., cost-benefit analysis,
+cost effectiveness analysis, program cost analysis) to determine what resources are
+being used in a program and how their costs compare to outcomes.
+(5) Impact evaluation:
+Assesses the causal impact of a program, policy, or organization, or aspect thereof,
+on outcomes relative to those of a counterfactual. In other words, this type of
+evaluation estimates and compares outcomes with and without the program, policy,
+or organization, or aspect thereof. Impact evaluations include both experimental
+(i.e., randomized controlled trials) and quasi-experimental designs. An impact
+evaluation can help answer the question, "Does it work, or did the intervention lead
+to the observed outcomes?"
+c.
+General Framework for Conducting an Evaluation:
+Program managers and staff can use the following steps as a framework for conducting
+an evaluation. Program managers and staff should follow these steps in order: each step
+is a foundation for the next.
+(1) When designing or changing a program, consider future data collection needs for
+evaluations. Data should be relevant and collected equitably, accurately, and
+reliably. The Department asks program managers and staff to use logic models to
+identify the expected outcomes and impact of the program and strengthen overall
+program readiness for evaluation.
+(2) Have stakeholders help inform evaluation priorities and identify data needs. Have
+program operations staff, program participants, and main evaluation users identify
+the goals, outcomes, and relevant values and standards.
+(3) Describe the program, including the need, expected effects, activities, resources,
+stages, context, and logic model.
+4
+(4) Focus the evaluation design and data needed to assess key issues while using time
+and resources efficiently. Consider the purpose, users, uses, questions, methods,
+and agreements. Evaluation design should be among the factors considered during
+programs' and projects' planning and learning processes.
+(5) Gather good evidence to inform and strengthen evaluation judgments and
+recommendations. The following parts of evidence gathering usually affect views
+on evidence acceptability: indicators, sources, quality, quantity, and processes and
+procedures.
+(6) Strengthen conclusions by linking them to the evidence gathered and judging them
+against values or standards set by the stakeholders. Support conclusions with these
+five parts: standards, analysis and synthesis, interpretation, judgment, and
+recommendations. Use and share lessons learned through design, preparation,
+feedback, follow-up, and information sharing.
+d.
+Core Evaluation Standards and Principles:
+The following standards and principles will apply to all evaluations conducted by
+Mission Areas, agencies, and staff offices, including their external partners:
+(1) Independence and Objectivity:
+Mission Areas, agencies, and staff offices will help evaluators work independently
+from programmatic, regulatory, policymaking, and stakeholder activities. Agency
+and program leadership and staff, with input from other stakeholders, should help
+set evaluation priorities, identify evaluation questions, and assess the meanings of
+findings. However, it is important to guard evaluation functions from undue
+influence and both the appearance and the reality of bias.
+To promote objectivity, Mission Areas, agencies, and staff offices will avoid
+conflicts of interest and bias during the whole evaluation process. After technical
+peer review, the USDA Evaluation Officer may approve, release, and share
+evaluation reports.
+(2) Rigor:
+Mission Areas, agencies, and staff offices commit to using advanced, thorough
+methods that are appropriate and practical within statutory, budgetary, and other
+constraints. There must be rigor in all types of evaluations. Rigor requires the
+Department to carefully form statements about cause and effect (internal validity).
+It requires the Department to be clear about the population, settings, or
+circumstances to which evaluators can generalize results (external validity). It
+requires the Department to use measures that accurately capture the desired
+information (measurement reliability and validity).
+5
+(3) Relevance:
+Evaluation priorities should consider legislative requirements and the interests and
+needs of agency and program leadership, program staff, and USDA partners, such
+as states, tribes, and grantees. The Department should design, conduct, and
+interpret evaluations fairly to include the diverse needs of USDA's customers and
+stakeholders. Mission Areas, agencies, and staff offices should also work to
+achieve diversity among the Federal staff and contractors carrying out evaluations.
+This includes urging the use of Minority- and Women-Owned Businesses and
+Disadvantaged Business Enterprises when contracting for evaluations.
+(4) Utility:
+Mission Areas, agencies, and staff offices will make sure that all evaluations are
+informative for decision making about policies, priorities, and processes across
+Mission Areas, agencies, and staff offices. This includes designing evaluation
+questions supporting the Learning Agenda and collecting data to answer these
+questions. It also includes orderly sharing the results with the public and other key
+stakeholders. The Department should time evaluations for use and present results in
+ways that are understandable and actionable. The Department should also include
+the findings in its planning, programmatic implementation, and budget processes.
+(5) Transparency:
+All stages of an evaluation - planning, implementation, and reporting - must be
+open to make sure findings are accountable and acceptable. Mission Areas,
+agencies, and staff offices will make information on evaluations and results widely
+available and accessible. This includes identifying the evaluator, releasing study
+plans, and describing the methods. Mission Areas, agencies, and staff offices will
+share the results of evaluations not focusing on internal management, legal, or
+enforcement procedures, nor generally barred from publication. Evaluation reports
+will show good, bad, and null results.
+(6) Ethics:
+Evaluations must be designed and conducted in an equitable manner and follow the
+rules on human rights, confidentiality, and privacy. The Department should design
+them to decrease the burden on research participants and the cost to taxpayers.
+Evaluations must honor the dignity, safety, and confidentiality of participants and
+respondents and guard participants and respondents from unnecessary risk.
+Evaluations should also acknowledge local cultural and social norms.
+e.
+Evaluation Practices:
+When planning evaluations, Mission Areas, agencies, and staff offices will consider the
+evaluation practices described in OMB M-20-12 Appendix C, Evaluation Practices.
+6
+They will also consider other practices for securing the quality and integrity of
+evaluations, or for following legal or other requirements.
+f.
+Collaboration with Partners:
+Mission Areas, agencies, and staff offices should work with partners when designing
+and conducting evaluations. Such partners include other agencies and staff offices, other
+Federal Agencies, colleges and universities, and other organizations. Mission Areas,
+agencies, and staff offices should consider how internal and external statistical agencies'
+analyses can support their evaluations. These partnerships can help increase staff
+capacity and end excess evaluation work.
+g.
+Implementation of the Policy:
+Mission Areas, agencies, and staff offices will consider the following implementation
+strategies from OMB M-20-12 when introducing and implementing this policy among
+USDA Mission Areas, agencies, and staff offices.
+(1) Provide training, seminars, and other educational opportunities to make sure that
+Mission Area, agency, and staff office staff are aware of the policy and its role in
+guiding evaluation activities. The Department encourages Mission Areas, agencies,
+and staff offices to invest in the training of key staff in evidence and evaluation
+through internal and external courses. Staff overseeing, conducting, and using
+evaluations should continually go through the relevant education, training, or
+supervised practice needed to learn new concepts, techniques, and skills.
+(2) Reference and require commitment to the USDA Evaluation Policy in funding
+opportunities and Federal awards to make sure that grants, contracts, and
+cooperative agreements for evaluations are conducted according to the Core
+Evaluation Standards and Principles contained in Section 4d of this policy.
+h. Definitions:
+See OMB Circular A-11, Preparation, Submission, and Execution of the Budget, OMB
+M-19-23, Phase 1 Implementation of the Foundations for Evidence-Based Policymaking
+Act of 2018: Leaming Agendas, Personnel, and Planning Guidance, and OMB M-20-12
+for a full list of relevant terms and definitions.
+5. ROLES AND RESPONSIBILITIES
+a.
+The Director, OBPA, will serve as the USDA Evaluation Officer.
+7
+b.
+The USDA Evaluation Officer will:
+(1) Execute the duties and responsibilities of the Evaluation Officer in the Evidence
+Act, OMB M-19-23, and OMB M-21-27, Evidence-based Policymaking: Learning
+Agendas and Annual Evaluation Plans;
+(2) Coordinate with relevant counterparts to systematically establish and strengthen a
+Departmentwide evidence framework;
+(3) Oversee the implementation of this policy;
+(4) Oversee the Department's evaluation activities;
+(5) Provide leadership to assess, improve, and advise on evaluation activities across
+USDA;
+(6) Work to create a culture of organizational inclusion and equitable program delivery,
+aiding the integration of performance, evidence, and risk into decision making; and
+(7) Ensure the Department's evaluation capabilities set the tone and lead the way for
+Mission Areas.
+c.
+Mission Area Assistant Evaluation Officers (AEO) will:
+(1)
+Be identified, appointed, and supported by their Mission Area Head and will hold
+decision-making powers to serve as the AEO;
+(2) Serve as the main point of contact for their Mission Area on evaluations;
+(3) Ensure the evaluation functions of their Mission Area are operational and integrated
+into planning and decision-making processes;
+(4) Coordinate monitoring and evaluation activities of their Mission Area; and
+(5) Serve as the main point of contact on the USDA's Performance, Evidence, and
+Evaluation Committee (PEEC).
+d.
+The PEEC will:
+(1) Be chaired by the USDA Evaluation Officer (or designee) and facilitated by OBPA;
+(2) Be comprised of AEOs and Mission Area, agency, and staff office evidence and
+evaluation personnel as members; and
+(3) Represent the USDA Evaluation Officer's primary points of contact with Mission
+Areas, agencies, and staff offices pertaining to evidence and evaluation matters.
+8
+6. INQUIRIES
+Direct all inquiries regarding this DR to the OBPA Operations and Performance Division at
+obpa-deputy-directors@usda.gov or 202-720-3323.
+-END-
+9
+APPENDIX A
+ACRONYMS AND ABBREVIATIONS
+AEO
+Assistant Evaluation Officer
+DR
+Departmental Regulation
+Evidence Act
+Foundations for Evidence-Based Policymaking Act of 2018
+OBPA
+Office of Budget and Program Analysis
+OMB
+Office of Management and Budget
+PEEC
+Performance, Evidence, and Evaluation Committee
+P.L.
+Public Law
+USDA
+United States Department of Agriculture
+A-1
+APPENDIX B
+AUTHORITIES AND REFERENCES
+Foundations for Evidence-Based Policymaking Act of 2018, P.L. 115-435, January 14, 2019
+OMB, Circular No. A-11, Preparation, Submission, and Execution of the Budget, August 2021
+OMB, M-19-23, Phase 1 Implementation of the Foundations for Evidence-Based Policymaking
+At of 2018: Learning Agendas, Personnel, and Planning Guidance, July 10, 2019
+OMB, M-20-12, Phase 4 Implementation of the Foundations for Evidence-Based Policymaking
+Act of 2018: Program Evaluation Standards and Practices, March 10, 2020
+OMB, M-21-27, Evidence-Based Policymaking: Learning Agendas and Annual Evaluation
+Plans, June 30, 2021
+USDA, DR 0100-001, Departmental Directives System, January 4, 2018
+B-1

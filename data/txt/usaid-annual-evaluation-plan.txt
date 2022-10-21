@@ -1,0 +1,1594 @@
+STATES
+USAID
+THE
+USAID
+TOMAL
+FROM THE AMERICAN PEOPLE
+ANNUAL EVALUATION PLAN
+FISCAL YEAR 2023
+Photo John Wambugu
+ACRONYMS
+AE O
+Agency Evaluation Officer
+AEP
+Accelerated Education Program
+CDCS
+Country Development Cooperation Strategy
+COMMIT
+Community Mobilization Initiative to End Tuberculosis
+CPS
+Bureau for Conflict Prevention and Stability
+CVP
+Conflict and Violence Prevention
+DEIA
+Diversity, Equity, Inclusion, Accessibility
+DRC
+Democratic Republic of Congo
+DQA
+Data Quality Assessment
+EA
+Evaluability Assessment
+FTF
+Feed the Future
+IGCE
+Independent Government Cost Estimate
+IR
+Intermediate Result
+LER
+Office of Learning Evaluation and Research
+M&E
+Monitoring and Evaluation
+MIYCN
+Maternal, Infant, and Young Child nutrition
+OEA
+Operational Excellence Agenda
+OU
+Operating Unit
+PAD
+Project Appraisal Document
+POC
+Point of Contact
+PPL
+Bureau for Policy, Planning, and Learning
+RISE
+Resilience in the Sahel Enhanced
+SOW
+Statements of Work
+SRLA
+Self-Reliance Learning Agenda
+SVC
+Strengthening Value Chains
+TB
+Tuberculosis
+TEC
+Technical Evaluation Committees
+USAID
+United States Agency for International Development
+USAID ANNUAL EVALUATION PLAN - FY 2023
+2 of 35
+TABLE OF CONTENTS
+I. Introduction
+4
+2. The Agency Learning Agenda (2022 - 2026)
+5
+3. Definition of USAID Significant Evaluations
+6
+4. Methodology for Identifying Significant Evaluations
+6
+5. USAID FY2023 Significant Evaluations
+7
+5.1. Performance Evaluations of Activities with a Budget of $40 Million or More
+9
+5.2. Impact Evaluations
+13
+5.3 Ex-Post Evaluations
+15
+6. Next Steps: Technical Support from the Office of Learning, Evaluation, & Research (LER)
+16
+APPENDIX I: Performance Evaluations of Activities with a Budget of $40 Million or More
+17
+APPENDIX 2: Impact Evaluations
+32
+APPENDIX 3: Ex-Post Evaluations
+35
+USAID ANNUAL EVALUATION PLAN - FY 2023
+3 of 35
+I. INTRODUCTION
+The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act) requires agencies to develop an
+Annual Evaluation Plan, which describes the "significant" evaluation activities the Agency plans to conduct in the
+fiscal year following the year in which it is submitted. Specifically, OMB Circular A-11 (2020) 290-11 states that
+"Annual Evaluation Plans offer agencies the opportunity to methodically plan and document their approach to
+evaluation and, in particular, how their intended evaluations will support those questions on the agency's learning
+agenda that are best answered by evaluation."
+USAID implements international development program interventions in Africa, Asia, Middle East, Europe and
+Eurasia, and Latin America and the Caribbean. As a result, evaluation functions at USAID are highly
+decentralized, with a central office for policy, guidance, and technical assistance. Evaluation is operationalized at
+three levels within the Agency. These are (1) Bureau for Policy, Planning, and Learning - Office of Learning
+Evaluation and Research (PPL/LER), (2) Washington Regional and Technical Bureaus, and (3) Bilateral and
+Regional Missions. The Bureau for Management (M Bureau) leads on management assessments across the
+operational platform. Given this decentralized characteristic of the Agency evaluation functions, plans for Agency
+evaluations are also decentralized, and this is reflected in the annual evaluation plan of the Agency.
+Evaluation is an assessment using systematic data collection and analysis of one or more programs, policies, and
+organizations intended to assess their effectiveness and efficiency. Evaluations conducted at USAID follow
+established standards that include rigor, transparency, independence and objectivity, relevance and utility, and
+ethics. Evaluation is an important source from which evidence is generated for decision making at USAID. As a
+result, evidence from evaluations is incorporated into all phases of the Program Cycle, including strategic
+planning for overall Country Development Cooperation Strategy (CDCS), and activity planning and design.
+Annually, USAID conducts an average of over 150 evaluations. Evaluations are conducted across a broad range of
+US Government foreign assistance program areas, including agriculture and food security; democracy, human
+rights, and governance; economic growth and trade; education; environment, energy, and infrastructure; gender
+equality and women's empowerment; global health; humanitarian assistance; innovation, technology, and
+research; and water and sanitation. Based on the USAID Evaluation policy, evaluations at USAID are carried out
+for learning and accountability.
+This annual evaluation plan provides an overview of USAID significant evaluations that will form the building
+blocks for evidence generation and use across the Agency for strategic, programmatic, operational, and
+management decision-making. It includes evaluations that USAID operating units are expected to begin or
+carried out partially or fully in FY 2023.
+I
+OMB Circular A-11 (2020) states that "The significance of an evaluation study should be defined by each agency and take into
+consideration factors such as the importance of a program or funding stream to the agency mission; the size of the program in terms of
+funding or people served; and the extent to which the study will fill an important knowledge gap regarding the program, population(s)
+served, or the issue(s) that the program was designed to address."
+USAID ANNUAL EVALUATION PLAN - FY 2023
+4 of 35
+2.THE AGENCY LEARNING AGENDA (2022 - 2026)
+The USAID Agency Learning Agenda (ALA) is an evidence building tool. It is a critical tool that will advance
+USAID's policy priorities and demonstrate effectiveness in delivering on the Agency's foreign assistance goals.
+USAID is currently updating the ALA to align with the FY2022-FY2026 USAID and Department of State Joint
+Strategic Plan and emerging USAID policy priorities. The final version of the ALA will be published in February
+2022.
+The current emerging priorities of the Agency around which the learning agenda is being developed include,
+COVID-19 climate change, strategic engagement, conflict and security, democracy and governance, and diversity,
+equity, inclusion, accessibility (DEIA). The draft Agency Learning Agenda has nine questions addressing the
+following thematic areas - (1) operational effectiveness; (2) resilience; (3) Responding to Climate Change; (4)
+anti-corruption; (5) Affirmative Development; (6) migration and forced displacement; (7) diversity, equity,
+inclusion, and accessibility; (8) locally led development; and (9) partnering for sustainability. Below are the
+learning agenda questions associated with each thematic area:
+Learning Themes
+Draft FY 2022-FY 2026 USAID Agency Learning Agenda Questions
+Operational Effectiveness
+I. How can USAID reduce unnecessary administrative burdens and better align systems,
+processes, and resources to meet long-term needs identified by Missions, while responding to
+acute shifts in global or country contexts?
+Resilience
+2. How can USAID strengthen household, community, and country resilience to climate, conflict,
+economic, and health shocks such as COVID-19 and other global pandemic threats?
+Responding to Climate
+3. How can USAID best engage global actors, partner countries, and local leaders to mitigate the
+Change
+climate crisis and support equitable adaptation to its impacts?
+Anti-Corruption
+4. How can USAID work with host countries, interagency colleagues, and other development actors to
+address systemic corruption through multisectoral approaches?
+Affirmative Development
+5. How can USAID advance an affirmative, sustainable development approach to mitigate
+authoritarian or malign influences and actions?
+Migration & Forced
+6. How can USAID better address drivers of migration and forced displacement through
+Displacement
+evidence-informed decision-making?
+Diversity, Equity, Inclusion &
+7. How can USAID programs and operations mitigate harm to underrepresented and marginalized
+Accessibility
+populations, while promoting equity and inclusion?
+Locally-led Development
+8. How can USAID more equitably engage local knowledge, assets, and practices, and align
+programming with local priorities and metrics for success?
+Partnering for Sustainability
+9. How can USAID's partnerships with the private sector; local, faith, and nontraditional partners;
+and other donors contribute to sustainable development objectives?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+5 of 35
+3. DEFINITION OF USAID SIGNIFICANT EVALUATIONS
+OMB Circular A-11 (2020) states that "the significance of an evaluation study should be defined by each agency
+and take into consideration factors such as the importance of a program or funding stream to the agency
+mission; the size of the program in terms of funding or people served; and the extent to which the study will fill
+an important knowledge gap regarding the program, population(s) served, or the issue(s) that the program was
+designed to address. Agencies should clearly state their criteria for designating evaluations as "significant" in their
+plans.
+For USAID, "significant evaluations" are defined as evaluations that contribute to answering an Agency Learning
+Agenda question, AND that are either:
+a.
+Performance evaluations of activities with a budget of $40 million or more; or
+b.
+Impact evaluations regardless of budget evaluated; or
+c.
+Ex-Post evaluations regardless of budget evaluated.
+Based on the USAID Evaluation Policy, performance evaluations encompass a broad range of evaluation methods.
+They often incorporate before-and-after comparisons, but generally lack a rigorously defined counterfactual.
+Performance Evaluations include the following types of evaluations - formative, outcome, process, or
+implementation evaluation.
+Impact Evaluations measure changes in development outcomes that are attributable to a defined intervention,
+program, policy, or organization. Impact evaluations use models of cause and effect and require a credible and
+rigorously defined counterfactual to control for factors other than the intervention that might account for
+observed changes.
+Ex-post evaluations take place after the completion of an activity. Ex-post evaluations offer a unique opportunity
+to ask key questions about the sustainability of a particular strategy, project, activity, or intervention after USAID
+has ended support.
+4. METHODOLOGY FOR IDENTIFYING SIGNIFICANT EVALUATIONS
+As already mentioned, USAID has a decentralized structure for planning, designing, and implementing
+evaluations. Using the definition above, a significant evaluation data collection tool was developed with the
+significant evaluation criteria and shared with USAID Operating Units (OUs) for them to report on significant
+evaluations planned for FY 2023. Stakeholders that were engaged in identifying the evaluations included M&E
+Points of Contacts (POCs) from USAID Washington Regional and Technical Bureaus, and M&E POCs in the
+USAID Missions and OUs. These are usually evaluations that have been identified by the OUs and included in
+their performance management plans (PMPs).
+USAID ANNUAL EVALUATION PLAN - FY 2023
+6 of 35
+5. USAID FY2023 SIGNIFICANT EVALUATIONS
+There are 33 significant evaluations of USAID activities, reported by 17 Operating Units (OUs), that are planned
+to begin, or will be carried out partially or fully in FY 2023. In terms of the regional distribution, USAID OUs in
+Africa, and Latin America and
+the Caribbean plan to conduct
+Figure I - Number of Significant Evaluations Planned by Region
+the highest number of significant
+16
+14
+evaluations in FY 2023. Figure I
+14
+shows the regional distribution
+12
+11
+of significant evaluations planned
+10
+for FY 2023.
+8
+6
+4
+Figure 2 below shows the
+4
+distribution of planned significant
+2
+2
+2
+evaluations by criteria. Based on
+0
+the significant evaluation
+Africa
+Asia
+Latin America &
+Middle
+Washington
+the Caribbean
+East
+Technical
+definition, performance
+Region
+Bureau
+evaluations of activities with a
+program budget of $40 million
+or more, and that address an Agency Learning Agenda question, were the most reported type of evaluation
+planned to be conducted by OUs in FY 2023. There is currently an effort by USAID to encourage Missions to
+consider conducting an impact evaluation, if they design an activity using an untested hypothesis. In addition, an
+Agency Notice has been published that the Agency will prefer Missions to conduct impact evaluations when
+USAID needs information on whether an intervention is achieving a specific outcome that can be attributed
+directly to a USAID intervention.
+Figure 2 - FY2023 Planned Significant Evaluations by Criteria
+In addition, PPL is also in the
+30
+28
+process of finalizing an inter-agency
+25
+agreement with General Services
+Administration Office of
+20
+Government-wide Policy, Office of
+15
+Evaluation Sciences (OES), to
+10
+provide services that require deep
+4
+5
+expertise in both statistical and
+1
+0
+quantitative methods, which USAID
+Performance Evaluations of
+Impact Evaluations
+Ex-post Evaluations
+Operating Units can easily access
+Activity $40 or >
+for conducting Impact Evaluations.
+Significant Evaluations by Criteria
+USAID ANNUAL EVALUATION PLAN - FY 2023
+7 of 35
+In terms of the program sectors, more than a third of the activities that will be evaluated are in the democracy,
+human rights, and governance sector. Figure 3 below shows the distribution of the FY 2023 significant
+evaluations across eight USAID program sectors.
+Figure 3 - FY2023 Significant Evaluations by Sector
+Agriculture and Food Security
+4
+Democracy, Human Rights, and Governance
+13
+Economic Growth and Trade
+4
+Education
+2
+Environment, Energy, and Infrastructure
+3
+Gender Equality and Women's Empowerment
+1
+Global Health
+5
+Water and Sanitation
+1
+0
+2
+4
+6
+8
+10
+12
+14
+Number of Evaluations
+As already mentioned, all significant evaluations must address an Agency Learning Agenda question. Figure 4
+below shows the number of planned evaluations by Agency Leaning Agenda question. The evaluations planned
+for FY 2023 will address seven of the nine Agency Learning Agenda questions. The most common Agency
+Learning Agenda questions that will be addressed by the evaluations in FY 2023 are the questions on resilience,
+migration and forced displacement, and operational effectiveness.
+Figure 4 - Number of FY2023 Significant Evaluations by Agency
+Learning Agenda Questions
+Local Knowledge Assets & Practices
+1
+Partnering for Sustainability
+6
+Diversity, Equity, & Inclusion
+4
+Migration & Forced Displacement
+8
+Anti-Corruption
+1
+Resilience
+7
+Operational Effectiveness
+7
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Number of Evaluations
+USAID ANNUAL EVALUATION PLAN - FY 2023
+8 of 35
+5.1. PERFORMANCE EVALUATIONS OF ACTIVITIES WITH A BUDGET OF
+$40 MILLION OR MORE
+Table I provides a list of the activities to be evaluated by region and country. Detailed descriptions for each
+evaluation can be found in Appendix I of this report. There are 28 performance evaluations planned to be
+conducted in FY2023, for activities with a program budget of $40 million more. Fourteen Operating Units (OUs)
+in Africa, Asia, Latin America and the Caribbean, Middle East and Washington, DC plan to conduct these
+evaluations. OUs in the Africa and LAC regions plan the most evaluations, with 11 performance evaluations each.
+Table I - Activities with Program Budget of $40 Million or More
+Activity to be Evaluated
+AFRICA
+USAID/Nigeria
+Integrated Health Program (IHP) Task Orders 3, 4 and 5
+USAID/South Africa
+Southern Africa Regional Human Rights Program
+Southern Africa Political Parties & Dialogue Program (SAPP&D)
+Strengthening Evidenced-based Rehabilitation for Victims of Torture in Southern Africa
+Southern Africa Energy Program (SAEP)
+Sustainable Agricultural Technology (SAT) CWC
+Resilient Waters
+Southern Africa Trade and Investment Hub
+USAID/South Sudan
+Shejjah Salaam Activity
+Advancing HIV & AIDS Epidemic Control (AHEC)
+USAID/Zambia
+DO2 midterm and final evaluations
+ASIA
+USAID/India
+South Asia Regional Energy Partnership (SAREP) Activity
+USAID/Philippines
+Philippines Health Project
+LATIN AMERICA AND THE CARIBBEAN
+USAID/Columbia
+Land for Prosperity Activity
+Inclusive Justice Activity
+USAID/EI Salvador
+Crime Prevention Activity
+USAID/Guatemala
+Integrated crime and violence prevention activity
+GBV prevention and response activity
+USAID/Honduras
+Transforming Market Systems Activity
+Justicia Efectiva Activity
+Building Climate Resilience Activity
+Strengthening Democratic Governance Activity
+USAID ANNUAL EVALUATION PLAN - FY 2023
+9 of 35
+Local governance activity
+Improving Pathways to Education Activity
+MIDDLE EAST
+USAID/Egypt
+Workforce Egypt Activity
+USAID/Jordan
+New Civil Society Activity
+USAID/Iraq
+Iraq Governance and Performance Accountability program (IGPA)
+USAIDIWASHINGTON
+DDI/LFT Hub
+Local Works Program
+5.1.1.Agency Learning Agenda Questions
+The 28 planned performance evaluations will address seven of the Agency Learning Agenda questions. Figure 5
+below shows the learning agenda questions that the performance evaluations will address, by region. The graph
+shows that 8 of the 11 performance evaluations that will be conducted in the LAC region will address the
+Agency Learning Agenda question on migration and forced displacement. The 11 planned performance evaluation
+in Africa, address a wider variety of Agency Evaluation Questions, that include partnering for sustainability,
+diversity, equity, inclusion, and accessibility; anti-corruption; and operational effectiveness.
+Figure 5 - Agency Learning Agenda Questions that Performance Evaluations Will Address by Region
+Partnering for Sustainability
+Local Assets & Practices
+Diversity, Equity, & Inclusion
+Migration & Forced Displacement
+Anti-Corruption
+Resilience
+Operational Effectiveness
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Number of Evaluations
+Africa
+Asia
+Latin America and the Caribbean
+Middle East
+Washington Technical Bureau
+USAID ANNUAL EVALUATION PLAN - FY 2023
+10 of 35
+5.1.2. Evaluation Purpose
+According to the OUs, the planned performance evaluations will be conducted for accountability, learning, and
+adaptive management. Specifically, the evaluations are expected to assess performance of activities evaluated and
+determine the extent to which results are being achieved. For most mid-term evaluations, the evaluations are
+expected to identify implementation challenges, if any, and inform corrective actions or adaptations OUs will
+have to make to improve implementation and performance outcomes.
+5.1.3. Methods and Data Needed
+All evaluations are planned to use rigorous performance evaluation methods, which are appropriate to answer
+the specific questions that each evaluation will be designed to answer. As indicated in OMB Memo M-21-27" a
+randomized controlled trial is not required for an evaluation to be rigorous, and using a method like a
+randomized controlled trial does not automatically ensure that an evaluation is conducted with the necessary
+rigor." In following OMB guidance, these evaluations will adhere to quality and widely accepted scientific
+principles across the evaluation lifecycle from planning and design, through implementation and execution, and
+the interpretation and dissemination of findings.
+In conducting these performance evaluations, OUs plan to use mixed method approaches that require both
+quantitative and qualitative data collection and analysis. OUs identified primary and secondary data collection
+methods, including literature reviews, population-based surveys, focus group discussions (FGDs), key informant
+interviews (KII), and review of performance monitoring data. These methods are expected to be defined further
+by the OUs, in FY 2023, as the planning, design, and procurement of the evaluations are finalized. At that point,
+the FY 2023 Annual Evaluation Plan will be updated to reflect the details of the evaluation methods for each
+evaluation.
+5.1.4. Challenges
+Several challenges were identified that OUs will have to overcome for the evaluations to be implemented
+successfully. The challenges for each evaluation can be found in the Appendices of this plan. Most challenges
+identified are contextual, with the potential of impeding data collection activities. The challenges are represented
+in Figure 6 below. The most common challenge that is likely to affect more than half of the planned
+performance evaluations are restrictions resulting from the COVID-19 response. The second most common
+reported were restrictions resulting from the security situation in the countries where the evaluations will be
+conducted. This was commonly reported by OUs in the LAC region.
+USAID ANNUAL EVALUATION PLAN - FY 2023
+11 of 35
+Figure 6 - Expected Challenges by Number of Evaluations
+16
+16
+14
+15
+12
+10
+8
+8
+6
+4
+4
+2
+2
+I
+0
+COVID-19
+Getting Partner
+Security
+Obtaining Host
+Identifying &
+No Challenges
+Restrictions
+Government
+Restrictions
+Government
+Scheduling
+Identified at
+Commitment
+Clearances
+Respondents
+This Time
+5.1.5 Dissemination Strategy
+Following the requirements of ADS 201.3.5.18 the reports of all completed evaluations will be submitted to the
+Development Experience Clearinghouse (DEC) within three months of final approval by USAID. In addition to
+the required DEC publication of completed evaluation reports, several OUs identified other strategies through
+which completed evaluation findings may be disseminated, for example, conducting stakeholder workshops,
+hosting learning events, and developing summaries of evaluation reports. In addition, per Agency policy, all
+quantitative data collected for each evaluation will be provided in machine-readable, non-proprietary formats as
+required by USAID's Open Data policy (see ADS 579). The data will be organized and fully documented for use
+by those not fully familiar with
+the project or the evaluation.
+Figure 7 - Types of Dissemination Strategy by Number of Evaluations
+USAID will retain ownership of
+25
+all datasets developed through
+these evaluations. Several OUs
+20
+20
+are also planning additional
+dissemination strategies that
+15
+16
+they will use to share the
+findings of the evaluations.
+10
+9
+Figure 7 shows these
+5
+strategies by the number of
+5
+evaluations for which they will
+0
+be applied. The strategies for
+Mission
+Summary
+Workshops/
+Webinars
+each evaluation can be found in
+Briefs
+Reports
+Learning Events
+the Appendices of this plan.
+Dissemination Strategy
+USAID ANNUAL EVALUATION PLAN - FY 2023
+12 of 35
+5.2. IMPACT EVALUATIONS
+The second group of significant evaluations is impact evaluations that address an Agency Learning Agenda
+question. Impact evaluations measure changes in development outcomes that are attributable to a defined
+intervention, program, policy, or organization. Impact evaluations are based on models of cause and effect and
+require a credible and rigorously defined counterfactual to control for factors other than the intervention that
+might account for observed changes. Impact evaluations can use either an experimental design or
+quasi-experimental design.
+USAID evaluation policy states that each USAID Mission and Washington OU must conduct an impact evaluation,
+if feasible, of any new, untested approach that is anticipated to be expanded in scale or scope through U.S.
+Government foreign assistance or other funding sources (i.e., a pilot intervention). However, USAID is currently
+encouraging Missions to conduct long-term impact evaluations and providing technical support to build the
+capacity of Missions to conduct these evaluations. This includes offering to review the evaluation statements of
+work and making technical input to the draft before they are finalized by the Missions. In addition, PPL is also in
+the process of finalizing an inter-agency agreement with General Services Administration Office of Government-
+wide Policy, Office of Evaluation Sciences (OES), to provide services that require deep expertise in both statistical
+and quantitative methods, that USAID Operating Units can easily access for conducting Impact Evaluations.
+There are four impact evaluations planned to be conducted in FY2023 that will address an Agency Learning
+Agenda question. The OUs that plan to conduct these evaluations include USAID/Jordan, USAID/South Sudan,
+USAID/Zambia, and the Bureau for Humanitarian Assistance (BHA) in Washington, DC. The activities to be
+evaluated are listed in Table 2, below. Details on each of these planned impact evaluations can be found in
+Appendix 2 of this plan. Two of the evaluations will be conducted by OUs in Africa, one by an OU in the Middle
+East, and one by a Washington, DC, OU. In terms of sectors the impact evaluations that will be conducted by
+BHA, USAID/South Sudan, and USAID/Zambia, are for activities implemented in the agriculture and food
+security sector, and the impact evaluation that USAID/Jordan will conduct is in the health sector.
+Table 2 - Activities to be Evaluated Using Impact Evaluation
+Operating Units
+Activities
+AFRICA
+USAID/South Sudan
+Multi-Year Emergency Food Assistance Program Statement (MYE APS) Activity
+USAID/Zambia
+Health, Ecosystems and Agriculture for Resilient, Thriving Societies (HEARTH) Activity
+MIDDLE EAST
+USAID/Jordan
+Community Health and Nutrition Activity
+WASHINGTON, DC
+BHA/Washington
+CARE SHOUHARDO III and World Vision Nobo Jatra Activity Bangladesh
+USAID ANNUAL EVALUATION PLAN - FY 2023
+13 of 35
+5.2.1.Agency Learning Agenda Question
+The impact evaluations will address three of the eight Agency Learning Agenda questions. The evaluations that
+will be conducted by USAID/Zambia, and USAID/Jordan, will each address the learning agenda question on
+resilience, "How can USAID strengthen household, community, and country resilience to climate, conflict,
+economic, and health shocks?" The impact evaluations planned by the OUs in South Sudan and BHA will
+respectively address questions on operational effectiveness and partnering for sustainability.
+5.2.2. Evaluation Purpose
+The four impact evaluations are planned for a variety of purposes. For example, USAID/South Sudan will be
+conducting the evaluation to determine the effectiveness and efficiency of the pilot Multi-Year Emergency (MYE)
+food assistance award as compared to the more traditional single-year humanitarian assistance awards. The
+impact evaluation that will be conducted by USAID/Zambia will assess the extent to which HEARTH
+interventions on wildlife management and conservation of biodiverse ecosystems improved the well-being and
+prosperity of communities that depend on them.
+5.2.3. Methods and Data Needed
+All of the evaluations are expected to use quasi-experimental impact evaluation designs. The evaluations will be
+designed and implemented by independent third-party contractors. For example, BHA expects to use a
+matched comparison group design, complemented by qualitative data on project implementation, performance,
+and sustainability.
+5.2.4. Challenges
+Like the other evaluations, OUs provided similar challenges that may affect the implementation of the impact
+evaluations. COVID-19 restrictions were identified by South Sudan and Zambia, as a likely challenge that may
+affect the evaluation. South Sudan also indicated that there could be security concerns as a challenge for field
+data collection. BHA indicated that if the evaluation is conducted during the Ramadan religious season, it will be
+a challenge, because it is a period of religious fasting and a challenging period for data collection. Jordan does not
+anticipate any challenges to conducting the evaluation. Details for each evaluation are found in the Appendix 2.
+5.2.5. Dissemination Strategy
+Following the requirements of ADS 201.3.5.18 the reports of all completed evaluations will be submitted to the
+Development Experience Clearinghouse (DEC) within three months of final approval by USAID. In addition to
+the required DEC publication of completed evaluation reports, several OUs identified other strategies through
+which completed evaluation findings may be disseminated. In addition, per Agency policy, all quantitative data
+USAID ANNUAL EVALUATION PLAN - FY 2023
+14 of 35
+collected for each evaluation will be provided in machine-readable, non-proprietary formats as required by
+USAID's Open Data policy (see ADS 579). The data will be organized and fully documented for use by those not
+fully familiar with the project or the evaluation. USAID will retain ownership of all datasets developed through
+these evaluations.
+In addition to the mandatory publication of the final report of each evaluation on the DEC, OUs also plan
+additional approaches in their dissemination strategy. In Jordan, dissemination will include mission briefs and
+summary documentation of the report. South Sudan and BHA's strategy will include hosting webinars on the
+evaluation, and Zambia's strategy will include a mission brief as well as hosting a learning event or workshop for
+implementing partners and other stakeholders. Details for each evaluation are found in the Appendix 2.
+5.3. EX-POST EVALUATIONS
+There is one ex-post significant evaluation planned to be conducted in FY 2023 on a health activity. This is the
+ex-post evaluation of Maternal and Child Survival Program in Ebonyi and Kogi States of Nigeria. The evaluation
+will address the Agency Learning Agenda question on Operational Effectiveness, which is, "How can USAID's
+partnerships with the private sector, local and nontraditional partners, and other donors contribute to
+sustainable development objectives?"
+The purpose of this evaluation is to assess the sustainability of the achievements of the program, beyond USAID
+support. The OU expects that the findings of the evaluation will inform how USAID Nigeria programs for
+sustainability, and to guide new program designs.
+The evaluation is expected to be conducted using mixed methods design, drawing on both quantitative and
+qualitative data collection and analysis methods. Specifically, the OU expects to use key informant interviews,
+focus group discussions, desk review of program reports, review of routine HMIS data during and post activity
+implementation, as some of the sources of data for the evaluation. In terms of challenges in conducting the
+evaluation, the OU indicated that COVID-19 and security challenges, may restrict the ability of evaluators to
+locate or access those who benefited from the activity during implementation.
+In addition to the mandatory publication of the completed evaluation report on the DEC, the OU dissemination
+strategy includes hosting a dissemination workshop, and production of Mission Briefs. The evaluations in this
+section will be updated when funds for Ex-Post Evaluations based on the Appropriations Act, 2021 become
+available to USAID operating units for planning and designing ex-post evaluations.
+USAID ANNUAL EVALUATION PLAN - FY 2023
+15 of 35
+6. NEXT STEPS:TECHNICAL SUPPORT FROMTHE OFFICE OF
+LEARNING, EVALUATION,AND RESEARCH (LER)
+In support of the significant evaluations identified in this Annual Evaluation Plan, the USAID Bureau for Policy,
+Planning, and Learning, Office of Learning Evaluation and Research (PPL/LER), in collaboration with M&E POCs
+and subject matter experts from other Bureaus, will provide virtual and in-person technical and advisory
+support, when appropriate, to OUs in the planning, design, procurement, execution, and dissemination of the
+results of these evaluations. This is in addition to the ongoing guidance and support that PPL/LER provides to all
+USAID OUs, including an online Evaluation Toolkit with templates and guidance, online and in-person training in
+monitoring and evaluation practices, and hosting webinars and presentations on evaluation topics.
+Depending on need and demand, LER will also provide technical support in conducting evaluability assessments
+prior to the design of some of the evaluations (e.g., ex-post evaluations). An evaluability assessment contributes
+to decisions about the feasibility of and best approaches for the evaluation.
+All significant evaluations will be USAID external evaluations. An external evaluation is one that is commissioned
+by USAID, rather than by the implementing partner, and in which the team leader is an expert external to
+USAID, who has no fiduciary relationship with the implementing partner. In this regard, LER will provide support
+in identifying appropriate contract mechanisms that may be available for Missions to procure services to conduct
+the evaluations.
+USAID ANNUAL EVALUATION PLAN - FY 2023
+16 of 35
+APPENDIX I
+PERFORMANCE EVALUATIONS OF ACTIVITIES WITH A BUDGET OF
+$40 MILLION OR MORE
+Performance Evaluations of Activities with Budget of $40 Million and Above
+AFRICA
+Evaluation # I
+Operating Unit
+USAID/Nigeria
+Name of Evaluation
+Mid-term (Process) Evaluation of Integrated Health Program (IHP) Task Orders 3, 4 and
+5
+Evaluation Purpose and
+The IHP is designed to contribute to revitalizing primary health care by helping the state
+Question
+health systems upgrade clinics and employ an integrated model for a full complement of
+high-quality round-the-clock health services in every ward. This mid-term evaluation of the
+IHP Task Orders will be implemented in Sokoto, Bauchi and Kebbi States. The findings of the
+evaluation will contribute to answering the following Agency Leaning Agenda question, how
+can USAID better align systems, processes, and resources to meet long-term needs identified
+by Missions, while enabling adaptive and timely response to crises or other major shifts in
+country contexts?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information
+Quantitative and qualitative will be collected and analyzed to evaluate the activity.
+Needed
+Methods
+Key informant interview, focus group discussions, desk review of program reports and data
+Challenges
+COVID-19 and security challenges
+Dissemination Strategy
+Publication on the DEC, Dissemination Workshops, Mission Briefs
+Evaluation # 2
+Operating Unit
+USAID/Southern Africa
+Name of Evaluation
+Evaluation of Southern Africa Regional Human Rights Program
+Evaluation Purpose and
+The program aims to improve the recognition, awareness, and enforcement of human rights in
+Question
+the southern Africa region, with a cross-cutting emphasis on protecting the region's most
+vulnerable and marginalized groups, including indigenous peoples, women, and youth. The
+evaluation will assess the project's performance to date with respect to its objectives and
+recommend any changes to improve project performance. The findings of the evaluation will
+contribute to answering the Agency Learning Agenda question, how can USAID programs and
+operations mitigate harm to underrepresented and marginalized populations, while promoting
+equity and inclusion?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+17 of 35
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination Strategy
+Evaluation will be published on the DEC, webinars, summary of findings for targeted audiences.
+Evaluation # 3
+Operating Unit
+USAID/Southern Africa
+Name of Evaluation
+Evaluation of Southern Africa Political Parties & Dialogue Program (SAPP&D)
+Evaluation Purpose and
+The SAPP&D Program seeks to strengthen the democratic structures and institutions of
+Question
+political parties in Angola, Botswana, Eswatini, Lesotho, Malawi, and Zambia to better respond
+to and represent the needs of society, particularly in the areas of water and energy resource
+management. The evaluation will assess the project's performance to date with respect to
+its
+objectives and recommend any changes to improve project performance. Findings from the
+evaluation will contribute to answering the Agency Learning Agenda question, How can
+USAID work with host countries, Interagency colleagues, and other development actors to
+address systemic corruption through multisectoral approaches?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data will be collected.
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions
+Dissemination Strategy
+DEC, webinar, summary of findings
+Evaluation # 4
+Operating Unit
+USAID/Southern Africa
+Name of Evaluation
+Evaluation of Strengthening Evidenced-based Rehabilitation for Victims of Torture in Southern
+Africa
+Evaluation Purpose and
+The program seeks to strengthen the provision of effective, quality and context responsive
+Question
+treatment and rehabilitation services to individuals, families, groups, and communities that
+suffer from a variety of psychosocial effects of torture in Africa with a specific focus on
+Southern Africa. The evaluation will assess the performance to date with respect to its
+objectives and recommend any changes to improve project performance. The evaluation
+findings will contribute answering the Agency Learning Agenda question, how can USAID
+programs and operations mitigate harm to underrepresented and marginalized populations,
+while promoting equity and inclusion?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+18 of 35
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data will be collected.
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination Strategy
+Publish on the DEC, webinar, summary of findings
+Evaluation # 5
+Operating Unit
+USAID/Southern Africa
+Name of Evaluation
+Southern Africa Energy Program (SAEP) Midterm Evaluation
+Evaluation Purpose and
+The USAID Southern Africa Energy Program (SAEP), a Power Africa initiative, works to
+Question
+advance energy policy and regulatory reform and accelerate investment to increase power
+generation and access to electricity throughout the region. The evaluation will assess
+performance to date with respect to the objectives and recommend any changes to improve
+project performance. The evaluation findings will contribute towards answering the Agency
+Learning Agenda question, how can USAID's partnerships with the private sector, local and
+nontraditional partners, and other donors contribute to sustainable development objectives?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data will be collected.
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination Strategy
+Publish on the DEC, webinar, and produce summary of evaluation findings
+Evaluation # 6
+Operating Unit
+USAID/Southern Africa
+Name of Evaluation
+Sustainable Agricultural Technology (SAT) CWC Midterm Review
+Evaluation Purpose and
+The evaluation will assess the project's performance to date with respect to its objectives and
+Questions
+recommend any changes to improve project performance. The findings from this evaluation
+will contribute to answering the Agency Learning Agenda question, how can USAID's
+partnerships with the private sector, local and nontraditional partners, and other donors
+contribute to sustainable development objectives?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data will be collected
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+USAID ANNUAL EVALUATION PLAN - FY 2023
+19 of 35
+Dissemination Strategy
+Publish on the DEC, webinar, and produce a summary of evaluation findings
+Evaluation # 7
+Operating Unit
+USAID/Southern Africa
+Name of Evaluation
+Resilient Waters Midterm/End of Project Evaluation
+Evaluation Purpose and
+The goal of USAID/Southern Africa's Resilient Waters Program is to build more resilient and
+Question
+water-secure southern African communities and ecosystems through improved management of
+transboundary natural resources and increased access to safe drinking water and sanitation
+services. The evaluation will assess performance with respect to the project objectives and
+recommend any changes to improve performance. The evaluation findings will contribute to
+answering the Agency Learning Agenda question, how can USAID strengthen household,
+community, and country resilience to climate, conflict, economic, and health shocks, such as
+COVID-19 and other global pandemic threats?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data will be collected
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination Strategy
+Publish on the DEC, webinar, and produce a summary of evaluation findings
+Evaluation # 8
+Operating Unit
+USAID/Southern Africa
+Name of Evaluation
+Evaluation of Trade and Investment Hub activity
+Evaluation Purpose and
+The USAID Southern Africa Trade and Investment Hub (USAID TradeHub) engages with
+Question
+partners across the region to increase sustainable economic growth, global export
+competitiveness, and trade in targeted Southern African countries. The USAID Trade Hub
+works with market actors to identify and resolve enterprise constraints and implement
+sustainable solutions through market-based trade and investment facilitation services. The
+evaluation will assess the Trade Hub performance to date with respect to its objectives and
+recommend any changes to improve project performance. The findings will contribute to
+answering the Agency Learning Agenda question, how can USAID's partnerships with the
+private sector, local and nontraditional partners, and other donors contribute to sustainable
+development objectives?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data will be collected.
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+USAID ANNUAL EVALUATION PLAN - FY 2023
+20 of 35
+Dissemination Strategy
+Publish on the DEC, webinar, and produce a summary of evaluation findings
+Evaluation # 9
+Operating Unit
+USAID/South Sudan
+Name of Evaluation
+Midterm performance evaluation - Peacebuilding and strengthening of Civil Society
+Organizations (CSOs) - Shejeh Salam
+Evaluation Purpose
+The Peacebuilding and strengthening of Civil Society Organizations (CSOs) activity, also
+known as Shejeh Salam uses small grant and rapid response activities to provide critical and
+urgent resources and support to a range of South Sudanese local actors impacted by the
+country's decades of conflict. This support helps local actors to advocate for peaceful
+solutions and advance communal dialogue within and among fractured communities. The
+evaluation will assess the project's performance to date with respect to its objectives and
+recommend any changes to improve project performance. Findings from the evaluation will
+contribute to answering the Agency Agenda Learning question, how can USAID strengthen
+household, community, and country resilience to climate, conflict, economic, and health
+shocks, such as COVID-19 and other global pandemic threats?
+Specific evaluation questions will be developed by the Mission when the evaluation is
+designed.
+Data/Information Needed
+Quantitative and qualitative data will be collected.
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination Strategy
+Publish on the DEC, webinar, and produce a summary of evaluation findings
+Evaluation # 10
+Operating Unit
+USAID/South Sudan
+Name of Evaluation
+Evaluation of the Advancing HIV & AIDS Epidemic Control (AHEC) activity
+Evaluation Purpose and
+The purpose of the USAID/Advancing HIV & AIDS Epidemic Control (AHEC) Activity is to
+Question
+decrease morbidity and mortality among South Sudanese by increasing prevention, care,
+treatment, and retention services for at-risk men, women, children, and key populations
+(KPs); and to improve South Sudan's journey to self-reliance by strengthening the capacity of
+local partners to prepare them for the receipt of future prime funding. The evaluation will
+determine the effect of services provided in controlling HIV Pandemic and reducing the HIV
+incidence among adolescent girls and young women (AGYW) and key populations (KP). The
+findings of the evaluation will contribute to answering the Agency Learning Agenda question,
+how can USAID strengthen household, community, and country resilience to climate,
+conflict, economic, and health shocks, such as COVID-19 and other global pandemic threats?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+21 of 35
+Specific evaluation questions will be developed by the Mission when the evaluation is
+designed.
+Data/Information Needed
+Quantitative and qualitative data will be needed
+Methods
+Desk review, qualitative and quantitative data collection and analysis methods
+Challenges
+COVID-19 travel restrictions, conflict, extreme climatic conditions impeding access to activity
+locations for data collection
+Dissemination Strategy
+Publication on the DEC, webinar, and summary of evaluation findings for targeted audience
+Evaluation # 11
+Operating Unit
+USAID/Zambia
+Name of Evaluation
+Midterm and final evaluations of Development Objective 2 - Rural Poverty Reduced through
+Enterprise-Driven Inclusive Economic Growth
+Evaluation Purpose and
+USAID/Zambia Development Objective 2 hypothesize that, If the enabling environment is
+Question
+improved to reduce barriers to private sector investment in rural areas, strengthen rural
+enterprise capacity to invest, and establish incentives for sustainable natural resource
+management, this will create broad-based economic growth that transforms rural areas, pulling
+people out of poverty and boosting their self-reliance. The evaluations will be conducted to
+determine the outcomes and changes in the indicators outlined in the Performance
+Management Plan (PMP) for DO2. The findings from the evaluations will contribute to
+answering the Agency Learning Agenda question, how can USAID better align systems,
+processes, and resources to meet long-term needs identified by Missions, while enabling
+adaptive and timely response to crises or other major shifts in country contexts?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and qualitative data will be needed
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination Strategy
+Publication on the DEC, webinar, and summary of evaluation findings for targeted audience
+ASIA
+Evaluation # 12
+Operating Unit
+USAID/India
+Name of Evaluation
+South Asia Regional Energy Partnership (SAREP) Activity- Mid-term Performance Evaluation
+Evaluation Purpose
+The USAID South Asia Regional Energy Partnership (SAREP) will improve access to
+affordable, secure, reliable, and sustainable energy in six countries-Bangladesh, Bhutan,
+India, Maldives, Nepal, and Sri Lanka-strengthening systems and processes in line with
+these countries' economic and energy-security priorities. This program serves as the
+USAID ANNUAL EVALUATION PLAN - FY 2023
+22 of 35
+linchpin of the US Government's Indo-Pacific) Vision and will facilitate collaboration among
+its six countries of operation to accelerate the transition to clean energy, mitigate climate
+change, and promote energy security, economic development, self-reliance, livelihoods,
+health, and productivity throughout the region. The purpose of this mid-term evaluation is
+to assess the activity's performance and progress towards achieving its key objectives; and
+to identify any challenges and formulate appropriate recommendations for corrective
+actions and effective implementation during the remaining years of the activity and for
+future activities. The findings from the evaluation will contribute to answering the Agency
+Learning Agenda question, how can USAID better align systems, processes, and resources
+to meet long-term needs identified by Missions, while enabling adaptive and timely response
+to crises or other major shifts in country contexts?
+Specific evaluation questions will be developed by the Mission when the evaluation is
+designed.
+Data/Information Needed
+Quantitative and qualitative data will be needed
+Methods
+Desk review, mixed methods (qualitative and quantitative data collections methods), key
+informant interviews with stakeholders, focus group discussion (FDG) and secondary data
+analysis.
+Challenges
+It may be challenging to get the participation of stakeholders in the South Asian countries,
+because it is a regional program implemented from India
+Dissemination Strategy
+Dissemination workshop, publication on the DEC, Mission brief, Learning Events
+Evaluation # 13
+Operating Unit
+USAID/Philippines
+Name of Evaluation
+USAID/Philippines Health Project End-term Performance Evaluation
+Evaluation Purpose and
+USAID/Philippines health assistance enhances the capacity of the Philippines Department of
+Question
+Health, local governments (provinces, municipalities and cities) and the private sector to
+provide quality health services. USAID-supported programs are designed to strengthen health
+systems while increasing the demand for and access to family planning and maternal and child
+health services and TB prevention, treatment and control. The evaluation will: assess the
+Health Project performance with respect to its purpose and sub-purposes; determine factors
+that contribute to or hinder the achievement of health outcomes and high-level program
+indicators; and Identify packages of health program interventions and proven innovative
+solutions that may be recommended for replication and scaling up, taking into consideration
+the factors required for the interventions to work optimally. The evaluation will contribute
+towards answering the Agency Learning Agenda question, how can USAID better align
+systems, processes, and resources to meet long-term needs identified by Missions, while
+enabling adaptive and timely response to crises or other major shifts in country contexts?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+USAID ANNUAL EVALUATION PLAN - FY 2023
+23 of 35
+Data/Information Needed
+Quantitative and qualitative data will be needed
+Methods
+Desk review, Qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination Strategy
+Dissemination workshop, DEC, Mission brief, Health Learning Event, joint program reviews
+with key host government partners and other stakeholders
+LATIN AMERICA AND THE CARIBBEAN
+Evaluation # 14
+Operating Unit
+USAID/Colombia
+Name of Evaluation
+Evaluation of the Land for Prosperity activity
+Evaluation Purpose and
+USAID's Land for Prosperity Activity (LPA) works with the Government of Colombia (GOC)
+Question
+to foster rural economic development. Rural economic development in Colombia has been
+hindered by a lack of citizen and government clarity about land tenure and property rights.
+The perpetuation of informal land rights also inhibits economic growth, encourages illicit
+economies and activities, and facilitates illegal land appropriation. LPA seeks to address
+challenges stemming from informal land rights through land titling programs, strengthening
+government capacities to manage land, and creating legal economic opportunities for rural
+community members. The evaluation will be conducted for accountability, learning, and
+adaptive management. The findings from the evaluation will contribute to answering the
+Agency Learning Agenda question, how can USAID strengthen household, community, and
+country resilience to climate, conflict, economic, and health shocks?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed
+Data/Information Needed
+Quantitative and Qualitative data will be collected.
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security, and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+Evaluation # 15
+Operating Unit
+USAID/Colombia
+Name of Evaluation
+Performance evaluation of the Inclusive Justice activity
+Evaluation Purpose and
+The Inclusive Justice Activity aims to increase the confidence of the Colombian people in the
+Question
+justice sector through reducing levels of impunity, increasing access to quality justice, and
+promoting respect for the rule of law. The evaluation will be conducted for accountability,
+learning, and adaptive management. The findings will contribute towards answering the Agency
+Learning Agenda question, how can USAID programs and operations mitigate harm to
+underrepresented and marginalized populations, while promoting equity and inclusion?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+24 of 35
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security, and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+Evaluation # 16
+Operating Unit
+USAID/EI Salvador
+Name of Evaluation
+Mid-Term Evaluation of Crime Prevention activity
+Evaluation Purpose and
+The U.S. Agency for International Development-funded El Salvador Violence and Crime
+Question
+Prevention Project is addressing this troubling situation by improving the ability of
+communities, municipalities and national institutions to address violent crime. The evaluation
+will be conducted for accountability, learning, and adaptive management. Findings from the
+evaluation will contribute towards answering the Agency Learning Agenda question, how can
+USAID better enable the use of data and evidence to address drivers of migration and forced
+displacement? Specific questions for the evaluation will be developed when the evaluation is
+designed.
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative data will be collected
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s), evaluation summary
+Evaluation # 17
+Operating Unit
+USAID/Guatemala
+Name of Evaluation
+Performance evaluation of new Integrated Crime and Violence Prevention Project
+Evaluation Purpose and
+The project's goals are to support community-based violence prevention projects; strengthen
+Question
+and mobilize municipal and national stakeholders and resources to develop and implement
+municipal-level violence and migration prevention plans; promote the involvement of the
+private sector (local, national, and/or international) in violence migration and prevention
+activities; and support secondary violence prevention projects in close coordination with
+municipal and local authorities. The evaluation will be conducted for accountability, learning,
+and adaptive management. The findings from the evaluation will contribute to answering the
+Agency Learning Agenda question, how can USAID better enable the use of data and evidence
+to address drivers of migration and forced displacement?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+25 of 35
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative data will be collected
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+Evaluation # 18
+Operating Unit
+USAID/Guatemala
+Name of Evaluation
+Performance evaluation of new instrument for the Prevention and response to gender-based
+violence
+Evaluation Purpose and
+This is a new activity that will be designed to address the key underlying causes of
+Question
+gender-based violence (GBV) in Guatemala. The evaluation will be conducted for
+accountability, learning, and adaptive management. The findings of the evaluation will
+contribute to answering the Agency Learning Agenda question, how can USAID better address
+drivers of migration and forced displacement through evidence-informed decision-making?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative data will be collected
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s), evaluation summary
+Evaluation # 19
+Operating Unit
+USAID/Honduras
+Name of Evaluation
+Final evaluation of Transforming Market Systems activity
+Evaluation Purpose
+The Transforming Market Systems Activity (TMS) will work with the government, civil society,
+and the private sector in Honduras to facilitate systemic change in Honduran market systems
+that grow demand for products, create self-employment, generate new jobs and economic
+opportunities for USAID beneficiaries at a scale, depth, and geographic concentration to
+create transformational change in local economies. It will also address the root causes of illegal
+migration and contribute to a more prosperous, secure, and inclusive Honduras. The
+evaluation will be conducted for accountability, learning, and adaptive management. The
+evaluation will contribute to answering the Agency Learning Agenda question, how can USAID
+better enable the use of data and evidence to address drivers of migration and forced
+displacement?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+26 of 35
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative will be collected as part of the evaluation process.
+Methods
+The activity and evaluation not yet procured. Methods to be determined later.
+Challenges
+Challenges are expected with security and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+Evaluation # 20
+Operating Unit
+USAID/Honduras
+Name of Evaluation
+Performance evaluation of New Justice Activity (Justicia Efectiva)
+Evaluation Purpose
+The activity will aim to strengthen the Honduran criminal justice and security system to be
+more sustainably effective, transparent, accessible, and equitable. USAID/Honduras seeks to
+reduce impunity, mitigating widespread criminal activity, and corruption, which are drivers of
+illegal immigration. The evaluation will be conducted for accountability, learning, and adaptive
+management. The evaluation will contribute to answering the Agency Learning Agenda
+question, how can USAID better address drivers of migration and forced displacement through
+evidence-informed decision-making?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative will be collected during the evaluation
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s), evaluation summary
+Evaluation # 21
+Operating Unit
+USAID/Honduras
+Name of Evaluation
+Performance evaluation of Building Climate Resilience
+Evaluation Purpose and
+The purpose of USAID/Honduras's Building Climate Resilience (BCR) is to strengthen the
+Question
+capacity of Honduran systems to withstand and respond to climate variability and change,
+thereby helping address underlying factors that contribute to irregular migration. The
+evaluation will be conducted for accountability, learning, and adaptive management. The results
+of the evaluation will contribute to answering the Agency Learning Agenda question, how can
+USAID better address drivers of migration and forced displacement through
+evidence-informed decision-making?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative will be collected during the evaluation
+USAID ANNUAL EVALUATION PLAN - FY 2023
+27 of 35
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+Evaluation # 22
+Operating Unit
+USAID/Honduras
+Name of Evaluation
+Performance evaluation of Strengthening Democratic Governance
+Evaluation Purpose
+USAID strengthens democratic institutions, rule of law, and citizen participation in local and
+national government; broadens the participation of traditionally marginalized groups in all
+programs; and reinforces support for democracy and civilian rule. .Activities support good
+governance, anti-corruption, and civil society at the local and national levels. The evaluation
+will be conducted for accountability, learning, and adaptive management. The results of the
+evaluation will contribute to answering the Agency Learning Agenda question, how can USAID
+better enable the use of data and evidence to address drivers of migration and forced
+displacement?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative will be collected during the evaluation
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+Evaluation # 23
+Operating Unit
+USAID/Honduras
+Name of Evaluation
+Performance evaluation of Local Governance activity
+Evaluation Purpose and
+The local governance activity will engage multiple governance stakeholders, including municipal
+Question
+and state agencies, mayors, city council members, civil society organizations, and national-level
+institutions, to develop better service delivery policies. The evaluation will be conducted for
+accountability, learning, and adaptive management. The results of the evaluation will contribute
+to answering the Agency Learning Agenda question, how can USAID better address drivers of
+migration and forced displacement through evidence-informed decision-making?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative will be collected during the evaluation
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security and partner government commitment
+USAID ANNUAL EVALUATION PLAN - FY 2023
+28 of 35
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+Evaluation # 24
+Operating Unit
+USAID/Honduras
+Name of Evaluation
+Performance evaluation of Improving Pathways to Education Activity
+Evaluation Purpose and
+The U.S Agency for International Development in Honduras is planning an Improving Pathway
+Question
+to Education (IPE) Activity to increase access to safe, relevant, and quality basic education for
+children and youth, particularly the most marginalized in communities with high violence and
+outmigration targeted by USAID. The evaluation will be conducted for accountability, learning,
+and adaptive management. The results of the evaluation will contribute to answering the
+Agency Learning Agenda question, how can USAID better address drivers of migration and
+forced displacement through evidence-informed decision-making?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Quantitative and Qualitative will be collected during the evaluation
+Methods
+The activity and evaluation not yet procured. Methods to be determined
+Challenges
+Challenges are expected with security, and partner government commitment
+Dissemination Strategy
+Publication on the DEC, evaluator presentation(s) evaluation summary
+MIDDLE EAST
+Evaluation # 25
+Operating Unit
+USAID/Egypt
+Name of Evaluation
+Mid-term Evaluation of Workforce Egypt Activity
+Evaluation Purpose and
+USAID is collaborating with the Ministry of Education and Technical Education to improve
+Question
+technical secondary education to meet the needs of the job market, benefiting vocational
+school students and teachers as well as the private sector. The Workforce Improvement and
+Skill Enhancement activity establishes partnerships between businesses and technical schools to
+understand skills needed for employment and to link students with jobs. The purpose of this
+mid-term evaluation is to assess the activity's performance and progress towards achieving its
+key objectives; and to identify any challenges incurred by the activity to date and formulate
+appropriate recommendations for corrective actions and effective implementation during the
+remaining years of the activity and for future activities. The results of the evaluation will
+contribute to answering the Agency Learning Agenda question, how can USAID's partnerships
+with the private sector, local and nontraditional partners, and other donors contribute to
+sustainable development objectives?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+USAID ANNUAL EVALUATION PLAN - FY 2023
+29 of 35
+Data/Information Needed
+Thorough understanding and documentation of the community approach and interviews with
+community volunteers.
+Methods
+Combined qualitative and quantitative data collection and analyses methods to appropriately
+answer the evaluation questions. Data collection tools may include Desk Review, Key
+Informant Interviews, and Focus Group discussions with beneficiaries and other counterparts
+and stakeholders.
+Challenges
+I) Obtaining approvals from the host Government to conduct fieldwork, and to be able to
+start data collection. 2) Scheduling interviews with key informants, because of COVID
+restrictions, OR it will be conducted virtually.
+Dissemination Strategy
+Strategy will include publication of the final report on USAID's Development Experience
+Clearinghouse (DEC); development of a 2-page summary of the evaluation report; preparation
+of the evaluation post-action plan; and integration of endorsed recommendations in the Mission
+portfolio review.
+Evaluation # 26
+Operating Unit
+USAID/Jordan
+Name of Evaluation
+Mid-term evaluation of the Strengthening Civil Society System (Sawt) Activity
+Evaluation Purpose and
+The USAID/Jordan Sawt "Voice" activity aims to position Jordanian civil society to effectively
+Question
+represent and advocate on behalf of citizen-driven interests, while leveraging the use of digital
+media to enhance civic knowledge and discourse. The purpose of this mid-term evaluation is
+to assess the activity's performance and progress towards achieving its key objectives; and to
+identify any challenges incurred by the activity to date and formulate appropriate
+recommendations for corrective actions and effective implementation during the remaining
+years of the activity and for future activities. The results of the evaluation will contribute to
+answering the Agency Learning Agenda question, how can USAID's partnerships with the
+private sector, local and nontraditional partners, and other donors contribute to sustainable
+development objectives?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Thorough understanding and documentation of the community approach, lessons learnt,
+effectiveness and efficiency, sustainability.
+Methods
+Desk review
+Qualitative and quantitative data collection and analysis methods
+Challenges
+None currently
+Dissemination Strategy
+Strategy will include publication of the final report on USAID's Development Experience
+Clearinghouse (DEC); development of a 2-page summary of the evaluation report; preparation
+of the evaluation post-action plan; presentation at annual international climate conference; and
+integration of endorsed recommendations in the Mission portfolio review.
+USAID ANNUAL EVALUATION PLAN - FY 2023
+30 of 35
+Evaluation # 27
+Operating Unit
+USAID/Iraq
+Name of Evaluation
+Final Performance Evaluation of the Iraq Governance and Performance Accountability program
+(IGPA)
+Evaluation Purpose and
+USAID's Iraq Governance Performance and Accountability (IGPA) activity supports the
+Question
+Government of Iraq's efforts to combat corruption by strengthening public financial
+management and tangibly improving the delivery of essential services through locally-led
+reform initiatives. IGPA seeks to establish a collaborative process between the central and
+provincial governments and integrate civil society actors into this process to ensure greater
+accountability, transparency, and citizen buy-in by providing support in four key areas. The
+evaluation will be designed to determine the efficiency and effectiveness of the IGPA program
+to inform future program design. The results will contribute to answering the Agency Learning
+Agenda question, how can USAID better align systems, processes, and resources to meet
+long-term needs identified by Missions, while enabling adaptive and timely response to crises
+or other major shifts in country contexts?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Both qualitative and quantitative data will be collected and analyzed to determine the extent to
+which the activity achieved its outcomes
+Methods
+Data collection methods will include desk review, mixed methods (qualitative and quantitative
+data collections methods), Key Informant Interviews (KII), focus group discussions (FDG) and
+possible population-based survey
+Challenges
+None currently
+Dissemination Strategy
+Publication of final report in the Development Experience Clearinghouse (DEC), preparation of
+an executive summary for distribution among targeted audiences
+USAID WASHINGTON
+Evaluation # 28
+Operating Unit
+USAID/DDI/LFT Hub (Washington)
+Name of Evaluation
+Local Works Whole of Program Mid-Term Evaluation
+Evaluation Purpose and
+Local Works is the Agency's flagship locally led development program. Local Works looks to
+Question
+advance locally led development in countries around the world, while also enhancing USAID's
+ability to support local actors. Whole of program mid-term evaluation of the Local Works
+program will assess progress towards the legislative intent of the program. The results of the
+evaluation will contribute towards answering the Agency Learning Agenda question, how can
+USAID more equitably engage local knowledge, assets, and practices, and align programming
+with local priorities and metrics for success?
+USAID ANNUAL EVALUATION PLAN - FY 2023
+31 of 35
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information Needed
+Key informant interviews with Mission and implementing partner staff, members of local
+communities and other relevant stakeholders participating in the Local Works Program to
+assess progress towards the legislative intent of the program
+Methods
+Qualitative and quantitative methods: desk review of relevant performance monitoring data
+and quarterly/annual reports; key informant interviews; focus group discussions as relevant
+Challenges
+The Local Works Program is a decentralized program driven by Missions and operates in 32
+Missions worldwide. Missions are responsible for all monitoring, evaluation, and learning of
+their activities. As a result, the Local Works Program staff will need to determine a
+purposeful sampling method. This anticipated mid-term whole of program evaluation will not
+be a good candidate for a RCT.
+Dissemination Strategy
+DEC; summary of findings; other dissemination approaches TBD in coordination with
+localization leadership committee and working group
+APPENDIX 2
+IMPACT EVALUATIONS
+Impact Evaluations
+AFRICA
+Evaluation # I
+Operating Unit
+USAID/South Sudan
+Name of Evaluation
+Impact Evaluation - Multi-Year Emergency Food Assistance Program Statement (MYE APS)
+(December 2022 - June 2023)
+Evaluation Purpose
+The Multi-Year Emergency Food Assistance aim at reducing vulnerability to food insecurity and the
+and Question
+concomitant need for humanitarian assistance, even in a context of ongoing insecurity and/or
+returns. The impact evaluation will assess the effectiveness and efficiency of the pilot MYE award as
+compared to the more traditional single-year humanitarian assistance awards. The results from the
+evaluation will contribute to answering the Agency Learning Agenda question, how can USAID
+better align systems, processes, and resources to meet long-term needs identified by Missions,
+while enabling adaptive and timely response to crises or other major shifts in country contexts?
+The specific impact questions will be developed by the Mission, when the evaluation is designed.
+Data/Information
+Quantitative and qualitative data will be needed
+Needed
+USAID ANNUAL EVALUATION PLAN - FY 2023
+32 of 35
+Methods
+Desk review, qualitative and quantitative data collection and analysis methods
+Challenges
+COVID-19 restrictions, Conflict, extreme climatic conditions impeding access to activity locations
+Dissemination
+Publication on the DEC, webinar, summary of findings for targeted audience
+Strategy
+Evaluation # 2
+Operating Unit
+USAID/Zambia
+Name of Evaluation
+Impact Evaluation - Health, Ecosystems and Agriculture for Resilient, Thriving Societies (HEARTH)
+Evaluation Purpose
+The U.S. Agency for International Development HEARTH opportunity engages private sector
+and Question
+partners to co-design integrated sustainable development activities that conserve high biodiversity
+landscapes and improve the well-being and prosperity of communities that depend on these
+landscapes. The purpose of this evaluation is to assess the extent to which HEARTH interventions
+on wildlife management and conservation of biodiverse ecosystems improved the well-being and
+prosperity of communities that depend on them. The results of the evaluation will contribute to
+answering the Agency Learning Agenda question, how can USAID strengthen household,
+community, and country resilience to climate, conflict, economic, and health shocks, such as
+COVID-19 and other global pandemic threats?
+Specific impact evaluation questions will be developed by the Mission when the evaluation is
+designed.
+Data/Information
+Quantitative and qualitative data will be needed
+Needed
+Methods
+Desk review, qualitative and quantitative data collection and analysis methods
+Challenges
+COVID 19 travel restrictions may affect data collection
+Dissemination
+Dissemination workshop, DEC, Mission brief, Economic Growth Learning Event
+Strategy
+MIDDLE EAST
+Evaluation #3
+Operating Unit
+USAID/Jordan
+Name of Evaluation
+Impact evaluation of the Community Health Nutrition (CHN) activity
+Evaluation Purpose
+The USAID Jordan Community Health and Nutrition (CHN) activity works to improve community
+and Question
+outreach channels to achieve better child and maternal health outcomes. The project accelerates
+maternal, child and family health outcomes using a systems approach that engages and empowers
+communities as champions of their own health. The Nutrition Innovation Lab (NIL) award is an
+activity for the purpose of conducting an impact evaluation and a research agenda for the CHN
+USAID ANNUAL EVALUATION PLAN - FY 2023
+33 of 35
+activity. The impact evaluation of CHN, by NIL, will run parallel with CHN implementation of its key
+interventions. The results of the evaluation will contribute to answering the Agency Learning Agenda
+question, how can USAID strengthen household, community, and country resilience to climate,
+conflict, economic, and health shocks, such as COVID-19 and other global pandemic threats?
+The specific impact questions will be developed by the Mission, when the evaluation is designed.
+Data/Information
+Quantitative and qualitative data for a thorough understanding and documentation of the impact of
+Needed
+the activity.
+Methods
+Quasi experimental design. Desk review, qualitative and quantitative data collection and analysis metho
+Challenges
+None currently
+Dissemination
+Strategy will include publication of the final report on USAID's Development Experience
+Strategy
+Clearinghouse (DEC); development of a 2-page summary of the evaluation report; preparation of
+the evaluation post-action plan; presentation at annual international climate conference; and
+integration of endorsed recommendations in the Mission portfolio review
+USAID WASHINGTON
+Evaluation # 4
+Operating Unit
+USAID/Bureau for Humanitarian Assistance
+Name of Evaluation
+Bangladesh Development Food Security Activities extension final evaluation
+Evaluation Purpose
+This is the second of three phases of the evaluation. In Phase 2 the purpose is: Evaluate the
+performance of SHOUHARDO III, and Nobo Jatra; assess the sustainability of the outcomes and
+the input and service provisioning systems necessary to sustain the outcomes. The results of the
+evaluation will contribute to answering the Agency Learning Agenda question, how can USAID's
+partnerships with the private sector, local and nontraditional partners, and other donors contribute
+to sustainable development objectives?
+The specific impact questions will be developed by the Mission, when the evaluation is designed.
+Data/Information
+Quantitative and qualitative data
+Needed
+Methods
+Mixed methods, rigorous impact evaluation using a matched comparison group design, complemented
+by qualitative data on project implementation, performance, and sustainability
+Challenges
+Rainy season may impede travel, and Ramadan period of religious fasting may make data collection
+challenging
+Dissemination
+Publication on the DEC, webinar, summary of findings for targeted audience
+Strategy
+USAID ANNUAL EVALUATION PLAN - FY 2023
+34 of 35
+APPENDIX 3
+EX-POST EVALUATIONS
+Ex Post Evaluations
+Evaluation #I
+Operating Unit
+USAID/Nigeria
+Name of Evaluation
+Ex-post evaluation of Maternal and Child Survival Program in Ebonyi and Kogi States of Nigeria
+Evaluation Purpose and
+MCSP-MNH closed out over 2 years ago. This evaluation is intended to assess the sustainability
+Question
+of the achievements of the program beyond USAID support. Findings will inform how USAID
+Nigeria new program designs for sustainability. The evaluation findings will contribute to
+answering the Agency Learning Agenda question, how can USAID's partnerships with the private
+sector, local and nontraditional partners, and other donors contribute to sustainable
+development objectives?
+Specific evaluation questions will be developed by the Mission when the evaluation is designed.
+Data/Information
+Quantitative and qualitative
+Needed
+Methods
+Key informant interview, focus group discussions, desk review of program reports, review of routine
+HMIS data during and post activity implementation
+Challenges
+COVID-19 restrictions, security challenges, ability to locate/access beneficiaries of the activity
+Dissemination Strategy
+DEC, Dissemination Workshop, Mission Briefs
+USAID ANNUAL EVALUATION PLAN - FY 2023
+35 of 35

@@ -1,0 +1,562 @@
+National Aeronautics and Space Administration
+NASA
+MISSION EQUITY
+NASA EQUITY
+Action Plan
+2
+National Aeronautics and Space Administration
+35
+NASA stands poised to usher in a bold new era of discovery -
+preparing to return astronauts, including the first woman and
+first person of color, to the Moon and open the way for human
+exploration of Mars. We are expanding scientific understanding
+of the universe, and extending the bounds of human capability
+in aeronautics, astronautics, the quest for resources, and the
+protection of our home planet.
+As ever, we reach for the stars, and seek to unlock the mysteries
+of the cosmos itself.
+Yet, one of our biggest challenges lies here at home. As NASA
+ushers in the third great era of human space exploration, we take on
+a renewed challenge of diversity, equity, inclusion, and accessibility.
+In response to Executive Order 13985, "Advancing Racial Equity
+and Support for Underserved Communities Through the Federal
+Government, we are working to recognize and overcome the
+Bill Nelson,
+visible and invisible systemic barriers that hinder equitable,
+NASA Administrator
+inclusive access - by individuals or communities - to the
+government programs, resources, and opportunities that make
+all of NASA's work possible.
+The eminent American writer James Baldwin said, "Not everything
+that is faced can be changed; but nothing can be changed until
+it is faced." To chart America's course in space, we first must
+embrace and empower the whole of our nation here at home.
+To that end, I am pleased to present NASA's Equity Action Plan,
+Forward.
+which outlines and reaffirms our Agency's strategy to successfully
+mitigate systemic barriers to equity. NASA must ingrain the
+lessons learned from our nation's storied "Hidden Figures" in
+all of our endeavors today. This plan seeks to further identify
+Upward.
+and remove the barriers that limit opportunity in historically
+underserved and underrepresented communities and anchor
+equity as a core component in every NASA mission to inspire a
+Onward.
+new, more inclusive generation.
+For NASA, the sky has never been the limit - and this is our
+opportunity to make limitless the potential of all Americans, to
+uphold the legacies of Katherine Johnson and Mary Jackson, of
+Sally Ride, Ronald McNair, Mae Jemison, and Soichi Noguchi, in
+all NASA's future endeavors.
+NASA EQUITY ACTION PLAN 12
+Executive Summary
+Agency
+National Aeronautics and Space Administration (NASA)
+NASA's Mission
+NASA explores the unknown in air and space, innovates for the benefit of humanity, and
+inspires the world through discovery.
+NASA's Journey
+As NASA extends humanity's reach into the cosmos - readying Artemis-generation
+astronauts to return to the Moon as prelude to new journeys to Mars; launching new
+science missions to explore the depths of the universe; and working to enrich lives and
+protect resources across Earth - the Agency also has spent the past year looking inward,
+evaluating its most essential assets: the richly skilled and invaluable human team which
+conducts the nation's business in space. And now, we cast our view outward once more,
+refining and redefining how we engage with underserved communities across the nation
+to sustain those assets and ensure NASA's success for generations to come.
+During the Equity Action Plan process, NASA recognized the need to continuously
+improve its data systems, processes, and analytics, which inform and underpin
+all Agency focus areas, actions, and outcomes. NASA is taking immediate steps
+to improve its Diversity, Equity, Inclusion, and Accessibility (DEIA) data analytic
+capabilities, identifying key data sources - both internal and external to NASA - to
+support DEIA analytics and reporting; creating an information architecture that turns
+data-driven results into strategic and operational decisions; automating data acquisition
+to improve data quality and speed up results; establishing a technical infrastructure and
+applying industry best-practice, cloud-based analytic tools; and adopting user-friendly
+analytic products, dashboards, and models aligned to NASA's internal systems.
+Now, NASA is continuing its journey towards equity. We are assessing our programs,
+identifying systemic barriers, and engaging in external and internal outreach - all to ensure
+fair, impartial access and representation for all those who seek to contribute to our nation's
+great work in space. To this end, NASA has established four foundational focus areas:
+Increase Integration and Utilization of Contractors and Businesses from Underserved
+Communities to Expand Equity in NASA's Procurement Process
+is
+Enhance Grants and Cooperative Agreements to Advance Opportunities, Access, and
+Representation for Underserved Communities
+Leverage Earth Science and Socioeconomic Data to Help Mitigate Environmental
+Challenges in Underserved Communities
+Advance External Civil Rights Compliance and Expand Access to Limited English
+Proficient (LEP) Populations within Underserved Communities
+Focusing on these areas, coupled with improved data analytics, will better equip NASA to
+track progress on closing systemic barriers to access, and advancing equity.
+NASA EQUITY ACTION PLAN
+4
+Equity in Procurements
+Equity in Climate
+and Contracts
+Data Accessibility and
+Environmental Justice
+Equity
+in Action
+Equity in Civil Rights
+Equity in Grants and
+Compliance and
+Cooperative Agreements
+Accessibility to Limited
+sis
+English Populations
+Equity in Procurements and Contracts
+NASA established a pilot DEIA incentive to encourage
+and services from AbilityOne, which provides employment
+large and small contractor's partnerships and
+to people who are blind or have significant disabilities.
+mentorships with underserved communities under
+their contracts.
+NASA published guidance on October 28, 2021
+in the NASA FAR (Federal Acquisition Regulation)
+NASA issued a new procurement policy in an October
+Supplement, establishing a requirement for contractors
+26, 2021 memorandum to the contracting workforce to
+to provide a DEIA plan upon award to demonstrate
+encourage, and offer guidance on, purchasing supplies
+commitment to diversifying their workforce.
+Equity in Grants and Cooperative Agreements
+NASA began transitioning its science grant proposal
+NASA's Science Mission Directorate launched a No Due-
+review process to a Dual Anonymous Peer Review
+Date program as part of its 2021 research opportunities
+system - where names of reviewers and proposers are
+to help principal investigators achieve better work-life
+kept hidden - to increase fairness and reduce hidden
+balance and to give smaller institutions more opportunity
+biases for research awards.
+to submit proposals.
+NASA updated science policy documents to
+NASA's Science Mission Directorate held initial activities to
+require diversity and inclusion reports on selection
+develop long-term relationships with new, diverse partners,
+recommendations. Updates are underway to ensure review
+better reflect the diversity of the nation, and enable greater
+panels reflect demographics of the scientific community
+participation by underrepresented groups in agency efforts.
+and operate under a DEIA-consistent Code of Conduct.
+In FY21, NASA selected 11 small business technology
+NASA updated its Guidebook for Proposers,
+program proposals valued at a combined $540,000 - six
+highlighting a commitment to solicit projects that foster
+from Historically Black Colleges and Universities and five
+STEM education and participation by underrepresented or
+from Hispanic-serving institutions - to receive inaugural
+underserved students and education organizations.
+research planning grants.
+Equity in Climate Data Accessibility and Environmental Justice
+NASA Earth Science and its Socioeconomic Data
+NASA responded to census data identifying a lack of
+and Applications Center conducted their first Equity
+potable water in the homes of at least 70,000 Navajo
+and Environmental Justice Virtual Workshop to
+Nation residents to create a Drought Severity Assessment
+facilitate increased communication between NASA and
+Tool, helping to monitor conditions and resource allocation.
+Environmental Justice communities.
+Equity in Civil Rights Compliance and Accessibility to Limited-English Populations
+NASA required institutions receiving agency grants to
+NASA released its first interactive graphic novel in
+submit information on their compliance with Federal
+English, Spanish, and visually impaired versions. Its first
+anti-discrimination laws and also expanded its basis for
+Spanish-language presentation of a planetary landing
+conducting Civil Rights compliance reviews of institutions
+earned more than 3.2 million views, 39 Spanish-media
+receiving grants.
+interviews, and significant social media following.
+NASA EQUITY ACTION PLAN
+5
+Focus Areas, Barrier
+Identification, and Actions
+NASA's Equity Action Plan Accountability
+& Tracking Progress:
+Internal Accountability: NASA's Administrator established an
+Even as we fly to
+Executive Team, led by the Deputy Administrator, to guide the Agency's
+the other planets
+equity efforts throughout NASA Centers, Mission Directorates, and
+organizations. NASA also established a Leadership Council, comprised of
+and search for signs
+Employee Resource Groups, Center Directors, Associate Administrators,
+of life elsewhere,
+and senior leadership, led by the Office of Diversity and Equal
+we must commit
+Opportunity, to provide quarterly reports to the Executive Council.
+This plan will complement and synchronize with NASA's Strategic Plan
+ourselves to build a
+currently in development. In addition, those responsible for execution will
+better world here on
+be held accountable through their Performance Management Plans.
+Earth, one with equal
+External Accountability: NASA established a "Mission Equity" section of
+opportunities for all.
+our web page where we will publicly post regular updates on the progress
+of our Equity Action Plan and solicit opportunities for public engagement.
+- NASA ADMINISTRATOR
+Coupled with targeted external outreach to underserved communities, this
+BILL NELSON
+will provide public accountability. The Agency will conduct regular public
+town hall meetings to share progress on our equity efforts and gather
+feedback from external stakeholders, and solicit input from the National
+NASA Advisory Council and other External Advisory Councils.
+Tracking Progress: NASA commits to developing metrics and tracking
+systems as we implement action items and conduct early assessments of
+outcomes during FY22.
+NASA's Perseverance Mars rover mission
+commentator and Guidance, Navigation, and
+Control Operations Lead Swati Mohan studies
+data in mission control. NASA/Bill Ingalls
+NASA EQUITY ACTION PLAN I
+6
+Focus Area 1:
+Increase Integration and Utilization of Contractors and Businesses from
+Underserved Communities to Expand Equity in NASA's Procurement Process
+Since it was established in 1956, NASA has grown as the world leader in space exploration. However, the Agency
+is not only focused on the stars and travel to other worlds but on contributing to a better world here on Earth as
+well. This is most apparent in the "spinoff" space exploration technologies that have been adapted and adopted
+to improve everyday life.
+The Agency's reach is not limited to technology. NASA is committed to promoting Diversity, Equity, Inclusion,
+and Accessibility, seeking to open doors of opportunity for all as it launches the next great era of human space
+exploration with Artemis missions to the Moon and eventual flights to Mars. A key avenue for promoting such
+equity is in the Agency's purchasing power.
+In 2021 alone, NASA spent $19.6 billion on goods and services, including about
+$2 billion (10% of total expenditure) obligated to small disadvantaged businesses.
+The Agency's annual goods and services expenditure represents an invaluable tool
+for contributing to the health and diversity of the national economy. By focusing its
+$19.6
+purchasing decisions and paying particular attention to Small Businesses classified
+as Disadvantaged-, HUBZone-, Service-Disabled Veteran-, and Women-Owned,
+billion
+the Agency can promote equitable economic investment and spur innovation.
+The key is to ensure Agency contract opportunities are open to all. When
+In 2021 alone, NASA
+NASA sought public feedback through a Request for Information on
+spent $19.6 billion on
+Advancing Racial Equity in Support for Underserved Communities in NASA
+goods and services,
+Programs, Contracts, and Grants Processes, half of the requests specific to
+including about $2 billion
+procurement and contracts were to increase outreach, training, technical
+(10% of total expenditure)
+assistance, and communications on how to do business with the Agency.
+obligated to small
+disadvantaged businesses.
+These requests identify obvious barriers to overcome. The NASA contract
+procurement structure, processes, and requirements can be perplexing. Training
+and technical assistance to help businesses and institutions understand and
+navigate the process are limited. There also is a simple lack of awareness of the many contract opportunities
+that are available. The challenge is for NASA to do a better job understanding these barriers and engaging with
+contractors in underserved communities - and the Agency is determined to do so through three key actions:
+Study barriers in NASA procurement and contracting programs. On one end, the Agency will work to
+identify underrepresented businesses that are eligible to compete for procurement contracts but are not
+submitting proposals. On the other end, the Agency will seek to identify why underrepresented businesses
+who did apply may not have been selected for contracts. The study will include Agency focus groups with
+members of underserved communities and is expected to be completed by March 2023. It will help NASA to
+(1) understand why underserved communities are not submitting proposals and receiving contract awards and
+(2) minimize or remove those barriers.
+Increase engagement events in underserved communities. NASA is committed to increase engagement with
+stakeholders in underserved communities, particularly those in HUBZone (Historically Underutilized Business
+Zones), Small Businesses, Small Disadvantaged Businesses, Women-Owned, and Service-Disabled Veteran-
+Owned Small Businesses. The Agency plans to do so by (1) hosting informational learning series and training
+sessions; (2) holding regular meetings with business, industry, and underserved community representatives;
+and (3) exploring a partnership with the Department of Commerce's Minority Business Development Agency to
+maximize resources and outreach. NASA's goal is to increase the number of outreach events for underserved
+NASA EQUITY ACTION PLAN
+7
+communities 50% by fiscal year 2029. It also will seek to increase the number of businesses and institutions from
+underserved communities participating in these events by 5% to 10% annually.
+Use set-aside Product Service Lines to increase contract opportunities for underserved communities.
+NASA has updated its acquisition process to require contracts for certain Product Service Lines (PSLs) to be
+set-aside for small business categories and AbilityOne Programs. These areas include custodial, communication
+services, grounds maintenance, STEM engagement, protective services, acquisition support, and financial
+support services. As existing contracts end, this change will be fully implemented with the awarding of new
+contracts. In the next three to five years, the amount of money obligated to underserved communities under the
+current NASA set-asides for small businesses and AbilityOne contractors is projected to be $2.3 billion.
+Focus Area 2:
+Enhance Grants and Cooperative Agreements to
+Advance Opportunities, Access and Representation for
+Underserved Communities
+NASA awards about 3,000 grants and cooperative agreements each year, the
+majority across a range of science disciplines. However, underserved communities
+and Minority Serving Institutions (MSIs) including Historically Black Colleges and
+Universities (HBCUs), Predominately Black Institutions (PBIs), Hispanic-Serving
+Institutions (HSIs), Tribal Colleges or Universities (TCUs), Native American Non-
+Tribal Institutions (NANTIs), Alaskan Native- or Native Hawaiian-Serving Institutions
+Victor Joel Cabezas Tapia, a Navigation,
+Guidance, and Control Engineer at NASA's
+(ANNHIs), Asian American-and Native American Pacific Islander-Serving Institutions
+Marshall Space Flight Center, speaks about his
+(AANAPISIs) - are generally underrepresented in those awards. For instance, there
+path to working at NASA during an interactive
+are more than 700 federally designated MSIs, which represents about 14% of all
+STEM discussion with students attending the
+70th International Astronautical Congress,
+degree-granting institutions of higher education in the country. However, only 6%
+Oct. 23, 2019, at NASA Headquarters in
+of the $1.3 billion that NASA spends on its grants and cooperative agreements
+Washington. NASA/Joel Kowsky
+each year is awarded to MSIs and small/minority-owned businesses.
+The Agency is committed to closing the percentage gap, which means
+identifying barriers that are in place and how they can be addressed. These
+may include such hindrances as access to information, inadequate resources,
+3,000
+and a lack of understanding about the Agency's grant process. Feedback from
+the Request for Information certainly suggests as much, with multiple sources
+NASA awards about 3,000
+citing the need for targeted training and technical resources. In addition,
+grants and cooperative
+the default grant proposal review process, in which reviewers are aware of
+agreements each year, the
+applicants' names and other identifying information, may be a barrier that
+majority across a range of
+promotes bias in selections. Whatever the barriers, preliminary data suggests
+science disciplines.
+that NASA grant and cooperative agreement awards could be distributed more
+equitably. To address the issue, NASA plans to:
+Conduct a barrier analysis of NASA grants and cooperative agreements. The Agency is reviewing its grant
+and cooperative agreement process to (1) identify Historically Black Colleges and Universities and Minority-Serving
+Institutions and small/minority-owned businesses that are eligible to compete for awards but are not submitting
+proposals and (2) analyze barriers for those that did not apply or applied but did not receive awards. The study,
+scheduled for completion by the end of 2024, will allow the Agency to identify and address recurring barriers. It
+also is expected to promote an increase in the diversity of individuals and institutions participating in NASA grant
+and cooperative agreement programs.
+Increase outreach and training to underserved communities. A key to increasing the participation of small
+and minority businesses in NASA grants and cooperative agreements lies in (1) making them aware of the
+opportunities and (2) providing the tools, resources, training, and knowledge needed to partner with the Agency.
+NASA EQUITY ACTION PLAN
+8
+To that end, NASA will implement a series of six training sessions per year and increase our outreach workshops
+and events to four per year. The Agency will evaluate the effectiveness of these efforts by developing surveys to
+collect feedback from training and outreach participants. It also will review data to determine if new and first-
+time participants are subsequently submitting proposals, and how many of those proposals are being funded.
+Expand Dual Anonymous Peer Review of grant proposals. A key to increasing participation of underserved
+communities in NASA grants is ensuring fairness in the selection process. In 2021, NASA began expanding a
+Dual Anonymous Peer Review (DAPR) process, supported by the National Academy of Science, in which names
+and identities of reviewers and proposers are kept hidden in select competitions. The anonymous process has
+been shown to increase fairness and reduce hidden biases. For instance, in previous NASA Astrophysics Data
+Analysis Program solicitations, women constituted 26% of applicants but finished in the top two places in the
+selection panel rankings just 16% of the time. When the DAPR process was implemented, women constituted
+31% of applicants and were in the top two rankings 32% of the time. NASA plans to study lessons learned from
+the implementations and adopt the new process for all applicable Research Opportunities in Space and Earth
+Sciences (ROSES) by fiscal year 2024. The Agency plans to expand use of DAPR and other mechanisms even
+more by fiscal year 2026, helping to promote more representative selection rates for its award programs.
+Launch the Science Mission Directorate Bridge Program. Feedback to NASA from the RFI emphasized
+the need for the Agency to facilitate closer partnerships with various institutions and communities. In
+response, NASA plans to launch the Science Mission Directorate Bridge Program in 2022, contingent on
+availability of resources, with a budget of $5 million in FY22 and $7.5 million in FY23, to foster collaboration
+and partnerships between NASA centers and Historically Black Colleges and Universities, Minority-Serving
+Institutions, Primarily Undergraduate Institutions, and very high research universities. The program will focus
+on paid research and engineering internships, apprenticeships, and research experiences for
+faculty. The overarching goal is to create an environment where underserved
+communities are better equipped to partner with NASA.
+Focus Area 3:
+Leverage Earth Science and Socioeconomic Data
+to Help Mitigate Environmental Challenges in
+Underserved Communities
+Landsat 9 Satellite launched. NASA Science
+The world faces a host of environmental challenges - poor air and water quality, sea-level rise, extreme heat, and
+more. As a world leader in Earth science, NASA understands these challenges well, using an extensive network of
+satellites and observation systems to collect comprehensive data about the atmosphere, oceans, land, and life.
+The nation has made a great investment in these NASA satellites and science initiatives. The Agency wants to
+ensure that investment benefits people across the nation, and particularly those in underserved and marginalized
+communities who face great environmental challenges. For those who live in persistently impoverished and
+vulnerable areas, these challenges are particularly acute.
+NASA data can help. The first step is making environmental and science data available so it can be combined
+with other socioeconomic information. This will enable researchers to identify at-risk communities and the
+challenges that confront them. In turn, the communities will be able to use the data to prepare and make good
+decisions about how to address those challenges.
+NASA has a longstanding commitment to make its data available to all. However, availability does not guarantee
+accessibility. To help ensure its data is both available and accessible, NASA held an inaugural workshop in 2021
+to listen to social science representatives who work with Environmental Justice issues and groups. The Agency
+also collected input from other informal discussions and from a public call for feedback about equity.
+NASA EQUITY ACTION PLAN
+9
+NASA astronaut candidate Kayla
+Barron is seen after donning her
+spacesuit. NASA/Bill Ingalls
+The combined responses suggest key barriers in the Agency's effort to use its data to promote Environmental
+Justice and include: (1) challenges finding and accessing relevant NASA data; (2) limited collaboration between
+NASA researchers and social scientists; and (3) a lack of experience using NASA data.
+The Agency is determined to overcome these barriers, particularly for communities severely impacted by
+environmental challenges, through the following actions:
+Make selections for new grants to advance equity and Environmental Justice. NASA's Earth Science Division
+is committed to provide opportunities for members of its investigator community to work with colleagues in
+other disciplines to address Environmental Justice issues. In December 2021, the Agency posted a solicitation
+on advancing Equity and Environmental Justice. Those selected for awards will apply Earth science, geospatial,
+and socioeconomic data to issues of Environmental Justice. Responses to solicitations are due March 18, 2022,
+with grants awarded August 31, 2022. Based on the outcomes and impacts of these grants, the Earth Science
+Division will consider releasing similar solicitations in the future.
+Make data available on the cloud and convert many data sets to widely
+accepted formats for easier use. In 2022, to help ensure accessibility of its
+collected Earth science information, NASA will make its 50 most-requested
+50
+environmental data sets of last year available on the internet cloud, with
+full transfer of NASA Earth science data to the cloud by 2025. It also will
+In 2022, to help ensure
+convert many of these data sets to widely accepted formats for easier use.
+accessibility of its collected
+Additionally, the Agency will host data sets that have significant value for
+Earth science information,
+Environmental Justice on the Amazon Web Services Open Data platform. It
+NASA will make its 50 most-
+also will develop code to help researchers easily access and visualize their
+requested environmental
+data on the platform. By moving information to the cloud, users will no longer
+data sets of last year
+need to download data files to their computer or device, allowing those with
+available on the internet
+less computing power to participate. The code to access data in the cloud
+cloud, with full transfer of
+also will be developed collaboratively, will be openly available, and will be
+NASA Earth science data to
+in common formats. This will allow people from different backgrounds and
+the cloud by 2025.
+expertise to access and analyze data sets more easily.
+Provide free, multi-lingual training on how to use NASA data to address
+priority needs in underserved communities. In 2022, NASA plans to
+train about 2,700 users how to use NASA data to address key environmental issues, such as air quality,
+flooding, and water resources management. Introductory trainings will be offered in English and Spanish,
+allowing those in underserved communities to begin using NASA data specific to them. The Agency will
+use both online and in-person formats to make these training opportunities widely accessible. In 2023,
+the Agency plans to begin offering new open sources science training programs to equip a broader
+community of data users with the tools needed to access and use the increasingly accessible data.
+NASA EQUITY ACTION PLAN
+10
+Focus Area 4:
+Advance External Civil Rights Compliance and Expand Access to Limited English
+Proficient Populations within Underserved Communities
+From the outset, NASA has pursued a comprehensive vision that involves people of all communities sharing
+in the achievements and accomplishments of space exploration and scientific discovery. Fulfilling that vision
+requires ensuring all people - particularly those in underserved or minority communities - have opportunities
+to participate in the work of the Agency. To that end, NASA diligently seeks to promote equity in its Agency
+programs and activities, and to communicate information and opportunities as widely as possible.
+There are barriers to overcome as the Agency strives in these areas. Many
+recipients of Agency funding may not fully be aware of the requirements for
+non-discrimination. This could be discouraging members of underserved
+communities from participating fully in Agency programs and activities. In
+8.2%
+addition, census information indicates about 8.2% of the U.S. population
+over age five speaks English "less than very well" and more than 25 million
+In addition, census
+people in the United States are not proficient in English. This barrier could be
+information indicates about
+limiting the ability for members of other language populations to access NASA
+8.2% of the U.S. population
+materials, resources, and program information.
+over age five speaks English
+"less than very well" and
+There are challenges to overcoming these barriers. The Civil Rights
+more than 25 million people
+Compliance Review Program is limited in its ability to conduct review audits.
+in the United States are not
+In fact, the number of Civil Rights compliance review audits conducted is
+proficient in English.
+disproportionately low compared to the approximately 700 grant recipients.
+Although the data is not complete, the low number of audits could be limiting
+participation of underserved communities in NASA programs.
+Historically, NASA also has conducted a majority of its public communications in English, creating a challenge
+for members of some underserved communities to be fully knowledgeable about Agency opportunities and
+activities. Only 7% of the overall NASA federalworkforce identifies as Hispanic or Latino - and the Agency's team
+of bilingual communication specialists is even smaller.
+NASA's SpaceX Crew-4 astronauts
+participate in a training session at Kennedy
+Space Center in Florida. SpaceX
+NASA EQUITY ACTION PLAN I.11
+An employee works on Artemis I Space Launch
+System flight hardware. NASA/Cory Huston
+The Agency is focused on addressing these challenges
+and barriers by working to:
+Increase Civil Rights compliance audits of NASA grantee institutions
+receiving NASA funding. NASA is committed to increase its Civil Rights
+compliance reviews to 10 per year by fiscal year 2024. It also will work to
+increase the number of recommendations and corrective actions implemented
+10
+by grant institutions that are reviewed. Moving ahead, the Agency will seek
+additional resources to increase the number of annual reviews even more.
+NASA is committed to
+The ultimate goal is to conduct reviews of all grant institutions, then move to
+increase Civil Rights
+a sustainment audit schedule. NASA also will conduct one Limited English
+compliance audits od
+Proficient grant review in this fiscal year, then plan additional reviews on a
+grantee institutions receiving
+regular basis. The Agency will explore the possibility of expanding review
+Agency funding. NASA
+audits to include Cooperative Agreements as well. At the same time, NASA
+will increase its Civil Rights
+remains committed to review proposed activities before awarding grants to
+compliance reviews to 10
+ensure there are no Civil Rights concerns. These actions, taken together, are
+per year by fiscal year 2024.
+intended to enable NASA better to monitor and correct Civil Rights violations
+by grant institutions and to provide grant institutions with the tools needed to
+comply with Federal laws.
+Conduct a broad, proactive outreach campaign to increase awareness of NASA-funded opportunities and
+legal protections ensured by Civil Rights laws. NASA's external Civil Rights communications historically have
+targeted institutions receiving NASA funding. In an effort to be proactive and increase awareness of Agency
+funding opportunities and include legal protections ensured by Civil Rights laws, NASA will widen its focus
+to students, museum patrons, and educational and cultural institutions. Starting in FY22, the the Agency will
+conduct an initial meeting with stakeholders to establish lines of communication and share outreach strategy. In
+FY23, the the Agency will begin publication of quarterly compliance newsletters and collaborate with Federal
+STEM partners to host Civil Rights compliance outreach events annually.
+Communicate new terms and conditions for harassment reporting by grant recipients. In 2021, NASA
+established a new requirement for grant institutions to report to the Agency any findings/determinations of
+harassment involving Agency-funding Principal Investigators or co-investigators. NASA plans to communicate
+the requirement to the authorized representatives of all current grant institutions by the end of June 2022. The
+new requirement will enable the Agency to more rapidly identify violations and more effectively address systemic
+barriers that prevent full protection of underrepresented communities.
+NASA EQUITY ACTION PLAN
+12
+Update NASA's Language Access Plan. NASA already has a wide reach in communicating with the public, but
+the Agency is focused on extending meaningful access to its programs and activities to members of Limited
+English Proficient communities. By January 2023, the Agency will publish an updated Language Access Plan for
+accomplishing that goal. It will include efforts to (1) have multi-lingual communication pieces at NASA onsite visitors'
+centers, including emergency evacuation signage and guided tours; and (2) provide multi-lingual education and
+awareness opportunities for programs designed to inspire the next generation of scientists, engineers, and explorers,
+such as astronaut appearances and school presentations. The overarching goal is to establish a more equitable
+communications strategy for reaching members of Limited English Proficient populations.
+Expand accessibility for Limited English Proficient populations, beginning
+with communications in Spanish. U.S. census information indicates more
+than 16 million people in the country speak Spanish as their first language,
+making it the second most common language spoken in the United States. To
+10%
+reach members of this population, NASA plans to prioritize opportunities and
+increase growth of Spanish communications 10% by 2025. The effort includes
+To reach members of
+plans to (1) provide a Spanish-language component to communications
+the Spanish-speaking
+campaigns, with an emphasis on high-level or high-visibility activities, such
+population, NASA plans
+as launches and major developments, and with messages targeted across
+to prioritize opportunities
+all mediums (social/web, print, radio, and television); (2) create a centralized
+and increase growth of
+website for all Spanish content by 2026; (3) increase Spanish content on NASA
+Spanish communications
+TV 10% by 2025; (4) explore creating and/or translating a broader array of
+10% by 2025.
+communication and educational products in Spanish, including materials for
+its Visitor Centers, and (5) increase Spanish-speaking media trained subject
+matter experts to 30 by 2023, and add members to its Spanish-language
+communications teams to support increased outreach. NASA also plans to explore opportunities and options for
+engaging directly with other Limited English Proficient communities, including initiatives to provide outreach,
+events, seminars, and workshops in native languages.
+For more information on NASA's Equity Action Plan,
+please visit ittps://www.nasa.gov/mission-equity
+QUITY
+NASA EQUITY ACTION PLAN
+I
+13
+NASA
+National Aeronautics and Space Administration
+Mary W. Jackson NASA Headquarters
+300 E Street SW (Hidden Figures Way)
+Washington, DC 20546
+https://www.nasa.gov/centers/hq
+www.nasa.gov

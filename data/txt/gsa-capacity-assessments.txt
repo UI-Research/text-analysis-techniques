@@ -1,0 +1,646 @@
+GSA
+U.S. General Services Administration
+U.S. General Services Administration
+Capacity Assessment for Evidence-
+Building and Evaluation
+March 21, 2022
+Table of Contents
+1. Introduction
+3
+2. Methods
+4
+2.1 Capacity Assessment Tool
+5
+2.2 Assessing GSA's Capacity and Evidence Maturity
+10
+2.3 Evaluation Inventory
+11
+3. GSA Capacity Assessment Summary Rating
+11
+4. GSA Capacity Targets
+14
+4.1 GSA Summary Targets
+15
+5. Summary and Next Steps
+18
+2
+1. Introduction
+Evidence-informed decision-making drives impact, improves business value and value
+for the customer, and maximizes the reach of resources. A culture of evidence-driven
+decision-making is nurtured in organizations that have robust capacity to not only build
+evidence but also to use evidence in making strategic decisions.
+The capacity assessment framework is a tool to assess and ultimately develop robust
+evidence-building capacity, in support of the U.S. General Services Administration's
+(GSA) activities, operations, and strategic priorities. This tool and process provides GSA
+the opportunity to measure and document its current capacity to build and use high-quality
+evidence across activities (e.g., programs or initiatives) and operations (e.g.,
+administrative and support tasks), and identify capacity-building priorities and activities in
+fiscal years (FY) 2022-2026. The capacity assessment will be used to:
+Identify areas in need of improvement and support strategies to strengthen the
+organization;
+Inform strategic decisions about resource allocation and investments in capacity
+building;
+Identify areas of opportunity for internal and external stakeholders to support
+GSA's capacity- or evidence-building activities; and
+Measure improvement against an agency-wide baseline as GSA coordinates and
+increases technical expertise available for statistics, evaluation, research, and
+analysis activities.
+3
+2. Methods
+GSA conducted an agency-wide capacity assessment in FY 2021, building on initial
+groundwork conducted in FY 2020. This self-assessment provides a baseline against
+which GSA plans to measure improvements to the coverage, quality, methods,
+effectiveness, and independence of the statistics, evaluation, research, and analysis
+efforts of the agency. Three organizations within GSA participated in the self-assessment
+Office of Government-wide Policy (OGP), Federal Acquisition Service (FAS), and Public
+Buildings Service (PBS). In future years, GSA will aim to conduct a broader GSA-wide
+assessment with additional organizations participating. The iterative approach in
+establishing a framework and receiving feedback along with self-assessment scores has
+enabled GSA to develop a relevant and robust foundation to help modernize its evidence-
+building functions and statistical efficiency to inform policy decisions.
+A systematic approach has been used to understand GSA's current evidence-building
+infrastructure and identify where resources need to be targeted to enhance evidence
+capacity. GSA developed a capacity assessment tool through discussion and feedback
+from data professionals across OGP, FAS, and PBS. The tool has been refined to provide
+a meaningful and relevant framework for all three organizations. It has been used to
+establish a baseline of current organizational maturity using a five-level maturity scale
+with the following ratings: (1) Nascent, (2) Improving (3) Learning (4) Mature and (5)
+Optimizing.
+Between May and August 2021 each organization conducted working group sessions and
+internal surveys to determine where they currently rate themselves against this maturity
+scale for each of the elements of the tool and where additional resources are needed in
+order to build their capacity infrastructure. The section below describes the features of
+the capacity assessment tool.
+Data Collection
+Resources to
+Skills and Availability
+Personnel
+Systems
+Data Management
+deliver evidence
+Expertise/Experience
+Automation and Data
+needed by the
+Collaboration
+Analysis tools
+agency are in
+Accountability
+place
+Evaluation Repository
+Training Strategy
+Resource Capacity
+Adoption
+Data Integration
+standards
+Data Availability
+Evidence building
+Coverage and
+Processes and
+Data Sharing
+Independence
+activities are
+Quality
+Guidance
+Quality Strategy
+Data Sharing Processes
+prioritized,
+coordinated and
+Governance Board
+Agility
+implemented
+Prioritization
+Employee feedback
+Best Practices
+Support Guidance
+Continuous
+Policies
+Peer Reviews
+Improvement
+Evidence is
+effectively and
+Availability
+Utilization
+Evidence-based
+Dissemination of evidence
+decision-making
+systematically
+utilized to deliver
+building analysis
+Evidence gaps
+on mission and
+Dissemination of
+understood and
+priorities
+evaluations
+considered
+Shared lessons learned
+Accountability in
+Decision-making
+4
+2.1 Capacity Assessment Tool
+GSA's capacity assessment tool is organized into three categories:
+Resourcing Evidence: The resources to deliver evidence needed by the agency
+are in place.
+Producing Evidence: Evidence building activities are prioritized, coordinated and
+implemented.
+Using Evidence: Evidence is effectively and systematically utilized to drive
+decision-making and deliver on mission and priorities.
+Each category is further divided into sub-categories made up of individual elements that
+outline specific goals and outcomes. GSA conducted a self-assessment of its capacity
+along all 32 elements listed.
+The sub-categories, elements, and their specific definitions are included below.
+Resourcing Evidence
+The components of this category are as follows:
+Personnel: Skills to deliver evidence goals are in place; sufficient capacity is
+available to meet the agency's evidence needs.
+Skills and Availability Agency has the analytic capacity (skills and time) to
+collect, store, clean, and synthesize data, and has capacity (skills and time)
+to disseminate results.
+Expertise/Experience There is sufficient bandwidth of staff with expertise
+to implement evaluation plans and advance the learning agenda (including
+dissemination activities). Staff have experience in employing a variety of
+evaluation and research methods. The Senior Agency Official for Privacy
+(SAOP) and Chief Privacy Officer (CPO) continuously assess the agency's
+privacy workforce needs and advise OHRM on hiring personnel. GSA will
+document these efforts in its Capacity Assessment for Evidence-Building
+and Evaluation, pursuant to the 21st Century Integrated Digital Experience
+Act, and will expand its assessment of its data and privacy workforce and
+hiring needs within that context.
+Collaboration Data analysts and evaluation experts work in
+multidisciplinary teams and are integrated into business operations.
+Accountability Performance metrics provide accountability for evaluation
+and data quality. Expectations for steering and utilizing evidence are set in
+performance metrics for leadership.
+Training Strategy Training strategy and course catalogue is actively
+updated to match the evolving skill sets and staffing needs. Trainings on
+evaluation best practices and tools, data quality standards and data
+engineering tools are routinely conducted.
+5
+Adoption Staff across the organization understand why evidence-building
+is an important function and how it is used to advance the organization's
+mission. Non-specialized staff have sufficient knowledge of methods and
+purpose of data analysis and evaluation, and can interpret and apply
+evidence to questions relevant to their role.
+Systems: Databases, tools, and collection efforts provide information needed
+to
+do meaningful analysis and preserve integrity & security of information.
+Data Collection Systems are utilized to streamline the discovery,
+acquisition, and maturation of data. Data is in an integrated environment
+with access controls that follow the policies and regulations to keep data
+safe and meet privacy requirements.
+Data Management Data management activities are centralized,
+coordinated and implemented to standardize, transform, and integrate like
+data across domains.
+Automation and Data Analysis tools Automation is routinely used for data
+processing and synthesis. Data analysis tools are routinely used to execute
+analysis efficiently.
+Evaluation Repository Repository of past, ongoing, and planned
+evaluations methods and results is in place and actively updated.
+Resource Capacity Activities scoped in annual evaluation plans are
+routinely and sufficiently resourced.
+Producing Evidence
+The components of this category are as follows:
+Coverage and Quality: Rigorous evidence-building activities are ongoing in
+support of strategic priorities.
+Data Availability Teams have the data needed to deliver the agency
+mission. Administrative data sets are routinely utilized across teams to
+answer meaningful learning and evaluation questions.
+Data Sharing Data held is routinely shared with other stakeholders for
+purposes of answering a learning question in a timely and secure fashion.
+Data Quality Strategy The policies, processes, guidelines and metrics for
+the data quality strategy are widely disseminated across teams. Designated
+staff are responsible for ensuring that data quality is routinely measured and
+reviewed.
+Data Governance Board Data governance boards are chartered and
+collaborate with other data governance boards within and across teams.
+Data governance boards establish executive accountability for data quality
+and establish robust data sharing processes.
+6
+Prioritization Strategy There is a clear and strategic prioritization process
+for evidence-building and evaluation activities. Prioritizations are aligned
+with organizational strategy and funding allocations.
+Adoption of Best Practices Methodological best practices are shared and
+adhered to within and across teams to perform data analysis and evaluation
+activities.
+Continuous Improvement Addressing questions scoped in the learning
+agenda are actively underway and targets for activities scoped in annual
+evaluation plans are met.
+Processes and Guidance: Governance, standards and processes consistently
+ensure quality and reliability. Guidance makes clear and explicit the standards and
+processes needed to ensure quality.
+Data Integration standards Data standards are utilized and constantly
+evolving to ensure information stored in different places can be integrated
+for analysis and learning.
+Independence and Objectivity Findings and recommendations from
+evaluations and evidence-based and capacity-building activities are
+independent from external influence in accordance with GSA Evaluation
+Policies. Evaluation activities are carried out objectively, free from bias,
+conflict of interest, and inappropriate influence.
+Data Sharing Processes There are defined processes that make sharing
+data with other teams/units/agencies feasible within appropriate timelines.
+Agility in addressing emerging needs There is a clear process for
+identifying new/outstanding data needs and communicating these to data
+governance boards. Emerging data needs are incorporated into capacity
+data collection and analysis.
+Employee feedback Leadership surveys employees for their views and
+feedback on ongoing or needed evaluations.
+Support Guidance for needs Guidance exists to support staff across the
+agency to identify relevant questions, develop evidence-building plans, and
+address their evidence-based needs.
+Evaluation Policies Policy on appropriate methods to use in evaluation
+exist and are routinely updated per evolving best practice. All evaluations
+adhere to guidance set in agency evaluation policies and evaluations are
+routinely monitored for following best practice guidance.
+Evaluation Peer Reviews Processes and protocols for evaluation ensure
+results are free from bias and undue influence. Evaluations undergo peer
+review.
+Using Evidence
+The components of this category are as follows:
+7
+Availability: Evidence is accessible and shared. Findings are widely
+disseminated.
+Dissemination of evidence building analysis Results and conclusions
+from analysis and evidence-building activities are systematically tracked
+and published. Repository of results is accessible and utilized by teams.
+Dissemination of evaluations Results and conclusions from evaluations
+are systematically tracked and published. Repository of evaluation results
+is accessible and utilized by teams.
+Shared lessons learned There is consistent publication of results and
+evidence-building activities. There are robust internal and external
+dissemination and communication efforts to share learnings from evidence-
+building activities.
+Utilization: Evidence routinely informs decision making.
+Rigor in evidence-based decision-making Leadership and decision-
+makers routinely use rigorous evidence to inform decisions about priorities,
+program changes, and investments.
+Evidence gaps understood and considered Evidence gaps are
+communicated to data and evaluation staff. Evidence needs are effectively
+prioritized, solutioned, and utilized.
+Accountability in Decision-making Staff are empowered and held
+accountable by leadership to groundwork in what we know (supported by
+data and informed by relevant evidence). Leadership routinely pushes
+teams to utilize data and evaluation to answer questions that will support
+the mission.
+Maturity Scale
+The maturity level of each element of the capacity assessment tool is graded from level
+1 to 5. Maturity is a measure of the organization's current capacity and the opportunities
+for an organization to improve in a particular discipline. Each level provides a layer in the
+foundation of continuously enhancing the capacity infrastructure of the organization. The
+five levels of this rating scale are described below:
+1. Nascent: The beginning phase of maturity where processes and activities are not
+in place or are poorly controlled, but there may be some initial interest in improving
+data maturity and adopting evidence-based practices.
+2.
+Improving: This phase is characterized by a few breakthrough capabilities
+scattered within the organization and the beginnings of structure and management
+priorities to begin making it happen. There is the willingness to facilitate change
+and adopt new evidence-based practices that align with GSA maturity goals.
+3. Learning: This phase is characterized by the establishment of adopted structure,
+processes, and policies that prioritize data- and evidence-based
+practices. Capabilities are beginning to make noticeable differences in operations
+and there is a focus on improving data and evidence.
+8
+4. Mature: The structure and capability is fully in place and provides the organization
+with the ability to build evidence and adopt evidence-based practices. There is
+sufficient organization, infrastructure resources, and capabilities to meet the
+organization's needs.
+5.
+Optimizing: Highest level of maturity. Not only is the capability in place, but it is
+scalable, efficient, and has a measurable impact on operations. The organization
+and capabilities are flexible and able to rapidly change to adopt new technology
+and meet coming challenges.
+Each organization developed organization-specific assessments for each element, which
+were rolled up into a GSA-wide assessment and score.
+9
+2.2 Assessing GSA's
+Capacity and Evidence
+Maturity
+Determining the current capacity of the organization is the first step to building maturity.
+All three organizations have engaged their Data Governance Boards to spearhead this
+effort through facilitated group discussions with leadership and board members. In
+addition, they have scoped out the opinions of data professionals across the organization
+by conducting surveys using the Qualtrics survey tool to make sure that staff are
+empowered and engaged in building a forward looking strategy. Through facilitated
+discussions, surveys, polls, and other forms of electronic elicitation, over 130 data
+professionals were engaged in the capacity assessment and planning exercise.
+Facilitated Group Discussions
+Sessions were led by the Data Governance Boards for OGP and FAS to engage with
+senior leadership to discuss, rationalize, and self-score each of the elements of the
+original Capacity Assessment tool categories based on the predefined maturity scale. The
+outcome of the sessions was two-fold: (1) capture self-assessment scores and (2) provide
+recommendations to change and improve the Capacity Assessment Tool. Modifications
+and updates were made to the tool and the revised version was used by PBS for
+conducting a similar self-assessment.
+Survey Tool
+OGP conducted a Qualtrics based survey, which was distributed to 39 data professionals
+across the organization. The results of the survey helped inform the final self-assessment
+ratings for OGP. FAS conducted a similar survey of their Data Guild, a community of
+practice composed of approximately 200 FAS analysts, to confirm and validate the self-
+assessment scores given by their board members. Board members and Data Guild
+Members provided relatively comparable FAS capacity ratings across most categories
+with the board providing slightly higher ratings.
+10
+2.3 Evaluation Inventory
+Building on an initial pilot data collection activity conducted in FY 2020, GSA fielded a
+brief survey in June 2021 to gather a comprehensive list of all ongoing or planned
+evaluations GSA-wide. This data collection activity also resulted in recommendations and
+ideas for future evaluations, which we will review and consider for inclusion in GSA's
+future Annual Evaluation Plans. GSA requested survey responses from leadership for
+each major GSA business line, SES-level GSA employees, and other employees these
+leaders deemed to have relevant input. The survey results revealed a total of 21
+evaluation related activities across the agency. The activities are broken down into the
+below classifications.
+FY 2022 Annual Evaluation Plan - active: 4
+FY 2023 Annual Evaluation Plan - planned: 1
+Other GSA evaluation related activity - active (not considered formal
+evaluations): 14
+Other GSA evaluation related activity - planned (not considered formal
+evaluations): 2
+GSA plans to repeat this type of data gathering activity each year to update and maintain
+the agency-wide evaluation inventory.
+11
+GSA Aggregate Rating
+Across the agency scores range from (1) Nascent to (3) Learning. On average each
+organization rated their capacity to use evidence for informed decision-making as higher
+than the availability of resources to deliver evidence or the maturity of their evidence-
+building activities and infrastructure.
+All organizations reported that personnel skills to deliver on evidence goals are improving,
+while the databases, tools and collection efforts needed to do meaningful analysis are
+either nascent or just starting to improve. Similarly, evidence-building activities around
+data governance and quality are at the lower levels of the maturity scale, and are just
+starting to improve. There is very little guidance and defined standards and processes to
+ensure quality of data, as shown by the self-assessment ratings that ranged from nascent
+to improving.
+With regard to communication and dissemination of evidence and making it widely
+available, the organization ratings ranged from (1) Nascent to (2) Improving. The category
+that received the highest ratings was around evidence utilization where OGP rated
+themselves as a (3) Learning organization. For OGP, evidence routinely informs decision-
+making and is key in supporting their mission of creating and updating policies to ensure
+fair, efficient, and cost-effective management practices across the Federal Government.
+Both FAS and PBS assessed themselves as (2) Improving in this category.
+The table and the figure below show aggregate ratings across GSA. Please note that
+ratings in table and chart below are an average of the three organizations: OGP, FAS and
+PBS.
+Table 1: GSA-wide Aggregate Self-assessment
+Aggregate
+Rounded
+Capacity Category
+Capacity Sub-Category
+Score
+Score
+2
+2
+Resourcing Evidence
+Personnel
+1.7
+1
+Resourcing Evidence
+Systems
+1.7
+1
+Producing Evidence
+Coverage and Quality
+1.3
+1
+Producing Evidence
+Processes and Guidance
+1.7
+1
+Using Evidence
+Availability
+2.3
+2
+Using Evidence
+Utilization
+12
+Figure 1: GSA-wide Aggregate Self-assessment
+GSA-wide Self-assessment
+5
+4
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+0
+Personnel
+Systems
+Coverage and
+Processes and
+Availability
+Utilization
+Quality
+Guidance
+Min
+Max
+13
+4. GSA Capacity Targets
+To enhance evidence-based practice and policy-making, GSA is looking ahead at setting
+capacity targets for FYs 2022 to 2026. If a component based assessment tool approach
+is utilized for future Capacity Assessments, tailored component targets could be
+developed to allow GSA to determine when and where there is a need for specific
+capabilities and coverage. Planning ahead will not only help meet Federal requirements
+but also help GSA progress as an organization. This will enable streamlining and
+operationalizing evaluation, research, analytical procedures, and data use for maximum
+efficacy and effectiveness. The sections below identify initiatives for enhancing the
+capacity infrastructure in the next five years. Data Governance Boards within the GSA
+organizations have been meeting to discuss and gain consensus on initiatives that are
+important to them. It is expected that these initiatives will help support budget discussions
+and be a reference point for budget allocations associated with the implementation of the
+Evidence Act.
+14
+4.1 GSA Summary Targets
+GSA organizations are looking to set targets with more specific goals and outcomes in
+the next year while the out-year initiatives are more notional. The table below is a
+consolidation of initiatives that each of the Data Governance Boards in OGP, FAS, and
+PBS have been discussing as they progress through their planning process.
+Note: items in bold in the table are areas of focus identified by more than one organization.
+Category
+Sub
+Capacity Element
+Org.
+F
+F
+F
+F
+F
+Category
+Y
+Y
+Y
+Y
+Y
+2
+2
+2
+2
+2
+2 3 4 5 6
+Resourcing
+Personnel
+Personnel Capacity
+OGP,
+X
+X
+X
+Evidence
+FAS
+Resourcing
+Systems
+Automation & Data Analysis
+OGP,
+X
+X
+X
+Evidence
+Tools
+PBS
+Resourcing
+Systems
+Data Management
+FAS
+Evidence
+Producing
+Coverage and
+Data Quality Strategy
+PBS,
+Evidence
+Quality
+FAS
+Producing
+Coverage and
+Data Governance Board
+PBS
+X
+X
+Evidence
+Quality
+Producing
+Processes
+Data Integration Standards
+OGP,
+X
+Evidence
+and Guidance
+PBS
+Producing
+Processes
+Data Sharing Processes
+OGP,
+X
+Evidence
+and Guidance
+FAS
+Producing
+Processes and
+Evaluation Policies / Guidance
+OGP
+X
+X
+Evidence
+Guidance
+Using
+Availability
+Dissemination of Evaluations
+FAS
+Evidence
+15
+Overarching: GSA-wide Coordination, Governance and
+PBS, FAS
+X
+X
+X
+Leadership
+GSA-wide coordination and leadership participation will help shepherd the agency toward
+a more mature organization committed to evidence-based policy making. Parallel
+initiatives across OGP, FAS, and PBS in conducting capacity assessments has led to the
+identification of common areas that need attention in the FYs 2022 to 2026 time frame.
+Improving evidence activities has been identified as a key agency function for advancing
+GSA's capacity infrastructure. These activities include providing analytical support and
+progress monitoring to meet the goals and priorities set forth in the five-year strategic
+plan.
+Many GSA organizations surveyed identified the following capacity elements that need to
+be enhanced as part of their capacity building efforts.
+Personnel Capacity
+Across GSA there is a need for a data and analytics-savvy workforce. The agency will
+need to enhance not only personnel skills but also staffing capacity to effectively deliver
+on evidence-building activities. Staff need to have the know-how and required bandwidth
+to collect, clean, synthesize, and disseminate data and employ a variety of evaluation and
+research methods for sound and effective decision-making. Training strategy and course
+catalogs need to be updated to support more of a data-driven organizational culture.
+Automation & Data Analysis Tools
+There is a need to improve the level of automation and data analysis tools to conduct
+efficient analysis. GSA organizations wish to develop all four levels of analytic capacity:
+descriptive, diagnostic, predictive, and prescriptive. In order to make the agency future-
+ready, there is a need to leverage advances in Artificial Intelligence / Machine Learning.
+Establishing an agency/bureau/sub-component mapping system to fully align
+governmentwide datasets for efficient comparisons of administrative management and
+performance across the Federal Government is also warranted.
+Data Quality Strategy
+Data quality strategy needs to be widely disseminated across teams and gaps need to be
+identified. Further, there is a need to identify and improve the real and perceived issues
+with data quality by measuring the usefulness/utility of data according to criteria:
+timeliness, completeness, consistency, accuracy, and availability.
+16
+Data Integration Standards
+OGP recommends that the Federal Integrated Business Framework (FIBF) be expanded
+and a determination be made of potential areas where standards would have the greatest
+impact. For reliable analytics initiatives there is also a requirement to have data and meta-
+data that is not only well defined and searchable, but also tightly integrated.
+Data Sharing Process
+GSA has a need for formal data sharing agreements across organizations that are
+grounded in defined guidelines and communicated broadly across the agency for timely
+access to data.
+GSA-Wide Coordination, Governance and Leadership
+As part of the integrated assessments, the FAS, OGP, and PBS Executive Data
+Governance Boards all recognized the need for greater coordination across GSA, a
+stronger integrated agency wide data governance structure, and leadership from the
+agency's top executives to ensure successful implementation of improvement initiatives.
+It was noted that the recently established GSA EDGE Board is a positive step forward,
+but more must be done to coordinate with and integrate requirements from component
+(FAS, PBS, OGP) data governance boards.
+Without strong established agency wide data policy, decision-making procedures, and
+representation, component data governance will continue to operate through ad-hoc
+means. This has proven ineffective and wasteful for initiatives that require shared
+centralized policy and strong coordination such as data sharing, shared infrastructure and
+investment. To bridge the gap, the EDGE Board will need to engage with and incorporate
+the requirements of component data governance boards, and work with GSA leadership
+to establish the structure and authority to make lasting change.
+17
+5. Summary and Next Steps
+GSA is striving to build a capacity infrastructure that will help the Agency base its
+decisions on facts arrived through rigorous and systematic analysis, using scientific
+principles. As a result each organization within the agency is committed to
+institutionalizing the collection, disseminations and use of high-quality evidence based on
+diverse perspectives and approaches. The capacity self-assessment within GSA
+currently rates all the categories within the capacity assessment tool as (1) Nascent or
+(2) Improving. Across the organization, personnel, systems, coverage and quality,
+processes and guidance, availability and utilization related to evidence capacity are at the
+lower ends of the scoring vector.
+The key to the effectiveness of GSA's capacity building initiatives is the development of
+effective processes to strategically plan for evidence-building, and the availability of
+adequate resources that will help shepherd the agency toward that goal. GSA
+organizations have been working on identifying supporting initiatives that will help
+increase the maturity of the capacity infrastructure and improve the ratings from (1)
+Nascent to (2) Improving and from (2) Improving to (3) Learning for the categories that
+have been assessed.
+If GSA pursues future Capacity Assessments, we will consider utilizing unique
+assessment tools for each discipline - statistics, evaluation, research, and analysis. If this
+approach is determined feasible it would allow GSA to determine when and where there
+is a need for more specific capabilities and coverage.
+Between FYs 2022 and 2026, GSA will utilize the findings of the Capacity Assessment to
+develop the resources needed to build robust evidence-building capacity, in support of
+the GSA's activities, operations and strategic priorities. The results will inform strategic
+decisions and investments, help leverage stakeholder support, and measure progress
+against the baselines identified in the capacity assessment.
+18

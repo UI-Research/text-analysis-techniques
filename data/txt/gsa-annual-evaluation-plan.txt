@@ -1,0 +1,628 @@
+GSA
+U.S. General Services Administration
+U.S. General Services Administration
+FY 2023 Annual Evaluation Plan
+April 4, 2022
+1
+Table of Contents
+Introduction
+3
+Evaluation Topic 1.1: Remote employee resources
+6
+Evaluation Topic 1.2: Demand for Federal real property
+9
+Learning Question 2: Acquisition
+12
+Evaluation Topic 2.1: Reducing administrative barriers
+13
+Learning Question 3: Digital Government
+15
+Learning Question 4: Government Operation
+17
+Evaluation Topic 4.1: Greening of the fleet
+19
+2
+Introduction
+The U.S. General Services Administration (GSA) is committed to ensuring a strong
+culture of evaluation, evidence-building, and learning. GSA's Learning Agenda and
+Annual Evaluation Plans set a series of agencywide learning targets in alignment with
+GSA's strategic objectives and in collaboration with varied offices across GSA.
+GSA's Annual Evaluation Plan (AEP) is a set of priority evaluations that build on the GSA
+Learning Agenda. The AEP will support progress on the Learning Agenda; however,
+these efforts will also have additional and independent workstreams and thus not fully
+overlap. GSA will also continue planning these proposed efforts for FY 23 as more
+information becomes available on program implementation.
+In developing the AEP, GSA engaged internal and external stakeholders. Internally this
+included key stakeholders from across the agency, as they advised and helped develop
+questions for inclusion in the AEP. Externally this included hearing insights shared by the
+Office of Management and Budget partners in the budget, performance, and evidence
+teams. GSA's Evaluation Officer (EO) worked closely with varied stakeholders with
+expertise in the program areas to ensure that the AEP is relevant, realistic, and
+meaningful. The EO convened an Evaluation Working Group to provide input into the
+criteria¹ to select priority² evaluations, review and rank potential evaluations against these
+criteria, and provide input into the final set of priority evaluations to comprise the AEP.
+Given GSA's current capacity to support evaluation, there are some policy areas that are
+not included in the FY 2023 Annual Evaluation Plan. GSA strategically decided to
+continue prioritizing many of the learning activities started in FY 2022. Other priorities will
+be included in future Annual Evaluation Plans as GSA's evaluation capacity grows and
+we complete the cycle of ongoing, multi-year learning objectives. And new activities may
+be added off cycle, as needed and feasible.
+GSA's FY 2023 AEP includes five priority evaluation topics, on varied policy and
+operational areas. These topics include:
+What resources are most important for supporting employees and teams in a
+remote work environment?
+What, if any, impact would increased reliance on flexible work policies have on the
+demand for Federal real property?
+1
+Criteria for determining priority evaluation: mandate, link to Learning Agenda, strategic priority, large
+program, external recommendation, administrator, administration, or OMB priority, priority evidence gap,
+feasibility.
+2
+GSA uses the term "priority" as a proxy for "significant".
+3
+What acquisition program or policy changes can address and reduce
+administrative barriers for GSA customers, especially those that have a
+disproportionate impact on underserved communities?
+What programs or policies are effective at promoting greening of the fleet, including
+use of electric or other zero-emission vehicles?
+What strategies and technologies are most effective to efficiently operate and
+maintain Federal facilities and reduce adverse climate impacts from operations or
+from severe weather events?
+Each priority evaluation topic includes a description of the case for evaluation, notes on
+possible evaluation approaches, methods and key data, anticipated challenges and
+solutions, and initial notes on dissemination of results.
+4
+Learning Question 1: Real Estate Solutions
+What technologies and solutions does the Federal workforce need to
+work effectively in a more responsive remote work setting?
+Context
+GSA is leading the Workplace 2030 (WP2030) initiative studying agencies' space usage
+during and before the COVID-19 pandemic and discussing evolving needs, which will
+drive long-term workspace solutions and decisions. Building on our FY 2021 progress,
+GSA will proactively and regularly engage customers to understand the changing mission
+needs and guide their workspace strategies based on their evolving needs. GSA will
+develop and deploy customer-driven solutions beginning in FY 2022, which will enable
+agencies to align people, processes, and tools. GSA will also continually monitor and
+quantify variables like space utilization and changing demand, which will enable GSA and
+agencies to make data-driven decisions. This initiative is critical to GSA's efforts to right-
+size the Federal real estate footprint. Our work will examine the effects of distributed,
+virtual, and asynchronous work, rapid adaptations in information technology, and changes
+to interior space planning and building operations.
+The ongoing Covid-19 pandemic has reshaped how the Federal government works, and
+likely will continue to do so as agencies navigate re-entry into offices. GSA has developed
+categorizations for all positions-remote eligible, on-site flexible, and on-site required-
+and is planning for a significant proportion of its workforce to engage in a higher level of
+remote work than prior to the pandemic. Navigating the new reality of an increasingly
+hybrid future of work presents significant opportunities to understand how GSA can best
+support employees both when they are working remotely and working from an office.
+Evaluation Topic 1.2 focuses on learning how best to support employees when they are
+working remotely. Evaluation Topic 1.2 focuses on how GSA can best support on-site
+staff.
+Strategic Objective
+Develop and offer integrated space and virtual workspace options and services that
+maximize flexibility, particularly in anticipation of increased telework.
+5
+Evaluation Topic 1.1: Remote employee resources
+What resources are most important for supporting employees and
+teams in a remote work environment?
+Overview
+GSA is planning evaluations to understand more about how providing office equipment
+to employees in remote locations can help to improve employee and agency outcomes.
+These pilot evaluations initially will be housed at GSA, but if the pilots go well, GSA may
+provide offerings to other Federal agencies in FY 2023 or later.
+A WP2030 initiative called "Home Office in a Box" will be rolled out initially in late FY 2022.
+An implementation analysis focusing on initial use will be completed in early FY 2023.
+GSA evaluation leads will work with the Workplace 2030 team to assess the feasibility of
+embedding evaluation in either a larger rollout of remote equipment offerings, or on future
+iterations of the user experience.
+GSA will continue to engage with the Office of Personnel Management (OPM) and other
+Federal agencies to understand where there are opportunities to learn from the re-entry
+period. While it is expected that by FY 2023 employees will have reached an equilibrium
+in terms of work location, there will continue to be possibilities for learning about tools and
+resources to better meet the needs of individual employees, teams, and managers.
+Evaluation Questions
+Does the provisioning of home office equipment to GSA employees (e.g., chairs,
+monitors, keyboards, and mice) increase employee engagement, satisfaction,
+health, and productivity?
+How will the return to facilities impact GSA employee engagement, satisfaction,
+health, and productivity?
+To what extent do team structures (e.g., all remote, hybrid, all in the office)
+affect individual outcomes (including equity), team outcomes, and agency
+outcomes?
+How do other, non-equipment support resources increase GSA employee and
+team engagement, satisfaction, and productivity?
+Evaluation Approach and Timeline
+Evaluation of Home Office in a Box: a pilot of core Home Office in a Box
+functionality is planned for Q3/Q4 FY 2022 and will be made available to a group
+6
+of GSA employees. GSA evaluation leads are working with the project team to
+assess the feasibility of embedding an impact evaluation in the first-stage rollout
+of the program. Early implementation analysis is tentatively planned for late
+FY 2022 and extending to early FY 2023.
+The results of the Home Office in a Box pilot³ will inform larger Federal service
+offerings. Scaling up remote service offerings will present an opportunity to build
+in evaluation, for example with a staggered rollout. The Home Office in a Box pilot
+will also allow for refining a theory of change to help understand the effects of
+scaling up even if a rigorous impact evaluation is not possible. If Home Office in a
+Box proves successful, a rollout to other agencies could begin in late FY 2022 or
+early FY 2023. GSA evaluation leads will work with PBS to embed evaluation in a
+wider rollout where possible, possibly with quasi-experimental methods.
+Evaluation of re-entry pilots: GSA is coordinating with OPM to plan for ongoing
+evaluations of the effects of additional remote and hybrid work offerings on
+recruitment, retention, and advancement of employees. In FY 2023 there will be
+opportunities for continuing evaluation, for example of different training products
+for managers of remote and hybrid teams or evaluating the effects of remote and
+hybrid positions on recruitment. Where there are different options for use of new
+service offerings, it may be possible to embed randomized control trials.
+FY 2022
+FY 2023
+FY 2024
+FY 2025
+Evaluation Activity
+Q1
+Q2
+Q3
+Q4
+Q1 Q2 Q3 Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Evaluation of Home Office in a Box
+Evaluation of scaling remote equipment
+service offerings
+Evaluation of re-entry pilots
+Key Data and Information
+Key data and information to support the evaluations outlined in Evaluation Topic 1.1 may
+include:
+User experience research to provide feedback on website design, product
+offerings, use cases for Home Office in a Box;
+Customer satisfaction surveys given to people who engage with the Home Office
+in a Box website, and targeted interviews with users;
+Purchase data from GSA Advantage can inform who purchases which products-
+if possible, these data could be joined to human resources data to understand
+3 In this document "pilot" refers to the small-scale introduction of a new policy, process, or service offering
+and is not an evaluation activity or method.
+7
+more about equity in the program but would be either limited to GSA employees
+who participate or would require other agencies to share data;
+Google Digital Analytics Program data on website interactions to understand
+potential pain points;
+GSA employee daily check in data to understand patterns of remote and in-office
+work during the re-entry period and beyond.
+Anticipated Challenges and Solutions
+Measurement of employee outcomes is difficult. While it is possible to observe some
+outcomes related to recruitment, retention, and advancement, it is not currently possible
+to link measures of employee engagement and productivity to individuals. New data
+collections are likely necessary to collect adequate data to assess the effectiveness of
+remote work resources. Even still, it may be difficult to measure some concepts like
+overall productivity and employee efficiency for knowledge-based duties that do not lend
+themselves to easy methods of counting.
+A second challenge is related to causal identification and likely selection issues. It is likely
+that some amount of employee choice will be allowed that will sort employees into those
+that for whatever reason are more inclined to work remotely or in the office. Simple
+comparisons of employees in different environments are likely to be biased.
+Evidence Use and Dissemination
+Early evidence from an initial pilot of Home Office in a Box will inform adjustments
+to the service offering, with the ultimate goal to refine the program into a
+governmentwide offering.
+Evaluation of other remote work resources will build into a cycle of continuous
+improvement that assesses effectiveness of different options, updates service
+offerings in response to the evidence, and plans a new cycle of evaluation.
+Evaluations from FY 2023 re-entry pilots focused on the agency transition from
+maximum telework to a hybrid environment will continue with intermediate- and
+long-term outcome evaluation. These evaluations can help inform both whether
+telework policies should be updated to encourage different remote work choices
+versus in-office work choices.
+8
+Evaluation Topic 1.2: Demand for Federal real property
+What, if any, impact would increased reliance on flexible work policies
+have on the demand for Federal real property?
+Overview
+Even before, and now accelerated by, the COVID-19 pandemic, the workspace allocated
+per person is decreasing. The pandemic has demonstrated that telework is a viable option
+and that the future will include a mix of office-based work and telework. This presents a
+unique opportunity to restructure GSA's real property portfolio.
+GSA will proactively and regularly engage customers to understand the changing mission
+needs and guide their workspace strategies based on their evolving needs. Beginning in
+FY 2022, GSA will develop and deploy customer-driven solutions, which will enable
+agencies to align people, processes, and tools. GSA will also continually monitor and
+quantify variables like space utilization and changing demand, which will enable GSA and
+agencies to make data-driven decisions. Evaluation Topic 1.2 focuses on these activities
+as a key component to right sizing the GSA's Federal real estate footprint.
+GSA is leading the WP2030 initiative studying agencies' space use and discussing
+evolving needs, which will drive long-term workspace solutions. Through this effort, GSA
+has identified existing service offerings to expand, as well as new service offerings to
+provide, all of which are designed to strengthen Federal Government future workplace
+practices. Our work will examine the effects of distributed, virtual, and asynchronous
+work, rapid adaptations in information technology, and changes to interior space planning
+and building operations.
+Evaluation Questions
+What features of new, adaptive workspace solutions satisfy customer needs and
+real estate demands in the short and medium term?
+What is the demand for PBS to provide novel real property services (for example,
+flexible, multi-office spaces), and how will that demand influence holding and
+reinvestment strategies for real property so that assets retained are viable and
+sustainable?
+How are space requirements changing in terms of needed space and use of space
+in a more flexible work environment?
+9
+Evaluation Approach and Timeline
+The Flex Hub concept provides a multi-agency, multi-functional office space that
+supplies a tailored set of resources to support different work styles
+(e.g., collaborative and contemplative) and needs (e.g., special-use resources like
+large format printers). A descriptive study and formative evaluation of the Flex Hub
+in FY 2022 will help GSA understand if the model can be scaled to additional
+locations. As additional locations are added, GSA will work with partner agencies
+to gather data that can potentially support outcome evaluation related not only to
+employee engagement but also on space requirements and financial implications.
+A descriptive study of space requirements data in FY 2022 will help to inform
+possible changes to tools used by agencies when determining space and use
+requirements. GSA evaluation leads will work with PBS to test the effectiveness of
+any changes to PBS tools, likely starting with formative evaluation methods.
+FY 2022
+FY 2023
+FY 2024
+FY 2025
+Evaluation Activity
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Descriptive study and/or formative evaluation
+of office utilization applications
+Outcome or impact evaluation of Flex Hub
+concept
+Evaluation of space requirement tools
+Key Data and Information
+Key data and information to support Evaluation Topic 1.2 could include:
+User experience research to provide feedback on potential real property service
+offerings;
+New survey instruments to understand work preferences and needs distributed to
+GSA employees;
+Project planning data to understand other agencies' project space needs;
+Qualitative feedback on people's interaction with space in the first Flex Hub
+location;
+Occupancy (e.g., turnstile, daily check in survey, room reservation system) data to
+understand building usage.
+Anticipated Challenges and Solutions
+Both the Flex Hub model and potential changes to PBS tools likely will rely on a small
+number of buildings to test the concepts-one building is planned as a pilot location for
+Flex Hub, and two GSA regions will serve as the test beds for new space requirement
+tools. As such, inferences of how well the concepts are working will not be able to rely on
+10
+statistical methods that rely on large sample inference and will need to make use of both
+quantitative and qualitative data paired with strong theoretical models (e.g., theory of
+change) to generate rigorous evidence. For example, an outcome evaluation of a one-
+location pilot of Flex Hub could achieve success if employee's intended uses of the space
+are met and there is sufficient demand to justify GSA's investment. These outcomes could
+include using building occupancy data and reservation application data to understand the
+extent to which resources are being utilized and survey data to understand employee
+perception of how well the space is facilitating intended uses. These are examples of
+outcome and/or implementation evaluations which can provide valuable learning even
+though there is only one location selected for the initial Flex Hub pilot.
+Learning from a pilot in a single building and among a specific group of employees likely
+creates some limitations to the generalizability of what is learned. The learning will be
+strengthened to the extent that evaluations can seek out both common-use cases and
+specific-edge cases of interest.
+Evidence Use and Dissemination
+GSA sees an opportunity to offer an integrated Federal real estate strategy, based on
+nearly two years of Federal employees working from home and in Federal buildings under
+GSA's jurisdiction, custody, or control during the COVID-19 pandemic. The evidence
+generated from these early-stage efforts will help to inform choices on a different set of
+space service offerings from GSA. For example, GSA will use this evidence to evolve and
+expand workspace solutions for agencies, including the development and deployment of
+an integrated set of services that blend real estate, people, and information technology.
+GSA will use this evidence to further partner with agencies to validate and expand
+solutions that meet customers' needs, including using a mix of on-site and remote work.
+Finally, this evidence will be used to develop and deploy the means to track space
+utilization so that agencies may make data-driven decisions about their future space
+needs.
+11
+Learning Question 2: Acquisition
+What strategies are most effective at increasing participation in
+procurement and contracting opportunities for underserved
+communities and small businesses?
+Context
+While GSA has always been strong in industry engagement, it recognizes the need to
+grow and expand post-award support for new contractors, especially small and
+disadvantaged businesses (SDBs), under its multiple-award vehicles. GSA will work with
+industry to develop a more robust post-award strategy to help interested contractors
+understand expectations, identify resources, and explore opportunities for success. GSA
+will coordinate with the Small Business Administration (SBA) where there are
+opportunities for SBA to support learning objectives.
+GSA concluded it can best support the Administration's equity objectives by putting
+greater emphasis on means to increase equity within its governmentwide acquisitions
+vehicles such as the Federal Supply Schedule (FSS), governmentwide Acquisition
+Contracts (GWACs), and other governmentwide multiple-award contracts such as One
+Acquisition Solution for Integrated Services (OASIS) and OASIS Small Business (OASIS
+SB).
+Strategic Objective
+Aid U.S. economic growth by maximizing opportunities and minimizing barriers for small
+and/or underserved businesses seeking to do business with GSA.
+12
+Evaluation Topic 2.1: Reducing administrative barriers
+What acquisition program or policy changes can address and reduce
+administrative barriers for GSA customers, especially those that have
+a disproportionate impact on underserved communities?
+Overview
+GSA selected the Multiple Awards Schedule (MAS) program as the initial focus of our
+equity assessment. The MAS program has a long history serving as the entryway for
+SDBs to the public sector marketplace. The MAS program-as the government's largest
+commercial acquisition vehicle program-contains approximately 12,000 small
+businesses, of which over 5,000 are disadvantaged. The MAS program contains unique
+features that make it the entryway point, such as continuously open to add new small
+businesses, small business teaming, socio-economic set-asides, access to free eTools,
+ability to sell to State and local governments under certain authorities, education and
+outreach support and ability to grow in size while holding a single 20-year contract
+spanning all commercial categories of spend. The MAS program has outperformed the
+governmentwide small business and socio-economic goals.
+Evaluation Questions
+Which aspects of the MAS process are most important for improving small
+disadvantaged business performance on MAS?
+What characteristics of small businesses are related to successfully being awarded
+contracts?
+What services are most effective at supporting SDBs that struggle to win
+contracts when they are on Schedule?
+How can processes for small business certification be improved?
+Case for Evaluation
+As part of its equity analysis for Executive Order 13985 (Advancing Racial Equity and
+Support for Underserved Communities Through the Federal Government), GSA
+assessed its FSS, GWACs, and other governmentwide multiple award contracts such as
+OASIS and OASIS SB. GSA found that although underserved businesses fared better in
+winning GSA business than they did governmentwide, too many were not able to win task
+or delivery orders. Initially, GSA will focus on the MAS and improving equity outcomes for
+SDBs in the MAS to support the new 15-percent target for SDBs.
+13
+Evaluation Approach and Timeline
+Foundational fact-finding and descriptive studies of the MAS program in FY 2022
+will identify key bottlenecks where SDBs struggle in the contracting process. FY
+2023 will be focused on designing interventions to reduce the identified barriers
+and test the interventions with impact evaluation where possible.
+FY 2022
+FY 2023
+FY 2024
+FY 2025
+Evaluation Activity
+Q1
+Q2
+Q3
+Q4
+Q1 Q2 Q3 Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Impact evaluation of MAS process changes to
+improve SDB outcomes
+Key Data and Information
+Key data and information that will inform Evaluation Topic 2.1 could include:
+User research to inform supplier pain points and bottlenecks during the pre-award
+and post-award phases;
+Analysis of supplier administrative data to track number of number of awards and
+obligation, time spent in different parts of the process, bid success rates, etc.;
+Website analytics to understand user experience and website interactions;
+Other qualitative data collection activities to understand the overall supplier
+experience.
+Anticipated Challenges and Solutions
+While there is high-quality administrative data available to identify which businesses are
+more and less likely to win contracts, this data may not capture the reason why some
+businesses struggle. Collecting additional data may require the approval of additional
+information collections and using additional qualitative methods for understanding
+customer journeys. The GSA Office of Customer Experience and staff in the Federal
+Acquisition Service have the capacity to support these efforts to better diagnose
+procedural bottlenecks.
+Evidence Use and Dissemination
+Evidence generated from multiple contracting processes-both those designed to help
+small businesses get certified or on Schedule and those designed to help businesses
+ultimately win contracts-may reveal some common themes. By working both internally
+with GSA and externally with SBA, the pilots could create multi-agency solutions, for
+example, GSA may be able to refer SDBs to new programs identified in SBA pilots.
+14
+Learning Question 3: Digital Government
+How can GSA Technology solutions support effective service delivery
+to the public?
+Context
+The GSA Technology Transformation Services (TTS) strives for a digital government that
+delivers for the public through trusted, accessible, and user-centered technologies. TTS
+helps agencies make their services more accessible, efficient, and effective with modern
+applications, platforms, processes, personnel, and software solutions and to empower
+the public with better access to Government information and resources. With a focus on
+unifying, improving, and standardizing the experience the public has while interacting with
+the Federal Government, TTS has a number of digital platforms it has developed.
+Evidence on how to best leverage these solutions, improve and expand the solutions and
+meet customer and public needs will be in direct service to GSA's Learning Agenda.
+For example, TTS leads login.gov, USAGOV and US Web Design Systems. Login.gov
+offers users simple, secure access to online Government services. Users will be able to
+sign in with a single set of credentials for all participating government programs. USAGov
+connects people with government information more than 700 million times a year through
+its websites (USA.gov and USAGov en español), social media, publications, email, and
+phone calls to the USAGov Contact Center. And the U.S. Web Design System (USWDS)
+makes it easier to build accessible, mobile-friendly Government websites for the
+American public. Given the reach and scale of TTS offerings, further evidence on how to
+best leverage these services to better serve the public will be key in assisting GSA in
+delivering on its mission.
+Strategic Objective
+Implement inclusive, accessible, and equitable design practices that improve customer
+experience with technology and digital platforms.
+Evaluation Approach and Timeline
+Evaluations in FY 2023 will depend on learning from foundational fact-finding in FY 2022.
+These evaluations will be updated as those efforts progress. Potential areas of interest
+include:
+15
+Using descriptive studies of targeted public-facing websites to identify drop-off
+points for interactions and testing program improvements to increase utilization
+and/or accessibility of public-facing websites.
+Conducting formative evaluation of website changes to increase access and
+usability. For example, current efforts to better understand equity concerns of
+identity verification through login. gov could lead to trialing improvements on a small
+scale to see if they solve fundamental issues.
+Understanding the effects of digitizing Federal forms on access and data integrity
+by embedding impact evaluation.
+Using descriptive studies and outcome evaluation to understand how vote. gov can
+improve access to voter information and registrations for underserved
+communities.
+FY 2022
+FY 2023
+FY 2024
+FY 2025
+Evaluation Activity
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Descriptive study of targeted public-facing
+websites
+Formative evaluation of website changes to
+increase access and usability.
+Evaluation of the effects of digitizing Federal
+forms
+Key Data and Information
+Key data and information that will inform Evaluation Topic 3.1 could include:
+Website accessibility scans (and related metrics);
+Website analytics through Google Digital Analytics Program to understand how
+users travel through the digital ecosystem and identify possible areas for further
+investigation;
+Potentially creating novel measurement strategies to better understand
+accessibility through the lens of task completion;
+Surveys to assess knowledge of website manager and coordinators;
+User research to understand challenges to complete tasks related to high-priority
+websites.
+Anticipated Challenges and Solutions
+Measurement of reach and impact on the public, resulting from TTS services and
+offerings, will continue to pose a challenge when developing evidence moving forward.
+Data on user outcomes on a broad scale are not consistently collected currently and will
+require significant effort and resources to capture reliably. Further complicating these
+16
+efforts, such user outcomes are often one or more degrees separated from the user's
+contact with TTS. As GSA explores promising modifications to programs and platforms
+with potential to enhance impact, statutory requirements may pose some limitations
+inhibiting the range of possible modifications. Further, embedding evaluation into TTS
+offerings and outreach may require changes in terms of client engagement and
+operations, adding additional complexity and requiring additional capacity.
+Evidence Use and Dissemination
+Foundational fact-finding activities in FY 2022 will be used to target at least one priority
+evaluation in FY 2023, and GSA evaluation leads will work with TTS to outline additional
+evaluation activities in FYs 2024 and 2025.
+17
+Learning Question 4: Government Operations
+What GSA programs and policies are effective at improving climate
+adaptation, resilience, and mitigation?
+Context
+The Office of Government-wide Policy's (OGP) mission is to provide innovative solutions
+for the future of Government. OGP helps agency partners prepare for the future of mission
+delivery by leveraging smart policy, analytical data, and dynamic program implementation
+across Government. OGP aims to be the trusted partner leading to better Government
+with improved citizen experiences and savings. One key aspect of this is prioritizing an
+understanding of climate change risks and opportunities.
+This effort supports OGP's overall mission by modeling how we build and use evidence
+to improve internal operations and inform policy guidance across the Government.
+Progress will require continuing to improve the use of data for decision-making and
+accountability for the Federal Government, including for policymaking, innovation,
+oversight, and learning. OGP will use the best available science-based climate data and
+develop and use new data sources and tools to better inform decision making, including
+through risk-informed processes to identify its vulnerability to climate disruptions. High
+quality data will allow us to run rapid, low-cost tests and identify effective policy changes,
+and we will identify, prioritize, and make progress on data gaps.
+In formulating policy, OGP will work to advance equitable distribution of environmental
+risks and benefits and to avoid actions that may lead to increased risk of adverse climate-
+related outcomes, increased vulnerability to climate change, or diminished welfare, now
+or in the future.
+Strategic Objective
+Provide centralized services and shared solutions that promote cost savings and
+environmental sustainability, enabling agencies to focus on mission delivery.
+18
+Evaluation Topic 4.1: Greening of the fleet
+What programs or policies are effective at promoting greening of the
+fleet, including use of electric or other zero emission vehicles?
+Overview
+GSA Fleet will play a major role procuring electric vehicles (EVs) for the Federal fleet to
+proactively address the climate crisis. GSA is the mandatory source for executive
+agencies purchasing non-tactical vehicles in the United States, so it will continue to
+expand the available EV options for agencies to purchase. GSA's end-to-end vehicle
+leasing program for the Federal Government includes over 227,000 vehicles. In support
+of Executive Order 14008 (Tackling the Climate Crisis at Home and Abroad), GSA will
+continue to use the Federal Government's buying power to electrify the Federal fleet.
+Given this executive order and GSA's extensive fleet operational experience and
+automotive industry expertise, GSA is working closely with Federal agencies in:
+developing an aggressive action plan to rapidly electrify the Federal fleet;
+participating in the White House's Council on Environmental Quality steering
+committee and working groups to craft the best solutions for electrifying the
+Federal fleet and tackling charging-station infrastructure; and
+co-leading (with the U.S. Department of Energy) an interagency working group that
+meets monthly to tackle fleet electrification.
+Currently, 35 Federal agencies have procured EVs from the GSA Fleet. These EVs
+include electric sedans, cargo vans, minivans, and SUVs.
+Evaluation Approach and Timeline
+GSA will identify key targets for foundational fact-finding in FY 2022. This fact-finding will
+be used to identify data gaps, understand customer needs and potential barriers to
+purchasing, leasing, and using EVs, and will investigate the physical infrastructure
+needed to promote EV use. The foundational fact-finding is intended to identify evaluation
+opportunities in FY 2023.
+FY 2022
+FY 2023
+FY 2024
+FY 2025
+Evaluation Activity
+Q1
+Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+Formative evaluation of pilots to increase the
+use of EVs
+19
+Key Data and Information
+Key data and information to inform Evaluation Topic 4.1 could include:
+Vehicle usage data, including telematics where available to understand which
+vehicles may be high value targets for replacement;
+(If available) Zero-emission vehicle Planning and Charging (ZPAC) tool data and
+Electric Vehicle Supply Equipment (EVSE) planning data to understand
+infrastructure needs and opportunities;
+Discussions with fleet managers and vehicle users at other federal agencies to
+understand what factors guide EV utilization decisions and identify possible
+opportunities for implementing novel strategies for increasing EV use or reducing
+high-emission behavior.
+Anticipated Challenges and Solutions
+Due to COVID-19, governmentwide travel and vehicle use will likely be curtailed for an
+extended period of time. This will affect the ability to initiate evaluations of standard travel
+behavior, including use of fleet vehicles. GSA does not have access to all agency fleet or
+travel data, which continues to be an ongoing challenge. GSA will identify partner
+agencies and initiate data sharing activities to expand the available data. Fleet data, in
+particular, will require further investment and cooperation from partner activities, both
+within and outside of GSA, to serve as reliable indicators and outcomes for future
+evidence building activities.
+Evidence Use and Dissemination
+Foundational fact-finding in FY 2022 will be used to target at least one priority evaluation
+in FY 2023 related to the greening of the Federal fleet. GSA will continue to coordinate
+with internal and external stakeholders to refine evaluation plans for FYs 2024 and 2025.
+20

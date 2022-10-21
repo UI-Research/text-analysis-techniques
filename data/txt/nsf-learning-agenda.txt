@@ -1,0 +1,1421 @@
+NSF:
+National Science Foundation
+National Science Foundation
+Learning Agenda
+FY 2022-FY 2026
+March 2022
+About
+The National Science Foundation (NSF)
+NSF was created "to promote the progress
+of science; to advance the national health,
+prosperity, and welfare; to secure the national
+defense. (1950, as amended).
+NSF seeks to achieve these goals through an
+integrated strategy that advances the frontiers
+of knowledge; cultivates a world-class, broadly
+inclusive science and engineering workforce;
+expands the scientific literacy of all citizens;
+builds the nation's research capability through
+investments in advanced instrumentation and
+facilities; and supports excellence in science
+and engineering research and education.
+NSF is committed to evaluating the efficacy
+and efficiency of its strategy, leveraging
+evaluation to help the agency achieve its
+mission. Evaluations and other evidence-
+building activities conducted or supported
+by NSF are expected to adhere to NSF's
+Evaluation Policy.
+The Evaluation and Assessment
+Capability (EAC) Section
+EAC bolsters NSF efforts to make informed
+decisions and promote a culture of evidence.
+Located in the Office of Integrative Activities
+of the Office of the Director, EAC provides
+centralized technical support, tools, and
+resources to conduct evidence-building
+activities and to build capacity for evidence
+generation and use across the agency.
+Questions?
+Please contact Clemencia Cosentino,
+Chief Evaluation Officer, at eac@nsf.gov.
+Canyon along U.S. Route 87 in rural Montana
+Credit: Rob Margetta/NSF
+Acknowledgments
+NSF gratefully acknowledges the contributions of a wide range of stakeholders who were consulted
+or otherwise participated in the preparation of the agency's Learning Agenda, which also serves as
+the foundation for NSF's Annual Evaluation Plans.
+NSF Leadership and Staff
+Leadership and staff from all NSF Directorates and Offices joined
+brainstorming sessions, helped prioritize learning questions, and drafted/
+reviewed the plans to answer those questions.
+Federal Government Agencies
+NSF consulted with other government agencies with similar investment
+portfolios to assess the merits of the questions, formulate technical
+approaches to answer the questions, and determine the questions' potential
+for generating evidence that is useful for other agencies.
+Other Stakeholders
+NSF consulted with evaluators and researchers across multiple sectors-
+in academia, private and philanthropic organizations, and state and local
+government-and solicited input from the public through a request for
+information published in the Federal Register.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026 |
+March 2022
+3
+Introduction
+The Foundations for Evidence-Based Policymaking Act of 2018, Public Law No. 115-435 (Evidence Act),
+gave impetus to ongoing federal efforts to use evidence in decision-making. This legislation created an
+opportunity to focus attention on promoting government effectiveness and efficiency by building and
+using evidence in the most impactful way. This document presents NSF's Learning Agenda or Evidence-
+Building Plan for FY 2022-FY 2026 and was developed following guidance provided by the Office of
+Management and Budget (OMB M-21-27, OMB M-19-23, OMB M-20-12, and OMB Circular No. A-11).
+Section 1: Overview: Guiding and Priority Questions (Page 5)
+An overview of the tiered approach NSF adopted for its Learning Agenda.
+Section 2: Selection Criteria (Page 6)
+Criteria that NSF used for selecting questions to prioritize.
+Section 3: Questions at a Glance: FY 2022-2026 (Page 7)
+The list of questions prioritized.
+Section 4: Study Plans (Page 11)
+An overview of the background/rationale, timeline, technical approach,
+data sources, expected challenges and mitigating strategies, and use and
+dissemination plans for each prioritized question.
+Tutakoke River's edge
+Credit: Ryan Choi, Utah State University
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026 |
+March 2022
+4
+Section 1
+Overview: Guiding and Priority Questions
+Torres del Paine National Park, Chile
+Credit: Carlye Calvin: University Corporation for Atmospheric Research
+NSF expects to pursue several evidence-building efforts over the four years of the next Strategic
+Plan, FY 2022-FY 2026. These may take many forms-evaluations, performance monitoring
+landscaping studies, literature reviews, and SO on-and may be conducted or supported by
+different organizations within the agency.
+Guiding Questions
+To ensure that evidence-building efforts pursued across the Foundation contribute
+to agency learning priorities, NSF developed four high-level guiding questions
+aligned with the four goals in its Strategic Plan. Presented in Section 3, these
+guiding questions will serve as a North Star for evidence-building activities. They
+will help ensure that all specific questions (described below) prioritized across NSF
+Directorates and Offices meet ultimate agency learning goals and, in four years,
+contribute information needed to develop the next NSF Strategic Plan.
+Priority Questions
+NSF developed a set of specific questions to answer through studies supported
+by NSF over the next few years. Some of these questions were included in NSF's
+Interim Learning Agenda. Agency staff engaged in discussions to develop NSF's
+Strategic Plan or participated in exercises designed to surface additional useful
+questions. The priority questions align with Administration priorities, including
+equity, climate change, and pandemic recovery.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+|
+March 2022
+5
+Section 2
+Selection Criteria
+Iceberg in Rosita Harbor, South Georgia Island
+Credit: Kelton W. McMahon, Graduate School of Oceanography, University of Rhode Island
+The following are five criteria used to select questions for NSF's Learning Agenda:
+(1) fill a knowledge gap-the information sought is not available from
+existing sources, such as scholarly literature and evaluations supported by
+other agencies implementing similar efforts
+(2) have leadership support-to prioritize the staff time and commit the
+resources that the work demands
+B
+(3) have potential to support upcoming decisions-are likely to yield
+actionable and useful evidence in a timely fashion
+(4) have potential for broad impacts-wil likely result in findings that are
+useful for a broad set of stakeholders, programs, or organizations
+[]
+(5) are prioritized by NSF leadership-respond to evolving requirements,
+Congressional mandates, and national and long-term strategic priorities
+During NSF's initial phase of Evidence Act implementation, these criteria were assessed as follows:
+- Individually, criteria 1-3 are necessary but not sufficient conditions
+- Questions meeting criteria 1-4 are likely to be prioritized, absent resource constraints
+- Criterion 5 is a sufficient condition to identify a question as significant
+These criteria, and their use, may be revised as implementation of the Evidence Act and related
+legislation matures and as NSF responds to changing priorities and external events, such as those
+observed in recent years (COVID-19, government shutdowns, and delays in appropriations).
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+6
+Section 3
+Questions at a Glance: FY 2022-FY 2026
+This section includes (1) guiding questions that align with each goal in NSF's Strategic Plan, (2) more
+specific questions prioritized for NSF's Learning Agenda because they contribute information in
+support of NSF's Strategic Plan goals and objectives, and (3) a mapping of the priority questions to
+NSF's Strategic Plan and the Administration priorities.
+Antarctic Peninsula Paleontology Project
+Credit:Joseph Sertich, Denver Mus um of Nature and Science
+NSF's Strategic Plan provides the
+foundation for NSF's Learning Agenda
+Strategic Goals
+Guiding Questions
+Engage:
+How can NSF help
+1
+Empower STEM talent
+grow STEM talent and
+MIAM
+to fully participate in
+opportunities for all
+science and engineering
+Americans most equitably?
+Discover:
+How can NSF fuel
+2
+Create knowledge about
+transformative discoveries
+our universe, our world,
+and ourselves
+most effectively?
+Impact:
+How can NSF mobilize
+3
+Benefit society by translating
+knowledge most effectively
+knowledge into solutions
+to impact society?
+4
+Excel:
+How can NSF excel in
+Excel at NSF operations
+stewarding and realizing
+and management
+its vision?
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+|
+March 2022
+8
+Priority questions align with NSF's Strategic Plan
+The priority questions below are organized to show how they align with a Strategic Goal's associated Guiding
+Question, although each priority question contributes to more than one agency goal.
+How can NSF grow STEM talent and opportunities for all Americans most equitably?
+FY22-1
+Missing Millions
+How can NSF help increase the participation of underrepresented groups in the STEM workforce?
+FY22-2
+COVID pandemic
+In what ways did the COVID pandemic influence the participation of different groups in the
+NSF portfolio of programs and activities?
+FY22-3
+Harassment prevention
+How can NSF help reduce and ultimately eliminate harassment in federally funded research settings?
+FY22-4
+REU-ETAP data system
+How could the data system developed for the Research Experiences for Undergraduates (REU)
+Sites program be leveraged to improve prospective monitoring of characteristics of participants
+in research experiences supported by other NSF programs and study the impact of research
+experiences on STEM outcomes, such as educational attainment?
+How can NSF fuel transformative discoveries most effectively?
+FY22-5
+Climate change
+What are the characteristics of NSF's portfolio on climate change, and to what extent might this
+portfolio advance NSF's goals of equity, discovery, and impact?
+FY22-6
+EPSCoR
+How do Established Program to Stimulate Competitive Research (EPSCoR) program funding
+strategies (infrastructure, co-funding, and outreach) contribute to increasing academic research
+competitiveness across jurisdictions?
+How can NSF mobilize knowledge most effectively to impact society?
+FY22-7 Partnership
+What are the benefits of receiving an award from a program supported by a partnership? How do
+these differ from benefits associated with awards from programs not supported by a partnership?
+What outputs and outcomes are associated with partnership programs? To what extent can these
+be attributed to the partnership programs? What improvements could make partnership programs
+more effective or easier to implement?
+FY22-8
+Convergence Accelerator
+8a. What can be learned from the Convergence Accelerator's innovative selection process that
+may inform improvements in how the agency identifies and selects projects with high potential
+to advance ideas from concepts to deliverables to industry and other partners?
+8b. In what ways does the Convergence Accelerator Innovation Training contribute to the
+emergence of new capacities among participating researchers to meet pressing societal needs?
+C
+How can NSF excel in stewarding and realizing its vision?
+FY22-9
+Merit Review
+What are the characteristics of proposals evaluated through the merit review process? Are these
+characteristics (of individual investigators, teams, institutions, or proposed projects) associated
+with different review or funding outcomes?
+FY22-10 No deadlines
+What outcomes are associated with the adoption of a no-deadlines proposal submission process?
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+|
+March 2022
+9
+Priority questions support current
+Administration priorities
+Federal Administration Priorities
+COVID/
+Global Leadership/
+Learning Agenda
+Climate
+Trust in
+Equity
+Pandemic
+Economic Recovery/
+Priority Questions
+Change
+Government
+Recovery
+Innovation
+FY22-1
+Missing Millions
+FY22-2
+COVID pandemic
+FY22-3
+Harassment prevention
+FY22-4
+REU-ETAP data system
+FY22-5
+Climate change
+FY22-6
+EPSCoR
+FY22-7
+Partnership
+FY22-8
+Convergence Accelerator
+FY22-9
+Merit Review
+FY22-10
+No deadlines
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+10
+Section 4
+Study Plans
+This section includes a brief study plan for each prioritized question. The study plans show
+the alignment of the questions with NSF's Strategic Plan. They also provide overviews of
+the background/rationale, timeline, technical approach, data sources, expected challenges
+and mitigating strategies, and use and dissemination plans. Plans are color coded to align
+with OMB's typology of evidence-building activities (OMB M-19-23).
+Seismic vibration research at the red rock arches of the Colorado Plateau.
+Credit: Alison Starr, University of Utah
+Program Evaluation and Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+1
+How can NSF help increase the participation of underrepresented groups
+in the STEM workforce?
+Strategic Goal
+Engage: Empower STEM talent to fully participate in science and engineering
+Strategic Objectives
+Ensure accessibility and inclusivity
+Unleash STEM talent for America
+Guiding Question
+How can NSF help grow STEM talent and opportunities for all Americans most equitably?
+Background
+The National Science Board's (NSB) report, Vision 2030, notes that "women and
+and underrepresented minorities remain inadequately represented in S&E relative to their
+Rationale proportions in the U.S. population." NSF awards more than $1 billion to broadening
+participation programs each year. These include programs focused on broadening,
+programs placing an emphasis on broadening participation, and programs that
+support research that contributes to these efforts by engaging students, post-docs,
+and early career faculty. Programs also vary in the strategies used to broaden
+participation-indluding scholarships, fellowships, mentorships, research experiences,
+and other interventions targeting individuals, teams, networks, and institutions.
+NSF has evaluated some of its efforts (examples include the quasi-experimental
+evaluations of the Louis Stokes Alliances for Minority Participation and the Graduate
+Research Fellowship Program) and evaluation activities will continue throughout the
+years of NSF's new Strategic Plan as specific research questions are developed. These
+questions will guide further studies that contribute useful evidence that helps NSF
+bolster the efficacy of its initiatives to broaden participation and reduce inequities in
+how it delivers programs to its communities.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+12
+Program Evaluation and Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+1
+Continued.
+Background
+NSF will pursue a series of studies designed to answer specific research questions,
+and
+which might include the following: What intersectional groups are extremely
+Rationale
+underrepresented in STEM, and why? How could NSF leverage tools at its disposal-
+cont'd
+policies, strategies, programs, and SO on-to increase the participation of these (most
+extremely underrepresented intersectional) groups in the STEM enterprise? What are
+the characteristics and, among individuals, educational and workforce outcomes of
+beneficiaries of NSF workforce development programs? What are the impacts of NSF
+policies and programs on the diversity of the STEM workforce and the participation
+of the most underrepresented groups? What changes to current NSF policies and
+programs might further catalyze improvements in the participation of extremely
+underrepresented groups in the STEM enterprise? What does success look like?
+Answers to these questions will help NSF identify best practices and align programs and
+policies toward closing gaps in participation in the STEM enterprise.
+Timeline
+FY 2022-FY 2026
+Technical
+Technical approaches will be developed once the results of ongoing studies are
+Approach available (such as the ongoing evaluations of the ADVANCE program and the Emerging
+Frontiers in Innovation Research Experience and Mentoring program) and new
+questions are finalized. NSF might pursue foundational studies (1) to further diagnose
+the problem of underrepresentation in STEM (and develop targeted interventions) and
+(2) to understand the characteristics of beneficiaries from NSF's portfolio of investments
+and (3) determine the success of current NSF strategies and programs in achieving their
+goals equitably. More specifically, next steps may include the following: (1) an analysis
+that helps NSF identify extremely underrepresented groups (as characterized by
+intersectional characteristics, such as disabled women of color) and diagnose barriers
+to their participation; (2) a systematic review of broadening participation approaches
+used by NSF or emerging from the scholarly/policy literature to inform decisions
+regarding the portfolio of strategies that NSF will pursue; (3) a meta-analysis of existing
+evaluations related to NSF investments in broadening participation to identify the
+most impactful strategies leading to equitable outcomes and gaps in knowledge; and
+(4) additional evaluations with well-matched comparison group designs to measure
+the causal impacts of NSF programs and contribute useful knowledge to guide agency
+efforts to dismantle barriers to equitable participation in the STEM enterprise.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+13
+Program Evaluation and Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+1
+Continued.
+Data Studies will rely on the following data sources: NSF administrative records (including
+Sources annual and final reports and existing monitoring data systems to identify individuals),
+the National Center for Science and Engineering Statistics (for nationally representative
+survey data), the Integrated Postsecondary Education Data System and Carnegie
+Classification of post-secondary institutions (for information on the characteristics
+of institutions), the National Student Clearinghouse (for educational outcomes data),
+and individuals who participate in data collections (such as students, postdoctoral
+research fellows, university administrators, and principal investigators (Pls) surveyed or
+interviewed).
+Challenges and
+NSF anticipates challenges in identifying participants and nonparticipants and
+Mitigating
+obtaining data on their characteristics to conduct descriptive analyses and construct
+Strategies
+well-matched comparison groups. NSF will rely on its data systems and national data,
+analyze the quality of existing data, and devise approaches to fill in data gaps, such
+as collecting demographic and prior achievement information through collections
+conducted as part of the new studies.
+Proposed studies will also place burden on respondents asked to participate in
+surveys, interviews, or focus groups. NSF will seek to collaborate with stakeholders to
+develop approaches that rely on existing data, leverage moments when respondents
+have strong incentives to provide information, and clearly communicate benefits of
+participation. A related challenge will be obtaining adequate response rates from
+participants and nonparticipants to enable robust and causal inferences. NSF will draw
+on its extensive experience recruiting respondents to devise appropriate strategies for
+each respondent group.
+Use and
+Findings will help NSF describe, reduce, and address barriers to full participation
+Dissemination
+by updating programs and policies, identifying best practices to consider adopting,
+and aligning efforts to broaden participation of groups underrepresented in STEM.
+As appropriate, findings will also be shared with the NSB, Committee on Equal
+Employment Opportunity in Science and Engineering, communities implementing
+NSF-funded programs (such as Pls), beneficiaries of NSF programs, and the public.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+14
+Program Evaluation
+Mission - Strategic
+Question FY 2022
+2
+In what ways did the COVID pandemic influence the participation of different
+groups in the NSF portfolio of programs and activities?
+Strategic Goal
+Engage: Empower STEM talent to fully participate in science and engineering
+Strategic Objective
+Ensure accessibility and inclusivity
+Guiding Question
+How can NSF help grow STEM talent and opportunities for all Americans?
+Background
+The COVID-19 pandemic disrupted NSF operations. In mid-March 2020, the agency
+and
+transitioned to remote work and cancelled in-person activities, including panels
+Rationale through which thousands of proposals (more than 40,000 yearly) are peer reviewed
+to receive funding recommendations. NSF grantees also experienced disruptions.
+Some institutions reported closing laboratories or limiting field work, which affected
+research conducted by faculty, researchers, post-docs, and students. NSF-supported
+facilities were affected as well; for example, needed resources could not be deployed
+to some facilities due to travel restrictions. Concerns over the impacts of these COVID-
+driven disruptions on the scientific enterprise-and on the careers of those most at
+risk (such as early career and female scientists)-were voiced at NSF and beyond
+(Cui, Ding, and Zhu 2021; NASEM 2021; Myers et al. 2020, Morgan et al. 2021). These
+included warnings of grant applications delayed, papers left unwritten, and research
+careers stalled, particularly among groups underrepresented in science, technology,
+engineering, and mathematics. NSF used administrative data to monitor key
+indicators (such as proposals received by gender) and leveraged its deep community
+connections to hear from external stakeholders regarding problems encountered
+and strategies used to address them. What emerged was a complex picture that
+requires careful assessment. Disruptions seemed to have led to both negative and
+positive outcomes. For instance, the switch to virtual work disrupted in-person panels
+but also opened the door for increasing reviewer diversity through remote panels
+(by removing the barrier that travel may represent for some, such as scientists with
+caregiver responsibilities or underrepresented minorities with disabilities that make
+traveling difficult). Building a deeper understanding of this complexity is an important
+step in developing or revising interventions to (1) address any inequities that may
+have been exacerbated or introduced during the pandemic, (2) reinforce positive
+outcomes observed, and (3) prepare for future disruptions.
+Timeline
+FY 2022-FY 2023
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+15
+Program Evaluation
+Mission - Strategic
+Question FY 2022
+2
+Continued.
+Technical This evaluation will include quantitative and qualitative components. The quantitative
+Approach
+component will begin with a descriptive analysis of the characteristics of different
+groups in NSF's portfolio over time. This will include the characteristics of principal
+investigators (PIs) and teams submitting proposals and of reviewers participating
+in panels or conducting ad-hoc reviews-overall, by Directorates and Offices,
+and by whether proposals were awarded or declined. This exploratory work will
+facilitate analyses of data through a difference-in-differences approach (to measure
+differences in measures, such as proposals submitted by gender before and after
+the pandemic) and the specification of regression models as part of an interrupted
+time-series (ITS) design to determine changes that might be attributed to COVID-
+by modeling (and comparing) the expected pre-COVID and observed since-COVID
+trends, controlling for relevant factors. The qualitative component will rely on
+information gathered through semi-structured interviews with NSF program officers
+(POs), Pls, and reviewers. Once collected, these qualitative data will assist in the
+interpretation of quantitative findings, and model specification (to ensure important
+relationships are not overlooked) and understanding of relevant factors (positive
+and negative) that influenced participation in NSF's portfolio since the onset of the
+pandemic. If helpful for programming decisions, interview findings may be used
+to design a survey to be administered to a representative sample of Pls/reviewers
+to estimate the influence of different factors on participation in NSF's portfolio of
+programs.
+Data
+This study will rely on the following data sources: NSF administrative data (on Pls,
+Sources reviewers, proposals, panel reviews, and award decisions), the National Center
+for Science and Engineering Statistics (for nationally representative survey data
+on the characteristics of the scientific workforce), the Integrated Postsecondary
+Education Data System and Carnegie Classification of post-secondary institutions (for
+information on the characteristics of institutions of Pls and reviewers), and interview
+data (from POs, Pls, and reviewers).
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+16
+Program Evaluation
+Mission - Strategic
+Question FY 2022
+2
+Continued.
+Challenges and
+This study faces at least three limitations related to existing data quality,
+Mitigating
+methodological assumptions, and respondents. (1) The share of principal
+Strategies
+investigators and reviewers providing information on their demographic
+characteristics has been declining over time, which limits NSF's ability to produce
+valid and reliable estimates and tease out whether changes observed are due to
+changes in the composition of individuals in our data (resulting from missing data) or
+to changes in participation. NSF will attempt to mitigate this challenge by conducting
+sensitivity analyses to test the robustness of findings and use imputation techniques
+where possible. (2) A key assumption of the ITS design is that pre-COVID trends would
+have continued unchanged and that no other external factors systematically affected
+the groups of interest during the post-COVID period. During interviews, we will seek to
+determine if these assumptions are reasonable and, if not, identify relevant factors to
+adjust analyses accordingly. (3) Devising a sampling strategy that enables us to identify
+a group of POs, Pls, and reviewers to interview (to obtain the insights we are looking
+for) and that agree to participate in this study will be challenging. We will work closely
+with NSF POs and develop a sample with appropriate replacement cases.
+Use and Findings will be shared with NSF stakeholders to inform programming and policy
+Dissemination
+decisions to address inequities and promote the inclusion of underrepresented
+groups in STEM. As permitted, they will also be disseminated to other Federal
+Government Agencies that have similar programs.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+17
+Policy Analysis and Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+3
+How can NSF help reduce and ultimately eliminate harassment in federally
+funded research settings?
+Strategic Goal
+Engage: Empower STEM talent to fully participate in science and engineering
+Strategic Objectives
+Ensure accessibility and inclusivity
+Unleash STEM talent for America
+Guiding Question
+How can NSF help grow STEM talent and opportunities for all Americans most equitably?
+Background NSF is committed to ensuring that all individuals have access to NSF-funded research
+and
+and learning environments that are free of any form of harassment. To this end,
+Rationale NSF has been bolstering its policies, guidelines, and communications strategies. NSF
+has also begun evaluating its efforts and intends to continue evaluation activities
+throughout the years of its next Strategic Plan, FY 2022 to FY 2026. In early FY 2023,
+the agency expects to complete two ongoing studies. The first is an analysis of the
+communication strategy for NSF's term and condition regarding sexual harassment,
+other forms of harassment, or sexual assault. The second is an evaluation of NSF's
+conference policy, which extends the reach of NSF's anti-harassment efforts to a
+broader range of work environments. Findings from these studies will contribute
+useful evidence for answering this priority question and help design next steps in
+its efforts to bolster the efficacy of its anti-harassment initiatives. Over the next few
+years, the agency will pursue a series of studies designed to answer specific research
+questions, which might include the following: What are the characteristics of incident
+reports filed, and what implications do these characteristics have for the efficacy
+and equity of NSF prevention efforts?, In what ways do existing institutional policies,
+processes, or practices (particularly those related to Title IX requirements) influence
+responses to NSF's T&C?, What strategies can a federal agency like NSF use effectively
+to prevent harassment?
+Timeline FY 2022-FY 2026
+Technical
+Technical approaches will be developed once the results of ongoing studies are
+Approach
+available and new questions are finalized. Such studies may include (1) a descriptive
+analysis of incidents reported to understand their characteristics, assess whether
+underreporting may be occurring, and sharpen existing or devise new prevention
+strategies; (2) a systematic literature review on harassment prevention approaches to
+inform decisions regarding the portfolio of strategies that NSF will pursue; and
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+18
+Policy Analysis and Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+3
+Continued.
+Technical
+(3) interviews or focus groups with members of the NSF community (to include, as
+Approach
+appropriate, faculty, institutional administrators, researchers, teachers, post-docs, and
+cont'd
+students) to understand the influence of NSF reporting requirements on institutional
+practices or processes, assess bias in reporting of incidents, and elicit input on
+(a) expectations regarding what NSF can do to prevent harassment and promote
+reporting of incidents and (b) effective strategies that a government agency such
+as NSF may pursue. NSF is interested in identifying a range of effective prevention
+strategies, including those that rely on positive reinforcement such as prizes for
+institutions creating or actively promoting safe environments effectively or prizes for
+individuals and teams advancing knowledge about impactful strategies to promote safe
+research and learning environments that foster inclusion of groups underrepresented
+in the STEM enterprise.
+Data
+Studies will rely on the following data sources: NSF administrative records (for
+Sources
+information on incidents reported and the community of grantee institutions,
+principal investigators (Pls), and other beneficiaries of NSF programs), the Integrated
+Postsecondary Education Data System and Carnegie Classification of post-secondary
+institutions (for information on the characteristics of institutions), and individuals who
+participate in data collections (such as students, post-docs, university administrators,
+and Pls surveyed or interviewed).
+Challenges and
+We expect several challenges. The first challenge will be in constructing a complete
+Mitigating data set for analysis of incidents reported, as reports vary in the details provided.
+Strategies This can be mitigated by contacting institutions, where needed, to seek clarifications.
+Another challenge will be in making inferences based on incidents reported without a
+robust way of assessing bias in reporting. We will seek to investigate bias and consult
+the literature and experts in the field, such as participants in the recent National
+Academies of Sciences Workshop on Developing Evaluating Metrics for Sexual
+Harassment Prevention Efforts. A third challenge will be in obtaining high response
+rates as we contact individuals to participate in interviews or surveys. NSF will draw on
+its extensive experience recruiting respondents to devise appropriate strategies for
+each respondent group.
+Use and Findings will be used to consider approaches to bolster NSF's harassment prevention
+Dissemination
+efforts. They will be shared internally with leadership and staff, particularly those
+leading NSF efforts in this space (the NSF Office of Equity and Civil Rights and the Office
+of the General Counsel). Findings will also be disseminated to other stakeholders
+across the Federal Government-such as agency equity teams or interagency
+working groups-to promote harassment prevention efforts throughout the Federal
+Government. As appropriate, findings will also be shared with the broader community
+of beneficiaries of NSF programs and the public.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+19
+Program Evaluation and Performance Measurement
+Mission - Strategic
+Question FY 2022
+How could the data system developed for the Research Experiences for
+Undergraduates (REU) Sites program be leveraged to improve prospective
+monitoring of characteristics of participants in research experiences
+supported by other NSF programs and study the impact of research
+experiences on STEM outcomes, such as educational attainment?
+Strategic Goal
+Engage: Empower STEM talent to fully participate in science and engineering
+Strategic Objectives
+Ensure accessibility and inclusivity
+Unleash STEM talent for America
+Guiding Question
+How can NSF help grow STEM talent and opportunities for all Americans?
+Background The Research Experiences for Undergraduates (REU) program was created in 1987 to
+and strengthen the science, technology, engineering, and mathematics (STEM) workforce.
+Rationale The program is designed to foster student research and promote diversity, as "one of
+the most effective avenues for attracting students to and retaining them in science
+and engineering and preparing them for careers in these fields" (NSF 19-582).
+Implemented across NSF Directorates, the program invests at least $85 million yearly
+in grants. These grants mostly go to university faculty who either (1) support about 10
+students per year conducting research at their REU Sites, usually during the summer;
+or (2) support one or more students through REU supplements. For the past few
+years, NSF has supported the design, development, and pilot testing of a data system
+needed for several purposes, including (1) responding to the America COMPETES
+Reauthorization Act of 2010 (Section 514[a][6] of Public Law 111-358), which requires
+ongoing tracking of demographic characteristics and career outcomes of participants
+in REU Sites; and (2) enhancing NSF efforts to monitor program implementation
+through a data collection system paired with data analytics capacity and visualizations
+that make information easily accessible to program officers. NSF also leveraged
+the opportunity to provide a service to principal investigators (PIs), who are mostly
+university faculty members, and prospective student applicants. This service creates
+efficiencies in program administration (Pls can use the system to administer student
+applications to their sites instead of devoting resources to developing and maintaining
+their own application systems) and lowers the barriers to entry into the program
+both for Pls, who can leverage the existing application system, and students, who can
+more easily identify and apply to research experiences around the nation through a
+single application. As the system is enhanced and implementation is scaled up in FY
+2022-FY 2024, NSF has an opportunity to consider how to further develop the system
+to integrate other programs in its portfolio of workforce development efforts and
+facilitate use for future rigorous evaluations. These future developments would not
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+20
+Program Evaluation and Performance Measurement
+4
+Mission - Strategic
+Question FY 2022
+Continued.
+Background
+only support NSF efforts to assess its portfolio of investments but would also support
+and contributions to the existing literature on research experiences, which relies heavily on
+Rationale
+descriptive and correlational studies and offers limited evidence of impacts (National
+cont'd Academies of Sciences, Engineering, and Medicine 2017).
+Timeline FY 2022-FY 2024
+Technical The pilot of the REU data system included testing of (1) a web portal to collect basic
+Approach student information such as demographic characteristics and (2) a common student
+application. Either could enable NSF to design quasi-experimental and, with voluntary
+participation among Pls, experimental evaluations of the program. As the NSF
+Education and Training Application (ETAP) system is scaled up for further testing
+and implementation, NSF seeks to design and develop the functionalities needed
+to conduct such evaluations. This might include expanding disclosures to inform
+system users of planned or potential studies, specifying propensity-score matching
+models for quasi-experimental evaluations using data collected through the system,
+and documenting voluntary participation in randomized studies. NSF also seeks to
+consider expanding this system to enable participation of other NSF programs that
+serve students as a path toward building a unified data system for programs offering
+research experiences (in the medium term) and for other workforce development
+programs (in the long run). Doing this will require deep stakeholder engagement in
+considering advantages and disadvantages of such expansion, identifying needed
+system enhancements, and charting a path forward.
+Data Data sources will include data system documentation, brainstorming meetings with
+Sources
+NSF leadership (such as members of the NSF Evidence Act and Data Governance
+Steering Committee), interviews or focus groups with NSF POs, and webinars with Pls.
+Challenges and Robust stakeholder engagement, ensuring that all voices are heard and considered,
+Mitigating
+will present the greatest challenge to this effort, especially as it grows to include
+Strategies
+additional programs. This challenge will be addressed by seeking input from the EAC
+Steering Committee, which is comprised of leadership from across NSF Directorates
+and Offices, designing stakeholder engagement activities and allowing sufficient time in
+the design and testing phases of this work to not only engage stakeholders but also act
+on their feedback.
+Use and
+This data system will be used by NSF POs and Pls to manage applications, monitor
+Dissemination
+participation in the REU program, report to leadership (internally and externally), and
+support evaluations. Findings will be disseminated internally in real time through the
+system's integrated reporting capabilities and externally through the NSF website.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+21
+Foundational Fact Finding
+5
+Mission - Strategic
+Question FY 2022
+What are the characteristics of NSF's portfolio on climate change, and to
+what extent might this portfolio advance NSF's goals of equity, discovery,
+and impact?
+Strategic Goal
+Discover: Create knowledge about our universe, our world, and ourselves
+Strategic Objective
+Advance the frontiers of research
+Guiding Question
+How can NSF fuel transformative discoveries most effectively?
+Background
+NSF's broad portfolio of programs supports a wide range of activities related to
+and
+climate change, including efforts that advance our understanding of (1) the processes
+Rationale
+that govern climate on Earth at different spatial and temporal scales, (2) the
+impact that changes in climate have on ecosystems and societies, and (3) the most
+sustainable solutions and technologies that will enable adaptation to, and mitigation
+of, climate change. This wide-ranging portfolio of investments in climate change has
+grown over time from focused disciplinary programs within Directorates and Offices
+(such as Climate and Large-Scale Dynamics in the Directorate for Geosciences and
+Environmental Sustainability in the Directorate for Engineering) to cross-disciplinary
+programs across Directorates and Offices (such as Critical Aspects of Sustainability,
+Navigating the New Arctic, and Dynamics of Integrated Socio-Environmenta Systems).
+In collaboration with the community, substantial research on climate science and its
+impacts is undertaken at NSF's largest federally funded research and development
+center, the National Center for Atmospheric Research. As this evolution suggests,
+research in climate change has moved from disciplinary to convergent approaches-
+that is, integrated interdisciplinary and cross-sectoral approaches to understand
+the causes of climate change, measure its impacts, and devise effective, sustainable,
+scalable, and equitable solutions. Understanding the present characteristics of NSF's
+portfolio of investments in climate change is critical to supporting ongoing efforts to
+design strategies that will help direct the research supported (how, who, and what
+science is supported) and the investments made (within and across Directorates)
+to amplify the impact of scientific advances in slowing and hopefully reversing the
+impacts of climate change.
+Timeline
+FY 2022-FY 2023
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+22
+Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+5
+Continued.
+Technical This study will document the characteristics of the climate change portfolio currently
+Approach supported by NSF. These may include the Directorates and Offices supporting
+the activities (funding and co-funding), areas of focus (understanding of climate
+change processes and phenomena, impacts, or solutions), approaches (disciplinary,
+interdisciplinary, convergent), partnership types (by partner characteristics, such
+as industry versus academia, and by the presence of "co-production" or "engaged
+research" with communities most impacted by climate change), diversity in the scientific
+workforce in this space, and other dimensions relevant to consider future directions of
+this portfolio of work and assess equity along different dimensions. The analysis will be
+descriptive and correlational (not causal) and may include an assessment of solicitation
+guidance against the pool of proposals received (to investigate alignment with or
+responsiveness to NSF guidance), a comparison of awards and declines to understand
+the characteristics of successful and unsuccessful proposals, and an assessment of
+the correlates of equity through regression models (for example, are multi-stakeholder
+teams more likely to engage in research with an equity focus than academic teams? Are
+proposals that consider equity or social justice dimensions of climate change more or
+less likely to be awarded than other proposals?). Findings will provide insights that may
+(1) inform revisions to solicitations or Dear Colleague Letters; (2) increase collaboration
+across NSF Directorates and Offices, supporting climate change efforts (such as those
+seeking to support convergent or equity-focused activities); and (3) lead to revisions in
+guidance that NSF staff provides to reviewers, ensuring the review process is equitable
+and in alignment with solicitations.
+Data This study will rely on semi-structured interviews with NSF program officers and
+Sources
+existing data sources-including NSF documents (solicitations and Dear Colleague
+Letters), grantee documents (proposals, annual and final reports), NSF administrative
+data (such as demographic data on principal investigators), and existing national data
+(such as Integrated Postsecondary Education Data System and Carnegie Classification
+of post-secondary institutions)-and text searching and natural language processing
+tools to extract information from documents.
+Challenges and
+Earlier, similar analyses suggest that the text analytic methods proposed here may
+Mitigating
+lead to underestimates (false negatives) and overestimates (false positives) in different
+Strategies Directorates based on differences in discipline-specific language and context. To
+address this common problem in information retrieval through text analytic and
+artificial intelligence techniques-a problem often described in the literature as recall
+(success in identifying valid cases from a population) and precision (share of cases
+identified that are valid)-NS will create a detailed data file with available information
+for troubleshooting to achieve an adequate balance between recall and precision.
+Use and
+Findings from this study will be shared with key NSF stakeholders and used to refine
+Dissemination
+NSF's strategy for investments in climate change.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+23
+Program Evaluation
+6
+Mission - Strategic
+Question FY 2022
+How do EPSCoR program funding strategies (infrastructure, co-funding,
+and outreach) contribute to increasing academic research competitiveness
+across jurisdictions?
+Strategic Goal
+Discover: Create knowledge about our universe, our world, and ourselves
+Strategic Objectives
+Advance the frontiers of research
+Enhance research capability
+Guiding Question
+How can NSF fuel transformative discoveries most effectively?
+Background As its name indicates, the Established Program to Stimulate Competitive Research
+and (EPSCoR) seeks to foster sustainable improvements in research and development
+Rationale
+(R&D) capacity in the 28 jurisdictions (states and territories) that individually received
+0.75 percent or less of total NSF funding over the most recent five-year period.
+The EPSCoR program employs three investment strategies: (1) it supports physical,
+human, and cyber infrastructure in academic institutions through its Research
+Infrastructure Improvement funding tracks; (2) it co-funds meritorious proposals
+reviewed by other NSF programs that also satisfy EPSCoR programmatic criteria; and
+(3) it promotes interaction within the EPSCoR community and NSF through workshops
+and other outreach activities that help build mutual awareness and develop areas of
+potential strength. The program's theory of change asserts that EPSCoR jurisdictions
+have opportunities to use EPSCoR funds and other available resources to improve
+their science, technology, engineering and mathematics (STEM) ecosystems
+by strengthening academic research competitiveness -that is, the research
+competitiveness of the academic institutions in their jurisdictions. EPSCoR seeks to
+expand its capacity to generate and use evidence to monitor program progress in
+increasing academic research competitiveness through its three funding strategies.
+Timeline FY 2023-FY 2025
+Technical
+This outcomes evaluation will build on prior work, such as an exploratory study
+Approach
+completed in FY 2020, to develop a design that helps NSF determine whether and
+how EPSCoR, through its different funding tracks, may be associated with observed
+project outcomes. The technical approach will be developed once background work is
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+24
+Program Evaluation
+Mission - Strategic
+Question FY 2022
+6
+Continued.
+Technical completed and may include analyses overall and by funding track, such as (1)
+Approach
+descriptive analyses of jurisdictional characteristics, outputs, and outcomes to
+cont'd
+determine variation in characteristics and progress in implementation and outcomes
+over time; (2) a regression analysis of longitudinal data on EPSCoR jurisdictions (most
+likely done using a lower unit of analysis, such as participating institutions) to establish
+associations between observed outcomes and program participation, controlling for
+other factors that are known or hypothesized to be associated with outcomes; and (3)
+case studies of former EPSCoR program jurisdictions (or those nearing graduation or
+improving their research competitiveness) to understand the strategies that enabled
+them to increase their research competitiveness.
+Data
+This study will rely on a monitoring data system that will be developed for the EPSCoR
+Sources program and will draw data from NSF administrative data systems, existing national
+data collections, and new collections (as needed).
+Challenges and
+A prior study (released in Summer 2021) indicated that it would be challenging to
+Mitigating
+detect progress toward success for EPSCoR jurisdictions when the sole outcome
+Strategies
+measure was the program's eligibility criteria. This challenge will be mitigated by
+relying on a rich set of output and outcome measures that can be used both to
+monitor institutional and jurisdictional progress and for program improvement.
+Use and Findings from this study will be shared with EPSCoR NSF program officers, grantee
+Dissemination
+universities, and jurisdiction science and technology steering committees to inform
+decisions that may influence the ARC of institutions and jurisdictions.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+25
+Program Evaluation
+Mission - Strategic
+Question FY 2022
+7
+What are the benefits of receiving an award from a program supported by a
+partnership? How do these differ from benefits associated with awards from
+programs not supported by a partnership? What outputs and outcomes are
+associated with partnership programs? To what extent can these be attributed
+to the partnership programs? What improvements could make partnership
+programs more effective or easier to implement?
+Strategic Goal
+Impact: Benefit society by translating knowledge into solutions
+Strategic Objectives
+Deliver benefits from research
+Lead globally
+Guiding Question
+How can NSF mobilize knowledge most effectively to impact society?
+Background
+Building partnerships is a high priority for NSF, as evidenced by two consecutive
+and
+agency Priority Goals (APGs for FY 2020 and FY 2021) focused on developing a
+Rationale partnerships strategy. The importance of partnerships is echoed in the recent
+National Science Board's Vision 2030 report and reflected in the new Directorate
+for Technology, Innovation, and Partnerships (TIP) proposed in the NSF FY 2022
+budget request. Partnerships can accelerate discovery in several ways. They can
+expand the kinds of questions that can be addressed, enable access to expertise
+and infrastructure, and expand communities of researchers. NSF engages in two
+types of partnerships-direct and indirect. Direct partnerships are established by
+NSF with other federal agencies, industry, private foundations, non-governmenta
+organizations, and foreign science agencies. Indirect or "NSF-stimulated" partnerships
+are required or encouraged by NSF and established by principal investigators (Pls)
+on NSF grants seeking collaborators with complementary expertise or resources.
+These types of partnerships are common in many NSF programs, such as the
+Established Program to Stimulate Competitive Research, and can vary greatly in their
+characteristics. Having acquired deep experience in building, managing, sustaining,
+and ending partnerships, NSF is prioritizing evaluation activities that complement
+other ongoing learning efforts (such as conducting a landscape study) to reap
+the greatest benefits from partnerships. This study will be the second of several
+conducted to learn about the efficacy of NSF's partnership strategy and identify ways
+to improve it.
+Timeline
+FY 2022-FY 2023
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+26
+Program Evaluation
+Mission - Strategic
+Question FY 2022
+7
+Continued.
+Technical
+This study will rely on the design developed in FY 2021 to begin evaluating NSF
+Approach
+partnerships by studying direct partnerships with industry through the Directorate
+for Computer and Information Science and Engineering (CISE). NSF selected this type
+of partnership for the first evaluation for several reasons. Partnerships with industry
+are a priority for NSF and those in CISE (1) account for a substantial share of existing
+partnerships (for example, six of the seven new industry partnerships in FY 2019 were
+in CISE), (2) have sufficient cohorts of grantees to support retrospective or prospective
+evaluations, and (3) may have comparable non-partnership programs that could be
+used in support of a more rigorous (quasi-experimental) design to evaluate
+measurable outputs and outcomes. This study will also rely on qualitative analyses-
+such as analyses of interviews with partners and grantees-to uncover the benefits
+of partnerships and the barriers and facilitating factors to successful implementation
+(from the perspective of participants). These analyses will identify opportunities for
+improvements and dissemination of promising practices. NSF will use findings from
+the quantitative analyses to select samples of partners and grantees for surveys and/
+or interviews to ensure that NSF is able to tease out factors that are likely associated
+with successful partnerships.
+Data
+Data sources will be determined after the design is completed and are likely to
+Sources
+include NSF administrative data and documents (such as grantee annual and final
+reports), data on productivity (publications, patents, funding raised, startups launched,
+and SO on), and surveys and interviews with different stakeholders (such as partners
+and grantees).
+Challenges and
+Two potential challenges stand out. The first is related to the complexity of creating a
+Mitigating
+high-quality data file with information across programs, years, and data sources. The
+Strategies
+design phase of this project will enable NSF to devise a data strategy. The second
+challenge is methodological, as many factors stand in the way of effective evaluation
+of investments in basic science, such as long timelines to observe outcomes. In the
+design phase, NSF will identify opportunities to employ designs that enable causal
+inferences and identify cohorts for which outcomes can reasonably be expected by
+the time of this study.
+Use and Findings will be shared with NSF leadership and program officers. They will be used
+Dissemination
+for program improvements and to inform the design of evaluations of other types of
+partnerships.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+27
+Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+8a
+What can be learned from the NSF Convergence Accelerator's innovative
+selection process that may inform improvements in how the agency identifies
+and selects projects with high potential to advance ideas from concepts to
+deliverables of interest to industry and other partners?
+Strategic Goal
+Impact: Benefit society by translating knowledge into solutions
+Strategic Objectives
+Deliver benefits from research
+Lead globally
+Guiding Question
+How can NSF mobilize knowledge most effectively to impact society?
+Background The NSF Convergence Accelerator is a unique organizational structure within NSF that
+and
+was initiated in FY 2019. It seeks to (1) accelerate the transition of use-inspired
+Rationale
+convergence research into practice and (2) build team capacity to pursue exploratory,
+high-risk projects in topics that vary yearly. The Convergence Accelerator employs
+approaches that are not present in other NSF programs. These include (1) cohorts
+of grantees who participate in NSF trainings to prepare to transition their research
+ideas into investment-ready deliverables; (2) grant cycles with two distinct phases that
+allow for timely adjustment of resource allocations, team composition, and research
+direction based on progress; (3) coopetition-that is, teams are encouraged to work
+both in collaboration and competition as they seek opportunities to join forces across
+teams to transition to Phase II; (4) a novel selection process to transition from Phase
+| to Phase Il by submitting written proposals reviewed by panelists as well as "oral
+pitches" before a panel of judges; and (5) an expo that provides a platform for grantees
+to pitch their ideas to a wider audience, including potential collaborators and investors.
+This study focuses on understanding how the Convergence Accelerator's two-phase
+selection process may influence the nature and evolution of the submitted and
+selected research ideas (and ultimately the translation of ideas into useful applications)
+and the composition of the grantees and their teams.
+Timeline
+FY 2022-FY 2023
+Technical This descriptive study will document the trajectories of teams and ideas through the
+Approach
+two-phase selection process used with the 2019 inaugural cohort. The first component
+will be a quantitative analysis of awarded and declined proposals to identify and
+compare the key characteristics of the teams and ideas selected and winnowed from
+Phase | and Phase II. The second component will build on these findings and rely
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+28
+Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+8a
+Continued.
+Technical on a qualitative content analysis of the reviews and recommendations produced
+Approach by panelists and judges during the Phase | and Phase Il selection activities to
+cont'a
+further describe the characteristics the reviewers and judges found most and least
+compelling. This component will also include interviews with a stratified random
+sample of review panelists and pitch judges (representative of high and low ratings)
+to gather their insights from the selection process. The third component will be an
+analysis of expressions of interest submitted to NSF from potential partners and
+investors in response to the Phase | teams' presentations at the Expo 2020. These
+letters of interest serve as a proxy indicator of whether those teams and ideas that
+had traction during selection are received as intended in the venture marketplace.
+Data This study will rely on the following data sources: Convergence Accelerator solicitation
+Sources (2019), NSF 2019 grant proposals (100 submitted proposals of which 43 received
+Phase | awards), artifacts and documents submitted by 43 Phase | grants and 10
+Phase Il grants, expressions of interest submitted to NSF, Expo 2020 report, and
+interviews with and reviews prepared by panelists and judges.
+Challenges and
+We anticipate difficulties in aligning reviewers' and judges' evaluations of proposals
+Mitigating with Convergence Accelerator goals. We plan to mitigate this challenge by conducting
+Strategies
+follow-up interviews with the reviewers and judges to understand how they used
+evidence from proposals and pitches to inform their reviews.
+Use and Findings from this study will be shared with NSF stakeholders and used to improve
+Dissemination
+the current Convergence Accelerator selection practices.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+29
+Program Evaluation and Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+8b
+In what ways does the Convergence Accelerator Innovation Training
+contribute to the emergence of new capacities among participating
+researchers to meet pressing societal needs?
+Strategic Goal
+Impact: Benefit society by translating knowledge into solutions
+Strategic Objectives
+Deliver benefits from research
+Lead globally
+Guiding Question
+How can NSF mobilize knowledge most effectively to impact society?
+Background The NSF Convergence Accelerator is a unique organizational structure within NSF that
+and
+was initiated in FY 2019. The Convergence Accelerator seeks to (1) accelerate the
+Rationale
+transition of use-inspired convergence research into practice and (2) build team
+capacity to pursue exploratory, high-risk projects in topics that vary yearly. One of
+the signature approaches of the Convergence Accelerator that distinguishes it from
+other NSF efforts is the training the program provides to grantees to prepare them
+to transition their research ideas into investment-ready deliverables. This training is
+important for the success of the program in achieving its goals. This study seeks to
+determine in what ways and to what extent the curriculum developed for the program
+and the training provided using this curriculum helped teams acquire capabilities
+(attitudes and skills) that promote the Convergence Accelerator program's goals of
+building team capacity to transition research ideas into market-ready investments.
+Timeline FY 2022-F FY 2023
+Technical
+This study focuses on the FY 2022 cohort of Convergence Accelerator grantees
+Approach
+and has two components to study training outcomes associated with program
+participation. The first component is a quantitative analysis of changes in grantees'
+understanding and, if possible, application of design thinking, team management,
+partnership development, and strategic communication concepts and practices, as
+these are the focus of Convergence Accelerator training. The analysis will be based
+on data collected through pre- and post-training surveys completed by participants.
+The second component will be based on a qualitative analysis of how artifacts evolved
+over time and may demonstrate how teams' research ideas are refined, packaged,
+and delivered after exposure to the Convergence Accelerator curriculum with grantee
+participation in trainings. This component of the study will be based on a comparison
+of the proposals submitted by grantees in Phase | versus Phase Il and the oral pitches
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+30
+Program Evaluation and Foundational Fact Finding
+Mission - Strategic
+Question FY 2022
+8b
+Continued.
+Technical
+delivered as part of the Phase Il competition. To conduct this comparison, we will
+Approach develop and apply a rubric that aligns elements of grantees' work with program
+cont'd
+learning objectives.
+Data
+This study will rely on the Convergence Accelerator training material (agendas,
+Sources presentations, workbooks, and other materials); grantee proposals, annual reports,
+and final deliverables/reports; pre- and post-training surveys of participants; and
+pitch videos. Convergence Accelerator instructors and coaches will be interviewed as
+sources for information about instrument development and testing.
+Challenges and
+Two main challenges stand out for this study. The first is the potential for low survey
+Mitigating
+response rates, based on early experiences. To address this challenge, NSF plans to
+Strategies
+motivate participants by increasing their understanding of the importance of
+responding to surveys. Convergence Accelerator staff will also seek to revise the
+solicitation and award letters to make participation in evaluation activities a program
+requirement. The second challenge is construct validity and reliability of the rubric
+developed to analyze proposals and pitches. To mitigate this challenge, NSF will
+interview coaches and instructors for additional calibration of the rubric and train the
+analysts for using the rubric to ensure high inter-rater reliability.
+Use and
+Findings from this study will be shared with key NSF stakeholders and used to refine
+Dissemination
+Convergence Accelerator's grantees' training.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+31
+Foundational Fact Finding
+9
+Mission - Strategic
+Question FY 2022
+What are the characteristics of proposals evaluated through the merit review
+process? Are these characteristics (of individual investigators, teams, institutions,
+or proposed projects) associated with different review or funding outcomes?
+Strategic Goal
+Excel: Excel at NSF operations and management
+Strategic Objective
+Strengthen at speed and scale
+Guiding Question
+How can NSF excel in stewarding and realizing its vision?
+Background Merit review is a core process at NSF and is critical to the mission of promoting the
+and
+progress of science. The merit review process guides NSF's funding decisions, and
+Rationale
+the written reviews provide valuable feedback to researchers submitting proposals.
+NSF receives more than 40,000 proposals every year, mostly from university faculty
+submitting to competitive grant programs (Merit Review Process FY 2019). Proposals
+are reviewed and funding decisions made through merit review, which is a multi-step
+process that includes peer review of proposals, program officer (PO) recommendation
+to award or decline proposals, and final review and concurrence by a division director
+(DD) of the PO recommendation, taking into consideration the balance of the program
+and division portfolios.¹ Through its merit review process, NSF seeks to ensure that
+proposals are assessed in a fair, competitive, transparent, and in-depth manner and
+that a program's portfolio (breadth, scope, representativeness) is considered while
+making final decisions for award. As such, the agency's ability to achieve its goals
+(empower talent, discover knowledge, mobilize that knowledge, and excel in doing so)
+depends on the success of this process.
+Preliminary findings from descriptive analysis of NSF administrative data show that,
+on average, (1) the share of women and underrepresented minorities submitting
+proposals to NSF is lower than expected given their representation in the overall
+population, and (2) the funding rate of proposals submitted by principal investigators
+(Pls) from racial and ethnic groups underrepresented in STEM is lower than that of Pls
+from non-underrepresented groups. However, exploratory regression analyses suggest
+that these differences may be explained by other factors, such as PI experience and
+education. Further analysis is needed.
+Studying the characteristics (and correlates) of awarded and declined proposals will
+help NSF better understand each stage of the merit review process and assess its
+influence on the evolution of the characteristics of the science and the scientists
+supported. Developing this deep understanding is critical to agency efforts to ensure
+1
+A very small share of proposals submitted under selected mechanisms (such as proposals for Grants for Rapid Response Research or RAPIDs) are competitively
+reviewed by internal scientists.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+32
+Foundational Fact Finding
+9
+Mission - Strategic
+Question FY 2022
+Continued.
+Background the efficacy and equity of decisions made daily. To this end, the priority question
+and
+identified in this study plan is the first in a series of questions² that will guide studies
+Rationale
+to help NSF answer the following, critical question: How well does the merit review
+cont'd
+process provide the input needed by NSF to make the most effective, efficient, and
+equitable funding decisions?
+Timeline
+FY 2022-FY 2024
+Technical
+This study will have two components. The first will be a descriptive analysis of
+Approach
+observable proposal characteristics that may be correlated with outcomes of interest
+at various stages of the merit review process. These include proposal submission,
+proposal rating, panel review and rating, PO recommendation, and DD review and
+concurrence of the PO recommendation. Characteristics that may be analyzed
+include the following:
+Individual characteristics-such as PI demographics, experience, and research
+productivity (such as publications)
+Institutional characteristics-suc as the research intensity, minority-serving
+status, sector status of the PI, collaborators, and partner institutions
+Proposed project characteristics-such as the area of science, proposed broader
+impacts, methodology pursued, and project size
+Proposal review characteristics-sucl as review outcomes (review rating, panel
+summary) and reviewer characteristics (demographics of reviewers and POs)
+Whether any of these characteristics are associated with proposal outcomes
+is an empirical question. The second component of this study will focus on this
+question. It will seek to understand the correlates of outcomes at each stage of the
+review process described earlier and whether average differences observed in the
+descriptive analyses hold after controlling for relevant factors through appropriate
+regression models.
+Data Studies will rely on the following data sources: NSF administrative records (including
+Sources proposal, PI, and reviewer records), the Integrated Postsecondary Education Data
+System and Carnegie Classification of post-secondary institutions (for information
+on the characteristics of institutions), National Center for Science and Engineering
+Statistics (NCSES) Survey of Doctorate Recipients (for demographic, education, and
+career history information from individuals with a U.S. research doctoral degree in a
+science, engineering, or health field), and productivity data (publications and patents)
+from sources such as Web of Science, Scopus, and Dimensions.
+2
+The question series will include a focus on several NSF and National Science Board priorities regarding the implementation of the merit review process, such as
+assessing the effectiveness of NSF's reviewer training in promoting equity and review quality.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+33
+Foundational Fact Finding
+9
+Mission - Strategic
+Question FY 2022
+Continued.
+Challenges and NSF anticipates various data and methodological challenges in conducting this study.
+Mitigating
+The first is missing demographic data for Pls and reviewers. For example, in FY 2020,
+Strategies more than 30 percent of proposals were submitted by Pls who did not report their
+race or ethnicity. NSF will consider ways to conduct nonresponse bias analyses
+with available data to develop adjustments, such as weights, and use imputation
+techniques for multivariate analyses (adhering to policy and legal guidance). Another
+challenge is linking NSF administrative data to existing national and external data,
+a challenge that will be addressed by collaborating with colleagues at NCSES and
+external data providers to identify ways to merge data while adhering to information
+protections and other legal regulations. Methodological challenges include the
+possibility of differences in outcomes resulting from unobserved factors unrelated to
+the NSF merit review process. An example is discrimination that leads to differential
+opportunities for research experience and publication, which are factors that will be
+included in the regression models along with demographic characteristics with which
+those factors may be correlated. If SO, this might violate assumptions of the regression
+models to be specified. The exploratory phase of this study will include an assessment
+of these assumptions. Similarly, NSF expects proposal quality to be a strong predictor
+of proposal outcomes. Although there is no objective measure of proposal quality,
+proposal and average review ratings may be used as proxies. However, if ratings are
+biased, the observed association with demographic characteristics will also be biased.
+Whether review ratings are biased is an empirical question that will be investigated
+as well.
+Use and Findings will help NSF leadership and staff consider strategies for improving the
+Dissemination
+efficacy and equity of the merit review process. As appropriate, findings will also be
+shared with other science funding agencies that may be using similar merit review
+procedures, the NSB, Committee on Equal Employment Opportunity in Science and
+Engineering, beneficiaries of NSF programs, and the public.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+34
+Foundational Fact Finding
+10
+Mission - Strategic
+Question FY 2022
+What outcomes are associated with the adoption of a no-deadlines proposal
+submission process?
+Strategic Goal
+Excel: Excel at NSF operations and management
+Strategic Objective
+Strengthen at speed and scale
+Guiding Question
+How can NSF excel in stewarding and realizing its vision?
+Background
+NSF receives more than 40,000 grant proposals every year, mostly from university
+and faculty submitting to competitive grant programs (NSF by the Numbers). Between
+Rationale
+FY 2010 and FY 2019, the average funding rate for competitive proposals was 24
+percent.³ During those years, principal investigators (Pls) who received an award
+submitted, on average, 2.3 proposals per award received. Each proposal submitted
+is reviewed by both an external panel of expert reviewers and NSF program officers
+(POs) who manage the merit review process, which includes finding reviewers, running
+panels, and processing recommendations. This represents a tremendous amount of
+work for Pls, POs, and panelists, even though most of those proposals will ultimately
+be declined. NSF POs hypothesized that one operational change-namely, to eliminate
+proposal deadlines-might help make this process more efficient and, perhaps, even
+improve the quality of proposals submitted. In FY 2014, NSF began the no-deadline
+pilot whereby several participating programs in the Directorate for Geosciences
+(GEO) eliminated deadlines and target dates for proposal submission, accepting
+proposals any time throughout the year. Over the past few years, core programs in
+several other Directorates have joined the pilot. Preliminary findings suggest that
+the elimination of deadlines is associated with a reduction in proposal submissions.
+Now that the pilot has grown and been implemented for a few years, NSF is able to
+study several outcomes that may be associated with the shift to no deadlines across
+several Directorates at NSF. This is likely to be the first of several studies as the analysis
+transitions from its present focus on overall outcomes to more specific topics, such as
+how the elimination of deadlines may have affected subpopulations (say, submissions
+by gender or program size).
+Timeline
+FY 2022-FY 2023
+3 The funding rate refers to the proportion of proposals acted on in a given fiscal year that were awarded.
+Source: https://www.nsf.gov/nsb/publications/pubmeritreview.jsp and https://www.nsf.gov/pubs/2020/nsf20002/
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+35
+Foundational Fact Finding
+2022 10
+Mission - Strategic
+Question FY
+Continued.
+Technical
+This outcomes study will seek to test several hypotheses that motivated the
+Approach
+elimination of deadlines. Some of these hypotheses are that the elimination of
+deadlines may be associated with (1) a reduction in proposal volume, (2) a more even
+distribution of proposals submitted throughout the year (instead of concentrated
+around deadlines), (3) a faster review process or lower dwell time (if a reduction in
+proposal volume is observed), (4) higher proposal quality (if faculty submit fewer
+proposals when they feel they are ready for review), (5) lower burden on reviewers
+who are asked to participate in fewer panels or review fewer proposals, and (6)
+lower burden on POs (as they shepherd fewer proposals through the merit review
+process) or more evenly distributed burden throughout the year. NSF will test
+these hypotheses through descriptive (time-series and correlational) analyses using
+NSF retrospective administrative data. For hypotheses 3 to 5, NSF will consider
+interviewing or surveying key stakeholders (POs, Pls, and reviewers) who experienced
+the shift to a no-deadlines submission process to obtain their opinions and
+perceptions of the impact of removing deadlines on the merit review process. For
+all hypotheses, NSF will assess the possibility of identifying similar programs that
+did not adopt a no-deadlines process to use as a comparison group and increase
+methodological rigor. This is unlikely to be feasible across all of NSF but might be
+feasible within Directorates.
+Data This study will rely on existing NSF administrative data and possibly on interviews with
+Sources
+or surveys from POs, Pls, and reviewers.
+Challenges and
+Confounding internal and external factors that affected the pilot or agency
+Mitigating
+operations-such as varying approaches to implementing the no-deadlines pilot
+Strategies
+across Directorates or the lapse in appropriations and therefore operations between
+December 2018 and January 2019-present the greatest challenge to this study.
+These factors may influence the specification of the analysis or the interpretation
+of findings. The study team will need to develop a deep understanding of how the
+no-deadlines pilot was implemented in each Directorate (in what years, through what
+programs, and SO on) and other conditions of operations that may have changed or
+been influenced by internal or external factors over the same time period. To this
+end, a working group with representation from each Directorate and Office offering
+research programs will provide guidance and feedback throughout this study.
+Use and
+Findings from this study will be shared with key NSF stakeholders and presented to
+Dissemination
+leadership to inform discussions regarding the implications of pilot findings for wider
+adoption of no deadlines. Key findings will be released to the public, as they should
+be of interest to other government agencies and private foundations that implement
+competitive grant programs.
+NSF
+NSF Learning Agenda: FY 2022 - FY 2026
+March 2022
+36
+NSF
+National Science Foundation
+www.nsf.gov
+Cutler Marsh in Cache County, Utah
+Credit: Matt Jensen, Utah State University

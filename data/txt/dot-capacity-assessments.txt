@@ -1,0 +1,1219 @@
+U.S. Department
+of Transportation
+Capacity Assessment
+TABLE OF CONTENTS
+INTRODUCTION
+2
+ACTIVITIES AND OPERATIONS CURRENTLY BEING EVALUATED AND ANALYZED
+2
+RESEARCH
+2
+STATISTICS
+2
+EVALUATION
+2
+ACRONYMS AND ABBREVIATIONS
+2
+APPENDIX: CAPACITY ASSESSMENT INVENTORY
+2
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+2
+INTRODUCTION
+In accordance with the Foundations for Evidence-Based Policymaking Act of 2018, Public Law No. 115-435
+(Evidence Act), the United States Department of Transportation (DOT or the Department) is pleased to
+present the Capacity Assessment. The following report assesses DOT's research, statistics, and evaluation
+capabilities based on a number of criteria defined in Office of Management and Budget (OMB)
+Memorandum M-19-23. In accordance with the Evidence Act and relevant OMB guidance, this document
+covers:
+a. A list of the highest priority activities and operations of DOT that are currently being evaluated and
+analyzed;
+b.
+The extent to which the research, statistics, and evaluation efforts and related activities of the DOT
+support the needs of various divisions within the Department;
+C.
+The extent to which the research, statistics, and evaluation efforts and related activities of the DOT
+address an appropriate balance among competing needs related to organizational learning, ongoing
+program management, performance management, strategic management, interagency and private
+sector coordination, internal and external oversight, and accountability;
+d. The extent to which DOT uses methods and combinations of methods that are appropriate to DOT
+divisions and the corresponding research questions being addressed, including an appropriate
+combination of formative and summative evaluation, research, and analysis approaches;
+e. The extent to which the evaluation and research capacity is present within the DOT to include
+personnel and DOT processes for planning and implementing evaluation activities, disseminating best
+practices and findings, and incorporating employee views and feedback; and
+f.
+The extent to which the DOT has the capacity to assist DOT staff and program offices to develop the
+capacity to use evaluation, research, and analysis approaches and data in the day-to-day operations.
+In FY 2022, the Infrastructure Investment and Jobs Act (IIJA), also known as the Bipartisan Infrastructure
+Law, created generational investments to improve our nation's roads and bridges, promote safety for all road
+users, help combat the climate crisis, and advance equitable access to transportation. This legislation may
+provide the Department will additional opportunities to advance its evidence-building practices.
+The document is structured by major evidence-building practice - research, statistics, and evaluation - and
+includes a discussion of the coverage, quality, methods, effectiveness, and independence of each evidence
+type. Using the results of this assessment, the Department seeks to establish initial understanding of DOT's
+ability, capacity, and infrastructure to carry out evidence-building activities to inform future evidence-based
+decision-making. This assessment also provides senior officials with the information needed to:
+Fulfill the Evidence Act's intent of improving DOT's ability to support the development and use of
+evaluation;
+Coordinate and increase technical expertise available for evaluation and related research activities
+within DOT; and
+Improve the quality of evaluations and knowledge of evaluation methodologies and standards across
+the Department.
+This document was created by the Office of the Chief Financial Officer and Assistant Secretary for Budget and
+Programs (OST-B), in collaboration with DOT's Evidence Act senior officials and a variety of key stakeholders
+from across the Department who possess subject matter expertise in research, statistics, and evaluation.
+OST-B interviewed several senior leaders within the Office of the Secretary and the Operating
+U.S. DEPARTMENT OF TRANSPORTATION | CAPACITY ASSESSMENT
+3
+Administrations to develop conclusions included below. The Capacity Assessment will serve as a living
+document and be updated to inform capacity building throughout the Department in the coming years.
+CONCEPTS AND PRINCIPLES
+In its Memorandum M-19-23, OMB directs agencies to assess their evidence activities across five
+dimensions: coverage, quality, methods, effectiveness, and independence. For the purpose of the Capacity
+Assessment, DOT used the following definitions for these dimensions, which are adapted from OMB Circular
+A-11 Section 290: Evaluation and Evidence-Building Activities:
+Coverage: Describes the evidence activities that are happening and where in the Department the
+activities are occurring.
+Quality: Describes the extent to which data and other information used in the course of conducting
+evidence activities are of high quality with respect to utility, objectivity, and scientific integrity.
+Methods: Describes the techniques, systems, and processes used in evidence generation. Methods
+may vary by evidence type; however, all methodologies should include an appropriate level of rigor
+and take an empirically proven approach.
+Effectiveness: Describes the extent to which evidence activities are meeting their intended outcomes,
+including serving the needs of stakeholders and being disseminated appropriately.
+Independence: Describes the extent to which the activities being carried out are free from bias and
+inappropriate influence.
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+4
+ACTIVITIES AND OPERATIONS CURRENTLY
+BEING EVALUATED AND ANALYZED
+DOT conducted a data call to all Operating Administrations to inventory the highest-priority activities and
+operations currently being evaluated or analyzed across the Department. The results of this data call are
+available in the Appendix. This inventory is not a comprehensive list of all ongoing evaluations and analyses
+but represents the most critical activities as identified by the Operating Administrations. In future years, the
+Department may continue building out this inventory to gain a more robust understanding of the Operating
+Administrations' evaluation and analysis functions.
+Additionally, in accordance with 49 U.S.C. 6501, the Office of the Assistant Secretary for Research and
+Technology (OST-R) publishes an Annual Modal Research Plan for each Operating Administration detailing
+planned studies and analyses for the upcoming fiscal years beyond what is included in the Appendix of this
+document.
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+5
+RESEARCH
+COVERAGE
+DOT conducts a wide range of research activities to help solve transportation challenges and address issues
+of national significance. OST-R works closely with the Departmental Operating Administrations and all
+segments of the transportation sector to identify gaps in research and appropriately invest Federal resources
+to improve the performance of the national transportation system. OST-R maintains a five-year Research,
+Development, & Technology (RD&T) Strategic Plan, which meets the requirement set forth in 49 U.S.C.
+6503. The plan was recently updated with an addendum to address the impact of the COVID-19 pandemic
+on research priorities. 49 U.S.C. 6501 also requires "the head of each Operating Administration and joint
+program office1" to submit an Annual Modal Research Plan, consistent with the Department's RD&T Strategic
+Plan, for review and approval by OST-R. (Note that the Great Lakes St. Lawrence Seaway and the Office of
+the Inspector General do not submit Annual Modal Research Plans because they either do not receive
+appropriated research funding or they do not have a research office conducting RD&T programs.) The Annual
+Modal Research Plans provide a comprehensive overview of Operating Administrations' research plans for
+the upcoming fiscal year, as well as a detailed outlook for the following fiscal year. The reviews conducted by
+OST-R are intended to identify and eliminate duplicative research efforts performed by different organizations
+across the Department and to ensure that Operating Administrations' research activities are consistent with
+the DOT RD&T Strategic Plan. The most recent Annual Modal Research Plans are available on OST-R's
+website.
+OST-R and the Operating Administrations often partner with the John A. Volpe National Transportation
+Systems Center (Volpe Center) and fund their research efforts through the Innovative Research Program
+Office. This office oversees and coordinates five key research programs around small business innovation,
+exploratory advanced research, Intelligent Transportation Systems (ITS), technology transfer, and highway
+safety countermeasures. The Volpe Center works closely with both OST-R and the Operating Administrations
+to serve the innovative research needs of the Department.
+OST-R facilitates research collaboration with external transportation organizations such as the Transportation
+Research Board and the American Association of State and Highway Transportation Officials, as well as
+universities and institutes of higher education. These partnerships help to optimize the efficiency, relevance,
+and deployment of transportation research, data, and findings and provide opportunities to coordinate and
+align research initiatives across the nation.
+QUALITY
+OST-R guides the quality of research activities through the Scientific Integrity Policy, DOT Public Access
+Plan, Public Access Implementation Working Group, and the RD&T Planning Team. In accordance with the
+Scientific Integrity Policy, all research used to support DOT policy decisions must undergo an independent
+peer review by qualified experts. The DOT Public Access Plan requires research conducted through grants to
+be assigned a DOT grant manager who ensures data used in research meets quality standards. The Public
+Access Implementation Working Group supports several DOT research programs that focus on developing
+new, high-quality data sources, tools, and models to enable the exchange and analysis of data used to inform
+decision-making. The RD&T Planning Team also convenes monthly to discuss best practices in research
+quality and incorporates these practices into Operating Administration guidance on Annual Modal Research
+Plan development. At the Operating Administration level, 13 documents were identified as standards or
+guidance to improve research quality. These documents complement Department-wide policies and
+guidance. DOT is assessing ways to improve transparency of research findings. To expand public access, the
+Department is currently responding to the Public Access directive to develop and implement new processes
+1
+Includes the Intelligent Transportation Systems Joint Program Office.
+U.S. DEPARTMENT OF TRANSPORTATION
+|
+CAPACITY ASSESSMENT
+6
+to implement the Public Access Plan. The Department is also working to improve data completeness and
+accuracy in the Research Hub.
+METHODS
+Research bodies across the Department are responsible for determining the appropriate methods to conduct
+research activities. OST-R strives to facilitate the widest possible awareness and coordination among
+recipients of research funding so they may draw upon one another's data, methods, or findings. OST-R's
+centralized review of Annual Modal Research Plans facilitates the sharing of methods across similar research
+activities. The Department is also taking steps to incorporate cutting-edge methodologies, such as big data in
+cybersecurity, Artificial Intelligence learning, analysis of multimodal connectivity, and safety assessments.
+Several Operating Administrations host external events to seek feedback on methods and future research.
+EFFECTIVENESS
+The Department has a centralized and thorough process to prioritize research activities and eliminate
+duplication. In FY 2018, OST-R led the creation of 11 topical research working groups on topics aligned to the
+Department's FY 2018 - 2022 strategic goals. The working groups are currently being restructured to align to
+the new strategic goals as defined in the DOT FY 2022 - 2026 Strategic Plan and associated RD&T Strategic
+Plan. The Department recognizes the challenges of assessing the value of research investments and outcomes
+and seeks to strengthen its evaluation processes. The recent publication of the Research and Development
+logic model is a significant step towards identifying the series of long-term outcomes that could be measured,
+as is the establishment of a new Performance Management Data System (PMDS) that allows OST-R to track
+and coordinate the Department's research portfolio at the project level.
+A Research Review Working Group, chaired by OST-R, annually reviews and makes recommendations to
+DOT leadership on the research activities of the Operating Administrations to ensure that the Department's
+research portfolio aligns with Secretarial policy priorities, complies with statutory mandates, and makes
+effective and efficient use of its research funds. This working group has proven vital to the research
+community at the Department in delivering resource efficiencies and accelerating the sharing and deployment
+of new technologies and research results. To encourage widespread use of said results, OST-R encourages
+Operating Administrations to make their research outcomes and technical reports publicly available on the
+DOT Research Hub and the National Transportation Library (NTL).
+The Department is working to define and monitor progress toward long-term research outcomes. A
+Technology Transfer, Evaluation and Performance Measurement working group leads this effort and seeks to
+incorporate leading practices from other agencies. In addition, OST-B and OST-R will collaborate to continue
+to align the RD&T Strategic Plan and Learning Agenda to strengthen the effectiveness of the Department's
+research activities.
+INDEPENDENCE
+Since FY 2009, OST-R has maintained a Scientific Integrity Policy and accompanying implementation
+manual to ensure political appointees do not exert undue influence over scientists in the conduct of scientific
+research. The Operating Administrations abide by the Department-leve policy. The Department has had no
+formal complaints filed by DOT employees, nor have any external recipients of DOT research funding claimed
+to have experienced impediments by management against publication.
+In compliance with the Memorandum on Restoring Trust in Government Through Scientific Integrity and
+Evidence-Based Policymaking, the Department named a Chief Science Officer and Scientific Integrity Officer
+to ensure the highest level of integrity in all aspects of the Department's involvement with scientific and
+technological processes. OST-R is leading an effort to review and update the Department's Scientific Integrity
+policy to comply with all requirements of the memorandum, including conducting routine training on the
+policy.
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+7
+The Department is exploring ways to monitor and assess the implementation of the Scientific Integrity Policy.
+Department has an opportunity to strengthen its monitoring and assessment practices. Through this process,
+the Department can also ensure alignment between the Scientific Integrity Policy and the Evaluation
+Framework per the presidential memorandum referenced above.
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+8
+STATISTICS
+COVERAGE
+The Bureau of Transportation Statistics (BTS), an OMB-designated Principal Statistical Agency in DOT,
+provides statistics that encompass all modes of transportation, and ensures that the statistics compiled are
+designed to support transportation decision-making. Specifically, BTS is one of the primary sources of
+statistics on commercial aviation, multi-modal freight, and transportation economics, and provides context to
+decision makers and the public for understanding statistics on transportation. BTS provides timely, accurate,
+and credible information on the National transportation system, the movement of people and goods, and the
+consequences of transportation for the economy, society, and the environment. To complete the statistics life
+cycle, BTS' NTL curates, archives, and disseminates all transportation information. The NTL is a permanent,
+publicly accessible home for research publications and data from throughout the transportation community;
+the gateway to all DOT data; and the help line for the Congress, researchers, and the public for information
+about transportation. BTS publishes the Transportation Statistics Annual Report, which characterizes the state
+of the transportation system and the state of transportation statistics and submits this report each year to
+Congress and the President. In addition to the responsibilities described above, BTS offers guidance to and
+serves as a resource for Operating Administrations' statistical offices, and the BTS Director serves as the
+senior advisor to the Secretary on data and statistics and as the Department's Statistical Official. An overview
+of additional BTS products and services is available in the BTS Strategic Plan.
+The BTS Director leads the Bureau's approximately 55 employees, including more than 40 statisticians,
+economists, and specialists in geospatial statistics, data science, and library science. The BTS workforce is
+supplemented by BTS Fellows and contractors. The Bureau provides opportunities for its staff to strengthen
+their skill sets through trainings, conferences, and university programs, such as the Joint Program in Survey
+Methodology.
+The Operating Administrations perform critical statistical functions to collect and organize information about
+their respective modes of transportation. There are an estimated seven OMB-recognized statistical units
+performing statistical functions within the Operating Administrations with more than 100 full time-equivalent
+employees. The National Highway Traffic Safety Administration's (NHTSA) National Center for Statistics and
+Analysis is the largest recognized statistical unit at the Department with 70 full time-equivalent employees.
+The Department is working on several initiatives to improve the coverage of statistical activities:
+Increase frequency of national data collection on personal and household travel: The Federal Highway
+Administration (FHWA) conducts the National Household Travel Survey, the authoritative source of
+travel behavior of the American public. This survey is conducted every five to seven years. The
+COVID-19 pandemic is leading to a "new transportation normal" and increased uncertainty around
+travel behaviors. Decreasing time between surveys, or developing scaled-down versions of the survey,
+would provide necessary information to understand how, when, and why the American public is
+traveling.
+Collection of real-time transit data: The Federal Transit Administration (FTA) receives transit ridership
+data that is months or sometimes years old and driven by legislative requirements. The COVID-19
+pandemic has impacted assumptions on ridership, and real-time data would help FTA understand the
+potential "new normal" for transit. During FY 2022, FTA plans to propose a timelier data collection
+method in the Federal Register.
+Increase staff capacity on statistical science or transportation topics: DOT is working to train staff to
+have a combination of statistical competencies and transportation subject matter expertise.
+U.S. DEPARTMENT OF TRANSPORTATION | CAPACITY ASSESSMENT
+9
+Improve data collection from States on safety interventions: Increasing the timeliness of reporting and
+data collection from State DOTs would improve NHTSA's understanding of the effectiveness of
+specific safety interventions. NHTSA will be undertaking a new initiative under the recently authorized
+Crash Data Program to improve its knowledge of roadway incidents.
+Improve the coverage and timeliness of data on supply chain visibility and bottlenecks: DOT is
+working to improve coverage and timeliness of data on supply chain to better characterize and
+address supply chain challenges in the freight and logistics sector. Improving the coverage and
+timeliness of this data would enhance the evidence-building activities of the Department in support of
+Executive Order No. 14017 and the Supply Chain Disruptions Task Force.
+Improve data collection needed to adequately advance transportation equity: The Department is
+exploring ways to collect data to inform statistical analyses of equity in transportation with respect to
+underserved populations and communities. Based on the data assessment results from the 200-Day
+Equity report to OMB, and inputs provided by stakeholders through a Request for Information and by
+others, improving the coverage and geospatial granularity of socioeconomic and transportation data
+would enhance the evidence-building activities of the Department in support of Executive Order No.
+13985.
+QUALITY
+BTS provides statistical policy leadership through its participation in the Interagency Council on Statistical
+Policy, Federal Geographic Data Committee, American Statistical Association, and DOT Geospatial Data
+Council, as well as its sponsorship of the Committee on National Statistics and the Transportation Research
+Board. While BTS does not exercise direct authority over Operating Administrations' statistical offices, it
+encourages collaboration and quality improvement among DOT statistical programs. BTS also provides
+advice on good statistical practice, performance measurement, geographic data coordination, and
+minimization of response burden. This includes the development of the Annual Performance Data
+Completeness and Reliability Template, and review of Information Collection Request packages containing
+surveys, censuses, or employing statistical methods that DOT submits to the OMB Office of Information and
+Regulatory Affairs.
+The Department is assessing ways to expand BTS's ability to provide advice on statistical quality to Operating
+Administrations and to increase staff capacity for data quality assessment.
+STATISTICAL METHODS
+Congress requires BTS to "continually improve surveys and data collection methods of the Department to
+improve the accuracy and utility of transportation statistics." BTS promotes innovative methods of data
+collection, statistical modeling, analysis, visualization, and dissemination to improve operational efficiency,
+examine emerging topics, and create relevant and timely statistics. While BTS continues to improve
+traditional methods, the rapid advancement in statistical sciences requires BTS to investigate new methods of
+data collection, processing, analysis, quality assurance, dissemination, and preservation to enhance future
+products and services.
+The Department has identified five initiatives to improve statistical methods:
+Keep pace with innovation in data collection and analysis methods: As the demand for data and
+statistics continues to grow, methods of collection and analysis are undergoing major change. Surveys
+that are compliant with the Paper Reduction Act requirements remain a critical source of data, but
+their cost-effectiveness is declining. The widespread replacement of paper with electronic
+transactions in businesses, the growth of online shopping, the exploding use of electronic sensors for
+2
+49 U.S.C. § 6302(b)(3)(B)(iv)
+U.S. DEPARTMENT OF TRANSPORTATION | CAPACITY ASSESSMENT
+10
+controlling everything from vehicle engines to traffic signals, extensive coverage of cell phones, and
+the complete coverage of publicly available aerial imagery provide new sources of data on
+transportation and its consequences. These new data sources often involve unexplored privacy
+concerns, data sharing complications, poorly documented quality problems, and integration
+challenges. Alternative data sources such as administrative records and sensor data can also present
+data quality issues that require time to identify and resolve. Furthermore, access to and use of some
+alternative data sources can require complex negotiations to balance proprietary interests and
+confidentiality concerns with the desire to provide public access to the data. Such negotiations take
+time and require experience to perform effectively.
+Provide recruitment and training on advanced statistical methods: Statistical methodologies and data
+sciences are rapidly evolving. The Bureau often relies on fellowship programs and other channels to fill
+knowledge gaps. BTS will focus its recruitment and training efforts on cutting-edge methodologies to
+improve its capacity in this area.
+Improve statistical sampling systems to understand crashes: NHTSA has collected crash data since
+the early 1970s to support its mission to reduce motor vehicle crashes, injuries, and deaths on our
+nation's highways. The Crash Investigation Sampling System is one of several components of
+NHTSA's crash data collection program. Expansion of the Crash Investigation Sampling System
+program in combination with increased use and acquisition of electronic crash data would provide
+several benefits: increased data to improve overall accuracy; improved statistical efficiency through
+increased sample selection size; and further protect data that could be deemed sensitive or personally
+identifiable information using advanced security measures.
+Develop improved methods to estimate distributional equity impacts of regional transportation
+investments: In addition to improvements in data collection needed to adequately advance
+transportation equity as described above, there is also a need for the development and adoption of
+improved methods for assessing the impacts of transportation programs and policies on underserved
+communities. The development and adoption of such methods would enhance the evidence-building
+activities of the Department in support of Executive Order No. 13985.
+Develop improved methods to gain increased visibility into supply chains and to better understand the
+nature of supply chain bottlenecks: Improvements in the coverage and timeliness of data on supply
+chains is required to better characterize and address supply chain challenges in the freight and
+logistics sector. There is a need to explore the use of alternative data from both public and private
+sources such as administrative records, location-based services device data, and pulse surveys, and to
+integrate and link the data from these multiple sources. Improving the coverage and timeliness of
+supply chain data would enhance the evidence-building activities of the Department in support of
+Executive Order No. 14017 and the Supply Chain Disruptions Task Force and help the Department to
+address supply chain challenges in the freight and logistics sector.
+EFFECTIVENESS
+By law, the BTS Director is the senior advisor to the Secretary of Transportation on data and statistics.³ BTS
+carefully manages its budget and staff to meet ever-growing national needs for its services, support the
+Secretary's strategic objectives, provide evidence to decision makers, fulfill the BTS legislated mandates, and
+meet increased demand for transportation statistics with useful, timely, and credible products. To achieve this
+balance, BTS concentrates its activities on its core areas of expertise and on improvements in developing and
+delivering BTS products. In carrying out its responsibilities under the Evidence Act, BTS represents the
+transportation community in the Federal Interagency Council on Statistical Policy, including participation in
+the Standard Application Process Technical Working Group of the Interagency Council on Statistical Policy
+3 49 U.S.C. § 6302(b)(3)(A)(i)
+U.S. DEPARTMENT OF TRANSPORTATION | CAPACITY ASSESSMENT
+11
+that is focused on facilitating the sharing of confidential data among principal Federal statistical agencies for
+purposes of developing evidence, as required under Title III of the Evidence Act. BTS also participates in the
+Federal Committee on Statistical Methodology.
+DOT has identified three areas to improve the effectiveness of statistical activities related to the following
+DOT strategic goals:
+Equity: In response to the recent Executive Order No. 13985, the Department plans to examine the
+extent to which its programs and policies disproportionately negatively impact people of color and
+other underserved communities. The Department requires additional data to inform statistical
+analyses of existing inequities in transportation due to racial, ethnic, geographic, and disability
+disparities. National and State-level equity data could be bolstered by obtaining additional data at the
+local level to inform decisions about underserved communities. To this end, the Department will build
+on public comments received on its Request for Information: Transportation Equity Data posted on
+May 25, 2021, to expand its cadre of data and assessment tools that could assist in these statistical
+activities.
+Climate solutions: To develop and improve analytical tools to support decision-making around
+climate-related topics such as transportation energy use, emerging technologies, and greenhouse gas
+emissions, the Department requires robust data collection and analysis frameworks. DOT will focus
+on the placement of electric vehicle charging stations. The Department will consider social and
+demographic data to identify areas of high need. Furthermore, additional data could be collected to
+help the Department define and understand aspects of the transportation infrastructure that are
+affected by climate shocks and variability. These data could improve DOT's ability to develop
+resiliency measures and assess the impacts of service disruptions on the populations the Department
+serves.
+Transformation and economic growth: DOT has new responsibilities to efficiently and effectively
+allocate IIJA funds to improve the condition of highways, bridges, runways, and other facets of the
+Nation's transportation infrastructure. The Department will improve data and analytical tools to
+support the prioritization of these infrastructure investments and facilitate data-driven decisions.
+INDEPENDENCE
+BTS is required by statutory law to assure that all products are developed with rigor, transparency,
+independence from undue influence (49 U.S.C. 6302(d)). BTS also abides by the Statement of Commitment
+to Scientific Integrity by Principal Statistical Agencies and OMB Statistical Policy Directives. Given these
+statutory requirements and BTS' adherence to them, the Department has not identified any areas of capacity
+building needed to improve independence in statistical activities.
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+12
+EVALUATION
+At DOT, the definition of evaluation has been historically broad and inclusive of a variety of study designs.
+OMB Memorandum M-20-12, published in March 2020, provides clear definitions of evaluation and
+associated terms. Upon review of DOT evaluation activities that meet the definition in this memorandum, the
+Department has determined it has significant opportunities for improvement.
+COVERAGE
+Several Operating Administrations have undertaken evaluation activities in recent years, including FHWA,
+FTA, NHTSA, the Federal Motor Carrier Safety Administration (FMCSA), and the Federal Railroad
+Administration (FRA). Within the Operating Administrations, there are few employees with program
+evaluation competencies. Most ongoing evaluations are conducted in partnership with the Volpe Center,
+which is staffed with highly trained individuals who can provide objective, on-demand evaluation expertise on
+transportation programs and policies. It is fully funded by the Operating Administrations that choose to
+undertake projects through Volpe, making it a unique agency within DOT. Many Volpe sponsors use
+evaluation, for example, to measure the effectiveness and efficiency of projects (e.g., a deployed technology),
+to analyze the implementation of programs, and to assess whether processes and programs are meeting their
+goals and objectives.
+There are several ongoing efforts to identify, review, and organize evidence from domestic and foreign
+transportation-related evaluations. The most comprehensive effort is led by the ITS Joint Program Office For
+more than 20 years, the ITS Joint Program Office has been tracking evaluations of ITS technologies; archiving
+studies; and documenting the benefits, costs, and lessons learned. This information is included in the world's
+most comprehensive databases on ITS deployment evaluation. Another notable activity is the NHTSA
+Countermeasures that Work report, which features an analysis of evidence-based traffic safety
+countermeasures to support State Highway Safety Offices in decision-making. Only measures demonstrated
+to be effective by several high-quality evaluations are given a five-star rating. NHTSA has released 11 editions
+of the Countermeasures that Work report since 2005.
+The Department is developing an agency-wide framework for supporting evaluations. DOT's Office of the
+Secretary will aim to assist Operating Administrations by providing technical resources for conducting
+independent evaluations. Additionally, the Department will educate staff on the benefits of evaluation,
+encourage use of logic models, improve administrative data collection, and strengthen programs' overall
+readiness for an evaluation. DOT is also administering a new policy that requires program evaluation for all
+DOT programs funded at $1 billion or more.
+QUALITY
+The Department's Evaluation Framework aligns to OMB Memorandum M-20-12 and includes the principles
+of rigor, relevance, transparency, independence, ethics, and equity. This framework represents a commitment
+to supporting evidence-based strategic and operational decisions through evaluations that result in
+continuous improvement across the Department. Following publication of the Evaluation Framework, the
+Department will release an internal document with additional guidance on evaluations.
+The Department plans to provide additional training to staff in program offices and develop an evaluation
+community of practice. Additional training would build staff capacity to design and execute high-quality
+evaluations. DOT will also review Operating Administration-level documents to align with the Department's
+Evaluation Framework.
+U.S. DEPARTMENT OF TRANSPORTATION
+|
+CAPACITY ASSESSMENT
+13
+METHODS
+The Department's Evaluation Framework encourages Operating Administrations to apply rigor to evaluations
+by using robust and unbiased evaluation designs and sound methodology and analysis. The Department also
+recommends that Operating Administrations use evaluation methods that produce findings that stakeholders
+can rely upon, while providing a clear explanation of the limitations of the data and the methods used. The
+Capacity Assessment identified several planned or ongoing formative, implementation, and outcome
+evaluations, which are described in DOT's FY 2022 and FY 2023 Evaluation Plans. These documents do not
+include any impact evaluations. The Department is preparing internal guidance to improve evaluation
+methods. Given the evaluation design and methodology challenges that DOT faces, the guidance will focus on
+improving methodologies for evaluations with small sample sizes and methods that mitigate the effect of a
+low degree of control.
+EFFECTIVENESS
+The Department is taking several steps to improve the effectiveness of its evaluation activities. This includes
+publishing an Evaluation Framework, creating Annual Evaluation Plans, and providing technical resources to
+the Operating Administrations. Additional planned actions will further strengthen the effectiveness of
+evaluation:
+Improve timeliness of results: Emerging technologies such as drones and self-driving cars are
+constantly evolving. To guide the future of technology in transportation, the Department must make
+program and policy decisions using rapidly generated evidence. Because of the nature of DOT's
+mission, activities such as evaluations with a randomized control trial may, unless specifically
+designed for rapid execution, run the risk of producing obsolete findings, especially given Paperwork
+Reduction Act requirements. The Department will explore how to design and conduct rapid
+evaluations to inform timely decision-making.
+Facilitate data collection, use, and sharing for equity evaluations: In response to Executive Order
+13985, the Department has identified actionable opportunities to improve data collection, use, and
+sharing that would allow for disaggregation, enable DOT to assess whether services are being
+delivered equitably, and improve understanding of the impact of policies and programs on
+underserved communities.
+Encourage and incentivize experimentation among State DOTs and grant recipients: The Department
+will encourage State DOTs and other grant recipients to use experimentation as an effective tool to
+achieve enhanced program outcomes.
+Explore priority topics for evaluations: Interviews with the Operating Administrations revealed several
+potential areas for evaluation - improving understanding of Federal highway investments' impact on
+safety, building evidence to support recruiting and training of the aviation and aerospace workforce,
+and building evidence to improve sustainability and resilience of Federal Aviation Administration
+(FAA) facilities.
+INDEPENDENCE
+Under the new Evaluation Framework, the Department will strive for objectivity in the planning and conduct
+of evaluations and in the interpretation and dissemination of findings, avoiding conflicts of interest, bias, and
+other partiality. The Department's Evaluation Framework provides broad principles to guide the planning and
+execution of evaluation activities. At the Operating Administration level, historical technical documents
+include guidance on evaluation activity, such as the FRA Manual for Research Development and Technology
+Program and Project Evaluations. These documents will be revisited and updated to ensure alignment to the
+Department's Evaluation Framework, Scientific Integrity Policy, and additional evaluation guidance.
+U.S. DEPARTMENT OF TRANSPORTATION | CAPACITY ASSESSMENT
+14
+ACRONYMS AND ABBREVIATIONS
+BTS
+Bureau of Transportation Statistics
+DOT
+U.S. Department of Transportation
+Evidence Act
+Foundations for Evidence-Based Policymaking Act of 2018
+FAA
+Federal Aviation Administration
+FHWA
+Federal Highway Administration
+FMCSA
+Federal Motor Carrier Safety Administration
+FRA
+Federal Railroad Administration
+FTA
+Federal Transit Administration
+IIJA
+Infrastructure Investment and Jobs Act
+ITS
+Intelligent Transportation Systems
+NHTSA
+National Highway Traffic Safety Administration
+NTL
+National Transportation Library
+OMB
+Office of Management and Budget
+OST-B
+Office of the Assistant Secretary for Budget and Programs
+OST-R
+Office of the Assistant Secretary for Research and Technology
+RD&T
+Research, Development, and Technology
+Volpe Center
+John A. Volpe National Transportation Systems Center
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+15
+APPENDIX: CAPACITY ASSESSMENT INVENTORY
+This inventory describes the highest-priority or most critical activities being evaluated or analyzed as identified by the Operating
+Administrations. These include both ongoing and planned activities.
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+FAA Regulatory and
+What are the incremental costs and
+Findings will be published in the Federal
+FAA
+Deregulatory
+benefits of each significant regulatory
+Perform cost-benefit analyses.
+Register.
+Actions
+action by FAA?
+What is the expected fleet size,
+General Aviation
+The findings will be published in the FAA
+hours flown, and utilization rate for
+The forecast will be based on aircraft
+FAA
+Fleet and
+Aerospace Forecast, available at
+General Aviation aircraft over the
+registry, market, and annual survey data.
+Operations
+https://www.faa.gov/data research/aviation
+next twenty years?
+In the Terminal Area Forecast, FAA uses
+Passenger Demand
+What is expected passenger demand
+regression analyses on ticket, enplanement,
+The Terminal Area Forecast report and data
+FAA
+and Aviation Activity
+and aviation activity at U.S. airports
+and economic variables to forecast
+are published annually and available at:
+at U.S. Airports
+over the next twenty years?
+passenger demand and model operations by
+https://www.faa.gov/data_research/aviatior
+airport.
+The Enterprise Assessment results will be
+Americans with
+Is FHWA's Americans with
+Conduct a Program Area Profile and
+used in future strategic planning and
+FHWA
+Disabilities Act
+Disabilities Act Program effective,
+Enterprise Assessment.
+performance management activities aimed at
+Program
+efficient, and compliant?
+reducing discrimination.
+FMCSA established the DataQ program in
+February 2004. The Agency would like to
+A final recommendations report will inform
+FMCSA DataQ
+Is FMCSA's DataQ program
+FMCSA
+assess its effectiveness, identify best
+the development and implementation or
+Program
+administered evenly nationwide?
+practices, and develop performance
+corrective actions.
+measures.
+This study is being conducted in four
+The study will provide vital data on the role of
+phases. The first phase was a Request for
+pre-crash factors, such as driving behaviors
+Information from stakeholders and the
+and novel technologies unavailable through
+Large Truck Crash
+What pre-crash factors are
+FMCSA
+public. The second phase is study planning,
+other means. Results of the study could be
+Causal Factor Study
+contributing to large truck crashes?
+information technology development, and
+used to identify, develop, and deploy
+OMB clearance. The third phase is data
+countermeasures to keep large truck crashes
+collection related to 2,000 crashes studied
+from occurring. The data could also help
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+16
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+at 32 sites nationwide and is expected to
+FMCSA understand the role of new
+take two years to complete. The final phase
+automation and fleet technologies, drive
+will be data analysis and compilation of the
+future rulemaking activities, and potentially
+final report.
+be reused for additional crash causal factor
+studies focusing on passenger vehicles.
+FMCSA is conducting an outcome
+evaluation to understand the effectiveness
+Is FMCSA's Drug and Alcohol
+A final recommendations report will inform
+Drug and Alcohol
+of the Clearinghouse four years after the
+FMCSA
+Clearinghouse being used
+the development and implementation of
+Clearinghouse
+June 2020 compliance data, document best
+effectively?
+corrective actions.
+practices, and identify opportunities for
+improvement.
+Fidelity Assessment: Field observations,
+document review (procedures, guidance,
+Is the Short Line Safety Institute
+Assessor manuals, etc.), and interviews with
+(SLSI) conducting Safety Culture
+Assessors and other SLSI staff.
+Assessments of short line railroads
+with strong fidelity?
+Process Evaluation: Observations;
+document review (e.g., training materials);
+How well is SLSI executing its
+survey data analysis; interviews with SLSI
+Findings will be disseminated externally in
+Leadership Development Training
+Short Line Safety
+staff, training vendors, and training
+public Research Reports and will be used to
+FRA
+and what additional process
+Institute
+participants; and benchmarking against best
+improve the SLSI program and the overall
+improvements can SLSI implement
+practices identified in literature review.
+safety culture of short line railroads.
+to strengthen its training program?
+Outcome Evaluation: Pre-post analysis of
+Do SLSI's Safety Culture
+Safety Culture Assessment findings and
+Assessments result in measurable
+opportunities, survey responses for a
+safety culture improvements for
+sample of short line railroads, and interviews
+participating railroads?
+with SLSI staff to validate findings from
+analysis.
+FRA intends to examine a series of
+questions to determine the
+Results from this evaluation will be published
+effectiveness of the Confidential
+Potential methods include surveys,
+in a report and presented to stakeholders. The
+Confidential Close
+Close Call Reporting System (C3RS)
+interviews and focus groups, document
+results can be used to adjust the operation of
+FRA
+Call Reporting
+program, including:
+reviews, data analysis (statistical and
+the reporting program and collaboration with
+System
+What are the strengths and
+qualitative), and observations.
+participating stakeholders to improve their
+weaknesses in the C3RS
+use of this source of safety information.
+implementation phase (e.g., initial
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+17
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+briefing, training, rollout), from the
+end user perspective?
+What are the strengths and
+weaknesses in the C3RS post-
+implementation phase (after initial
+rollout), from the end user
+perspective?
+How useful are the products
+delivered by the National
+Aeronautics and Space
+Administrations (e.g., de-identified
+reports, portal, safety alerts,
+quarterly briefings, special studies,
+etc.)?
+What modifications to the
+Implementing Memorandum of
+Understanding process are needed
+(if any) to sustain and grow C3RS
+in a post-pilot era?
+What are the barriers to railroad
+buy-in of the C3RS program and
+reporting of close calls?
+Is the C3RS program achieving its
+stated objectives?
+Is the C3RS program having an
+effect on safety outcomes for
+participating railroads (i.e., is the
+program effective)?
+The IIJA directs the Department to develop
+two pipelines of intercity passenger rail
+corridors/projects to guide long-term
+Intercity Passenger
+planning, project development, and
+The project inventories will be submitted to
+Rail
+What intercity passenger rail
+investment. The first pipeline of projects is
+Congress and used to guide intercity
+FRA
+Corridor/Project
+corridors and projects are ready for
+specific to the Northeast Corridor (NEC)
+passenger rail investment decisions by the
+Pipeline
+investment?
+and intended to assist NEC states and
+Department.
+Development
+commuter rail agencies, Amtrak, and the
+public with long-term capital planning to
+deliver the NEC Commission's consensus
+Connect 2035 plan. This NEC project
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+18
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+inventory will help to sequence the order in
+which projects will receive funding under
+the Federal-State Partnership for State of
+Good Repair grant program's allocation for
+NEC projects.
+The second pipeline is intended to facilitate
+the development of intercity passenger rail
+corridors across the country. The new
+Corridor Identification and Development
+Program will establish a process for eligible
+entities to submit proposals to partner with
+the Department to create service
+development plans for new or improved
+corridor services. This pipeline will also help
+to prioritize capital project investment under
+FRA's competitive grant funding.
+FRA grantees are instructed to follow the
+Department's Benefit-Cost Analysis
+Guidance for Discretionary Grant Programs
+when preparing benefit-cost analyses
+related to grant program applications. FRA
+economists review the applicant's
+FRA will use benefit-cost analyses to
+What are the costs and benefits
+submission to assess the benefit-cost
+Discretionary Grant
+systematically identify, quantify, and compare
+FRA
+associated FRA's proposed grant
+analysis for several factors (such as the
+Programs
+the expected benefits and costs of potential
+investments?
+reasonableness of applicant's assumptions
+infrastructure projects.
+and the transparency of the analysis) and
+recommend adjustments based on
+corrections for any technical errors, applying
+alternative assumptions, or the
+consideration of benefits and costs that may
+have been omitted or are unquantified.
+For every rulemaking, FRA develops an
+Summary cost and benefit information is
+economic analysis that reviews the costs
+contained in the rulemaking and
+What are the costs and benefits
+and benefits associated with a proposed
+accompanying Federal Register notice.
+FRA
+FRA Rulemakings
+associated with FRA's proposed
+rule. FRA estimates costs by engaging with
+Detailed information is contained in the rule's
+rulemakings?
+stakeholders, researching relevant topics,
+Regulatory Impact Analysis, which is in the
+and incorporating subject matter experts.
+public docket established for the rulemaking.
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+19
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+To further support these rulemakings, FRA
+determines potential benefits by reviewing
+historical accident/incident and operational
+data gathered from railroads, as well as
+conducting risk analyses to capture potential
+risks that may not have resulted in an
+accident or incident. FRA also relies on peer
+reviewed economic papers to determine the
+effectiveness rate of the mitigation efforts of
+the proposed or final rule.
+How can FTA leverage lessons
+learned from the implementation of
+FTA will review lessons learned from the
+FTA will use the lessons learned to revise the
+Safety Risk
+the first four topics evaluated under
+first four topics evaluated under the SRM
+FTA
+Standard Operating Procedure for the SRM
+Management
+the Safety Risk Management (SRM)
+process, including the Inward- and
+process.
+process to enhance effectiveness and
+Outward-Facing Cameras safety topic.
+timeliness?
+Methodologies will include:
+To what extent can FTA increase the
+Literature reviews within and outside the
+adoption of innovative or effective
+transit industry to identify research-to-
+practices based on its funded
+practice methods that are effective in
+FTA will use the findings to implement
+research across the public transit
+FTA Research
+spurring adoption of research innovations
+innovative research-to-practice strategies
+industry?
+Activities -
+within transit systems;
+across the public transit industry. FTA will
+FTA
+Innovative Public
+Written report documenting
+also develop an ongoing communications and
+What are the best communication
+Transit Solutions
+recommendations;
+outreach strategy to capture and share useful
+methods for sharing the results of
+Assessment of the level of adoption for
+best practices.
+FTA's vast portfolio of past research
+specific innovative technologies; and
+with public transportation
+Development of an implementation plan
+professionals?
+for research-to-practice activities.
+The before-and-after studies compare
+FTA uses the findings to improve methods for
+To what extent did the predicted
+predicted versus actual values for capital
+estimating capital costs, forecasting ridership,
+construction costs, service levels,
+cost and ridership for a set of transit projects
+project risk assessment, and to maintain
+project scope, and ridership of a
+that meet specified project criteria.
+proactive oversight of projects. FTA publishes
+Capital Investment
+transit project receiving major capital
+FTA
+Predicted construction costs are calculated
+a formal before-and-after study on its public-
+Grants
+project funding from FTA match the
+by project sponsors using Year of
+facing website comparing capital cost and
+actual construction costs, service
+Expenditure dollars and standardized using
+ridership for the set of all rated Capital
+levels, project scope, and ridership?
+a template developed by FTA. Actual capital
+Investment Grant projects periodically (most
+costs are determined when construction is
+recently in FY 2020). FTA also provides a
+U.S. DEPARTMENT OF TRANSPORTATION | CAPACITY ASSESSMENT
+20
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+In cases where the predicted and
+complete. Predicted ridership is calculated
+before-and-after study report to Congress
+actuals do not match, what are
+by project sponsors using opening year
+annually. Finally, FTA publishes individual
+causal factors for the differences?
+ridership forecast methodology that is
+before-and-after project reports on its public-
+reviewed and validated by FTA. Actual
+facing website for projects with more than
+ridership is calculated by sponsors using on-
+$300 million total cost or more than $100
+board rider surveys at times and locations
+million FTA-funded cost.
+most representative of typical travel patterns
+and is conducted two years after the project
+opens to allow the ridership market to
+mature.
+FTA plans to develop an equity
+performance measure for the transit
+FTA will fully develop National Transit Map,
+sector that would involve a survey of
+a nationwide map of fixed routes and
+transit agencies. FTA first needs to
+schedules based on General Transit Feed
+identify the survey population
+Specification data to include transit
+Performance
+(transit providers), collect data on
+agencies' geographic coverage areas. Future
+FTA plans to use the information for
+FTA
+Measurement of
+their associated geographic coverage
+activities will include integrating U.S.
+performance planning and reporting and
+Equity in Transit
+areas, and link that data with U.S.
+Census demographic data. Once sufficient
+management decision-making.
+Census demographic data to identify
+transit agency participation in the National
+geographic areas that are
+Transit Map is achieved, FTA plans to
+"underserved" in terms of transit
+survey transit agencies to collect data that
+services (to develop a proxy measure
+will be used to assess equity issues.
+for equity).
+FTA has identified a broad portfolio
+of research questions related to the
+effectiveness of its Transit Asset
+Management program following the
+final rulemaking, including:
+Has the rule changed asset
+Methodologies include transit agency
+management practices in the
+interviews, focus groups, asset inventory
+Transit Asset
+transit industry?
+FTA will use the results to respond to audit
+analysis from transit agency reporting
+FTA
+Management
+Has the rule contributed towards
+recommendations and determine future
+(institutional data), surveys of relevant FTA
+Program
+reducing the state of good repair
+program development.
+staff, and qualitative analysis of Agency
+backlog?
+narrative reports.
+Have the requirements for a TAM
+plan and performance targets led to
+improved outcomes in safety, service
+reliability, maintenance costs, and
+system performance?
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+21
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+Findings will inform development of
+functional training to provide mariners with
+How can standardization and
+This study will focus on the skills needed in
+an understanding of today's threats and
+resiliency of the commercial fleet
+the workforce to recognize and counter
+vulnerabilities for sealift vessels, addressing
+support operations in a contested
+activity meant to constrain the U.S. ability to
+Government Accountability Office and
+Sealift Contested
+environment, including approaches
+deploy military forces and engage in
+Inspector General reporting on the need for
+MARAD
+Environment
+to educate and increase mariner
+maritime commerce. The full scope of the
+training mariners for contested environment
+Assessment
+skills and necessary tools and
+study will include analysis and update of
+operations. This effort can support improved
+outfitting for U.S. companies, to
+previous training curriculum, instruction on
+efficiencies by identifying infrastructure and
+compete in operations short of war in
+new capabilities, tactics, and procedures,
+personnel requirements, while documenting
+unstable international waters?
+with an eye on safety.
+how standardization and alignment efforts
+can improve overall program management for
+the most active fleet facilities and anchorages.
+This will assess the sufficiency and
+resiliency of infrastructure, personnel safety,
+and resourcing methods to guide
+investments, capital improvements or even
+All assessment data will be incorporated into
+guide reductions in capabilities, where
+the Geographical Information System
+Are the three existing National
+National Defense
+demand has decreased over time. The study
+platform utilized by the Agency and the
+Defense Reserve Fleet facilities and
+Reserve Fleet
+will include projections of future
+Department. Performance measures will be
+MARAD
+anchorages, and Ready Reserve
+Resiliency
+requirements for fleet and anchorage
+developed to gauge effective resource
+Fleet (RRF) resources being utilized
+Evaluation
+services over the next 25 years. Additionally,
+utilization, to inform Agency strategic
+effectively?
+the assessment will look at resiliency
+planning, and to provide Departmental
+measures to improve day-to-day readiness
+reporting on effectiveness.
+of the RRF and document sustainability
+initiatives for more effective utilization of
+resources.
+Assess the current material condition of
+TSSOM and look at the effects of casualties
+What fleetwide upgrades and
+suffered over the last ten years onboard the
+Training Ship State
+Information will be used to project major
+requirements are needed for the
+vessel, and another vessel of the same class,
+of Michigan and
+repairs, modifications, and fleetwide upgrades
+Training Ship State of Michigan
+TS General Rudder. Equipment and systems
+Maritime Training
+needed in the next five years to improve
+MARAD
+(TSSOM) to prevent interruption of
+will be evaluated according to the hierarchy
+Platform
+reliability and safety. This assessment will
+training cruises, including fleetwide
+recorded in the fleetwide, Nautical Systems
+Requirements
+also document baseline requirements for the
+upgrades necessary to improve
+Enterprise application. Additionally, the
+Assessment
+maritime training platform needed at GLMA.
+reliability and safety of the fleet?
+assessment will document and record
+stakeholder concerns for platform or
+capability expansion and detail the scope of
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+22
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+future changes in berthing arrangements,
+equipment integration, and operating
+procedures that would improve maritime
+training delivery or cadet throughput. This
+assessment will involve close engagement
+with stakeholders at Great Lakes Maritime
+Academy (GLMA) to identify maritime
+training platform requirements unique to
+vessels and mariner training on the U.S.
+Great Lakes.
+How can we quantify what benefits
+or impediments of current
+Assessment of the
+processes and infrastructure in the
+Interrelationship
+maritime industry have on the
+Leverage existing products and work in the
+Between the
+overall supply chain?
+area of freight fluidity to serve as a basis for
+The end product will be used as a basis for
+measuring impacts. This would also
+targeting support for infrastructure
+MARAD
+Maritime Industry
+What effect do the benefits or
+incorporate work being conducted on data
+investment that supports resiliency and
+and the Other
+impediments of other supply
+and information sharing within DOT and
+sustainability in the entire supply chain.
+Industries in the
+industries have on the maritime
+across Federal agencies.
+Supply Chain
+industry? (e.g., warehousing,
+manufacturing, rail, truck,
+ecommerce, etc.).
+This assessment would look at existing
+What are the advantages and
+mechanisms in the public and private sector
+disadvantages of ports to nearby
+for measuring carbon emissions and their
+communities?
+impacts (e.g., healthcare costs, life-
+What are the economic
+expectancy, etc.) can affect the well-being
+advantages by employing
+of a community across different
+Assessment of
+community members relative to
+demographic groups at ports in different
+This information will be used to develop a
+Equity Impacts
+the disadvantages caused by
+regions. It will attempt to weigh imbalances
+maritime related framework to measure
+MARAD
+Related to the
+harmful emissions and light
+in equity at ports in different regions
+equitable outcomes for communities affected
+Maritime Port
+pollution?
+recognizing that levels of inequity among
+by ports versus communities without nearby
+Sector
+different groups are not the same across all
+ports.
+How does this affect homebuyer
+regions and ascertain whether a national-
+rates/turnover and the local
+level metric could be established. It will also
+economy?
+look into how these high traffic ports could
+To what extent are benefits and
+create negative externalities to the
+negative impacts distributed
+community beyond health, such financial
+return on long term asset retention (e.g.,
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+23
+Mode
+Activity or Operation
+Main Research Question(s)
+Brief Summary of Methods
+Use and Dissemination of Findings
+differently across different
+home owning in these communities).
+population groups?
+Additionally, it will take into consideration
+the possible economic benefits related to
+How do we address differences in
+employment in local communities, and
+equity across different
+where coordination needs to be
+demographic groups and regions?
+strengthened across equity hiring programs.
+U.S. DEPARTMENT OF TRANSPORTATION |
+CAPACITY ASSESSMENT
+24

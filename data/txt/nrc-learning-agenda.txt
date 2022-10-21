@@ -1,0 +1,895 @@
+NUREG-2252, Vol. 1
+U.S.NRC
+United States Nuclear Regulatory Commission
+Protecting People and the Environment
+Evidence
+Building
+Plan
+Fiscal Year 2022
+AVAILABILITY OF REFERENCE MATERIALS
+IN NRC PUBLICATIONS
+NRC Reference Material
+Non-NRC Reference Material
+As of November 1999, you may electronically access
+Documents available from public and special technical
+NUREG-series publications and other NRC records at the
+libraries include all open literature items, such as books,
+NRC's Library at www.nrc.gov/reading-rm.html. Publicly
+journal articles, transactions, Federal Register notices,
+released records include, to name a few, NUREG-
+Federal and State legislation, and congressional re-
+series publications; Federal Register notices; applicant,
+ports. Such documents as theses, dissertations, foreign
+licensee, and vendor documents and correspondence;
+reports and translations, and non-NRC conference
+NRC correspondence and internal memoranda; bulletins
+proceedings may be purchased from their sponsoring
+and information notices; inspection and investigative
+organization.
+reports; licensee event reports; and Commission papers
+and their attachments.
+Copies of industry codes and standards used in a
+substantive manner in the NRC regulatory process are
+NRC publications in the NUREG series, NRC regulations,
+maintained at-
+and Title 10, "Energy," in the Code of Federal Regulations
+The NRC Technical Library
+may also be purchased from one of these two sources:
+Two White Flint North
+11545 Rockville Pike
+1. The Superintendent of Documents
+Rockville, MD 20852-2738
+U.S. Government Publishing Office
+Washington, DC 20402-0001
+These standards are available in the library for refer-
+Internet: www.bookstore.gpo.gov
+ence use by the public. Codes and standards are usually
+Telephone: (202) 512-1800
+copyrighted and may be purchased from the originating
+Fax: (202) 512-2104
+organization or, if they are American National Standards,
+from-
+2. The National Technical Information Service
+American National Standards Institute
+5301 Shawnee Road
+11 West 42nd Street
+Alexandria, VA 22312-0002
+New York, NY 10036-8002
+Internet: www.ntis.gov
+Internet: www.ansi.org
+1-800-553-6847 or, locally, (703) 605-6000
+(212) 642-4900
+A single copy of each NRC draft report for comment
+Legally binding regulatory requirements are stated only in
+is available free, to the extent of supply, upon written
+laws; NRC regulations; licenses, including technical speci-
+request as follows:
+fications; or orders, not in NUREG-series publications. The
+views expressed in contractor prepared publications in this
+Address: U.S. Nuclear Regulatory Commission
+series are not necessarily those of the NRC.
+Office of Administration
+Digital Communications and Administrative
+The NUREG series comprises (1) technical and adminis-
+Services Branch
+trative reports and books prepared by the staff (NUREG-
+XXXX) or agency contractors (NUREG/CR-XXXX), (2)
+Washington, DC 20555-0001
+proceedings of conferences (NUREG/CP-XXXX), (3)
+E-mail: Reproduction.Resource@nrc.gov
+reports resulting from international agreements (NUREG/
+Facsimile: (301) 415-2289
+IA-XXXX), (4) brochures (NUREG/BR-XXXX), and (5)
+compilations of legal decisions and orders of the Com-
+Some publications in the NUREG series that are posted
+mission and the Atomic and Safety Licensing Boards and
+at the NRC's Web site address www.nrc.gov/reading-rm/
+of Directors' decisions under Section 2.206 of the NRC's
+doc-collections/nuregs are updated periodically and may
+regulations (NUREG-0750).
+differ from the last printed version. Although references
+to material found on a Web site bear the date the material
+DISCLAIMER: This report was prepared as an account
+of work sponsored by an agency of the U.S. Government.
+was accessed, the material available on the date cited
+Neither the U.S. Government nor any agency thereof, nor
+may subsequently be removed from the site.
+any employee, makes any warranty, expressed or implied,
+or assumes any legal liability or responsibility for any third
+party's use, or the results of such use, of any information,
+apparatus, product, or process disclosed in this publication,
+or represents that its use by such third party would not
+infringe privately owned rights.
+Abstract
+The U.S. Nuclear Regulatory Commission (NRC or the agency) is an independent agency established by
+the Energy Reorganization Act of 1974, which began operations in 1975 as a successor to the Atomic of
+2018 to develop an agency evidence-building plan. An evidence-building plan is a systematic approach
+Energy Commission. The NRC is required by the Foundations for Evidence-Based Policymaking Act
+for identifying and addressing priority questions relevant to the agency's programs, policies, and
+regulations. More broadly, it is a coordination tool to engage stakeholders in evidence planning and and
+foster building an agency culture of learning and continuous improvement. Once an evidence-building plan is
+to
+help
+achieve
+an
+agency's
+mission.
+The
+evidence-building
+plan
+is
+intended
+to
+emphasize
+implemented, decisionmakers can use the resulting evidence to guide choices to improve the agency
+programs, policies, and regulations. The evidence-building plan includes nine priority questions to
+support agency needs and the fiscal years 2022 - 2026 strategic goals and objectives.
+the
+Table of Contents
+Abstract
+iii
+Foundations for Evidence-Based Policymaking Act of 2018
+1
+About the NRC
+1
+Purpose
+1
+Methodology
+2
+Evidence-Building Plan Priority Questions
+2
+Priority questions for Strategic Plan Goal 1 - Ensure the safe and secure use of radioactive
+materials
+5
+Priority Question 1: How can the NRC improve the agency's licensing and oversight programs
+based on recent operational experience and lessons learned from the COVID-19 pandemic?
+5
+Priority Question 2: What data received and maintained would be most beneficial for use in advanced
+analytical tools (e.g., machine learning, artificial intelligence) to support NRC decisionmaking?
+6
+Priority Question 3: To what extent are the NRC's computer codes capable of supporting
+independent analysis of the safety of advanced reactor designs and operations?
+8
+Priority Questions for Strategic Plan Goal 2-Continue to foster a healthy organization
+10
+Priority Question 4: To what extent are licensing actions performed by the NRC becoming more
+or less resource intensive over time and have there been any changes in work product quality?
+10
+Priority Question 5: To what extent are NRC's workforce planning processes adequately
+accommodating potential workload fluctuations?
+11
+Priority Question 6: What process improvements can be implemented to make the NRC a
+more modern, risk-informed regulator and how are they aligned with performance indicators?
+13
+Priority Question 7: How can the NRC better leverage research conducted through
+NRC-sponsored university research and development grants?
+14
+Priority Questions for Strategic Plan Goal 3 - Inspire stakeholder confidence in the NRC 16
+Priority Question 8: How can the NRC improve external engagement to inspire
+stakeholder confidence?
+16
+Priority Question 9: To what extent are the NRC's programs, policies, and activities addressing
+environmental justice?
+17
+V
+P
+°.
+Evidence Building Plan
+Fiscal Year 2022
+Foundations for Evidence-Based Policymaking Act of 2018
+The Foundations for Evidence-Basec Policymaking Act of 2018 (Evidence Act),¹ signed into law
+January 14, 2019, emphasizes collaboration and coordination to advance data and
+evidence-building functions in the Federal Government. The Evidence Act statutorily mandates
+Federal evidence-building activities, open Government data, confidential information protection,
+and statistical efficiency. Evidence includes fact finding, performance measurement, policy
+analysis, and program evaluation used to make critical decisions about program operations,
+policy, and regulations, and to gain visibility into the impact of resource allocation on achieving
+program objectives." The Evidence Act builds on longstanding principles underlying Federal
+policies and data infrastructure investments supporting information quality, access protection,
+and evidence building and use."2 The Evidence Act requires the U.S. Nuclear Regulatory
+Commission (NRC), as a Chief Financial Officers Act agency, to develop an evidence-building
+plan.
+About the NRC
+Congress created the NRC as an independent agency in 1974. Its mission is to license and regulate
+the Nation's civilian use of radioactive materials, to provide reasonable assurance of adequate
+protection of public health and safety, and to promote the common defense and security and
+to protect the environment. The NRC regulates commercial nuclear power plants, nuclear fuel
+cycle facilities, decommissioning of licensed facilities and sites, nuclear waste, and other uses of
+nuclear materials, such as the medical use of radioactive materials, through licensing, inspection,
+and enforcement of its requirements.
+The NRC is committed to meeting the intent of the Evidence Act by evaluating the effectiveness
+and efficiency of its programs and their contributions to achieving the agency's mission.
+Evaluations and other evidence-building activities conducted by the NRC are expected to adhere
+to the standards discussed in the NRC's "Evidence-Building and Evaluation Policy Statement" (86
+Fed. Reg. 29,683; June 3, 2021).
+Purpose
+The evidence-building plan is a systematic approach for identifying and addressing priority
+questions relevant to the agency's programs, policies, and regulations.³ More broadly, it is
+a
+coordination tool to engage stakeholders in evidence planning and building to help achieve
+1
+Pub. L. No. 115-435, 132 Stat. 5529 (2019).
+2
+Office of Management and Budget (OMB) Memorandum M-19-23, "Phase 1 Implementation of the Foundations for
+Evidence-Based Policymaking Act of 2018: Learning Agendas, Personnel, and Planning Guidance," pp. 1-2, July 10, 2019.
+3 5 U.S.C. § 312(b).
+0
+0
+e
+0
+0
+P
+an agency's mission. The evidence-building plan is intended to emphasize and foster an agency
+culture of learning and continuous improvement. Once an evidence-building plan is implemented,
+decisionmakers can use the resulting evidence to guide choices to improve the agency programs,
+policies, and regulations. The priority questions in the evidence-building plan include key areas to
+support agency needs and the fiscal years (FYs) 2022 - 2026 strategic goals and objectives.
+Methodology
+The priority questions for the evidence-building plan were solicited from internal and external
+stakeholders using multiple approaches. Internally, the NRC used a crowd-sourcing platform to solicit
+potential priority questions and feedback from the NRC staff. The NRC staff submitted potential
+priority questions with topics ranging from automating data generation to improving agency processes.
+Externally, the NRC solicited stakeholder input to develop the strategic plan, including the priority
+questions for the evidence-building plan. In September 2020, representatives of various stakeholder
+groups (e.g., industry, the public) participated in a public meeting and provided comments in response
+to a Federal Register notice. The input the NRC received was reviewed and combined with the input
+provided by the NRC staff to develop a set of proposed priority questions that align with the agency's
+strategic priorities. The NRC's Data Governance Board, comprising senior agency officials, further
+refined, added new questions, and endorsed the proposed priority questions.
+Evidence-Building Plan Priority Questions
+Priority questions help the agency focus, drive planning activities, and prioritize improvements with
+the greatest impact on agency programs, policies, and regulations by using evidence to make informed
+decisions. Below are the NRC's priority questions for the evidence-building plan, categorized by topic.
+A summary accompanies each priority question and includes the purpose of the question and the type
+of evidence-building activity anticipated. For each question, the associated evidence-building activity
+uses data and information to develop evidence that allows decisionmakers to make informed decisions.
+Information such as status, resources, analytical approaches, and key questions will be updated for
+each priority question on the Evidence-Building Activities Web page.4
+Each priority question includes the following:
+Key Actions, Methods, and Analytic Approaches: Clearly written, actionable, and time dependent
+actions the NRC will take to answer the priority questions, including the methods and analytic approaches.
+Anticipated Data Needs and Tools: Summary of the expected data needs and tools to answer the
+priority questions. Additional data needs may emerge as the priority question is being answered.
+Anticipated Challenges: Summary of challenges or obstacles that may be encountered during the
+process.
+Benefits: Summary of incremental and overall benefits for the agency as key actions are completed.
+Priority questions are related to the strategic goals in the NRC's Strategic Plan for FYs 2022 - 2026
+as
+shown below.
+4
+The Evidence-Building Activities Web page is available at https://www.nrc.gov/about-nrc/plans-performance/evidence-
+building-and-evaluation/agencywide-evidence-building-activities.htm
+2
+Strategic Plan Goal 1 - Ensure the safe and secure use of
+radioactive materials
+Priority Question 1: How can the NRC improve the agency's licensing and oversight programs based
+on recent operational experience and lessons learned from the COVID-19 pandemic?
+Priority Question 2: What data received and maintained would be most beneficial for use in advanced
+analytical tools (e.g., machine learning, artificial intelligence) to support NRC decisionmaking?
+Priority Question 3: To what extent are the NRC's computer codes capable of supporting independent
+analysis of the safety of advanced reactor designs and operations?
+Strategic Plan Goal 2 - Continue to foster a healthy
+organization
+Priority Question 4: To what extent are licensing actions performed by the NRC becoming more or
+less resource intensive over time and have there been any changes in work product quality?
+Priority Question 5: To what extent are NRC's workforce planning processes adequately accommodating
+potential workload fluctuations?
+Priority Question 6: What process improvements can be implemented to make the NRC a more
+modern, risk-informed regulator and how are they aligned with performance indicators?
+Priority Question 7: How can the NRC better leverage research conducted through NRC-sponsored
+university research and development grants?
+Strategic Plan Goal 3 - Inspire stakeholder confidence in the
+NRC
+Priority Question 8: How can the NRC improve external engagement to inspire stakeholder confidence?
+Priority Question 9: To what extent are the NRC's programs, policies, and activities addressing
+environmental justice?
+0
+3
+.
+0
+P
+9.
+Photo Courtesy of
+Idaho National Laboratory
+Priority questions for Strategic Plan Goal 1 - Ensure the safe
+and secure use of radioactive materials
+Priority Question 1: How can the NRC improve the
+agency's licensing and oversight programs based on
+recent operational experience and lessons learned from
+the COVID-19 pandemic?
+Summary
+Gathering lessons learned and incorporating best practices from recent licensing and oversight
+activities could help the NRC staff to focus on the activities most important to safety. In response
+to the challenges of the COVID-19 pandemic, the NRC quickly identified temporary alternative
+and risk-informed methods for conducting licensing and oversight activities while continuing to
+provide reasonable assurance of adequate protection of public health and safety. Some of these
+temporary changes could potentially streamline processes for licensing and oversight activities
+in the long term while continuing to adequately protect public health and safety. The NRC will
+identify lessons learned and collectively document temporary changes made to agency licensing
+and oversight processes in response to the COVID-19 pandemic. The NRC will further analyze
+these and other lessons learned to determine potential efficiencies to the agency's licensing and
+oversight processes.
+Key Actions, Methods, and Analytic Approaches
+1) Complete a review of NRC licensing and oversight programs, analyzing data such as
+licensing actions, exemption requests, inspections, performanceassessment enforcement,
+allegations, investigations, and incident response.
+2) Perform an assessment to determine what approaches to licensing and oversight were
+most effective during the COVID-19 pandemic.
+3) Conduct benchmarking with other Federal agencies and international nuclear regulators
+in support of the assessment.
+4) Assess whether modifications should be made to adjust schedules or periodicity,
+streamline activities, or perform activities remotely.
+5) Analyze how the licensing and inspection programs leverage technology and identify
+opportunities to use technology to improve programmatic efficiency and effectiveness.
+6) Identify guidance, processes, and regulations that could be modified to incorporate
+improvements based on recent operational experience and lessons learned from the
+COVID-19 pandemic.
+a
+5
+.
+0
+0
+0
+P.
+o.
+Anticipated Data Needs and Tools
+Licensees and public stakeholder groups and organizations provided extensive communications
+to the NRC during the COVID-19 pandemic related to requests for flexibility including
+modifications to or exemptions from established scheduled and regulatory requirements. The
+staff will use existing data and solicit new information from stakeholders, through surveys and
+Federal Register notices, to support the analysis.
+Anticipated Challenges
+It may prove difficult to fully assess the temporary actions taken in response to the COVID-19
+pandemic in a way that translates the lessons learned into potential regulatory reform, given the
+unique and unprecedented challenges presented by the COVID-19 pandemic.
+Benefits
+With respect to incremental benefits, actions that the NRC has taken during the COVID-19
+pandemic can be reviewed to determine if there is a benefit to modifying the processes and
+procedures in the agency's Pandemic Plan or Continuity of Operations Plan to ensure effective
+and efficient plans for future emergency situations.
+Priority Question 2: What data received and maintained
+would be most beneficial for use in advanced analytical
+tools (e.g., machine learning, artificial intelligence) to
+support NRC decisionmaking?
+Summary
+The NRC receives information from stakeholders in various formats through mandatory and
+voluntary information collections. This information is used in agency activities to support the
+safety and security mission. The NRC relies heavily on individual employee analysis in the
+review of items such as licensee submittals, licensing basis documents, reporting requirements,
+and rulemaking activities. By improving how the NRC collects data and information, advanced
+analytical tools can be used more readily and potentially make decisionmaking easier, faster, and
+more efficient. Receiving data and information in formats that readily allow analysis through
+modeling or calculations allows for a more effective use of resources for both the NRC and
+licensees. These data improvements will also benefit members of the general public, as well as
+universities performing academic research in these areas.
+0
+Is
+6
+Key Actions, Methods, and Analytic Approaches
+1) Identify agency information collections and conduct an analysis to determine how the
+information collections as a whole support the agency's decisionmaking process and if
+additional data are needed.
+2) Conduct an analysis to determine which decisionmaking processes could benefit from
+modifying information collections for use in advanced analytical tools.
+3) Establish, through a comparative analysis, whether there is a change in burden for the
+information collection using an analysis-ready submittal format.
+4) Prioritize the information collections that would have the most significant impact on
+agency decisionmaking, analytical tool use, and stakeholder use.
+Anticipated Data Needs and Tools
+Inventory of agency activities that could benefit from improved information collections.
+For each NRC information collection, the purpose of the information collection, the specific
+data collected, the format, and the method of submittal to support the review.
+Current resource burden for stakeholders submitting information to the NRC and estimated
+resource burden for potential format and submission changes to support a comparative
+analysis.
+Benchmarking other agencies' use of electronic submission for information collections to
+inform the NRC's review.
+Anticipated Challenges
+Developing universal prioritization criteria for datasets used by different program areas may
+be a challenge.
+Licensees that submit data to the NRC may not see the benefit in submitting in different or
+more structured formats. They may not see the benefit in openly sharing data with other
+stakeholders or be engaged with the NRC to provide useful feedback on implementing open
+data sharing. Any potential change to the format for information submittal will need to
+be examined and implemented consistent with all applicable laws, including the agency's
+backfitting regulations.
+0
+7
+0
+P.
+9.
+Benefits
+The identification of current agency information collections will assist in fulfilling the Evidence
+Act requirement of developing a comprehensive data inventory and contribute to the NRC's
+open data plan for datasets that can be made publicly available.
+Priority Question 3: To what extent are the NRC's
+computer codes capable of supporting independent
+analysis of the safety of advanced reactor designs and
+operations?
+Summary
+The NRC routinely uses scientific computer codes and analytical tools to perform confirmatory,
+sensitivity, and uncertainty analyses to independently analyze the safety of advanced
+reactor designs. These codes and tools help examine safety margins inherent in the design,
+commensurate with the risk and safety significance of the phenomena related to specific
+reactor designs. The NRC will perform analysis and research to (1) identify the computer codes,
+analytical tools, information, and data for reactor-systems-analysis that the staff may need to
+analyze the safety of non-light water reactor (non-LWR) designs, (2) assess the existing capability
+of computer codes, analytical tools, and supporting information, (3) identify gaps in both
+analytical capabilities and supporting information and data, and (4) interact with both domestic
+and international organizations working on non-LWR technologies to enhance collaboration
+and cooperation. The NRC will engage stakeholders including the U.S. Department of Energy,
+the Electric Power Research Institute, the national laboratories, reactor vendors, utilities, and
+the international community on issues related to computer codes and analytical tools, to share
+knowledge and collaborate on solutions.
+Key Actions, Methods, and Analytic Approaches
+1) Identify, through a needs assessment, near-term advanced reactor submittals to
+understand which systems and components will need to be modeled and assessed using
+computer codes and analytical tools.
+2) Identify, through a needs assessment, the computer codes, analytical tools, information,
+and data for reactor-systems-analysis that the staff may need to analyze the safety of non-
+LWR designs.
+3) Review near-term advanced reactor submittals to identify unique features and areas of
+interest, group and prioritize designs by technology type, and determine the computer
+codes and data needed to perform the safety analyses for each reactor design.
+8
+4) Assess the existing capability of computer codes, analytical tools, and supporting
+information and identify gaps in analytical capabilities and data (e.g., areas of large
+uncertainties relative to key safety limits or the operation of novel reactor design
+features).
+5) Interact with both domestic and international organizations working on non-LWR
+technologies to identify opportunities to collaborate and cooperate in recognizing and
+closing gaps.
+Anticipated Data Needs and Tools
+List of near-term advanced reactor designs to support the review.
+Operational and experimental data used to develop advanced reactors (e.g., normal
+operation, transient information, basic physics data) to support the review.
+Anticipated Challenges
+The staff may not have access to advanced reactor design information prior to formal
+licensing and topical report submittals.
+There may be limited access to information, models, and data for those non-LWR designs
+that are less mature, with designs that are currently conceptual in nature and lack the details
+to allow for a full understanding of the reactor design and its operations.
+Benefits
+These activities will increase the NRC's overall capacity to perform modeling and simulation.
+Through these activities, the NRC staff will gain early familiarity with new reactor designs
+and have a better understanding of the limits of modeling and simulation in comparison to
+actual results.
+Establishing the agency's baseline capabilities for computer code modeling will allow the NRC
+to identify additional research that will increase the capabilities of the agency's computer
+codes and analytical tools.
+Completing these evidence-building activities will give the NRC an understanding of the
+extent to which its computer codes for reactor systems analysis and analytical tools can be
+used to evaluate the safety of non-LWR designs.
+9
+0
+P
+of
+Priority Questions for Strategic Plan Goal 2-Continue to
+foster a healthy organization
+Priority Question 4: To what extent are licensing actions
+performed by the NRC becoming more or less resource
+intensive over time and have there been any changes in
+work product quality?
+Summary
+Data-drivenandevidence-basedlicense reviews are essential to ensuring the NRCi isaccomplishing
+its mission. To answer this question, the NRC will evaluate licensing actions associated with
+licensing programs for which the NRC has developed generic milestone schedules, as required
+by the Nuclear Energy Innovation and Modernization Act (NEIMA).5 The evaluation will (1)
+determine if similar licensing actions have become more or less resource-intensive over time; (2)
+identify resource variances between similar licensing actions; (3) identify the factors contributing
+to the increase, decrease, and variance of resources for each type of licensing action; and (4)
+determine if there were any changes to the quality of the work products. The NRC will engage
+internal and external stakeholders to conduct this assessment. This evaluation will produce a
+better understanding of how resources are being used for similar licensing actions and may
+provide key insights to further risk-inform the agency's licensing programs.
+Key Actions, Methods, and Analytic Approaches
+1) Complete a process evaluation of licensing actions to determine if resource needs have
+become more or less extensive over time. The evaluation will use a combination of
+methods that include a comparative analysis, trend analysis, quality assessment, and a
+needs assessment.
+2) Assess which factors contributed to the increase or decrease of resource needs for each
+type of licensing action.
+3) Conduct a quality assessment of work products associated with licensing actions.
+Anticipated Data Needs and Tools
+Financial information from the license application reviews to establish a baseline level of
+effort for license reviews.
+Quality assessment documentation for license application reviews.
+5
+The NRC established generic milestone schedules for different types of licensing actions for requested activities of the
+Commission that involve the issuance of a final safety evaluation as required by Section 102(c) of NEIMA. (Pub. L. No.
+115-439, tit I, § 102(c), 132 Stat. 5570 (2019)). The NRC's generic milestone schedules can be found on the Web site at
+https://www.nrc.gov/about-nrc/generic-schedules.htm
+0
+10
+0
+Categorized licensing actions to assess the different types of reviews to support comparative
+analysis.
+Product quality surveys completed by internal and external stakeholders to contribute to
+establishing the quality baseline.
+Prior related evaluation and audit reports by the NRC and other Government organizations.
+Anticipated Challenges
+Not all available data are at the level of detail or quality the NRC requires to perform an
+accurate evaluation.
+Earlier financial data are not necessarily in the same format as later data; data inconsistencies
+and formatting do not allow for ease of processing and evaluation or for comparison and
+analysis over longer periods of time.
+Licensing actions may be heterogeneous to a degree that inhibits comparisons.
+Benefits
+Establishing baseline data points for staff and contract effort expended on license reviews
+for similar licensing actions will help with future workforce planning projections.
+Identifying and assessing the quality of requests for additional information from licensees
+can be useful in enhancing the quality of regulatory guidance.
+Developing a quality baseline with defined criteria for assessing licensing work products will
+help the NRC consistently measure quality in the future.
+Priority Question 5: To what extent are NRC's workforce
+planning processes adequately accommodating potential
+workload fluctuations?
+Summary
+The goal of Strategic Workforce Planning (SWP) is to formulate strategies and action plans that
+enable the NRC to recruit, retain, and develop the workforce required to address emerging
+needs and workload fluctuations. The SWP process supports agency efforts to better forecast
+the amount and type of work now and in the future, and the workforce needed to perform
+this work. The SWP process also helps staff understand the future direction of the agency's
+work and empowers staff to plan their professional career development. The NRC will perform
+an evaluation that assesses the effectiveness and efficiency of the current SWP processes and
+will compare estimated workloads and staffing projections against actual results. The NRC will
+engage with internal stakeholders using the SWP process and benchmark against other Federal
+agencies.
+0
+0
+11
+.
+0
+e
+0
+0
+0
+P.
+9.
+Key Actions, Methods, and Analytic Approaches
+1) Conduct an evaluation for the SWP process to assess effectiveness and efficiency, as well
+as identify areas for improvement, if any, to maximize the agency's efforts. Conducting a
+formative evaluation of the NRC's SWP process will require the agency to comprehensively
+assess multiple aspects of the overall approach to workforce planning as implemented
+on an agencywide basis. The formative evaluation will use a combination of methods
+that include an implementation assessment and a needs assessment. This evaluation will
+inform a subsequent outcome-focused evaluation to assess the cost-effectiveness of the
+SWP process. This evaluation will determine whether the workforce planning process
+a) results in dependable future workload projections; and
+b) is effective and efficient in light of the accuracy of the workload projections.
+2) Conduct benchmarking with other Federal agencies.
+3) Perform an analysis to determine whether the cost of conducting the SWP process is
+effectively balanced against the desired outcomes.
+Anticipated Data Needs and Tools
+Compatible data for projected and actual workloads to support the comparative analysis.
+Documentation of the processes used to develop the projected workloads.
+Prior related evaluations and assessments of workforce needs as performed by the NRC and
+by external organizations.
+Data from interviews and focus groups to support the evaluation.
+Anticipated Challenges
+Resources expended by staff and management to support the SWP process may be aggregated
+and tracked with other generic administrative activities. Resources may need to be estimated
+based on discussions with staff and management.
+Benefits
+With respect to incremental benefits, assessing the efficiency of the actual workforce planning
+and its comparison to projections, as well as benchmarking with other Federal agencies, will
+provide the NRC with insights to improve in workforce planning, recruiting, and retention
+practices that the agency can leverage in its internal workforce planning program.
+Is
+12
+Priority Question 6: What process improvements can
+be implemented to make the NRC a more modern,
+risk-informed regulator and how are they aligned with
+performance indicators?
+Summary
+Processes and procedures are vital to ensure consistency, clear expectations, performance
+measurement, and established roles and responsibilities consistent with established policy.
+The NRC operates with structured processes and procedures, such as management directives
+and office instructions. The NRC uses a performance management framework that clearly
+and directly links program goals with the NRC Strategic Plan and institutionalizes the use of
+performance information in decisionmaking. These processes and procedures and the NRC's
+performance management framework will move the agency toward being a more modern, risk-
+informed regulator.
+Key Actions, Methods, and Analytic Approaches
+1) Identify and prioritize agency processes based on the level of potential improvement or
+benefit to the agency, measured by frequency of use and level of effort, while factoring in
+potential risks (e.g., loss of transparency, reduced stakeholder engagement).
+2) Identify agencywide process gaps that could be improved or benefit from procedure
+development using business analytics.
+3) Conduct a process evaluation to determine which processes are not working as intended
+or can be further improved or enhanced for effectiveness, efficiency, quality, and agility.
+4) Analyze the agency's performance indicators to determine if they-
+a) provide meaningful outcomes;
+b) provide a hierarchical structure that allows consistent reporting; and
+c) should be discontinued, modified, or replaced with new performance indicators
+that provide more meaningful results.
+Anticipated Data Needs and Tools
+Documentation of the processes and procedures within the agency, to ensure that the
+prioritization for process improvement encompasses all agency processes and procedures.
+Baseline of current process effectiveness and efficiency related to time, quality, resources,
+and level of staff and management effort, to use in a comparative analysis.
+Feedback from internal and external stakeholders on the NRC's processes and procedures
+to inform the evaluation.
+0
+13
+.
+0
+0
+0
+P
+9.
+Performance indicator data including results and their relationship to office and agency
+priorities, and their importance or relevance to internal and external stakeholders, to inform
+the evaluation.
+Documented process and structure for discontinuing, modifying, or replacing performance
+indicators.
+Feedback from internal and external stakeholders on the performance indicators to support
+establishment of a baseline.
+Anticipated Challenges
+The staff may be challenged to establish the baseline of current process effectiveness and
+efficiency in order to measure quality and level of effort.
+It may be difficult to secure subject matter expertise in performance management to perform
+an objective assessment of the agency's performance indicators.
+There may be resistance to discontinuing, modifying, or replacing performance indicators
+with indicators that provide more meaningful results.
+Benefits
+Process mapping will result in a fully documented end-to-end process flow and may facilitate
+the identification of processes that could benefit from an automated workflow.
+Identifying and mapping processes will give staff a holistic view of processes, which will allow
+them to clearly identify duplication and ensure consistency between overlapping processes.
+Priority Question 7: How can the NRC better leverage
+research conducted through NRC-sponsored university
+research and development grants?
+Summary
+The NRC's University Nuclear Leadership Program awards funding to universities for research
+and development (R&D) grants. The program is intended to develop a workforce capable of
+supporting the design, construction, operation, and regulation of nuclear facilities and the
+safe handling of nuclear materials. The NRC will evaluate the University Nuclear Leadership
+Program to identify opportunities to leverage university grants to support NRC research needs.
+The evaluation will include activities such as internal and external stakeholder engagement,
+process reviews, and benchmarking with other Federal agencies. Ideally, the evaluation will
+reveal strategies for more effective use of research funding in the future.
+14
+Key Actions, Methods, and Analytic Approaches
+1) Conduct a formative evaluation to assess effectiveness and efficiency, as well as identify
+areas for improvement, if any, to maximize the agency's efforts. The evaluation will
+determine the extent to which:
+a) The University Nuclear Leadership Program is achieving the intended benefits for
+the NRC's workforce development and research needs.
+b) Current processes for awarding funding are effective and efficient in meeting the
+program objectives.
+c)
+Improvements to the program can be made to better leverage the NRC-sponsored
+research and development grants.
+2) Conduct an analysis that identifies the University Nuclear Leadership Program's effect on
+universities and the nuclear industry.
+Anticipated Data Needs and Tools
+Qualitative and quantitative data associated with effects on universities and the nuclear
+industry (e.g., job creation, academic interest) as a result of the University Nuclear Leadership
+Program.
+Benchmarking information from other Federal agencies on their grant programs, award
+criteria, and agency benefits, to support a comparative analysis.
+Anticipated Challenges
+Because the R&D grant program is relatively new, sufficient data may not be readily available.
+Benefits
+Sharing and publicizing the NRC funded R&D grants will allow NRC stakeholders to leverage
+the outcomes of the research projects.
+Determining if the NRC's grant program is achieving its workforce development objectives
+will help the agency make continuation or modification decisions.
+Benchmarking University Nuclear Leadership Program grant practices with other Federal
+agencies will provide the NRC with insights on whether it needs to modify its grant programs.
+0
+15
+.
+0
+P
+9.
+Priority Questions for Strategic Plan Goal 3 - Inspire
+stakeholder confidence in the NRC
+Priority Question 8: How can the NRC improve external
+engagement to inspire stakeholder confidence?
+Summary
+The NRC takes an active role in the Open Government Initiative by ensuring that the public
+is informed about and has a reasonable opportunity to meaningfully participate in the NRC's
+regulatory processes. The NRC will assess the agency's current practices for external engagement
+to determine the effectiveness of these methods and to establish a baseline for stakeholder
+confidence. The assessment will include reviewing readily available information, such as
+results of the Federal Employee Viewpoint Survey and Safety Culture and Climate Survey, public
+comments on rulemakings and policy statements, participation in public meetings, engagement
+in social media platforms, and inquiries received through the NRC public Web page. The NRC
+will conduct an analysis that accounts for equity, diversity, and inclusion; identifies areas for
+improvement; and develops recommendations to inspire stakeholder confidence in areas where
+it may be lacking.
+Key Actions, Methods, and Analytic Approaches
+1) Identify and assess the current methods of communication with stakeholders in terms
+of frequency, type of communication, and how engaged the stakeholders are in the
+communication.
+2) Research engagement practices in industry and government that are associated with
+high stakeholder confidence, and conduct a comparative analysis with NRC engagement
+practices.
+3) Identify and assess communications with stakeholders, including NRC documents released
+to the public and information shared on the NRC public Web page.
+4) Conduct benchmarking with other Federal agencies on their engagement with
+stakeholders.
+5) Survey NRC stakeholders to determine a baseline for stakeholder confidence in the
+agency's current methods of engaging with the public.
+0
+Is
+16
+Anticipated Data Needs and Tools
+Documentation and data associated with previous surveys that measured openness to
+support the review and contribute to establishing a baseline for stakeholder confidence in
+the NRC's commitment to public engagement and methods for engaging with the public.
+Information on public meetings, both in person and virtual, including the number of
+attendees, grouped by topic area, to support the review.
+Sample set of written and verbal communications, including social media communications,
+for benchmarking.
+Statistics from visitors to the NRC public Web site and social media platforms such as site
+visitors, searches, and followers.
+Results of existing surveys related to public confidence in Federal agencies (and the basis for
+such results), to support the review and benchmarking analysis.
+Anticipated Challenges
+The staff may be challenged by difficulty in identifying the appropriate groups of stakeholders to
+survey and by the need to develop multiple surveys for different groups.
+Benefits
+As an incremental benefit, the staff can gain insights into the perspectives of different groups
+of stakeholders at different locations and identify key reasons for the lack of confidence of
+each location's stakeholders in the NRC's commitment to public engagement and methods for
+engaging with the public. This information can be used to improve engagement and practices
+for future communications with each stakeholder group.
+Priority Question 9: To what extent are the NRC's
+programs, policies, and activities addressing
+environmental justice?
+Summary
+Executive Order (EO) 12898, "Federal Actions to Address Environmental Justice in Minority
+Populations and Low-Income Populations," dated February 11, 1994, states that Federal agencies
+"shall make achieving environmental justice part of its mission by identifying and addressing, as
+appropriate, disproportionately high and adverse human health or environmental effects of
+its programs, policies, and activities on minority and low-income populations. " Independent
+agencies, such as the NRC, are not bound by the terms of the EO, but, as stated in the order,
+0
+17
+.
+0
+0
+0
+P
+9.
+are requested to comply with its provisions. The Commission has committed to the general
+goals of the EO. In its "Policy Statement on the Treatment of Environmental Justice Matters in
+NRC Regulatory and Licensing Actions" (69 FR 52040; August 4, 2004), the Commission stated
+that the NRC will consider and integrate environmental justice matters as part of its National
+Environmental Policy Act review process.
+The NRC will systematically review how the agency's programs, policies, and activities address
+environmental justice. As part of its review, the staff will evaluate recent EOs and assess whether
+environmental justice is appropriately considered and addressed in the agency's programs,
+policies, and activities, such as adjudicatory procedures and environmental reviews, given the
+agency's mission. The NRC will benchmark practices of other Federal, State, and Tribal agencies
+and assess whether the NRC should incorporate environmental justice beyond implementation
+through the National Environmental Policy Act. The NRC will review the adequacy of the 2004
+"Policy Statement on the Treatment of Environmental Justice Matters in NRC Regulatory and
+Licensing Actions." The NRC staff will also consider whether establishing formal mechanisms
+to gather external stakeholder input would benefit any future environmental justice efforts.
+The NRC will engage with internal and external stakeholders representing a broad range of
+perspectives to solicit their views. The staff will leverage institutional knowledge and use NRC
+transformation initiatives, where practicable, to inform the review.
+Key Actions, Methods, and Analytic Approaches
+1) Assess how agency programs, policies, and activities address environmental justice, and
+compare them to EOs or other Executive Branch activities that discuss environmental
+justice, as appropriate.
+2) Benchmark NRC environmenta justice activities against the environmental justice activities
+of other Government agencies.
+3) Analyze the legal or other limits of applying environmental justice concepts to additional
+aspects of the agency's programs, policies, and activities.
+4) Identify potential formal mechanisms to gather input from external stakeholders and
+other interested persons and determine whether these formal mechanism(s) could be
+improved through any future NRC environmental justice efforts.
+Anticipated Data Needs and Tools
+Compilation of environmental justice benchmarking information to help draw comparisons
+and distinctions.
+Documentation of interagency coordination efforts and compilation of existing guidance to
+agencies for implementing environmental justice programs.
+0
+Is
+18
+Development of a resource comparing and outlining goals of EOs that address environmental
+justice (e.g., EO 14008, "Tackling the Climate Crisis at Home and Abroad," dated January 27,
+2021) against which to assess agency programs, policies, and activities, as appropriate.
+Compilation of examples of formal environmental justice mechanism(s) from Federal, State,
+and Tribal agencies.
+Collection and compilation of the views of, and information from, stakeholders and other
+interested persons.
+Anticipated Challenges
+The staff may be challenged in (1) determining the appropriate depth and breadth of agency
+programs, policies, and activities to review, (2) consistently determining and quantifying
+potential benefits and impacts (concrete quantitative information will likely be difficult to find),
+and (3) dispositioning or reconciling conflicting feedback from stakeholders and other interested
+persons.
+Benefits
+Carrying out the activities above and developing a better understanding of considerations for
+the social-economic demographics around NRC-licensed facilities will allow the NRC to better
+engage minority and low-income communities.
+ERALY its SELECTRIC
+Photo Courtesy of
+University of Wisconsin-Madison
+010
+WERTA
+the
+A
+GLEKIA
+4mm
+045
+67
+VIXI
+MY
+NRC FORM 335
+U.S. NUCLEAR REGULATORY COMMISSION
+1. REPORT NUMBER
+(12-2010)
+(Assigned by NRC, Add Vol., Supp., Rev.,
+NRCMD 3.7
+and Addendum Numbers, if any.)
+BIBLIOGRAPHIC DATA SHEET
+NUREG 2252, Volume 1
+(See instructions on the reverse)
+2. TITLE AND SUBTITLE
+3. DATE REPORT PUBLISHED
+Evidence Building Plan Fiscal Year 2022
+MONTH
+YEAR
+April
+2022
+4. FIN OR GRANT NUMBER
+N/A
+5. AUTHOR(S)
+6. TYPE OF REPORT
+Matthew Meyer, Angela Randall, et. al.
+Evidence Building Plan
+7. PERIOD COVERED (Inclusive Dates)
+Annual
+8. PERFORMING ORGANIZATION - NAME AND ADDRESS (If NRC, provide Division, Office or Region, U. S. Nuclear Regulatory Commission, and mailing address; if
+contractor, provide name and mailing address.)
+Office of the Executive Director for Operations
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-001
+9. SPONSORING ORGANIZATION - NAME AND ADDRESS (If NRC, type "Same as above", if contractor, provide NRC Division, Office or Region, U.S. Nuclear Regulatory
+Commission, and mailing address.)
+Same as above
+10. SUPPLEMENTARY NOTES
+11. ABSTRACT (200 words or less)
+The U.S. Nuclear Regulatory Commission (NRC or the agency) is an independent agency established by the Energy
+Reorganization Act of 1974, which began operations in 1975 as a successor to the Atomic Energy Commission. The NRC is
+required by the Foundations for Evidence-Based Policymaking Act of 2018 to develop an agency evidence-building plan. An
+evidence-building plan is a systematic approach for identifying and addressing priority questions relevant to the agency's
+programs, policies, and regulations. More broadly, it is a coordination tool to engage stakeholders in evidence planning and
+building to help achieve an agency's mission. The evidence-building plan is intended to emphasize and foster an agency culture of
+learning and continuous improvement. Once an evidence-building plan is implemented, decisionmakers can use the resulting
+evidence to guide choices to improve the agency programs, policies, and regulations. The evidence-building plan
+includes
+nine
+priority questions to support agency needs and the fiscal years 2022 - 2026 strategic goals and objectives.
+12. KEY WORDS/DESCRIPTORS (List words or phrases that will assist researchers in locating the report.)
+13. AVAILABILITY STATEMENT
+unlimited
+Evidence, Evidence-Based, Policymaking, Foundations for Evidence-Based Policymaking Act of 2018, Evidence Act, evidence-
+building plan, strategic plan, strategic planning, evidence-building, priority questions, decisionmakers, continuous improvement,
+14. SECURITY CLASSIFICATION
+improvement
+(This Page)
+unclassified
+(This Report)
+unclassified
+15. NUMBER OF PAGES
+16. PRICE
+NRC FORM 335 (12-2010)
+U.S. Nuclear Regulatory Commission
+NUREG-2252, Vol. 1
+April 2022
+www.nrc.gov
+STAY CONNECTED
+f
+You
+Tube
+oo
+in
+@NRCgov

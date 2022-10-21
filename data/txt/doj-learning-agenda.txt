@@ -1,0 +1,70 @@
+"value"
+"1" "An official website of the United States government"
+"2" "Here’s how you know"
+"3" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"4" "Secure .gov websites use HTTPS
+A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"5" "What is the Learning Agenda?
+The Learning Agenda, also known as an evidence-building plan, identifies evidence gaps related to the Department’s strategic goals and objectives. The Learning Agenda is built around a set of priority questions that can be answered through rigorous evidence building, including research, evaluation, statistics, and analysis. The evidence built around each one of these questions will advance the Department’s ability to effectively achieve its strategic goals and objectives, both in the short term and in the long term."
+"6" "The Learning Agenda also serves as a tool for teams within the Department – and potentially external stakeholders, as well – to spur coordinated research and analysis. The priority questions in the learning agenda were identified through a whole-agency effort, and all of them will require coordinated planning and collaboration to answer. It is hoped that the learning agenda might also allow external stakeholders with capacity for rigorous evidence building to engage on topics of importance to the Department’s mission."
+"7" "Finally, the Learning Agenda serves as a public document of the Department’s priorities for evidence building. This enables transparency and accountability as the Department invests in evaluation, statistics, data analysis, and other types of research and analysis with the ultimate goal of delivering on its mission for the American people."
+"8" "How was this Learning Agenda developed?
+The entire Department contributed to this Learning Agenda. The identification of evidence gaps and priority questions was tightly integrated into the Department’s strategic planning process. This will ensure that evidence-building activities over the next four years will directly support the Department’s strategic goals and objectives. The evidence gaps identified, and the priority questions that resulted, came from components across the Department – including components that focus on law enforcement, litigation, grant making, and other essential activities under all five of the Department’s strategic goals."
+"9" "The Learning Agenda is a living document
+The Learning Agenda is meant to be iterative and flexible. Just as identifying evidence gaps and defining priority questions was a whole-agency effort, implementing the Learning Agenda through rigorous evidence building will require significant coordination and collaboration among components across the Department. As this work progresses, the priority questions will likely evolve and adapt to changes in technical capacity and resources; results and findings may answer preliminary questions and open up new lines of research. Accordingly, this Learning Agenda will be revisited and updated annually."
+"10" " "
+"11" "An official website of the United States government"
+"12" "Here’s how you know"
+"13" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"14" "Secure .gov websites use HTTPS
+A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"15" "The Department’s first core priority is upholding the rule of law, both by protecting our democratic institutions and by promoting good government through our own management and administration."
+"16" "In support of these objectives, the Department will prioritize building evidence in two key areas. First, we will pursue new methods of using data and rigorous analysis to identify programs at risk of fraud, and we will take a variety of evidence-building approaches to identify effective tools for preventing fraud, waste, and abuse. Second, we will fill important knowledge gaps related to establishing and maintaining high-quality management, functional support systems, and a diverse and inclusive workforce. To facilitate innovation, we will seek evidence on effective management structures and will develop an evidence-based approach to training leaders to promote creativity and collaborative problem solving. To promote diversity, we will take a rigorous approach to understanding our hiring, onboarding, and retention practices, with particular focus on barriers that could have inequitable impact across demographic groups. In the wake of the COVID-19 pandemic, we will also build evidence on the impact of telework in support of our objective to recruit, retain, and foster a high-performing and diverse workforce."
+"17" "Priority Questions:"
+"18" " "
+"19" "An official website of the United States government"
+"20" "Here’s how you know"
+"21" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"22" "Secure .gov websites use HTTPS
+A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"23" "Keeping our country safe through a wide range of strategies and tools remains one of the highest priorities of the Department of Justice."
+"24" "The Department will build evidence on a range of topics supporting all its objectives under this broad strategic goal. Threats to national security continue to evolve both in scale and in kind, and the FBI has assessed that lone actors now constitute the greatest terrorist threat to the United States. Several of the Department’s highest priorities for evidence building involve developing richer understandings of the processes by which lone actors are radicalized or adopt extremist beliefs that motivate them to terrorism. Developing evidence-based strategies for detecting and countering these processes is essential. Thus, two of our priority questions focus on countering radicalization that occurs through social media and countering both online and offline forms of misinformation, disinformation, and malinformation."
+"25" "The Department works to protect public safety in a wide variety of ways, ranging from investigations to cutting-edge prosecutions to grants for community-based interventions and victim services. We have identified an equally broad set of critical topics for evidence building, all of which have the potential to help maximize the effectiveness of these many strategies and tools. A richer understanding of current and persistent drivers of violent crime, for example, will enable us to optimize our use of resources both at the federal law enforcement level and at the grantmaking level. Evaluation of the large-scale Project Safe Neighborhoods program will help to optimize its implementation and identify specific evidence-based strategies for combating violent crime in districts around the country. Other priority questions in this area will enable us to optimize our use of resources for other forms of investigation, prosecution, litigation, and grantmaking. In particular, we will seek to understand barriers to accessing victim services, especially any barriers that have disproportionate impact on underserved or hard-to-reach populations."
+"26" "Several priority questions focus on increasing and improving the reporting of crimes, threats, and hostile activities to law enforcement. Building evidence on why victims and others do not always report to law enforcement will enable us and our partners to take steps to increase reporting – for example, by removing administrative obstacles or addressing concerns that might prevent individuals and organizations from reporting. Improved reporting would provide us and our partners more complete information with which to counter threats to national security, combat terrorism, and enhance cybersecurity."
+"27" "Priority Questions:"
+"28" " "
+"29" "An official website of the United States government"
+"30" "Here’s how you know"
+"31" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"32" "Secure .gov websites use HTTPS
+A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"33" "Protecting civil rights is a core priority of the Justice Department. We are committed to a comprehensive approach to combating civil rights violations and reducing barriers to equal justice."
+"34" "The Department has prioritized four topics for evidence building in support of this goal. The first, like several other questions in this learning agenda, focuses on increasing and improving the reporting of crimes to law enforcement. A richer understanding of the barriers to reporting hate crimes will enable us to more effectively deploy a variety of tools against such crimes. Another priority question calls for studying the impact of new policies designed to promote accountability and public confidence in federal law enforcement; this may require significant investment in data collection and analysis but has the potential to inform high-stakes decisions about implementation of these critical policies. We will also prioritize developing a richer understanding of the impact of the Department’s grantmaking on criminal justice innovation and reform."
+"35" "Priority Questions:"
+"36" " "
+"37" " "
+"38" " "
+"39" "An official website of the United States government"
+"40" "Here’s how you know"
+"41" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"42" "Secure .gov websites use HTTPS
+A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"43" "To help ensure an economy that works for everyone, the Department will prioritize robust antitrust enforcement; deterring, detecting, and prosecuting corporate crime; and combating public corruption."
+"44" "We prioritize three questions in this area. The first calls for a scientific approach to understanding the impact of cryptocurrency on bankruptcy proceedings. The second involves investigating the potential to more effectively combat corruption of federal, state, and local government by making greater use of data from disparate sources. The third is designed to optimize the Department’s own prosecution of financial crime."
+"45" "Priority Questions:"
+"46" " "
+"47" "An official website of the United States government"
+"48" "Here’s how you know"
+"49" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"50" "Secure .gov websites use HTTPS
+A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"51" "Running immigration courts and the federal prison system are among the Department’s most solemn responsibilities."
+"52" "We prioritize two questions in this area. The first is aimed at improving immigration court proceedings by identifying and adapting technical innovations from other courtroom contexts. The second concerns the long-term impact of programs, provided by the Federal Bureau of Prisons under the First Step Act of 2018, that are designed to support individuals’ reentry into the community and reduce the risk of future recidivism."
+"53" "Priority Questions:"
+"54" " "

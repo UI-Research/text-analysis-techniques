@@ -1,0 +1,809 @@
+UNTED
+STATES
+United States
+Environmental Protection Agency
+FISCAL YEAR 2022
+Justification of Appropriation
+Estimates for the Committee
+on Appropriations
+Tab 14: Annual Evaluation Plan and
+Other Evidence-Building Activities
+May 2021
+EPA-190-R-21-002
+www.epa.gov/cj
+Environmental Protection Agency
+FY 2022 Annual Evaluation Plan and Other Evidence-Building Activities
+Table of Contents - Program and Performance Assessment
+EPA's FY 2022 Annual Evaluation Plan
+729
+727
+728
+EPA's FY 2022 Annual Evaluation Plan
+Overview
+The Foundations for Evidence-Based Policymaking Act (Evidence Act) provides a framework to
+promote a culture of evaluation and continuous learning to ensure Agency decisions are made
+using the best available evidence. EPA's FY 2022 Evaluation Plan describes significant program
+evaluations the Agency plans to undertake in FY 2022. Significant evaluations include those that
+support EPA's ability to meet an Administrator Priority, is mandated by Congress, or being
+highlighted as a program priority.
+Office of Chemical Safety and Pollution Prevention (OCSPP)
+Title
+IT Modernization of EPA Pesticide Tracking Systems
+Lead National
+Office of Chemical Safety and Pollution Prevention
+Program
+Planned Start
+4/2019
+Planned completion
+9/2024
+Date
+date
+Purpose and brief description: In April 2019, EPA kicked off Phase 1 of a multi-year digital
+transformation to create a fully electronic workflow system for EPA registration and reevaluation
+activities. This effort builds on the 2016 launch of the Pesticide Submission Portal, a secure, web-
+based portal in EPA's Central Data Exchange (CDX) environment through which the public can
+electronically submit applications for EPA evaluation. In advance of the launch of the new system,
+EPA developed internal tracking metrics and established baselines of performance using the
+current Agency systems for review of applications. These metrics measure: 1) timeliness of
+review, 2) efficiencies realized as a result of the transformation effort, and 3) employee
+engagement. In July/ August 2020, a pilot of the new system went live for two of the three
+regulatory divisions within EPA's Office of Pesticide Programs (OPP), as well as the Information
+Technology and Resource Management Division (ITRMD) which in-processes all applications.
+The pilot is specific to registration application workflows under Pesticide Registration
+Improvement Act (PRIA) and its reauthorizations.
+The next phase of this effort will be the development of additional workflows and expansion to all
+of the divisions that support registration and reevaluation regulatory activities. By 2022, the focus
+will shift from improving employee user experience to improving customer experience, improving
+the ability of the regulated community, other stakeholders, partners, and the American public to
+directly engage with the regulatory and science efforts.
+The nature of a digital transformation, pace of technological advancements, and software
+development lifecycle requires IT organizations to stay in a mode of continuous improvement.
+Therefore, the lifecycle would mandate that EPA begin to tackle modernization of various
+components of it as the Agency approaches the fifth year.
+729
+Programmatic or policy decisions this activity will inform: This activity will inform additional
+IT systems development.
+Question(s) this activity will address:
+Will the digital transformation effort and the development and implementation of the
+Salesforce workflow system result in improved timeliness and performance regarding the
+review of pesticide registration and registration review activities?
+Will the improved user experience and productivity from the IT-modernization effort result
+in increased employee job satisfaction?
+Data, tools, method/analytical approach: Using the information from EPA's Pesticide
+Registration Information System (PRISM) and Office of Pesticide Program Information Network
+(OPPIN), EPA will establish baselines for time spent at each stage of the risk assessment and
+assess improvement in the overall review processes for registration and registration review cases.
+The Salesforce interface currently being piloted for antimicrobial and biopesticide applications
+will allow EPA to establish baselines for how much time is spent at each stage and assess
+improvements in review processes supporting new active ingredients registration determinations.
+The employee engagement metric will be tracked by evaluating results to specific questions and
+focus areas in EPA's Employee Viewpoint Survey and comparing responses before and after
+implementation of the IT-modernization effort.
+In addition, the augmented intelligence and advance data analytics within Salesforce will allow
+EPA to identify stages in the review process that present bottlenecks, allowing further system
+development and/or resource allocation to address identified concerns. Robotic Process
+Automation (RPA) will enable automation of many routine tasks allowing scientists and regulatory
+specialists to focus on higher value work.
+Anticipated challenges and proposed solutions: Challenges preventing key partners from
+engaging with the digitization effort are related to contract acquisition and increased workload due
+to COVID-19. EPA is working to address the contract award to mitigate the contract acquisition
+challenge. The Agency also is adding flexibility for its partners by lengthening the requirement
+gathering to facilitate and address the increased workload.
+Dissemination of findings: Process improvements relating to pesticide registration
+and registration review activities, as well as information technology improvements, are
+described annually in the PRIA annual report (https://www.epa.gov/pria-fees/annual-
+reports-pria-implementation).
+Office of Enforcement and Compliance Assurance (OECA)
+Title
+Evaluate Impact of Pre-Deadline E-reminders on Discharge Monitoring
+Report (DMR) Non-Receipt
+Lead National
+Office of Enforcement and Compliance Assurance
+Program
+Planned Start Date
+7/2020
+Planned completion
+1/2022
+date
+730
+Purpose and brief description: On-time reporting is critical for effective environmental
+monitoring and enforcement. Self-reporting is integral to the statutory scheme underlying the
+National Pollutant Discharge Elimination System (NPDES) program, but compliance with DMR
+submission requirements remains a challenge. DMR non-receipt accounts for about 50 percent of
+Significant Non-Compliance (SNC) amongst NetDMR states. While prospective reminders hold
+promise to increase DMR submissions by NPDES permittees, such efforts remain novel and
+untested within this population. EPA is proposing to empirically test if reminders improve DMR
+submission timeliness. Many states have already expressed interest in prospective reminders to
+encourage timely DMR submissions by NPDES permittees, and Stanford and EPA aim through
+this pilot to prototype and assess the efficacy of such reminders for helping achieve the long term
+performance goal: by September 30, 2022, decrease the percentage of Clean Water Act NPDES
+permittees in SNC with their permit limits.
+Programmatic or policy decisions this activity will inform: NetDMR currently notifies facilities
+via email when their DMR is 7, 14, and 21 days overdue. The motivation for this trial stems from
+the experience of some states and academic studies in other fields that suggest prospectively
+providing recipients clear and credible information about due dates, penalties, and consequences
+of non-compliance increases compliance. This work will help determine whether this holds true
+for prospective reminders for DMRs.
+Question(s) this activity will address:
+What are the effects of prospective reminders on DMR Non-Receipt SNC Rate? If the
+prospective notification is effective, EPA would expect to see a lower DMR non-receipt
+SNC rate among the facilities that receive a reminder relative to nonrecipients.
+What are the effects of prospective reminders on DMR Late Submission Rate and
+Days Overdue? EPA also might expect to see a change in the timing of submissions, which
+could provide insight into what appropriate notification windows are. If facilities notified
+before the deadline remain overdue but submit their (overdue) reports more quickly than
+the control group, this would suggest that an earlier pre-due date notification could help
+reduce DMR non-receipt.
+What are the effects of prospective reminders on Overall SNC Rate? The current
+National Compliance Initiative aims to halve the national SNC baseline rate of 29.4 percent
+by the end of FY 2022. Although prospective reminders may decrease SNC resulting from
+DMR non-receipt, increased DMR submissions may reveal effluent or other SNC
+violations. Even if the overall SNC rate remains unchanged because of the switch to
+another classification, better understanding the revealed nature of the SNC would be an
+important step towards achieving the NCI.
+Data, tools, method/analytical approach: EPA will use a randomized control trial in which the
+Agency sends personalized DMR submission reminders to a randomly selected set of at least 9,000
+facility operators no later than three to five days before DMR due dates. EPA will use the existing
+ICIS-NPDES database for determining SNC rates and will use statistical analysis to determine if
+there is a difference in the rates between the treatment and control group.
+731
+Anticipated challenges and proposed solutions: In the current design, EPA assumes three to five
+days may suffice to compile and submit the DMR while encouraging responsiveness. In practice,
+a sufficient time window for permits to submit DMRs would depend on many factors, including
+the time to obtain lab results and prepare the DMR. The behavioral science literature suggests that
+optimal reminder timing depends on two key factors: the capacity for task completion and
+behavioral features, such as forgetfulness and procrastination. EPA's proposed reminder window
+stems from an interest in balancing these competing objectives of permitting sufficient time to
+complete the reports while prompting action. The Agency can either adjust that window from the
+outset, or sample size permitting, can explore the feasibility of multiple treatment arms wherein
+EPA sends reminders at different periods prior to their due date (e.g., 3, 7, 14 days prior).
+Additionally, EPA assumes that reducing DMR non-receipt by at least 15 percent among the
+NetDMR facilities is achievable and meaningful. The proposed study sample size of 9,000
+facilities in each group (or 18,000 total between the treated and control, which represents almost
+all of NetDMR facilities) stems from calculations on how many facilities are needed to discern a
+reduction in non-receipt from the current average DMR Non-Receipt Rate of 6.6 percent to 5.6
+percent (i.e., a 15 percent reduction). Although calculations suggest the Agency would be unable
+to detect changes smaller than 1 percentage point in one reporting period, effects could be
+considerably larger. Alternatively, if not enough NetDMR states participate, a longer study period
+may still provide sufficient power to detect a 15 percent reduction. For example, if the Agency
+rolls out the study for two reporting periods, EPA need about 7,900 permits in each group to detect
+a 1 percentage point effect.
+Dissemination of findings: The aim of this work is a journal publication, with a
+pre-publication/working paperthat would potentially be posted on EPA's website.
+732
+FY 2022 Additional Planned Activities to Support EPA's Portfolio of
+Evidence
+Overview
+The Foundations for Evidence-Based Policymaking Act (Evidence Act) provides a framework to
+promote a culture of evaluation and continuous learning to ensure Agency decisions are made
+using the best available evidence. EPA's FY 2022 Evidence-Building Plan describes significant
+evidence-building activities the Agency plans to undertake for a range of program areas.
+EPA's FY 2022 Evidence-Building Plan is organized by national program. Significant evidence-
+building activities include those that support EPA's ability to meet an Administrator Priority, is
+mandated by Congress, or being highlighted as a program priority.
+Additionally, EPA will execute significant evidence-building activities as part of the Agency's Learning Agenda
+which is currently being designed in conjunction with the development of EPA 's FY 2022 - 2026 Strategic Plan.
+EPA's Learning Priorities will focus on a select set of Agency activities and operations, and will address key
+issues, including but not limited to, equity, environmental justice, diversity and inclusion, and climate change.
+The Agency plans to describe evidence-building activities that support Learning Priorities in the Learning
+Agenda published as part of the Strategic Plan in February 2022.
+Significant Evidence-Building Activities
+Office of Air and Radiation (OAR)
+Activity 1:
+Title
+Title V Permitting Program Reviews
+Lead National
+Office of Air and Radiation
+Program
+Planned Start
+10/2021
+Planned completion
+9/2022
+Date
+date
+Purpose and brief description: EPA periodically assesses state and local permitting programs,
+including the sufficiency of fees collected, under Title V of the Clean Air Act as part of its
+responsibility to oversee delegated and approved air permitting programs.
+Programmatic or policy decisions this activity will inform: In general, these analyses identify
+good practices, document areas needing improvement, and inform how EPA can help the
+permitting agencies improve their performance.
+Question(s) this activity will address:
+What are some good practices and areas of improvement in state and local permitting
+programs under Title V of the Clean Air Act?
+How can EPA help the permitting agencies improve their performance?
+733
+Data, tools, method/analytical approach: The method for the analysis includes the gathering of
+information through the use of questionnaires which are specifically tailored to the permitting
+authority being reviewed, phone calls to follow up on the questionnaire and any needs for
+clarification or additional information, review of permits and permit records, and overall
+discussion and review of program implementation activities. This information is used by EPA to
+identify potential areas for improvement such as timeliness of permitting actions, highlight any
+areas where the permitting authority is doing a good job and exhibiting best practices, and to
+develop a written report of the findings of the program assessment. The draft report is shared with
+the permitting authority to ensure there are no misunderstanding or misrepresentation of the
+collected information or erroneous conclusions. Once the report is completed, it is posted on the
+EPA Region's website. Depending on the outcome of the assessment, there may be some further
+interaction between the permitting authority and EPA to ensure implementation of areas for
+improvement and recommended actions.
+Anticipated challenges and proposed solutions: The Agency conducts these analyses annually
+and does not anticipate challenges.
+Dissemination of findings: The Title V Permit analyses are posted on EPA's website.
+Activity 2:
+Title
+Our Nation's Air: Status and Trends Through 2021
+Lead National
+Office of Air and Radiation
+Program
+Planned Start Date
+1/2022
+Planned completion
+6/2022
+date
+Purpose and brief description: EPA is committed to protecting public health and the
+environment by improving air quality and reducing air pollution. This annual report presents the
+trends in the nation's air quality and summarizes the detailed information found at EPA's Air
+Trends website and other air quality and emissions data.
+Programmatic or policy decisions this activity will inform: This activity provides an annual
+assessment of air quality in an accessible format, allowing EPA, states, and other stakeholders to
+understand how air quality is changing both in their local area and across the nation. Stakeholders
+can use this information to help inform their decisions in their air quality programs.
+Question(s) this activity will address:
+Where are areas experiencing air quality above the national ambient air quality standards?
+Are these areas trending toward improving air quality?
+Data, tools, method/analytical approach: Existing data is pulled to generate the report, including
+emissions data from the National Emission Inventory (NEI) and pollutant concentration data for
+the National Ambient Air Quality Standards pollutants from the Air Quality System (AQS). This
+data is mainly averaged and summarized. For the NAAQS, trends also are calculated to provide
+additional
+context.
+EPA
+also
+collects
+data
+from
+IMPROVE
+(http://vista.cira.colostate.edu/Improve/) to calculate visibility trends on the clearest days (based
+734
+on the 20% best or clearest visibility days monitored) and on the most impaired days (based on the
+20% worst visibility days monitored). EPA also uses data from the Ambient Monitoring Archive
+(https://www3.epa.gov/ttnamtil/toxdat.html#data) to provide air toxics concentration trends.
+Specific methodological information can be found here: https://github.com/USEPA/Air-Trends
+ Report/blob/master/etrends_2020/documentation/Air_Trends_Report_Methodologies.docx.
+Anticipated challenges and proposed solutions: The Agency produces this report annually and
+does not anticipate challenges. This activity is contingent upon air quality data availability from
+state, local, and tribal air pollution control agencies.
+Dissemination of findings: This report is annually included on EPA's Air Trends website.
+Office of Chemical Safety and Pollution Prevention (OCSPP)
+Title
+Reducing Use of Animals in Chemical Testing
+Lead National
+Office of Chemical Safety and Pollution Prevention
+Programs
+Office of Research and Development
+Planned Start
+10/2020
+Planned completion
+10/2035
+Date
+date
+Purpose and brief description: On Sept, 10, 2019, EPA issued a directive to prioritize efforts to
+reduce animal testing, which included the goals of reducing mammal study requests and funding
+30 percent by 2025 and eliminating them by 2035. The directive specifically charged the Agency
+to establish baselines, measurements, and reporting mechanisms to track its progress. EPA's "New
+Approach Methods (NAM) Work Plan: Reducing Use of Animals in Chemical Testing" was
+released in June 2020 and discusses the development of metrics to measure the reduction in use of
+mammalian laboratory animals.
+From page 12 of NAM workplan (https://www.epa.gov/sites/production/files/2020-
+06/documents/epa nam work plan.pdf): Within OCSPP, EPA will initially use the number of
+animals required for testing under the 40 C.F.R. Part 158 as a baseline to measure and track
+mammalian use for pesticide actions. As guideline requirements vary based on the type of
+pesticide, specific baselines are as follows: 510 animals for biochemical pesticides, 3,430 animals
+for microbials, 4,920 animals for antimicrobials and 6,260 animals for conventional pesticides.
+EPA also will establish a specific baseline for chemicals that fall under TSCA once the ATAEPI
+analysis is completed. For EDSP, the baseline is 1,800 animals based on the number required to
+complete the Tier I battery of assays. Within ORD, the average number of mammals used for
+research purposes between 2016 and 2018 was 8,600 per year. This number will be used as a
+baseline to provide both a stable and relatively recent estimate of use. OCSPP and ORD will work
+with EPA's other offices to establish specific baselines and calculation methods. As additional
+baselines and metrics are established, EPA will distribute these estimates through the established
+communication mechanisms.
+Additionally, the U.S. Government Accountability Office (GAO) released a report to Congress in
+2019 recommending that Federal agencies develop metrics to assess the progress made toward
+reducing, refining, and replacing animal use in testing. EPA implemented activities and policies
+735
+over the past several years that demonstrate significant reductions in the number of animals used
+in testing and saving resources for the Agency and stakeholders.
+Programmatic or policy decisions this activity will inform: EPA primarily uses laboratory
+animal data for assessing the risks of pesticides and industrial chemicals under FIFRA and TSCA.
+This effort will support metrics that show progress towards replacing animal studies with new
+approach methods that are more efficient and human relevant.
+Question(s) this activity will address:
+What progress is being made towards reducing mammal study requests and funding 30
+percent by 2025?
+What progress is being made towards eliminating mammalian study requests and funding
+by 2035?
+Data, tools, method/analytical approach: EPA tracks the reduction and replacement metrics
+through internal committees, primarily the Hazard and Science Policy Council (HASPOC) and the
+Chemistry and Acute Toxicology Science Advisory Council (CATSAC), and division-level
+processes.
+EPA is in the process of an Analysis of TSCA Available, Expected and Potentially Useful
+Information (ATAEPI) that will provide the foundation for developing metrics for TSCA-specific
+activities in this area.
+Anticipated challenges and proposed solutions: Under TSCA, there is no defined set of
+toxicology data requirements which makes establishing baselines difficult. In addition, EPA needs
+to develop the processes for tracking and working towards publicly accessible metrics where the
+submitted data are protected as TSCA Confidential Business Information (CBI).
+Accelerating progress towards adopting new methods requires the availability of approaches that
+are "equal to or better than" the typically used animal studies. Other activities described in the
+June 2020 Plan will address this challenge.
+Dissemination of findings: EPA efforts to reduce use of animals in chemical testing is
+reported in the Annual Reports on PRIA Implementation (https://www.epa.gov/pria-fees/
+innual-reports-pria-implementation). In the future, EPA also will publish metrics on its website.
+Office of Land and Emergency Management (OLEM)
+Activity 1:
+Title
+Population Analysis
+Lead National
+Office of Land and Emergency Management
+Program
+Planned Start Date
+5/2022
+Planned completion
+7/2022
+date
+Purpose and brief description: This is a descriptive study. The purpose is to conduct a bi-annual
+analysis to support evidence-based descriptions of who benefits from EPA's cleanup and
+736
+prevention work, by collecting data on the population living within three and one mile(s) of a
+Superfund site, Brownfields site, Resource Conservation and Recovery Act (RCRA) Corrective
+Action (CA) site, Leaking Underground Storage Tank (LUST) site, and Underground Storage
+Tank (UST) facility that exist in thousands of communities across the United States ranging from
+remote to large urban settings.
+This analysis also supports EPA's America 's Children and the Environment Report, by estimating
+the number of children and their socioeconomic/demographic characteristics who live within one-
+mile of a RCRA CA or Superfund site that may not have had all human health protective measures
+in place at the time of the analysis.
+Programmatic or policy decisions this activity will inform: Results are included in EPA's
+annual budget reviews with OMB, and in budget justifications for Congress. Results also are used
+in general communications with press, other government agencies, and the public.
+Question(s) this activity will address: This analysis estimates the population living within three
+and one mile(s) of a Superfund site, Brownfield site, RCRA CA site, LUST site and UST facility
+by:
+Race: people who self-identify as white, black, Asian, Native American, Hawaiian/pacific
+islander, or other
+Ethnicity: people of all races who self-identify as hispanic or non-hispanic
+Minority: all race and ethnicity combinations except "non-hispanic whites"
+Income: below poverty level, and incomes twice or more above poverty level
+Education: less than high school education
+Age: Under 5, Under 18, over 64
+Linguistically isolated: households where all members do not speak English as a first
+language or "very well"
+Populations that are more minority, low income, linguistically isolated, or less likely to have a
+high school education than the U.S. population as a whole, may have fewer resources with which
+to address concerns about their health and environment. EPA includes these factors in population
+analyses to understand the potential for these vulnerabilities in relation to cleanup sites at the
+national level.
+Data, tools, method/analytical approach:
+Data
+Site location and status data from the Assessment, Cleanup and Redevelopment
+Exchange System (ACRES), Superfund Enterprise Management System (SEMS)
+and RCRA Info for Brownfields, Superfund and RCRA CA, respectively.
+Site location and status data for LUST sites and UST facilities from ORD's state
+LUST/UST database
+Population data from the most recent American Community Survey 5-Year
+Estimates
+Methods/Analytical approach:
+Latitude and longitude coordinates are used to map site locations. Then 1- - and 3-
+mile buffers are drawn from the site location. Depending on data availability, the
+737
+site location is either a point, a modeled circular site boundary based on site acreage
+around a point or the actual site boundaries.
+Using census block group centroids and the 1 - and 3- mile buffers, the population
+and characteristics are estimated. If the census block centroid falls within the buffer,
+then the population of that census block is included in the estimation of the near
+site population.
+We compare the near site populations to the overall U.S. population to identify
+differences in the characteristics listed above.
+We follow the methods used in the America's Children and the Environment Report
+Indicators E10 and E11. For more details on the methods,
+see
+https://www.epa.gov/americaschildrenenvironment/ace-environments-and-contaminants-
+contaminated-lands#MethodsTools.
+This spatial analysis is done using ArcGIS and R software suites
+Anticipated challenges and proposed solutions: Geospatial data available to map site
+boundaries is limited. EPA continues to work to improve geospatial data on Superfund and RCRA
+Corrective Action site boundaries. The LUST/UST data used was obtained from the USTFinder.
+The USTFinder is a new web map application containing a comprehensive, state-sourced national
+map of underground storage tank (UST) and leaking UST (LUST) data. USTFinder was made
+possible by a large ORD data collection effort. Ability to update estimates for LUST/UST in the
+future depends on whether ORD updates data in the USTFinder.
+Dissemination of findings: EPA will share the results of these analyses on EPA's website
+and include the information in Agency documents that are available to the public.
+Activity 2:
+Title
+Annual Evidence Literature Search
+Lead National
+Office of Land and Emergency Management
+Program
+Planned Start Date
+5/2022
+Planned completion
+8/2022
+date
+Purpose and brief description: EPA collects and maintains evidence on many programs,
+including programs that implement regulations and efforts under the Resource Conservation and
+Recovery Act (RCRA), the Comprehensive Environmental Response, Compensation, and
+Liability Act (CERCLA), the Emergency Planning and Community Right-to-Know Act (EPCRA)
+and portions of the Oil Pollution Act of 1990. Each year, EPA uses a literature search protocol to
+identify any new research (conducted by researchers not at the Agency) that documents and
+describes the effectiveness, efficiency or impact of these programs.
+Programmatic or policy decisions this activity will inform: Results of the evidence literature
+search are used to better understand the effectiveness, efficiency and impacts of EPA's programs,
+which may inform decision-making about program structure or policies. Results also may be used
+for communication to our stakeholders.
+738
+Question(s) this activity will address: The evidence literature search identifies new external
+research that analyzes EPA's program effectiveness, efficiency, or impacts. Studies identified are
+assessed for robustness, and if of high quality and relevance to an EPA's program will be shared
+for consideration for further evaluation or action.
+Data, tools, method/analytical approach: For the search, EPA uses Scopus, Google Scholar,
+Science Direct, ProQuest Energy and Environment, ProQuest Dissertations and Theses, and Open
+Access Theses and Dissertations (OATD) along with a standard list of search terms that EPA
+developed for each of the following eight programmatic categories. Initial results are catalogued
+in an EndNote library, and then further assessed for relevance and robustness. Those of high
+quality and relevance are shared, and then catalogued in OLEM's Evidence Portfolio and Learning
+Agenda Tool.
+1. Office of Superfund Remediation and Technology Innovation (OSRTI): Superfund
+Program
+2. Office of Emergency Management (OEM): Superfund Removal
+3. Office of Brownfields and Land Revitalization (OBLR): Brownfields Program
+4. Office of Underground Storage Tanks (OUST): Underground Storage Tanks Program
+5. Office of Resource Conservation and Recovery (ORCR): RCRA Program: RCRA Subtitle
+C and RCRA Subtitle D
+6. ORCR: RCRA Program: Sustainable Materials Management (SMM) Practices EPA
+Voluntary SMM Programs
+7. RE-Powering America's Land
+8. OEM: Oil Spill Prevention: Spill Prevention, Control, and Countermeasures (SPCC),
+Regulation and Facility Response Plan (FRP) Program, and the Risk Management Plan
+(RMP) Regulation
+Anticipated challenges and proposed solutions: There are no anticipated challenges.
+Dissemination of findings: EPA does not post literature search results as a standalone
+document; however, EPA does cite the literature in public documents.
+Activity 3:
+Title
+Redevelopment Economics at Remedial Sites (non-federal facility)
+Lead National
+Office of Land and Emergency Management
+Program
+Planned Start
+10/2021
+Planned completion
+9/2022
+Date
+date
+Purpose and brief description: Cleaning up contaminated sites can serve as a catalyst for
+economic growth and community revitalization. The Superfund Remedial Program facilitates the
+redevelopment of sites across the country while protecting human health and the environment.
+Collaborative efforts among state, local, and tribal partners, redevelopers and other federal agency
+programs encourage restoration of sites. Since Superfund sites often encompass buildings, roads,
+and other infrastructure, their effective and efficient cleanup and reuse can play a pivotal role in a
+739
+community's economic growth. EPA has initiated efforts to collect economic data at a subset of
+Superfund sites.
+Programmatic or policy decisions this activity will inform: Economic data are included in
+budget justifications to Congress and are used in general communication with key stakeholders
+and the public.
+Question(s) this activity will address: The analysis will provide current, reliable business-related
+information for a subset of Superfund sites in reuse and continued use. Some innovative business
+owners and organizations reuse Superfund sites for a variety of purposes. These uses can help
+economically revitalize communities near Superfund sites.
+Data, tools, method/analytical approach: The study estimates economic activity at Superfund
+sites in reuse from reputable sources based on methodology developed by EPA's Superfund
+Redevelopment Initiative and outlined on the public webpage: Redevelopment Economics at
+Superfund Sites. Information on the number of employees and sales volume for on-site businesses
+typically comes from Hoovers/Dun & Bradstreet, the ReferenceUSA and Manta databases.
+Anticipated challenges and proposed solutions: The contract supporting this project ends July
+2021 which may impact collection of the data. The new contract is expected to be awarded in July
+2021. Should there be a delay in awarding the contract, a proposed solution may be a justification
+for other than full and open competition (JOFOC).
+Dissemination of findings: The summary of the results will be shared on EPA's website.
+Activity 4:
+Title
+Redevelopment Economics at Federal Facilities
+Lead National
+Office of Land and Emergency Management
+Program
+Planned Start
+10/2021
+Planned completion
+9/2022
+Date
+date
+Purpose and brief description: Cleaning up contaminated sites at federal facilities can serve as
+a catalyst for economic growth and community revitalization. The Superfund Federal Facilities
+Program facilitates the redevelopment of federal facility sites across the country by assisting other
+federal agencies (OFAs) expedite activities related to CERCLA response actions, while protecting
+human health and the environment. Collaborative efforts among OFAs; developers; and state,
+local, and tribal partners encourages restoration of sites. Since federal facility Superfund sites often
+encompass thousands of acres with buildings, roads, and other infrastructure, their effective and
+efficient cleanup and reuse can play a pivotal role in a community's economic growth. EPA has
+initiated efforts to collect economic data at a subset of federal facility Superfund sites which is
+outlined on the public webpage Redevelopment Economics at Federal Facilities.
+Programmatic or policy decisions this activity will inform: Economic data are included
+in
+budget justifications to Congress and are used in general communication with other Federal
+agencies and the public.
+740
+Question(s) this activity will address: The analysis will provide current, reliable business-related
+information for a subset of federal facility Superfund sites in reuse and continued use. Some
+innovative business owners and organizations reuse Superfund sites for a variety of purposes.
+These uses can help economically revitalize communities near Superfund sites. EPA has initiated
+efforts to collect economic data at a subset of federal facility Superfund sites.
+Data, tools, method/analytical approach: The study estimates economic activity at federal
+facilities Superfund sites in reuse from reputable sources based on methodology developed by
+EPA's Superfund Redevelopment Initiative, which is outlined in more detail at Redevelopment
+Economics at Federal Facilities. Information on the number of employees and sales volume for
+on-site businesses typically comes from Hoovers/Dun & Bradstreet, the ReferenceUSA and
+Manta databases.
+Anticipated challenges and proposed solutions: There are no anticipated challenges.
+Dissemination of findings: The summary of the results will be shared on EPA's website.
+Office of Mission Support (OMS)
+Activity 1:
+Title
+EPA Space Reduction - Annual Review
+Lead National
+Office of Mission Support
+Program
+Planned Start
+10/2021
+Planned completion
+9/2022
+Date
+date
+Purpose and brief description: This annual assessment is a continuation of the Real Property
+Efficiency Plan completed in FY 2016 and it supports the Long-Term Performance Goal of
+releasing over 850,000 square feet of space by the end of FY 2022. The purpose of the assessment
+is to measure the square footage of unused EPA space released each fiscal year. EPA reports space
+release each year, this activity helps assess and inform results.
+Programmatic or policy decisions this activity will inform: Results from this evidence-building
+activity will inform EPA's leadership in assessing and evaluating challenges associated with
+consolidation and space release efforts and establishing annual targets for releasing unused office
+and warehouse space.
+Question(s) this activity will address:
+What is EPA's progress toward meeting the LTPG?
+What are the specific challenges associated with accomplishing each space release?
+Data, tools, method/analytical approach: As space is released, EPA tracks the square footage of
+the space release in EPA's Office of Administrative Services Information Systems (OASIS).
+741
+Anticipated challenges and proposed solutions: Milestones in space release plan are subject to
+change due to a number of environmental factors outside of EPA's control (e.g. lease terms, GSA
+actions, delays in associated consolidation efforts, funding level reductions). EPA will use findings
+from this activity to identify logistical challenges and assess opportunities for advancing other
+milestones and close the gap needed to meet the LTPG.
+Dissemination of findings: This activity is considered a key component of a management
+strategic decision-making process and its findings will not be shared publicly. The results of
+this activity will be shared with internal stakeholders, including senior leaders in EPA.
+Activity 2:
+Title
+Strategic Sourcing
+Lead National
+Office of Mission Support
+Program
+Planned Start Date
+10/2021
+Planned completion
+9/2022
+date
+Purpose and brief description: The purpose of the annual assessment is to measure EPA's
+progress toward the implementation of Category Management and adoption of Federal Strategic
+Sourcing vehicles and Best-in-Class acquisition solutions, and to provide information that will
+help EPA determine the services and products most conducive to strategic sourcing.
+Programmatic or policy decisions this activity will inform: Results from this evidence-building
+activity will inform EPA's Strategic Sourcing plan and decision-making. Based on the results from
+this annual assessment, EPA expects to deploy new strategic sourcing initiatives that will improve
+the Agency's buying power.
+Question(s) this activity will address: What are the services and products most conducive to
+strategic sourcing that EPA can implement to maximize efficiencies and improve the Agency's
+buying power?
+Data, tools, method/analytical approach: This annual internal assessment will build on current
+data provided by the General Service Administration (GSA). Methods of analysis are spend
+analysis, trend analysis, and data visualization.
+Data is collected in the Federal Procurement Data System - Next Generation (FPDS-NG),
+obligations are categorized in accordance with OMB's Category Management guidelines and
+presented in the D2D.go (data-to-decisions) Dashboards.
+Internally, EPA tracks and displays this data in the Agency's Savings Tracker Qlik Dashboard.
+Anticipated challenges and proposed solutions: Data is contingent on GSA reporting. EPA
+relies on FPDS data and the D2D data to track, validate, and confirm the information that is shared
+with and reported by OMB. EPA will continue to work with GSA to verify the information
+reported by GSA.
+742
+Dissemination of findings: Data used for this analysis is already accessible by the public
+here: https://d2d.gsa.gov/report/public-category-management-dashboards-analytics.
+Office of Research and Development (ORD)
+Activity 1:
+Title
+Research Area: Assessment and Management of Harmful Algal Blooms
+Lead National
+Office of Research and Development
+Program
+Planned Start Date
+10/2019
+Planned completion
+09/2022
+date
+Purpose and brief description: Harmful algal blooms (HABs) are increasing in frequency,
+intensity, and geographic range. Potential impacts from blooms and associated toxins include
+health risks to humans, pets, livestock, wildlife, and other biota; restricted recreational activities;
+increased treatment costs; and decreased economic revenue. HABs are complex ecological
+processes that are affected by various conditions (i.e., physical, chemical, biological, hydrological,
+and meteorological) and therefore are difficult to predict. This research area focuses on toxicity
+and impacts to humans and biota, mitigation of blooms and their effects in source and drinking
+waters, and the characterization of bloom-impacted environments.
+Programmatic or policy decisions this activity will inform: EPA, states, and tribes need tools
+to predict toxic bloom occurrence, characterize bloom development, increase effectiveness of
+cyanotoxin monitoring techniques, and understand the impacts of shifting temperature patterns and
+hydrologic regimes on blooms. This research will inform best management practices of HABs
+including but not limited to refining Drinking Water Health advisories and informing Recreational
+Criteria for cyanotoxin exposures.
+Question(s) this activity will address: This research area, under EPA's Safe and Sustainable
+Water Resources research program (SSWR), supports the current planned activities in the StRAP,
+and will expand the state of scientific understanding and best management approaches for
+nutrient/harmful algae bloom reduction.
+Data, tools, method/analytical approach: This research area will produce a large amount of data,
+methods, and tools to advance the understanding of adverse health impacts among people, other
+animals, and plants that are associated with exposure to HABs. The data, tools, and method/
+analytical approaches used to produce individual outputs and products in this research area may
+include, but are not limited to:
+Development and evaluation of water treatment technologies and toxin exposure levels
+Whole organism toxicity studies, computational toxicology, pharmacokinetic studies, and
+epidemiological studies
+Collection and analysis of satellite data, surveillance datasets, environmental, human
+health, and decision support work, existing data, and/or review of new literature
+Observational or field research, laboratory experiments, and modeling
+methods/measurements of water quality processes and nutrient management
+743
+Anticipated challenges and proposed solutions: This research area will produce a large volume
+of scientific deliverables which will require complex research planning, facilitation, review
+coordination, task prioritization, and regular interactions with the program customer to ensure
+deliverables/products address the customer needs. In FY 2022, EPA will continue to develop more
+efficient methods of project implementation and tracking.
+Dissemination of findings: Research area findings will take a variety of publicly available
+forms including journal publications, open-access tools and models, and technical fact sheets.
+Activity 2:
+Title
+Research Area: Waste Recovery and Beneficial Use
+Lead National
+Office of Research and Development
+Program
+Planned Start Date
+10/2018
+Planned completion
+09/2022
+date
+Purpose and brief description: Many existing materials considered as waste for disposal could
+potentially be reused, recycled, or reprocessed to reduce the consumption of natural resources,
+decrease waste generation, and reduce the volume of materials disposed into hazardous and non-
+hazardous landfills. This project will contribute to providing methodologies that can be used to
+determine whether the potential for adverse impacts to human health and the environment from a
+proposed beneficial use is comparable to or lower than that posed by an analogous product, or at
+or below relevant health-based and regulatory benchmarks.
+Programmatic or policy decisions this activity will inform: This research will enhance
+scientific understanding of material recycling, waste remediation, and potential for adverse human
+health and environmental impacts of beneficial material reuse.
+Question(s) this activity will address: This research area, under EPA's Sustainable and Healthy
+Communities research program (SHC), supports the planned activities in the StRAP, and will
+answer questions concerning potential for recycling materials and quantify the risks and associated
+adverse impacts of beneficial reuse of materials. Planned FY 2022 specific topic areas include, but
+are not limited to, studying advanced separation technologies for recovery and reuse of industrial-
+use solvents, engineering soil amendments for remediation of lead and other contaminants, and
+remediation of industrial by-products.
+Data, tools, method/analytical approach: This research area will produce numerous tools,
+models, and peer reviewed journal articles. These outputs and products produced will use a variety
+of data, tools, and method/analytical approaches including, but not limited to:
+Evaluation and characterization of emerging technologies, policies, sorting, and
+identification trends in reuse, recycling, and demolition activities.
+Collection and analysis of data from ORD colleagues, existing data, and/or review of new
+literature to address issues related to leaching of organics into groundwater
+LEAF methods and software (i.e., LeachXS-Lite) to measure organic and inorganic
+Constituents of Potential Concern (COPCs)
+744
+In situ laboratory experiments on soil amendments, including implementation of screening
+tools and engineered soil amendment mixtures
+Anticipated challenges and proposed solutions: This research area will produce a large volume
+of scientific deliverables which will require complex research planning, facilitation, review
+coordination, task prioritization, and regular interactions with the program customer to ensure
+deliverables/products address the customer needs. In FY 2022, EPA will continue to develop more
+efficient methods of project implementation and tracking.
+Dissemination of findings: Research area findings will take a variety of publicly available
+forms including journal publications, open access tools, and models
+Office of Water (OW)
+Activity 1:
+Title
+Drinking Water Infrastructure Revolving Fund State Reviews
+Lead National
+Office of Water
+Program
+Planned Start
+10/2021
+Planned completion
+9/2022
+Date
+date
+Purpose and brief description: Annually, EPA completes reviews of each State Drinking Water
+Revolving Fund Program.
+Programmatic or policy decisions this activity will inform: These reviews assess if states are
+effectively implementing the Drinking Water Revolving Fund Categorical Grant program to
+facilitate community water system compliance with the Safe Drinking Water Act.
+Question(s) this activity will address:
+Are states effectively implementing the Drinking Water Revolving Fund Categorical Grant
+program to facilitate community water system compliance with the Safe Drinking Water
+Act and complying with the EPA's State and Tribal Assistance Grant program
+requirements?
+Data, tools, method/analytical approach: Data are provided from each state Drinking Water
+State Revolving Fund (DWSRF) program review conducted by EPA headquarters and regions.
+The review includes elements such as state fund usage and utilization rates, financial transaction
+reviews, and state compliance rates with drinking water standards.
+Anticipated challenges and proposed solutions: There are no anticipated challenges.
+Dissemination of findings: EPA makes publicly available an annual report on the status of
+the national DWSRF program. EPA also shares project and financial data at the national and
+state level.
+745
+Activity 2:
+Title
+Public Water System Supervision (PWSS) Program Reviews
+Lead National
+Office of Water
+Program
+Planned Start
+10/2021
+Planned completion
+9/2022
+Date
+date
+Purpose and brief description: EPA annually conducts reviews of agencies with Public Water
+System Supervision (PWSS) primacy (55 reviews).
+Programmatic or policy decisions this activity will inform: These reviews assess if primacy
+entities are effectively implementing the PWSS program to oversee community water system
+compliance with the Safe Drinking Water Act.
+Question(s) this activity will address:
+Are primacy entities effectively implementing the range of activities in the PWSS program
+to oversee community water system compliance with the Safe Drinking Water Act?
+Data, tools, method/analytical approach: Data are provided via program review reports by
+agencies with primacy for the PWSS program. The reports are reviewed by EPA and it includes
+elements such as state use of the funds and the associated impact, compliance and implementation
+of SDWA regulations, alignment of program with national enforcement and compliance priorities,
+and public communication efforts.
+Anticipated challenges and proposed solutions: There are no anticipated challenges.
+Dissemination of findings: EPA's regional offices engage and share results with
+primacy agencies under their purview. EPA shares PWSS information on water system
+compliance rates across and within states.
+Activity 3:
+Title
+Safe Drinking Water Information System (SDWIS) National Regulation
+Non-Compliance Review
+Lead National
+Office of Water
+Program
+Planned Start
+10/2021
+Planned completion
+9/2022
+Date
+date
+Purpose and brief description: EPA will conduct a review of the SDWIS National Public Water
+System Regulation Non-Compliance data.
+Programmatic or policy decisions this activity will inform: The review assesses what drinking
+water regulation or technical, managerial, and financial state and public water system capacity-
+building training in support of drinking water standard compliance should be emphasized for the
+future term.
+746
+Question(s) this activity will address:
+Is the Agency getting the data it and the public need to understand compliance with
+drinking water standards?
+Data, tools, method/analytical approach: Data are provided from EPA's SDWIS-Fed and states'
+SDWIS-State data systems, along with state program reviews mentioned above in Activity 2.
+Anticipated challenges and proposed solutions: There are no anticipated challenges.
+Dissemination of findings: SDWIS Fed is a publicly available database and SDWIS State,
+with compliance information, is managed by individual primacy agency.
+747
+748

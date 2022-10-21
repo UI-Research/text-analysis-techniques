@@ -1,0 +1,687 @@
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+EPA Learning Agenda
+March 28, 2022
+1
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+Overview
+The Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act¹¹ provides a framework to
+promote a culture of evaluation, continuous learning, and decision making using the best available
+evidence. EPA's Strategic Plan incorporates learning priority areas for the first time as required by the
+Evidence Act, which is a significant part of developing this culture. EPA has identified four learning
+priority areas:
+1. Expanding EPA's Toolkit of Air Benefits Assessment Methodologies and Practices - How can EPA
+more comprehensively characterize the health benefits associated with improved air quality and
+improve approaches for quantifying and valuing air pollution effects among populations most
+susceptible and vulnerable to poor air quality?
+2. Drinking Water Systems Out of Compliance - What EPA/state drinking water program policies
+(tools, guidance, training, funding mechanisms) are most effective in increasing system
+compliance?
+3. Workforce - How can EPA ensure it has employees with the competencies needed to achieve its
+mission now and in the future, including identifying or developing leading practices in recruitment,
+retention, succession planning and knowledge management?
+4.
+Grant Commitments Met - How can EPA assess the extent to which commitments achieve the
+intended environmental and/or human health results and identify possible next steps in
+establishing a comprehensive grant reporting system?
+EPA continues to engage with relevant internal staff and external experts and stakeholders on these
+learning priority areas. Stakeholder engagement, as described further in each learning priority area,
+helps EPA to formulate and refine priority questions, identify relevant past evidence development, and
+to plan and implement the activities designed to answer them. EPA's Learning Agenda will be updated
+with evaluation and other evidence-building plans as the learning priority areas progress.
+Learning Priority Area: Expanding EPA's Toolkit of Air Benefits Assessment Methodologies
+and Practices
+EPA, and especially the Office of Air and Radiation (OAR), has long been a leader in the science of
+estimating the benefits to human health from reducing exposures to air pollutants. This work provides
+a crucial basis for understanding the likely impacts of proposed air quality regulations and placing the
+costs of meeting those regulations in context in a benefit-cost analysis. Still, there are important
+benefits from reducing pollutants that are not yet fully incorporated into EPA's analyses, making
+current benefits analyses incomplete.
+EPA uses well-established methods for estimating the health benefits associated with reductions in
+some pollutants. However, as noted by scientific bodies including the National Academy of Sciences
+1 Full-text of the Foundations for Evidence-Based Policymaking Act of 2018 https://www.congress.gov/bill/115th-
+congress/house-bill/4174/text.
+2
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+(NAS) and EPA's Science Advisory Board (SAB)2, there are areas where the science of air pollution
+effects continues to advance and benefits that are currently not quantified and monetized, specifically:
+Benefits of reduced exposures to pollutants that we do not currently quantify, such as many health
+endpoints related to exposure to hazardous air pollutants (HAPs);
+Benefits of reduced risk of health endpoints where there may be uncertainty in the causal
+relationship, but that nonetheless may be important to those exposed;
+Benefits from health endpoints that cannot yet be valued using willingness-to-pay (WTP) or other
+measures of economic value;
+Benefits that account for interrelated endpoints and co-pollutant interactive effects;
+Benefits that account for sequelae and the progression of disease; and,
+Benefits accounting for the cumulative impact of multiple pollutants over time, including intrinsic
+or extrinsic factors that can affect who develops air pollution-related illnesses.
+Understanding who is most vulnerable to poor air quality, and where these individuals live, is key to
+informing policies that promote a more equitable distribution of air pollution-related risk. Myriad
+factors contribute to vulnerability and susceptibility. These factors can be extrinsic (e.g., nonchemical
+stressor exposure) and intrinsic (e.g., biological and life-stage differences) and can each contribute to
+cumulative burden these populations experience. Interactions among factors can lead to an increase in
+exposure and/or an increase in the response. The epidemiologic literature continues to elucidate the
+level and distribution of risk among some populations, for example finding that non-white populations
+experience a greater risk of premature death from exposure to particulate matter (PM)2.5. Applying
+these findings in EPA benefits assessments requires spatially resolved estimates of population counts
+and baseline rates of death and disease that are each more refined than currently used. Accounting for
+factors that alter individual exposure among these groups, including time-activity patterns,
+characteristics of the housing stock, and presence or absence of air conditioning, may also help better
+characterize differences in exposure and risk among these same populations. In addition, the
+concentrated risks among susceptible and vulnerable groups may also affect WTP across the whole
+population to reduce such risks, something generally not currently accounted for in benefits analysis.
+Recognizing both the Agency's leadership role, and the importance of rigorous health benefits
+assessment to EPA's regulatory efforts under not only the Clean Air Act but other regulatory
+requirements, EPA will pursue developing a Learning Priority that helps the Agency more
+comprehensively assess the health benefits of pollution reductions. This Learning Priority will:
+Provide a framework for EPA to resolve questions of enduring importance while also meeting
+timely regulatory deadlines;
+Create a transparent process for identifying priority questions and for addressing them in
+appropriate sequence, promoting continual learning; and
+2 National Research Council. 2002. Estimating the Public Health Benefits of Proposed Air Pollution Regulations. Washington,
+DC: The National Academies Press, https://doi.org/10.17226/10511. National Research Council. 2008. Estimating Mortality
+Risk Reduction and Economic Benefits from Controlling Ozone Air Pollution. Washington, DC: The National Academies Press.
+https://doi.org/10.17226/12198.
+3
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+Enable EPA to strategically engage with knowledgeable external stakeholders, including through
+respected multidisciplinary bodies such as the National Academy of Sciences.
+This Learning Priority will focus on specific benefits assessment questions that contribute to more
+comprehensive benefits analysis and that can be meaningfully explored in a timely manner for
+incorporation into Office of Air and Radiation (OAR) benefits assessments, as well as inform benefits
+assessments elsewhere in the Agency that face similar challenges. Given the significant funding and
+attention that risk and benefits assessments for fine particulate and ozone pollution already receive,
+this Learning Priority will focus on other priority learning questions related to benefits of reducing
+exposures to other toxic pollutants and for people who are particularly vulnerable or exposed to
+multiple types of pollution. Next steps will reflect the best available science and advance best practices
+that can be used throughout EPA for incorporating additional benefits impacts and valuation
+approaches into benefits analyses.
+This Learning Priority is consistent with the requirements laid out in the January 20, 2021 Presidential
+Memorandum on Modernizing Regulatory Review to "identify ways to modernize and improve the
+regulatory review process." Several parts of the memorandum are particularly applicable to this work,
+including a request for improvements that "promote policies that reflect new developments in
+scientific and economic understanding [and that] fully account for regulatory benefits that are difficult
+or impossible to quantify" and that "take into account distributional consequences of regulations."
+This learning priority area supports Goal 4: Ensure Clean and Healthy Air for All Communities.
+Stakeholder Engagement
+OAR has consulted with numerous stakeholders within the Agency, including the Office of Policy's
+National Center for Environmental Economics, Office of Research and Development, Office of Water,
+and the Office of Pollution Prevention and Toxic Substances.
+During October-November 2021, OAR consulted with 17 stakeholders or stakeholder groups from
+outside the Agency, including several research institutions, a state government, peer federal agencies
+and a non-governmental organization. These stakeholders work in areas related to measuring the
+health impacts of air pollution and the benefits of reducing exposures to different types of pollutants.
+The work of these experts includes investigating impacts on people exposed to multiple types of
+pollutants, impacts on vulnerable populations, impacts of exposures at low concentrations, and
+approaches for valuing reductions in different types of exposures and for valuing the full range of
+human health effects caused by air pollution exposures. Each stakeholder was familiar with EPA's
+methods for characterizing the benefits of improved air quality and able to address one or more
+features of these analyses that could be further improved.
+We asked each stakeholder to identify areas that they believe would benefit from additional
+investment and those that might not. These conversations provided extensive and detailed feedback
+on EPA's methods for quantifying and reporting the benefits of improved air quality. Stakeholders
+identified several research topics where additional Agency investment would be useful and would lead
+3
+tps://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/modernizing-regulatory-review/
+4
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+to more comprehensive benefits analysis. These included improved environmental justice (EJ) analyses
+that quantified impacts at fine spatial scales; accounting for "jointness" in health effects across
+endpoints/pollutants; and an accounting for the role of air pollution in making people more frail (and
+thus more susceptible to chronic and acute illnesses). Stakeholders noted specifically that investing
+additional resources in characterizing PM-attributable risks at low concentrations would not be their
+priority given the already-significant recent investments in this area.
+OAR plans to continue engaging with stakeholders throughout the process of answering the priority
+learning agenda questions. Within EPA, this includes other program offices, facilitated by the Office of
+Policy. It also includes appropriate consultations with the Office of Management and Budget Office of
+Information and Regulatory Affairs and with other agency and federal government stakeholders. It will
+also include consultations with the NAS or other suitable peer review mechanisms to recommend
+meaningful significant advancements in specific methods and best practices.
+Priority Questions
+EPA is focusing on three priority questions:
+1. How can EPA more comprehensively characterize the health benefits associated with improved air
+quality?
+2. How can EPA improve our approach for quantifying and valuing air pollution effects among
+populations most susceptible and vulnerable to poor air quality?
+3. How can EPA better account for disproportionate impacts and distribution of disease burden within
+the exposed population?
+Strategy for Addressing the Priority Questions and Accomplishments to Date
+To address these questions EPA will review the economics, epidemiology, exposure and biostatistics
+literature to identify available tools and methods to address the priority questions, as well as identify
+key gaps where data sets, tools and methods are not available but may be developed. Specific inquiries
+will include:
+How to more completely estimate the value of avoided air toxics-related cancer and non-
+cancer effects using new methods for quantifying risks of these effects, willingness to pay
+research, or other approaches;
+How to appropriately factor uncertainty about health risks, including uncertainty on causality,
+into benefits analysis;
+Available data and methods for estimating the dollar value of these impacts while relaxing the
+assumption that each outcome is independent of other outcomes;
+The role air pollution plays in promoting frailty, which makes individuals more susceptible to
+developing chronic disease attributable both to poor air quality and other causes; and
+How to account in our benefits analyses for time-activity patterns, air conditioning use, and
+other factors that influence individual exposures for vulnerable and susceptible populations.
+5
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+OAR will then establish priorities among specific analyses that will contribute to answering the
+Learning Agenda questions and lead to more comprehensive benefits estimates. Prioritization will be
+based on whether other efforts are already underway to address the issue or implement methods, any
+likely upcoming applications for the results, and the level of effort needed. We anticipate our initial
+efforts will address questions: (1) where there is not already significant Agency investment, (2) we are
+likely to successfully address and that are relevant to ongoing Agency work, such as actions identified
+in the Agency Regulatory Agenda, within the expected time and resources available, and (3)
+substantially improve the Agency's ability to more completely quantify benefits. The end product of
+this effort may be a series of case studies illustrating how EPA would apply these new methods.
+Anticipated Challenges and Proposed Solutions
+Key challenges include:
+The air program is currently operating at full capacity to meet its regulatory priorities. As a
+result, there are no available resources (either contract funds or FTE) to develop the needed
+draft documents as well as funding engagement with the NAS. EPA is addressing this challenge
+by requesting additional funds under the Learning Agenda initiative.
+EPA lacks the detailed (and often proprietary) health and economic data needed to perform the
+analyses described above. For example, some data use agreements may inhibit the ability of
+EPA to use the type of individual-level data needed to address the above questions, or increase
+the cost of doing so. Additionally, the development of approved survey instruments to address
+data gaps can be challenging along several different dimensions: timing, internal expertise,
+meeting regulatory requirements (e.g., Information Collection Requests, Institutional Review
+Boards, the Privacy Act, human subject approval), and cost of survey deployment. EPA would
+address these challenges by exploring whether Lean tools and methods can be used when they
+are fit for purpose.
+EPA's benefits methodologies are closely inspected by many parties in both the United States
+and around the world. New approaches, tools, and methods, as well as substantial changes to
+existing ones, will face significant public scrutiny and the need for detailed peer review. EPA
+would address this challenge through convening one or more NAS panels or other suitable peer
+review mechanisms.
+EPA's key decision-support tools used to perform regulatory analyses may need to be
+reconfigured to incorporate the above evidence. EPA is addressing this challenge by continuing
+to provide sufficient funding to develop and maintain critical regulatory decision support tools.
+Learning Priority Area: Drinking Water Systems out of Compliance
+The likelihood of a public water system (PWS) complying with Safe Drinking Water Act (SDWA)
+regulations is a function of water system characteristics such as infrastructure, operator expertise, and
+financial sustainability. These characteristics directly affect a water system's ability to comply with
+SDWA standards. EPA and states, territories and tribes with approval to implement SDWA (primacy
+agencies) aim to increase the probability of compliance by influencing system characteristics through
+6
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+program policy, tools, guidance, training, and funding (program components). Learning Agenda
+evidence-building activities, including evaluations, will guide Agency decisions on policies to improve
+system compliance with existing regulations and provide the foundation for effective analysis in
+support of future policies and regulations.
+Whether a program component improves compliance (or performance) ultimately depends on (1) its
+ability to affect on-the-ground system characteristics and (2) how these characteristics impact the
+likelihood of compliance. EPA will evaluate these dependencies and develop a "theory of change" for
+characteristics deemed high priority for addressing noncompliance and ultimately improving
+compliance.
+For each system characteristic identified as important to study, EPA will identify:
+The program component(s) intended to impact the characteristic;
+Whether evidence exists that shows the program component is implemented correctly; and
+What evidence exists to estimate the effect of the characteristic on the likelihood of
+compliance.
+Connecting program components to their associated system characteristics, and then identifying how
+these characteristics are assumed to impact the system operations, will help to focus data collection
+activities, assess how successfully program components are implemented, and define measurement of
+outcomes related to compliance. Research questions guiding this learning priority area must consider:
+Program monitoring: whether regulator efforts intended to impact a characteristic are
+implemented as intended; and
+Program evaluation: (i) how a program component affects the targeted system characteristic
+and (ii) how the characteristic change impacts the likelihood of improving
+compliance/performance.
+Together, these elements represent a theory of change for how regulatory efforts work to achieve
+improved compliance. For each system characteristic, EPA can map the specific theory of change for
+the characteristic and its associated program components. This allows EPA to identify the assumptions
+and risks for each connection and key measurements for each. Differentiating program components
+from the characteristics they are intended to modify will allow the Agency to map more clearly existing
+empirical evidence and identify which characteristics are the most promising to target for improving
+compliance.
+Specifically, the drinking water learning priority area focuses on evaluating ways to effectively improve
+community water system compliance by: (1) assessing drinking water data reported to EPA to
+determine how accurately it measures national compliance and if the data sufficiently substantiates
+EPA policy decisions; (2) examining root causes of system compliance and non-compliance and
+corresponding technical, managerial, financial factors; and (3) testing efficacy of technical assistance,
+enforcement, and state oversight. Evaluations will rely on existing data and generating new data,
+where needed. Studies to collect new, statistically valid data will be designed based on sample size,
+variability, and other relevant conditions. Randomized control trials (RCT) could be one strategy used
+to answer some of the questions for this learning priority. Each of the questions in this priority area will
+consider communities with concerns about environmental justice.
+This learning priority area supports Goal 2, Objective 2.1, Promote Environmental Justice Efforts at the
+Federal, Tribal, State, and Local Levels and Objective 2.2, Embed Environmental Justice into EPA's
+7
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+Programs, Policies, and Activities; Goal 3, Objective 3.2, Detect Violations and Promote Compliance;
+and Goal 5, Objective 5.1, Ensure Safe Drinking Water and Reliable Water Infrastructure. This learning
+priority area is also aligned with Cross-Agency Strategy 1: Ensure Scientific Integrity and Science-Based
+Decision Making, and Cross-Agency Strategy 4: Strengthen Tribal, State, and Local Partnerships and
+Enhance Engagement.
+Stakeholder Engagement
+To develop the priority questions, EPA consulted with internal and external stakeholders listed below
+including state and water system associations, small-system technical assistance providers, the U.S.
+Department of Agriculture, nongovernmental organizations (NGOs), and academia. Based on those
+consultations, EPA generated more than 30 potential questions covering about 10 categories before
+narrowing the focus to five. Hearing from a broad range of stakeholders helped identify important
+questions that were either common among most of the stakeholders or that address recalcitrant and
+environmental justice-related problems. External stakeholders EPA consulted with include:
+Associations and Technical Assistance Providers
+Association of State Drinking Water Administrators (ASDWA)
+American Water Works Association (AWWA)
+National Rural Water Association (NRWA)
+Rural Community Assistance Partnership (RCAP)
+USDA's Rural Development-Rural Utilities Service (RUS)
+Non-Governmental Organizations
+Natural Resources Defense Council (NRDC)
+Environmental Defense Fund (EDF)
+Earth Justice
+Clean Water Action
+Academic Programs
+University of North Carolina Environmental Finance Center
+Harvard Law, Energy and Environment Law Program
+Berkeley Dept. of Agriculture and Resource Economics
+EPA has delegated primary enforcement responsibility (primacy) for public water system supervision
+programs to 49 states, five territories, and the Navajo Nation. EPA has established a work group to help
+advise evaluation of the drinking water learning priority area questions. The work group includes EPA
+regional representatives and state drinking water program staff. EPA will work closely with individual
+states on specific aspects of the evaluations through the ASDWA (which includes in its membership
+territories and the Navajo Nation).
+At key points in plan development, study design and implementation, and product drafting, EPA will
+consult with associations that represent public water systems, Tribal coordinators, technical assistance
+providers, and drinking water NGOs. EPA will continue to seek and include perspectives for
+communities with environmental justice concerns as it answers the priority questions. EPA is engaging
+academia to assist with identifying relevant existing study results and to design and conduct studies.
+8
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+Priority Questions
+1. To what extent does EPA have ready access to data to measure drinking water compliance reliably
+and accurately?
+2. What factors determine system noncompliance and continuous compliance?
+3. How can we determine if a system has the technical, managerial, and financial capacity to provide
+safe water on a continuous basis to its customers?
+4. Does increased use of compliance assurance tools (inspections and enforcement) improve system
+compliance, and if so, under what circumstances?
+5. What EPA oversight activities are effective at assessing and improving state programs' ability to
+drive compliance?
+Strategy for Addressing the Priority Questions and Accomplishments to Date
+1. To what extent does EPA have ready access to data to measure drinking water compliance reliably
+and accurately and to make policy decisions?
+EPA is carrying out the following activities to answer this priority question:
+Gathering and reviewing existing Government Accountability Office (GAO) and Inspector
+General (IG) reports, data verification audits, annual program file reviews, and published
+studies that analyze data quality of the Safe Drinking Water Information System (SDWIS)
+and creating a table that summarizes findings.
+Developing a method for assessing SDWIS data quality impact on compliance rate
+calculations (for instance rule-by-rule compliance rates as well as national, overall
+compliance rate) and use for policy decisions.
+Reviewing other programs' use of compliance monitoring data to inform this analysis.
+Seeking compliance monitoring data that exist in state databases to use for SDWIS data
+quality checks and for trend analysis in the evaluations described in Questions 2 through 4.
+Using statistical techniques to identify anomalies in sampling data.
+Reviewing data accuracy through a statistical lens with the goal of quantifying the
+uncertainty of calculated rates.
+2. What factors determine system noncompliance and continuous compliance?
+Identifying, gathering, and merging existing analyses of SDWIS data.
+Working with academics to consider the value of additional analyses (e.g., application of
+statistical methods such as those employed through machine learning) to improve upon
+information gleaned from existing analyses, which have already identified and tested
+system factors correlated to noncompliance.
+Conducting literature searches to identify data sets that describe system
+characteristics/factors (e.g., system size, resource base, source water contamination, as well
+as technical, managerial, and financial capabilities) that are believed to correlate to
+performance. Previous analyses indicate the majority of systems in chronic non-compliance
+are in communities with environmental justice concerns.
+Once EPA has completed work to identify correlative factors, it will consider conducting
+studies of the factors to determine causation. Studies will be designed based on the
+information gleaned from the analysis. Study designs may vary based on the types of
+correlative factors identified and what is already known about the factors and how much
+9
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+data exists for them. Studies could involve use of "big data" analytical tools, randomized
+control trials, retrospective analyses, or other study types.
+3. Does increased use of compliance assurance tools (inspections and enforcement) improve system
+compliance, and if so, under what circumstances?
+EPA is engaging in the following activities to answer this priority question:
+Gathering and synthesizing past and ongoing analyses.
+Conducting analyses of available information in SDWIS and the Enforcement and
+Compliance History Online that describe trends related to use of inspection and
+enforcement, which will help identify factors to include in randomized control trials (RCTs).
+Working with academics to determine interest in and approaches to further analyze
+historical data and design studies to answer questions about use of enforcement and
+inspections in the drinking water program.
+Using existing literature summaries and conducting additional literature searches on the
+efficacy of using compliance monitoring inspections and enforcement to ensure compliance.
+4. How can we determine if a system has the technical, managerial, and financial capacity to provide
+safe water on a continuous basis to its customers?
+To answer this priority question, EPA will identify minimum core technical, managerial, and
+financial capabilities required for systems to maintain compliance based on empirical evidence
+gathering and use those minimum core capabilities to develop measures that will help to identify
+systems vulnerable to failure. The evaluation for priority question two will inform this evaluation's
+design and activities, as will other sources such as relevant published literature and data sets that
+exist outside of EPA and state drinking water agencies. It is particularly critical that primacy
+agencies, Tribal leaders, water sector associations, and technical assistance providers actively
+engage in this process.
+5. What EPA oversight activities are effective at assessing and improving state programs' ability to
+drive compliance?
+To answer this priority question, EPA will develop an evidence-based methodology to identify the
+most effective oversight approaches that ensure state programs' ability to improve compliance in
+drinking water systems. The evaluation for this question will also be informed by the evaluations of
+the other questions.
+Anticipated Challenges and Proposed Solutions:
+Only a small portion of drinking water compliance data is housed in EPA's SDWIS database.
+States have compliance data, but some are reluctant to share them with EPA. Some states
+make the data open to the public through Drinking Water Watch. EPA will begin working early
+with states and invite them as collaborators on the Drinking Water Learning Agenda. EPA will
+also use the publicly available data as a starting point.
+A potential major challenge may occur if the data sets states are willing to give to EPA or that
+already are public are not similar to the data from states that do not share publicly (i.e.,
+sampling bias). For example, states that are willing to voluntarily share their data with EPA or
+the public compared with states that are not as transparent may have higher compliance rates
+and/or implement their programs differently.
+10
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+The drinking water program under the Safe Drinking Water Act is delegated to authorized
+states, thus state participation in RCTs will be critical. EPA will need to recruit states willing to
+participate. Controlling for variations among state approaches and among drinking water
+systems will present a significant challenge. Upfront work will be done to ensure study designs
+and appropriate statistical methods are used to account for the variations and can produce
+statistically significant results.
+EPA regions will be asked to use inspection and enforcement tools in new ways. As these two
+tools are used so infrequently now, without piloting changes in the use of these tools, EPA will
+likely have trouble learning under what circumstances such tools are effective. Working
+through the National Compliance Initiative for Drinking Water Compliance, EPA will attempt to
+get regional buy-in for the RCTs.
+EPA will have to overcome definitional problems in which a simple notice of violation (NOV) and
+a formal enforcement action with a binding compliance schedule are lumped together as
+enforcement actions, when in fact they are very different. While the use of NOVs is common,
+EPA suspects the use of formal enforcement actions is much less common and these two
+different tools will need to be distinguished to advance learning on when formal enforcement
+works.
+Participation from primacy agencies in states and the Navajo Nation in the RCTs is critical to the
+success of this effort, since the primacy agencies implement and enforce the National Primary
+Drinking Water Regulations, and the sample sizes would be increased. Working with additional
+organizations necessarily adds complexity. EPA will use lessons learned from other studies that
+have included primacy agencies.
+EPA has had success collaborating with academic researchers without providing the researchers
+with funding, EPA will spend time finding university researchers who are both interested in this
+work and can engage in it without EPA funding. This somewhat limits the pool of academics.
+EPA understands that engagement with external researchers will require external researchers
+(e.g., academics) to align their research to policy-relevant questions in order to help the agency
+to address these learning agenda questions. EPA may use strategies such as Memoranda of
+Understanding (MOUs), EPA data-sharing, assisting with data-sharing partnerships with other
+government entities, and/or other tools to engage these researchers on understanding and
+developing the body of evidence in these areas.
+Learning Priority Area: Workforce
+Workforce is critical for all large organizations and EPA is at an important juncture to shape the
+workforce of the future. Currently, 25 percent of EPA's workforce is retirement eligible, increasing to
+an estimated 42 percent over the next five years. EPA's decentralized workforce approach and urgent
+programmatic needs often result in a "one-for-one" replacement of staff, with insufficient
+consideration of new skills and disciplines that might be needed. In addition, forward-thinking
+approaches often are hampered by the constraints and complexity of federal hiring practices and
+position classifications. For example, to successfully transition its workforce, EPA needs to better
+understand what skills are needed across all disciplines for a future that will certainly be more reliant
+on adept use of data. EPA also needs to acknowledge the wealth of institutional knowledge developed
+11
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+over the past 50 years. Knowledge management is the holistic process of creating, sharing, using, and
+maintaining the key knowledge and information of an organization. It creates organizational
+efficiencies by capturing information and best practices for the workforce of the future.
+EPA identified this area as an enterprise risk due to the high number of staff eligible for retirement and
+EPA's aging workforce. The Agency completed several initiatives to better understand its workforce
+needs and to capture and close skills gaps. The completion of these activities will assist EPA in
+developing an evidence-based plan and roadmap for how EPA can ensure it has diverse employees
+with the competencies needed to achieve its mission now and in the future. This is especially timely
+given the Agency's expected significant increase in hiring due to allocations from the 2021
+Infrastructure Investment and Jobs Act. It will also help determine the overall processes used to
+cultivate and manage the workforce, while anticipating internal and external changes, and
+continuously maximizing the efficiency and effectiveness of the Agency's human resource services.
+EPA will take a two-phased approach to this learning priority area, with an ongoing goal of imbedding
+all learning into the Agency's tactical approaches to workforce.
+In the near term, EPA will focus on:
+Determining current capabilities for assessing workforce status and needs;
+Defining the future skills and disciplines that will strengthen and modernize the workforce;
+and
+Planning for and beginning data collection for EPA's longer-term efforts, described below.
+In the longer term, EPA will focus on:
+Identifying best strategies to retain and attract employees and develop skills to meet the
+Agency's future mission-critical needs; and
+Developing leading practices for maintaining expertise by transferring knowledge from
+current subject matter experts (SMEs) to existing and new employees.
+To identify the actions needed to address the priority questions, EPA consulted with the U.S. Office of
+Personnel Management (OPM), external organizations, and academicians focused on the future of the
+federal workforce. Of specific interest is determining how government can attract and retain
+individuals with needed skills in environmental science.
+This learning priority area covers all program areas and as such supports all strategic goals and is
+aligned with Cross-Agency Strategy 3: Advance EPA's Organizational Excellence and Workforce Equity.
+Priority Questions
+1. To what extent does EPA have access to the tools and strategies needed to analyze and understand
+the Agency's near and long-term workforce needs?
+2. What are the critical skills needed to support the Agency's mission, now and in the future?
+3. What are the leading strategies to attract, recruit, train, and retain a diverse and talented
+workforce? What makes people stay in the Agency long-term?
+4.
+How can EPA ensure knowledge is transferred from outgoing to current and incoming staff to
+support succession planning?
+12
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+Stakeholder Engagement
+EPA understands that its success in answering the above priority questions will to a great degree
+depend on the support and buy-in received from key stakeholder groups. Thus, the Agency has begun
+briefing a range of internal stakeholders, including senior leaders, members of the Human Resources
+Officer/Program Management Officer (HRO/PMO) community, and Shared Services Centers (SSCs)
+staff, and key employee groups. Information provided by Agency HROs/PMOs is being used to revise
+existing and future workforce tools. Quarterly updates to senior leaders are building greater
+understanding of the scope and anticipated benefits to answering the workforce priority questions.
+Interviews with human capital contacts at the National Institutes of Health (NIH), Internal Revenue
+Service (IRS), Department of Homeland Security (DHS), Small Business Administration (SBA), and
+Department of State are aiding EPA in fine-tuning its methodology for several actions. In FY 2021, the
+Agency also partnered with OPM's Strategic Foresight Team to hold a special training workshop for its
+HROs/PMOs and Office of Human Resources' (OHR) Management Team. Moving forward, additional
+stakeholder groups such as EPA's Diversity, Equity, Inclusion, and Accessibility Tiger Team; Emerging
+Leaders Network; First Line Supervisors Advisory Group; Executive Management Council; Human
+Resources Council; and members of the external human resources academic and practitioner
+community will be integrated into the preparation, delivery, and evaluation of workforce priority
+items.
+Strategy for Addressing the Priority Questions and Accomplishments to Date
+1. To what extent does EPA have access to the tools and strategies needed to analyze and understand
+the Agency's near and long-term workforce needs (including those as a result of the Infrastructure
+Investment and Jobs Act)?
+While gathering data from various internal and external stakeholders, EPA will engage in the
+following activities to answer this priority question:
+Assess: 1) overall effectiveness of EPA's existing workforce planning tools (Workforce
+Demographics Dashboard, Diversity Dashboard, Succession Management Guide, and
+Workforce Plan), 2) consistent use of the tools, 3) alignment of the tools with stakeholder
+needs, and 4) effectiveness of EPA's communication of and training for these tools; and
+Ensure appropriate features and measures of diversity, equity, inclusion, and accessibility
+are incorporated into EPA's workforce planning tools and strategies.
+During FY 2021, significant progress was made on this priority question, including: designing the
+template for a workforce planning/succession management dashboard specifically aligned with
+each stage of the workforce planning process, developing training materials on workforce planning
+and succession management processes for our HRO/PMO community, and securing an annual
+membership with the American Productivity and Quality Center to facilitate researching leading
+practices and Key Performance Indicators for workforce planning/succession management.
+2. What are the critical skills needed to support the Agency's mission, now and in the future?
+EPA has begun and will continue to engage in the following activities to answer this priority
+question:
+Establish Mission Critical Skills needed across the Agency to ensure the demands of EPA and
+its various constituents are met by maintaining both the correct positions and employees
+13
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+with sufficient proficiencies including those in support of EPA's learning agenda both now
+and in the future;
+Enhance the Talent Enterprise Diagnostic (TED) tool - EPA's competency assessment tool
+- and conduct Agencywide skills gap analyses;
+Administer competency assessments using a revised version of the methodological and
+well-documented approach employed to complete the assessments already conducted;
+Analyze results of all relevant competency and skills assessments, including those
+conducted via TED, the National Training Needs Assessment, and through other Evidence
+Act priorities; and
+Evaluate competency assessment data to identify disparities along gender, racial, and
+targeted disability categories and, if found, research and recommend leading practices to
+eliminate such gaps.
+EPA has already started addressing several of the actions under this priority question by holding a
+special strategic foresight training workshop for its HROs/PMOs and Office of Human Resources'
+Management Team, beginning the enhancement of our competency assessment tool to provide
+more robust features in preparation for conducting large-scale skills assessments, and revamping
+the Agency's National Training Needs Assessment to better address stakeholder and Agency needs.
+3.
+What are the leading strategies to attract, recruit, train, and retain a diverse workforce? What
+makes people stay in the Agency long-term?
+EPA will engage in the following activities to answer this priority question:
+Analyze internal and external recruitment strategies;
+Enhance employee engagement strategies;
+Develop an employee career progression model;
+Conduct an attrition cause analysis; and
+Track and evaluate trend data of key indices within the annual Federal Employee Viewpoint
+Survey.
+When analyzing the results of the above five actions, EPA will determine if disparities exist along
+categories of employee diversity, equity, inclusion, and accessibility. If found, the Agency will
+research and recommend leading practices to eliminate such disparities.
+In FY 2021, EPA started addressing several of the actions under this priority question by
+participating in OPM training to identify root causes of Mission Critical Occupation attrition,
+preparing to refill the Agency's Employee Engagement Officer role, and designing the template for
+an Agencywide dashboard capturing trends in the Employee Engagement Index and Global
+Satisfaction Index of the Federal Employee Viewpoint Survey.
+4. How can EPA ensure knowledge is transferred from outgoing to current and incoming staff to
+support succession planning?
+EPA has begun and will continue to engage in the following activities to answer this priority
+question:
+14
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+Perform a literature review for knowledge management and knowledge transfer to identify
+best practices;
+Perform market research to identify relevant leading tools and resources; and
+Assess EPA's current strategies for knowledge transfer to identify best practices, paying
+close attention to leading practices for individuals with different abilities.
+To accomplish the action items for this priority question, EPA deployed a knowledge transfer pilot
+for two organizations, gathered initial information on leading practices for knowledge management
+within both private industry and a government setting, and registered two OHR employees for the
+training required to obtain a certificate in knowledge management.
+Anticipated Challenges and Proposed Solutions:
+There might be low participation among stakeholders in the evaluation and analysis of EPA
+workforce planning tools and communication plan, including lower than expected completion
+rates for interviews, surveys, and focus groups. This possible challenge will be mitigated by
+enlisting the buy-in and support of senior leaders, the Human Resources Council, and other key
+stakeholders to help promote the process prior to its start and by keeping in constant contact
+with those stakeholders during the evaluation and analysis process.
+Once TED is enhanced and EPA begins conducting skills assessments needed for workforce
+planning and succession management, there might be low completion rates across the Agency
+and/or in certain organizational components. This possible challenge will be mitigated by
+enlisting the buy-in and support of senior leaders, EPA's Human Resources Council, and other
+key stakeholders to help promote the process prior to its start and by keeping in constant
+contact with those stakeholders during the evaluation and analysis process. In addition,
+numerous training sessions will be conducted and recorded, and TED's User Guide and website
+will be refreshed.
+Learning Priority Area: Grant Commitments Met
+Every year, EPA awards over $4 billion in grants and other assistance agreements. Through these
+grants, EPA helps to protect human health and the environment through the work of small non-profits,
+academic institutions, Tribes, states, and local communities. 96 percent of these grants are awarded to
+state, local, and Tribal governments to implement environmental programs.
+EPA's grant policies require each award be tied to the Agency's Strategic Plan and that the
+environmental results associated with grant actions be clearly established. Responsibilities for the
+management and tracking of the individual awards are dispersed among approximately 1,400 staff
+throughout headquarters and EPA's ten regional offices. The Agency's lack of a comprehensive system
+for tracking grant-related activities leads to an inability to proficiently evaluate environmental
+outcomes on a national scale.
+Work to date has contributed to an improved understanding of reporting and tracking processes across
+the Agency's current grant programs. This baseline will help EPA develop a sustainable and consistent
+15
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+process for negotiating and tracking the environmental outputs and outcomes resulting from EPA's
+grant funding.
+Over the last two years, the Office of the Administrator has engaged program and regional offices to
+better understand the Agency's grants management processes, including reporting mechanisms and
+frequency. The Agency found that due to variability in programmatic goals and metrics, the
+management of EPA's grants and cooperative agreements is highly variable. While some regions and
+programs employ a coordinated process to negotiate and track grant commitments, others rely on
+Project Officers. In addition, the Agency's current centralized grants management system is not
+configured to collect and track grantee progress on discrete commitments. EPA's work under this
+learning priority area will further Agency efforts to effectively report on the outcomes of taxpayer
+dollars and to make informed resource decisions.
+This learning priority area covers all program areas, and thus supports all strategic goals and aligns with
+Cross-Agency Strategy 4: Strengthen Tribal, State, and Local Partnerships and Enhance Engagement.
+Stakeholder Engagement
+As this learning priority area moves into its second year, internal and external stakeholder engagement
+will be very important. The effort to date was internally focused on understanding EPA grant program
+practices and tools. The focus on best practices will involve essential engagement with both internal
+and external stakeholder groups, including the following:
+State media associations (e.g., Environmental Council of States, Association of State Drinking
+Water Administrators, Association of Clean Water Administrators, National Association of Clean
+Air Agencies, Association of Air Pollution Control Agencies, National Association of State
+Departments of Agriculture, Association of State and Territorial Solid Waste Management
+Officials);
+EPA programs that administer grant programs;
+EPA regions that implement grant programs; and
+EPA's Office of Grants and Debarment.
+Priority Questions
+1. How do EPA's existing grant award and reporting systems identify and track grant commitments?
+2.
+What EPA practices and tools (1) effectively track grantee progress towards meeting workplan
+grant commitments including outputs and outcomes and/or (2) support communication of national
+program level outputs and outcomes?
+3. Are the commitments established in EPA's grant agreements achieving the intended environmental
+and/or human health results, particularly for environmental justice and underserved communities?
+Strategy for Addressing the Priority Questions and Accomplishments to Date
+1. How do EPA's existing grant award and reporting systems identify and track grant commitments?
+To answer this priority question, EPA surveyed active EPA grant programs to determine
+the universe of existing grant reporting and tracking systems. EPA is reviewing the completeness of
+the data and will follow up with programs and regions, as appropriate, to collect any remaining
+16
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+survey data. EPA is using quantitative and qualitative methods to analyze the data. EPA will review
+survey data to identify where equity and climate change impacts are identified as priority
+outcomes of grant programs. EPA will use this information to better understand what factors might
+affect a grant program's ability to effectively track grant commitments related to equity and
+climate impacts and to help inform actions taken pursuant to the Agency's equity assessment
+under E.O. 13985, Advancing Racial Equity and Support for Underserved Communities Through the
+Federal Government; and pursuant to climate change initiatives under E.O. 14008, Tackling the
+Climate Crisis at Home and Abroad.
+2. What EPA practices and tools (1) effectively track grantee progress towards meeting workplan
+grant commitments, including outputs and outcomes, and/or (2) support communication of
+national program level outputs and outcomes?
+EPA will engage in the following activities to answer this priority question:
+Select a subset of Agency grant programs and conduct interviews to collect best practices,
+barriers, and challenges to gain an understanding of the most effective tools and processes
+for effectively tracking grant commitments.
+Analyze Agency grant program tools and systems to discover the sources of data and
+reporting that track grantees workplan commitments, outputs, and outcomes.
+In addition to best practices, interview questions will address barriers, challenges, and ideas
+for improving tools and processes for tracking grant commitments.
+Review interview findings to identify opportunities for improvement for Agency grant
+program tracking and monitoring, focusing on tools that help the Agency demonstrate
+environmental results more effectively on a national scale and to determine the extent to
+which these environmental results benefit underserved communities.
+3. Are the commitments established in EPA's grant agreements achieving the intended environmental
+and/or human health results, particularly for environmental justice and underserved communities?
+Do the agency's tracking and reporting mechanisms support programmatic efforts to determine
+if grant program outputs and outcomes are achieving their intended results? What actions
+should the agency take to continue to improve grant monitoring systems to ensure the ability
+to determine and communicate progress toward achieving the intended environmental results?
+EPA will engage in the following activities to answer these priority questions:
+Select a subset of Agency grant programs to review for environmental, human health, or
+other priority strategic programmatic outcomes.
+Provide recommendations, as appropriate, for the selected Agency grant
+programs to better communicate how grant outputs advance the Agency's mission
+through environmental and/or human health results, including achieving outcomes related
+to equity and climate change impacts.
+Identify what potential changes could be made to grant programs' data collection efforts to
+help EPA determine equity, climate change, and human health impacts.
+Outline next steps in establishing an EPA system that compiles the outputs and outcomes of
+Agency grant reporting.
+17
+FY 2022-2026 EPA Strategic Plan - EPA Learning Agenda
+Anticipated Challenges and Proposed Solutions:
+Through approximately 1,400 project officers, EPA administers approximately 105 grant
+programs, each defined by its own set of laws, regulations, and policies that can change
+annually, in conformance with the Agency's priorities. Currently, there are on the order of
+6,000 active grants across the Agency, each with an unknown number of specific
+commitments. EPA will be thoughtful in assessing what data are needed to answer each
+question and determining what data currently exist and what need to be collected to fill
+gaps. EPA will determine in advance how it will analyze the data to answer the questions and
+will collect data in a way that supports those analyses.
+The Agency plans to pilot a data collection tool with a subset of regions to ensure that it is a
+reliable instrument and that the data collected fulfills the anticipated need. EPA will refine the
+tool as needed before expanding its use to the complete universe of programs. EPA will involve
+internal stakeholders in the analyses to ensure the accuracy and utility of findings.
+EPA anticipates there will be a wide range of practices for monitoring grantee performance, but
+due to the lack of clear metrics and/or a clear directive to track individual grant activities, the
+data collection process may reveal data gaps. EPA also understands that a one-size-fits-all
+approach for grants management may not be appropriate across the Agency's grant
+programs. EPA will ensure both the national program and regional grant managers are closely
+involved in the criteria development for what constitutes a "successful" model
+for assessing grantee performance.
+18

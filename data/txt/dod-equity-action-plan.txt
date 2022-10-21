@@ -1,0 +1,969 @@
+OF
+STATES
+OF
+Department of Defense
+Equity Action Plan
+April 2022
+Table of Contents
+List of Acronyms
+ii
+Executive Summary
+1
+Summary of Accomplishments
+2
+Action One: Procurement and Contracting
+4
+Action Two: Military Installations and Bases
+8
+Action Three: Military Family Equity Advancement
+11
+Action Four: Equitable Artificial Intelligence Research and Development
+16
+Action Five: Underserved Community Investment
+20
+i
+Department of Defense Equity Action Plan
+List of Acronyms
+Abbreviation
+Description
+Al
+Artificial Intelligence
+CA
+Customer Agreement
+COE
+Center of Excellence
+DEI
+Diversity, Equity, and Inclusion
+DEPSCoR
+Defense Establish Program to Stimulate Competitive Research
+DIU
+Defense Innovation Unit
+DoD
+Department of Defense
+DoDEA
+Department of Defense Education Activity
+DPC
+Defense Pricing and Contracting
+EO
+Executive Order
+FY
+Fiscal Year
+HBCU
+Historically Black College and University
+HUBZone
+Historically Underutilized Business Zone
+IPC
+Interagency Policy Committee
+JAIC
+Joint Artificial Intelligence Center
+MCCYN
+Military Child Care in Your Neighborhood
+ML
+Machine Learning
+MPP
+Mentor Protégé Program
+MSEP
+Military Spouse Employment Partnership
+MSI
+Minority Serving Institution
+NAEP
+National Assessment of Education Progress
+NALEMP
+Native American Lands Environmental Mitigation Program
+NPS
+National Park Service
+OMB
+Office of Management and Budget
+OSBP
+Office of Small Business Programs
+PFAS
+Per and Polyfluoroalkyl Substances
+POAM
+Plan of Action and Milestones
+PTAC
+Procurement Technical Assistance Center
+RAB
+Restoration Advisory Boards
+RAI
+Responsible Artificial Intelligence
+RIF
+Rapid Innovation Fund
+SBIR
+Small Business Innovation Research
+SDB
+Small Disadvantaged Business
+SDVOSB
+Service-Disabled Veteran Owned Small Business
+SECO
+Spouse Education and Career Opportunities Program
+Science, Mathematics, and Research for Transformation
+SMART
+Scholarship-for-Service Program
+STEM
+Science, Technology, Engineering, and Mathematics
+STTR
+Small Business Technology Transfer
+S&T
+Science and Technology
+TTPTTP
+Taking the Pentagon to the People
+WOSB
+Woman-Owned Small Business
+ii
+Department of Defense Equity Action Plan
+Executive Summary
+In January 2021, the Department of Defense (DoD) took steps to immediately
+implement President Biden's Executive Order (EO) 13985, Advancing Racial Equity and
+Support for Underserved Communities Through the Federal Government, by conducting
+an equity assessment to identify potential barriers that underserved communities and
+individuals face regarding Federal programs. The enclosed responds to EO 13985,
+which requires Federal agencies to produce an equity action plan.
+While the Department has historically focused on increasing equity within the DoD
+community, the collective actions described in this plan represent a shift in the
+Department's approach and focus to better ensure that we leverage our capabilities to
+create opportunities for all Americans. Within 90 days of the issuance of the plan, the
+Chief Diversity and Inclusion Officer will send the Deputy Secretary of Defense an
+implementation plan with clear milestones and completion times for each of the five
+actions described below.
+These actions demonstrate a Department-wide commitment to this approach and
+establish a holistic strategy for continuing to cultivate enduring and equitable change.
+Procurement and Contracting: Close gaps in small business participation,
+participation by other underserved communities, and improve workforce equity
+through an ambitious equitable procurement and contracting agenda that
+includes advancing equity throughout the supply chain, such as advancing
+opportunities for prime and subcontractors who are members of underserved
+communities.
+Military Installations: Advance equity for communities around military
+installations and bases, including through the Native American Lands
+Environmental Mitigation Program, the Defense Environmental Restoration
+Program, and prioritizing clean-up of Per and Polyfluoroalkyl Substances (PFAS).
+Military Families: Advance equity for military families who are members of
+underserved communities, including through increased investments and
+expanded programming in DoD Educational Activity (DoDEA) schools, improving
+economic security and opportunities for military spouses, advancing health
+equity, and combating economic challenges experienced by military families
+related to housing and food insecurity.
+Equitable Artificial Intelligence (AI) Research and Development: Become a
+leader on equitable Al research and development through programs such as
+Artificial Social Intelligence for Successful Teams, Grounded Al Language
+Acquisition Research, and Guaranteeing Al Robustness Against Deception.
+Underserved Community Investment: Invest in under-served communities
+and expand access to DoD programs and opportunities by increasing
+investments in Minority Serving Institutions (MSIs) and investments in K-12 and
+K-20 programs.
+1
+Department of Defense Equity Action Plan
+Summary of Accomplishments
+In January 2021, President Biden issued EO 13985, Advancing Racial Equity and
+Support for Underserved Communities Through the Federal Government, which aims to
+maximize Federal agencies' approaches to enhancing equity and embedding equity in
+decision-making processes. To immediately comply with EO 13985, Secretary Austin
+signed a memorandum on January 29, 2021, rescinding all previous Department-level
+memoranda implementing EO 13950, Combating Race and Sex Stereotyping. In his
+memorandum, the Secretary pledged his "full support and commitment to a cohesive
+and ready force that nurtures equal opportunity for all."
+Throughout the Department, numerous equity-related efforts have been accomplished
+which relate to the five actions in this plan. In February 2021, Secretary Austin directed
+commanding officers and supervisors at all levels to conduct a one-day "stand down" for
+discussion of the principle that all those who support DoD's mission deserve an
+environment free of discrimination, hate, and harassment. This included a focus on how
+extremist activities violate the fundamental principles of the Department. Shortly
+thereafter, DoD took steps to ensure transgender individuals who wished to serve in the
+military and could meet the appropriate standards were able to do so openly and free
+from discrimination. The Department accomplished this by revising multiple policies to
+bring them into compliance with EO 13985 and EO 14004, Enabling All Qualified
+Americans to Serve Their Country in Uniform.
+In October 2021, Secretary Austin issued a memorandum emphasizing the important
+role of small businesses in the defense industrial base. The memorandum tasked the
+DoD Office of Small Business Programs (OSBP) with refreshing the DoD Small
+Business Strategy to maximize small business capabilities through a Department-wide
+approach. This strategy will better align the Department's efforts with the President's
+focus on increasing the share of dollars going to small businesses by lowering barriers
+to entry and increasing competition opportunities for small businesses and traditionally
+underserved entrepreneurs. OSBP is currently creating an implementation plan to
+accompany this new strategy to ensure clear adherence and measures of success for
+increasing the small business footprint in the contracting marketplace.
+DoDEA has been a trailblazer in leading diversity, equity, and inclusion (DEI) efforts for
+DoD-operated primary and secondary schools. For example, DoDEA released a four-
+year strategic initiative in the areas of recruitment and retention, promotion and
+development, and teaching and learning; established its Headquarters DEI Team to
+identify opportunities for improvement, book studies, and sharing best practices;
+provided professional DEI learning and consultation for leaders; and launched DEI
+working groups in its eight school districts, three regions, and headquarters.
+DoDEA was not the only DoD organization to take steps to foster equity in the education
+arena. In Fiscal Year (FY) 2021, to build infrastructure and enhance education
+programs at Historically Black Colleges and Universities (HBCU) and MSI, the
+HBCU/MSI Program awarded 70 equipment grants totaling $30.4 million to 32 HBCUs,
+37 MSIs, and 1 Tribal College or University. In FY 2021, the Department launched two
+new Centers of Excellence (COE) in Biotechnology and Materials Science at HBCUs,
+totaling $15 million investments.
+2
+Department of Defense Equity Action Plan
+In May 2021, Deputy Secretary of Defense Hicks issued a memorandum reaffirming the
+Department's Ethical Principles for Al as being responsible, equitable, traceable,
+reliable, and governable. The memo further tasks the Joint Artificial Intelligence Center
+(JAIC) to be DoD's coordinator for development and implementation of the Responsible
+Artificial Intelligence (RAI) strategy. Similarly, DoD's Defense Innovation Unit (DIU)
+publicly released voluntary implementation guidance for responsible Al, which provides
+a practical approach for incorporating DoD's Al Ethics Principles in Al product planning,
+development, testing, and evaluation.
+The Department also took action to address adverse equity-related effects that occur
+within its military family population due to changing regional and national-level economic
+factors. The Secretary announced a series of economic and food security initiatives in
+November 2021, which included temporary increases in Basic Allowance for Housing,
+and increases in authorizations for Temporary Lodging Expenses. DoD also released a
+Military Leader's Economic Security Toolkit with specific resources for leaders on how
+to identify Service members who are struggling to feed themselves and their families,
+how to engage in difficult conversations to assess food insecurity, and connect Service
+members to additional resources and support programs. Furthermore, DoD introduced
+two pilot offerings, FlexJobs and Udemy, to bolster military spouse employment
+opportunities.
+3
+Department of Defense Equity Action Plan
+Action One: Procurement and Contracting
+The Department implements programs that are designed to increase participation of
+small businesses, including small businesses from socio-economic categories and other
+underserved communities in DoD procurements for delivery of products, services, and
+technologies that benefit the warfighter. Additionally, the Department emphasizes
+contracting with entities employing individuals with disabilities under the AbilityOne
+Program and statutory pilot authorities. The Department also uses its acquisitions to
+drive equitable employment conditions for industry workforce on military projects.
+Through its equity efforts, the Department seeks to close participation opportunity gaps
+for underserved communities through an ambitious, equitable procurement and
+contracting agenda that includes advancing equity throughout the supply chain. This
+agenda is anticipated to result in a more competitive and robust defense industrial base
+delivering combat and support capabilities, with the collateral effect of increasing equity.
+Barrier to Equitable Outcomes
+While assessing participation by small businesses (including categories of small
+businesses) as well as by AbilityOne entities, the Department identified the following
+barriers:
+DoD-specific procurement and contracting processes and compliance
+requirements.
+Lack of simplified and clear entry points for small businesses into the defense
+marketplace.
+Unclear communication of opportunities for small businesses and lack of access
+to information on requirements for bid.
+Financial instability and other inequitable working conditions for the contractor
+workforce.
+These barriers inhibit the interest and ability of some businesses, particularly small
+businesses, to pursue DoD procurement opportunities.
+Action Plan to Reduce Barriers
+To address these barriers, the Department identified three actions:
+Set, resource, and implement a galvanizing goal around advancing opportunities
+for prime and subcontractors who are members of underserved communities.
+To drive the increase of small business participation opportunities in DoD acquisitions,
+including participation by small disadvantaged businesses (SDBs), women-owned small
+businesses (WOSBs), service-disabled Veteran owned small businesses (SDVOSBs)
+and businesses located in historically underutilized business (HUB) zones, the
+Department will capitalize on ongoing strategic planning efforts such as the DoD Small
+Business Strategy and its implementation plan.
+The Department also increased its SDB goal in support of the President's equity
+agenda, and will fully implement the other management actions called for by Office of
+Management and Budget (OMB) M-22-03, Advancing Equity in Federal Procurement
+4
+Department of Defense Equity Action Plan
+(December 2, 2021). For example, DoD will utilize disaggregated data on the federal
+contract spend, including by race and ethnicity, to help understand where disparities
+exist. Further, DoD will issue guidance to its acquisition workforce emphasizing
+adjustments to the category management planning and scoring process starting in FY
+2022 in alignment with the Administration's recently announced reforms in OMB M-22-
+03.
+The Department will also encourage and resource additional reviews of contracting
+opportunities, including opportunities below the Simplified Acquisition Threshold, by
+Small Business Professionals for Section 8(a) SDB set-asides and greater participation
+by Section 8(a) SDBs. DoD will resource and deploy market intelligence tools to the
+acquisition workforce, including small business professionals, to improve market
+research and facilitate identification of capable suppliers for defense contracts from
+underserved communities. This will support increasing set-aside competitions for small
+businesses, including socioeconomic categories, thus opening up entry points for these
+businesses to participate in the defense marketplace.
+To improve clarity of small businesses opportunities DoD will continue to develop and
+update the DoD OSBP website (https://business.defense.gov and the websites of
+Component OSBPs into one-stop shops for small businesses to access information on
+small business programs, resources available to small businesses, and toolkits on how
+to do business with DoD. This will include integration of the work of Procurement
+Technical Assistance Centers (PTACs), which provide counseling support to small
+businesses that are looking to compete for DoD contracts or perform on current
+contracts, with DoD's acquisition workforce for unity of effort. These PTACs help
+overcome the barriers to small businesses that struggle to meet DoD-specific
+contracting procurement practices and requirements. The Department intends to create
+processes that would enable DoD Small Business Professionals to leverage PTACs in
+conducting targeted market research and assistance efforts to support specific
+acquisitions. The Department will also create a unified management structure of small
+business programs to ensure long-term planning that better enables small businesses,
+to participate in DoD's programs and have a streamlined entry point into the defense
+marketplace.
+DoD also has several small business and small business-focused programs that
+support and invest in research, development, and manufacturing capabilities and
+innovation in key technology sectors having the greatest impact on the American middle
+class worker. These programs include, for example, the Small Business Innovation
+Research (SBIR) Program, the Small Business Technology Transfer (STTR) Program,
+the Mentor-Protégé Program (MPP), the Rapid Innovation Fund (RIF) Program, the
+Technology Transfer Program, the National Security Innovation Network, the DIU, the
+National Security Innovation Capital Program, the Manufacturing Technology Program,
+the Title III of the Defense Production Act Program, the Industrial Base Analysis and
+Sustainment Program, and the Manufacturing Innovation Institutes. DoD will work
+across these programs and others such as MPP and SBIR/STTR to ensure that awards
+and investments are made to small business firms across the underserved
+communities, including by establishing small business participation or assistance
+baselines. The Department will also work to stabilize small business programs through
+5
+Department of Defense Equity Action Plan
+permanent reauthorization (e.g., MPP, SBIR/STTR) and dedicated funding (e.g., MPP,
+RIF). Finally, in order to effectively implement small business equity efforts, the
+Department will resource the Offices of Small Business Programs through the
+President's budget.
+In addition to ensuring maximum practicable participation for small businesses in
+Departmental acquisitions, the Department also seeks to increase participation by
+AbilityOne entities. The DoD AbilityOne program has pledged to grow the federal-wide
+AbilityOne program over the next five years from 0.55% to 1.0% of DoD contract
+spending. This increase will match DoD's mission needs with AbilityOne capabilities to
+grow employment and career opportunities for Americans with disabilities, including
+service-disabled veterans who are not small business owners.
+Advance equity through requirements on wage setting and labor practices in the
+DoD contractor workforce and supply chain.
+DoD is working closely with the Office of Management and Budget (OMB) and other
+Federal stakeholders to implement EO 14026, which mandates a $15.00 minimum
+wage for service contract workers on Federal contracts. DoD is actively participating in
+policy development to enforce union negotiating rights, use Project Labor Agreements
+where appropriate on construction contracts, and strengthen apprenticeship programs
+in critical trades.
+DoD also makes targeted workforce investments to ensure our national security needs
+are met. The Department invests in apprenticeships, community college programs,
+manufacturing training, trade support, and a variety of other education and training
+programs that could both close existing gender, racial, and opportunity gaps and
+strengthen economic security. As the Department invests in the defense innovation and
+industrial base ecosystems, it will seek to ensure that its investments address existing
+equity gaps in the defense industrial base.
+Empower small business programs and initiatives to lead policy and management
+practices across the Department.
+DoD will ensure that leadership of small business programs within the Department is
+empowered, resourced, and has access to DoD senior leadership to lead policy
+management practices across the Department. DoD will also continue to implement its
+mandatory performance element for Senior Executives and General/Flag Officers,
+where applicable, who oversee acquisitions to support small business goal attainment,
+outreach, and acquisition planning. DoD will ensure small business professionals are
+empowered consistent with the Small Business Act and existing DoD policy.
+Tracking Progress
+To determine progress on these actions, the DoD OSBP, in coordination with
+Component OSBPs, and the Defense Pricing and Contracting (DPC) Office will develop
+an enterprise-wide plan of action and milestones (POAM) for acquisition that may be
+released in phases associated with their respective focus areas. The annual DoD small
+business goals and the biennial implementation plans for the updated DoD Small
+Business Strategy shall serve as the POAM on small business equity matters. For the
+AbilityOne Program and contractor workforce equity, the POAMs will be further
+6
+Department of Defense Equity Action Plan
+established through DPC guidance. The DoD OSBP and DPC will then track the
+progress of each action and milestone to ensure timely progression. After completing
+all exploratory actions, the DoD OSBP and DPC will re-assess next steps and update or
+continue to develop the enterprise-wide acquisition POAMs. Successful completion of
+each goal and action item will be evaluated by DoD OSBP and DPC via routine equity
+assessments.
+Accountability
+To remain accountable to identified overarching goals, the Department will routinely
+assess DoD acquisition opportunities for small business, AbilityOne, and contractor
+workforce equity factors. The Department will also conduct a review of the
+empowerment of DoD and Component OSBPs and of small business professionals
+across the Military Departments and Defense Agencies. As part of the POAMs, the
+DoD OSBP and DPC will assume responsibility as primary offices of responsibility for
+routine acquisition equity assessments within their cognizance. The Department will
+also continue to reduce barriers to entry, streamline how it communicates information
+and opportunities to small businesses and simplify entry points into the defense
+marketplace for small businesses.
+7
+Department of Defense Equity Action Plan
+Action Two: Military Installations and Bases
+DoD seeks to advance equity and rectify past harms for communities around military
+installations and bases.
+Barrier to Equitable Outcomes
+DoD operational and training activities during the World War II and Cold War
+eras resulted in adverse environmental, health, and economic impacts to some
+communities, including Native American communities. Historically, DoD built
+some temporary bases and practice bombing ranges on and near Native
+American lands, Alaska Native Claims Settlement-conveyed properties, ancestral
+lands, and reserved treaty rights areas. Legacy impacts from operations at these
+bases and ranges may include hazardous materials, debris, underground fuel
+storage tanks, lead-based paint, asbestos, munitions/explosives residue, and
+abandoned or unsafe sites. These impacts can sometimes create a barrier to
+Indigenous populations remaining on those lands by potentially hindering their
+development or protection of the land including their development of the land for
+housing or commercial purposes (e.g., harvesting timber), or protecting the land
+for subsistence food gathering or cultural practices held in the area. Current
+training and operational activities, while still significant, are conducted in a
+manner as to reduce adverse impacts.
+More recently, DoD's efforts to expand its footprint on Guam may result in additional
+stress on the infrastructure of the island and the local population, much of which falls
+into an underserved community based on race or poverty level. Finally, the construction
+of a new installation in Guam coupled with the surge in military construction projects at
+legacy installations has increased the quantity of unearthed artifacts. The only certified
+repository on Guam is very small and is operated by the National Park Service (NPS) to
+curate the NPS's War in the Pacific collection.
+Action and Intended Impact on Barrier
+To address the barriers identified above, the Department identified two actions:
+Evaluate which communities may be experiencing negative environmental,
+health, or economic effects, due to proximity to DoD testing sites, bases, or
+munitions sites, and invest in mitigating those effects and advancing equitable
+outcomes for those communities.
+The Department has implemented and will continue to build upon a variety of programs
+intended to address the impacts of past DoD operational activities and siting of bases
+and ranges. For example, since 1996, DoD has administered the Native American
+Lands Environmental Mitigation Program (NALEMP) and invests at least $12 million per
+year into NALEMP-funded programs. Funding provided through NALEMP Cooperative
+Agreements (CAs) enables tribal governments to lead NALEMP projects, incorporate
+"traditional ecological knowledge" into design for cleanup, and build tribal capacity
+regarding environmental services and technical remediation skills. In FY 2021, DoD
+executed a total of 15 NALEMP CAs, 10 of which were with Alaska Native tribes and 5
+of which were with Native American tribes in the lower 48 states. By the end of FY
+8
+Department of Defense Equity Action Plan
+2022, DoD will execute an additional 13 NALEMP CAs: 10 with Alaska Native tribes
+and 3 with Native American tribes in the lower 48 states.
+The Department also has programs that conduct environmental restoration activities
+(Defense Environmental Restoration Program), clean up contamination from a
+hazardous substance or pollutant or contaminant (Installation Restoration Program),
+and address munitions responses sites (Military Munitions Response Program). By the
+end of FY 2020, DoD, in cooperation with state agencies and the U.S. Environmental
+Protection Agency, completed cleanup activities at 85% of its cleanup sites - out of a
+total of 40,037 sites - and is now monitoring the results to ensure these completed
+cleanups remain protective.
+Another of DoD's cleanup priorities is for PFAS releases. DoD is performing an
+assessment at 700 installations where DoD may have used or potentially released
+PFAS. As part of the cleanup process, DoD is addressing both drinking water (a short-
+term action) and groundwater (a long-term action). For this effort, DoD works in
+collaboration with the Environmental Protection Agency, other Federal agencies, and
+communities throughout this process.
+In FY 2022, DoD anticipates investing over $1.4 billion in programs that address
+legacy impacts from past DoD actions.
+Seek opportunities for significant new investments in underserved communities
+around military bases and installations.
+The Department is taking steps to invest in the community and upgrade the local
+infrastructure in Guam. Specifically, DoD has provided approximately $218 million in
+appropriated funding for outside-the-fence investments, including a cultural repository
+($12 million), public health lab ($32 million), upgrades to the Northern Water Waste
+Treatment Plant ($139.3 million), Interceptor Sewer Refurbishment ($30.6 million),
+Northern Guam Lens Aquifer Monitoring System ($3.7 million), and surface
+transportation network improvements ($246 million).
+The Department also invests significantly in managing and restoring habitats and
+wildlife populations both on our installations and with partners in the surrounding
+communities. One example is the conservation and recovery of threatened and
+endangered species, as well as common wildlife such as migratory birds and game
+species. In addition, numerous installations provide public access to nature and
+opportunities for hunting, fishing, camping, and other outdoor recreation activities. DoD
+also partners with conservation organizations to maintain compatible land uses
+surrounding DoD installations. These partnerships have established public recreation
+opportunities such as Wildlife Management Areas, public parks, river trail access and
+other resources available to underserved communities. DoD conservation investments
+exceed $400 million per year.
+Tracking Progress
+Due to the nature of the effort, the Department anticipates long-term operation of many
+of the environmental restoration or cleanup programs, as they are integral to the
+Department's stewardship of the natural resources entrusted to its care. However,
+9
+Department of Defense Equity Action Plan
+progress on PFAS clean-up specifically is included in quarterly public meetings and
+regular updates to the PFAS website: https://denix.osd.mil/dod-pfas/.
+For the ongoing work in Guam, DoD established specific inter-governmental working
+groups for each authorized project, consisting of relevant subject matter experts from
+other Federal Agencies and the Government of Guam. These working groups meet on
+a recurring basis to monitor project progress and to provide technical assistance as
+required. Furthermore, DoD actively monitors and manages the grants in Guam that
+implement these activities to ensure compliance with the grant award terms and
+conditions.
+Accountability
+The Department recognizes that it needs to listen to and engage with the impacted
+communities and strives to openly share information and collect input throughout the
+cleanup process. One DoD-unique community engagement tool is the use of
+Restoration Advisory Boards (RAB), which provides communities or individuals
+affected by DoD cleanup activities with a forum for focused dialogue on the
+installation's cleanup program. RABs are community-oriented forums that encourage
+and facilitate communication between citizens and installation decision-makers
+regarding DoD cleanups. RAB participants may include representatives from the
+community, installation, State, local or tribal governments, local activities, and federal,
+State, or local regulatory agencies. Participants review cleanup progress and provide
+comments and advice to the installation's decision-makers. Because the Department
+values this tool and its benefits so highly, we provide administrative and financial
+support for RABs to ensure they are sufficiently resourced to create effective
+partnerships.
+Finally, the Department provides a variety of annual reports to Congress that
+summarize the Department's restorative, conservation, and clean-up activities.
+10
+Department of Defense Equity Action Plan
+Action Three: Military Family Equity Advancement
+The Department seeks to advance equity for military families who are members of
+underserved communities. This includes advancing equity in healthcare; driving
+towards more equitable outcomes for students of color, students with disabilities, and
+students from other underserved communities in DoD schools; improving economic
+security and opportunity for military spouses; and combating food insecurity and other
+economic challenges experienced by military families.
+Barrier to Equitable Outcomes
+The individuals who choose to serve in our nation's Armed Forces make sacrifices of
+their time, talents, careers, and, in some instances, their lives, in order to maintain and
+strengthen the United States military. These sacrifices extend to the spouses and
+children of Service members who are often uprooted from employment, family, friends,
+and schools, relocated to new geographic locations every few years, and expected to
+adapt and maintain resiliency within their families. As of 2020, there were 1.5 million
+active duty family members. DoD has a responsibility to ensure that these family
+members, including those who are members of an underserved community, are not
+inequitably impacted as they support the DoD mission.
+Service members and their families are stationed throughout the world, which can result
+in a lack of access to educational options. Most public schools on military installations
+in the continental U.S. are operated by the local community's public school district.
+Public school districts, particularly those in rural or remote locations, may have limited
+financial resources or capacity to address facility deficiencies or provide special
+education programs for students with disabilities.
+Another barrier experienced by military families is the loss of a steady second income
+due to the inability of military spouses to maintain consistent employment
+commensurate with their qualifications. Military spouses face challenges in securing
+and maintaining meaningful employment due to the demands of the mobile military
+lifestyle, such as frequent moves and single parenting during deployments of the
+military member. Additionally, DoD surveys reveal that military spouse moves and lack
+of access to childcare are contributing factors that reduce the likelihood of military
+spouse employment. Of the approximately 598,000 active duty military spouses who
+want to work, the unemployment rate has consistently hovered around 22% (pre-
+coronavirus pandemic). Spouse unemployment may decrease economic or food
+security in the family.
+Another barrier which may be experienced by military families who frequently change
+geographic locations and are members of underserved communities is equitable access
+to health care.
+Action and Intended Impact on Barrier
+To address the barriers identified above, the Department identified four actions:
+Drive towards more equitable outcomes for students of color, students with
+disabilities, and other underserved students in DoD schools.
+11
+Department of Defense Equity Action Plan
+To address inequities in schools operated by local public school districts, DoD may
+make grants, enter cooperative agreements, or expend other Federal resources to
+construct, renovate, repair, or expand elementary and secondary public schools on
+military installations in order to address capacity or facility condition deficiencies.
+Funding is provided based on the rank of the school's listing on the Public Schools on
+Military Installations Priority List.
+The Department is also working to ensure equitable access to challenging courses for
+students who attend educational programs administered by DoD. DoDEA is a leader in
+achievement for underrepresented students, with African-American/Black and
+Hispanic/Latinx DoDEA students receiving among the highest assessment scores in the
+nation, outperforming their peers in 96% of states in 4th grade and 8th grade math, and
+98% of states in reading on the most recent National Assessment of Education
+Progress (NAEP). Similar performance trends exist on the NAEP among students with
+disabilities, with DoDEA students with disabilities outperforming their peers in all other
+states in 8th grade reading. DoDEA also focuses on equitable access to AP courses,
+and is increasing in both participation and performance, particularly across racial
+minorities. For example, DoDEA offers open access to AP courses and utilizes the
+College Board's "AP potential tool" to identify students who have the achievement
+record to succeed in AP courses but may not have enrolled in these courses.
+Furthermore, DoDEA is implementing innovative special education programs to provide
+more inclusive educational experiences. These programs include Robot-Assisted
+Instruction to enhance instruction for students with autism, Alternate Content Standards
+so that students with cognitive disabilities can access the College and Career Ready
+Standards, and customized professional development for special education teachers.
+Finally, DoDEA organized a division that focuses solely on advancing diversity, equity,
+and inclusion. This division will examine, identify, and eliminate inequities, barriers, and
+gaps in DEI in all aspects, including recruitment, teaching and learning, and creating a
+staff and student climate that is growth-producing. Additionally, they are embedding
+culturally responsive teaching strategies in the professional learning for educators to
+meet the individual needs of all students.
+Improve economic security and opportunity for military spouses.
+To implement this action, DoD is pursuing three lines of effort: spouse employment,
+childcare, and in-home fee assistance. For spouse employment, DoD has multiple
+programs aimed to address this issue. One such program, the Spouse Education and
+Career Opportunities (SECO) program provides information, tools, and resources
+designed to assist military spouses in achieving their educational and employment
+goals. In addition, the Military Spouse Employment Partnership (MSEP), an initiative
+under the SECO program, is comprised of more than 540 employer partners that have
+committed to recruiting, hiring, promoting, and retaining military spouses. DoD will
+continue to build on those partnerships to provide spouses with rewarding job
+opportunities. In December 2021, SECO, in partnership with MSEP partner, Instant
+Teams, is piloting a workforce development program that will provide spouses the
+opportunity for post-training job placement with a MSEP employer. Furthermore, SECO
+is also working to provide resources and opportunities to support entrepreneurship that
+12
+Department of Defense Equity Action Plan
+will allow for greater flexibility to build a career that meets the needs of a military
+spouse.
+To address the barrier presented by lack of childcare, DoD is not only looking to expand
+on-base options for child development centers, but is also expanding the Military Child
+Care in Your Neighborhood (MCCYN)-PLUS initiative. Because safety is a preeminent
+priority, DoD requires off-post childcare providers to meet various requirements. For
+example, Service members may only enroll and use fee assistance for off-post childcare
+programs that are nationally accredited. Despite fee assistance to obtain childcare in
+the civilian community, some military families are unable to locate approved childcare
+providers. In order to address this problem, the Department launched the MCCYN-
+PLUS program in Maryland and Virginia in 2019. While still maintaining high standards,
+this program allows the Service members to use childcare providers enrolled in a state's
+Child Care Quality Rating and Improvement System, rather than national accreditation
+which can be cumbersome and expensive. Building on the success in Maryland and
+Virginia, the Department expanded MCCYN-PLUS to Nevada in September 2021 and
+projects expansion to California and Washington in early 2022. DoD is considering
+expanding the program to Colorado, North Carolina, Florida, and Texas because these
+areas have large populations of military families.
+End food insecurity among military families.
+The Department is taking immediate steps to address food insecurity, beginning with
+developing a strategy and implementation roadmap on strengthening food security
+across the Force, which will include lines of effort to better understand the causes of
+food insecurity, address causes such as spouse unemployment and financial decision-
+making, and explore resources to enhance access to healthy food choices.
+Additionally, DoD is actively participating in the Joining Forces Interagency Policy
+Committee (IPC) addressing food insecurity in the military. The IPC effort will identify
+areas of collaboration between agencies that will ultimately result in a report outlining
+plans for future research.
+The Department also recognizes that a military family's economic status is closely
+linked to the Service member's grade and position in the military. Accordingly, DoD is
+implementing a range of initiatives to ensure equity for minority Service members at
+critical career touchpoints, to include recruiting and accessions, progression and
+promotion, and at the senior leader level.
+Advance health equity in the Military Health System and benefits systems.
+In some instances, when determined to be medically necessary, DoD provides limited
+infertility diagnosis and treatment for eligible beneficiaries in accordance with applicable
+laws and regulations. Additionally, adoption is supported by DoD through its leave
+programs. For Service members who are not looking to start or expand their family,
+TRICARE also covers certain contraception devices and medications such as intra-
+uterine devices, birth control pills, and morning-after pills ("Plan B").
+Importantly, TRICARE Prime Access to Care standards are established for all
+beneficiaries enrolled in TRICARE Prime, regardless of race or gender. Moreover,
+DoD's Uniformed Services University of the Health Sciences published two studies
+13
+Department of Defense Equity Action Plan
+which found that universal access to health care alleviates disparities for African-
+American patients and mitigated higher rates of Potentially Avoidable Maternal
+Complications among minority women. DoD is pleased it offers universal health
+coverage to covered beneficiaries.
+Finally, DoD policy prohibits discrimination on the basis of gender identity or
+identification as transgender, provides a means by which individuals who meet
+applicable standards may access into the military in their self-identified gender, provides
+a means by which transitioning Service members may obtain gender-affirming medical
+treatment and recognition of their self-identified gender, and seeks to protect the privacy
+of all Service members. The Department is taking steps to fully implement this policy.
+Tracking Progress
+In the short term, schools on military installations will be renovated or constructed to
+ensure an equitable, safe, and healthy learning environment for the children of military
+families. Congress has appropriated over $2 billion for the Public Schools on Military
+Installations Program. Investments to date have resulted in replacement, expansion, or
+renovation of 18 schools, with 12 schools under construction (many nearing
+completion), and another 16 in various stages of proposal/design development. These
+projects are planned to benefit over 26,000 students annually, with over 70% of those
+being DoD-connected. The goal of this program is to reinforce with military families that
+children who attend these schools are learning in a safe and healthy environment.
+To track progress in curriculum-related equity actions, DoDEA will use DEI working
+group feedback, professional learning evaluations, student achievement data, and AP
+class enrollment. Long-term success will be demonstrated by:
+Increased use of culturally responsive teaching strategies to meet the needs of
+all students.
+Increased use of inclusive instructional practices such as co-teaching to provide
+more access to challenging courses for students with disabilities.
+Increased student achievement on assessments by special populations of
+students (e.g., students of color, special needs students, gender)
+Established DEI working groups throughout DoDEA by June 2022.
+Inclusion of DEI as a priority in the Director's FY22 focus.
+To track the progress of improving economic security, the SECO program, will monitor
+and report pilot program promotion and uptake to Department leaders, and determine
+whether to extend the pilot to additional MSEP employer partners. Moreover, DoD will
+continue to monitor the expansion and effectiveness of childcare programs and
+opportunities via the Deputy's Workforce Council. Near-term success will be measured
+by military spouses participating in the workforce development pilot, taking advantage of
+expanded job opportunities in MSEP, and military families enrolling in expanded
+childcare opportunities. In the long-term, DoD aims to reduce the unemployment rate
+for military spouses.
+14
+Department of Defense Equity Action Plan
+DoD is developing an implementation roadmap to address the issue of food insecurity.
+This implementation roadmap will include milestones and will include a briefing to the
+Deputy Secretary through the Deputy's Workforce Council. Additionally, the Joining
+Forces Initiative will track the progress of the IPC on Food Insecurity. Near-term
+success will be measured by military leaders understanding the challenges and degrees
+of food insecurity and providing Service members and families with tools and resources
+to address food insecurity. In the long-term, DoD strives to reduce reports of food
+insecurity within the Department.
+In the health care realm, DoD will use industry-standard quality control processes to
+gauge the ease, access, and satisfaction related to the health care services.
+Accountability
+First and foremost, DoD is accountable to the military families who participate in these
+services. Accordingly, DoD will work with the local public school districts to survey
+military families about their satisfaction with the renovated or newly built schools. Within
+DoDEA, the Director will communicate his focus as part of DoDEA's strategic plan, The
+Blueprint for Continuous Improvement, in January 2022, which will include an emphasis
+on diversity, equity, and inclusion for the students, families, and employees. This initial
+introduction will be followed up with in-progress reviews at leadership meetings in
+February 2022 and June 2022, as well as routine monthly meetings. Finally, DoDEA
+has developed a communication plan that includes a website to provide ongoing
+updates to its external stakeholders, and DEI-related articles for the DoDEA workforce.
+The White House has been involved in efforts involving economic security, with both the
+Joining Forces initiative, which identifies spouse employment as an area of focus, and
+the IPC on food insecurity. Accordingly, the IPC similarly will be updated via briefings
+and reports as to the Department's progress on these efforts. Furthermore, spouse
+employment, childcare availability, and food insecurity are frequently topics of interest
+with both Congress and the media. As such, the Department will respond to related
+queries in the near- and long-term.
+The Military Health System will communicate progress through routine channels to its
+beneficiaries and other key stakeholders. Regarding the updated policies providing
+protection to transgender Service members, internal accountability on key issues
+focused on readiness, equity, evolving medical science, and organizational culture are
+reviewed by the Accession Medical Standards Working Group and Transgender Care
+Integrated Product Team. The recommendations of the work groups are accountable to
+the Medical and Personnel Executive Steering Committee and Deputy's Workforce
+Council.
+15
+Department of Defense Equity Action Plan
+Action Four: Equitable Artificial Intelligence Research and
+Development
+The Department is dedicated to the safe and ethical use of Al technology and will
+continue to advance best practices for developing, testing, and deploying Al responsibly
+and equitably.
+Barrier to Equitable Outcomes
+As the Department progresses in its efforts to develop and integrate Al into decision-
+making processes that impact DoD services and programs provided to the American
+people, DoD seeks to incorporate equity in its ethical Al development practices. Al has
+demonstrated remarkable benefits in helping to improve organizational efficiency.
+However, modern applications of technology like machine learning (ML) can raise
+ethical concerns due to the scope, scale, and speed at which they operate, potentially
+learning and magnifying existing inequities that influenced historical data. Examples of
+these issues have been reported in non-DoD systems, such as initial Al face recognition
+algorithms having difficulty recognizing darker skinned individuals, and initial Al resume
+screening algorithms learning and magnifying the biases of human screeners.
+Ethical and equitable Al begins with good data. Poor and incomplete training data are
+the single largest known contributors to Al bias. Modernizing the Department through
+digitization and data collection are key first steps to controlling for the potential
+algorithmic bias we know can express in smart systems. Therefore, as the Department
+pushes forward on data collection and curation projects through its components, the
+Department is simultaneously implementing these ethical principles in its Al programs.
+Action and Intended Impact on Barrier
+The DoD is working to implement Al into its day to day business and warfighting
+operations. The Department's emphasis and commitment to ethical Al includes the
+following five principles:
+1. Responsible. DoD personnel will exercise appropriate levels of judgment and
+care, while remaining responsible for the development, deployment, and use of
+Al capabilities.
+2. Equitable. The Department will take deliberate steps to minimize unintended
+bias in Al capabilities.
+3. Traceable. The Department's Al capabilities will be developed and deployed
+such that relevant personnel possess an appropriate understanding of the
+technology, development processes, and operational methods applicable to Al
+capabilities, including with transparent and auditable methodologies, data
+sources, and design procedure and documentation.
+4. Reliable. The Department's Al capabilities will have explicit, well-defined uses,
+and the safety, security, and effectiveness of such capabilities will be subject to
+testing and assurance within those defined uses across their entire life-cycles.
+5. Governable. The Department will design and engineer Al capabilities to fulfill
+their intended functions while possessing the ability to detect and avoid
+16
+Department of Defense Equity Action Plan
+unintended consequences, and the ability to disengage or deactivate deployed
+systems that demonstrate unintended behavior.
+Al need not be a threat to equity; it can also be an ally. Al can help the Department
+map innovative new pathways toward greater equity in hiring, promotion, retention, and
+workforce management. Well-designed and continuously tested systems will also
+ensure that when we must use the tools of lethality, that we do so in keeping with our
+national values. Additionally, the DoD is among the largest data holders in the world, to
+include health and medical data like that of the Joint Pathology Center that holds the
+world's largest tissue archive. This type of comprehensive data resource, combined
+with carefully constructed Al, could be harnessed for next generation cancer and other
+research with direct benefits to military readiness, as well as for the national and global
+medical research population. Indeed, this data is extremely valuable as the U.S.
+military is one of the country's most diverse institutions.
+To address the barriers identified above, the Department identified the following action:
+Create a DoD-wide responsible Al development framework to ensure ethical (to
+include equitable) Al in business as well as battlefield operations.
+Over the past decade, the Department has been leaning forward to ensure the
+responsible development, deployment, and use of Al within its operations. In October
+2019, the Defense Innovation Board released a report titled Al Principles:
+Recommendations on the Ethical Use of Artificial Intelligence by the Department of
+Defense. In February 2020, following the recommendations from the Defense
+Innovation Board, the Secretary of Defense adopted the five ethical principles for use of
+Al. The second of these principles, "equitable,' ensures that any Al deployed by the
+DoD will minimize potential biases. The Department is working to create
+implementation plans for these principles.
+In May 2021, the Deputy Secretary of Defense issued a memorandum titled
+Implementing Responsible Artificial Intelligence in the Department of Defense. This
+memorandum established tenets for RAI: RAI Governance, Warfighter Trust, Al
+Product and Acquisition Lifecycle, Requirements Validation, Responsible Al Ecosystem,
+and Al Workforce. The JAIC was tasked to be the Department's coordinator for
+development and implementation of the RAI Strategy. Furthermore, in November
+2021,
+the DIU publicly released voluntary implementation guidance for responsible Al
+(https://www.diu.mil/responsible-ai-guidelines). This guidance provides practical
+direction for how to include the DoD's Al Ethics Principles, including equity, in Al
+product planning, development, testing, and evaluation. Finally, the Test Resource
+Management Center, working in collaboration with the JAIC, is creating a framework
+that provides comprehensive, continuously updated, risk assessments to critical
+decision makers across the DoD on the end-to-end weapon system life cycle. This
+holistic approach encapsulates the DoD's Al Ethical Principles and the Responsible Al
+tenets.
+Looking further into the future, the DoD is currently funding Al research on ethical Al. A
+few examples of DoD research programs in this area are:
+17
+Department of Defense Equity Action Plan
+The Office of the Under Secretary of Defense for Research and Engineering is
+sponsoring a current topic in DoD's social science basic research program,
+Minerva, on the "Social and Cultural Implications of Artificial Intelligence," which
+seeks to understand the process by which social and cultural practices influence
+algorithmic and technology development. This is aimed at better understanding
+where biases exist within systems and how they may affect people differently
+across various cultural contexts.
+U.S. Army Development Command is expanding the study of moral dilemmas to
+consider the risk profile of the situation and expand the space of acceptable
+solutions for these dilemmas. In so doing, researchers are contributing to the
+development of autonomous technology that abides by acceptable moral norms.
+The Naval Research Laboratory is exploring ways to build human-like capacities
+for control, including self-control, into a computational cognitive architecture with
+direct application to the concepts of "agency" and "responsibility" implied by both
+every day and legal usage of those terms.
+The Air Force Research Laboratory Autonomy Capability Team 3 is working
+closely with community leaders in Cincinnati, Ohio, to develop agent-based
+modeling and machine learning to reduce violence and improve quality of life in
+minority neighborhoods.
+The Defense Advanced Research Projects Agency's Explainable Al program
+aims to create a suite of ML techniques that give ML systems the capability to
+explain their rationale for actions and decisions, to characterize their strengths
+and weaknesses, and to convey an understanding of how they might
+behave/perform in future missions or scenarios.
+Finally, a more diverse Al workforce will likely increase our ability to anticipate potential
+inequities (or recognize any that begin to emerge) and proactively mitigate them. DoD's
+partnerships with HBCUs/MSIs aim to overcome barriers in by fostering minority entry
+into the Al Science, Technology, Engineering and Mathematics (STEM) workforce.
+Furthermore, DoD will continue to make investments in HBCUs/MSIs through its COEs
+and grants. The Department will continue to monitor the Al COE outputs and funding.
+A more thorough discussion on the impact of these HBCU/MSI engagements is
+provided in Action Five.
+Tracking Progress
+The Department's goal is to develop a DoD-wide responsible Al development
+framework to ensure ethical (to include equitable) Al in operations. DIU has drafted a
+best-practice document for developing responsible Al that conforms to DoD's Al Ethics
+Principles and the Responsible Al tenets. Every year, this document will be reviewed
+and updated by the Al DoD science and technology community to assure that these
+guidelines reflect current best practices. The newly established Chief Digital Artificial
+Intelligence Office, which is responsible for the adoption of Al and its ethics and equity
+principles in operations, will create a process for ensuring the implementation of these
+best practices across the Department in its adoption of Al into operations.
+18
+Department of Defense Equity Action Plan
+Accountability
+The Department will release its implementation plans and guidance publicly at
+academic and international forums as well as industrial Al conferences to solicit
+feedback and ensure that DoD S&T plans and guidance reflect best practices.
+19
+Department of Defense Equity Action Plan
+Action Five: Underserved Community Investment
+The Department seeks to invest in under-served communities and expand access to
+DoD programs and opportunities. This includes advancing equity in K-12, college, and
+university settings through DoD programs, partnerships, and federal grant opportunities.
+This also capitalizes on military training initiatives that impact underserved communities.
+Barrier to Equitable Outcomes
+During its equity assessment, the Department explored a variety of programs to find
+barriers to participation that members of underserved communities may encounter
+preventing or limiting their ability to participate in DoD programs. In particular, DoD is
+interested in fostering growth in STEM fields. DoD identified the following barriers:
+The lack of resources available to HBCUs/MSIs limits expanding infrastructure and
+research capacity.
+Resource and funding constraints limit the extent to which DoD programs engage
+with MSIs. The Department will review these requirements during its annual
+program and budget review to ensure appropriate resources are provided for MSI
+initiatives that align with Department strategic priorities.
+Despite upward trends, few DoD senior leadership roles are occupied by leaders
+from MSIs. Currently, DoD senior leadership does not represent the racial and
+ethnic makeup of the population the Department serves.
+Action and Intended Impact on Barrier
+To address the barriers identified above, the Department will implement the following
+two actions:
+Coordinate expanding investments in Minority Serving Institutions (MSI) across
+the country.
+Though DoD helps to increase the research and educational capacity of HBCUs/MSIs
+and fosters workforce diversity and entry of underrepresented minorities into STEM
+disciplines, the program is limited by HBCUs'/MSIs' ability to withstand expansion of
+their research capacity. Accordingly, the Department will focus on refining and
+expanding its programs that work specifically with MSIs. The HBCU/MSI Program will
+continue to invest in MSIs by funding research, enhancing infrastructure, and promoting
+workforce development. This includes the Department's efforts to promote MSI
+involvement in DoD research activities and to build the STEM pipeline. One of these
+efforts is the establishment of COEs in DoD's priority areas, including Al and ML. The
+Al/ML COE addresses current and future research and engineering challenges for safe,
+robust, and trustworthy Al that support DoD's modernization applications. DoD seeks to
+engage MSIs in the Al/ML COE. To do this, DoD will include MSIs in the founding and
+membership of COEs. Furthermore, the Department will pursue awarding research
+grants to MSIs with the intent to advance capabilities and contributions to the workforce.
+Recently, the Science, Mathematics, and Research for Transformation Scholarship-for-
+Service (SMART) program created a strategy to increase diversity within the SMART
+program and the DoD civilian employee pipeline. This strategy includes activities and
+20
+Department of Defense Equity Action Plan
+approaches to attract students from MSIs to the program. The strategy also includes
+educating participating DoD sponsoring facilities on the technical strengths of MSIs and
+the benefits of collaboration with them.
+SMART continues to implement a broad range of diversity and inclusion efforts targeting
+underrepresented/underserved groups through university visits, marketing, social
+media, and informational webinars. The SMART Program office has sponsored 40-50
+university visits (now virtual information sessions) and two webinars, and is continuing
+to plan for additional events in FY 2022. Moreover, in FYs 2022 and 2023, SMART
+plans to establish enduring partnerships with HBCU/MSIs through their administration,
+faculty, and staff; create opportunities with COEs to increase awareness and
+participation in SMART; and to build consortium and/or affinity group partnerships.
+The Department seeks to develop research capacity in states and at institutions that
+have traditionally received less research funding from the Department with its Defense
+Establish Program to Stimulate Competitive Research (DEPSCoR). DEPSCoR
+performs outreach to underserved communities that includes bringing DoD program
+managers on regional site visits. This provides researchers an opportunity to meet with
+DoD leaders and understand the areas in which the Department's research is currently
+focused. DEPSCoR also pairs researchers in underserved states and institutions,
+including MSIs, with researchers who are experienced in working with the Department,
+thus enabling novice researchers to be mentored by DoD researchers.
+DoD is also developing strategies for future Taking the Pentagon to the People
+(TTPTTP) events. These strategies focus on strengthening the sustainable impact of
+America's institutions by supporting underserved institutions and communities and
+ensuring MSI participation in COEs. To accomplish these goals, TTPTTP will continue:
+Refining strategic outreach and collaborative partnerships with affinity groups and
+organizations that aim to expand access of underserved communities, improve racial
+equity in the U.S., and bolster the ranks and presence of minorities working in DoD.
+Facilitating events between key DoD and MSI senior leaders through Presidential
+Roundtables. This allows DoD and MSI senior leaders to engage in meaningful
+dialogue on ways to enhance the infrastructure and build capacity for underserved
+communities.
+Aligning DoD senior leaders with functional efforts to advance equity outcomes and
+increase MSI access to DoD internships, contracts, grants, scholarships, surplus
+equipment, and research and development opportunities enterprise-wide. This
+includes sharing best practices, aligning the mission and vision of their
+organizations, and leading initiatives that intentionally target eligible MSIs and
+underserved communities.
+Assess and increase investments in workforce readiness in K-12 settings.
+The Department will develop a strategy for increasing K-12 workforce readiness
+consistent with the Federal STEM Strategy, the DoD STEM Strategic Plan, and DoD
+policy. Furthermore, the Department will leverage SMART in developing a
+comprehensive approach to growing a diverse STEM talent pool through a continuum of
+educational opportunities across the K-20 continuum. Currently, DoD engages in a
+21
+Department of Defense Equity Action Plan
+variety of STEM educational and work-experiential activities to include summer STEM
+camps, project/research-based competitions, fellowships, internships/apprenticeships
+teacher professional development, and curriculum development at pre-college and
+postsecondary levels.
+In addition to leveraging strategic plans for K-12 and K-20 programs, the Department
+will engage its partners from academia, industry, not-for-profit sector, and other Federal
+agencies to broaden its reach to underserved and underrepresented populations,
+including military-connected students, Veterans, and military spouses. Such actions will
+allow the Department to develop a holistic understanding of how its programs and
+initiatives impact workforce readiness within a K-20 setting.
+The Minerva Research Initiative is one example of the extended scope of K-20
+workforce readiness. The Minerva Research Initiative supports social science research
+aimed at improving the Department's basic understanding of security. Through this
+program, DoD expands its comprehension of the social, cultural, behavioral, and
+political forces that shape regions of the world. In terms of K-20 education, the Minerva
+Research Initiative sponsors a program called "Science of Science," which in part
+examines the access to and career trajectories of women in science. DoD seeks to
+utilize programs like this to help explore where underrepresented groups encounter
+obstacles in STEM careers so that policymakers develop policies that give more
+equitable opportunities for all researchers.
+Tracking Progress
+The HBCU/MSI Program will track AI/ML project success by measuring research
+advancements conducted at the Al COE and the pending contributions to the STEM
+workforce. Progress will also be measured by the increase of involvement of
+underserved and underrepresented communities and military-connected students.
+Success and best practices will be shared through DoD member participation in the
+Joint Artificial Intelligence Center Workforce Working Group.
+Accountability
+All of the K-12 STEM programs use demographic metrics to some extent to understand
+impacts. The SMART program measures the percentage increase of HBCU/MSIs,
+veterans and female scholars as semi-finalists and finalists.
+Additionally, the Department will establish annual metrics to track and assess success
+and trends in diversity programs. The Department will also support the Services'
+strategies to recruit diverse officer candidates. DoD continues to allocate a significant
+amount of resources toward recruiting, to include a focus toward minority and
+underserved populations.
+22
+Department of Defense Equity Action Plan

@@ -1,0 +1,1526 @@
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+EPA Capacity Assessment Report
+March 28, 2022
+1
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Overview
+Introduction
+The Foundations for Evidence-Based Policymaking Act (Evidence Act) requires Chief Financial Officer
+Act agencies to conduct a Capacity Assessment to appraise their ability and infrastructure to carry out
+evidence-building activities. The Environmental Protection Agency's (EPA's) approach to the Capacity
+Assessment can be broadly described in two phases:
+The initial phase focuses on assessing EPA's ability to answer the priority questions in the
+Agency Learning Agenda.
+The second phase focuses on assessing EPA's skills, organizational structure, resources,
+expertise, and infrastructure to meet Agency Learning Agenda goals, as well as to implement
+the Evidence Act across the Agency.
+EPA's Current Context
+EPA's ability to pursue its mission to protect human health and the environment depends upon the
+availability and quality of data and evidence that support and inform environmental policies, decisions,
+guidance, and regulations. As a science-based organization, EPA is committed to developing and using
+evidence to achieve its mission. Evidence-building activities are governed by a myriad of EPA and
+governmentwide policies, standards, and guidances to promote the quality, reliability, and accuracy of
+the information EPA develops and/or uses to inform policy and decision-making. These include (but are
+not limited to) EPA's Peer Review Policy and Handbook for internal and external review of scientific
+products, EPA's Information Quality Guidelines, EPA's Policy and Procedures on Protection of Human
+Subjects in EPA Conducted or Supported Research, EPA's Plan to Increase Access to Results of EPA-
+Funded Scientific Research, EPA's Guidelines for Preparing Economic Analysis, and EPA's Scientific
+Integrity Policy. EPA has also drafted a "Policy for Evaluations and Other Evidence-Building Activities"
+for release by April 2022.
+The Evidence Act builds on longstanding principles of good governance and asks that agencies ensure
+the use of data and evaluation to support program performance and the improvement of operations.
+Relatedly, EPA has longstanding performance measurement efforts incorporated throughout the
+Agency's work. Performance measurement is a part of the Agency's strategic plan development,
+annual planning and budgeting, operations and implementation, and accountability and results
+processes to inform decision-making. The Agency also has a history of using Lean Kaizen tools
+integrated with performance measurement to advance a culture of using data and visual management
+to support business process improvement and day-to-day operations.
+However, the Evidence Act provides an opportunity for EPA to reconsider its capacity to use
+evaluation, data, statistics, research, analysis, and other evidence-building activities to support
+policymaking.
+In response to the Evidence Act, EPA seeks to reestablish a centralized evaluation function to support
+and coordinate Agency evaluations as well as to build capacity for evaluation and other Evidence Act
+activities across the organization. This Capacity Assessment will aid EPA's efforts to identify staffing and
+resource capabilities to implement the Evidence Act over the long-term. Identifying Agency strengths
+and opportunities for improvement will help set priorities, catalyze action, enable decisions that
+2
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+advance the robust use of data and evaluation, and support the routine development and use of
+evidence in decision-making.
+Initial Assessment:
+EPA's ability to answer the questions in the Agency Learning Agenda
+Status
+EPA has initiated an assessment of the extent to which the agency has the necessary resources-
+expertise, capability, funding, data, technology, partners, organizations, and extramural vehicles-to
+answer the questions in three of the Agency's Learning Agenda priority areas.
+Furthermore, EPA's understanding of its capacity to address the Learning Agenda's priority questions
+can facilitate a strategic approach to evaluation and evidence building and prioritize investments in
+resources and staff. As EPA assesses its capacity to address the priority questions and employ a variety
+of evidence-building activities, the Agency will consider the coverage, quality, methods, effectiveness,
+and independence of EPA's evaluation, data, statistics research, analysis, and other evidence-building
+efforts.
+Early in the development of its learning agenda, EPA identified three priority areas: Drinking Water
+Systems Out of Compliance, Workforce, and Grant Commitments Met. A fourth priority area-
+Expanding EPA's Toolkit of Air Benefits Assessment Methodologies and Practices-started
+development after the survey was underway in 2021. Consequently, the findings described in the next
+section only applies to the first three priority areas. EPA will work closely with the fourth priority area
+workgroup to assess its capacity to answer priority questions at a later date.
+Overview of Findings
+Significant progress to date: Each workgroup has reported significant progress to date. The Drinking
+Water Systems Out of Compliance workgroup began answering priority question 1 and is in the
+preliminary stages of strategizing how to answer questions 2-5 (priority questions for the three
+learning priority areas are listed in the section that follows). The Workforce workgroup began
+answering priority questions 1 and 3 and is in the preliminary stages of gathering data to start
+answering question 4. The Grant Commitments Met workgroup made progress in answering question
+1; questions 2 and 3 will be addressed in future years. Key areas in which all three workgroups have
+made progress include data collection and planning, specifically with regards to identifying staff and
+contractor needs and requesting resources through EPA's budget and planning processes to advance
+their work across the next several fiscal years (FY).
+Challenges identified: Data availability within EPA and uncertainty regarding data quality levels, were
+highlighted as challenges that persist for some priority questions. The data concerns are more
+significant, especially for the Drinking Water workgroup - the Drinking Water data needed is not
+3
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+owned by EPA, purchasable outside EPA, or required to be shared with EPA by the states. The
+Workforce and Grant Commitments Met workgroups will have more confidence in the data's
+sufficiency as they proceed further with data collection and analysis. An additional trend across several
+workgroups and priority questions is uncertainty regarding evaluation design and staffing - the
+workgroups had not yet determined their methodological approach to how evaluation will be
+conducted for some of their priority questions and were not confident they will have sufficient access
+to qualified internal staff, academics, and/or contractors to support evaluation effectively.
+Initial Assessment Summary/Conclusions
+Path forward: EPA's approach was beneficial in offering deeper insight into the successes and
+challenges of executing the Learning Agenda. EPA will use these findings to develop action plans for
+the Drinking Water Systems Out of Compliance, Workforce, and Grant Commitments Met priority
+areas. The action plans will recommend solutions to address gaps in skills, capability, and capacity. The
+Expanding EPA's Toolkit of Air Benefits Assessment Methodologies and Practices workgroup will
+engage in a similar process to assess their ability to answer the priority questions and then creating an
+action plan to assist with execution. By providing the workgroups with an actionable framework to
+carry out the Learning Agenda, the Agency will make progress in developing a culture based in
+evidence and evaluation that fosters continuous learning and improvement.
+Summary Findings for Each Learning Priority Area
+The summary that follows presents the findings for each Learning Priority Area and next steps.
+Learning Priority Area: Drinking Water Systems Out of Compliance
+Priority Questions
+1. To what extent does EPA have ready access to data to measure drinking water compliance reliably
+and accurately?
+2. What factors determine system noncompliance and continuous compliance?
+3. How can we determine if a system has the technical, managerial, and financial capacity to provide
+safe water on a continuous basis to its customers?
+4.
+Does increased use of compliance assurance tools (inspections and enforcement) improve system
+compliance, and if so, under what circumstances?
+5. What EPA oversight activities are effective at assessing and improving state programs' ability to
+drive compliance?
+Overview
+Summary: The Drinking Water workgroup has made progress on priority question 1 but remains in the
+preliminary stages of strategizing on priority questions 2-5. They are broadly optimistic they can design
+appropriate evaluations over time but have significant concerns around data access and quality, as well
+as having access to qualified program evaluation staff. A key priority for this workgroup is engaging
+with the states to fulfill data needs.
+4
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Next steps: Moving forward, the Drinking Water workgroup will focus on accessing, analyzing, and
+generating the necessary data to answer the priority questions and will look to secure additional
+internal and external support to execute the Learning Agenda.
+Learning Priority Area: Workforce
+Priority Questions
+1.
+To what extent does EPA have access to the tools and strategies needed to analyze and understand
+the Agency's near and long-term workforce needs?
+2.
+What are the critical skills needed to support the Agency's mission, now and in the future?
+3. What are the leading strategies to attract, recruit, grow, and retain a diverse and talented
+workforce? What makes people stay in the Agency long-term?
+4. How can EPA ensure knowledge is transferred from outgoing to current and incoming staff to
+support succession planning?
+Overview
+Summary: The Workforce workgroup has started answering priority questions 1 and 3 and gathering
+data for priority question 4. They are broadly optimistic they will have sufficient staffing to continue
+making progress but are less certain about their ability to access contractor support. A key priority for
+this workgroup is communications and change management.
+Next steps: A broad challenge across this initiative is communications and change management,
+especially given all the high priority communications coming from Human Resources (e.g., return to the
+workplace). The Workforce workgroup is in consistent contact with the HR community to share
+information about this Learning Priority Area at the grassroots level. As they move forward, they want
+to put additional effort into socializing the initiative with staff members at all levels of the organization.
+Learning Priority Area: Grant Commitments Met
+Priority Questions
+1. How do EPA's existing grant award and reporting systems identify and track grant commitments?
+2. What EPA practices and tools (1) effectively track grantee progress towards meeting workplan
+grant commitments including outputs and outcomes and/or (2) support communication of national
+program level outputs and outcomes?
+3. Are the commitments established in EPA's grant agreements achieving the intended environmental
+and/or human health results, particularly for environmental justice and underserved communities?
+Overview
+Summary: The Grant Commitments Met workgroup has made progress answering question 1 by
+collecting and analyzing relevant data, leaving questions 2 and 3 to be addressed in the longer-term.
+The workgroup is broadly optimistic they can onboard qualified staff and contractor resources across
+the next few fiscal years; however, they may have additional human or technological resource needs
+that they have not yet accounted for since they are still in the early stages of evaluation design. A key
+5
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+priority for this workgroup is ensuring collaboration with various internal and external stakeholders
+throughout this effort.
+Next steps: Now that the workgroup has collected the necessary data to answer question 1, they will
+focus on further analyzing the data and understanding the path forward for question 2. Moving
+forward, they plan to reach out to EPA offices to observe how different programs are conducted and
+learn more about which best practices the Agency should pursue. As they work through priority
+questions 2 and 3, they foresee challenges shifting from an output-orientation to an outcome-
+orientation, as well as determining how to demonstrate the environmental results EPA has achieved.
+Agencywide Assessment:
+Assessing EPA's skills, capability, and capacity based on a maturity model
+I.
+Maturity Model Overview
+Context
+Maturity models assess a current state or level of effectiveness along with criteria for achieving the
+next desired level of performance. For EPA, a maturity model will serve as a roadmap to help establish
+an evidence-based culture where Agency decisions are informed by evidence, and performance is
+routinely evaluated for potential improvements. Stakeholder feedback and management buy-in are
+critical to ensuring that the maturity model will be actionable and can drive EPA towards achieving its
+desired state. Implementation of the maturity model will enable the Agency to take stock and chart a
+path forward to ensure it makes progress in critically important areas to EPA. Looking forward, EPA will
+pursue a holistic approach that integrates the requirements of the Evidence Act with strategic planning
+and budgeting, regulatory development, program management, scientific research, and continuous
+improvement efforts. This integration will reinforce the importance of each initiative and foster
+Agencywide long-term culture change.
+EPA' maturity model addresses five domains: Data Use, Evaluation, Research, Statistics, and Lean
+Management. For each domain, the maturity model considers dimensions such as coverage, quality,
+methods, independence, and effectiveness. The final maturity model is included in Appendix A of this
+document.
+FY 2022 Actions
+In FY 2022, EPA is piloting the maturity model in order to improve applicability and gather initial
+information about Agencywide organizational capacity. A key feature of this pilot is developing tools to
+supporting accurate assessment of maturity. Once the pilot is complete, EPA will analyze the results
+and determine how to proceed with broader implementation.
+6
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+II.
+The Role of the Data Skills Assessment Survey
+Data Skills Assessment
+Since data and analytics are increasingly becoming part of everyday business, with different jobs
+requiring different types of data skills, scientists and data specialists may require advanced technical
+skills to support data gathering, conversion, cleansing, and analysis; while non-specialists often need to
+interpret data, communicate its importance, and use it to make decisions.
+In support of the Evidence Act and Federal Data Strategy requirements, EPA launched an Agencywide
+Data Skills Survey in April 2021 to gain input on staff use of data to perform their work. The survey was
+designed to identify strengths and gaps related to critical data skills, assess staff capacity for those
+skills, and take actions to ensure its workforce is prepared to support evidence-building activities. In
+addition to skills questions, questions regarding attitudes and perceptions of EPA's overall culture with
+respect to data were included in the survey. The survey consisted of the following six categories:
+Respondent Office, Role, and Data Responsibilities
+Awareness of Options to Access, Share, and Manage Data
+Skills to Interpret Data and/or Analysis
+Skills to Visualize Data
+Skills to Communicate
+Organization Value/Use of Evidence
+A total of 2,665 EPA staff completed the survey. Of this number 2,015 answered all of the questions
+while 650 completed a portion (one percent - 98 percent). The current analysis only includes
+completed surveys.
+Survey Results
+Approximately 97% of survey responders (1952 out of 2015) responders use data or data and
+information in their work. After comparing data-focused responses to the skill level criteria, about 22%
+(434 out of 1952) of data-focused responders met the criteria for Level 1 - Novice (can complete
+simple, well-defined tasks with instruction or guidance) or above. The remaining 1518 responders did
+not meet the criteria to attain the Novice skill level.
+Approximately 10% of data-focused responders (193 out of 1952) met only the criteria for Level 1 -
+Novice. Of the more highly skilled groups, approximately 10% of data-focused responders (193 out of
+1952) met the criteria for Level 2 - Savvy and approximately 2% of data-focused responders (48 out of
+1952) met the criteria for Level 3 - Advanced. Savvy responders can complete and assist others to
+complete tasks/problems on their own. Advanced responders can complete or assist others to
+complete complex problems and tasks. The finding that only 22% of data-focused responders were
+able to meet the Novice or better skill level may indicate that additional training or communication on
+data analysis concepts and evidence-based decision making may be useful for a wide range of EPA
+data-focused staff.
+EPA recognizes that defining expectations for data skill attainment is a significant effort that goes
+beyond the scope of this initial survey. Refinement of Agency-thinking on data skill expectations will
+continue to evolve and mature over time. The data skill levels used in this survey are an initial step to
+7
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+begin discussions in FY 2022 but are not intended to provide a definitive analysis of EPA staffs' capacity
+for data analysis.
+III.
+Summary Observations
+The implementation of the initial phase of the capacity assessment was instrumental in highlighting
+common and unique challenges across the learning priority area workgroups. The process served to
+raise internal awareness regarding available capacity, skills, and expertise. The resulting action plans
+will provide the workgroups with an actionable framework to execute the Learning Agenda.
+EPA has made steady progress in implementing the second phase of our capacity assessment. The
+maturity model has been developed and piloting the maturity model in FY 2022 is the next critical step
+in the process.
+Last, the results of the Data Skills Survey show that data-focused responders at all skill levels recognize
+the importance of data skills to their work. For example, 75% of Novice responders, 97% of Data Savvy
+responders, and 100% of Advanced responders agree data skills are important. However, differences in
+responses between answers to survey questions by skill level provide EPA with an initial understanding
+of staff capacity to perform different types of data analysis skills and highlight opportunities that the
+Agency may consider taking to increase attainment of these skills. The results of the Data Skills survey
+will provide valuable information in helping to provide a baseline against which to measure progress in
+assessing the Data Use maturity model.
+Collectively, these experiences have helped to raise agency awareness about the Evidence Act to
+internal audiences. It has also helped the Agency gain much needed experience assessing our
+capabilities and understanding the effort, time and cost required to implement the Evidence Act.
+Equally important is the value in helping internal audiences see the connection between how evidence
+building activities can help achieve the Agency's mission.
+IV. Agency Evaluation and Evidence Building Activities
+As part of the capacity assessment, the Evidence Act requires federal agencies to include a list of
+activities and operations currently being evaluated and analyzed. EPA's list of planned evaluations for
+FY 2022 is included in Appendix B of this document. This list was compiled in conjunction with the
+development of EPA's FY 2022 Congressional Justification (CJ). In support of the process, EPA issued a
+data call to all EPA offices from April - May 2021 requesting National Program Managers (NPMs) and
+Regional Offices identify all significant planned evaluations and other evidence-building activities that
+will be initiated in FY 2022.
+Evaluations and evidence building activities were defined consistent with definitions included in the
+Evidence Act and OMB A-11. EPA defined significant as activities: supporting an Administration or
+other Agency priority; mandated by Congress; and/or highlighted as a priority for resource allocation.
+8
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+EPA
+Appendix A
+Maturity Model by Domain
+9
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+DATA USE
+Data Use ensures the right people are aware of, have appropriate access to, and have the necessary tools and skills to analyze and interpret the data they need
+to inform policy or programmatic decisions.
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Appropriate data RARELY (0-10%)
+Appropriate data INFREQUENTLY (11-
+Appropriate data FREQUENTLY (51-75%)
+Appropriate data ROUTINELY (76-90%)
+Appropriate data ALMOST ALWAYS (91-
+reflect programmatic and policy
+50%) reflect programmatic and policy
+reflect programmatic and policy
+reflect programmatic and policy
+100%) reflect programmatic and policy
+priorities and are RARELY (0-10%)
+priorities and are INFREQUENTLY (11-
+priorities and are FREQUENTLY (51-75%)
+priorities and are ROUTINELY (76-90%)
+priorities and are ALMOST ALWAYS (91-
+available to support programmatic and
+50%) available to support programmatic
+available to support programmatic and
+available to support programmatic and
+100%) available to support
+policy decisions.
+and policy decisions.
+policy decisions.
+policy decisions.
+programmatic and policy decisions.
+Data are RARELY (0-10%) developed to a
+Data are INFREQUENTLY (11-50%)
+Data are FREQUENTLY (51-75%)
+Data are ROUTINELY (76-90%)
+Data are ALMOST ALWAYS (91-100%)
+consistent standard.
+developed to a consistent standard.
+developed to a consistent standard.
+developed to a consistent standard.
+developed to a consistent standard.
+Appropriate staff RARELY (0-10%) have
+Appropriate staff INFREQUENTLY (11-
+Appropriate staff FREQUENTLY (51-75%)
+Appropriate staff ROUTINELY (76-90%)
+Appropriate staff ALMOST ALWAYS (91-
+the necessary tools and skills to analyze
+50%) have the necessary tools and skills
+have the necessary tools and skills to
+have the necessary tools and skills to
+100%) have the necessary tools and
+and interpret data in a way that can
+to analyze and interpret data in a way
+analyze and interpret data in a way that
+analyze and interpret data to inform
+skills to analyze and interpret data to
+inform programmatic or policy
+that can inform programmatic or policy
+can inform programmatic or policy
+programmatic or policy decisions.
+inform programmatic or policy
+decisions.
+decisions.
+decisions.
+decisions.
+1 For the purposes of the maturity model, frequency is to be measured in terms of the rate at which a given attribute's criteria point is performed/realized across an office's total
+workload portfolio (rather than, for example, a specific subset of that total workload).
+10
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+EVALUATION
+Evaluation² is an assessment using systematic data collection and analysis of one or more programs, policies, and organizations. The purpose of evaluation is to
+make recommendations to improve, advance, or modify existing programs, policies, projects, or operations.³
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Evaluation activities RARELY (0-
+Evaluation activities
+Evaluation activities FREQUENTLY
+Evaluation activities ROUTINELY (76-
+Evaluation activities ALMOST
+10%) reflect policy and
+INFREQUENTLY (11-50%) reflect
+(51-75%) reflect policy and
+90%) reflect policy and programmatic
+ALWAYS (91-100%) reflect policy
+programmatic priorities of the
+policy and programmatic priorities
+programmatic priorities of the
+priorities of the agency and have the
+and programmatic priorities of the
+agency and have the potential to
+of the agency and have the
+agency and have the potential to
+potential to impact those priorities.
+agency and have the potential to
+impact those priorities. Activities
+potential to impact those priorities.
+impact those priorities. Activities
+Activities ROUTINELY (76-90%)
+impact those priorities. Activities
+Coverage
+RARELY (0-10%) address high
+Activities INFREQUENTLY (11-50%)
+FREQUENTLY (51-75%) address
+address high priority questions and
+ALMOST ALWAYS (91-100%)
+priority questions and serve
+address high priority questions and
+high priority questions and serve
+serve information needs of EPA and
+address high priority questions and
+information needs of EPA and
+serve information needs of EPA and
+information needs of EPA and
+EPA's stakeholders.
+serve information needs of EPA and
+EPA's stakeholders.
+EPA's stakeholders.
+EPA's stakeholders.
+EPA's stakeholders.
+Little to no formal evaluation
+Ad hoc Process or Implementation
+Regular investments in Process or
+Regular investments in Process or
+Regular investments in Process or
+work. Ad hoc descriptive studies4
+Evaluation5
+Implementation Evaluation;
+Implementation, Outcome Evaluation;
+Implementation, Outcome
+Type
+Rare/Ad hoc Outcome Evaluation6
+Rare/Ad hoc Impact Evaluation7
+Evaluation, and Impact Evaluation
+Do not have process or have
+Have processes which are
+Have processes which are
+Have processes which are ROUTINELY
+Have processes which are ALMOST
+processes which are RARELY (0-
+INFREQUENTLY (11-50%) followed
+FREQUENTLY (51-75%) followed to
+(76-90%) followed to reduce risks
+ALWAYS (91-100%) followed to
+10%) followed to reduce risks
+to reduce risks associated with the
+reduce risks associated with the
+associated with the adoption of
+reduce risks associated with the
+associated with the adoption of
+adoption of inappropriate methods
+adoption of inappropriate methods
+inappropriate methods or selective
+adoption of inappropriate methods
+inappropriate methods or
+or selective reporting of findings,
+or selective reporting of findings,
+reporting of findings, and instead
+or selective reporting of findings,
+selective reporting of findings,
+and instead promote accountability
+and instead promote
+promote accountability for reporting
+and instead promote accountability
+and instead promote
+for reporting methods and findings.
+accountability for reporting
+methods and findings.
+for reporting methods and findings.
+accountability for reporting
+methods and findings.
+methods and findings.
+2 For the purposes of this work, "program evaluation" and "evaluation" are synonymous. Evaluations may address questions related to the implementation or institution of a program, policy, or
+organization; the effectiveness or impact of specific strategies related to or used by a program, policy, or organization; and/or factors that relate to variability in the effectiveness of a program,
+policy, or organization or strategies of these. Evaluations can also examine questions related to understanding the contextual factors surrounding a program, as well as how to effectively target
+specific populations or groups for a particular intervention.
+3 Program evaluation standards, and associated definitions, can be found in OMB M-20-12.
+4 Descriptive Studies can be quantitative or qualitative, and seek to describe a program, policy, organization, or population without inferring causality or measuring effectiveness.
+5 Process or Implementation Evaluation assesses how the program or service is delivered relative to its intended theory of change, and often includes information on content, quantity, quality, and
+structure of services provided.
+6 Outcome Evaluation measures the extent to which a program, policy, or organization has achieved its intended outcome(s) and focuses on outputs and outcomes to assess effectiveness. Unlike
+impact evaluation, it cannot discern causal attribution but is complementary to performance measurement.
+7 Impact Evaluation assesses the causal impact of a program, policy, or organization, or aspect of them on outcomes, relative to a counterfactual. In other words, this type of evaluation estimates
+and compares outcomes with and without the program, policy, or organization, or aspect thereof. Impact evaluations include both experimental (i.e., randomized controlled trials) and quasi-
+experimental designs.
+11
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Evaluation activities RARELY (0-
+Evaluation activities
+Evaluation activities FREQUENTLY
+Evaluation activities ROUTINELY (76-
+Evaluation activities ALMOST
+10%) ensure evaluation's design
+INFREQUENTLY (11-50%) ensure
+(51-75%) ensure evaluation's
+90%) ensure evaluation's design and
+ALWAYS (91-100%) ensure
+and methods are available in
+evaluation's design and methods
+design and
+methods are available in sufficient
+evaluation's design and methods are
+sufficient detail to achieve rigor,
+are available in sufficient detail to
+methods are available in sufficient
+detail to achieve rigor, transparency,
+available in sufficient detail to
+transparency, and credibility
+achieve rigor, transparency, and
+detail to achieve rigor,
+and credibility.
+achieve rigor, transparency, and
+credibility.
+transparency, and credibility.
+credibility.
+Evaluation activities RARELY (0-
+Evaluation activities
+Evaluation activities FREQUENTLY
+Evaluation activities ROUTINELY (76-
+Evaluation activities ALMOST
+10%) meet the standards of
+INFREQUENTLY (11-50%) meet the
+(51-75%) meet the standards of
+90%) meet the standards of
+ALWAYS (91%-100%) meet the
+Quality
+Relevance and Utility, Rigor,
+standards of Relevance and Utility,
+Relevance and Utility, Rigor,
+Relevance and Utility, Rigor,
+standards of Relevance and Utility,
+Objectivity, Transparency, and
+Rigor, Objectivity, Transparency,
+Objectivity, Transparency, and
+Objectivity, Transparency, and Ethics.
+Rigor, Objectivity, Transparency, and
+Ethics.
+and Ethics.
+Ethics.
+Ethics.
+RARELY (0-10%) ensures that
+INFREQUENTLY (11-50%) ensures
+FREQUENTLY (51-75%) ensures
+ROUTINELY (76-90%) ensures that
+ALMOST ALWAYS (91-100%)
+findings from evaluations and
+that findings from evaluations and
+that findings from evaluations and
+findings from evaluations and other
+ensures that findings from
+other evidence-building activities
+other evidence-building activities
+other evidence-building activities
+evidence-building activities can be
+evaluations and other evidence-
+Practicality
+can be to be acted upon or
+can be acted upon or implemented
+can be acted upon or implemented
+acted upon or implemented in a
+building activities can be acted upon
+implemented in a timely fashion.
+in a timely fashion.
+in a timely fashion.
+timely fashion.
+and implemented in a timely
+fashion.
+Information RARELY (0-10%)
+Information INFREQUENTLY (11-
+Information FREQUENTLY (51-75%)
+Information ROUTINELY (76-90%)
+Information ALMOST ALWAYS (91-
+informs agency decision making
+50%) informs agency decision
+informs agency decision making in
+informs agency decision making in key
+100%) informs agency decision
+in key areas such as budgeting,
+making in key areas such as
+key areas such as budgeting,
+areas such as budgeting, program
+making in key areas such as
+Use
+program improvement,
+budgeting, program improvement,
+program improvement,
+improvement, accountability,
+budgeting, program improvement,
+accountability, management,
+accountability, management,
+accountability, management,
+management, rulemaking, and policy
+accountability, management,
+rulemaking, and policy
+rulemaking, and policy
+rulemaking, and policy
+development.
+rulemaking, and policy
+development.
+development.
+development.
+development.
+RARELY (0-10%) ensures the
+INFREQUENTLY (11-50%) ensures
+FREQUENTLY (51-75%) ensures the
+ROUTINELY (76-90%) ensures the
+ALMOST ALWAYS (91-100%)
+independence and objectivity of
+the independence and objectivity
+independence and objectivity of
+independence and objectivity of
+ensures the independence of
+Independence
+personnel conducting and
+of personnel conducting and
+personnel conducting and
+personnel conducting and managing
+personnel conducting and managing
+managing evaluations and other
+managing evaluations and other
+managing evaluations and other
+evaluations and other evidence-
+evaluations and other evidence-
+evidence-building activities.
+evidence-building activities.
+evidence-building activities.
+building activities.
+building activities.
+Staff tasked with evaluation
+Staff tasked with evaluation
+Staff tasked with evaluation
+Staff tasked with evaluation activities
+Staff tasked with evaluation
+activities RARELY (0-10%) strive
+activities INFREQUENTLY (11-50%)
+activities FREQUENTLY (51-75%)
+ROUTINELY (76-90%) strive for
+activities ALMOST ALWAYS (91-
+for objectivity in the planning and
+strive for objectivity in the planning
+strive for objectivity in the planning
+objectivity in the planning and
+100%) strive for objectivity in the
+Objectivity8
+conduct of evaluations and
+and conduct of evaluations and
+and conduct of evaluations and
+conduct of evaluations and evidence-
+planning and conduct of evaluations
+evidence-building activities, and
+evidence-building activities, and in
+evidence-building activities, and in
+building activities, and in the
+and evidence-building activities, and
+in the interpretation and
+the interpretation and
+the interpretation and
+interpretation and dissemination of
+in the interpretation and
+dissemination of findings.
+dissemination of findings.
+dissemination of findings.
+findings.
+dissemination of findings.
+8 See OMB guidance M-20-12 Program Evaluation Standards and Practices for federal standards of objectivity in program evaluation practices, e.g.: " Evaluators should strive for objectivity in the planning and
+conduct of evaluations and in the interpretation and dissemination of findings, avoiding conflicts of interest, bias, and other partiality."
+12
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+RESEARCH
+Research and development activities are defined as creative and systematic work undertaken to develop new data, information, and technologies to support
+credible decision-making to safeguard human health and ecosystems from environmental pollutants and to enable implementation of programs and policies
+designed for this purpose. These activities involve both environmental and public health research to better understand and characterize the risks associated with
+exposure to environmental pollutants; sources, fate, and transport of pollutants in the environment; and solutions to monitor, prevent or mitigate
+environmental pollutant exposures. Further, agency decision making also include social science and economic research and analysis regarding policy options and
+decision making.
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Research and development
+Research and development planning
+Research and development planning
+Research and development planning
+Planning of research and development
+planning not informed by internal
+informed by internal Agency
+informed by internal and external to
+informed by internal and external to
+activities informed by internal and
+or external to the Agency
+stakeholders but not external
+the Agency stakeholders but has no
+the Agency stakeholders but is only
+external to the Agency stakeholders
+stakeholders and has no external
+stakeholders and has no external
+external scientific expert review;
+informally reviewed by external
+with formal external scientific expert
+Coverage
+scientific expert review;
+scientific expert review; therefore,
+therefore, research is not ensured to
+scientific experts; therefore, research
+review; therefore, research should
+therefore, research is not ensured
+research is not ensured to support the
+support the agency's strategic goals
+should support the agency's strategic
+support the agency's strategic goals
+to support the agency's strategic
+agency's strategic goals and objectives.
+and objectives.
+goals and objectives but lack rigor.
+and objectives.
+goals and objectives.
+Research and development
+Research and development
+Research and development activities
+Research and development activities
+Research and development
+activities are planned and
+activities are planned and conducted
+are conducted such that they
+are conducted such that they
+activities are conducted such that
+conducted such that they RARELY
+such that they INFREQUENTLY (11-
+FREQUENTLY (51-75%) meet Agency
+ROUTINELY (76-90%) meet Agency
+they ALMOST ALWAYS (91-100%)
+(0-10%) meet Agency quality
+50%) meet Agency quality policy
+quality policy requirements (CIO
+quality policy requirements (CIO
+meet Agency quality policy
+Quality
+policy requirements (CIO 2105.1)
+requirements (CIO 2105.1) to ensure
+2105.1) to ensure that Agency work
+2105.1) to ensure that Agency work
+requirements (CIO 2105.1) to ensure
+to ensure that Agency work
+that Agency work products are
+products are accurate, traceable,
+products are accurate, traceable,
+that Agency work products are
+products are accurate, traceable,
+accurate, traceable, reproducible, and
+reproducible, and defensible.
+reproducible, and defensible.
+accurate, traceable, reproducible, and
+reproducible, and defensible.
+defensible.
+defensible.
+Prior to public release, research
+Prior to public release, research and
+Prior to public release, research and
+Prior to public release, research and
+Prior to public release, research and
+and development products do not
+development products require internal
+development products require line
+development products require Quality
+development products require Quality
+require Quality Assurance review,
+(to the Agency) scientific peer review;
+management approval and internal
+Assurance review, line management
+Assurance review, line management
+line management approval,
+but Quality Assurance review, line
+(to the Agency) scientific peer
+approval, and internal (to the Agency)
+approval, internal (to the Agency)
+Methods
+internal (to the Agency) scientific
+management approval, and external (to
+review, but Quality Assurance review
+scientific peer review, but external (to
+review, and external (to the Agency)
+peer review, or external (to the
+the Agency) scientific peer review are
+and external (to the Agency) peer
+the Agency) scientific peer review is not
+scientific peer review.
+Agency) scientific peer review.
+not required.
+review are not required.
+required.
+9 Term definitions provided in the glossary below.
+13
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Research and development
+Research and development products
+Research and development products
+Research and development products
+Research and development products
+products RARELY (0-10%) meet
+INFREQUENTLY (11-50%) meet the
+FREQUENTLY (51-75%) meet the
+ROUTINELY (76-90%) meet the needs of
+ALMOST ALWAYS (91-100%) meet the
+the needs of identified
+needs of identified stakeholders (i.e.,
+needs of identified stakeholders (i.e.,
+identified stakeholders (i.e., Partner
+needs of identified stakeholders (i.e.,
+Effectiveness
+stakeholders (i.e., Partner
+Partner Agencies, Program Offices,
+Partner Agencies, Program Offices,
+Agencies, Program Offices, States,
+Partner Agencies, Program Offices,
+Agencies, Program Offices, States,
+States, Tribes, Communities, NGOs)
+States, Tribes, Communities, NGOs)
+Tribes, Communities, NGOs)
+States, Tribes, Communities, NGOs)
+Tribes, Communities, NGOs)
+Research and development
+Research and development activities
+Research and development activities
+Research and development activities
+Research and development activities
+activities and results RARELY (0-
+and results INFREQUENTLY (11-50%):
+and results FREQUENTLY (51-75%):
+and results ROUTINELY (76-90%):
+and results ALMOST ALWAYS (91-
+10%): adhere to human subject
+adhere to human subject research
+adhere to human subject research
+adhere to human subject research
+100%): adhere to human subject
+research standards; are free from
+standards; are free from inappropriate
+standards; are free from
+standards, are free from inappropriate
+research standards; are free from
+Independence
+inappropriate influence; follow
+influence; follow Scientific Integrity
+inappropriate influence; follow
+influence, follow Scientific Integrity
+inappropriate influence; follow
+Scientific Integrity policy; and
+policy; and INFREQUENTLY (10-50%)
+Scientific Integrity policy; and
+policy; and ROUTINELY (75-90%) have
+Scientific Integrity policy; and
+RARELY (0-10%) have appropriate
+have appropriate levels of internal and
+FREQUENTLY (50-75%) have
+appropriate levels of internal and
+ALMOST ALWAYS (90-100%) have
+levels of internal and external
+external review and clearance.
+appropriate levels of internal and
+external review and clearance.
+appropriate levels of internal and
+review and clearance.
+external review and clearance.
+external review and clearance.
+Glossary
+Term
+Definition
+Accuracy
+The degree of agreement between an observed value and an accepted reference value. Accuracy includes random error
+(precision) and systemic error (bias or recovery) that are caused by sampling and analysis. A data quality indicator.
+Defensible
+The ability to withstand any reasonable challenge related to the veracity or integrity of laboratory documents and derived
+data.
+Reproducibility
+Obtaining consistent results using the same input data, computation steps, methods, and code, and conditions of analysis.
+Traceable
+When a measurement result can be related to appropriate standards, generally national or international standards,
+through an unbroken chain of comparisons.
+14
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+STATISTICS
+Statistics and statistical activities are the collection, compilation, processing, or analysis of data from a sample of a population for the purpose of describing or
+making estimates concerning that population. This includes the development of methods or resources that support those activities. Statistical evidence is the
+information produced from statistical activities.
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+DO NOT or RARELY support the
+INFREQUENTLY support the agency's
+FREQUENTLY support the agency's
+ROUTINELY support the agency's
+ALMOST ALWAYS support the
+agency's strategic goals and
+strategic goals and objectives.
+strategic goals and objectives.
+strategic goals and objectives.
+agency's strategic goals and
+objectives.
+objectives.
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+ARE NOT or ARE RARELY available
+are INFREQUENTLY available to use
+are FREQUENTLY available to use for
+are ROUTINELY available to use for
+are ALMOST ALWAYS available to
+to use for operational,
+for operational, management, and
+operational, management, and policy
+operational, management, and policy
+use for operational, management,
+management, and policy decision-
+policy decision-making.
+decision-making.
+decision-making.
+and policy decision-making.
+making.
+Statistical activities DO NOT or
+Statistical activities INFREQUENTLY
+Statistical activities FREQUENTLY
+Statistical activities ROUTINELY meet
+Statistical activities ALMOST ALWAYS
+RARELY meet data quality
+meet data quality standards
+meet data quality standards
+data quality standards (relevant,
+meet data quality standards
+standards (relevant, accurate,
+(relevant, accurate, timely, and
+(relevant, accurate, timely, and
+accurate, timely, and credible).
+(relevant, accurate, timely, and
+timely, and credible).
+credible).
+credible).
+credible).
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+ARE NOT or ARE RARELY
+are INFREQUENTLY transparent,
+are FREQUENTLY transparent,
+are ROUTINELY transparent,
+are ALMOST ALWAYS transparent,
+transparent, including with respect
+including with respect to methods
+including with respect to methods
+including with respect to methods
+including with respect to methods
+to methods and data quality.
+and data quality.
+and data quality.
+and data quality.
+and data quality.
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+DO NOT or RARELY employ
+INFREQUENTLY employ appropriate
+FREQUENTLY employ appropriate
+ROUTINELY employ appropriate AND
+ALMOST ALWAYS employ
+appropriate AND rigorous
+AND rigorous methodological
+AND rigorous methodological
+rigorous methodological approaches.
+appropriate AND rigorous
+methodological approaches.
+approaches.
+approaches.
+methodological approaches.
+15
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+DO NOT or RARELY support the
+INFREQUENTLY support the agency's
+FREQUENTLY support the agency's
+ROUTINELY support the agency's
+ALMOST ALWAYS support the
+agency's program outcomes.
+program outcomes.
+program outcomes.
+program outcomes.
+agency's program outcomes.
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+Statistical activities and the
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+development of statistical evidence
+DO NOT or RARELY meet their
+INFREQUENTLY meet their intended
+FREQUENTLY meet their intended
+ROUTINELY meet their intended
+ALMOST ALWAYS meet their
+intended outcomes, including
+outcomes, including serving the
+outcomes, including serving the
+outcomes, including serving the
+intended outcomes, including serving
+serving the needs of stakeholders
+needs of stakeholders and being
+needs of stakeholders and being
+needs of stakeholders and being
+the needs of stakeholders and being
+and being disseminated publicly.
+disseminated publicly.
+disseminated publicly.
+disseminated publicly.
+disseminated publicly.
+Statistical activities DO NOT or
+Statistical activities INFREQUENTLY
+Statistical activities FREQUENTLY
+Statistical activities ROUTINELY have
+Statistical activities ALMOST ALWAYS
+RARELY have the appropriate levels
+have appropriate levels of internal
+have appropriate levels of internal
+appropriate levels of internal and
+have appropriate levels of internal
+of internal and external oversight.
+and external oversight.
+and external oversight.
+external oversight.
+and external oversight.
+Science Integrity and Data policies
+Science Integrity and Data policies
+Science Integrity and Data policies
+Science Integrity and Data policies
+Science Integrity and Data policies
+DO NOT or RARELY identify
+INFREQUENTLY identify
+FREQUENTLY identify accountabilities
+ROUTINELY identify accountabilities
+ALMOST ALWAYS identify
+accountabilities and controls for
+accountabilities and controls for
+and controls for maintaining
+and controls for maintaining
+accountabilities and controls for
+maintaining independence and
+maintaining independence and
+independence and objectivity in
+independence and objectivity in
+maintaining independence and
+objectivity in statistical activities
+objectivity in statistical activities and
+statistical activities and statistical
+statistical activities and statistical
+objectivity in statistical activities and
+and statistical evidence.
+statistical evidence.
+evidence.
+evidence.
+statistical evidence.
+16
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+LEAN MANAGEMENT
+Lean management is an approach to managing an organization that supports continuous improvement by using Lean principles and tools paired with routine
+measurement, visual management and regular engagement between management and staff to identify and solve problems, realize, and sustain process
+improvements, and more effectively achieve agency priorities.
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Senior leaders (AA/RA) do not
+Senior leaders engage in leader
+Senior leaders lead regular business
+Senior leaders conduct regular deep
+Senior leaders use data and evidence
+perform, or infrequently engage
+behaviors. For example, they perform
+reviews to discuss organizational
+dives on specific topics at business
+to support continuous improvement
+in leader behaviors such as
+regular operations site visits (e.g.,
+performance measures, developing
+review meetings to focus on and help
+and to achieve organizational
+operation site visits (e.g.,
+Gemba walks) and participate in
+metrics and targets to assess
+improve organizational performance.
+priorities and mission critical goals.
+Gemba walks) and business
+business reviews at least monthly.
+performance as appropriate.
+reviews.
+Mid-level managers do not
+Mid-level managers perform regular
+In addition to performing regular
+Mid-level managers lead advanced
+Mid-level managers use operations
+perform, or infrequently
+operations site visits (e.g., Gemba
+site visits, mid-level managers and
+process reviews with their
+site visits, visual management,
+perform, operations site visits
+walks) at least once a week.
+subordinate staff (e.g., branch
+subordinate staff (e.g., branch chiefs)
+process reviews, and data and
+to assess or review the process
+chiefs) meet regularly around a
+to commit to accomplishing a priority
+evidence from their leader
+(e.g., Gemba walks).
+leader performance board which
+goal.
+performance board to prioritize and
+tracks each process's goals, metrics,
+attain goals for processes that
+and performance and covers all
+support EPA's mission.
+visual management tools (e.g., flow
+and performance boards) within
+their division/unit/office.
+Managers do not attend, or
+Managers attend huddles with their
+Managers regularly attend huddles
+Managers regularly attend huddles
+Leaders and managers at every level
+infrequently attend, weekly
+team and work to improve at least one
+and choose lean management
+with team to review LMS tools used
+of EPA regularly attend huddles,
+huddles with their teams and
+process for which the team is
+system (LMS) tools to address
+(e.g., action registry, countermeasure
+business reviews around schedule
+have not identified a process for
+responsible.
+opportunities for improvement.
+form, etc.)) and monitor status of
+(see what processes are on/off track)
+improvement.
+(E.g., convene problem-solving by
+countermeasure implementation.
+-better (engage in efforts to improve
+team and proving-solving guides
+one thing) action (use problem
+when performance targets are
+solving and data driven solution) tied
+missed.)
+to their core work, problem solving,
+and A3 projects.
+No visual management (VM) (or
+Visual management (or other
+Visual management (or other
+Visual management (or other
+Visual management and captured
+other appropriate tools) exists;
+appropriate tools) exists; data are
+appropriate tools) includes all the
+appropriate tools) is used
+data engage all levels of
+data are not captured.
+captured and used.
+necessary components to facilitate
+consistently; data are captured
+management, increase transparency
+its utility; data are captured
+routinely and used to identify issues,
+with agency stakeholders, and
+consistently.
+engage in problem solving, and
+connect the agency's mission,
+process improvement.
+organizational goals, and priorities.
+17
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+No or very little documentation
+The Team has documented the key
+Visual management and
+Team uses standard work
+Team regularly uses and revises
+of the process and its steps
+milestones which includes timeframes
+documented instructions (e.g., SOP)
+consistently and gathers data to
+standard work, incorporating best
+exist.
+for example in the form of a standard
+cover process steps thoroughly and
+improve and standardize additional
+practices from across the agency and
+operating procedure (SOP).
+describe what success looks like
+processes. Desired levels of
+in industry, to achieve priority agency
+(e.g., target levels of performance,
+performance maintained using
+goals and mission. Conducts data
+timeframes). Process steps are
+standard work.
+driven analysis of process
+completed using the documented
+performance and makes
+approach.
+improvements to effectively achieve
+mission.
+Senior leaders do not leverage,
+Senior leaders leverage Bowling Charts
+Senior leaders have articulated a
+Senior leaders have facilitated
+Senior leaders ensure that agency
+or infrequently leverage,
+- which capture the organization's key
+priority measure and have
+improvement on Bowling Chart
+measures and leadership priorities -
+Bowling Charts during Monthly
+performance metrics.
+measured organizational
+measures.
+including LTPGs, APGs, Enterprise
+Business Reviews (MBRs).
+performance against that measure
+Risk, and Administrator Priority - are
+using Bowling Charts.
+Senior leaders frequently review
+tracked using visual management
+these measures to drive
+(e.g., Bowling Charts) at the right
+improvement.
+levels of the organization.
+Cascading performance measures
+demonstrate a clear connection
+between measures and metrics at
+some levels of the organization.
+Managers are not aware, or are
+Managers are consistently aware of
+Managers ensure that teams'
+Managers have facilitated
+Managers ensure teams' lead/lag
+only vaguely aware, of what
+what teams are measuring.
+lead/lag goals and targets align with
+documented improvement on teams'
+goals and targets are tied to Bowling
+teams are measuring.
+priorities.
+lead/lag goals and targets.
+Chart measures with associated
+actions, problem-solving, and
+Managers frequently review
+performance trends.
+measures to drive improvement.
+Teams do not measure, or
+Teams consistently measure
+Teams use graphs and/or charts to
+Teams have contributed to
+Teams ensure performance and
+infrequently measure,
+performance. Teams have identified
+track identified performance metric
+improvement on the performance
+priority lead/lag goals are directly
+performance.
+performance metric targets and
+targets and priority lead/lag goals.
+metric targets and priority lead/lag
+tied to Bowling Chart measures.
+priority lead/lag goals, e.g., outcomes
+goals identified.
+and outputs.
+Teams frequently review measures to
+drive improvement.
+18
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Problem solving does not occur
+Teams engage in problem-solving to
+Teams engage in proactive problem-
+Teams at every level of an
+Mission-critical problems are
+formally or consistently; or
+identify, analyze and solve problems.
+solving to identify and solve
+organization rely on data and
+routinely and proactively identified
+problem solving occurs
+Lean tools (e.g., tick sheets) are
+problems through the use of visual
+evidence to proactively identify,
+and addressed. Associated processes
+reactively.
+leveraged to support process
+management (e.g., flow boards) and
+analyze, and solve problems through
+are improved and sustained through
+improvements realized from problem
+Lean tools (e.g., advanced problem
+the effective use of available visual
+the use of problem-solving activities.
+solving.
+solving such as use of a 4-Square
+management and other continuous
+and/or root cause analysis tools).
+improvement tools and techniques.
+Organization uses an internal system
+to raise and respond to problems
+Systematic problem-solving tools
+raised at the right level. Problems
+and expertise (e.g., Lean facilitator,
+that cannot be solved by teams are
+coach, or problem-solving guide)
+up-leveled effectively and efficiently
+are utilized to determine root
+to the level of leadership that can
+causes and devise countermeasures
+help remove barriers and get
+for issues, resulting in improved and
+performance back on track.
+sustained performance.
+Business reviews do not occur
+Senior leaders use business reviews to
+Business reviews - held by senior
+Throughout the business review,
+Monthly business reviews, held by
+at all or occur infrequently.
+evaluate organizational performance
+leaders on a monthly basis - include
+senior leaders engage in: more
+senior leaders, are used to advance
+of key metrics on the Bowling Chart.
+a standard agenda that ensures
+detailed conversations on
+progress towards priority agency
+review/presentation of key
+organizational performance;
+goals and EPA's mission.
+documents (e.g., countermeasure
+recognition of processes improved,
+worksheets, action registry, Bowling
+and employee ideas implemented;
+Chart).
+and discussion of up-leveled
+problems as appropriate.
+Business reviews influence actions
+taken by senior executives to better
+support teams in their organization.
+Teams do not conduct, or rarely
+Teams conduct regular huddles around
+Teams use regular huddles -
+Teams use regular huddles -
+Teams routinely engage in huddles
+conduct, process reviews
+visual management.
+facilitated around visual
+facilitated around visual management
+around visual management to:
+around visual management.
+management - to document
+- to document process-related
+proactively identify problems;
+process-related problems and the
+problems and the actions being taken
+leverage data and evidence to inform
+actions being taken to fix them.
+to fix them, up-leveling to
+and influence decision-making; and
+management where necessary.
+ensure front-line objectives and
+metrics tracked achieve
+Front-line teams leverage process
+organizational objectives and agency
+reviews to inform and influence mid-
+mission goals and priorities.
+level manager decision-making and
+actions.
+Advanced huddles do not occur
+Advanced (4DX style) huddles occur
+Regularly held advanced huddles
+Regularly held advanced huddles lead
+Regularly held advanced huddles are
+or rarely occur.
+weekly at the mid-level management
+include documentation of weekly
+to follow-through on commitments
+used to connect frontline lead
+level.
+commitments and leverage the
+and result in progress towards the
+measures with agency goals and to
+lag/lead goals established by team.
+team's lead measure.
+achieve mission critical outcomes.
+19
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Managers do not encourage, or
+Managers regularly encourage the
+Managers create structured idea
+Managers actively work to implement
+Managers actively work to promote
+rarely encourage, the
+generation of ideas among staff.
+discussion opportunities where
+ideas that result in improvements
+and champion implemented
+generation of ideas among staff.
+ideas can be presented, discussed,
+across the organization.
+employee ideas.
+and prioritized.
+Staff do not, or rarely, generate
+Staff feel comfortable sharing ideas
+Staff are empowered and supported
+Staff create a positive feedback loop
+Staff engagement/idea sharing
+or share ideas.
+with their team and manager.
+by managers to implement or pilot
+of innovation by continually
+efforts lead to improved employee
+ideas.
+discussing, promoting, and
+morale, processes, and delivery of
+implementing ideas among
+mission.
+themselves and with their managers.
+20
+FY 2022-2026 Strategic Plan - EPA Capacity Assessment Report
+Appendix B
+List of Programs being Evaluated or Analyzed
+The Foundations for Evidence-Based Policymaking Act (Evidence Act) provides a framework to promote a culture of
+evaluation and continuous learning to ensure Agency decisions are made using the best available evidence. Below is a
+list of programs being evaluated or analyzed by the Agency. This list was developed from EPA's FY 2022 Evaluation Plan
+and other Evidence-Building Activities.
+EPA's FY 2022 Evaluation Plan and other Evidence-Building Activities describes significant program evaluations and other
+significant evidence-building activities the Agency plans to undertake in FY 2022. Significant evaluations and other
+evidence-building activities include those that support EPA's ability to meet an Administrator Priority, is mandated by
+Congress, or being highlighted as a program priority.
+FY 2022 Planned Evaluations
+IT Modernization of EPA Pesticide Tracking Systems - Office of Chemical Safety and Pollution Prevention
+Evaluate Impact of Pre-Deadline E-reminders on Discharge Monitoring Report (DMR) Non-Receipt - Office of
+Enforcement and Compliance Assurance
+FY 2022 Additional Planned Activities to Support EPA's Portfolio of Evidence
+Office of Air and Radiation:
+Title V Permitting Program Reviews
+Our Nation's Air: Status and Trends Through 2021
+Office of Chemical Safety and Pollution Prevention & Office of Research and Development:
+Reducing Use of Animals in Chemical Testing
+Office of Land and Emergency Management:
+Population Analysis
+Annual Evidence Literature Search
+Redevelopment Economics at Remedial Sites (non-federal facility)
+Redevelopment Economics at Federal Facilities
+Office of Mission Support:
+EPA Space Reduction - Annual Review
+Strategic Sourcing
+Office of Research and Development:
+Research Area: Assessment and Management of Harmful Algal Blooms
+Research Area: Waste Recovery and Beneficial Use
+Office of Water:
+Drinking Water Infrastructure Revolving Fund State Reviews
+Public Water System Supervision (PWSS) Program Reviews
+Safe Drinking Water Information System (SDWIS) National Regulation Non-Compliance Review
+21

@@ -1,0 +1,1136 @@
+STATES
+USAID
+FROM THE AMERICAN PEOPLE
+DEVE
+AGENCY
+LEARNING
+AGEND
+A
+FY 2022-2026
+March 2022
+TABLE OF CONTENTS
+* Table contents are clickable links
+I. INTRODUCTION
+3
+II. EMERGING AGENCY PRIORITIES
+3
+III. CONSULTING STAKEHOLDERS TO DEFINE NEW LEARNING QUESTIONS
+4
+QUESTION IDENTIFICATION, VALIDATION, REFINEMENT
+4
+FY 2022-2026 AGENCY LEARNING AGENDA QUESTIONS
+5
+IV. OPERATIONALIZING THE 2022-2026 AGENCY LEARNING AGENDA
+5
+STRENGTHENING STRATEGIC RELATIONSHIPS AND ENGAGEMENT
+7
+USAID OPERATING UNIT CONTRIBUTIONS TO AGENCY-WIDE LEARNING
+8
+EXTERNAL CONTRIBUTIONS TO USAID LEARNING
+8
+ILLUSTRATIVE 2022-2026 AGENCY-WIDE EVIDENCE-BUILDING ACTIVITIES
+9
+V. CLOSING
+10
+ANNEX A: 2022-2026 DEPARTMENT OF STATE AND USAID JOINT STRATEGIC PLAN
+11
+JSP GOALS AND STRATEGIC OBJECTIVES
+11
+FY 2022-2026 AGENCY LEARNING AGENDA QUESTION CONNECTIONS TO JSP
+12
+ANNEX B: FY 2022-2026 USAID AGENCY LEARNING AGENDA QUESTION DETAILS
+13
+OPERATIONAL EFFECTIVENESS
+13
+RESILIENCE TO SHOCKS
+15
+RESPONDING TO CLIMATE CHANGE
+16
+ANTI-CORRUPTION
+17
+AFFIRMATIVE DEVELOPMENT
+18
+MIGRATION AND FORCED DISPLACEMENT
+20
+DIVERSITY, EQUITY, INCLUSION, AND ACCESSIBILITY
+22
+LOCALLY-LED DEVELOPMENT
+23
+PARTNERING FOR SUSTAINABILITY
+25
+ANNEX C: FURTHER OPPORTUNITIES FOR EXTERNAL COLLABORATION ON AGENCY LEARNING
+27
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+2
+FROM THE AMERICAN PEOPLE
+INTRODUCTION
+The Foundations for Evidence-based Policymaking Act of 2018 (Evidence Act) requires each Chief Financial
+Officer (CFO) Act agency to develop a learning agenda that covers a four-year period aligned with that agency's
+strategic plan and addresses a set of agency-wide priority learning questions. The United States Agency for
+International Development (USAID) Agency Learning Agenda comprises a series of products and processes
+designed to engage key stakeholders in the generation, synthesis, sharing, and use of evidence to inform
+decision-making. USAID's Agency Learning Agenda is a critical tool supporting implementation of the Agency's
+policy priorities, which are aligned with Interim National Security Strategic (NSS) Guidance and the
+Department of State and USAID Joint Strategic Plan (JSP). By prioritizing key questions, the learning agenda
+channels attention and investment toward critical evidence gaps that would limit the ability of the Agency to
+achieve its policy objectives. It connects Agency learning networks and amplifies evidence from Missions and
+Bureaus to maximize cross-agency awareness and learning and improve Agency effectiveness.
+The Agency developed USAID's Fiscal Year (FY) 2022-2026 Agency Learning Agenda alongside the 2022-2026
+Joint Strategic Plan to reflect emerging USAID policy priorities. The development process, which began in
+January 2021, engaged key internal and external stakeholders to identify critical learning needs for emerging
+Agency priorities and define a small, prioritized set of Agency-wide learning questions. USAID has also
+assessed the implementation of previous learning agendas to identify good practices and continuously
+improve the Agency Learning Agenda processes, as well as build on existing learning networks and evidence.
+II. MERGING AGENCY PRIORITIES
+USAID's Agency Learning Agenda is an important tool to transparently communicate how the Agency will build
+and use evidence to inform decision-making as the Agency operationalizes its policy priorities. The Interim NSS
+Guidance, published in March 2021, provides direction for departments and agencies to align their actions as the
+Biden Administration begins work on a National Security Strategy.
+The Department of State and USAID FY 2022-2026 Joint Strategic Plan includes goals and strategic objectives that
+align with the interim NSS and Administration priorities (see Annex A for a full listing of JSP goals and strategic
+objectives):
+Goal I:
+Renew U.S. leadership and mobilize coalitions to address the global challenges
+that have the greatest impact on Americans' security and well-being.
+Goal II:
+Promote global prosperity and shape an international environment in which
+the United States can thrive.
+Goal III:
+Strengthen democratic institutions, uphold universal values, and promote
+human dignity.
+Goal IV:
+Revitalize the diplomatic and development workforce and institutions.
+Goal V:
+Serve U.S. citizens around the world and facilitate secure international travel.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+3
+FROM THE AMERICAN PEOPLE
+Simultaneously, USAID has identified emerging Agency policy priorities that align with one or more of the JSP
+goals:
+I.
+COVID-19 and future pandemic threats (JSP Goal I,II)
+2. Climate Change (JSP Goals I, II, III)
+3. Conflict Prevention and Peacebuilding (JSP Goals I, III)
+4.
+Democracy, Anti-Corruption, and Human Rights (JSP Goal II, III)
+5.
+Diversity, Equity, and Inclusion (JSP Goals I, II, III, IV)
+6. Localization (JSP Goals I, II, III, IV)
+Over the next year, the Agency and interagency will develop whole-of-government strategies to address many of
+these challenges. Following the release of these plans and strategies, the NSS, and the JSP, USAID will update its
+Policy Framework and further define the Agency's programmatic and operational response.
+III. CONSULTING STAKEHOLDERS TO DEFINE NEW
+LEARNING QUESTIONS
+QUESTION IDENTIFICATION, VALIDATION, REFINEMENT
+As a learning best practice, and in fulfillment of the requirements of the Evidence Act and Office of Management
+and Budget (OMB) guidance, USAID actively engaged key stakeholders to define new learning questions related
+to the Agency's emerging priorities. Through a series of more than 20 consultative sessions and subsequent
+question validation discussions held from May through August 2021, internal stakeholders provided input on
+learning priorities and critical evidence needs representing views from across the sectors and geographies in
+which USAID works. Additional consultations with external stakeholders captured a range of perspectives,
+including those of the interagency, other donors, congressional staff, higher education institutions, researchers,
+international development-focused think tanks, and nongovernmental organizations.
+Agency Learning Question Identification Process
+Stakeholder consultations explored
+Emerging Agency Policy Priorities
+emerging USAID policy areas & JSP Goals
+Insights identified evidence gaps and
+Evidence Gaps & Learning Priorities
+learning priorities not otherwise
+covered in the Agency
+Fifteen draft learning questions were
+15 Draft Agency Learning Questions
+circulated for validation, prioritization,
+and refinement
+Nine draft learning questions further
+9 Draft Agency Learning Questions
+refined, presented for Agency
+leadership review and approval
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+4
+FROM THE AMERICAN PEOPLE
+FY 2022-2026 AGENCY LEARNING AGENDA QUESTIONS
+USAID has identified a final list of nine priority Agency Learning Agenda questions.
+2022-2026 USAID AGENCY LEARNING AGENDA QUESTIONS
+1. How can USAID better streamline systems, processes and resources to meet long-term needs identified by
+Missions, while enabling the flexibility to respond quickly to unexpected shifts in context?
+2. How can USAID strengthen household, community, and country resilience to climate, conflict, economic, and
+health shocks, such as COVID-19 and other global pandemic threats?
+3. How can USAID best engage global actors, partner countries, and local leaders to mitigate the climate crisis and
+support equitable adaptation to its impacts?
+4. How can USAID work with host countries, interagency colleagues, and other development actors to address
+systemic corruption through multisectoral approaches?
+5. How can USAID advance an affirmative, sustainable development approach to mitigate authoritarian or malign
+influences and actions?
+6. How can USAID better address drivers of migration and forced displacement through evidence-informed
+decision-making?
+7. How can USAID programs and operations mitigate harm to underrepresented and marginalized populations,
+while promoting equity and inclusion?
+8. How can USAID more equitably engage local knowledge, assets, and practices and align programming with local
+priorities and metrics for success?
+9. How can USAID's partnerships with the private sector; local, faith, and nontraditional partners; and other donors
+contribute to sustainable development objectives?
+Each question connects to multiple JSP strategic objectives and all of USAID's emerging policy priorities to
+facilitate collaborative learning across Agency sectors and geographies. Questions provide high-level direction to
+guide the development of more specific or context-relevant evidence-building questions for Agency evaluation
+or research efforts. See Annex B for more details on each question, including context, connections to strategy,
+intended use, illustrative learning activities, and existing learning and evidence.
+IV. OPERATIONALIZIN G THE 2022-2026 AGENCY
+LEARNING AGENDA
+USAID's decentralized organizational structure extends far beyond its Washington Bureaus to programs and staff
+in more than 100 countries around the world. Development programming takes place across many technical
+areas, including agriculture; economic growth; environment; education; democracy, human rights, and
+governance; women's empowerment; water and sanitation; and global health. Additionally, USAID leads the U.S.
+Government's humanitarian response to disasters and crises overseas. Agency investments in evidence and
+learning are made across USAID geographies and sectors through many activities, including sectoral and topical
+learning agendas, evaluations, research studies, assessments, and monitoring efforts. USAID uses the Agency
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+5
+FROM THE AMERICAN PEOPLE
+Learning Agenda to create and strengthen a centralized architecture for Agency-wide learning, engaging key
+stakeholders to build, share, and use evidence and knowledge across these decentralized USAID structures and
+systems.
+To do so, USAID is intentionally identifying which existing Agency learning networks, evidence, and foundational
+learning topics will contribute to the 2022-2026 learning agenda. USAID will build on the success of a Mission
+Advisory Group for the Agency Learning Agenda to encourage field Mission staff to share learning and ask
+questions about Agency priority topics as well as learn about tools and resources that connect their
+country-focused learning priorities, findings, and resources to the rest of the Agency. All Agency learning
+products completed to date will remain hosted as an Agency-wide Evidence and Resource Collection on
+ProgramNet, the Agency's internal knowledge-sharing platform. Public learning products will remain archived on
+the Development Experience Clearinghouse, the Agency's online resource for USAID-funded technical and
+project materials, and USAID Learning Lab, a public platform for collaborating, learning, and adapting.
+Foundational learning topics (areas previously explored in Agency learning efforts, for which critical evidence
+gaps remain) include operational effectiveness; the humanitarian-development-peace nexus; strengthening
+locally-led development and integrating local voices and priorities into USAID's work; and approaches to
+partnering and engagement. The table outlines connections between foundational learning topics and the
+2022-2026 learning questions.
+FOUNDATIONAL
+RELATED FY 2022-2026
+LEARNING TOPIC
+LEARNING QUESTIONS
+Q1 operational effectiveness
+Operational Learning
+Q7 diversity, equity, inclusion, and accessibility
+Q1 operational effectiveness
+Q2 resilience to shocks
+Humanitarian - Development - Peace Nexus
+Q3 responding to climate change
+Q6 migration and forced displacement
+Strengthening Locally-led Development
+Q3 responding to climate change
+Q8 locally-led development
+Q4 anti-corruption
+Partnering and Engagement Approaches
+Q5 affirmative development
+Q9 partnering for sustainability
+The Agency Learning Agenda is not only a series of products or outputs, it is also a behavior change process
+intended to strengthen the use of evidence to improve the Agency's effectiveness. USAID commissioned a rapid
+stocktaking exercise in June 2021 to examine: 1) how learning agenda activities contributed to the generation
+and use of evidence, and 2) whether Agency learning processes and networks influenced staff attitudes and
+behaviors around learning. Key findings show that newsletters, Agency Notices, and learning events have been
+valuable in raising awareness and sharing evidence resulting from learning activities. However, reported use of
+learning agenda evidence in decision-making was limited. Staff requested more user-friendly knowledge
+products that are shorter in length and use plain language and also sought direct assistance in applying evidence
+in their work. Staff cited the 2020 Agency-wide Learning Week, peer-to-peer assistance, and cross-Mission
+sharing sessions as helpful models.
+Initial Agency Learning Agenda networks, including cross-Agency volunteer Question Teams and the Mission
+Advisory Group, were found to help members advocate for and share their work beyond their Bureaus or
+Missions. Participation in these networks increased staff awareness of available Agency learning resources,
+including evidence syntheses, fact sheets, toolkits, and how-to notes; however, these effects often did not
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+6
+FROM THE AMERICAN PEOPLE
+translate beyond those more immediately involved to the broader Agency workforce. The voluntary nature of
+Question Team and Mission Advisory Group membership was cited as a constraint to active and long-term
+participation in Agency-wide learning networks and evidence-building activities, and participants believe that
+this negatively affected the quality and timeliness of evidence dissemination. Areas identified for future
+improvement include: 1) clearer coordination among Agency learning efforts, 2) more systematic dissemination
+of knowledge products, 3) greater financial and human resources available for Agency Learning Agenda efforts,
+and 4) more engagement in learning by Agency leadership and between USAID Missions and Washington
+Operating Units (OUs).
+USAID is using these findings, as well as inputs from the USAID Capacity Assessment, to inform the
+implementation of the Agency Learning Agenda. The rapid stocktaking process has also established a foundation
+for future analyses of learning agenda progress and outcomes, contributing to the Agency's evidence base on
+learning agenda design and implementation.
+STRENGTHENING STRATEGIC RELATIONSHIPS AND ENGAGEMENT
+Based on the stocktaking and given limited resources for Agency Learning Agenda evidence-building activities,
+USAID will focus available resources on: 1) synthesizing and packaging available evidence for use; 2) convening
+internal and external stakeholders working on similar evidence-building activities; 3) building awareness and
+improving dissemination of available evidence; and 4) supporting the use of evidence in strategic, operational,
+and programmatic decision-making. For example:
+Synthesizing findings and recommendations from existing research and evaluation reports connected to
+Agency priorities, like the Human and Institutional Capacity Development (HICD) Desk Review that
+generated 1,017 page views across USAID's external sites. The Agency Learning Agenda will support the
+synthesis and packaging of evidence for stakeholders to access and apply available evidence more
+easily.
+Strengthening field learning networks, Mission participation in Agency learning, and collaboration
+between Washington OUs and Missions through structures like the Mission Advisory Group. The Agency
+Learning Agenda will expand field engagement so that Missions not only are the producers and users of
+evidence, but also determine where and how the Agency Learning Agenda focuses its efforts to best
+meet Mission learning needs.
+Using the USAID/Washington Learning Agenda Snapshot-an internal catalog maintained in
+collaboration between the Bureau of Policy, Planning, and Learning and points-of-contact for topical,
+sectoral, and geographic learning agendas managed by Washington-based USAID OUs-to focus
+learning resources strategically. Developed in response to staff requests for centralized documentation
+of learning agendas, the Snapshot includes a spreadsheet containing a brief description, status,
+points-of-contact, learning questions, and key outputs for each learning effort.
+Leveraging virtual platforms to convene global audiences around Agency learning, building on the
+success and lessons learned from the 2020 Agency-wide Learning Week, which hosted nearly 500
+participants across 16 learning sessions, including staff from 65 Missions. The Agency Learning Agenda
+will expand opportunities for Agency stakeholders to participate in evidence exchange with external
+stakeholders and thought leaders, including, for example, roundtable discussions on specific Agency
+Learning Agenda questions.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+7
+FROM THE AMERICAN PEOPLE
+USAID OPERATING UNIT CONTRIBUTIONS TO AGENCY-WIDE LEARNING
+Internally, the USAID workforce remains the Agency's most critical asset in evidence generation and use. Missions
+and Washington OUs support the Agency Learning Agenda by:
+Incorporating context-and/or sector-specific evidence-building questions that align with and contribute
+to the Agency Learning Agenda into relevant documents, such as strategies; performance management
+and monitoring, evaluation, and learning plans; and technical or sectoral Mission or Bureau learning
+agendas.
+Referencing the Agency Learning Agenda questions in solicitations and other procurement documents.
+Incorporating appropriate evidence-building opportunities (monitoring, evaluation, research, learning)
+that respond to these questions into program design and implementation.
+Generating and capturing experiential knowledge related to Agency Learning Agenda questions at
+critical milestones in strategy or program design and implementation; for example, as part of Before-
+and After-Action Reviews, mid-course stocktaking, or pause-and-reflect exercises.
+Sharing Agency Learning Agenda evidence in reports and public communications and using Agency
+Learning Agenda communications channels and platforms to share evidence with broad Agency and
+external audiences.
+Participating in Agency-wide learning events and peer-to-peer networks hosted by the Agency Learning
+Agenda to share knowledge and evidence.
+Reviewing and using Agency Learning Agenda evidence as part of decision-making related to Agency
+strategies, operations, and programming.
+Directing funding or other support to the Agency Learning Agenda to invest in Agency-wide
+evidence-building activities that address critical evidence gaps.
+Agency leadership has an essential role to play in supporting staff in learning efforts and using evidence to
+inform their strategic investments and programmatic and operational decision-making. Leadership forums, such
+as the Management Operations Council, Mission Directors calls, and the Program Officers Conference, present
+key opportunities for leaders to engage with and act on Agency Learning Agenda evidence.
+EXTERNAL CONTRIBUTIONS TO USAID LEARNING
+Just as USAID relies on collaboration with external partners to implement our programs, USAID must also
+collaborate to sufficiently resource the generation, synthesis, translation, dissemination, and uptake of evidence
+needed to address Agency Learning Agenda questions. USAID pursues and invites collaboration from external
+partners on all Agency Learning Agenda questions, including contributions from the Department of State and
+other interagency partners, implementing partners, local actors, researchers and higher education institutions,
+think tanks, and other donors. USAID leadership, including the Agency Evaluation Officer and Agency Knowledge
+Management and Organizational Learning Officer, will continue to advise on the Agency Learning Agenda's focus
+and methods, help link its activities and evidence to other Agency learning efforts, and connect it to learning
+across the international community through participation on external platforms, such as the Multi-Donor
+Learning Partnership for Development Impact and Organization for Economic Co-operation and Development's
+Development Assistance Committee (OECD-DAC) Evaluation Network. More information on how external actors
+might engage with the Agency Learning Agenda can be found in Annex C.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+8
+FROM THE AMERICAN PEOPLE
+ILLUSTRATIVE 2022-2026 AGENCY-WIDE EVIDENCE-BUILDING ACTIVITIES
+The nine Agency Learning Agenda questions are intentionally broad to capture and synthesize Agency evidence
+from technical and sectoral learning and research agendas, evaluations, research, and experiential learning
+opportunities. All questions are long-term in nature (2022-2026), and a mix of near-and longer-term activities
+will contribute toward addressing each question. The timeline for activities will be determined in line with key
+milestones identified by intended users, against which related evidence can be applied in decision-making. An
+initial set of Agency evidence-building activities linked to each of the learning questions is outlined in the table
+below. Further details for each learning activity, including timeline and methods, can be found in Annex B.
+The FY 2023 Annual Evaluation Plan includes details on additional planned significant evaluations not listed
+below. USAID has defined significant evaluations as those that generate evidence toward Agency Learning
+Agenda questions and are either a performance evaluation of a USAID activity with a budget of $40 million or
+more; or an ex-post evaluation; or an impact evaluation (for definitions of ex-post and impact evaluation at
+USAID, see Automated Directives System 201).
+FY 2022-2026
+ILLUSTRATIVE LEARNING ACTIVITIES*
+LEARNING QUESTION
+Performance Plan and Report (PPR) COVID-19 key issue analysis in
+USAID annual reporting process (Performance Plan and Report, PPR)
+COVID-19 Strategy and Operations Task Force (CTF) Hotwash
+1. Operational Effectiveness
+Mission Management Assessment policy update and pilot
+Customer Service Framework development to enhance a culture of
+internal service
+2. Resilience to Shocks
+Performance Evaluation: Institutional Resilience and COVID-19
+Learning from implementation of the USAID Climate Readiness Plan,
+3. Responding to Climate Change
+including the forthcoming 2022 - 2030 USAID Climate Strategy
+Performance Evaluation: Anti-Corruption and COVID-19
+4. Anti-Corruption
+Analysis and Research on Social Norms and Behavioral Approaches to
+Combating Corruption
+Countering People's Republic of China Influence Fund Monitoring,
+5. Affirmative Development
+Evaluation, and Learning
+Interagency Root Causes Strategy Monitoring, Evaluation and Learning
+Plan and Semi-Annual Root Causes Strategy Results Reports
+6. Migration and Forced Displacement
+Vanderbilt University's AmericasBarometer the and Latin American
+Public Opinion Project
+Analysis of Migration data from Customs and Border Protection
+7. DEIA
+Agency internal equity assessment phased learning data collection
+support
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+9
+FROM THE AMERICAN PEOPLE
+Stopping as Success +
+8. Locally-led Development
+Local Works
+Local Knowledge Best Practices in External Organizations
+Pilot Testing Local Knowledge Tools
+Enduring Results 4.0
+9. Partnering for Sustainability
+Private Sector Engagement (PSE) Evidence Gap Map Phase II
+USAID Partnering Process Analysis
+* Additional details on each of these activities is provided in Annex B.
+V. CLOSING
+Built on a foundation of stakeholder consultation and evidence from the implementation of other learning
+agendas to date, the 2022-2026 USAID Agency Learning Agenda serves as an evidence-building roadmap as the
+Agency tackles the most pressing policy issues of our time. The Agency Learning Agenda ensures that the Joint
+Strategic Plan and USAID policy objectives will be informed by evidence-based decisions. It is a critical tool to
+advance the Agency's policy priorities and ensure that data and evidence inform USAID's work. The learning
+agenda aims to bring together Agency staff and external partners under a unified vision and effort to build and
+use evidence to support an effective U.S. Government response to critical international development and
+humanitarian needs.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+10
+FROM THE AMERICAN PEOPLE
+ANNEX A: 2022-2026 DEPARTMENT OF STATE AND
+USAID JOINT STRATEGIO PLAN
+JSP GOALS AND STRATEGIC OBJECTIVES
+Goal I:
+Renew U.S. leadership and mobilize coalitions to address the global challenges that have the
+greatest impact on Americans' security and well-being.
+1.1: Strengthen global health security, combat infectious disease threats, and address priority
+global health challenges through bilateral engagement and within multilateral fora.
+1.2: Secure ambitious climate mitigation and adaptation outcomes, including supporting
+effective Paris Agreement implementation.
+1.3: Reinvigorate U.S. humanitarian leadership and provide lifesaving protection and assistance
+in response to international disasters and humanitarian crises overseas.
+1.4: Lead allies and partners to address shared challenges and competitors; prevent, deter, and
+resolve conflicts; and promote international security.
+1.5: Enhance foreign publics' understanding of and support for the values and policies of the
+United States.
+Goal II:
+Promote global prosperity and shape an international environment in which the United
+States can thrive.
+2.1: Promote a global economy that creates opportunities for all Americans.
+2.2: Support inclusive and sustainable economic growth and opportunity for communities across
+the globe.
+2.3: Support U.S. technological leadership, strengthen competitiveness, and enhance and
+protect the U.S. innovation base while leveraging technology to improve lives around the
+world.
+2.4: Strengthen U.S. and global resilience to economic, technological, environmental, and other
+systemic shocks.
+Goal III:
+Strengthen democratic institutions, uphold universal values, and promote human dignity.
+3.1: Promote good governance and defend strong, accountable, and resilient democracies that
+deliver for their citizens.
+3.2: Advance equity, accessibility, and rights for all.
+3.3: Prevent, expose, and reduce corruption.
+3.4: Promote a safe, humane, and orderly immigration and asylum system, address the root
+causes of irregular migration collaboratively with our partners, and enhance protections for
+refugees and displaced persons.
+3.5: Improve inclusive and equitable health, education, and livelihood services, especially for
+women, youth, and marginalized groups.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+11
+FROM THE AMERICAN PEOPLE
+(JSP Goals and Strategic Objectives continued from previous page)
+Goal IV:
+Revitalize the diplomatic and development workforce and institutions.
+4.1: Build and equip a diverse, inclusive, resilient, and dynamic workforce.
+4.2: Modernize IT and leverage data to inform decision-making and support mission delivery.
+4.3: Protect our personnel, information, and physical infrastructure from 21st century threats.
+Goal V:
+Serve U.S. citizens around the world and facilitate secure international travel
+5.1: Support and serve American citizens traveling or residing abroad.
+5.2: Advance U.S. interests by facilitating legitimate travel to and from the United States.
+FY 2022-2026 AGENCY LEARNING AGENDA QUESTION CONNECTIONS TO JSP
+2022 - 2026 Department of State and USAID Joint Strategic Plan Strategic Objectives
+1.1
+1.2
+1.3
+1.4
+1.5
+2.1
+2.2
+2.3
+2.4
+3.1
+3.2
+3.3
+3.4
+3.5
+4.1
+4.2
+4.3
+Q1 Ops Effectiveness
+Q2 Resilience to
+Shocks
+Q3 Responding to
+Climate Change
+Q4 Anti-Corruption
+Q5 Affirmative
+Development
+Q6 Migration & Forced
+Displacement
+DEIA
+Q8 Locally-led
+Development
+Q9 Partnering for
+Sustainability
+FY 2022-2026 Agency Learning Agenda Questions align with all JSP strategic objectives to which USAID contributes
+(JSP Goal V and related Strategic Objectives are managed exclusively by the Department of State).
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+12
+FROM THE AMERICAN PEOPLE
+ANNEX B: FY 2022-2026 USAID AGENCY LEARNING
+AGENDA QUESTION DETAILS
+The Agency Learning Agenda questions represent a mix of operational and strategic Agency-wide learning
+opportunities. Operational questions consider how USAID does its work and focus on human and financial
+resources, partnering and procurement processes, systems and technology, training and staff capacity, and
+other similar areas. Strategic questions consider the what of the Agency's technical work, building connections
+across sectors and geographies.
+There are two notable challenges in developing evidence to support policymaking across the USAID policy
+priority areas that are covered by the nine cross-cutting questions. The first challenge relates to restrictions on
+the initial funding that the Agency received; namely, limitations on how early supplemental COVID-19 response
+and recovery funds could be used for monitoring, evaluation, and learning activities. To overcome this challenge,
+USAID requested, and recently received, program funds to support evidence generation, synthesis, and
+peer-to-peer learning events that can facilitate the use of evidence in Agency decision-making in the face of
+COVID-19. The second challenge relates to issues in data quality for particular policy priorities such as DEIA and
+migration . To overcome data gaps and restrictions, USAID is working closely with interagency partners to ensure
+that Agency policymaking is informed by comprehensive and up-to-date evidence and data.
+The following tables provide details on each learning question; including context, connections to strategy,
+intended use, illustrative learning activities, and existing learning and evidence.
+1
+OPERATIONAL EFFECTIVENESS
+How can USAID better streamline systems, processes and resources to meet long-term needs identified by Missions,
+while enabling the flexibility to respond quickly to unexpected shifts in context?
+Question 1 focuses on aspects of USAID's operational effectiveness; particularly ways in which the Agency can
+better align budget, policy, programming, staff, and systems - and reduce unnecessary administrative
+burdens, or "sludge' - to achieve its mission. The question considers operational factors that affect how well
+long-term development and humanitarian needs identified by Missions are addressed in strategies and
+programming, given resource limitations, mandates, directives, or other barriers or tradeoffs. It also creates
+space for investigating how Agency systems and processes enable flexible and timely response to
+game-changing shifts in operating context, including crises such as the global COVID-19 pandemic, while
+balancing long-term development and humanitarian needs.
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal IV: Revitalize the diplomatic and development workforce and infrastructure.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+13
+FROM THE AMERICAN PEOPLE
+Illustrative Learning Activities
+Performance Plan and Report (PPR) COVID-19 Key Issue Analysis in USAID Annual Reporting Process
+MARCH 2022
+As part of their PPR, USAID Missions have been asked to submit an open narrative regarding the portfolio adaptations
+they have made or plan to make in the near future in response to the pandemic. Each narrative consists of an open
+narrative with a 10,000 character limit. USAID will analyze the narrative submissions to determine common themes,
+areas requiring support from USAID/Washington, examples of effective adaptation for sharing within the Agency or
+other areas that support learning priorities in USAID's COVID-19 Monitoring, Evaluation, and Learning Plan.
+Qualitative analysis of USAID Mission submissions of the COVID-19 key issue narrative in the annual PPR. Specific themes of interest are portfolio
+adaptations in response to the pandemic and the policies, processes, and structures that enabled or hindered those adaptations.
+COVID-19 Strategy and Operations Task Force (CTF) Hotwash
+NEXT REPORT: FY 2022 Q2
+USAID is conducting ongoing hotwashes for the COVID-19 Strategy and Operations Task Force (CTF) to reflect on the
+CTF's operations over the course of the previous months and to gather lessons learned to improve the continued
+performance of the CTF.
+Qualitative analysis of data collected through facilitated focus group discussions with individuals including both those who serve on and those who
+collaborate with the CTF.
+Mission Management Assessment Policy Update and Pilot
+SUMMER 2022
+USAID uses a business review process called Mission Management Assessments (MMAs) to help Mission, Operating Unit
+(OU), and Regional Bureau senior managers identify what is working and can be emulated elsewhere; major, often
+immediate, management issues; and propose practical and feasible steps to address gaps or weaknesses. USAID
+conducted a policy effectiveness review of the ADS guidance on MMAs in 2021 with the goal of shifting the focus of
+MMAs to organizational learning. USAID updated the draft guidance based on the recommendations from the review
+and is piloting the updated draft guidance this fall and winter with volunteer Missions in the Africa and Asia Bureaus
+before finalizing the ADS guidance in 2022.
+Qualitative data analysis to inform the initial policy updates; and qualitative and quantitative data analysis to validate final policy changes.
+Customer Service Framework Development to Enhance a Culture of Internal Service
+FEBRUARY 2022
+The Framework is a follow-up to the Customer Service Culture Assessment USAID conducted in 2021. Respondents from
+the assessment noted varied interpretations and understandings of the Agency's approach to customer service. USAID
+will develop the Customer Service Framework by bringing together customer service champions to outline the Agency's
+customer service definition, vision, and staff responsibilities and competencies.
+Qualitative analysis of input provided by customer service champions.
+Examples of Existing Learning and Evidence
+Fighting Ebola with Information: Learning from the Use of Data, Information, and Digital Technologies
+in the West Africa Ebola Outbreak Response
+Humanitarian-Development Coherence in Education White Paper
+Evidence Base for Collaborating, Learning, and Adapting: Adaptive Management
+Bureau for Management Operational Excellence Agenda (Internal)
+COVID-19 Response and Recovery MEL Plan (Internal)
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+14
+FROM THE AMERICAN PEOPLE
+2
+RESILIENCE TO SHOCKS
+How can USAID strengthen household, community, and country resilience to climate, conflict, economic, and health
+shocks, such as COVID-19 and other global pandemic threats?
+Question 2 focuses on USAID programming seeking to strengthen resilience, defined as the ability of people,
+households, communities, countries, and systems to mitigate, adapt to, and recover from acute and recurrent
+shocks and stresses in a manner that reduces chronic vulnerability and facilitates inclusive growth. Building
+resilience requires strengthening the capacities that help people and systems to:
+-
+absorb shocks by minimizing exposure to them and changing behavior to deal with the impact;
+adapt measures that identify and manage risks over the longer term; and
+-
+transform as the underlying conditions are changed.
+By leveraging evidence on the effectiveness of interventions and which factors enable adaptation to adversity,
+USAID is driving evidence-based investments that enable better management and adaptation to shocks.
+Question 2 creates opportunities to better connect, synthesize, and disseminate the resilience evidence-base
+being built across the Agency, so that USAID can holistically strengthen resilience to a range of complex and
+competing shocks and stressors, including climate, conflict, economic, and health shocks. Learning from the
+implementation of USAID's Resilience Policy, currently undergoing revision, will be key to addressing this
+question.
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values, and promote human dignity.
+Illustrative Learning Activities
+Performance Evaluation: Institutional Resilience and COVID-19
+FY 2023 Q2
+The United States COVID-19 Global Response and Recovery Plan outlines the U.S. government's commitment to building
+resilience and bolstering political, economic, and social systems that have been affected by COVID-19. The purpose of
+this evaluation is three-fold. Results will inform:
+1.
+Ongoing decisions about how USAID can strengthen systems resilience through adaptations to existing
+programs and the development of new programs.
+2.
+USAID's strategies for building community and systems-level resilience capacities, so that public and private
+systems are stronger in the face of future pandemics.
+3.
+USAID's operational and programmatic approaches to systems strengthening and capacity building more
+broadly, ensuring that these efforts support, rather than undermine, local efforts.
+A mixed-method approach that triangulates across quantitative and qualitative data sources. Global assessment, with case studies in specific countries
+identified through initial data collection.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+15
+FROM THE AMERICAN PEOPLE
+Examples of Existing Learning and Evidence
+ResilienceLinks: assessments, case studies, discussion papers, reports
+Transforming Systems in Times of Adversity: Education and Resilience White PaperResearch Agenda for
+Land and Resource Governance
+3
+RESPONDING TO CLIMATE CHANGE
+How can USAID best engage global actors, partner countries, and local leaders to mitigate the climate crisis and
+support equitable adaptation to its impacts?
+Climate change is a planetary crisis that is leaving no corner of the world untouched. Failure to aggressively
+address this crisis will have dire consequences for us all. Conversely, responding to the climate crisis helps
+avoid these dangerous consequences and incentivizes economic, technological, ecological, and sociopolitical
+innovations in the very systems it threatens. Climate change affects the frequency, intensity, and duration of
+extreme weather events, alters precipitation patterns, disrupts ecological systems, and causes temperatures
+and sea levels to rise. These changes in turn exacerbate economic, sociocultural, and ecological inequities and
+contribute to hunger, poverty, malnutrition, displacement, fragility, and increased mortality.
+Climate change impacts go beyond just the environmental sector to affect human health, nutrition and food
+security, ecosystems and biodiversity, peace and stability, and access to essential services, such as health
+care; water, sanitation, and hygiene; and education. Climate change threatens to drive increases in maternal
+and child malnutrition, is an increasing threat to national security, and contributes to migration, displacement
+and increased pressure on scarce government resources. Climate change also exacerbates inequalities,
+increasing the vulnerability of marginalized and underrepresented populations to gender-based violence,
+dispossession, and disempowerment. Addressing climate change is a top priority for USAID as part of the U.S.
+government's renewed and strengthened commitments to building climate resilience and helping limit
+warming to 1.5 degrees Celsius as called for under the Paris Agreement. Within the larger U.S. government
+effort, USAID plays a leading international role by working on the ground with partner governments and local
+actors to strengthen mitigation and adaptation.
+Question 3 focuses on USAID programming and operations seeking to mitigate climate change and address its
+impacts-across all sectors-by partnering with global actors, partner countries, and local actors to reduce
+emissions, protect critical ecosystems, transition to renewable energy, build resilience and support equitable
+adaptation against the impacts of climate change, and promote the flow of capital toward climate-positive
+investments.
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values and promote human dignity.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+16
+FROM THE AMERICAN PEOPLE
+Illustrative Learning Activities
+Learning from implementation of the USAID Climate Readiness Plan, including the USAID Climate Strategy
+ONGOING, 2022-2030
+The 2021 Climate Readiness Plan outlines actions USAID will implement across the Agency's operations management
+functions and programs to adapt to the effects of changing climate. USAID developed its Climate Readiness Plan in
+response to Executive Order 14008, Tackling the Climate Crisis at Home and Abroad. The Plan supports and aligns with
+USAID's forthcoming 2022-2030 Climate Strategy and demonstrates USAID's whole-of-Agency approach to combating
+the climate crisis.
+Through the Climate Readiness Plan, USAID will implement priority climate adaptation and risk-mitigation actions
+across its program processes and management functions to increase the resilience of the Agency's core mission to
+known climate threats and vulnerabilities. Learning from implementation will inform Agency operations and
+programming, including mainstreaming climate across USAID's work, improving climate risk management and supply-
+chain resilience, building a climate-ready workforce, and using data to ensure climate-ready facilities and services.
+Determination of methods forthcoming, as part of Climate Strategy Monitoring, Evaluation, and Learning Plan.
+Examples of Existing Learning and Evidence
+USAID ClimateLinks
+Evaluation of Climate Risk Management at USAID (2020)
+4
+ANTI-CORRUPTION
+How can USAID work with host countries, interagency colleagues, and other development actors to address systemic
+corruption through multisectoral approaches?
+The fight against corruption is a key U.S. domestic and foreign policy priority and a core national security
+interest. Corruption fundamentally undermines development progress across all sectors-whether health,
+education, economic growth, or building resilience to climate change. Corruption robs developing countries of
+an estimated $1.26 trillion annually, while destabilizing democratic societies, undermining the rule of law, and
+diminishing the integrity of democratic institutions. Authoritarian regimes have weaponized corruption to
+consolidate their rule and undermine confidence in democratic processes and norms. In many USAID partner
+countries, corruption fuels violence, funds transnational criminal and terrorist enterprises, and perpetuates
+the trafficking of drugs, arms, and people. In the context of COVID-19, corruption impedes the integrity of
+emergency responses and humanitarian efforts to deliver lifesaving resources to affected and vulnerable
+communities.
+USAID targets systemic corruption by aiming to build systemic accountability across the public-private
+landscape, including by expanding and accelerating efforts to build local capacity to prevent, detect, mitigate,
+and sanction corruption; strengthening oversight, accountability, and justice sector institutions; supporting
+open government and transparency norms; and empowering civil-society and media reformers to uncover
+corruption and hold governments to account. Question 4 focuses on how USAID can best partner with others
+on multisectoral anti-corruption interventions that promote good governance, government transparency, and
+accountability to support development objectives across all sectors.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+17
+FROM THE AMERICAN PEOPLE
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values, and promote human dignity.
+Illustrative Learning Activities
+Performance Evaluation: Anti-Corruption and COVID-19
+FY 2023 Q2
+The purpose of this evaluation is to further our understanding of USAID anti-corruption programming in the context of
+the COVID-19 crisis. This study will assess how the Agency's new and existing anti-corruption initiatives have been able
+to respond to and address pandemic-enabled corruption. In addition, the evaluation will identify successful approaches
+and examine the coordination of COVID-19-sensitive anti-corruption programming both internally and with USAID's
+external partners. This performance evaluation aims to inform both future and ongoing programming to diminish the
+harmful effects of COVID-19-enabled corruption.
+A mixed-methods evaluation that collects and analyzes both quantitative survey data and data derived from qualitative interviews with various
+stakeholders involved in different stages of USAID'S COVID-19 response.
+Analysis and Research on Social Norms and Behavioral Approaches to Combating Corruption
+FY 2023 Q2
+This research project will use a case study approach to gather data, complemented by reference to existing literature, to
+consider the fundamental questions of how and when social and behavioral approaches should be used to counter
+corruption in diverse contexts across USAID partner countries. This analysis will include fragile and post-conflict
+countries, casting light on any adaptations to such contexts and whether any approaches are generalizable. The
+research will also consider whether there are early indicators of corruption-related social norms. The primary
+anticipated outcome of this project is an analytic report to inform the Anti-Corruption Task Force's work in updating
+USAID's anti-corruption policy, strategy, and technical practice.
+This project will use a case study methodology. It will include research of at least five (preferably eight to ten) cases. The cases must be regionally diverse
+and can be at the local, regional, or country level. The project will also include initial analysis of how this evidence can be applied to (1) USAID's
+assessments of corruption; and (2) USAID approaches to supporting reformers and building systemic accountability.
+Examples of Existing Learning and Evidence
+Analysis of USAID Anticorruption Programming Worldwide (2007-2013)
+Combating Corruption Among Civil Servants: Interdisciplinary Perspective on What Works
+Aiding or Abetting? Cross-national Effects of Foreign Aid on CorruptionCombating Conservation Crime
+Learning Agenda
+5
+AFFIRMATIVE DEVELOPMENT
+How can USAID advance an affirmative, sustainable development approach to mitigate authoritarian or malign
+influences and actions?
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+18
+FROM THE AMERICAN PEOPLE
+Amid the 16-year democratic decline globally documented by Freedom House, nine more countries slipped
+into a state of autocracy in the last 5 years alone, affecting civil liberties of more than 300 million people.
+Authoritarians are using the COVID-19 pandemic as a further excuse to curb individual freedoms and tighten
+their grip on power. The pandemic has also tested the ability of fragile democracies that are trying to respond
+and maintain public confidence in their institutions. The People's Republic of China (PRC) increasingly
+supplies technological surveillance tools to other nations and uses its financial leverage to sway their actions.
+When countries turn to the governments of the PRC, Iran, Russia, and North Korea for investments and
+support, outcomes are detrimental to U.S. interests and overall progress toward reaching development goals.
+In response, USAID works to:
+-
+bolster democracy throughout the world when there is a political opening or an attempt to roll back
+democratic progress;
+-
+help countries fight misinformation and disinformation, increasingly used by malign actors to stoke
+public anger against democratically elected officials and civil society;
+-
+support activists and citizens subjected to digital repression by regimes that are becoming
+increasingly sophisticated at surveilling and censoring their populations;
+-
+continue to provide support for governments to align regulatory frameworks for emerging
+technologies with democratic values;
+-
+work to support independent and public interest media, helping journalists and whistleblowers
+withstand government repression, legal harassment, disinformation, and attacks on media outlets'
+financial viability; and
+-
+build the resilience of democratic institutions by supporting the separation of powers, including
+independent judiciaries and electoral institutions, and stronger legislatures.
+Question 5 focuses on building evidence and data to support Missions in knowing when and how to compete,
+counter, and engage with adversaries and competitors working in the same countries as USAID.
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values, and promote human dignity.
+JSP Goal IV: Revitalize the diplomatic and development workforce and infrastructure.
+Illustrative Learning Activities
+Countering People's Republic of China (PRC) Influence Fund (CPIF) Monitoring, Evaluation, and Learning
+VARIES PER CPIF ACTIVITY
+In FY 2020, USAID and the Department of State solicited and reviewed 167 proposals totaling $1.5 billion and selected
+84 innovative proposals from field Missions and Washington Bureaus to operationalize the Countering Chinese
+Influence Fund (CCIF; officially renamed the Countering PRC Influence Fund for FY 2022).
+USAID is working with the Department of State to determine monitoring, evaluation, and learning activities for the suite of CCIF-funded proposals.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+19
+FROM THE AMERICAN PEOPLE
+Examples of Existing Learning and Evidence
+V-Dem Democracy Report 2021 - Autocratization Turns Viral
+Theories of Democratic Change Phase II: Paths Away from Authoritarianism
+Countering Malign Kremlin Influence Development Framework - Implementation Report
+Democracy, Human Rights, and Governance Learning Agenda (Internal)
+6
+MIGRATION AND FORCED DISPLACEMENT
+How can USAID better address drivers of migration and forced displacement through evidence-informed
+decision-making?
+USAID programs related to migration and forced displacement span all regions in which the Agency works and
+often implicate both humanitarian and development assistance resources, tools, and approaches. For
+example, in Central America's Northern Triangle region, USAID plays an integral role in the implementation of
+the Biden-Harris Administration's whole-of-government approach to ensure orderly, safe, and humane
+migration, including the Root Causes Strategy and the Collaborative Migration Management Strategy.
+Question 6 focuses on the Agency's use of data and evidence in its work to address drivers of migration and
+forced displacement. Drivers (root causes, determinants) are the intersecting factors that, together, compel
+the movement of individuals, families, or population groups. USAID works with civil society, U.S. and local
+private-sector partners, faith-based groups, and partner-government officials to understand and address the
+interrelated economic, governance, and security conditions that contribute to migration and forced
+displacement. In doing so, the Agency seeks to leverage rigorous analysis of data, lessons learned from past
+programming, and local and worldwide expertise to bring together the latest evidence around drivers of
+migration and innovative approaches to address root causes of migration.
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values, and promote human dignity.
+JSP Goal IV: Revitalize the diplomatic and development workforce and infrastructure.
+Illustrative Learning Activities
+Interagency Root Causes Strategy Monitoring, Evaluation, and Learning (MEL) Plan and
+Semi-Annual Root Causes Strategy Results Reports
+DECEMBER 2021; SEMI-ANNUAL AND ANNUAL REPORTING
+USAID and the Department of State, with input from other departments/agencies, are developing an interagency
+Monitoring, Evaluation, and Learning (MEL) Plan for the U.S. Strategy to Address the Root Causes of Irregular Migration
+from Central America (Root Causes Strategy).
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+20
+FROM THE AMERICAN PEOPLE
+Per guidance from the National Security Council (NSC), USAID and the Department of State, in collaboration with other
+departments/agencies, produce semi-annual results reports. USAID and State submitted the first of these reports to the
+NSC and Office of the Vice President in November 2021. An early version of the draft Root Causes Strategy MEL Plan
+informed the structure and analysis of the November 2021 report, which highlighted preliminary results and context
+data organized by the five Root Causes Strategy pillars. Six U.S. agencies provided performance indicator data from
+more than 120 unique activities in Central America for the report. The context and performance metric data will be
+useful as benchmarks for comparing and analyzing future commitment and results data. Future semi-annual results
+reports will provide updated FY 2021 results data and incorporate new programs and data as Root Causes Strategy
+implementation matures. Starting in 2022, versions of the annual results reports prepared in the spring also will be
+submitted to Congress and published online, in line with legislative mandates.
+RCS results reports and reports to Congress
+Context indicators: Sourced to independent third-parties and national governments, context indicator values for specific countries are compared to
+regional and other benchmarks, as appropriate, and over time.
+Performance indicators: The November 2021 results report presented preliminary results data reported to U.S. agencies by implementing partners. These
+data primarily serve as a benchmark for analyzing future results data. They also provide an initial snapshot of short-term results that are expected to
+lead to longer-term outcomes. Future results reports will include data (results and targets) on these performance indicators, as well as additional
+indicators for recently launched and future programs.
+Vanderbilt University's AmericasBarometer and Latin American Public Opinion Project (LAPOP)
+BIENNIAL
+Vanderbilt University developed the AmericasBarometer-which USAID has partially funded since 2004-to monitor and
+analyze issues related to democratic governance, citizen security, migration intentions, and related issues in the Latin
+America and Caribbean (LAC) region. This survey has been a vital resource in designing, focusing, and evaluating USAID
+programs in Central America to better address the root causes of migration. Vanderbilt carried out the 2021 surveys in
+22 countries with more than 64,000 interviews. The team provides focused analysis of migration-related issues in El
+Salvador, Guatemala, and Honduras and has provided country-specific and region-wide briefings to LAC Missions, the
+LAC Bureau, and interagency partners.
+Vanderbilt University, the AmericasBarometer, and the Latin America Public Opinion Project (LAPOP) are widely recognized as the gold standard for
+methodological rigor. A detailed description of Vanderbilt's survey and sampling methods, as well as results of the surveys, is available here.
+Analysis of Migration data from Customs and Border Protection (CBP)
+ONGOING
+To fill data gaps on the number and demographic makeup (e.g., sub-national origins, age, sex) of individuals emigrating
+from El Salvador, Guatemala, and Honduras USAID began receiving and analyzing select origin data provided by CBP.
+Data were used to underpin a USAID-commissioned study on the statistical links between violence, development, and
+waves of Central American migrants to the United States. USAID expanded data sharing through a memorandum of
+understanding (MOU) signed by USAID and CBP in March 2020 that provides USAID regular access to data-including
+de-identified data on migrants' city and country of permanent residence-collected from Salvadoran, Guatemalan, and
+Honduran migrants encountered by CBP officials at the U.S.-Mexico border.
+Quantitative analysis of data from CPB.
+Examples of Existing Learning and Evidence
+USAID/Honduras Reducing Homicide and Migrations Rates through CLA
+Documenting Learning and Decisions in a Refugee Context in Uganda
+Foundational Skills Development Learning Agenda
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+21
+FROM THE AMERICAN PEOPLE
+7
+DIVERSITY, EQUITY, INCLUSION, AND ACCESSIBILITY
+How can USAID programs and operations mitigate harm to underrepresented and marginalized populations, while
+promoting equity and inclusion?
+In its operations, USAID is committed to a diverse, equitable, inclusive workplace where everyone has an
+opportunity to thrive. The Agency's Diversity, Equity, and Inclusion (DEI) Strategy commits USAID to improving
+and enhancing diversity throughout the Agency; enhancing inclusion and equity for everyone in the work
+place; and strengthening accountability for promoting and sustaining a diverse workforce and an inclusive
+Agency culture. Annual implementation plans will outline key tasks for each year of the DEI Strategic Plan. The
+Agency will monitor Strategic Plan performance via indicators outlined in a Monitoring and Learning Plan.
+Programmatically, USAID recognizes that historical marginalization, geographical isolation, cultural prejudice,
+racism, and other complex systemic challenges affected by power, privilege, opportunity, and access to
+resources have led to inequities and exclusion. Development efforts designed without intentional respect for,
+and participation by, underrepresented and marginalized populations can result, at best, to exclusion of these
+groups from equal access to benefits of development investments, and at worst, to disproportionate harm. To
+ensure that U.S. foreign assistance investments reduce (rather than reinforce) structural disparities, USAID
+seeks to advance equity and inclusion proactively and support the underserved.
+USAID achieves this, in part, through approaches to inclusive development; the concept that every person,
+regardless of their identity, is instrumental in transforming their societies. Development processes that are
+inclusive yield better outcomes for the communities that embark upon them. USAID promotes the rights and
+inclusion of marginalized and underrepresented populations in the development process and leads the U.S.
+government's response to addressing the needs of children in adversity and youth. USAID implements
+activities that combat stigma and discrimination, promote empowerment and inclusion of marginalized or
+underrepresented groups, and improve the lives of populations in high-risk situations.
+Question 7 considers how USAID can promote equity and inclusion in programs and operations, reduce
+disparities due to racial and ethnic identity and other drivers of vulnerability, and mitigate harm to
+underrepresented and marginalized populations. Evidence will inform how USAID can safeguard against or
+address any negative consequences to underrepresented or marginalized populations associated with Agency
+operational and programmatic policies and practices.
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values, and promote human dignity.
+JSP Goal IV: Revitalize the diplomatic and development workforce and infrastructure.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+22
+FROM THE AMERICAN PEOPLE
+Illustrative Learning Activities
+Agency Internal Equity Assessment Phased Learning Data Collection Support
+SPRING 2022
+USAID, in compliance with Executive Order 13985, conducted equity assessments on barriers to entry for potential
+partners and the different elements of the Civil Service employment life cycle. USAID will conduct additional equity
+assessments on the different elements of the Foreign Service employment life cycle and the different elements of the
+employment life cycle for non-direct-hire hiring mechanisms.
+A mixed-methods approach that utilizes both qualitative data collection and quantitative data analysis. USAID identified barriers to entry for potential
+USAID partners and analyzed promising employment practices at the Agency. USAID will engage in baseline metric data collection around its Diversity,
+Equity, and Inclusion monitoring and learning plan and will conduct an After-Action Review on the Foreign Service promotion process and an assessment
+of barriers to equity in the non-direct-hire hiring mechanisms.
+Examples of Existing Learning and Evidence
+USAID Racial Equity Assessment (Internal)
+Education in Crisis and Conflict Learning Agenda
+Diversity, Equity, and Inclusion MEL Plan (Internal)
+8
+LOCALLY-LED DEVELOPMENT
+How can USAID more equitably engage local knowledge, assets, and practices and align programming with local
+priorities and metrics for success?
+Locally-led development is the process in which local actors-individuals, communities, networks,
+organizations, private entities, and governments-set their own agendas, develop solutions, and bring the
+capacity, leadership, and resources to make those solutions a reality. USAID recognizes that local leadership
+and ownership are essential for fostering sustainable results across our development and humanitarian
+assistance work. Locally-led development is not a single approach, but a range of ways that USAID, its
+partners, and communities can work together to shift agenda-setting and decision-making power into the
+hands of local actors.
+To inform these shifts, Question 8 focuses on how USAID can more equitably engage the knowledge, assets,
+and practices of local actors. This means investigating and documenting promising local practices that can be
+amplified through our work, the ways that USAID currently interacts with local actors and knowledge systems,
+the power dynamics inherent to these engagements, and opportunities for local actors to lead technical
+direction and agenda setting. This question also aims to explore how USAID might better share data and
+evidence with local actors to support their initiatives and programs.
+USAID can catalyze and facilitate local leadership of development and humanitarian assistance in a variety of
+ways throughout the design, procurement, management, and measurement of assistance. Question 7
+additionally aims to explore how local priorities and metrics for success are and can be incorporated across
+the program cycle.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+23
+FROM THE AMERICAN PEOPLE
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values, and promote human dignity.
+JSP Goal IV: Revitalize the diplomatic and development workforce and infrastructure.
+Illustrative Learning Activities
+Stopping as Success + (SAS+)
+FY 2025 Q3
+Stopping as Success: Locally Led Transitions in Development (SAS+) builds on learning outcomes over the past three
+years from the consortium's existing evidence base about "what works" in responsible transitions. USAID-funded SAS+
+will enable development partnerships to be more locally led, transitions to be more effective and sustainable for the
+local actors involved, and systems of development actors (local organizations, international partners, and USAID) to be
+more responsive to the communities in which they work by applying, refining, and disseminating findings and tools
+from the first round of research (SAS, 2017-2020) through an accompaniment approach with existing development
+partnerships.
+Prime consortium partner CDA Collaborative Learning Projects (CDA) will leverage collaborative and participatory research methodologies to learn with
+local and international partners, communities, and organizations to create actionable evidence for more effective and accountable development efforts.
+Local Works
+FUNDING THROUGH AT LEAST FY 2025
+The congressionally-directed Local Works program advances locally led development around the world, while also
+enhancing USAID's ability to support local actors. With 5-year discretionary funds, Local Works provides Missions more
+time and greater freedom to pursue locally led programming and innovative ways of working with resources, tools, and
+opportunities to try new development approaches that are more flexible, locally responsive, and locally sustainable.
+Local Works collaborates with Missions, their local partners, and research partners to generate learning through the Local Works Community of Practice,
+partner-driven MEL and reporting, case studies, research & development activities (see SAS+, above), and evaluations.
+Local Knowledge Leading Practices in External Organizations
+JUNE 2022
+Through the support of Virtual Student Federal Service Interns, USAID is investigating how development organizations
+outside USAID approach local knowledge definitions; how and when local knowledge is used; what best practices exist;
+what other organizations' experiences have been; and where there is or is not consensus within the greater
+development sector on these topics.
+Literature review and interviews with a variety of development organizations (Public International Organizations, bilateral donors, nongovernmental
+organizations, activist groups, etc.).
+Pilot Testing Local Knowledge Tools
+DECEMBER 2022
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+24
+FROM THE AMERICAN PEOPLE
+USAID selected five tools, some internal and other external, that Missions can use to increase use of local knowledge in
+their programming. Draft summary sheets describing each tool were produced, and an exploration of how to pilot test
+and eventually scale up the use of these tools is ongoing.
+Iterative field testing followed by qualitative data collection from test users to improve the five tools.
+Examples of Existing Learning and Evidence
+Local Works Stories from the Field
+Locally-Led Development Research 2017-2020
+Recommendations for Improving Capacity Strengthening Approaches
+Developing Locally-Relevant Measure of CommitmentHigher Education Learning Agenda
+9
+PARTNERING FOR SUSTAINABILITY
+How can USAID's partnerships with the private sector; local, faith, and nontraditional partners; and other donors
+contribute to sustainable development objectives?
+Today, private sources represent more than 90 percent of financial flows into emerging markets. Inclusive
+growth can only be achieved when USAID works with the private sector-as a driver of capital markets- to
+spur greater development impact. Our approach to global development is enterprise-driven. The Agency is
+undergoing an intentional shift toward pursuing market-based approaches and investment as a more
+sustainable way to empower people and communities worldwide.
+Simultaneously, the Agency's New Partnerships Initiative helps USAID partner with new, nontraditional, and
+local actors to advance their development goals-while elevating the quality of our partnerships through
+strengthened accountability, capacity, and local leadership. USAID supports partnerships that promote local
+leadership; seeks innovative approaches to strengthening the capacity, performance, and accountability
+structures of our partner ecosystem; and identifies new and nontraditional sources of funding to sustain
+partnerships and scale impact. USAID also works with bilateral donor organizations like the United Kingdom,
+Japan, and Sweden; multilateral organizations, such as the World Bank Group, other Regional Development
+Banks and the various United Nations agencies; and country partners who may still receive assistance, such as
+India, South Africa, and Indonesia. By coordinating and working closely with other donors, USAID improves
+the delivery, impact, and sustainability of development assistance, thereby maximizing development results.
+Question 9 will look across a range of USAID approaches to partnering, to better understand how partnerships
+with specific actors contribute toward sustained development results.
+Connections to Strategy
+JSP Goal I: Renew U.S. leadership and mobilize coalitions to address the global challenges that have
+the greatest impact on Americans' security and well-being.
+JSP Goal II: Promote global prosperity and shape an international environment in which the United
+States can thrive.
+JSP Goal III: Strengthen democratic institutions, uphold universal values, and promote human dignity.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+25
+FROM THE AMERICAN PEOPLE
+Illustrative Learning Activities
+Enduring Results 4.0
+FY 2023 Q1
+The Enduring Results 4.0 Study will examine the drivers of sustainability and scale in USAID's partnerships with the
+private sector. The study will identify factors that have contributed to the continuity of activities and outcomes and the
+role that partners play in enabling enduring results. The study will build on the work done in the third iteration of the
+Enduring Results series.
+The study will utilize data from multiple sources, including the Agency's public-private partnership database and interviews with USAID staff,
+implementing partner staff, and private-sector partners. The findings from these interviews will be examined through a framework designed for the
+Enduring Results series.
+Private Sector Engagement (PSE) Evidence Gap Map Phase II
+FY 2023 Q1
+The Private-Sector Engagement (PSE) Evidence Gap Map (EGM) facilitates the use of evidence in PSE approaches and
+helps to identify knowledge gaps. The tool consolidates the breadth of PSE research and evidence available both
+internal and external to USAID. In phase II of the EGM, additional evidence will be added to the repository and evidence
+synthesis reports will be created for priority topics.
+New evidence will be identified through a targeted search strategy that includes key terms related to private-sector engagement in development. More
+information on the methodology can be found here.
+USAID Partnering Process Analysis
+FY 2022 Q2
+Using systems engineering and multi-stakeholder perspective approaches to examine the end-to-end private-sector
+engagement process employed by USAID from problem definition, partner selection, engagement negotiation,
+implementation, and closeout to: 1) map out the engagement processes; 2) identify bottlenecks and root causes that
+affect PSE formation, operations, relationships, and health using a systems approach; and 3) identify leading practices
+to address these challenges.
+Qualitative research methods including process mapping techniques, focus group discussions, semi-structured interviews, in-depth multiple cases study
+analysis, and narrative analyses were used.
+Examples of Existing Learning and Evidence
+Private-Sector Engagement Evidence Gap Map
+Enduring Results Study 3.0
+PIVOT-SRLA Learning Review
+Stories from the New Partnerships Initiative
+Multi-Donor Learning Partnership for Development Impact
+Private Sector Engagement Evidence and Learning Strategy
+PIVOT: Practical, Innovative, On-the-Job Training Cohort Program
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+26
+FROM THE AMERICAN PEOPLE
+ANNEX C: FURTHER OPPORTUNITIES FOR EXTERNAL
+COLLABORATION ON AGENCY LEARNING
+Department of State
+The Evaluation Officers Council and other interagency meetings provide
+and Interagency
+opportunities for evidence exchange around shared learning priorities.
+Implementing and local partners play an essential role in advancing USAID's learning
+and can contribute to the learning agenda by:
+Submitting concept notes, applications, and proposals that incorporate
+learning questions, objectives, and best practices in data collection,
+Implementing and
+reporting, and evaluation in support of the Agency Learning Agenda
+Local Partners
+Working with USAID to co-design research aligned to the learning agenda.
+Informing USAID of new findings related to learning agenda themes.
+Disseminating findings from the learning agenda within their organizations
+and across relevant networks.
+Applying findings from the learning agenda to the implementation of USAID
+activities
+Individual researchers, research institutions, and Higher Education Institutions play a
+unique role in advancing USAID's learning by generating knowledge through basic
+and applied research, supporting its application, and developing solutions that
+contribute to development and innovation. Researchers can contribute to the Agency
+Learning Agenda by:
+Aligning research interests of faculty and students with the questions and
+themes to co-design and complete research projects of mutual interest and
+Researchers and
+benefit.
+HEIs
+Informing USAID of knowledge and research related to learning agenda
+themes.
+Responding to anticipated requests and calls for information and research
+on specific topics.
+Joining new and existing networks and communities of practices to foster
+additional interest and collaborations.
+Using findings from the Agency Learning Agenda to inform research and
+networks.
+Think Tanks play a fundamental role in disseminating evidence to drive
+Think Tanks
+policymaking.
+USAID's participation in the Multi-donor Learning Partnership and other donor
+Other Donors
+coalitions fosters collaboration in evidence synthesis and identification of evidence
+gaps.
+USAID
+FY 2022-2026 USAID Agency Learning Agenda
+27
+FROM THE AMERICAN F PEOPLE

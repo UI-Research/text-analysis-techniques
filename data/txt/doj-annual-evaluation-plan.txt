@@ -1,0 +1,18 @@
+"doj.annual.evaluation.plan"
+"1" "An official website of the United States government"
+"2" "Here’s how you know"
+"3" "Official websites use .gov
+A .gov website belongs to an official government organization in the United States."
+"4" "Secure .gov websites use HTTPS
+A lock (LockA locked padlock) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites."
+"5" "The Foundations for Evidence-Based Policymaking Act of 2018 (\"Evidence Act”) emphasizes collaboration and coordination to advance data and evidence-building functions in the Federal Government. Title I of the Evidence Act mandates a number of activities related to evidence building and evaluation; other titles focus on open government data and confidential information protection and statistical efficiency."
+"6" "The Department’s Evaluation Officer provides leadership over evidence-building activities under Title I of the Evidence Act, in coordination with the Statistical Official and the Chief Data Officer. For more information on these three officials, see the Open Data page."
+"7" "In accordance with Title I of the Evidence Act, the Department of Justice:"
+"8" "The Learning Agenda is a plan for addressing important evidence gaps related to the Department’s strategic goals and objectives. It is built around a set of priority questions that can be answered through rigorous evidence building, including research, evaluation, statistics, and analysis. The evidence built around each one of these questions will advance the Department’s ability to effectively achieve its strategic goals and objectives, both in the short term and in the long term."
+"9" "The Learning Agenda is published every four years as part of the Department’s Strategic Plan, and is revisited and updated annually. The current Learning Agenda is available as a chapter in the FY 2022-2026 Strategic Plan."
+"10" "Learning Agenda (FY 2022-2026)"
+"11" "The Capacity Assessment describes the Department’s capacity for building and using evidence to support decisions about programs and policies – and, in particular, its capacity for evaluation, statistics, research, and analysis. It is intended to describe current capacity and identify areas for growth."
+"12" "Like the Learning Agenda, the Capacity Assessment is published every four years as part of the Department’s Strategic Plan. The current Capacity Assessment is available as an appendix in the FY 2022-2026 Strategic Plan."
+"13" "Capacity Assessment (FY 2022-2026)"
+"14" "The Annual Evaluation Plan describes the significant evaluations the Department will conduct in each fiscal year."
+"15" "FY 2022"

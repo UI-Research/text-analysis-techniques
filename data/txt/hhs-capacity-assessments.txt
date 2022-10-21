@@ -1,0 +1,1646 @@
+SERVICES USA
+of
+U.S. DEPARTMENT OF HEALTH
+AND HUMAN SERVICES
+Capacity Assessment
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Contents
+Introduction
+2
+Methods and Approach
+2
+Assessment of Coverage, Quality, Methods, Effectiveness, and Independence of HHS Statistics,
+Evaluation, Research, and Analysis
+5
+Assessment Area: Coverage
+7
+Assessment Area: Quality
+8
+Assessment Area: Methods
+11
+Assessment Area: Effectiveness
+14
+Assessment Area: Independence
+17
+The extent to which the evaluations, research, and analysis efforts and related activities of the agency
+support the needs of various divisions within the agency (5 USC $306(a)(9)(B))
+20
+The extent to which the evaluation, research, and analysis efforts and related activities of the agency
+address an appropriate balance between needs related to organizational learning, ongoing program
+management, performance management, strategic management, interagency and private sector
+coordination, internal and external oversight, and accountability (5 USC $306(a)(9)(C))
+22
+The extent to which the agency uses methods and combinations of methods that are appropriate to
+agency divisions and corresponding research questions being addressed, including an appropriate
+combination of formative and summative evaluation research and analysis approaches (5 USC
+$306(a)(9)(D)
+23
+The extent to which evaluation and research capacity is present within the agency to include personnel
+and agency processes for planning and implementing evaluation activities, disseminating best practices
+and findings, and incorporating employee views and feedback (5 USC $306(a)(9)(E))
+24
+The extent to which the agency has the capacity to assist agency staff and program offices to develop
+the capacity to use evaluation research and analysis approaches and data in the day-to-day operations
+(5 USC $306(a)(9)(F))
+25
+Appendix A: List of Activities Policies and Requirements
+26
+Appendix B: Policies and Requirements Pertaining to Assessment Areas
+31
+Page 1 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Introduction
+As required by the Foundations for Evidence-Based Policymaking Act of 2018 (Evidence Act), the
+Department of Health and Human Services (HHS) has conducted an assessment of the agency's
+evaluation and evidence-building capacity. In September of 2020, HHS submitted an interim HHS
+Capacity Assessment to the Office of Management and Budget (OMB). This document is the Draft
+Capacity Assessment called for in OMB memorandum M-19-23, M-21-27, and Circular A-11.
+The Capacity Assessment requires agencies to assess the coverage, quality, methods, effectiveness, and
+independence of their statistics, evaluation, research, and analysis efforts. Agencies must also address
+the following as part of the Capacity Assessment for Statistics, Evaluation, Research, and Analysis:
+A list of the activities (e.g., programs, initiatives, etc.) and operations (e.g., administrative and
+support tasks) of the agency that are currently being evaluated and analyzed;
+The extent to which the evaluations, research, and analysis efforts and related activities of the
+agency support the needs of various divisions within the agency;
+The extent to which the evaluation, research, and analysis efforts and related activities of the
+agency address an appropriate balance between needs related to organizational learning,
+ongoing program management, performance management, strategic management, interagency
+and private sector coordination, internal and external oversight, and accountability;
+The extent to which evaluation and research capacity is present within the agency to
+include personnel and agency processes for planning and implementing evaluation activities,
+disseminating best practices and findings, and incorporating employee views and feedback;
+and
+The extent to which the agency has the capacity to assist agency staff and program offices to
+develop the capacity to use evaluation research and analysis approaches and data in the day-to-
+day operations.
+In drafting the Capacity Assessment, OMB has encouraged agencies to use a format, process, and
+structure that best meets their specific context. There is no template or specific format for this
+document, but OMB expects that each agency's assessment will include discussion and analysis of the
+five criteria (i.e., coverage, quality, methods, effectiveness, and independence) for their statistics,
+evaluation, research, and analysis activities, including the specific components in the bullets above. To
+meet the requirements of the Capacity Assessment HHS has employed a multi-method approach
+to conduct the Capacity Assessment as described below. All activities described in this document are
+subject to availability of appropriations.
+Methods and Approach
+HHS has employed the following approaches to meet the requirements of the Capacity Assessment,
+proposed by the Division of Evidence, Evaluation and Data Policy in the Office of the Assistant Secretary
+for Planning and Evaluation and approved by the HHS Evidence and Evaluation (E&E) Council. The
+Council predates the Evidence Act and is made up of senior evaluation staff and subject matter experts
+from each agency within HHS. The Council meets monthly to address issues related to evidence-building
+and evaluation policies or activities across HHS, with a recent focus on Evidence Act implementation
+Page 2 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+activities. The assessment employed multiple methods and builds upon the previous efforts initiated for
+the Interim Capacity Assessment. These methods included:
+Incorporating results from the Interim Capacity Assessment staff survey;
+Identifying existing requirements pertaining to the assessment areas;
+Determining the scope of activities and operations being evaluated and analyzed in alignment
+with other Evidence Act materials;
+Conducting key informant interviews with the three Evidence Act designated officials;
+Consulting HHS Evidence & Evaluation Council; and
+Engaging stakeholders
+More detail is provided below on these approaches.
+1. Results from the Interim Capacity Assessment staff survey
+To determine baseline levels of capacity for building and using evidence within the Department, HHS
+conducted a survey of evaluation staff across May and June of 2020. This survey was distributed through
+the HHS Evidence and Evaluation Council and received 72 responses across 12 operating and staff
+divisions. This survey and analysis of results was used to create the high-level baseline and findings for
+the previously submitted interim Capacity Assessment. These results and responses to OMB comments
+on the results are reflected in the final HHS Capacity Assessment.
+2. Requirements Pertaining to the Assessment Areas
+The capacity assessment identified existing policies, standards, and practices that require and support
+the quality, methods, effectiveness, and independence of agency evaluations, statistics, research, and
+analysis. This was accomplished by a review of agency websites and publications, supplemented by key
+informant interviews. The results identified current policies, directives, memorandum, and other
+documents issued by OMB, the Department, and relevant external organizations to ensure quality,
+appropriate methodology, effectiveness, and independence. Many of these policies and procedures
+were established in order to comply with legislative and regulatory requirements, such as OMB's
+Guidelines implementing the Information Quality Act and related Federal guidelines and Memorandum.
+Current OMB Directives and Guidelines include additional specific practices and procedures that ensure
+the quality, effectiveness, appropriate methods, and independence of evaluations, statistics, research,
+and analysis conducted by HHS. HHS has drawn upon these existing federal policies and guidance as
+well as agency policies in developing the HHS Capacity Assessment.
+3. List of Activities and Operations of the Agency that are Currently being Evaluated and
+Analyzed
+HHS has defined the scope for the Department's activities and operations that are currently being
+evaluated and analyzed in order to compile a manageable list of activities that are meaningful and
+significant, focused on HHS priority goals and strategic initiatives. Major statistical activities and
+significant program evaluations are in scope, for example, while program evaluations as a condition of
+grant awards are generally excluded, along with audits and investigations. HHS is including with this
+submission a list of significant activities and operations for each of the priority questions identified in
+the HHS Evidence Building plan. These priority areas, in alignment with the HHS 2023-2026 Strategic
+Plan, are: 1) Health Care: Protect and Strengthen Equitable Access to High Quality and Affordable Health
+Page 3 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Care; 2) Human Services: Strengthen Social Well-being, Equity, and Economic Resilience; 3) Research &
+Evidence: Restore Trust and Accelerate Advancements in Science and Research for All; 4) Public Health:
+Safeguard and Improve National and Global Health Conditions and Outcomes; and, 5) Management:
+Advance Strategic Management to Build Trust, Transparency, and Accountability.
+4. Interviews with Evidence Act Designated Officials
+The Chief Data Officer, Evaluation Officer, and Statistical Official play a significant role in capacity
+development across HHS' statistics, evaluation, research, and analysis efforts and each official has
+insight into different aspects of the agency's capacity to carry out these efforts. These designated
+officials have coordinated efforts throughout the implementation of the Evidence Act and each was
+interviewed for the final Capacity Assessment to ensure that their insights are included.
+5. Consult HHS Evidence and Evaluation Council
+The HHS E&E Council functions as a forum for leaders and subject matter experts in evaluation and
+evidence-building across the agency to coordinate on cross-agency issues. The diversity of HHS agencies
+in terms of size, mission, and activities creates challenges for developing a single Capacity Assessment
+that is both comprehensive and accurate across agencies. Members of the Council are uniquely
+positioned to provide input on the Capacity Assessment, particularly in terms of identifying trends that
+apply across operating and staff divisions. The E&E Council predates the Evidence Act and is composed
+of evaluation staff and leadership from across the Department, with expertise in evaluation, evidence-
+building, statistics, and data policy. The Council and its Capacity Assessment Subcommittee have
+provided cross-departmental coordination and feedback throughout the process.
+6. Engage Key Stakeholders
+Agencies are to engage with internal and external stakeholders throughout the process to ensure that
+the capacity assessment is relevant and meaningful to those with direct interests in the agency's
+functions. OMB has provided flexibility for agencies to gather input in the manner that best meets their
+needs and leverages existing activities and/or requirements whenever possible. HHS engaged
+stakeholders with varying levels and types of expertise and influence across the Department, utilizing
+existing communication channels and bodies, such as the HHS E&E Council. The E&E Council, and
+specifically a Capacity Assessment Subcommittee, have supported development of the Capacity
+Assessment, cross-department coordination, and identification of stakeholders to be engaged.
+Stakeholders include the three Evidence Act designated officials-the Chief Data Officer (CDO),
+Evaluation Officer (EO), and Statistical Official (SO) as well as HHS leadership, operating and staff
+divisions, and evaluation staff and leadership across the Department. Specific stakeholders are listed
+below:
+HHS leadership
+Operating and staff divisions
+Chief Data Officer (CDO), Kevin M. Duvall
+Evaluation Officer (EO), Laina Bush
+Statistical Official (SO), Brian Moyer
+Evidence & Evaluation Council
+Capacity Assessment Subcommittee
+Page 4 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Other federal agency Evidence Act leadership and staff
+The Office of Management & Budget
+Assessment of Coverage, Quality, Methods, Effectiveness, and Independence of HHS
+Statistics, Evaluation, Research, and Analysis
+HHS has drawn upon existing federal policies and guidance identified in Circular A-11 as well as agency
+policies and guidance from relevant external entities in developing the HHS Capacity Assessment. The
+capacity assessment identified existing policies, standards, and practices that require and support the
+quality, methods, effectiveness, and independence of agency evaluations, statistics, research, and
+analysis. This was accomplished by a review of agency websites and publications, supplemented by key
+informant interviews. The results identified current policies, directives, memorandum, and other
+documents issued by OMB, the Department, and relevant external organizations to ensure quality,
+appropriate methodology, effectiveness, and independence. Many of these policies and procedures
+were established in order to comply with legislative and regulatory requirements, such as OMB's
+Guidelines implementing the Information Quality Act and related Federal guidelines and Memorandum.
+Current OMB Directives and Guidelines include additional specific practices and procedures that ensure
+the quality, effectiveness, appropriate methods, and independence of evaluations, statistics, research,
+and analysis conducted by HHS.
+These materials provide or inform a common foundation for agency evaluations, statistics, research, and
+analysis. Taken as a whole, these complementary requirements contribute to an integrative framework
+guiding the conduct of Federal evaluations, statistics, research, and analysis to ensure quality,
+appropriate methods, effectiveness, and independence.
+The following documents contain guidance and requirements for federal evaluations, statistics,
+research, and analysis and provide a foundation for the Department to assess the coverage, quality,
+methods, effectiveness, and independence of these HHS activities.
+OMB Memorandum M-19-15, Improving Implementation of the Information Quality Act
+OMB Memorandum M-19-18, Federal Data Strategy - A Framework for Consistency
+OMB Memorandum M-19-23, Phase / Implementation of the Foundations for Evidence-Based
+Policymaking Act of 2018: Learning Agendas, Personnel, and Planning Guidance
+OMB Memorandum M-20-12, Phase 4 Implementation of the Foundations for Evidence-Based
+Policymaking Act of 2018: Program Evaluation Standards and Practices
+OMB Memorandum M-21-27 Evidence-Based Policymaking: Learning Agendas and Annual
+Evaluation Plans
+OMB Circular A-11, Part 6, Section 290 Evaluation and Evidence-Building Activities
+OMB Guidelines for Ensuring and Maximizing the Quality, Objectivity, Utility, and Integrity of
+Information Disseminated by Federal Agencies
+OMB Standards and Guidelines for Statistical Surveys
+OMB Guidance on Agency Survey and Statistical Information Collections
+OMB Statistical Policy Directives, No. 1, 2, and 4
+Paperwork Reduction Act of 1995
+National Academics of Sciences, Engineering, and Medicine. Principles and Practices for a
+Federal Statistical Agency, 7th edition. (Washington, DC: National Academies Press, 2021)
+Page 5 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+National Academies of Sciences, Engineering, and Medicine. Principles and Practices for Federal
+Program Evaluation: Proceedings of a Workshop (Washington, DC: National Academies Press,
+2017)
+National Academies of Sciences, Engineering, and Medicine. Fostering Integrity in Research
+(Washington, DC: National Academies Press, 2017)
+Federal Committee on Statistical Methodology, A Framework for Data Quality
+Presidential Memorandum, Restoring Trust in Government Through Scientific Integrity and
+Evidence-Based Policymaking
+HHS Policies and Guidance
+Evaluation Policy for the Department of Health and Human Services
+(https://aspe.hhs.gov/sites/default/files/migrated_legacy_files//200386/hhs-evaluation-
+policy.pdf)
+Administration for Children and Families, HHS. Common Framework for Research and Evaluation
+(https://www.acf.hhs.gov/sites/default/files/documents/opre/acf_common_framework_for_
+search_and_evaluation_vO2_a.pdf)
+Administration for Children and Families, HHS. ACF Evaluation Policy
+(https://www.acf.hhs.gov/sites/default/files/documents/opre/acf-evaluation-policy-november-
+9-2021.pdf)
+Center for Disease Control and Prevention, HHS. Framework for Program Evaluation in Public
+Health (https://www.cdc.gov/mmwr/PDF/rr/rr4811.pdf
+National Institutes of Health, HHS. NIH Policies and Procedures for Promoting Scientific Integrity
+(https://www.nih.gov/sites/default/files/about-nih/nih-director/testimonies/nih-policies-
+procedures-promoting-scientific-integrity-2012.pdf)
+Department of Health and Human Services. Policies and Principles for Assuring Scientific
+Integrity (https://aspe.hhs.gov/reports/policies-principles-assuring-scientific-integrity)
+National Center for Health Statistics, HHS. Statement of Commitment to Scientific Integrity by
+Principal Statistical Agencies
+ (https://nces.ed.gov/whatsnew/commissioner/pdf/scientific_integrity_statement.pdf)
+Health Resources and Services Administration, HHS. Evaluation Guide for HRSA Project Officers
+(https://www.healthworkforceta.org/wp-
+content/uploads/2019/09/Evaluation_Guide_for_HRSA_Project_Officers.pdf)
+Food and Drug Administration Key Principles of Scientific Integrity and Staff Manual Guide,
+Scientific Integrity at FDA (https://www.fda.gov/media/82932/download
+Administration for Community Living, ACL Evaluation Policy
+(https://acl.gov/sites/default/files/programs/2021-
+ 09/ACL%20evaluation%20policy%2OUpdated%202021.pdf)
+Indian Health Service, Evaluation Policy (https://www.ihs.gov/dper/evaluation/evaluation-
+policy/)
+HHS Information Quality Guidelines (https://aspe.hhs.gov/reports/hhs-guidelines-ensuring
+ maximizing-quality-objectivity-utility-integrity-information-disseminated
+Page 6 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Assessment Area: Coverage of Evaluations, Statistics, Research and Analysis Activities
+Statutory Language: a list of the activities and operations of the agency that are currently being
+evaluated and analyzed 5 USC $306(a)(9)(A)
+The capacity assessment includes a list of activities (e.g., programs, initiatives, etc.) and operations (e.g.,
+administrative and support tasks) of the agency that are currently being evaluated and analyzed. OMB
+Circular A-11 has indicated that the list of activities provides information on the coverage within the
+agency, describing what efforts are ongoing and where these efforts are within the agency. HHS
+conducts a substantial number of evaluations, statistical, research and analysis activities and not all are
+included here. For purposes of providing a meaningful list that demonstrates the coverage of these
+activities, specific examples were selected that highlight the missions and scope of programs across the
+Department. Excluded from the list are audits and investigations, market research, customer satisfaction
+research, budget analysis and Enterprise Risk Analysis. The table in Appendix A provides the list of
+activities in HHS by title and type of activity.
+The majority of activities in Appendix A fall under the purview of the Paperwork Reduction Act and have
+been reviewed and approved by OMB for the collection of information associated with the activity.
+More detail and information on the purpose and use, methodology, and instruments used for data
+collection is available on the Information Collection Review site from OMB. For purposes of describing
+the activities in this table, the following definitions found in statute or regulations were used:
+Evaluation: The Foundations for Evidence-Based Policymaking Act describes evaluation as an
+assessment using systematic data collection and analysis of one or more programs, policies, and
+organizations intended to assess their effectiveness and efficiency. Evaluation involves the systematic
+collection and analysis of information about the characteristics and outcomes of the program, including
+projects conducted under such program, as a basis for making judgments and evaluations regarding the
+program; improving program effectiveness; and informing decisions about current and future
+programming. Evaluation activities in the list include process evaluations, formative evaluations,
+outcome/impact evaluations, and descriptive studies (OMB M-18-04; OMB M-19-23; OMB M-20-12).
+Statistical activities: The collection, compilation, processing, or analysis of data for the purpose of
+describing or making estimates concerning the whole, or relevant groups or components within, the
+economy, society, or the natural environment; and incudes the development of methods or resources
+that support those activities, such as measurement methods, models, statistical classifications, or
+sampling frames (44 USC § 3561(10)). Statistical activities in the list include data collection,
+measurement, and methodological activities.
+Research and analysis: Federal regulations under 45 CFR $46.102 define research as a systematic
+investigation, including development, testing, and evaluation, designed to develop or contribute to
+generalizable knowledge. Research and analysis activities may overlap with other activities (e.g.,
+statistics and evaluation) depending on methods and purpose, and include: foundational fact finding,
+research and development activities, and policy and program analysis.
+With its 11 operating divisions, HHS administers a broad range of health and human services and fosters
+sound, sustained advances in the sciences underlying medicine, public health, and social services. This
+list of activities that are currently being evaluated and analyzed (a) provides information on the
+coverage of efforts across HHS and (b) informs the assessment of the extent to which these activities
+Page 7 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+meet the needs of the Department. The HHS FY 2022-2026 Strategic Plan includes five priority areas
+that the activities above cover: 1) Health Care: Protect and Strengthen Equitable Access to High Quality
+and Affordable Health Care; 2) Public Health: Safeguard and Improve National and Global Health
+Conditions and Outcomes; 3) Human Services: Strengthen Social Well-being, Equity, and Economic
+Resilience; 4) Research & Evidence: Restore Trust and Accelerate Advancements in Science and Research
+for All;and, 5) Management: Advance Strategic Management to Build Trust, Transparency, and
+Accountability.
+Some activities in the list above address multiple priority areas. For example, the Centers for Disease
+Control and Prevention (CDC) Public Health Science Agenda for COVID-19 guides the development of the
+evidence base needed to strengthen the public health actions, guidance, and policy essential to limit the
+spread and impact of SARS-CoV-2. In addition to specific clinical actions, the science agenda includes
+focused efforts on surveillance, epidemiologic investigations, and mathematical modeling. This agenda
+is pursuing multiple lines of research, including assessments of different types of specimens, assays,
+serial testing strategies and additional research and analytic efforts to advance the understanding of
+COVID-19 and mitigate its impact. This effort supports the priority area of Research and Evidence as well
+as the Public Health priority area, and includes evaluation, statistical, research and analytical activities.
+Other activities address a single priority area, such as CMS's Evaluation of the Value-Based Insurance
+Design Model which addresses the Health Care priority area.
+Assessment Area: Quality of Evaluations, Statistics, Research and Analysis Activities
+The assessment area of quality is described in OMB Circular A-11 as whether the data that are used are
+of high quality with respect to utility, objectivity, and integrity. Objectivity, utility, and integrity are
+components of a basic standard of quality as outlined in OMB's Guidelines for Ensuring and Maximizing
+the Quality, Objectivity, Utility, and Integrity of Information Disseminated by Federal Agencies. They
+also serve as the domains of data quality in the Federal Committee on Statistical Methodology's
+Framework for Data Quality.
+HHS guidelines implementing OMB requirements under the Information Quality Act (Pub. L. 106-555,
+section 515) serve to ensure and maximize the quality, objectivity, utility, and integrity of information
+disseminated by federal agencies. These guidelines ensure that disseminated information meets a
+certain level of quality, and that more important information meets a more rigorous quality standard.
+The guidelines pertain to agency information that is disseminated to the public, and the internal
+processes for the quality of information, methods
+and approaches that are used in the Department's
+evaluations, research, analysis, or statistical
+POLICIES & GUIDANCE FOR QUALITY OF HHS
+reporting.
+EVALUATIONS, STATISTICS, RESEARCH & ANALYSIS
+Evaluations
+OMB Guidelines for Ensuring and Maximizing the
+Evaluation as defined in the Foundations for
+Quality, Objectivity, Utility, and Integrity of
+Evidence-Based Policymaking Act (Public Law 115-
+Information Disseminated by Federal Agencies
+435) means an assessment using systematic data
+collection and analysis of one or more programs,
+Paperwork Reduction Act Requirements
+policies, and organizations intended to assess
+Page 8 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+their effectiveness and efficiency. HHS issued the Evaluation Policy for the Department of Health and
+Human Services to affirm and implement the Department's commitment to systematic evaluations of
+programs and services that are of high-quality and support decision-making build on evidence. This
+policy was strongly guided by OMB's memorandum M-20-12 on Program Evaluation Standards and
+Practices which are designed to improve the quality and use of evaluations across Federal agencies.
+The standards and practices issued by OMB for federal program evaluations have been disseminated
+across the Department to improve HHS program evaluations and inform evaluation staff as they
+implement Evidence Act requirements. The issuance of the standards, and the release of the HHS
+Evaluation Policy, are moving the Department to continued improvements in the quality of agency
+evaluations.
+Evaluation at HHS is conducted across the Department to ensure program, policy, and organizational
+quality as well as to develop evidence to inform the development of new programs, policies, and
+organizations within HHS. The Evaluation Officer of HHS is situated in the Office of the Assistant
+Secretary of Planning and Evaluation (ASPE) in the Office of the Secretary of HHS. However, evaluations
+and support for evaluators at HHS occur throughout the agency as operating and staff divisions can
+include evaluation support staff, evaluation directors, and evaluators. Both the evaluation staff and the
+evaluations vary across HHS in terms of maturity and capacity, depending upon agency mission, budget,
+and priorities. The Evaluation Officer provides support to staff and operating divisions in the form of
+coordination and dissemination of best practices through the Evidence and Evaluation Council.
+HHS ensures a high standard of evaluation quality through culture, policy, and a skilled and qualified
+staff. HHS has a culture and history of maintaining quality research, analysis, statistics, and evaluation.
+HHS evaluation staff members are proud to uphold the scientific reputation of HHS. Many evaluation
+staff are active members of professional associations such as the American Evaluation Association, and
+HHS encourages staff to participate in trainings, conferences, and professional associations. The
+capacity assessment survey found that nearly all the Operating Divisions (OpDivs) and Staff Divisions
+(StaffDivs) participating in the Capacity Assessment Survey stated that their organization communicated
+with external stakeholders through training and technical assistance, expert and stakeholder
+consultation, Federal Advisory Committees, and other conferences and events. Additionally, the vast
+majority of all survey respondents, including respondents at every staff and operating division,
+expressed belief that staff are encouraged to actively ask questions, gather information, and think
+critically about how to improve their own work.
+Some OpDivs in HHS have developed additional policies and procedures to ensure quality of evaluation
+activities. For example, the CDC Evaluation Resources and Tools include best practices and strategies,
+logic models, health communication tools, health impact assessments, data resources, indicators, and
+measures for evaluations to assist federal staff, states, and grantees. In addition, CDC utilizes a set of 30
+standards that assess the quality of evaluation activities, determining whether a set of evaluative
+activities are well-designed and working to their potential. These standards were adopted from the Joint
+Committee on Standards for Educational Evaluation. In addition, CDC has Evaluation Guidelines and
+Recommendations to inform evaluation planning and implementation in order to increase the use of
+evaluation data for continuous program improvement throughout the agency.
+Page 9 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Statistics
+Statistics produced across HHS provide information that is used to inform decisions regarding policy and
+program needs, improvements and effectiveness. The principal federal statistical agency for health at
+HHS is the CDC's National Center for Health Statistics (NCHS), whose activities are predominantly the
+collection, compilation, processing, or analysis of information for statistical purposes as defined by the
+Evidence Act (44 U.S.C. 3561(10)). HHS also relies upon statistics produced by a substantial number of
+programs across the Department that are engaged in statistical activities and other evidence-building
+functions.
+NCHS has applicable quality requirements specific to Federal statistical agencies, and OMB's Statistical
+and Science Policy Office, headed by the U.S. Chief Statistician, coordinates the activities of the Federal
+Statistical System. This coordination ensures the efficiency and effectiveness of the system, as well as
+the relevance, accuracy, objectivity, and confidentiality of information collected for statistical purposes.
+In this role, OMB's Statistical Policy Directives provide support for the quality of statistical information.
+OMB's Statistical Policy Directive No. 1, Fundamental Responsibilities of Federal Statistical Agencies and
+Recognized Statistical Units affirms the responsibilities of Federal statistical agencies in the design,
+collection, processing, editing, compilation, storage, analysis, release, and dissemination of statistical
+information.
+NCHS is also guided by the National Academies of Sciences, Engineering, and Medicine's Principles and
+Practices for a Federal Statistical Agency. 1 These include principles regarding the relevance of statistical
+information, that it be objective and accurate, and a commitment to quality and professional standards
+of practice.
+In assuring quality, NCHS and other statistical programs in HHS must comply with guidelines for
+Information Quality, and NCHS also conducts assessments of data quality as a routine practice. In
+addition, the Paperwork Reduction Act provides an assurance of certain quality requirements in order to
+obtain approval from OMB to conduct information collections associated with statistical activities.
+Taken together, the policies, documents, and requirements mentioned here provide a common
+foundation to ensure the quality of statistical activities and guide the production of statistics produced
+by HHS.
+As the principal federal statistical agency for health, NCHS routinely conducts assessments of the quality
+of data and statistics produced by the agency. Examples include a Preliminary Evaluation of
+Nonresponse Bias Due to the COVID-19 Pandemic on National Health Interview Survey Estimates, April-
+June 2020 and Assessing Linkage Eligibility Bias in the National Health Interview Survey.
+Our review found that the major programs conducting statistical activities across HHS produce
+publications and presentations that disseminate information on data quality, statistical briefs,
+methodological reports, and documentation. These include reports providing information on sample
+design for surveys, data collection procedures, major aspects of data processing such as the
+development of analytic weights, as well as information on statistical measures and tests, suppression
+criteria, and analytic guidelines.
+1https://www.nationalacademies.org/our-work/7th-edition-of-principles-and-practices-for-a-federal-statistical-
+agency
+Page 10 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Research and Analysis
+HHS currently uses a variety of methods and procedures designed to maximize the quality, accuracy,
+objectivity, and utility of research, analyses, and scientific information disseminated by the Department.
+These procedures include requirements for transparency regarding data, sources, methods, measures,
+assumptions, and limitations as well as peer review, where appropriate, along with processes for
+internal agency review.
+Research and scientific study findings disseminated by HHS are subject to an external, objective peer
+review at both the inception stage and the pre-dissemination stage as part of the publication process in
+peer-reviewed journals. Substantive reports from HHS statistical activities undergo a quality review
+process within their organizations before they are released, including internal and/or external review by
+qualified scientists and statisticians, and, in some cases, external peer review. Results of evaluation
+activities are released to the public only after agency management has taken steps to evaluate the
+quality, accuracy and completeness of the report
+In addition to HHS requirements, individual OpDivs have their own policies and procedures to ensure
+the scientific integrity of research. For example, NIH ensures the quality and integrity of its funded
+research by developing, implementing, coordinating, and overseeing policies and procedures that
+provide priorities and standards for the critical processes involved in issuing and monitoring research
+conducted under NIH awards. The NIH Intramural Research Program conducts research, training, and
+technology transfer within its own laboratories and clinics. To help ensure the high quality and integrity
+of its intramural programs, NIH has implemented NIH-wide policies and review standards for intramural
+research, training, and technology transfer.
+HHS also utilizes resources maintained by the federal government for assisting agencies with efforts to
+ensure the quality of research and analysis activities. The Federal Committee on Statistical Methodology
+(FCSM) is one source that provides guidance and publications for agencies on a number of
+methodological and statistical issues that affect the quality of federal data that are used for research
+and analysis.
+Assessment Area: Methods in Evaluations, Statistics, Research and Analysis Activities
+The assessment of methods used for evaluations, statistics, research and analysis is to determine what
+methods are being used and whether they incorporate the necessary level of rigor and whether those
+methods are appropriate for the activities to which they are being applied.
+Evaluations
+Under OMB's Program Evaluation Standards, the standard "Rigor" notes that Federal evaluations must
+produce findings that Federal agencies and their stakeholders can confidently rely upon, while providing
+clear explanations of limitations. The quality of an evaluation depends on the underlying design and
+methods, implementation, and how findings are interpreted and reported. Credible evaluations must be
+managed by qualified evaluators with relevant education, skills, and experience for the methods
+undertaken. An evaluation must have the most appropriate design and methods to answer key
+questions, while balancing its goals, scale, timeline, feasibility, and available resources.
+Page 11 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Individual staff and operating divisions in HHS have evaluation units, teams, or support staff to ensure
+that proper methods are used and that evaluation is conducted in a quality, effective, and independent
+manner. For many HHS evaluations, a Paperwork Reduction Act Information Collection Request must be
+submitted to OMB, making information on the methods, purpose, proposed analysis, and use publicly
+available on reginfo.gov. There is variation in the extent to which OpDivs have evaluation capacity.
+Certain OpDivs have well-established evaluation units with extensive expertise and experience, often
+providing training and resources to other operating divisions within the Department. ACF's Office of
+Planning, Research, and Evaluation (OPRE) is an example of an operating division that has a centralized
+evaluation office and its own evaluation policy (in compliance with the HHS Evaluation Policy). OPRE has
+a well-established evaluation program, with published research and evaluation agendas for specific
+programs and offices, to conduct a broad range of rigorous empirical studies. OPRE provides guidance,
+analysis, technical assistance, and oversight to ACF programs on research and evaluation methods
+guided by ACF's Evaluation Policy, of which rigor is a key principle in the conduct of evaluations. OPRE
+has strengthened the capacity of ACF to conduct high-quality evaluations based on rigorous and sound
+methods.
+The Evaluation Unit in CDC's Program Performance and Evaluation Office (PPEO) also sets standards and
+expectations for agency-wide evaluations pertaining to quality, methods, and utility. PPEO provides
+tools and technical assistance to enhance evaluation efforts, and also provides support for evaluation
+capacity-building across CDC programs. This includes support and resources for agency evaluations
+regarding the development of evaluation designs and methods. CDC requires evaluation research
+designs and data collection procedures to best match the evaluation questions and the purpose and use
+of the information.
+In addition to the program evaluation standards and practices issued by OMB and the subsequent HHS
+Evaluation Policy, the release of a recent Presidential memorandum and guidance provides HHS with
+additional support and direction aimed at improving evaluation capacity, and strengthening the
+methods used in evaluation activities. The Presidential Memorandum, Restoring Trust in Government
+Through Scientific Integrity and Evidence-Based Policymaking and OMB's Evidence-Based Policymaking:
+Learning Agendas and Annual Evaluation Plans require that scientific integrity principles be incorporated
+into agency evidence-building plans and annual evaluation plans. These documents affirm that
+evaluations are scientific activities and as such require the use of appropriate methods which can
+include a broad range of approaches. These memos also contribute to improving evaluation activities in
+HHS and guiding the development and conduct of evaluations, including the selection of designs and
+methods.
+Statistics
+Sound methodology underpins quality statistics, and this requires adequate tools, procedures and
+expertise. Appropriate statistical procedures and methods that are implemented from data collection to
+data validation are fundamental to the production of quality statistics.
+Page 12 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Cal
+STATISTICAL
+ACTIVITIES: POLICIES
+The capacity assessment review of agency websites and
+& GUIDANCE FOR
+publications, supplemented by key informant interviews, identified
+existing policies, standards, and practices that support and require
+METHODS
+appropriate methods for the production of agency statistics. These
+policies, procedures, and statements have been established and
+issued by the statistical programs across HHS to ensure quality and
+OMB Statistical Policy
+the use of appropriate methods. Many of these policies and
+Directives
+procedures were established in order to comply with legislative and
+Principles & Practices for
+regulatory requirements, such as OMB's Guidelines for Ensuring and
+a Federal Statistical
+Maximizing the Quality, Objectivity, Utility, and Integrity of
+Information Disseminated by Federal Agencies and related
+Agency
+guidelines and memorandum. Current OMB Directives and
+OMB Standards &
+Guidelines include additional specific practices and procedures for
+Guidelines for Statistical
+statistical agencies and recognized statistical units that support
+Surveys
+appropriate methods for statistical products.
+NCHS and other statistical programs in HHS apply sound statistical
+Information Quality
+methods to ensure statistical products are accurate. These
+Guidelines
+programs maintain and develop in-house staff who are trained in
+Standards & Guidelines
+statistical methodology to properly plan, design, and implement
+core data collection operations and to accurately analyze their data.
+(OMB Government-wide Information Quality Guidelines; CIPSEA Implementation Guidance, 33362 at
+33371; OSTP Memorandum of December 17, 2010; Principles and Practices, p. 70). Important guidance
+for statistical surveys is found in OMB's Standards and Guidelines for Statistical Surveys (71 FR 55522,
+Sept. 22, 2006) as well as in OMB's Standards and Guidelines for Cognitive Interviews (81 FR 29108, May
+10, 2016).
+Information on methods used by HHS' statistical agency, NCHS, is disseminated on a routine basis to
+ensure transparency and inform the public regarding approaches used for data collection, sampling,
+analysis, and other factors. Examples include reports such as, the National Health and Nutrition
+Examination Survey Sample Design and Estimation Procedures and Using SAS/STAT to Understand the
+NCI Joinpoint Regression Software: Testing for a Zero Slope Using Rates of Drug Overdose Deaths
+Involving Fentanyl.
+HHS' recognized statistical unit, the Center for Behavioral Health Statistics and Quality (CBHSQ) in the
+Substance Abuse and Mental Health Services Agency (SAMHSA) also publishes reports on methodology,
+such as the 2019 Methodological Summary and Definitions for the National Survey on Drug Use and
+Health (NSDUH).
+Interviews conducted with the designated officials under the Evidence Act identified the use of
+appropriate methods as a strength in HHS statistical activities, with a mature history of established
+procedures and processes, due in great part to OMB's statistical policies and requirements under the
+Paperwork Reduction Act.
+Page 13 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Research and Analysis
+HHS relies upon research, analysis, and scientific data to inform decisions and guide the development of
+policies and programs that serve the public. Research and analysis in HHS are conducted using
+appropriate methods and procedures, including a broad range of methodological approaches such as
+randomized control trials, survey research, qualitative research, pilot studies, and other methods.
+Methods vary across the HHS operating divisions and programs depending on agency and program
+missions, authorities, purpose, and use of results from research and analysis. Within HHS, certain
+OpDivs, such as NIH, CDC, and FDA, have strong programs conducting and funding research and analytic
+activities, and these agencies employ methods consistent with widely accepted scientific principles and
+practices. NIH, for example, is the steward of medical and behavioral research for the Nation with a
+mission to seek fundamental knowledge about the nature and behavior of living systems and the
+application of that knowledge to enhance health, lengthen life, and reduce illness and disability. NIH
+therefore has a long history of the application of appropriate methods and standards to their research
+and analysis efforts.
+Furthermore, information from research studies supported by NIH guide the transformation of clinical
+and translational science programs to speed the delivery of new drugs, diagnostics, and medical devices
+resulting from laboratory studies to patients. NIH has published Research Methods Resources to help
+investigators satisfy the agency's clinical research requirements for randomized trials or to deliver other
+scientific interventions to groups. In addition, NIH launched a series of initiatives to increase the
+accountability and transparency of clinical research, targeting key points that include design and
+methods. These include Basic Experimental Studies Involving Humans, and has criteria for interventions,
+measurement, and study design. To improve stewardship over clinical trials, NIH launched the Clinical
+Trial Definition which advances the design, conduct, and oversight of clinical trials and elevates
+transparency and accountability.
+The best available scientific research and data is used by CDC to develop strategies, guidance and
+recommendations used by partners in practice to promote and ensure a healthy population, to
+determine the best course of action in response to events, and to determine effectiveness of programs.
+HHS also uses findings from research and evaluations to advance patient care; for example, by
+determining the effectiveness of health information sites geared toward particular populations of
+interest and the providers who serve them.
+As a best practice, FDA issues guidance to ensure quality of research that is used to support data-
+informed decision-making and provide direction for adopting appropriate methods and approaches. For
+instance, FDA issued guidance in 2019 for its staff, industry, and other stakeholders on research
+methods for medical product development studies that identify patients' perceptions of care. This
+includes the use of quantitative, qualitative, and mixed methods. For research specifically related to
+radiation exposure from medical imaging, the FDA is currently developing methods to estimate the dose
+reductions that can be achieved using iterative image reconstruction algorithms.
+Assessment Area: Effectiveness of Evaluations, Statistics, Research and Analysis Activities
+Effectiveness is described in OMB Circular A-11 as "the extent to which the agency evaluations and
+evidence activities meet the needs of the various divisions within the agency and appropriately balance
+Page 14 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+across those needs." The priority learning questions in the HHS Evidence-Building Plan and Annual
+Evaluation Plan describe the needs of the agency, and together, these plans provide a comprehensive
+description of the planned and ongoing efforts in HHS to build evidence relevant to those questions and
+needs. Of the five priority areas for the Department, the activities are meeting the needs of the
+divisions and programs for four of them: Health Care, Human Services, Research & Evidence, and Public
+Health. Only a limited number of activities in the list above address the fifth priority area of
+Management.
+Evaluation
+Priority questions in Health Care are directed towards the impact of HHS programs and policies that
+expand access to quality health care coverage and services, as well as the effectiveness of HHS programs
+and policies in expanding access to health services and on strengthening the primary and preventive
+care workforce. NIH's Evaluation of the program Enhancing the Diversity of the NIH-Funded Workforce
+will assess transformative and innovative approaches to strengthening institutions and faculty dedicated
+to the engagement, training, and retention of diverse biomedical scientists.
+For priority questions in Public Health, evaluation activities are aimed at safeguarding and improving
+national and global health conditions and outcomes. This includes examining HHS' capabilities to
+predict, prepare for, and respond to public health emergencies and threats in the nation, such as ASPE's
+evaluation of the effects of COVID-19 on residents in long-term care facilities to better prepare for
+future long-term care needs. Priority questions in Human Services focus on strengthening social well-
+being, equity, and economic resilience.
+ACF's OPRE research and evaluations are targeted to multiple program areas that address these
+questions. For example, the Evaluation of Employment Coaching for TANF and Related Populations
+evaluates interventions that apply coaching practices to promote job entry and retention among TANF
+populations and other low-income individuals. The Building Evidence on Employment Strategies for Low-
+Income Families Project targets priority questions in Human Services, and strengthens our
+understanding of effective interventions aimed at supporting low-income individuals to find jobs,
+advance in the labor market, and improve their economic security. In addition, addressing child well-
+being is part of the Human Services priority, and includes the Expanding Evidence on Replicable
+Recovery and Reunification Interventions for Families evaluation. This evaluation replicates an
+intervention wherein parents engaged in the child welfare system due to substance use disorders may
+access recovery coaches. Previous research showed that parents who worked with recovery coaches
+had more favorable parental recovery outcomes and shortened time to reunification.2 See:
+https://www.acf.hhs.gov/sites/default/files/documents/opre/R3-recovery-coaching-march-2021.pdf
+Evaluation activities conducted by CMS address priority questions in Health Care and Human Services.
+CMS is evaluating the Maternal Opioid Misuse (MOM) Model, a program to address fragmentation in
+the care of pregnant and postpartum Medicaid beneficiaries with opioid use disorder (OUD) through
+state-driven transformation of the delivery system surrounding this vulnerable population. By
+2 Francis, Kimberly, Jessica Thornton Walker, Jill Hamadyk, and Sandra Jo Wilson (2021). Recovery Coaching
+Interventions for Families Involved with the Child Welfare System: Moving Toward Evidence-Based Practices, OPRE
+Report 2021-53. Washington, DC: Office of Planning, Research, and Evaluation, Administration for Children and
+Families, U.S. Department of Health and Human Services.
+Page 15 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+supporting the coordination of clinical care and the integration of other services critical for health,
+wellbeing, and recovery, the MOM model has the potential to improve quality of care and reduce costs
+for mothers and infants.
+HHS evaluations are meeting the needs of the various divisions, offices, and programs across the
+Department. Most are targeting questions in the priority areas of Health Care, Public Health, Human
+Services, and Research and Evidence, with fewer activities focused on Management. However, the
+substance of the activities addressing questions in the Management area directly focus on advancing
+strategic management to build trust, transparency, and accountability, such as SAMHSA's review of
+Performance Measurement for their discretionary grants that will assess outcome measures used for
+multiple grant programs and ASPR's evaluation of the supply chain data feeds for their Supply Chain
+Control Tower to support all-hazard's response beyond COVID.
+Statistics
+HHS' statistical activities directly inform priority areas of Public Health, Health Care, Human Services,
+and Research and Evidence. Statistical data collections such as NCHS' National Health Interview Survey
+and the National Health and Nutrition Examination Survey provide accurate and objective information
+on health insurance coverage, access to care, utilization of services, health behaviors, and medical
+conditions, all of which target priority questions in the areas above. Statistics produced from the
+National Vital Statistics System effectively meet the needs of multiple divisions, offices, and programs
+and provide data to answer priority questions in Public Health and Health Care. For example, mortality
+statistics provided early warnings of the drug overdose crisis and are used to inform programs regarding
+the specific drugs involved in drug overdose deaths and where these deaths occur. During the COVID-19
+pandemic, COVID-related death data have provided critical information to guide decision-making and to
+inform programs and mitigation strategies. And the Vital Statistics Rapid Release Program effectively
+addresses priority questions in Public Health, Health Care, and Research and Evidence, with innovative
+methods that provide early release of provisional estimates of COVID-related deaths as well as excess
+mortality from the virus. The independence of the statistical agency and the principles of scientific
+integrity that guide its activities support the Research and Evidence area and goals of restoring trust in
+government by providing statistical information that is free from undue or inappropriate influence.
+Statistical activities conducted by HHS' recognized statistical unit, SAMHSA's CBHSQ, such as the
+National Survey on Drug Use and Health meet the needs of different divisions and address priority areas
+in Health Care, including the extent to which HHS programs and policies strengthen and expand access
+to mental health and substance use disorder treatment and recovery services for individuals and
+families. Statistical programs such as the Medical Expenditure Panel Survey conducted by the Agency
+for Healthcare Research and Quality (AHRQ) provide statistical information to address priority areas of
+Health Care, Public Health, and Research and Evidence. Other statistical programs across HHS conduct
+statistical activities that effectively meet the needs of the programs and divisions which they serve.
+Research and Analysis
+Priority questions from the Evidence-Building Plan and Annual Evaluation Plan in the area of Research
+and Evidence focus on restoring trust and accelerating advancements in science and research for all.
+HHS has a number of activities that address the priority questions in this area. The NIH Strategic
+Response to COVID-19 has the priorities of advancing research to improve detection, supporting
+Page 16 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+research to advance treatment, and accelerating research to improve prevention. Key areas of scientific
+inquiry in disease detection, transmission, prevention, mitigation, and social and behavioral sciences are
+included in the CDC Public Health Science Agenda for COVID-19. Efforts under this agenda will focus on
+surveillance, epidemiologic investigations, mathematical modeling; the development of laboratory
+diagnostics, the protection of patients and workers, and community mitigation strategies.
+Research and evaluation activities conducted by the National Institute on Disability, Independent Living,
+and Rehabilitation Research (NIDIRR) in the Administration for Community Living (ACL) address priority
+questions in Human Services, Health Care, Public Health, and Research and Evidence. In addition, ACL's
+Disability and Rehabilitation Research Program conducts research and demonstration projects to
+maximize the full inclusion and integration of individuals with disabilities into society, employment,
+independent living, and family support; to promote economic and social self-sufficiency; and to improve
+the effectiveness of services authorized under the Rehabilitation Act. These activities inform the
+Department's priority questions in several areas: Human Services, Public Health, Research and Evidence,
+and Health Care.
+In addition, ASPE, in partnership with HHS agencies and offices, coordinates a portfolio of
+intradepartmental projects that build data capacity for conducting patient centered outcomes research
+(PCOR). This research is designed to produce new scientific evidence that informs and supports health
+care decisions, and addresses priority areas for research and evidence, effectively meeting the needs of
+multiple divisions within HHS.
+Assessment Area: Independence of Evaluations, Statistics, Research and Analysis
+Activities
+OMB Circular A-11 indicates that the assessment of independence of agency activities is to describe the
+extent to which the activities being carried out are free from bias and inappropriate influence. The
+independence of federal evaluations, statistics, research, and analysis is supported in HHS by the 2009
+Presidential Memorandum on Scientific Integrity, the 2010 Office of Science and Technology Policy
+Memo on Scientific Integrity, and HHS Scientific Integrity Policies and Principles. In addition, the 2021
+Presidential Memorandum Restoring Trust in Government Through Scientific Integrity and Evidence-
+Based Policymaking affirms and lends further weight to well-
+established principles of scientific integrity that include
+independence from undue influence and apply to agency
+GUIDANCE FOR INDEPENDENCE
+evaluations, statistics, research, and analysis.
+OMB Program Evaluation
+Evaluation
+Standards and Best Practices
+Independence is one of the standards required in M-20-12
+Principles & Practices for Federal
+for federal program evaluations. Federal agencies should
+Statistical Agencies
+enable evaluators to, and evaluators should, operate with an
+Scientific Integrity Principles
+appropriate level of independence from programmatic,
+regulatory, policymaking, and stakeholder activities. The
+Presidential Memos on Scientific
+implementation of evaluation activities, including how
+Integrity
+Page 17 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+evaluators are selected and operate, should be appropriately insulated from political and other undue
+influences that may affect their objectivity, impartiality, and professional judgement. One practice that
+supports this independence is the establishment and maintenance of policies and procedures to ensure
+that evaluation offices and staff have authority to approve evaluation designs and methods and release
+evaluation findings to safeguard against bias. The HHS Evaluation Policy affirms the OMB standards and
+supports independence as a standard for evaluation activities.
+Within HHS, certain operating divisions have established evaluation offices with clear roles and
+responsibilities that operate independently from other agency functions such as regulatory, program,
+and policymaking activities. Examples include CDC's Program Performance and Evaluation Office
+(PPEO), ACF's Office of Planning, Research, and Evaluation (OPRE), FDA's Office of Planning and
+Evaluation, HRSA's Office of Planning, Analysis and Evaluation (OPAE), IHS' Division of Planning,
+Evaluation, and Research (DPER), ACL's Center for Policy and Evaluation, NIH's Office of Evaluation,
+Performance, and Reporting (OEPR), and SAMHSA's Office of Evaluation (OE). These offices, centers, and
+divisions share evaluation standards and best practices and work to improve evaluation activities both
+within their respective OpDivs and across HHS.
+For example, ACF's OPRE has noted that independence is a core principle of evaluation and that
+evaluation functions must be insulated from undue influence and bias, in actuality as well as in
+appearance. To promote this, ACF protects independence in the design, conduct, and analysis of
+evaluations by conducting evaluations through the competitive award of grants and contracts to
+external experts who are free from conflicts of interest. The director of OPRE reports directly to the
+Assistant Secretary for Children and Families and has authority to approve the design of evaluation
+projects and analysis plans and approve, release, and disseminate evaluation reports (79 FR 51574).
+Statistics
+Statistical agencies and recognized statistical units embrace a common set of professional standards and
+operational practices designed to ensure the quality, integrity, and credibility of their statistical
+activities. Implementation of these professional standards involves a wide range of managerial and
+technical challenges. Practical guidance to accomplish this is found in the National Academies' Principles
+and Practices for a Federal Statistical Agency. One of the five principles is Independence from Undue
+Political and Other External Influence in developing, producing, and disseminating statistics. These
+principles, in tandem with other documents such as OMB's Statistical Policy Directive No. 4, provide
+direction and guidance for the actual and perceived independence of statistical agencies to ensure
+public trust in the credibility, accuracy, and integrity of federal statistics.
+Federal statistical agencies and recognized statistical units must function in an environment that is
+clearly separate and autonomous from the other administrative, regulatory, law enforcement, or policy-
+making activities within their respective Departments. In HHS, consistent with its authorities, NCHS
+conducts statistical activities autonomously in terms of determining what information to collect and
+process, the physical security and information systems security employed to protect confidential data,
+which methods to apply in their estimation procedures and data analysis, when and how to store and
+disseminate their statistical products, and which staff to select to join the agency. In these ways, NCHS
+assures the independence of the design, collection, production, analysis, and dissemination of health
+statistics.
+Page 18 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Research and Analysis
+Independence is a fundamental principle of scientific integrity; research and analysis must be free from
+bias and undue influence. Several HHS OpDivs have long-standing and well-established research
+programs and have policies and procedures to ensure independence of these activities. Among other
+agencies, NIH, CDC, and FDA are examples of OpDivs with such policies and procedures due to their
+science-related missions and mandates.
+One example is the FDA's support for biomedical and behavioral research to provide scientific data to
+inform regulation of tobacco products to protect public health. This research requires independence and
+objectivity as research results are expected to generate findings and data that are directly relevant in
+informing the FDA's regulation of the manufacture, distribution, and marketing of tobacco products to
+protect public health. Other FDA research is conducted in collaboration with NIH and aims to increase
+and maintain a strong cohort of talented, independent investigators conducting research that will
+inform the development and evaluation of tobacco product regulations. FDA partners with NIH and CDC
+in support of independent research where the results will be to the benefit of each agency.
+Requirements for independence in research are found in each agency's scientific integrity policies and
+procedures.
+In addition to scientific integrity policies, certain standard of conduct and procedures ensure
+independence in research and analysis. NIH delineates the roles of extramural staff members to avoid
+conflicts. As a result, no member of the NIH extramural staff may serve as a reviewer on an NIH review
+panel, and no member of the NIH review staff may participate in review functions and portfolio
+management in the same scientific area. Furthermore, input from individual extramural research staff
+into the process is restricted: an individual may not participate in both an application's initial peer
+review and advisory council review.
+Further, NIH requires grantees to establish safeguards to prevent employees, consultants, members of
+governing bodies, and others who may be involved in grant-supported activities from using their
+positions for purposes that are, or give the appearance of being, motivated by a desire for private or
+financial gain for themselves or others, such as those with whom they have family, business, or other
+ties. These safeguards must be reflected in written standards of conduct.
+Since the passage of the Evidence Act, evaluation, research, and analysis activities have been highlighted
+for their value and critical agency functions and have emphasized the application of standards and the
+principles of scientific integrity in evidence-building activities for all HHS operating divisions. For
+example, HRSA's Rural Health Research Center program conducts research to better understand
+problems faced by rural communities and to inform population health improvement efforts, including
+health care access and delivery. Entities that are funded under this program apply principles of scientific
+integrity in their research efforts.
+The Indian Health Service (IHS) has partnered with NIH on the Native American Research Centers for
+Health program to accomplish scientific goals and conduct biomedical, behavioral, and health services
+research in partnership with American Indian/Alaska Native tribes or tribally-based organizations.
+Multiple partners support, review, and oversee these efforts to ensure independence and promote the
+integrity of the research.
+Page 19 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+The extent to which the evaluations, research, and analysis efforts and related activities of the
+agency support the needs of various divisions within the agency (5 USC $306(a)(9)(B))
+As described above, the evaluation, research, and analysis efforts of HHS address the needs of various
+divisions, offices, and programs in terms of quality and effectiveness. HHS supports quality through the
+development of policies and standards such as the HHS Information Quality Act guidelines, the HHS
+Evaluation Policy, and research and analysis quality standards. The agency supports effectiveness at
+HHS through data source development and policy, legal, and administrative support.
+The statistical activities of NCHS, for example, directly support the statistical data needs of divisions
+across HHS. The statistical data from NCHS has supported research and analysis across HHS divisions
+and largely meets the needs of those divisions. NCHS has collaborations and partnerships across HHS in
+order to coordinate the collection of information to meet a variety of information needs. For instance,
+the list of activities and operations that HHS is currently evaluating and analyzing includes several
+statistical collections with input from multiple Institutes within NIH and Centers within CDC and FDA on
+topics such as tobacco and tobacco-related product use, nutrition, prescription drugs, environmental
+exposures, medical conditions, and health service utilization. Efforts are underway with the goal
+improving timeliness and specificity-including geographic and demographic specificity-of key data
+sets. Resource constraints limit the extent to which data sets can be improved over time.
+The staff divisions within the Office of the Secretary of HHS, provide a great deal of support to OpDivs
+through rigorous evaluation, research, and analysis efforts. The HHS Office of the General Counsel's
+support includes legal analyses of guidance, regulation, and legislation. The Office of the Assistant
+Secretary for Financial Resources (ASFR) provides analytical support and recommendations to the HHS
+Secretary in the areas of budget, performance, and program policy. The Office of the Assistant Secretary
+for Administration (ASA) conducts evaluations of business practices. The Office of the Assistant
+Secretary of Planning and Evaluation (ASPE) provides policy research, evaluation, and economic analysis
+to support the Department. The Office of the Inspector General (OIG) conducts analyses and
+evaluations in its oversight role of promoting the economy, efficiency, effectiveness, and integrity of
+HHS programs.
+Departmental analysis laid out in the Strategic Plan and Evidence-Building Plan support and coordinate
+efforts of divisions in achieving key priorities of HHS. Agency level evaluations, research, and analysis
+efforts also support cross-cutting issues, major department-level goals, and time sensitive priority
+issues. Long-term goals are identified through HHS' strategic planning and Evidence Building Plan
+processes. Every four years, HHS updates its strategic plan, which describes its work to address complex,
+multifaceted, and evolving health and human services issues.
+An agency strategic plan is one of three main elements required by the Government Performance and
+Results Act (GPRA) of 1993 (Pub. L. 103-62) and the GPRA Modernization Act of 2010 - PDF (Pub. L. 111-
+352). HHS' strategic plan defines its mission, its goals, and the means by which it will measure its
+progress in addressing specific national problems over a four-year period. OMB Circular A-11,
+Preparation, Submission, and Execution of the Budget, Part 6, Strategic Plans, Annual Performance
+Plans, Performance Reviews, and Annual Program Performance Reports provide guidance on the
+strategic planning process. In addition to the four-year strategic plan, the agency sets additional, shorter
+Page 20 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+term goals. In particular, HHS' Agency Priority Goals are performance measures monitored by the
+Department that support the Department's Priority Goals. These goals are a set of ambitious but
+realistic performance objectives that the Department will work to achieve within a 24-month period.
+Agency Priority Goals support and align with the Strategic Goals and Objectives of the HHS Strategic
+Plan. The GPRA Modernization Act requires the inclusion of these Priority Goals in the Department's
+Strategic Plan and Annual Performance Plan.
+In addition, the activities listed in the HHS Evidence-Building Plan and Annual Evaluation Plan target key
+questions in the five priority areas for the Department: Health Care, Public Health, Human Services,
+Research and Evidence, and Management. The table below provides information on the activities for
+these priority areas, and some activities address multiple priority areas.
+FY22-26 HHS Strategic Goals
+Activities
+from Plans
+Health Care: Protect and Strengthen Equitable Access to High Quality and Affordable
+25
+Health Care
+Public Health: Safeguard and Improve National and Global Health Conditions and
+16
+Outcomes
+Human Services: Strengthen Social Well-Being, Equity, and Economic Resilience
+11
+Research and Evidence: Restore Trust and Accelerate Advancement in Science and
+18
+Research for All
+Management: Advance Strategic Management to Build Trust, Transparency, and
+10
+Accountability
+Time sensitive priority issues are also addressed at the agency level on an ad hoc basis. For example,
+during the COVID-19 public health emergency, ASPE has coordinated research to better understand
+vaccine hesitancy. This research has supported cross-departmental best practices and efforts to support
+vaccine access and community health and stop the spread of COVID-19. Need for ad hoc agency level
+work is identified by department leadership or brought forward by divisions in coordination forums. The
+HHS Evidence & Evaluation Council and Data Council provide two such forums. In each of these forums,
+division leaders and staff can identify cross-cutting issues. When sufficient need is identified, these
+Councils form workgroups to address those issues.
+There is still opportunity to improve coordination to ensure that evaluation, research, and analysis
+efforts are undertaken when they are appropriate and that those efforts meet the needs of divisions.
+The structure of HHS into operating and staff divisions with varied missions does not facilitate easy
+coordination and identification of cross-cutting challenges. The strategic planning, evidence building,
+planning, and agency forums provide avenues to support divisions. However, additional resources or
+pathways would be beneficial in identifying division needs for agency-level evaluations, research, and
+analysis. Further, agency-level support and initiatives have, at times, lacked a process that allows for
+divisions to provide feedback on the extent to which agency level support and initiatives have supported
+their needs. All three Evidence Act officials expressed during interviews that there is room for
+improvement in terms of the agency supporting division needs.
+Page 21 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+The extent to which the evaluation, research, and analysis efforts and related activities of the
+agency address an appropriate balance between needs related to organizational learning,
+ongoing program management, performance management, strategic management, interagency
+and private sector coordination, internal and external oversight, and accountability (5 USC
+$306(a)(9)(C))
+The areas of organizational learning, ongoing program management, performance management,
+strategic management, interagency and private sector coordination, internal and external oversight, and
+accountability are typically managed through a number of separate processes.
+Organizational learning and ongoing program management are intertwined and occur throughout the
+organization as each division, office, team, and individual must balance their time and energy between
+managing the current project and considering organizational improvement to better achieve larger
+goals. For example, a team that is working to reduce obesity must balance staff and time between
+implementing programs to combat obesity and designing new programs, policies, or organizational
+structure that could improve the team's ability to combat obesity in the future. The balance that is
+achieved between organizational learning and ongoing program management varies greatly across
+divisions, offices, individuals, and time.
+The performance management process at HHS consists of both staff performance and agency
+performance. Staff performance management occurs through individual performance reviews and
+annual satisfaction surveys. Agency performance is measured most directly through the performance
+tracking of performance goals and Agency Priority Goals through the strategic planning process as
+required by the GPRA Modernization Act of 2010 and related guidance from OMB.
+Strategic management at HHS consists of identifying agency objectives and designing a strategy to
+achieve those objectives. This process at HHS is primarily conducted through the development of the
+HHS strategic plan. The strategic planning process at HHS is governed by GPRA, the GPRA
+Modernization Act, and OMB A-11 and is coordinated by the HHS strategic planning team within ASPE.
+Interagency and private sector coordination vary greatly across HHS. Interagency coordination occurs at
+a variety of levels through a variety of avenues including: interagency bodies such as the Federal
+Committee on Statistical Methodology (FCSM) and the Federal Health IT Coordinating Council,
+communities of practice (some of which are facilitated through OMB MAX communities), interagency
+working groups convened by the Whitehouse, interagency agreements, and informal relationships
+developed over time. Private sector coordination can occur through federal advisory committees such as
+the National Committee on Vital and Health Statistics (NCVHS). It can also occur through division
+developed or congressionally mandated processes. The nature and form of private sector coordination
+depend greatly on division mission. For example, NIH interacts with private universities through grants
+and FDA regulates products developed or produced by pharmaceutical and food companies.
+Objective internal oversight at HHS is conducted by the Office of Inspector General through audits,
+evaluations, and investigations, and external oversight is conducted by the Government Accountability
+Office, OMB and Congress.
+Page 22 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Accountability at HHS is ensured through internal agency requirements to ensure accountability in terms
+of the effective use of tax dollars. Each year HHS publishes an agency financial report in line with OMB
+Circular A-136. This report provides fiscal and summary performance results that enable the President,
+Congress, and the American people to assess HHS' annual accomplishments. HHS-funded grants include
+fiduciary responsibilities. Reporting requirements including performance and progress reports are
+required for any data collection covered by the Paperwork Reduction Act for the purposes of monitoring
+and accountability.
+As highlighted above there is a balance struck between ongoing program management and
+organizational learning. However, generally these processes are not balanced against each other as
+these eight processes cited together in the Evidence Act are largely conducted through separate work
+streams at HHS. As such, there is a very limited extent to which the evaluation, research, and analysis
+efforts and related activities of the agency address any balance between needs related to organizational
+learning, ongoing program management, performance management, strategic management,
+interagency and private sector coordination, internal and external oversight, and accountability.
+The extent to which the agency uses methods and combinations of methods that are appropriate
+to agency divisions and corresponding research questions being addressed, including an
+appropriate combination of formative and summative evaluation research and analysis
+approaches (5 USC $306(a)(9)(D)
+As noted earlier, there are existing Federal standards, practices, procedures, and requirements for HHS'
+evaluation, research, and statistical activities that support consistent and high-quality evidence-building
+efforts. This is particularly true for statistical and research activities that have long-standing, established
+requirements and include Federal, agency, and professional standards and practices. Further, each of
+three Evidence Act officials stated in interviews that HHS is particularly strong in terms of using methods
+and combinations of methods that are appropriate to agency divisions and corresponding research
+questions being addressed.
+HHS employs a set of interrelated policies, standards, and guidelines to ensure that methods and
+combinations of methods used for evaluation, statistics, research, and analysis are appropriate to the
+questions and purpose to which these activities are addressed. The Evaluation Policy for HHS affirms
+the commitment to high-quality systematic evaluations and incorporates the standards for program
+evaluations issued by OMB in M-20-12. HHS programs must adhere to these standards to promote the
+quality, credibility, objectivity, and utility of evaluation activities.
+HHS applies a broad range of methodological approaches for its program evaluations, statistical
+activities, research, and analysis. Many of these approaches include those referenced in the Presidential
+Memorandum on Scientific Integrity and Evidence-Based Policymaking, such as: pilot projects,
+randomized controlled trials, survey research, and research and analysis of linked records, such as
+administrative data and national surveys. The selection of methods and combinations of methods varies
+depending upon the research questions and the purpose and use of the evaluations and activities.
+Programs are guided by professional standards and best practices referenced in federal guidelines, the
+Page 23 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+publications from National Academy of Sciences, as well as professional associations such as the
+American Evaluation Association and the American Statistical Association.
+In any methodological approach that is applied, HHS emphasizes the need for rigor, requiring adherence
+to standards for quality and widely-accepted scientific principles. To support the need for rigor,
+evaluations, research, and statistical activities are conducted by staff that are highly qualified with
+appropriate credentials, education, skills, and experience in the methods used.
+Program Evaluations: Certain operating divisions within HHS are widely recognized for leadership in
+conducting rigorous program evaluation and evidence-building, and that reputation is well-deserved.
+These OpDivs have well-established evaluation programs, strengthened by staff that are highly trained
+evaluation professionals. Examples include OPRE in ACF, CDC's PPEO, and NIH's OEPR.
+Statistical Activities: Major statistical activities for HHS are conducted by NCHS, the principal federal
+statistical agency for health. The Director of NCHS is the designated HHS Statistical Official and plays a
+key role in assuring that the Department's statistical activities are high-quality, unbiased, objective,
+timely, and relevant. This agency leads the Department in statistical expertise, conducting credible and
+accurate statistical activities using sound and appropriate methods. NCHS employs specific practices to
+ensure the application of appropriate methods, specifically adhering to:
+OMB Statistical Policy Directives and Standards
+Principles and Practices for a Federal Statistical Agency
+Information Quality Guidelines
+Scientific Methods to Ensure Data Quality and Integrity
+In addition to NCHS, the Department has a recognized statistical unit, CBHSQ in SAMHSA, as well as a
+number of components and programs that conduct statistical activities. This includes many of the
+Centers and Offices within CDC and Institutes, Offices, and Centers within NIH.
+The extent to which evaluation and research capacity is present within the agency to include
+personnel and agency processes for planning and implementing evaluation activities,
+disseminating best practices and findings, and incorporating employee views and feedback (5
+USC $306(a)(9)(E))
+To address the extent to which evaluation and research capacity is present in HHS, findings from the
+survey of senior leaders were incorporated with work conducted by the HHS Data Council as well as the
+Office of the Chief Data Officer.
+The HHS Data Council established a Data-Oriented Workforce Subcommittee (DOWS) to assess and
+make recommendations on workforce priorities in the 2018 HHS Data Strategy: Enhancing the HHS
+Evidence-Based Portfolio. The Subcommittee was focused on activities to understand and enhance the
+data science capacity of HHS' workforce, including the identification of training opportunities for existing
+staff, recruitment strategies and tools to hire new staff, and retention and succession planning
+strategies to sustain the data science workforce. This work complemented other activities that were
+undertaken to address components of the Federal Data Strategy (FDS). Under Action 4 of the FDS, each
+federal agency is to assess the data skills of its workforce to identify opportunities to improve those
+Page 24 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+skills. To meet this requirement, the HHS Office of the Chief Data Officer conducted an assessment
+across the Department in March, 2021. The approach used for the assessment consisted of a
+questionnaire as well as interviews with the senior leaders in the HHS Operating Divisions, and questions
+were targeted on the data skills of the HHS workforce. The questionnaire included a list of data skills
+that were grouped into five separate categories: foundational skills, data operations and management
+skills, technical skills, data analysis skills, and advanced analytic skills.
+Implementation of the Evidence Act to expand research and evaluation capacity also presents some
+significant challenges in terms of resources, particularly budget, staff, and technology. Additional
+resources will be necessary in order to execute all of the requirements of the Act, and interviews with
+the three designated officials identified resources needs for evaluation and evidence-building activities,
+open data, and the presumption of accessibility for statistical agencies to obtain data. For example,
+requirements under Title III incur new budget and staffing needs for statistical agencies and recognized
+statistical units to obtain data, conduct comprehensive risk assessments and expand access to secure
+data covered under the Confidential Information Protection and Statistical Efficiency Act (CIPSEA).
+The extent to which the agency has the capacity to assist agency staff and program offices to
+develop the capacity to use evaluation research and analysis approaches and data in the day-to-
+day operations (5 USC $306(a)(9)(F))
+HHS provides a variety of tools and resources that are available to divisions across the Department. The
+office of the CDO provides resources to help agencies improve individual capacity for data science
+including the HHS Data Camp. For example, NCHS has disseminated information through the HHS Data
+Council on the Data Protection Toolkit released by the Federal Committee on Statistical Methodology.
+The toolkit provides resources, methods, and approaches for promoting access to data while protection
+confidentiality, assessing data quality, statistical disclosure techniques and assessing disclosure risk.
+Best practices, case studies, tools, and other content to help programs increase access to data while
+ensuring appropriate protections for privacy and confidentiality. CDC's PPEO has made evaluation
+resources available to the public through the following link: https://www.cdc.gov/eval/index.htm
+including information on evaluation events and trainings, evaluation documents, workbooks, and tools,
+and the CDC framework for evaluations. CDC also has an Evaluation Fellowship Program to expand the
+capacity of CDC programs to conduct evaluations and increase their usefulness and impact. The OPRE,
+within ACF, disseminates information on ACF's Evaluation Policy, evaluation conferences and meetings,
+ACF's Research and Evaluation Agenda, as well as publications and tools to inform and improve methods
+for evaluation and research activities. Moreover, resources and tools to improve research and analysis
+are available from NIH (https://www.nih.gov/research-training/research-resources),which provides
+literature, library resources, clinical registries, and links to information on training opportunities in
+disease prevention, research methods, clinical research training, and other areas.
+Additionally, the Statistical Officer, Chief Data Officer, and Evaluation Officer each play crucial
+coordination roles including through leadership and support of the Data Governance Board, the Data
+Council, and Evidence and Evaluation Council, which support divisions in sharing best practices and
+Page 25 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+raising concerns and barriers to conducting evaluation, research, and analysis. Each officer also provides
+the opportunity for technical consultations, though the extent and frequency of consultations are
+limited by staffing constraints.
+Historically, beyond coordination, there has not been significant investment in HHS-level support for
+evaluation, research, and analysis at the division level. Data infrastructure has typically been developed
+at the department level, with agency wide infrastructure limited to Enterprise Human Capital
+Management, HHS Protect, and the Access Management System.
+Appendix A: List of Activities Policies and Requirements
+Activities with an asterisk indicate those that are included in the HHS FY 2023-2026 Evidence-Building
+Plan and/or FY 2023 Annual Evaluation Plan.
+Title
+Agency
+Activity
+Evaluation of Employment Coaching for TANF and Related Populations
+ACF
+Evaluation
+Evaluation of the Child Welfare Capacity Building Collaborative*
+ACF
+Evaluation
+Building Evidence on Employment Strategies for Low Income Families*
+ACF
+Evaluation
+Head Start Family and Child Experiences Survey
+ACF
+Statistical
+Early Head Start Family and Child Experiences Survey
+ACF
+Statistical
+National Evaluation of the 2nd Generation of Health Profession Opportunity Grants
+ACF
+Evaluation
+Tribal Evaluation of the 2nd Generation of Health Profession Opportunity Grants
+ACF
+Evaluation
+Sexual Risk Avoidance Education National Evaluation
+ACF
+Evaluation
+Multi-Site Implementation Evaluation of Tribal Home Visiting
+ACF
+Evaluation
+Expanding Evidence on Replicable Recovery and Reunification Interventions for
+ACF
+Evaluation
+Families
+Human Trafficking Policy and Research Analysis Project
+ACF
+Research
+Building Capacity to Evaluate Child Welfare Community Collaborations to Strengthen
+ACF
+Evaluation
+and Preserve Families
+Formative Evaluation of Family Unification Program Vouchers for Youth
+ACF
+Evaluation
+Transitioning Out of Foster Care
+ASPR emPOWER Program*
+ASPR
+Analysis
+Page 26 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+ASPE COVID-19 Vaccine Hesitancy and Confidence*
+ASPE
+Research
+ASPE Evaluation of the Certified Community Behavioral Health Clinic
+ASPE
+Evaluation
+Demonstration*
+HRSA Maternal Health Portfolio Evaluation
+HRSA
+Evaluation
+HRSA National Healthy Start Evaluation and Quality Assurance*
+HRSA
+Evaluation
+HRSA Autism CARES Act Initiative Evaluation
+HRSA
+Evaluation
+HRSA Bureau of Health Workforce Substance Use Disorder Evaluation
+HRSA
+Evaluation
+HRSA Rural Maternity and Obstetrics Management Strategies Program Evaluation
+HRSA
+Evaluation
+Ryan White HIV/AIDS Program Special Programs of National Significance*
+HRSA
+Evaluation
+Behavioral Health Workforce Supply
+HRSA
+Research
+Evaluation of the Maternal and Child Health Bureau Pediatric Mental Health Care
+HRSA
+Evaluation
+Access and Screening and Treatment for Maternal Depression and Related
+Behavioral Disorders Program Project
+Teaching Health Center Graduate Medical Education Program Cost Evaluation
+HRSA
+Evaluation
+HRSA AIDS Education and Training Centers Evaluation Activities
+HRSA
+Evaluation
+Evaluation of the Enhancing Diversity of the NIH-funded Workforce Program
+HRSA
+Evaluation
+Impact of Clinical Research Training and Medical Education at the Clinical Center on
+NIH
+Evaluation
+Physician Careers in Academia and Clinical Research
+All of Us Research Program
+NIH
+Research
+NIH Blueprint for Neuroscience Research
+NIH
+Research
+NIH Strategic Response to COVID-19
+NIH
+Research
+NIH Cancer Moonshot Assessment*
+NIH
+Evaluation
+NIH Environmental Influences on Child Health Outcomes (ECHO) Program*
+NIH
+Research
+Evaluating the Implementation of Products to Help Learning Health Systems Use
+AHRQ
+Evaluation
+Findings from AHRQ Evidence Reports
+Medical Expenditure Panel Survey Household Component and Medical Provider
+AHRQ
+Statistical
+Component
+Medical Expenditure Panel Survey - Insurance Component
+AHRQ
+Statistical
+Questionnaire and Data Collection Testing, Evaluation, and Research for the Agency
+AHRQ
+Statistical
+for Healthcare Quality and Research
+Page 27 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Evaluation of Patient-Centered Outcomes Research Trust Fund - Training Program
+AHRQ
+Evaluation
+Evaluating the Implementation of PCOR to Increase Referral, Enrollment, and
+AHRQ
+Evaluation
+Retention through Automatic Referral to Cardiac Rehabilitation with Care
+Coordinator
+Evaluating and Implementing the Six Building Blocks Team Approach to Improve
+AHRQ
+Evaluation
+Opioid Management in Primary Care
+Outcome Measure Harmonization and Data Infrastructure for Patient Centered
+AHRQ
+Research
+Outcomes Research in Depression
+Evaluation of the SHARE Approach Model
+AHRQ
+Evaluation
+Medicare Current Beneficiary Survey
+CMS
+Statistical
+CMS Program Statistics
+CMS
+Statistical
+CMS Actuarial Studies
+CMS
+Statistical
+Consumer Assessment of Healthcare Providers & Systems
+CMS
+Statistical
+Evaluation of Learning Health Systems K12 Training Program
+AHRQ
+Evaluation
+ACL National Survey of Older Americans Act Participants
+ACL
+Statistical
+ACL Outcome Evaluation of the Long-Term Care Ombudsman Program
+ACL
+Evaluation
+ASPR Supply Chain Control Tower*
+ASPR
+Evaluation
+ASPR Biomedical Advanced Research and Development Authority Portfolio Review*
+ASPR
+Evaluation
+ONC Evaluation of the Trusted Exchange Framework and Common Agreement*
+ONC
+Evaluation
+FDA Food Safety Dashboard
+FDA
+Evaluation
+FDA Opioid Systems Modeling Effort*
+FDA
+Research
+National HIV Prevention Program Monitoring and Evaluation
+CDC
+Evaluation
+CDC National Youth Tobacco Survey
+CDC
+Statistical
+CDC Model Performance Evaluation Program for Mycobacterium Tuberculosis and
+CDC
+Evaluation
+Nontuberculous Mycobacteria Drug Susceptibility Testing
+Formative and Summative Evaluation of the National Diabetes Prevention Program
+CDC
+Evaluation
+Youth Risk Behavior Surveillance System
+CDC
+Statistical
+Page 28 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Behavioral Risk Factor Surveillance System
+CDC
+Statistical
+CDC Extended Evaluation of the National Tobacco Prevention and Control Public
+CDC
+Evaluation
+Education Campaign
+CDC Public Health Science Agenda for COVID-19
+CDC
+Research
+Epidemiologic Study of Health Effects Associated with Low Pressure Events in
+CDC
+Research
+Drinking Water Distribution Systems
+Evaluation of Medication-Assisted Treatment for Opioid Use Disorders Study
+CDC
+Evaluation
+CDC Assessment of Ill Worker Policies Study
+CDC
+Evaluation
+CDC Assessment of the Cancer Survivorship Demonstration Project
+CDC
+Evaluation
+The World Trade Center Health Program: Impact Assessment and Strategic Planning
+CDC
+Evaluation
+for Translational Research
+Evaluation of TransLife Center: A Locally-Developed Combination Prevention
+CDC
+Evaluation
+Intervention for Transgender Women at High Risk of HIV Infection
+Evaluating the Implementation and Impact of an Opioid Medication Management
+CDC
+Evaluation
+Program in a Hospital Discharge Setting to Reduce Falls in Older Adults
+CDC Evaluation of STEADI Older Adult Fall Prevention Initiative in a Primary Care
+CDC
+Evaluation
+Setting
+CDC Cross-Site Program Implementation Evaluation of Overdose Data to Action
+CDC
+Evaluation
+Program*
+CDC Formative Research and Tool Development
+CDC
+Research
+National Health Interview Survey
+CDC/NCHS
+Statistical
+National Health and Nutrition Examination Survey
+CDC/NCHS
+Statistical
+National Ambulatory Health Care Data
+CDC/NCHS
+Statistical
+National Hospital Care Survey
+CDC/NCHS
+Statistical
+National Survey of Family Growth
+CDC/NCHS
+Statistical
+National Vital Statistics System
+CDC/NCHS
+Statistical
+Vital Statistics Rapid Release Natality and Mortality Estimates
+CDCNCHS
+Statistical
+Healthcare Cost and Utilization Project
+AHRQ
+Statistical
+Provisional Death Counts for COVID-19
+CDC/NCHS
+Statistical
+Developmental Studies to Improve the National Health Care Surveys
+CDC/NCHS
+Research
+Page 29 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Comparing Blood Pressure Values Obtained by Two Different Protocols: National
+CDC/NCHS
+Evaluation
+Health and Nutrition Examination Survey
+Unsuitable Underlying Causes-of-Death for Assessing the Quality of Cause-of-Death
+CDC/NCHS
+Analysis
+Reporting
+Comparative Analysis of the National Health and Nutrition Examination Survey
+CDC/NCHS
+Analysis
+Public-use and Restricted-use Linked Mortality Files
+CDC WISEWOMAN National Program Evaluation
+CDC
+Evaluation
+National Survey on Drug Use and Health
+SAMHSA
+Statistical
+SAMHSA Strategic Prevention Framework for Prescription Drugs*
+SAMHSA
+Evaluation
+Page 30 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Appendix B: Policies and Requirements Pertaining to Assessment Areas
+Documents that provide or inform a common foundation for agency evaluations, statistics,
+research, and analysis are listed in the table below. Taken as a whole, these complementary
+requirements contribute to an integrative framework guiding the conduct of Federal
+evaluations, statistics, research, and analysis to ensure quality, appropriate methods,
+effectiveness, and independence.
+Assessment
+Assessment Activities
+Areas
+Statistics
+Evaluation
+Research
+Analysis
+Coverage
+Activities and operations
+Activities and operations
+Activities and
+Activities and
+of the agency currently
+of the agency that are
+operations of the
+operations of the
+being evaluated and
+currently being
+agency currently being
+agency currently being
+analyzed.
+evaluated and analyzed.
+evaluated and analyzed.
+evaluated and
+analyzed.
+Quality
+-Statement of
+-Published policies and
+-HHS Policies and
+-HHS Policies and
+Commitment to
+procedures for program
+Procedures for Ensuring
+Procedures for
+Scientific Integrity by
+evaluation [2] [3] [4]
+Scientific Integrity[6
+Ensuring Scientific
+Principal Statistical
+-OMB M-20-12
+(also applies to
+Integrity(7 (also
+Agencies¹
+Evaluation Standards[5
+Methods)
+applies to Methods)
+-NAS Principles &
+for objectivity and
+- Presidential Memo
+OMB Circular A-4,
+Practices for Federal
+relevance
+Restoring Trust Through
+quality standards for
+Statistical Agencies
+- Presidential Memo
+Scientific Integrity and
+analysis used in
+-IQA Guidelines for
+Restoring Trust Through
+Evidence-Based
+regulations
+Federal Quality
+Scientific Integrity and
+Policymaking
+- Presidential Memo
+standards
+Evidence-Based
+Restoring Trust
+- Presidential Memo
+Policymaking
+Through Scientific
+Restoring Trust Through
+-HHS Evaluation Policy
+Integrity and
+Scientific Integrity and
+Evidence-Based
+Evidence-Based
+Policymaking
+Policymaking
+Methods
+-Using the Best Scientific
+-OMB IQA Guidelines
+-OMB IQA Guidelines
+-OMB IQA Guidelines
+Methods to Ensure Data
+have standard for
+have standard for
+have standard for
+Quality and Integrity
+objectivity which is
+objectivity which is
+objectivity which is
+(part of Statement
+supported by using
+supported by using
+supported by using
+above)
+sound statistical and
+sound statistical and
+sound statistical and
+-OMB IQA Guidelines
+research methods
+research methods
+research methods
+have standard for
+-OMB M-19-18 Federal
+-NIH Policies and
+-NIH Policies and
+objectivity which is
+Data Strategy
+Procedures for
+Procedures for
+supported by using
+requirements for data
+Promoting Scientific
+Promoting Scientific
+sound statistical and
+quality, validation of
+Integrity(9
+Integrity [7]
+research methods
+accuracy
+-Agency adherence to
+-OMB M-20-12
+OMB Standards and
+Evaluation Standard for
+Guidelines for Statistical
+rigor
+Surveys[8
+-HHS Evaluation Policy
+Effectiveness
+-OMB Statistical Policy
+-Published guidelines
+-OMB IQA Guidelines
+-OMB IQA standards
+Directive No. 1:
+and recommendations[12
+require utility of
+for utility of
+Fundamental
+information
+information
+Page 31 of 32
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES: Capacity Assessment
+Responsibilities of
+-OMB IQA Guidelines
+disseminated by federal
+disseminated by
+Federal Statistical
+require agencies to
+agencies. Utility refers
+federal agencies,
+Agencies and Recognized
+review information
+to the usefulness of the
+including information
+Statistical Units[10
+disseminated to ensure
+information to intended
+resulting from
+-IQA includes standards
+utility and usefulness of
+users, including the
+analysis. To assess
+for the utility of statistics
+information to intended
+public. To assess utility,
+utility, agencies must
+disseminated¹
+users (this includes
+the agency must
+consider the
+information on agency
+consider the
+perspectives of the
+evaluations and their
+perspective of the
+public, researchers,
+results)
+public (e.g., solicitation
+and users of the
+-NAS Principles &
+of public comments,
+information.
+Practices for Federal
+public engagement)
+Program Evaluation:
+evaluations should
+produce useful results
+-OMB M-20-12
+Evaluation Standard for
+utility
+-HHS Evaluation Policy
+Independence
+-NAS Federal statistical
+-Evaluations that include
+-OMB IQA Guidelines
+-Analysis of surveys
+agencies must ensure
+surveys must ensure
+require that agencies
+must ensure authority
+authority and autonomy
+authority and autonomy
+ensure objectivity and
+and autonomy to
+to determine methods,
+to determine methods,
+that information is
+determine methods,
+conduct activities, and
+conduct activities, and
+accurate, reliable, and
+conduct activities, and
+publish results[13]
+publish results (OMB
+unbiased.
+publish results (OMB
+-IQA objectivity standard
+standards)
+-Agency surveys must
+standards)
+for statistics
+-OMB M-20-12
+ensure authority and
+-IQA standards for
+disseminated
+Evaluation Standard for
+autonomy to determine
+objectivity for
+-OMB standards for
+independence
+methods, conduct
+analyses and analytic
+statistical surveys
+-HHS Evaluation Policy
+activities, and publish
+results disseminated
+(applies to all programs
+results (OMB standards)
+to the public
+conducting statistical
+surveys)
+-OMB Statistical Policy
+Directive 1 and 4
+Page 32 of 32

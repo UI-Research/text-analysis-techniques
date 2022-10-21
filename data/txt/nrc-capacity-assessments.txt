@@ -1,0 +1,3309 @@
+Capacity
+Assessment
+For Statistics, Research,
+Evaluation, and Other Analysis
+Fiscal Year 2022
+AVAILABILITY OF REFERENCE MATERIALS
+IN NRC PUBLICATIONS
+NRC Reference Material
+Non-NRC Reference Material
+As of November 1999, you may electronically access
+Documents available from public and special technical
+NUREG-series publications and other NRC records at the
+libraries include all open literature items, such as books,
+NRC's Library at www.nrc.gov/reading-rm.html. Publicly
+journal articles, transactions, Federal Register notices,
+released records include, to name a few, NUREG-
+Federal and State legislation, and congressional re-
+series publications; Federal Register notices; applicant,
+ports. Such documents as theses, dissertations, foreign
+licensee, and vendor documents and correspondence;
+reports and translations, and non-NRC conference
+NRC correspondence and internal memoranda; bulletins
+proceedings may be purchased from their sponsoring
+and information notices; inspection and investigative
+organization.
+reports; licensee event reports; and Commission papers
+and their attachments.
+Copies of industry codes and standards used in a
+substantive manner in the NRC regulatory process are
+NRC publications in the NUREG series, NRC regulations,
+maintained at-
+and Title 10, "Energy," in the Code of Federal Regulations
+The NRC Technical Library
+may also be purchased from one of these two sources:
+Two White Flint North
+11545 Rockville Pike
+1. The Superintendent of Documents
+Rockville, MD 20852-2738
+U.S. Government Publishing Office
+Washington, DC 20402-0001
+These standards are available in the library for refer-
+Internet: www.bookstore.gpo.gov
+ence use by the public. Codes and standards are usually
+Telephone: (202) 512-1800
+copyrighted and may be purchased from the originating
+Fax: (202) 512-2104
+organization or, if they are American National Standards,
+from-
+2. The National Technical Information Service
+American National Standards Institute
+5301 Shawnee Road
+11 West 42nd Street
+Alexandria, VA 22312-0002
+New York, NY 10036-8002
+Internet: www.ntis.gov
+Internet: www.ansi.org
+1-800-553-6847 or, locally, (703) 605-6000
+(212) 642-4900
+A single copy of each NRC draft report for comment
+Legally binding regulatory requirements are stated only in
+is available free, to the extent of supply, upon written
+laws; NRC regulations; licenses, including technical speci-
+request as follows:
+fications; or orders, not in NUREG-series publications. The
+views expressed in contractor prepared publications in this
+Address: U.S. Nuclear Regulatory Commission
+series are not necessarily those of the NRC.
+Office of Administration
+Digital Communications and Administrative
+The NUREG series comprises (1) technical and adminis-
+Services Branch
+trative reports and books prepared by the staff (NUREG-
+XXXX) or agency contractors (NUREG/CR-XXXX), (2)
+Washington, DC 20555-0001
+proceedings of conferences (NUREG/CP-XXXX), (3)
+E-mail: Reproduction.Resource@nrc.gov
+reports resulting from international agreements (NUREG/
+Facsimile: (301) 415-2289
+IA-XXXX), (4) brochures (NUREG/BR-XXXX), and (5)
+compilations of legal decisions and orders of the Com-
+Some publications in the NUREG series that are posted
+mission and the Atomic and Safety Licensing Boards and
+at the NRC's Web site address www.nrc.gov/reading-rm/
+of Directors' decisions under Section 2.206 of the NRC's
+doc-collections/nuregs are updated periodically and may
+regulations (NUREG-0750).
+differ from the last printed version. Although references
+to material found on a Web site bear the date the material
+DISCLAIMER: This report was prepared as an account
+of work sponsored by an agency of the U.S. Government.
+was accessed, the material available on the date cited
+Neither the U.S. Government nor any agency thereof, nor
+may subsequently be removed from the site.
+any employee, makes any warranty, expressed or implied,
+or assumes any legal liability or responsibility for any third
+party's use, or the results of such use, of any information,
+apparatus, product, or process disclosed in this publication,
+or represents that its use by such third party would not
+infringe privately owned rights.
+ABSTRACT
+The U.S. Nuclear Regulatory Commission (NRC or the agency) is an independent agency
+established by the Energy Reorganization Act of 1974, which began operations in 1975 as a
+successor to the Atomic Energy Commission. The NRC is required by the Foundations for
+Evidence-Based Policymaking Act of 2018 to generate a capacity assessment, which is an
+accounting of NRC's capacity to carry out the evidence-building activities needed to meet its
+functions (i.e., the NRC's mission is to license and regulate the Nation's civilian use of
+radioactive materials, to provide reasonable assurance of adequate protection of public
+health and safety, and to promote the common defense and security and to protect the
+environment) and its capacity to disseminate and use evidence. This capacity assessment
+uses a structured approach for assessing and building the agency's capacity (e.g., staffing,
+funding, infrastructure, and processes) to carry out evidence-building activities (e.g.,
+analysis, research, and evaluation) necessary to support agency functions. This approach
+identifies areas where new or different investments could strengthen or improve the
+agency's ability to meet its mission and strategic goals. The capacity assessment identified
+27 findings and associated mitigating strategies that represent opportunities to enhance
+the NRC's capacity.
+iii
+L
+<<<<<<
+62%
+26%
+000
+51%
+15
+mu
+*****
+CAPACITY
+<<<*<<
+<<<<<<
+I
+***<
+BUILDING
+<<***< C
+de
+100
+IPM
+sa
+TABLE OF CONTENTS
+ABSTRACT
+iii
+LIST OF FIGURES
+vii
+EXECUTIVE SUMMARY
+ix
+1. INTRODUCTION
+1
+2. PURPOSE
+1
+3. APPROACH
+2
+3.1 Coverage
+2
+3.2 Quality, Methods, Independence, and Effectiveness
+3
+4. AGENCY ENVIRONMENTAL SCAN
+5
+4.1 Reactor Safety Program
+5
+4.1.1 Operating Reactors Business Line
+5
+4.1.2 License Renewal and Subsequent License Renewal
+7
+4.2 New Reactors Business Line
+8
+4.2.1
+Light-Water Reactors
+8
+4.2.2
+Advanced Reactors
+8
+4.2.3
+Medical Radioisotope Facilities
+9
+4.3 Nuclear Materials and Waste Safety Programs
+9
+4.3.1 Decommissioning and Low-Level Waste Business Line
+9
+4.3.2 Spent Fuel Storage and Transportation Business Line
+10
+4.3.3 Fuel Facilities Business Line
+10
+4.3.4
+Emerging Technologies
+11
+4.3.5
+Agreement States
+11
+4.4 Information Technology and Information Management
+12
+4.5 Cross-Business-Line Functions
+12
+4.5.1 Rulemaking
+12
+4.5.2 Research
+13
+5. ASSESSMENT OF KEY AGENCY FUNCTIONS
+13
+5.1 Licensing
+13
+5.1.1 Coverage
+14
+5.1.2
+Quality, Methods, Independence, and Effectiveness
+17
+5.1.3 Findings and Mitigating Strategies
+18
+5.2 Oversight
+19
+V
+5.2.1 Coverage
+19
+5.2.2 Quality, Methods, Independence, and Effectiveness
+23
+5.2.3 Findings and Mitigating Strategies
+25
+5.3 Research
+26
+5.3.1
+Coverage
+26
+5.3.2
+Quality, Methods, Independence, and Effectiveness
+29
+5.3.3 Findings and Mitigating Strategies
+31
+5.4 Rulemaking
+33
+5.4.1
+Coverage
+33
+5.4.2
+Quality, Methods, Independence, and Effectiveness
+36
+5.4.3 Findings and Mitigating Strategies
+38
+5.5 Financial Management
+39
+5.5.1 Coverage
+39
+5.5.2
+Quality, Methods, Independence, and Effectiveness
+41
+5.5.3 Findings and Mitigating Strategies
+42
+5.6 Evaluation
+43
+5.6.1 Coverage
+43
+5.6.2 Quality, Methods, Independence, and Effectiveness
+44
+5.6.3 Findings and Mitigating Strategies
+44
+5.7 Crosscutting Items
+45
+5.7.1
+Staffing Gaps
+45
+5.7.2
+Knowledge Management
+46
+5.7.3
+Competency Modeling
+47
+5.7.4
+Statistics
+49
+5.7.5
+Data
+49
+5.7.6
+Artificial Intelligence
+51
+5.7.7
+Environmental Justice
+52
+5.7.8 Recent Operational Experience
+53
+5.7.9 Workforce Planning Process
+54
+5.7.10 Reduction in Support Staff
+55
+5.7.11 Corporate Support Resource Limit
+56
+6. LIST OF EVIDENCE-BUILDING ACTIVITIES
+57
+- vi -
+LIST OF FIGURES
+Figure 1 - Number of Operating U.S. Commercial Nuclear Power Reactors
+6
+Figure 2 - Nuclear Reactor Safety Program Licensing Resources and Actions
+14
+Figure 3 - Nuclear Materials and Waste Safety Program Licensing
+Resources and Actions
+15
+Figure 4 - Licensing Positions with the Largest Projected Gaps
+16
+Figure 5 - Licensing Analysis Survey Responses
+17
+Figure 6 - Nuclear Reactor Safety Program Oversight Resources and Inspections
+20
+Figure 7 - Nuclear Materials and Waste Safety Program Oversight
+Resources and Inspections
+21
+Figure 8 - Oversight Inspector Positions with the Largest Projected Gaps
+22
+Figure 9 - Oversight Analysis Survey Responses by Attribute
+24
+Figure 10 - Nuclear Reactor Safety Program Research Resources
+27
+Figure 11 - Nuclear Materials and Waste Safety Program Research Resources
+27
+Figure 12 - Research Evidence-Building Positions with the Largest Projected Gaps
+28
+Figure 13 - Research Survey Results
+29
+Figure 14 - Research Contract Data as of May 2021
+30
+Figure 15 - Quality Survey Results on NRC Research Projects
+31
+Figure 16 - Nuclear Reactor Safety Program Rulemaking Resources and Actions
+34
+Figure 17 - Nuclear Materials and Waste Safety Program Rulemaking
+Resources and Actions
+34
+Figure 18 - Rulemaking Positions with the Largest Projected Gaps
+35
+Figure 19 - Rulemaking Analysis Survey Responses
+36
+Figure 20 - Financial Management Resources
+40
+Figure 21 - Financial Management Positions with Projected Gaps
+40
+Figure 22 - Financial Management Analysis Survey Responses
+42
+Figure 23 - Identification of Competency Models with Sufficient Data
+48
+Figure 24 - Information Technology Budget Spent on DME
+50
+Figure 25 - Technical and Support Staff Reductions
+55
+- vii
+EXECUTIVE SUMMARY
+The NRC's capacity assessment uses a structured approach for assessing and building the
+agency's capacity (i.e., staff, funding, infrastructure, and processes) to carry out evidence-
+building activities (e.g., analysis, research, statistics, and evaluation) necessary to support
+agency functions. This approach identifies areas where new or different investments could
+strengthen or improve the agency's ability to meet its mission and strategic goals.
+The NRC's capacity assessment focuses on the evidence-building activities used to support
+the key agency functions of licensing, oversight, research, rulemaking, financial
+management, and evaluation. For simplicity, this capacity assessment sometimes refers to
+NRC functions, and the evidence-building activities that support those functions,
+interchangeably. Future annual updates may expand to other key agency functions. The
+evidence-building activities applicable to the six NRC key agency functions are assessed
+against the attributes of coverage, quality, independence, methods, and effectiveness.¹ The
+capacity assessment includes a review of budget information, workload and workforce
+data, competency model assessment results, and data collected during a series of focus
+groups used to survey staff and management. Additional interviews were held with staff
+and management to further refine the findings and mitigating strategies. Staff input was
+essential in developing the capacity assessment, and this document empowers staff by
+building upon their shared ideas to enhance NRC's evidence-building capacity.
+The NRC has identified 27 findings within this capacity assessment that are intended to
+enhance the NRC's ability to perform evidence-building to support key agency functions.
+The following seven findings are considered to be a priority for the agency and are
+expected to have the largest influence on the agency's capacity for evidence-building.
+These findings are summarized below. Sections 5.1-5.7 discuss the findings and mitigating
+strategies in further detail.
+The NRC's Strategic Workforce Planning (SWP) process results indicate that there are
+key evidence-building positions with expected staffing gaps across each agency
+function analyzed in this capacity assessment including licensing, oversight,
+research, rulemaking, and financial management. In addition, there are key
+evidence-building positions that are potentially susceptible to high attrition. The
+specific positions within each functional area are discussed further in Sections 5.1- -
+5.5.
+Knowledge management tools are not utilized to their fullest extent to ensure
+successful capture and transfer of knowledge to staff. Survey results for each of the
+key agency functions show that approximately half of surveyed staff and
+1
+Office of Management and Budget (OMB) Memorandum M-20-12, "Phase 4 Implementation of the
+Foundations for Evidence-Based Policymaking Act of 2018: Program Evaluation Standards and Practices,"
+dated March 10, 2020, discusses the details of many of these attributes.
+ix -
+management usually use knowledge management resources and processes
+(internal wiki site, videos, publications, etc.) to capture best practices. Knowledge
+management is important for all staff at different points in their career, however
+there is particular urgency because approximately 26 percent of the NRC's
+workforce is currently eligible to retire and approximately 44 percent will be eligible
+to retire within the next 5 years. In addition, a number of positions identified in this
+assessment could potentially be negatively impacted by high attrition over the next
+5 years (Section 5.7.1).
+The NRC competency modeling program requires refinement in order to provide
+insights into agencywide skill gaps. The NRC's use of competency model
+assessments has the potential to be a powerful tool for identifying agencywide skill
+gaps that, if addressed, would strengthen the NRC workforce. However, the
+competency model assessment data from fiscal years (FY) 2020 and 2021 are not
+sufficient to identify critical agencywide skill gaps. An analysis of the FY 2020 and
+FY 2021 competency model assessment results has enabled a better understanding
+of the ways to improve this tool. Potential improvements identified include
+(1) increasing participation rates for both staff and managers, (2) establishing a core
+set of skills for competency models with the same position across offices
+(e.g., project managers, engineers), (3) adding competency models for staff without
+a model currently assigned, (4) refining the existing models to verify that staff are
+assessed only for competencies that apply to them, (5) ensuring a more consistent
+approach for establishing target ratings, and (6) addressing limitations to the
+current tool to improve reports and the ability to produce individual development
+plans directly from the system (Section 5.7.3).
+The NRC needs a sufficient knowledge base to effectively employ artificial
+intelligence (AI) within NRC's processes and to regulate the use of Al externally. Al
+tools can be a powerful and beneficial asset to the NRC. To maximize the usefulness
+of Al tools, the NRC needs to have (1) sufficient staff knowledge and familiarity with
+them, (2) access to the latest programs, software, and libraries, and (3) high-quality
+datasets. The NRC is exploring the potential ways that applicants and licensees can
+use Al and digital twins. 2 However, the NRC staff currently has limited technical
+capacity to review and regulate technologies relying on Al. Technical knowledge and
+skills should be enhanced to improve readiness in the future. The staff needs to be
+familiar with a range of potential technologies, have adequate training support in
+place, and have a data science and Al knowledge base available. The NRC needs to
+develop a way to track its progress toward achieving technical and regulatory
+readiness to review such applications to ensure sufficient licensing and oversight
+capacity (Section 5.7.6).
+2
+A digital twin is a virtual representation that serves as the real-time digital counterpart of a physical object
+or process.
+- X -
+Caps on corporate costs in annual budget justifications, pursuant to the Nuclear
+Energy Innovation and Modernization Act (NEIMA) have caused the NRC to reduce
+or postpone critical investments and services including modernization of
+information technology systems which affect the NRC's capacity for performing
+evidence-building analysis. Continued postponements of critical investments and
+services will negatively impact the NRC's capacity to perform evidence-building
+activities to support the agency mission. The NRC identified major efficiencies and
+areas for cost savings within corporate support just prior to, and within the initial
+implementation of NEIMA, and has prioritized spending that is integral to the
+success of the agency's mission. Continued reductions to meet the corporate
+support cap are not sustainable, are already negatively impacting the agency, and
+will have an even greater impact as the corporate support cap declines in future
+years (Section 5.7.11).
+The NRC anticipates challenges associated with the Resident Inspector Program
+regarding recruitment and retention and would benefit from a data-driven
+approach for monitoring and assessing the program's health. The NRC senior
+leadership have reported challenges in attracting and retaining high-quality senior
+resident inspectors and resident inspectors to staff the Resident Inspector Program.
+The program needs to offer sufficient incentives to ensure that resident inspector
+vacancies can be promptly filled (Section 5.2).
+The NRC would benefit from institutionalizing program evaluation into agency
+activities similar to the implementation of enterprise risk management and
+performance management. Because evaluation is a scientific discipline, "credible
+evaluations must be managed by qualified evaluators with relevant education, skills,
+and experience for the methods undertaken." Hiring an individual or external firm
+qualified in designing and performing program evaluations would enhance the
+effectiveness and efficiency of the NRC's programs, policies, operations, and
+organizations to ensure measurable results. The program evaluator would serve as
+an agencywide resource for designing evaluations consistent with the standards in
+the NRC's "Evidence-Building and Evaluation Policy Statement" and the Foundations
+for Evidence-Based Policymaking Act of 2018 (Evidence Act) (Section 5.6). 4
+3
+OMB Memorandum M-20-12, "Phase 4 Implementation of the Foundations for Evidence-Based
+Policymaking Act of 2018: Program Evaluation Standards and Practices," dated March 10, 2020, page 4.
+4
+"Evidence-Building and Evaluation Policy Statement," June 3, 2021 (available in the Federal Register at
+86 FR 29683).
+- xi
+1. INTRODUCTION
+The NRC recognizes the importance and value of public communication and involvement
+as a cornerstone of strong, fair, and transparent regulation of the nuclear industry. The
+public is kept informed of the NRC's regulatory activities through a variety of meetings
+open to the public, including Commission meetings, advisory committee meetings,
+hearings, and staff meetings. The NRC develops regulations, regulatory guidance, and
+various forms of externally directed communications. The agency strives to make its work
+publicly available through a variety of platforms, such as its public website and social media
+platforms including Facebook, Twitter, and YouTube.
+The NRC's capacity assessment provides a unique insight into the challenges, needs, and
+opportunities to improve the agency's capacity. This capacity assessment is the first of its
+kind for the agency and includes findings that were identified through the assessment
+process discussed below, as well as findings that have been previously identified and are
+currently being mitigated. Moving forward, annual updates to this initial capacity
+assessment will continue to document findings that may impact the agency's capacity.
+Previously identified findings and associated mitigating strategies included in the capacity
+assessment are monitored through agency strategic planning meetings with senior
+leadership and through the NRC's Enterprise Risk Management process, if appropriate.5
+The NRC will continue to use these processes to ensure agency coordination and progress.
+In addition, the findings included in this capacity assessment are in many cases, complex in
+nature and cannot be solved with stopgap solutions. Implementation of the mitigating
+strategies may require strategic approaches to gain additional information and data over
+the next 4 years to ensure meaningful change and improvement.
+Readers should keep in mind that this document reflects the NRC's Evaluation Officer's
+assessment, under the direction of the Executive Director for Operations, of the agency's
+capacity at the time it was written.6 Importantly, capacity is not fixed; it is the agency's goal
+to have the appropriate capacity to build and use evidence in service of meeting its
+mission.
+2. PURPOSE
+The NRC's capacity assessment is intended to assess, build, and maintain the capacity to
+conduct evidence-building activities by (1) establishing baselines that enable measurable
+results over time for key agency functions, (2) identifying opportunities to enhance
+technical expertise for evidence-building, (3) increasing knowledge of evidence-building
+methodologies, practices, and standards, and (4) improving the agency's processes and
+5
+Management Directive (MD) 4.4, "Enterprise Risk Management and Internal Control" dated
+December 14, 2017 is available at https://www.nrc.gov/reading-rm/doc-collections/management
+directives/index.html.
+6
+Key Evidence Act positions are listed on the NRC's website at https://www.nrc.gov/about-nrc/plans
+performance/evidence-building-and-evaluation.html
+- 1
+ability to make evidence-based decisions. This initial capacity assessment is a starting point
+and will require a continuous effort to achieve its full potential of strategically identifying
+agency challenges that could impact the agency mission and strategic goals. The NRC
+reviews and updates the capacity assessment annually to identify new findings, update
+past findings, and ensure that progress is made toward mitigating strategies.
+3. APPROACH
+This initial capacity assessment begins to set baselines for evidence-building activities
+within key agency functions. By focusing on key agency functions, the capacity assessment
+produces discernible results and avoids overgeneralization of the different types of
+evidence-building activities performed across key agency functions. The key agency
+functions selected for this initial capacity assessment are licensing, oversight, research,
+rulemaking, financial management, and evaluation. These key agency functions make up
+the bulk of the NRC's analysis, research, statistics, and evaluation activities. While the key
+agency function of evaluation is not a new concept, the Evidence Act has elevated the
+importance of evaluation of programs, policies, operations, and organizations to improve
+effectiveness and efficiency.
+"The Evidence Act requires each agency to produce a capacity assessment for research,
+evaluation, statistics, and other analysis [evidence-building activities] .7 While statistics is
+included in the NRC's capacity assessment, the NRC is not a statistical agency. 8 Therefore,
+the use of statistics is typically prescriptive in nature and inherent in much of the technical
+analysis performed to support the key agency functions. These evidence-building activities
+are required to be assessed against the attributes of coverage, quality, methods,
+effectiveness, and independence. Findings and insights resulting from the capacity
+assessment will also support the NRC's ability to conduct evidence-building activities
+associated with the priority questions included in the NRC's Evidence-Building Plan.9
+3.1 Coverage
+The attribute of coverage focuses on the distribution of evidence-building activities,
+workforce gaps and surpluses, and skill gaps in the workforce as follows.
+Distribution of evidence-building activities-Each key agency function may use different
+types of evidence-building activities to support decisionmaking. However, considering that
+the NRC is a regulatory agency, technical analysis is the most prominent type of evidence-
+building activity performed. The budgeted resources for each key agency function are
+7
+OMB Memorandum M-21-27, "Evidence-Based Policymaking: Learning Agendas and Annual Evaluation
+Plans," dated June 30, 2021, page 15.
+8
+Consistent with Title III of the Evidence Act, a Federal statistical agency is an agency or organizational unit of
+the Executive Branch whose activities are predominantly the collection, compilation, processing, or analysis
+of information for statistical purposes, as designated by OMB. 44 U.S.C. § 3561(11)
+9
+ https://www.nrc.gov/about-nrc/plans-performance/evidence-building-and-evaluation/learning-agenda.html
+- 2
+segmented by business line to better show how evidence-building activities are distributed
+across the NRC. 10 Workload indicators for activities that are comprised of evidence-building
+activities (e.g., number of licensing actions and inspections completed which are supported
+by analysis) are used for comparison to the budgeted resources.11
+Workforce gaps and surpluses-The NRC's workforce is critical to performing evidence-
+building activities necessary to carry out its mission. The NRC's Strategic Workforce
+Planning (SWP) process is used to strategically recruit and retain the workforce needed for
+the expected workload over a duration of 5 years. The gaps and surpluses identified by the
+SWP process are analyzed to provide a full understanding of potential workforce challenges
+for each key agency function, assuming no hiring and the estimated workload occurs.
+Potential workforce challenges are then strategically mitigated to ensure adequate
+workforce coverage and mitigating strategies are discussed in the relevant sections.12
+Skill gaps-The NRC's competency models are used to identify skill gaps across the
+workforce specific to evidence-building including analysis, research, evaluation, and
+statistics. Competency models and assessments improve workforce agility by (1) providing
+a means of comparing an employee's current skillset to the skills needed now and, in the
+future, and (2) helping to ensure a workforce with the necessary skills to be successful in a
+dynamic environment with the identification of training, mentoring and rotations to
+address skill gaps.
+3.2
+Quality, Methods, Independence, and Effectiveness
+The attributes of quality, methods, independence, and effectiveness are used to assess
+how the NRC performs evidence-building activities, as discussed below:
+Quality refers to the measure of an evidence-building activity in comparison to established
+standards such as rigor, relevance and utility, transparency, collaboration, independence
+and objectivity, and ethics.13
+Methods refers to the extent to which appropriate methodologies and standards are
+applied, and if agency guidance, or procedures are followed.
+10
+NRC business lines include Operating Reactors, New Reactors, Nuclear Materials Users, Decommissioning
+and Low-Level Waste, Fuel Facilities, Spent Fuel Storage and Transportation, and Corporate Support (which
+includes Financial Management).
+11
+The budgeted resources are shown at the Product Line level, rather than for individual evidence-building
+activities.
+12
+"Enhanced Strategic Workforce Planning Pilot Lessons-Learned Report, Appendix B, Enhanced Strategic
+Workforce Planning Process," June 11, 2018, ADAMS Accession No. ML18162A073.
+13
+The NRC's "Evidence-Building and Evaluation Policy Statement" and Management Directive 3.17, "NRC
+Information Quality Program," discuss standards for the attribute of quality.
+- 3
+Independence refers to the extent to which evidence-building activities are free from bias
+and inappropriate influence.
+Effectiveness refers to the degree to which an activity is successful in achieving a desired
+result. 14 Effectiveness should produce clear and concise results, ensure that internal and
+external stakeholders needs are met, and create information useful to the agency's
+decisionmaking.
+These attributes were assessed using quantitative and qualitative data obtained by
+engaging with internal stakeholders (e.g., staff, management, and senior leadership)
+through a variety of methods to support data triangulation including focus group
+discussions, surveys, and followup interviews. The NRC's senior leadership was asked to
+select knowledgeable staff to represent the key agency functions and participate in focus
+groups and surveys. A total of 218 staff members and managers participated in 12 focus
+groups.
+Surveys were administered during the focus groups to discuss the survey questions and
+offer the opportunity to ask clarifying questions. This unique approach produced credible
+results because participants had a clear and common understanding of each survey
+question before responding. The 20-question survey contained several multiple-choice
+questions to address the attributes of quality, methods, independence, and effectiveness.
+The survey questions focused on the extent to which staff have capacity to perform
+evidence-building activities to support their NRC function. The survey also contained an
+open-ended question for qualitative feedback. Average scores were calculated for each
+attribute (i.e., quality, methods, independence, and effectiveness) for each key agency
+function.
+The survey results were compared to a maturity model
+Survey results mapped
+to indicate the maturity of each key agency function.
+to the maturity model
+The maturity model was developed by benchmarking
+Average
+Rating
+against other agencies' models and using the guidance
+Score
+provided by the Office of Management and Budget
+3-4
+High Capacity
+(OMB) that define the standards and practices. The
+2-3
+Medium Capacity
+survey results establish a baseline for each of the
+1.5-2
+evidence-building attributes (quality, methods,
+Low Capacity
+effectiveness, and independence).
+1-1.5
+Marginal Capacity
+14
+This is defined in the NRC Strategic Plan 2022-2026, which is available in ADAMS at Accession No.
+ML22067A170.
+- 4-
+4. AGENCY ENVIRONMENTAL SCAN
+An environmental scan was conducted to forecast the environment that may affect the
+NRC's capacity over the next 5 years. The agency environmental scan is based on
+information known as of March 2022, and provides information on internal and external
+drivers that may influence the NRC's workload and workforce. Many internal and external
+factors may influence the environment in which the NRC will operate through FY 2026.
+These factors include industry operating experience, national priorities, climate change
+impacts, the security and threat environment, legislation, Federal court litigation, market
+trends, new technologies, public health emergencies, and resource availability. The agency
+environmental scan considered these factors when identifying potential impacts that could
+affect the NRC's capacity to conduct analysis, evaluation, research, and statistical activities
+in support of the agency mission.
+4.1
+Reactor Safety Program
+4.1.1 Operating Reactors Business Line
+The United States currently has 93 operating commercial nuclear power reactors
+(operating reactors). Seven operating reactors ceased operations and shut down from
+FY 2016 through FY 2021 (Figure 1). The decrease has been mainly in the northeastern
+United States, the geographic region overseen by the NRC's Region I Office. The total
+number of operating reactors is expected to be relatively flat over the next five years. The
+number of shutdown nuclear power reactors was offset in FY 2017 with the addition of
+Watts Bar Nuclear Plant, Unit 2, and future offsets are expected to occur in FY 2022 and
+FY 2023 with the addition of Vogtle Electric Generating Plant, Units 3 and 4, respectively.
+Oversight and licensing activities, including inspections, operator licensing, event
+evaluation, allegations, and enforcement, should be relatively constant over the next few
+years.
+Once construction on Vogtle Units 3 and 4 is complete, the workload for the NRC's
+Construction Inspection Program will decrease through FY 2023. Vendor inspections are
+expected to continue at a steady pace through FY 2026, with focus shifting from vendors
+supporting Vogtle Unit 3 and 4 construction to vendors supplying operating reactors and
+advanced reactor applicants.
+- 5- -
+Fiscal
+Reactor Name
+Status
+100
+99
+99
+98
+Year
+96
+94
+93
+93
+94
+94
+90
+18
+17
+92
+92
+17
+17
+Fort Calhoun
+2017
+Shutdown
+17
+17
+17
+17
+17
+15
+15
+so
+Watts Bar Unit 2
+2017
+Operation
+70
+24
+24
+24
+24
+Oyster Creek
+2018
+Shutdown
+23
+23
+22
+22
+22
+22
+22
+60
+Pilgrim
+2019
+Shutdown
+50
+Three Mile Island Unit 1
+2019
+Shutdown
+40
+32
+33
+33
+33
+33
+35
+35
+Indian Point Unit 2
+33
+34
+35
+2020
+Shutdown
+35
+30
+Duane Arnold
+2020
+Shutdown
+20
+Indian Point Unit 3
+2021
+Shutdown
+10
+25
+25
+24
+22
+21
+20
+20
+20
+20
+20
+20
+Vogtle Unit 3
+2022
+Operation
+0
+Palisades
+2022
+Shutdown
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+Vogtle Unit 4
+2023
+Operation
+Region I
+Region II
+Diablo Canyon Unit 1
+2025
+Shutdown
+Region III
+Region IV
+Number of Operating Plants
+Diablo Canyon Unit 2
+2025
+Shutdown
+Figure 1 - Number of Operating U.S. Commercial Nuclear Power Reactors
+(Actual from FY 2016-FY 2021 and Projected from FY 2022-FY 2026)
+Operating reactor licensees are adopting new technologies to improve safety and to
+operate more economically. These technologies include (1) expanded use of digital (versus
+analog) and wireless technologies, (2) accident tolerant fuel (ATF), and (3) additive
+manufacturing technology (e.g., three-dimensional printing). 15 The NRC must ensure that it
+has the technical skills to develop appropriate regulatory frameworks for these
+technologies, as well as adequate resources to perform associated licensing and oversight
+activities as more licensees adopt the technologies. In addition, the NRC must assess the
+likelihood of future similar technology adoptions and take appropriate action to effectively
+regulate such technologies.
+The NRC and the nuclear power industry continue to evolve into new areas, especially
+business-driven and information-driven innovation. In addition to more traditional
+improvements for areas such as ATF, higher enriched fuels, higher burnup fuels, and digital
+instrumentation and controls, the NRC must prepare for new areas of innovation such as
+additive manufacturing, flexible plant operation, digital twins, and other information-driven
+applications of Al.
+The nuclear power industry is a maturing industry (e.g., many personnel have extensive
+experience and facilities have systems with technology enhancements) and has developed
+efficient operation and maintenance practices for the existing technology. However,
+additional operation and maintenance costs can occur as equipment ages. Parts may
+become more expensive or difficult to find, necessitating full replacement and potential
+design changes. The NRC has made changes to its programs for the oversight of a maturing
+15
+ATFs are a set of new technologies that have the potential to enhance safety at U.S. nuclear power plants
+by offering better performance during normal operation, transient conditions, and accident scenarios.
+- 6 -
+industry and has seen an increase in emergent issues concerning aging management.
+Specifically, the NRC continues to enhance its inspection procedures, risk-informs sample
+selections, shares and utilizes operating experience, and has methods for conducting
+program adjustments, if needed.
+Over a plant's life, safety is ensured through maintenance and the plant's unique licensing
+basis. The two primary risk metrics used in analyzing internal events for operating reactors
+are core damage frequency and large early release frequency. In general, both have been
+trending downward because of improvements in operational practices (e.g., improved
+maintenance) and plant modifications, such as improved reactor coolant pump seals. On
+the other hand, the calculated risk from external hazards (e.g., seismic, flooding) has
+increased for many plants as licensees and the NRC have gained an improved
+understanding of these hazards. Furthermore, the effects of aging on components that
+have not been replaced (e.g., reactor coolant system piping) could affect future plant risk
+and need to be further understood. Improved risk profiles of the plants and better
+operation may lead to reduced oversight and licensing activities. However, there may be
+increased need for inspection and licensing activities to verify the acceptability of the
+licensee's probabilistic risk assessment models and for maintaining the NRC's Standardized
+Plant Analysis Risk models.
+4.1.2 License Renewal and Subsequent License Renewal
+The NRC has established a timely power reactor license renewal process and clear
+requirements that are needed to ensure safe operation for an extended period. The
+decision to continue operations beyond 40 years to 60 years is strictly an economic
+decision to be made by power reactor owners. The NRC anticipates license renewal work
+will continue through FY 2026. Future applications are expected to be submitted for one
+nuclear power plant per year in FY 2022 through FY 2024. 16
+Subsequent license renewal work is expected to increase through FY 2026 based on the
+letters of intent that the NRC has received and Duke Energy's public announcement that it
+intends to seek subsequent license renewal for its entire fleet. 17 Potential consideration for
+"life beyond 80" would also drive the need for increased understanding of aging
+management for critical components.
+16
+Stated in the NRC's 2022 Congressional Budget Justification (CBJ). This is available in ADAMS at Accession
+No. ML21181A336.
+17
+Duke Energy's public announcement is available at: https://news.duke-energy.com/releases/duke-energy-
+seeks-subsequent-license-renewal-for-oconee-nuclear-station
+7 -
+4.2
+New Reactors Business Line
+4.2.1 Light-Water Reactors
+Light-water small modular reactors (SMRs) have the potential to enhance safety and
+security as well as offer greater scalability and siting flexibility for locations unable to
+accommodate more traditional large light-water reactors (LWRs). The NRC anticipates
+receiving several new applications for combined licenses, design certifications, and
+standard design approvals for SMRs before FY 2026. This would result in a projected
+increase of SMR licensing activities over the next 5 years. 18 The NRC is reviewing current
+designs by NuScale, General Electric Hitachi, and Holtec, and these companies are seeking
+to change the way reactors are designed, built, and operated. As such, the licensing of
+these new SMRs must also evolve. Licensing work associated with three LWR designs is
+anticipated through FY 2026.
+4.2.2 Advanced Reactors
+Technological innovation is changing the way advanced reactor designs are being
+developed. Advanced non-LWRs will use heat pipes, gas, liquid metal, or molten salt as a
+coolant and are expected to enhance the margins of safety by using simplified, inherent,
+passive, or other means to accomplish their safety and security functions. Some will have a
+fast neutron spectrum, some will operate at or near atmospheric pressure, and some will
+be much smaller than current generation reactors.
+The Energy Policy Act of 2005 prompted a wave of design certification and combined
+license applications to the NRC for large LWRs. For various reasons, including economic
+factors, power generators are less likely to pursue LWRs and are expressing interest in non-
+LWR designs. The NRC continues to make significant progress in its activities to support
+licensing of non-LWRs, such as modernizing the agency's regulatory infrastructure to
+support licensing as required by Section 103 of the NEIMA.
+In addition, Congress has provided significant funding to the U.S. Department of Energy
+(DOE) to encourage investment in the design and development of commercial non-LWRs.
+DOE's Advanced Reactor Demonstration Program is funding two non-LWR designs with the
+objective of commercial operation by calendar year 2027. The demonstration program is
+also funding other designs with the objective of commercial operation in the 2030s.19
+At the end of FY 2021, the NRC continued to discuss future applications with about a dozen
+non-LWR designers. The NRC is reviewing one combined license application and one
+18
+As discussed in Appendix B to the "Regulatory Analysis for the Proposed Rule: Emergency Preparedness for
+Small Modular Reactors and Other New Technologies," the best estimate of the number of SMRs and non-
+LWRs is nine. This is available in ADAMS at Accession No. ML18134A0777.
+19
+Additional information is available at https://www.energy.gov/ne/advanced-reactor-demonstration
+program.
+- 8
+construction permit application for new non-LWRs and anticipates that several additional
+applications will be submitted through FY 2026.20
+4.2.3 Medical Radioisotope Facilities
+In support of the national initiative to establish a domestic supply of molybdenum-s
+(99Mo), the NRC is prepared to review license applications for medical radioisotope
+facilities. Potential and current applicants have proposed a variety of technologies to
+produce 99Mo, including accelerator-driven subcritical operating assemblies, nonpower
+reactors, hot cell structures, and target fabrication facilities. In most cases, these facilities
+will feature multiple technologies located at a single site to prepare or manufacture targets,
+irradiate targets, and process targets for 99Mo extraction. Given this diversity in technology,
+the licensing process for these facilities could vary based on the chosen production
+method. The NRC anticipates an increase in licensing and oversight for two operating
+license applications and two construction permit applications.
+4.3
+Nuclear Materials and Waste Safety Programs
+4.3.1 Decommissioning and Low-Level Waste Business Line
+The increasing number of power reactors entering decommissioning will continue, with
+three power reactors expected to enter decommissioning by the end of FY 2026. An
+increasing trend is expected to continue for power reactors attempting to transfer their
+spent fuel to dry cask storage (i.e., transition to independent spent fuel storage
+installations (ISFSIs)) within 3 to 5 years of final shutdown. Increased effort is expected for
+licensing reviews, such as license transfers to decommissioning entities, and reviews to
+support final site release, including license termination plans and final status survey
+reports. Inspections to support oversight of decommissioning activities (e.g., confirmatory
+surveys) are also expected to increase. Overall, the increase in power reactors entering
+immediate decommissioning will result in an increase in decommissioning inspections,
+ISFSI inspections, and licensing actions (i.e., technical and environmental reviews). Low-
+level waste disposal occurs at commercially operated low-level waste disposal facilities that
+must be licensed by either the NRC or Agreement States (for more information on
+Agreement States see Section 4.3.5). The four existing low-level waste disposal facilities in
+the United States accept various types of low-level waste; all are located in Agreement
+States. However, the NRC does review requests submitted by NRC licensees in accordance
+with Title 10 of the Code of Federal Regulations (10 CFR) 20.2002, "Method for obtaining
+approval of proposed disposal procedures," for the disposal of low-level waste at
+commercial disposal facilities. Given the increased interest in decommissioning of power
+reactors, the number of 10 CFR 20.2002 reviews may increase over the next five years.
+20
+Additional information on these submittals is available at https://www.nrc.gov/reactors/new-
+reactors/col/aurora-oklo.html and in ADAMS at Accession No. ML21272A376.
+- 9
+4.3.2 Spent Fuel Storage and Transportation Business Line
+The increasing number of power reactors entering decommissioning will cause an increase
+in the number of storage and transportation licensing and certification requests. Design
+changes for transportation packages for uranium hexafluoride and for packages that can
+accommodate both new fresh fuel and spent fuel for advanced reactors are expected to
+increase through FY 2026. Fuel vendors will also be seeking approval for transportation of
+ATF designs with enrichments above 5 percent. Widespread implementation of ATF and
+higher enriched designs would require increased licensing activity for transportation
+packages. Work on new fresh fuel and spent fuel transportation packages is expected to
+increase for advanced reactor fuel designs through FY 2026.
+As of this writing, the NRC has approved a consolidated interim storage facility (CISF)
+license for Interim Storage Partners and is currently reviewing one additional CISF
+application, for which a final licensing decision is anticipated in FY 2022. Increased interest
+is expected in commercial (i.e., nongovernment) shipment of spent nuclear fuel to one or
+both of these sites, resulting in an anticipated increase in technical reviews for security
+transportation plans, approval of security routes before transport of spent fuel, and
+coordination of oversight of shipping campaign activities to CISFs. For shipments to CISFs,
+the NRC oversight activities would increase at sites where spent fuel is moved from storage
+to transportation configurations and at receipt of shipments at one or both CISFs. The NRC
+staff is completing a regulatory review report of its readiness to support a potential
+increase in commercial shipments of spent nuclear fuel to the CISFs when they may begin
+operations. The staff review determined that the regulatory framework is complete and
+sufficient for commercial shipments and provided specific recommendations for updating
+and consolidating inspection procedures for greater efficiency for commercial shipments
+between licensed sites. A slight increase in licensing actions is anticipated to support new
+transportation package designs and oversight, as well as coordination of shipping
+campaign activities to interim storage facilities. Associated regulatory guidance documents
+will likely be needed to accommodate the number of designs and amendments.
+4.3.3 Fuel Facilities Business Line
+A potential increase is expected in licensing activities related to new fuel fabrication and
+enrichment facilities to support the production of fuel for advanced reactors that would
+operate with higher enrichments and different forms of fuels (e.g., higher enrichments and
+tri-structural isotropic fuel for pebble-bed, molten salt, or advanced gas-cooled reactors).
+The licensing and oversight functions for existing fuel facilities are expected to plateau
+through FY 2026.
+Several fuel vendors, in coordination with the DOE, have announced plans to develop and
+seek approval for various ATF fuel designs. The NRC's role with ATF is to review the new
+fuel technologies and their associated enrichment, fabrication, transportation, and storage
+aspects to ensure that they maintain public health and safety when used by NRC licensees.
+- 10 -
+Facility changes and license amendments will be needed to accommodate the enrichment
+and fabrication of fuel with enrichments above 5 percent. ATF research activities are
+expected to remain stable through FY 2026 to support the development of agency technical
+review capabilities.
+4.3.4 Emerging Technologies
+The NRC has seen an increase in medical applications of radioisotopes and advances in
+medical technologies for use in diagnosis, therapy, and medical research. The NRC
+anticipates an increase in the number of emerging technologies licensed by the NRC and
+Agreement States. The number of reviews and new or revised guidance related to
+emerging medical technology and radiopharmaceuticals is expected to increase through
+FY 2026 based on information from the Advisory Committee on the Medical Uses of
+Isotopes, as well as interactions with professional societies involved with emerging medical
+technologies, the manufacturers of emerging medical technologies and
+radiopharmaceuticals, the U.S. Food and Drug Administration, and the Agreement States.
+The staff also developed a rulemaking plan to restructure the regulations for emerging
+medical technologies. If approved, the rulemaking would require a multiyear staff effort
+that would result in an increased workload for rulemaking and medical health physics staff.
+The increase in workload in this area is consistent with the health physicist gap in the NRC
+workforce identified in Section 5.2.
+4.3.5 Agreement States
+Section 274b of the Atomic Energy Act authorizes the NRC to enter into agreements with
+individual States, in which the State assumes the NRC's authority to license and regulate
+certain radioactive materials and activities within its borders. In the past few years, several
+States have inquired about becoming an Agreement State, which would affect the number
+of licensees under NRC jurisdiction and thus the budget needed for direct licensing and
+inspection activities. The NRC staff received letters of intent from Connecticut on
+December 10, 2020, and from Indiana on June 11, 2021.21 Given the number of materials
+licenses in these States, there would be a moderate reduction in materials licensing and
+inspection workload in Region I and Region III if Connecticut and Indiana, respectively,
+become Agreement States. 22 Connecticut represents approximately 5 percent of NRC
+materials licensees, and Indiana accounts for approximately 9 percent of these licensees;
+specific resource changes would depend on the types of licensees and the associated
+licensing and inspection resources. These changes would not take effect until the
+agreement is in place. For Connecticut, the current projected date is January 1, 2025, so the
+21
+Connecticut's letter of intent is available at https://scp.nrc.gov/Connecticut.html and Indiana's letter of
+intent is available at https://scp.nrc.gov/Indiana.html.
+22
+If Michigan-another State that has previously expressed interest-were to become an Agreement State,
+there would be a significant workload reduction in materials licensing and inspection for NRC's Region III
+Office, given the many materials licensees in Michigan.
+- 11 -
+impacts would occur in FY 2025. For Indiana, the current projected date is January 1, 2026,
+so the impacts would occur in FY 2026.
+For each additional Agreement State, there would be a modest workload increase for the
+NRC's Agreement State support for Integrated Materials Performance Evaluation Program
+reviews and a larger span of work for the Regional State Agreement Officers.
+4.4
+Information Technology and Information Management
+The NRC continues to build a flexible, agile, and innovative information technology and
+information management environment that can support the rapid development of new
+technologies and changes in the nuclear industry. Technological advances continue to
+change the way the NRC works, communicates, and interacts. The NRC has ongoing efforts
+to strategically plan, modernize, and integrate information technology systems and
+applications throughout the agency and to increase internal capacity to gather, define,
+evaluate, analyze, link, and present data to support decisionmaking.
+The NRC has an increased demand for application development and data visualization
+activities, and in turn, this increases support requirements related to the underlying
+information technology platforms and end-user services. The NRC will need additional
+resources and expertise from data scientists, data analysts, data engineers, and Al
+specialists that are currently limited within the agency.
+The NRC is focused on modernizing information technology through FY 2026 to help the
+agency gain efficiency, improve proficiency, improve its security posture, standardize its
+system implementation approach, reduce costs, and improve enterprise systems'
+performance. Consistent with the OMB's Cloud Smart policy, the NRC will continue to use
+shared services and cloud options where appropriate when planning new mission or
+support applications or consolidating existing applications.
+4.5
+Cross-Business-Line Functions
+4.5.1 Rulemaking
+The NRC's rulemaking program supports the agency's mission by performing regulatory
+analyses to develop regulations. The NRC initiates a new rule or a change to an existing
+rule when necessary to protect public health and safety. Additionally, any member of the
+public may petition the NRC to develop, change, or rescind a rule. The Commission directs
+the NRC staff to begin work on a new rulemaking activity through approval of a staff
+rulemaking plan. Rulemaking activities may include development of the regulatory basis,
+proposed rule, final rule, direct final rule, and advanced notice of proposed rulemakings.
+The NRC anticipates a slight increase in rulemaking activities for FY 2022 and FY 2023 for
+the following business lines: Operating Reactors (e.g., License Renewal Generic
+Environmental Impact Statement and Transforming the NRC's Environmental Review
+- 12 -
+Process); New Reactors (e.g., Risk-Informed, Technology Inclusive Regulatory Framework
+for Advanced Reactors (10 CFR Part 53) and Advanced Nuclear Reactor Generic
+Environmental Impact Statement); and Nuclear Materials Users (e.g., Decommissioning
+Financial Assurance for Sealed and Unsealed Radioactive Material, Training and Experience
+Requirements for Unsealed Byproduct Materials).
+4.5.2 Research
+The NRC continues to perform research to provide technical advice, tools, and information
+for meeting the agency's mission, including resolving safety and security issues, making
+regulatory decisions, and promulgating regulations and guidance. Research will continue in
+support of agency priorities, as discussed in the environmental scan, including support of
+the University Nuclear Leadership Program and preparation for industry-driven innovation.
+Activities will be performed through FY 2026 to prepare for and support licensing and
+oversight of the operating fleet, licensing renewal and decommissioning advanced fuels,
+digital instrumentation, and controls, SMRs, and advanced reactors. Research activities will
+also support other areas of industry-driven innovation, such as those involving additive
+manufacturing, flexible plant operation, digital twinning, other areas of Al and machine
+learning, and the Nuclear Energy Innovation Capabilities Act of 2017.
+5. ASSESSMENT OF KEY AGENCY FUNCTIONS
+The evidence-building activities associated with the key agency functions are analysis,
+research, statistics, and evaluation. As previously discussed in Section 3.0, the capacity
+assessment includes an in-depth assessment of key agency functions and the associated
+evidence-building activities. Section 5.1 through Section 5.6 document the capacity
+assessment findings and mitigating strategies for each key agency function. Finally,
+Section 5.7 outlines the crosscutting issues that were identified across multiple key agency
+functions.
+5.1
+Licensing
+The NRC issues licenses (or certificates, in the case of spent fuel storage casks and nuclear
+materials transportation packages) to possess and use nuclear materials and operate
+nuclear facilities. Upon receipt of an application, the NRC performs analyses to determine
+whether the proposed activity can be conducted safely and securely in conformance with
+applicable regulations. Through the licensing process, the NRC authorizes an applicant to
+conduct the following activities:
+Construct and operate commercial reactors and fuel cycle facilities, including
+decommissioning and license termination.
+Possess, use, process, export, and import nuclear materials and waste and handle
+certain aspects of their transportation.
+Site, design, construct, operate, and close waste disposal sites.
+- 13 -
+5.1.1 Coverage
+5.1.1.1 Distribution of Evidence-Building Activities and Program Resources
+Trends in resources and work were examined to determine any challenges to the NRC's
+capacity to perform analysis in support of licensing. Figure 2 shows the trend in resources
+for reactor licensing along with the number of licensing actions completed. It should be
+noted that resources apply to the entire licensing program rather than the subset of
+evidence-building analysis to support licensing. Most of the NRC's licensing budget is
+associated with the Nuclear Reactor Safety Program, which includes the Operating Reactors
+and New Reactors business lines. Resources for the Nuclear Reactor Safety Program have
+decreased from about $126 million in FY 2018 to $108 million in FY 2021. The NRC reactor
+licensing actions have decreased by about 14 percent from FY 2018 to FY 2021 (from
+1,389 licensing actions to 1,200 licensing actions); similarly, total licensing resources for the
+Nuclear Reactor Safety Program have fallen by 14 percent from FY 2018 to FY 2021.
+$140
+o
+1389
+1301
+1400
+1223
+1200
+$120
+1200
+$100
+$45
+$38
+$39
+$40
+$27
+1000
+$32
+$80
+800
+$60
+$83
+$82
+$85
+$89
+600
+$40
+$81
+$75
+$20
+400
+$0
+200
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total Budget
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Authority (BA)
+Operating Reactors
+New Reactors
+Reactor Licensing Actions
+Figure 2 - Nuclear Reactor Safety Program Licensing Resources and Actions23
+The Nuclear Materials and Waste Safety Program, which is made up of the Spent Fuel
+Storage and Transportation, Nuclear Materials Users, Decommissioning and Low-Level
+Waste, and Fuel Facilities Business Lines, has seen a slight decline in resources from about
+$47 million in FY 2018 to about $41 million in FY 2021 (Figure 3). Total licensing resources
+for the Nuclear Materials and Waste Safety Program have fallen by 14 percent from
+FY 2018 to FY 2021; NRC Materials Program licensing actions have decreased by about
+20 percent over this time (from 1,681 licensing actions to 1,352 licensing actions).
+23
+This figure, and subsequent resource figures in this capacity assessment, include NRC staff resources
+(including management) and contractor costs. The graphs depict resource information which reflects the
+total budget authority (BA) and includes authorized prior-year carryover. It is important to note that
+licensing actions vary in their complexity, and different years may see more complex licensing actions (e.g.,
+those that require more review hours).
+14
+$60
+1681
+1663
+1508
+1352
+1500
+$6
+$40
+$6
+$4
+$5
+$6
+$5
+$16
+$12
+$11
+$11
+$10
+$11
+1000
+$20
+$9
+$10
+$9
+$9
+$9
+$10
+$16
+$16
+$15
+$17
+$14
+$15
+$0
+500
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Spent Fuel Storage and Transportation
+Nuclear Materials Users
+Decommissioning and Low-Level Waste
+Fuel Facilities
+Materials and Waste Licensing Actions
+Figure 3 - Nuclear Materials and Waste Safety Program Licensing Resources and Actions
+Licensing resources overall have fallen by 14 percent from about $173 million in FY 2018 to
+about $149 million in FY 2021. Similarly, NRC licensing actions had a corresponding
+decrease from about 3,100 to about 2,600 from FY 2018 to FY 2021, which is approximately
+a 17-percent reduction in licensing actions. Some of the increases in work for FY 2021 are
+due to the development of a regulatory infrastructure for advanced nuclear reactor
+technologies, as well as increases in subsequent license renewal applications and ATF
+topical reports. The decline in licensing actions is likely due to the six power plants that
+have entered decommissioning since 2018, as well as potential impacts from the COVID-19
+pandemic. 24 For the Nuclear Materials Users Business Line, which accounts for most of the
+licensing actions in the Nuclear Materials and Waste Safety Program, the decline in
+licensing actions is primarily due to a decrease in the number of materials licenses under
+NRC jurisdiction (e.g., Vermont became an NRC Agreement State at the end of FY 2019).
+5.1.1.2 Workforce Gaps and Surpluses
+The NRC has about 600 staff members who perform licensing activities related to operating
+reactors, new reactors, fuel cycle facilities, decommissioning, transportation and storage,
+nuclear materials licensing, and medical radioisotope facilities. The majority of these staff
+members are responsible for performing evidence-building analysis to support licensing.
+The SWP data illustrates that with projected attrition, by FY 2026, the NRC will be short by
+about 200 licensing staff whose positions will need to be filled. Expected attrition from
+retirements (171 staff) and net workload increases (31 staff) account for this gap,
+consistent with the discussion in the environmental scan. The largest future workforce gap
+is for project managers; while this is not typically an evidence-building position, it is
+included in this discussion because it is critical in supporting the evidence-building activities
+for licensing. Among the evidence-building positions that support licensing, the largest
+24
+As discussed during a September 30, 2021, Commission meeting, licensees may have deferred lower
+priority licensing actions because of the COVID-19 pandemic. The meeting transcript is available in ADAMS
+at Accession No. ML21288A219.
+- 15 -
+gaps exist for nuclear engineers, reactor engineers, risk analysts, materials engineers, and
+mechanical engineers (Figure 4).
+Project Manager
+Nuclear Engineer
+Reactor Engineer
+Projected 2026 Workforce (Demand) (183)
+Projected 2026 Workforce (Demand) (51)
+Projected 2026 Workforce (Demand) (88)
+Current Workforce (Supply) (177)
+Current Workforce (Supply) (45)
+Current Workforce (Supply) (87)
+Projected Workforce Attrition (-43)
+Projected Workforce Attrition (-13)
+Projected Workforce Attrition (-17)
+-49
+-19
+-18
+Projected Gap
+Projected Gap
+Projected Gap
+Risk Analyst
+Materials Engineer
+Mechanical Engineer
+Projected 2026 Workforce (Demand) (51)
+Projected 2026 Workforce (Demand) (43)
+Projected 2026 Workforce (Demand) (18)
+Current Workforce (Supply) (48)
+Current Workforce (Supply) (36)
+Current Workforce (Supply) (20)
+Projected Workforce Attrition (-12)
+Projected Workforce Attrition (-6)
+Projected Workforce Attrition (-12)
+-15
+-13
+-10
+Projected Gap
+Projected Gap
+Projected Gap
+Figure 4 - Licensing Positions with the Largest Projected Gaps
+between FY 2021-2026
+The largest future gap in licensing staff is project managers (-49 staff). This is followed by
+expected future gaps in the following evidence-building disciplines: nuclear engineering
+(-19 staff), reactor engineering (-18 staff), risk analyst (-15 staff), materials engineering
+(-13 staff), and mechanical engineering (-10 staff). The main factor in these staffing gaps is
+attrition. While increases are expected in the workload for advanced reactors and other
+areas as discussed in the environmental scan, these increases appear to be modest in
+comparison to the number of staff who are expected to be lost due to attrition. The NRC
+needs staff skilled in advanced reactor designs, operations, systems, and phenomena. This
+also includes staff skilled in the use of computer codes to model advanced reactor safety
+and operations. The need for computer codes and the supporting data and models is
+further discussed in Section 5.3.
+The SWP data were also analyzed to identify specific positions that may be particularly
+susceptible to attrition. To that end, positions with at least 40-percent total attrition
+projected over the 5-year period from FY 2021 through FY 2026 were also identified. Within
+the licensing function, chemical engineers, electronics and electrical engineers, emergency
+preparedness specialists, hydrogeologists, mechanical engineers, program managers for
+security, security specialists, and structural engineers are projected to face significant
+16 -
+attrition. Therefore, these positions also warrant additional attention to ensure that the
+NRC's capacity to perform analysis for licensing is not negatively impacted. 25
+The NRC has prepared strategies to address the future gaps in licensing employees. These
+strategies include cross-training current staff, placing Nuclear Regulator Apprenticeship
+Network (NRAN) graduates, offering job rotation opportunities and internal promotions,
+reassigning staff from other areas of the NRC, and posting vacancy announcements.
+5.1.2 Quality, Methods, Independence, and Effectiveness
+5.1.2.1 Focus Groups, Surveys, and Interviews
+The NRC held three focus groups for licensing with 65 staff who completed the survey. The
+participants included 6 Senior Executive Service (SES) managers, 12 Branch Chiefs, and
+47 staff covering the range of licensing programs. When aggregating the survey results
+from licensing staff, Figure 5 shows that most participants provided positive responses
+("usually" or "always"), which reflects well on the NRC's capacity for performing analysis to
+support licensing.
+Results from the focus group surveys include the following:
+As shown in Figure 5, the NRC has an overall maturity score of 3.1 out of 4 for
+licensing analysis. According to the NRC's maturity model, the agency's licensing
+function has an overall "High Capacity" rating for performing analysis.
+Licensing Analysis
+Overall Average Score = 3.1
+Percent of respondents (n=65) who gave positive responses and neutral or negative responses to
+survey questions for each attribute
+Average Score
+Effectiveness
+22%
+78%
+3.1
+Independence
+14%
+86%
+3.3
+Methods
+28%
+72%
+2.9
+Quality
+18%
+82%
+3.1
+Figure 5 - Licensing Analysis Survey Responses
+Review of quantitative survey responses shows that the methods attribute has the
+most potential for improvement with the lowest average score of 2.9 (rating of
+Medium Capacity). A review of the responses to the survey questions on methods
+25
+According to the SWP, the positions identified with high future attrition show that the NRC has a limited
+number of chemical engineers and hydrogeologists performing licensing work.
+- 17
+shows that the lowest response score was on the use of knowledge management
+resources and processes. These responses indicate the potential need to seek
+creative and innovative ways to promote increased use of knowledge management
+resources and processes.
+Discussions were held with staff members who perform analyses to support
+licensing activities. These discussions were aimed at sharing the results of the
+survey responses, discussing the suggested improvements, and identifying any
+other missed opportunities for enhancing the NRC's evidence-building activities.
+These discussions indicate that, to maximize the use of knowledge management,
+more staff time should be allocated to performing knowledge management
+activities and knowledge management should receive a higher priority. Additionally,
+discussions revealed that full advantage should be taken of senior-level staff
+experience.
+Review of qualitative survey responses provided several additional potential
+opportunities for improvement of the NRC's licensing program. However, none of
+these additional opportunities were significant enough to warrant its own finding
+and mitigating strategy as part of this capacity assessment.
+5.1.3 Findings and Mitigating Strategies
+Below are the findings and associated mitigating strategies to improve the NRC's capacity
+for performing analysis to support licensing. Other findings and associated mitigating
+strategies that impact licensing as well as other NRC functions are discussed in Section 5.7
+on Crosscutting Items.
+Finding: The SWP results indicate that the largest expected staffing gaps are in the
+following licensing positions: project managers, risk analysts, and engineers (i.e., reactor,
+nuclear, mechanical, and materials). This information was verified by confirming that these
+positions have been identified as future staffing gaps by the licensing business lines and
+that strategies have been developed to fill these positions.
+Mitigating Strategy: Where appropriate, the NRC should collaborate across
+organizations and develop an agencywide strategy to hire for positions susceptible
+to high attrition. The NRC should proactively use various recruiting, retention, and
+knowledge management resources to identify ways to ensure that qualified staff
+can perform NRC licensing functions.
+Finding: Licensing actions vary in their complexity (e.g., some licensing actions will take
+more review hours than others because of the specifics of the action requested). For this
+reason, it is difficult to ascertain whether NRC licensing actions of a similar scope are
+becoming more or less efficient while maintaining the agency's internal expectations of
+high-quality technical analyses performed by the NRC staff.
+- 18
+Mitigating Strategy: As discussed in Priority Question 4 of the NRC's Evidence-
+Building Plan, "To what extent are licensing actions performed by the NRC becoming
+more or less resource intensive over time and have there been any changes in work
+product quality," the NRC intends to perform an evaluation of the licensing program.
+The evaluation will (1) determine if similar licensing actions have become more or
+less resource intensive over time, (2) identify resource variances between similar
+licensing actions, (3) identify the factors contributing to the increase, decrease, and
+variance of resources for each type of licensing action, and (4) determine if there
+were any changes to the quality of the work products. The NRC will engage internal
+and external stakeholders to conduct this assessment.
+5.2
+Oversight
+The NRC's oversight function is designed to verify that U.S. licensees of nuclear power
+plants, research and test reactors, fuel cycle facilities, and materials users are operating in
+accordance with NRC rules, regulations, and license requirements. Inspectors follow
+guidance in the NRC's inspection manuals, which contain objectives and procedures to use
+for each type of inspection for each type of nuclear facility. Analysis is used to identify
+samples for inspection and then to interpret the results of inspections. Analysis is also used
+to observe and gain insights from operating experience data from the entire fleet of
+licensed facilities. The Reactor Oversight Process (ROP) is the NRC's program to inspect,
+measure, and assess the safety and security performance of operating commercial nuclear
+power plants and to respond to any decline in their performance. The ROP focuses
+inspections on areas of greatest risks, increases regulatory attention to nuclear power
+plants if performance declines, uses objective measurements of performance, gives the
+public timely and understandable assessments of plant performance, and responds to
+violations in a predictable and consistent manner that corresponds to the safety
+significance of the problem. The staff has developed a variety of dashboards and data tools
+to support its analysis, and various efforts are underway to increase the use of operating
+experience and Reactor Program System data to improve oversight analysis. There are
+parallel efforts in the Nuclear Materials and Waste Safety Program to leverage the use of
+licensing and inspection data within the NRC's Web-Based Licensing system and other
+agency databases to develop dashboards to improve technical and financial
+decisionmaking.
+5.2.1 Coverage
+5.2.1.1
+Distribution of Evidence-Building Activities and Program Resources
+Trends in resources and work were examined to determine any challenges to the NRC's
+capacity to perform analysis in support of oversight. The NRC's oversight budget stayed
+relatively flat from about $151 million in FY 2018 to $152 million in FY 2021. Oversight of
+operating reactors accounts for about 75 percent of the budget and has increased slightly
+- 19 -
+over the past 4 years. Oversight of new reactors has decreased from 9 percent of the total
+oversight budget in FY 2018 to 7 percent in FY 2021.
+Figure 6 shows the total number of reactor safety inspections completed by fiscal year,
+which includes inspections of operating reactors, research and test reactors, and new
+reactors. New reactor inspections are included in FY 2020 and FY 2021 but were not
+included in FY 2018 and FY 2019 because they were tracked using different metrics.
+Operating reactor inspections made up about 98 percent of the total inspections
+completed in FY 2018 and FY 2019, and about 88 percent of reactor safety inspections
+completed in FY 2020 and FY 2021. Research and test reactor inspections accounted for
+about 2 percent of all reactor safety inspections over the 4 years shown. New reactor
+inspections made up about 10 percent of the total in FY 2020 and FY 2021.
+Operating power reactor inspections decreased from 2,404 inspections in FY 2018 to 2,267
+in FY 2019 primarily because of the consolidation of several inspection procedures (IPs)
+into a single procedure whereas before they counted as separate completions. Operating
+reactor inspections saw a smaller decline to 2,257 in FY 2020; some could not be completed
+because of the required onsite components of the IP, the timing of the activities to be
+inspected, and actions taken by the NRC to protect the health and safety of both NRC and
+licensee staff, which restricted both onsite time and inspector travel, due to the ongoing
+COVID-19 pandemic. Operating reactor inspections saw a larger decrease in FY 2021 to
+1,917.
+2451
+2565
+2312
+2500
+$160
+2151
+$140
+$6
+$2
+2000
+$120
+$14
+$15
+$13
+$11
+$100
+1500
+$80
+$60
+$109
+$114
+$115
+$117
+$124
+$129
+1000
+$40
+500
+$20
+$0
+0
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Operating Reactors
+New Reactors
+Reactor Safety Program Inspections
+Figure 6 - Nuclear Reactor Safety Program Oversight Resources and Inspections
+Approximately 16 percent of the oversight budget over the past few years has covered the
+Nuclear Materials and Waste Safety Program (Figure 7), including the Spent Fuel Storage
+and Transportation, Nuclear Materials Users, Decommissioning and Low-Level Waste, and
+Fuel Facilities Business Lines. The proportion of funding across these components has
+been relatively consistent over this time period. Nuclear Materials Users inspections
+experienced a noteworthy decrease (from 761 to 373) in FY 2020 because of fewer nuclear
+20 -
+materials user inspections due to the COVID-19 pandemic. However, nuclear materials user
+inspections increased in FY 2021 from 373 to 588. Similar to reactor inspections, some fuel
+facility inspections decreased because of consolidation of IPs.
+$50
+1200
+999
+967
+$40
+1000
+772
+$30
+800
+558
+$6
+$8
+$7
+$6
+600
+$20
+$6
+$6
+$5
+$5
+$6
+$6
+$5
+$5
+400
+$10
+$12
+$11
+$11
+$12
+$11
+$11
+200
+$0
+$2
+$3
+$3
+$3
+$4
+$4
+0
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Spent Fuel Storage and Transportation
+Nuclear Materials Users
+Decommissioning and Low-Level Waste
+Fuel Facilities
+Materials and Waste Inspections
+Figure 7 - Nuclear Materials and Waste Safety Program Oversight Resources and Inspections
+5.2.1.2 Workforce Gaps and Surpluses
+The NRC's 2021 SWP input indicates that there are over 600 NRC oversight staff in core
+positions. The majority of these staff members are responsible for performing evidence-
+building analysis to support oversight. By the year 2026, the SWP estimates that the agency
+will have a gap of approximately 150 oversight staff, considering attrition and workforce
+demand changes if no actions are taken to fill these positions. Among the inspector
+positions, in which staff perform the analysis evidence-building activity as an essential
+component of their work, the categories with the largest projected gaps are shown in
+Figure 8: project engineer RIDP (Resident Inspector Development Program) (-26 staff),
+resident inspector (-18 staff), health physicist materials inspector and license reviewer
+(-13 staff), and reactor inspector (-11 staff).
+- 21 - -
+Project Engineer (RIDP)
+Resident Inspector
+Health Physicist (Materials
+Projected 2026 Workforce (Demand) (64)
+Projected 2026 Workforce (Demand) (112)
+Inspector/License Reviewer)
+Current Workforce (Supply) (47)
+Current Workforce (Supply) (111)
+Projected 2026 Workforce (Demand) (44)
+Projected Workforce Attrition (-9)
+Projected Workforce Attrition (-17)
+Current Workforce (Supply) (42)
+Projected Workforce Attrition (-11)
+-26
+-18
+-13
+Projected Gap
+Projected Gap
+Projected Gap
+Reactor Inspector
+Projected 2026 Workforce (Demand) (33)
+Current Workforce (Supply) (31)
+Projected Workforce Attrition (-9)
+-11
+Projected Gap
+Figure 8 - Oversight Inspector Positions with the Largest Projected Gaps
+The project engineer RIDP position serves as the primary pipeline for developing resident
+inspectors, though there are other sources. There is a projected need to increase by
+17 staff; however, this increase reflects that this position is currently understaffed, rather
+than that the workload is actually increasing. Workload for the resident inspector position
+is flat; the gap of 18 staff exists almost entirely because of expected attrition losses.
+Likewise, the health physicist materials inspector/license reviewer and reactor inspector
+positions have a very small workload increase and thus the gaps are largely to address
+attrition.
+The SWP data were also analyzed to identify specific positions that may be particularly
+susceptible to attrition. To that end, the staff identified positions with at least 40-percent
+total attrition projected over the 5-year period from FY 2021 through FY 2026. Within the
+oversight function, the health physicist (ISFSI inspector) and reactor inspector (fire
+protection) positions are projected to face significant attrition. Therefore, these positions
+also warrant additional attention to ensure that the NRC's oversight analysis capacity is not
+negatively impacted.
+The NRC has prepared strategies to address the future gaps of oversight employees. These
+strategies include posting vacancy announcements, cross-training current staff, placing
+NRAN graduates, offering job rotation opportunities and internal promotions, and
+reassigning staff from other areas of the agency. NRC offices have also developed a
+workforce strategy to address the health physics workforce gap across the agency which is
+an important position responsible for conducting evidence-building activities such as
+analysis and research. The NRC staff has identified that this workforce gap also affects
+Agreement States. The staff is exploring opportunities to leverage existing programs such
+as scholarship and fellowship grants programs and university champions to build a
+- 22 -
+pipeline of potential health physics professionals primarily for the NRC but secondarily for
+the broader radiation protection industry to support States. Additional strategies include
+developing staff through cross-training within the agency and partnering with States to
+create cross-jurisdictional training opportunities and building relationships within the NRC
+and with States and other Federal agencies to strengthen communities of practice. For the
+FY 2023 Evidence-Building Plan, the NRC staff intends to answer the priority question, "How
+can the NRC better leverage research conducted through NRC-sponsored University
+Research and Development Grants?" One aspect of answering this priority question is to
+explore whether changes to the grant program are warranted to better target specific
+fields to support development of a talent pipeline.
+The NRC's Region III office has responsibility for oversight of nuclear materials users in the
+midwestern United States. In June 2021, Indiana officially indicated its intent to become an
+Agreement State, and Michigan is considering this as well but has not yet submitted an
+official letter of intent. Indiana's transition will reduce workload for Region III's materials
+license reviewers and materials inspectors (from about 900 to 700 materials users). The
+transition will be even more significant if Michigan becomes an Agreement State, as the
+number of materials users would further decrease from about 700 to 300. The NRC will
+continue to monitor these transitions and consider developing a plan if Michigan becomes
+an Agreement State to ensure that any capacity impacts would be mitigated.
+In addition, the senior reactor analyst position is a critical position for performing evidence-
+building analysis supporting the oversight function. Filling this position has presented
+challenges because there is no clear pipeline for developing and preparing staff for this
+position. The NRC should consider developing a program specifically designed to prepare
+staff for this.
+5.2.2 Quality, Methods, Independence, and Effectiveness
+5.2.2.1 Focus Groups, Surveys, and Interviews
+The NRC held three focus groups for oversight with 76 staff who completed the survey. The
+participants included 8 SES managers, 14 Branch Chiefs, and 54 staff members covering
+the range of areas subject to NRC oversight. When aggregating the survey results from
+oversight staff, Figure 9 shows that most participants provided positive responses ("usually"
+or "always"), which reflects well on the NRC's capacity for performing the oversight
+function.
+Results from the focus group surveys include the following:
+As shown in Figure 9, the NRC's oversight function has an overall maturity score of
+3.2 out of 4. According to the NRC's Capacity Assessment Maturity Model, the NRC
+oversight function has an overall "High Capacity" rating for performing analysis.
+- 23
+Oversight Analysis
+Overall Average Score = 3.2
+Percent of respondents (n=76) who gave positive responses and neutral or negative
+responses to survey questions for each attribute
+Average
+Effectiveness
+16%
+84%
+3.2
+Independence
+13%
+87%
+3.4
+Methods
+26%
+74%
+3.0
+Quality
+14%
+86%
+3.1
+Figure 9 - Oversight Analysis Survey Responses by Attribute
+Review of quantitative survey responses shows that the methods attribute has the
+most potential for improvement with the lowest average score of 3.0. Among the
+five survey questions on the methods attribute, the question on knowledge
+management resources and processes received by far the most negative or neutral
+responses. This may indicate that the oversight function would benefit from greater
+use of knowledge management resources and processes. Oversight staff members
+have recently been using weekly knowledge management discussions to transfer
+knowledge, which perhaps shows that the staff is aware of this opportunity for
+improvement and is working to address it.
+Qualitative survey responses were received regarding the decline in the number of
+reactor inspection findings. The NRC has observed that the number of reactor
+inspection findings has been consistently and significantly decreasing year after
+year since 2015. This trend is observed for reactors across all four NRC regions. In
+2015, there were 811 total findings (about 8 per reactor), while in 2020 and 2021,
+there were only 251 and 177 total findings, respectively (about 2-3 per reactor). 26
+Qualitative survey responses were received regarding recruitment and retention for
+resident inspectors and senior resident inspectors. The NRC anticipates challenges
+with the Resident Inspector Program regarding recruitment and retention. In
+addition, the program lacks a data-driven method for monitoring and assessing the
+health of the program. The Resident Inspector Program needs to offer sufficient
+incentives to ensure that resident inspector vacancies can be promptly filled.
+Review of qualitative survey responses provided several additional potential
+opportunities for improvement of the NRC's oversight program. However, none of
+these additional opportunities were significant enough to warrant its own finding
+and mitigating strategy as part of this capacity assessment.
+26
+This is the number of findings as of November 17, 2021.
+- 24 -
+5.2.3 Findings and Mitigating Strategies
+Below are the findings and associated mitigating strategies to improve the NRC's capacity
+for performing analysis to support oversight. Other findings and associated mitigating
+strategies that impact oversight as well as other NRC functions are discussed in Section 5.7
+on Crosscutting Items.
+Finding: The SWP results indicate that the largest expected staffing gaps are in the
+following oversight evidence-building positions: project engineer (RIDP), resident inspector,
+health physicist (materials inspector/license reviewer), and reactor inspector. In addition,
+filling the senior reactor analyst position has presented challenges because there is no
+clear pipeline for developing and preparing staff for this position.
+Mitigating Strategy: The NRC should proactively use various recruiting, retention,
+and knowledge management resources to identify ways to ensure that qualified
+staff can perform NRC oversight functions. The NRC should consider developing a
+program specifically designed to prepare staff for the senior reactor analyst
+position.
+Finding: The NRC has observed that the number of reactor inspection findings has been
+consistently and significantly decreasing year after year since 2015. This trend is observed
+for reactors across all four NRC regions. In 2015, there were 811 total findings (about 8 per
+reactor), while in 2020 and 2021, there were only 251 and 177 total findings, respectively
+(about 2-3 per reactor). 27 The NRC has been identifying the relationship between the
+declining trend and its causes.
+Mitigating Strategy: The NRC should continue to monitor and fully assess the
+causes of the observed trend, as well as the potential effects.
+Finding: The NRC anticipates challenges associated with the Resident Inspector Program
+regarding recruitment and retention and would benefit from a data-driven approach for
+monitoring and assessing the program's health. NRC senior leadership have reported
+challenges in attracting and retaining high-quality senior resident inspectors and resident
+inspectors to staff the Resident Inspector Program. The program needs to offer sufficient
+incentives to ensure that resident inspector vacancies can be promptly filled.
+Mitigating Strategy: The NRC should continue to assess specific options using a
+data-driven and evidence-based approach to address the anticipated resident
+inspector recruitment and retention challenges.
+27
+This is the number of findings as of November 17, 2021.
+25 -
+5.3
+Research
+The NRC's research program supports the agency's mission by providing technical advice,
+tools, and information to NRC program offices to identify potential safety and security
+issues and resolve them as appropriate. The research staff assesses risk and other nuclear
+safety and security issues and develops and coordinates regulatory guidance. This includes
+conducting experiments and analyses, developing technical bases to inform the NRC's
+safety decisions, and preparing the agency for the future by evaluating the safety aspects
+of new technologies and designs for nuclear reactors, materials, waste, and security. The
+research staff collaborates with licensing, oversight, rulemaking, and other staff at the NRC,
+as well as external organizations including commercial entities, national laboratories, other
+Federal agencies, universities, and international organizations. Research staff members
+also identify and oversee research through the Future-Focused Research Program. This
+program is designed to supply needed resources to important projects with longer term
+horizons supportive of transformation and the vision of becoming a more modern,
+risk-informed regulator. In addition, through the University Nuclear Leadership Program,
+the NRC's research function funds research and development grants related to the NRC's
+mission, as well as scholarships and fellowships to support education in nuclear science
+and engineering.
+5.3.1 Coverage
+5.3.1.1 Distribution of Evidence-Building Activities and Program Resources
+Research is a collection of efforts directed toward gaining greater knowledge about the
+production of useful materials, devices, and methods. Research activities often include
+physical experimentation, modeling, and simulation. To leverage outside organizations'
+research facilities and expertise, the research staff often carries out this work in
+partnership with universities, national laboratories, research organizations, other Federal
+agencies, foreign regulators, and technical support organizations.
+The NRC's research function involves about 5 percent of the agency's personnel and uses
+about 7 percent of its contracting funds. Most of the NRC's research budget supports the
+Nuclear Reactor Safety Program, as shown in Figure 10. Typically, 70-80 percent supports
+the maintenance of operating reactor safety and security, and this segment has decreased
+slightly over the past few years from $60 million in FY 2018 to $55 million in FY 2021. New
+and advanced reactor research makes up about 20-25 percent of the research budget and
+has increased from FY 2018 (~$15 million) to FY 2021 (~$18 million) as the staff has been
+preparing for the review of many non-LWR designs. Figure 10 also shows that 66 significant
+research projects were completed in FY 2021, supporting the NRC's Reactor Safety
+Program. Significant research project completions, shown in both Figure 10 and Figure 11,
+are not shown before FY 2021 because they were tracked in different ways and with
+different systems which did not allow for a consistent and repeatable method.
+26
+A consistent approach to tracking significant research project completions was developed
+in FY 2021 and will be used going forward. The data point for FY 2021 provides a baseline
+from which to compare workload and productivity in future years.
+$100
+66
+75
+o
+$75
+$15
+$15
+$19
+$18
+$20
+$22
+50
+$50
+25
+$60
+$25
+$58
+$58
+$55
+$56
+$56
+$0
+0
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Operating Reactors
+New Reactors
+Significant Research Projects Completed
+Figure 10 - Nuclear Reactor Safety Program Research Resources
+As shown in Figure 11, the research budget also supports the Nuclear Materials and Waste
+Safety Program. This research supports Spent Fuel Storage and Transportation, Nuclear
+Materials Users, Decommissioning, and Low-Level Waste. Together these make up about
+2-5 percent of the research budget. Figure 11 also shows that 10 significant research
+projects were completed in FY 2021 supporting the NRC's materials and waste safety
+program. The data point for FY 2021 provides a baseline from which to compare workload
+and productivity in future years.
+$6
+10
+o
+10
+$5
+$0.8
+$0.4
+$4
+$0.8
+$0.8
+$3
+$0.4
+$0.9
+5
+$2
+$0.5
+$4.1
+$0.3
+$0.5
+$0.9
+$0.2
+$2.7
+$1
+$0.2
+$2.2
+$1.1
+$1.0
+$1.1
+$0
+0
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Spent Fuel Storage and Transportation
+Nuclear Materials Users
+Decommissioning and Low-Level Waste
+Significant Research Projects Completed
+Figure 11 - Nuclear Materials and Waste Safety Program Research Resources
+5.3.1.2 Workforce Gaps and Surpluses
+The NRC's FY 2021 SWP process indicates that about 130 staff are in research core
+positions, the vast majority of which perform evidence-building research as an essential
+- 27 -
+component of their work. By FY 2026, the SWP estimates that the NRC will have a gap of
+approximately 23 research staff members, considering attrition and workforce demand
+changes if no actions are taken to fill these positions. Figure 12 shows the four position
+categories with the largest projected gaps. These include reliability and risk
+engineer/analyst (gap= - -5), reactor systems engineer (neutronics) (-3), reactor systems
+engineer (severe accident and source term) (-3), and human factors analyst (-3).28 The
+projected workload for reliability and risk engineers/analysts is relatively flat; therefore, the
+gap is driven largely by attrition. Each of the other three positions identified have a
+projected increased workload of three staff members by FY 2026, and all three positions
+project zero attrition. Therefore, these gaps are solely driven by increased workload.
+For the reactor systems engineer-neutronics position, workload is projected to increase to
+support non-LWR analyses, particularly for fast neutron reactor designs. Workload for the
+reactor systems engineer-severe accident and source term position is expected to
+increase to support non-LWR source term analysis, as well as analysis of ATF in LWRs. For
+the human factors analyst position, workload is expected to increase to support non-LWR
+analysis, as well as agency innovation programs. In addition, the NRC staff has identified
+the need for increased data analytics and data science positions in the future to support
+research efforts in many technical areas (see Section 5.7.5 for a discussion on data).
+Reliability and Risk Engineer/Analyst
+Human Factors Analyst
+Reactor Systems Engineer (Neutronics)
+Projected 2026 Workforce (Demand) (21)
+Projected 2026 Workforce (Demand) (7)
+Projected 2026 Workforce (Demand) (8)
+Current Workforce (Supply) (22)
+Current Workforce (Supply) (4)
+Current Workforce (Supply) (5)
+Projected Workforce Attrition (-6)
+Projected Workforce Attrition (0)
+Projected Workforce Attrition (0)
+-5
+-3
+-3
+Projected Gap
+Projected Gap
+Projected Gap
+Reactor Systems Engineer (Severe
+Accident/Source Term)
+Projected 2026 Workforce (Demand) (5)
+Current Workforce (Supply) (2)
+Projected Workforce Attrition (0)
+-3
+Projected Gap
+Figure 12 - Research Evidence-Building Positions with the Largest Projected Gaps
+between FY 2021-2026
+The SWP data were also analyzed to identify specific positions that may be particularly
+susceptible to attrition losses. To that end, the staff identified positions with at least
+28
+Human Factors Analysts assess factors affecting human performance issues, such as whether control room
+simulators would improve training.
+- 28 -
+40-percent total attrition projected over the 5-year period from FY 2021 through FY 2026.
+Within the research function, the environmental engineer and project manager positions
+are projected to face significant attrition. Therefore, these positions also warrant additional
+attention to ensure that the NRC's research capacity is not negatively impacted.
+The NRC has prepared strategies to address projected workforce gaps in the future. These
+strategies include posting external vacancies, double encumbering positions, and seeking
+internal candidates.
+5.3.2 Quality, Methods, Independence, and Effectiveness
+5.3.2.1 Focus Groups, Surveys, and Interviews
+The staff held two focus groups for research with 37 people who completed the survey. The
+participants included 6 SES managers, 4 Branch Chiefs, and 27 staff members covering the
+many technical areas of research. When aggregating the survey results from research staff,
+Figure 13 shows that most participants provided positive responses ("usually" or "always"),
+which reflects well on the NRC's capacity for performing research.
+Research
+Overall Average Score = 3.2
+Percent of respondents (n=37) who gave positive responses and neutral or negative responses
+to survey questions for each attribute
+Average Score
+Effectiveness
+15%
+85%
+3.2
+Independence
+7%
+93%
+3.5
+Methods
+27%
+73%
+2.9
+Quality
+16%
+84%
+3.1
+Figure 13 - Research Survey Results
+Results from the focus group surveys include the following:
+The NRC's research function has an overall maturity score of 3.2 out of 4.0.
+According to the NRC's Capacity Assessment Maturity Model, the agency's research
+function has an overall "High Capacity" rating for performing research.
+Review of quantitative survey responses shows that the methods attribute has the
+most potential for improvement with the lowest average score of 2.9. Among the
+five survey questions on the methods attribute, the question on knowledge
+management resources and processes had by far the most negative or neutral
+responses. This may indicate that the research function would benefit from greater
+- 29 -
+use of knowledge management resources and processes to capture best practices
+for performing research.
+Qualitative survey responses were received regarding the Future-Focused Research
+Program. This program is critical to ensure that the agency is prepared for emerging
+research topics. This would benefit from an evaluation to ensure that the program is
+meeting its' intended outcomes and NRC is prepared for technological
+advancements. This was validated and led to a finding and associated mitigating
+strategy discussed in the following section.
+Review of qualitative survey responses provided several additional potential
+opportunities for improvement of the NRC's research program. However, none of
+these additional opportunities were significant enough to warrant its own finding
+and mitigating strategy as part of this capacity assessment.
+Analysis of data associated with the research program's capacity to manage research
+contracts may provide insights that can increase capacity. Significant changes have been
+made to the acquisition process in the past that may have impacted the overall efficiency
+and effectiveness of managing research contracts. However, historical data is not readily
+available. The staff will continue to monitor data and further assess as more data becomes
+available. For example, the number of contracts assigned to each active contracting officer
+representative (COR) or the dollar value (ceiling, obligated, etc.) of contracts assigned to
+each active COR (Figure 14), if tracked over time, may provide insights. As of May 2021, the
+Office of Nuclear Regulatory Research had 100 active contracts managed by 47 CORs. The
+average number of contracts per COR was 2.1, and the average ceiling amount per COR
+was $3.2 million.
+Active Contracts Per COR
+Contract Ceiling Per COR
+8
+$14
+Note: additional
+7
+o
+o
+$12
+outlier at $36M
+o
+6
+$10
+5
+$8
+4
+$6
+3
+2.13
+2
+$4
+1
+$2
+$3.23
+o
+$0
+May 2021
+May 2021
+Figure 14 - Research Contract Data as of May 2021
+30 -
+To further assess the NRC's capacity for performing research, survey data were analyzed to
+determine the quality and timeliness of research products. When research products are
+completed, research program staff send a quality survey to sponsoring office staff.
+Research staff use survey input to identify areas where improvement is needed; however,
+this is primarily for individual projects with the lowest responses rather than in a holistic
+agencywide manner. This survey should be analyzed to maximize the usefulness of survey
+results, and the survey results should be shared in a more open and transparent manner
+so that research staff can identify issues affecting capacity and act to address those
+challenges. Figure 15 shows the average scores on a 1-5 scale for the eight research quality
+elements for the 3 years with available data (FY 2019 through FY 2021). As shown, all
+elements scored above 4; however, timeliness is perhaps a greater challenge compared to
+the other quality elements.
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+Technical
+Justified
+Usefulness to
+Staff
+Meet
+Timeliness
+Treatment of
+Product
+Approach
+Assumptions
+NRC
+Interactions
+Objectives
+Uncertainties
+Presented in
+Clear Manner
+2019
+2020
+2021
+Figure 15 - Quality Survey Results on NRC Research Projects
+As discussed in the Agency Environmental Scan in Section 4.2.2, the NRC expects to receive
+applications for various advanced non-LWR technologies in the near future. The NRC
+continues to make progress in its activities to support licensing of non-LWRs, such as
+modernizing the agency's regulatory infrastructure to support licensing as required by
+Section 103 of the NEIMA. The NRC also continues efforts to enhance its computer codes
+for modeling non-LWR designs. For more mature non-LWR designs, the staff understands
+the information, models, and data needed. However, the staff anticipates challenges
+associated with collecting information, models, and data for those non-LWR models that
+are less mature, with designs that are currently conceptual in nature.
+5.3.3 Findings and Mitigating Strategies
+Below are the findings and associated mitigating strategies to improve the NRC's capacity
+to conduct research. Other findings and associated mitigating strategies that impact NRC's
+research function as well as other NRC functions are discussed in Section 5.7 on
+Crosscutting Items.
+- 31 -
+Finding: The SWP results indicate that the largest expected staffing gaps are in the
+following positions: reliability and risk analyst, reactor systems engineer (neutronics),
+reactor systems engineer (severe accident/source term), and human factors analyst. This
+finding was validated through discussions with research managers.
+Mitigating Strategy: The NRC should proactively use various recruiting, retention,
+and knowledge management resources to identify ways to ensure that qualified
+staff can perform NRC research functions. The staff should explore opportunities to
+leverage the university grants program to build a pipeline of researchers in the
+fields corresponding to the positions with the greatest projected staffing gaps. The
+staff should build on the evaluation that will be completed to answer the following
+priority question in the Evidence-Building Plan: "How can the NRC better leverage
+research conducted through NRC-sponsored University Research and Development
+Grants?"
+Finding: The NRC's Future-Focused Research Program is critical to ensure that the NRC is
+prepared for emerging research topics. Therefore, this program would benefit from an
+evaluation to ensure that the program is meeting its' intended outcomes and NRC is
+prepared for technological advancements.
+Mitigating Strategy: The NRC should continue to develop, monitor, and grow the
+Future-Focused Research Program to identify and fund research that is important to
+prepare the NRC for the work of the future. As time progresses, the NRC should
+evaluate the program to determine its effectiveness and develop performance
+indicators to monitor the program.
+Finding: The NRC routinely uses scientific computer codes and analytical tools to perform
+confirmatory, sensitivity, and uncertainty analyses to independently analyze the safety of
+advanced reactor designs. These codes and tools help examine safety margins inherent in
+the design, commensurate with the risk and safety significance of the phenomena
+applicable to specific reactor designs. The NRC staff anticipates challenges associated with
+collecting information, models, and data needed for computer code modeling of advanced
+non-LWR safety and operations, particularly for the less mature designs.
+Mitigating Strategy: As discussed in Priority Question 3 of the NRC's Evidence-
+Building Plan, "To what extent are the NRC's computer codes capable of supporting
+independent analysis of the safety of advanced reactor designs and operations?",
+the NRC intends to address this finding by performing analysis and research to
+(1) identify the computer codes, analytical tools, information, and data for reactor-
+systems-analysis that the staff may need to use to analyze the safety of non-light-
+water reactor (non-LWR) designs, (2) assess the existing capability of computer
+codes, analytical tools, and supporting information, (3) identify gaps in both
+analytical capabilities and supporting information and data, and (4) interact with
+- 32 -
+both domestic and international organizations working on non-LWR technologies to
+enhance collaboration and cooperation.
+5.4
+Rulemaking
+The NRC's rulemaking function supports the agency's mission by developing regulations or
+"rules." The NRC may initiate a new rule or a change to an existing rule when necessary to
+protect public health and safety. In addition, any member of the public may petition the
+NRC to develop, change, or rescind a rule. The Commission directs the NRC staff to begin
+work on a new rulemaking activity through approval of a staff rulemaking plan. The NRC's
+regulations impose requirements that applicants must meet to acquire an NRC license or
+certificate. Once a license or certificate is issued, NRC regulations impose requirements to
+engage in NRC-regulated activities. These regulations govern the possession or use of NRC-
+regulated materials at nuclear facilities, such as power plants, research and test reactors,
+uranium mills, fuel facilities, and waste repositories; the use of NRC-regulated materials for
+medical, industrial, and academic purposes; and the transportation of these materials.
+Rulemaking activities may include development of a regulatory basis, proposed rule, final
+rule, direct final rule, and advanced notice of proposed rulemakings. Most NRC rulemaking
+activities rely on the analysis evidence-building activity, although the function is also
+supported to a lesser extent by research and statistics. As NRC's initial capacity assessment,
+this section focuses only on the analysis supporting rulemaking, however in the future it
+may be expanded to include other types of evidence-building.
+5.4.1 Coverage
+5.4.1.1 Distribution of Evidence-Building Activities and Program Resources
+Trends in resources and work were examined to determine any challenges to the NRC's
+capacity to perform analysis in support of rulemaking. Figure 16 shows the trend in
+resources for rulemaking for the operating reactors and new reactors business lines. As
+with the other functions discussed, the resources apply to the entire rulemaking function,
+not just the evidence-building analysis that supports rulemaking. As shown in Figure 16,
+most of the NRC's annual rulemaking budget is associated with the Nuclear Reactor Safety
+Program. 29 Resources for Nuclear Reactor Safety Program rulemaking activities have
+increased slightly since FY 2018, from $11 million to $11.7 million in FY 2021. The number
+of funded rulemaking activities for reactors increased from 18 in FY 2018 to 24 in FY 2021,
+which represents a 33-percent increase. Various factors (e.g., number and complexity of
+public comments, schedule adjustments, timing of Commission direction) can influence the
+number of rulemaking activities conducted by the NRC each fiscal year.
+29
+The NRC budgets for the expected rulemaking workload to ensure that appropriate resources are available
+to complete planned activities. Note that not all rulemakings require the same level of effort. The CBJ and
+the Annual Rulemaking report provide additional details.
+- 33 -
+24
+$16
+23
+25
+O
+$14
+19
+18
+20
+$12
+o
+$10
+$2
+$2
+$8
+$8
+$5
+15
+$8
+$2
+$6
+10
+$10
+$10
+$4
+$8
+$7
+$7
+$7
+5
+$2
+$0
+0
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Operating Reactors
+New Reactors
+Number of Funded Rulemaking Activities for Reactors
+Figure 16 - Nuclear Reactor Safety Program Rulemaking Resources and Actions
+Figure 17 shows that rulemaking resources for the Nuclear Materials and Waste Safety
+Program have declined slightly from $6.3 million in FY 2018 to $5.2 million in FY 2021. The
+number of funded rulemaking activities for materials increased slightly from 14 in FY 2018
+to 15 in FY 2021.
+$10
+20
+16
+15
+$8
+14
+14
+15
+o
+$6
+$1.2
+$0.7
+$0.6
+$0.2
+10
+$1.3
+$4
+$1.6
+- $0.2
+$1.8
+$1.5
+$1.6
+$1.3
+$1.7
+$2
+$2.5
+$2.2
+5
+$2.0
+$1.6
+$2.5
+$2.1
+$1.1
+$1.1
+$1.3
+$1.3
+$0
+$0.8
+0
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Fuel Facilities
+Decommissioning and Low-Level Waste
+Nuclear Materials Users
+Spent Fuel Storage and Transportation
+Number of Funded Rulemaking Activities for Materials
+Figure 17 - Nuclear Materials and Waste Safety Program Rulemaking Resources and Actions
+Overall, the number of funded rulemaking activities decreased from 40 in FY 2018 to 39 in
+FY 2019 and then increased to 46 in FY 2021. This represents an 18-percent increase in
+funded rulemaking activities.30 As discussed in the FY 2021 CBJ, the NRC staff has been
+using a Common Prioritization of Rulemaking process to manage rulemaking activities
+consistently across the agency to use resources more efficiently and effectively.
+Additionally, the NRC staff is seeking to implement rulemaking process innovations as part
+30
+For corporate support, eight rulemaking actions were ongoing in FY 2018; six rulemaking actions were
+ongoing in FY 2019; and seven rulemaking actions were ongoing in FY 2020 and FY 2021.
+- 34 -
+of an integrated review of all aspects of the rulemaking process to identify opportunities
+for improving quality, timeliness, and stakeholder engagement.31
+5.4.1.2 Workforce Gaps and Surpluses
+The NRC has over 30 rulemaking staff members who perform activities in areas such as
+operating reactors, new reactors, fuel cycle facilities, decommissioning, transportation and
+storage, and corporate support. The NRC anticipates that a workforce gap of about
+13 rulemaking staff members will occur by FY 2026. This gap will need to be filled because
+of expected attrition (10 staff) from retirements and expected workload increases (3 staff)
+consistent with the discussion in the environmental scan. Although increases occur
+because of expected workload in advanced reactors, medical isotopes, and other areas,
+they appear to be modest in comparison to the number of staff that will be lost due to
+attrition. Figure 18 shows that key workforce gaps to support the analysis activities for
+rulemaking include project managers, cost analysts, and regulations specialists.
+Project Manager
+Cost Analyst
+Regulation Specialist
+Projected 2026 Workforce (Demand) (22)
+Projected 2026 Workforce (Demand) (5)
+Projected 2026 Workforce (Demand) (7)
+Current Workforce (Supply) (20)
+Current Workforce (Supply) (4)
+Current Workforce (Supply) (7)
+Projected Workforce Attrition (-5)
+Projected Workforce Attrition (-2)
+Projected Workforce Attrition (-3)
+-7
+-3
+-3
+Projected Gap
+Projected Gap
+Projected Gap
+Figure 18 - Rulemaking Positions with the Largest Projected Gaps
+between FY 2021-2026
+The largest future gap in rulemaking employees is project managers, which shows a gap of
+seven staff members by FY 2026. This is followed by expected future gaps in cost analysts (-
+3) and regulations specialists (-3). The NRC staff also examined expected attrition over the
+next 5 years and found that cost analysts and regulations specialists will have an expected
+attrition of greater than 40 percent. Filling these positions with experienced employees
+may be difficult. Specifically, prospective staff with technical and economic experience have
+turned down offers to work at the NRC for positions elsewhere, there is high demand for
+experienced staff with rulemaking experience, and there is a very limited pool of people
+with financial modeling skills and experience. The NRC has prepared strategies to address
+these future gaps. These strategies include cross-training current staff, placing NRAN
+graduates, offering job rotation opportunities and internal promotions, and posting
+vacancy announcements.
+31
+Additional information can be found in "Rulemaking Process Innovation at the U.S. Nuclear Regulatory
+Commission," issued July 2020 (ADAMS Accession No. ML20198M408).
+- 35 -
+5.4.2 Quality, Methods, Independence, and Effectiveness
+5.4.2.1 Focus Groups, Surveys, and Interviews
+The NRC held a focus group for rulemaking with 15 people who completed the survey. The
+participants included three SES managers, three Branch Chiefs, and nine staff members
+covering the range of rulemaking areas. When aggregating the survey results from
+licensing staff, Figure 19 shows that most participants provided positive responses
+("usually" or "always"), which reflects well on the NRC's capacity for performing analysis in
+support of the rulemaking function.
+Rulemaking Analysis
+Overall Average Score = 3.2
+Percent of respondents (n=15) who gave positive responses and neutral or negative responses
+to survey questions for each attribute
+Average Score
+Effectiveness
+17%
+83%
+3.3
+Independence
+10%
+90%
+3.4
+Methods
+24%
+76%
+3.0
+Quality
+29%
+71%
+2.9
+Figure 19 - Rulemaking Analysis Survey Responses
+Results from the focus group surveys include the following:
+As shown in Figure 19, out of a Maturity Score of 4, the NRC's rulemaking maturity
+has an overall score of 3.2. According to the NRC's Capacity Assessment Maturity
+Model, the NRC rulemaking agency function has an overall "High Capacity" rating for
+performing analysis activities.
+Review of quantitative survey responses shows that the quality attribute has the
+most potential for improvement with the lowest average score of 2.9 (rating of
+Medium Capacity). A review of the responses shows that the questions with the
+lowest scores concerned the use of the appropriate level of effort for analysis
+activities and on the availability of data to perform independent analyses. These
+indicate that rulemaking staff may want to explore ways to obtain and assess
+objective information related to (1) resource expenditures on rulemaking activities
+to ensure the appropriate level of effort is used and (2) the availability of data used
+to support independent analyses.
+- 36
+Discussions were held with the rulemaking staff to share the survey results, discuss
+the suggested improvements, and identify any other opportunities for enhancing
+the NRC's rulemaking evidence-building activities. During this discussion, staff
+members observed that rulemaking analyses require a different mindset than
+typical licensing analyses for NRC technical staff (e.g., creating a rulemaking
+regulatory basis requires a different thought process compared to reviewing a
+licensee's submittal). NRC technical staff who had recently supported rulemaking
+activities were interviewed on this topic. Based on these interviews, the following
+enhancements are recommended to aid in familiarizing NRC staff with the
+rulemaking process: (1) identify the roles and responsibilities of specific team
+members, (2) discuss early consideration of data needs, and (3) provide a high-level
+overview of the rulemaking process with examples of previous rulemaking products.
+The rulemaking staff has self-identified the need to train new rulemaking working
+groups and will be considering the incorporation of these recommendations into
+this training.
+Further, interviews of technical staff members who have recently supported
+rulemaking analyses revealed that guidance and procedures for performing
+rulemaking are focused on the rulemaking process and do not look in depth at the
+technical aspects of rulemaking analyses. Many of the people interviewed have
+extensive experience in performing technical analyses for rulemaking but noted that
+informal guidance for technical analyses would have been helpful for the first time
+they were assigned to support a rulemaking. Business lines should examine
+whether developing an informal guidance document focusing on best practices for
+technical staff who support rulemaking analyses would be beneficial. Recognizing
+that not all business lines have the same volume of rulemaking activities, the costs
+and benefits should be weighed in considering the need for this informal guidance.
+Rulemaking staff will support the business lines on the development of this informal
+guidance, as resources allow.
+Interviews with NRC senior management indicate that the NRC's process for
+regulatory analysis development should be examined to see if it could be made
+more effective (e.g., are the estimated benefits and projected costs reasonably
+accurate). With each rulemaking, the staff develops a regulatory analysis that
+estimates the impact of a rule change on both the NRC and industry in terms of
+costs, benefits, and new activities associated with the rulemaking. The regulatory
+analysis is made available for public comment. An assessment should be conducted
+to determine if a historical review of previous analyses would provide useful data to
+improve the development of future regulatory analyses. If this assessment indicates
+that the benefits of such a historical review would outweigh the resource costs, then
+an appropriately scoped review should be conducted. Determining the effectiveness
+of the NRC's regulatory analysis development process would help increase
+stakeholder confidence in the results.
+- 37 -
+5.4.3 Findings and Mitigating Strategies
+Below are the findings and associated mitigating strategies to improve the NRC's capacity
+for performing analysis to support rulemaking. Other findings and associated mitigating
+strategies that impact rulemaking as well as other NRC functions are discussed in
+Section 5.7 on Crosscutting Items.
+Finding: The SWP results indicate that the largest expected staffing gaps are in the
+following rulemaking positions: project managers, regulations specialists, and cost analysts.
+This information was verified by confirming that these positions have been identified as
+future staffing gaps and that strategies have been developed to fill these positions.
+Discussions with NRC management in the rulemaking area further reinforced this finding.
+Mitigating Strategy: Where appropriate, the NRC should collaborate across
+organizations and develop an agencywide approach to hiring for positions identified
+to have significant expected attrition. Additionally, given the past difficulties in hiring
+regulations specialists and cost analysts, the NRAN, summer hire, and other hiring
+programs should be considered to bring necessary people into the NRC earlier so
+that they can be trained before the expected retirements.
+Finding: Survey results indicate that the quality attribute has the most potential for
+improvement. The lowest scores within the quality attribute were on the use of the
+appropriate level of effort for analysis activities and on the availability of data to perform
+independent analyses.
+Mitigating Strategy: The NRC should obtain and assess information related to (1)
+resource expenditures on rulemaking activities to ensure that the appropriate level
+of effort is used and (2) the availability of data used to support independent
+analyses.
+Finding: The NRC's technical staff can be challenged when applying their technical
+knowledge to the rulemaking process. The NRC technical staff who routinely perform
+analyses to support agency functions such as licensing and oversight are infrequently
+needed to support analysis activities for rulemakings. While procedures for performing
+regulatory analyses are well established, staff who infrequently conduct analyses to
+support rulemakings could benefit from training before participating in the rulemaking
+process. In addition, some technical analyses (e.g., radiation safety, geologic) used to
+support rulemakings are unique to the specific regulations being developed or amended.
+These analyses require staff to make decisions such as which analytical techniques are
+appropriate, what level of rigor should be applied, and the amount of data required to
+support a statistically significant result.
+Mitigating Strategy: The following should be incorporated into the process when
+establishing working groups for new rulemakings: (1) identify key points of contact
+and clearly define their roles and responsibilities, (2) establish data needs and
+- 38 -
+appropriate analytical techniques early in the process, and (3) provide a high-level
+overview of the rulemaking process and expectations.
+Finding: The NRC needs to determine if the process for regulatory analysis development
+can be enhanced with a retrospective review of past rulemakings. Interviews with NRC
+management indicate that it is unclear if the agency's process for regulatory analysis
+development can be enhanced to be made more effective (e.g., accuracy of the estimates).
+Determining the effectiveness of the NRC's regulatory analysis development process would
+increase stakeholder confidence in the agency's rulemaking process.
+Mitigating Strategy: The NRC should conduct an assessment to determine if a
+retrospective review of past rulemakings would provide useful data to improve
+future regulatory analyses. If this assessment indicates that the benefits of such a
+retrospective review would outweigh the resource costs, then an appropriately
+scoped review should be conducted. Such a historical review would focus on
+whether the regulatory analyses development process appropriately estimates the
+activities of the NRC and affected entities to support agency decisionmaking.
+5.5
+Financial Management
+The Chief Financial Officer (CFO) is responsible for the NRC's financial management
+activities, as well as agencywide internal controls. The CFO establishes budgeting and
+financial management policy for the agency and advises the Chairman and the Commission
+on these matters. The CFO develops and maintains an integrated agency accounting and
+financial management system; establishes policy and directs oversight of agency financial
+management personnel, activities, and operations; and prepares and transmits an annual
+report that includes the agency's audited financial statement to the Chairman and to the
+Director of OMB. Other responsibilities include monitoring the financial execution of the
+NRC's budget in relation to actual expenditures; controlling the use of agency funds to
+ensure that they are expended in accordance with applicable laws and standards;
+preparing and submitting timely cost and performance reports to the Chairman; reviewing,
+on a periodic basis, fees and other charges imposed by the NRC for services provided; and
+recommending revisions of those charges as appropriate.
+The CFO provides an agencywide management control program for financial and program
+managers to comply with the Federal Managers' Financial Integrity Act and is responsible
+for implementing the Chief Financial Officers Act at the NRC. The CFO also oversees the
+management of the agency's Programmatic Internal Control Program.
+5.5.1 Coverage
+5.5.1.1 Distribution of Evidence-Building Activities and Program Resources
+The NRC analyzes financial management data and creates reports from data that reside in
+multiple systems. The agency is becoming more efficient with the recent transition to
+- 39 -
+shared service providers and ongoing improvements to data management information
+technology systems. The increase in shared services and automation of manual processes
+and reporting is shifting employee skills from developing manual custom reports to an
+increased need for financial related analytical skills.
+As shown in Figure 20, the budget amounts for financial management resources have
+remained relatively flat. Demand has increased for the analysis of budget execution data to
+support budget formulation decisions; however, this will be offset by efficiencies resulting
+from improvements in the Budget Formulation System and other tools to support data
+analysis. In accordance with NEIMA, for FY 2021 and FY 2022, NRC corporate support
+functions (of which financial management is a part) are limited to 30 percent of the NRC's
+total budget justification. This percentage decreases in future years to the maximum extent
+practicable.
+$35
+$30
+$25
+$20
+$15
+$33
+$32
+$30
+$31
+$31
+$33
+$10
+$5
+$0
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+FY 2022
+FY 2023
+Total BA
+Total BA
+Total BA
+Total BA
+Enacted
+Request
+Figure 20 - Financial Management Resources
+5.5.1.2 Workforce Gaps and Surpluses
+In the financial management function, the two positions with the highest projected
+workforce gaps are accountant and budget analyst (Figure 21).
+Accountant
+Budget Analyst
+Projected 2026 Workforce (Demand) (24)
+Projected 2026 Workforce (Demand) (19)
+Current Workforce (Supply) (22)
+Current Workforce (Supply) (18)
+Projected Workforce Attrition (-2)
+Projected Workforce Attrition (-7)
+-4
+-8
+Projected Gap
+Projected Gap
+Figure 21 - Financial Management Positions with Projected Gaps
+between FY 2021-2026
+- 40
+The NRC anticipates a workforce gap of - -12 staff that will need to be filled across these
+positions. The gap will occur because of expected attrition (-9 staff) and workload increases
+(3 staff).
+Workload increases, which account for the need to add two accountants and one budget
+analyst, are due to additional reporting requirements and increased external interest in
+budget formulation and budget execution. The largest projected gaps in financial
+management staff are for budget analysts (-8 staff) and accountants (-4 staff). While slight
+increases are needed in the workforce to address expected workload needs, the larger
+challenge is the number of staff who will be lost to attrition. For example, the NRC has
+experienced attrition due to staff nearing retirement age, challenges hiring during the
+COVID-19 pandemic, and a consistent high turnover rate because of staff transfers to other
+roles within the agency or to other agencies.
+The expected attrition for budget analysts over the next 5 years is estimated to be
+39 percent. The budget analyst position has immediate hiring needs for midlevel staff.
+Although the projected attrition for the accountant position is lower, the accountant
+workload is projected to increase.
+The SWP results indicated that if hiring is delayed, the impact of the vacancies and the loss
+of budget analyst competencies will make it difficult to meet critical deadlines associated
+with budget formulation, funds controls, and other analytical deliverables. The SWP
+forecast information indicates that the transition to new or upgraded systems requires the
+staff to build strong analytical skills to (1) bridge the gap between current manual
+processes, future automation, and standardized reporting and (2) analyze the data from
+these systems to support management decisionmaking. As discussed in Section 5.7.5,
+implementation of the Enterprise Data Strategy goals will assist by addressing the needs
+identified in SWP by establishing roles and responsibilities and providing role-based
+training.
+The NRC has prepared strategies to address these future staffing gaps. These strategies
+include hiring co-op students, offering student internships, hiring entry-level and midlevel
+staff, and offering internal job rotation opportunities.
+5.5.2 Quality, Methods, Independence, and Effectiveness
+5.5.2.1 Focus Groups, Surveys, and Interviews
+The staff held two focus groups for financial management with 25 people who completed
+the survey. The participants included 2 SES managers, 4 Branch Chiefs, and 19 staff
+members. When aggregating the survey results from financial management staff, Figure 22
+shows that most participants provided positive responses ("usually" or "always"), which
+reflects well on the NRC's capacity for performing analysis in support of financial
+management.
+- 41 -
+A review was done of the qualitative survey responses and followed up with discussions
+and interviews with management and staff who manage or perform financial management
+analyses. The discussions supported the findings in Section 5.5.1.2, related to the increased
+need for data analytics skills and analysis.
+Financial Management Analysis
+Overall Average Score = 3.0
+Percent of respondents (n=25) who gave positive responses and neutral or negative responses
+to survey questions for each attribute
+Average Score
+Effectiveness
+27%
+73%
+3.0
+Independence
+22%
+78%
+3.2
+Methods
+28%
+72%
+2.9
+Quality
+19%
+81%
+3.0
+Figure 22 - Financial Management Analysis Survey Responses
+5.5.3 Findings and Mitigating Strategies
+Below are the findings and strategies to address gaps and development needs and to
+improve the NRC's capacity for performing financial management evidence-building
+activities. Other findings and associated mitigating strategies that impact financial
+management as well as other NRC functions are discussed in Section 5.7 on Crosscutting
+Items.
+Finding: The SWP results indicated that the budget analyst position experiences attrition
+because of staff who are nearing retirement age or who opted to retire during the
+COVID-19 pandemic. The position has a consistently high turnover rate due to staff
+transfers to other roles within the agency or to other agencies.
+Mitigating Strategy: The NRC should include the budget analyst in an NRAN-type
+program or conduct a study to develop a strategic approach to ensure positions are
+filled at a faster rate.
+Finding: The information collected indicated a need for more resources and development
+of skills in data analytics and analysis based on the continuing transition to new technology
+and systems.
+Mitigating Strategy: The NRC should use the Enterprise Data Strategy
+implementation to identify the specific data analytics roles and responsibilities
+needed, provide role-based training, and develop the analysis skills of the financial
+management staff.
+- 42 -
+5.6
+Evaluation
+The Evidence Act elevates evaluation to a key agency function. Evaluations are necessary to
+accomplish the NRC's mission. Evaluations of significance to the NRC are documented in
+the annual evaluation plan, which can include evaluations associated with priority
+questions in the NRC's Evidence-Building Plan or evaluations required by statute, or those
+of high value to the agency. Evaluations are intended to improve the effectiveness and
+efficiency of a program, policy, regulation, or organization. In addition, evaluation can
+identify process improvements to enhance programs and can identify cause and effect to
+aid in the development of performance measures. Performing evaluations requires
+specialized skills and expertise to apply the standards outlined in OMB
+Memorandum M-20-12.
+5.6.1 Coverage
+5.6.1.1 Distribution of Evidence-Building Activities
+The following lists the evaluations identified in the NRC's FY 2022 and FY 2023 Evaluation
+Plans and the staff supporting these evaluation efforts:32
+Risk-Informed, Technology Inclusive Regulatory Framework for Advanced Reactors-
+Licensing staff will lead this evaluation.
+Annual Self-Assessment of the ROP-Reactor oversight staff will lead this evaluation.
+Radiation Protection Program-Researc staff will lead this evaluation.
+Process Improvement-Staf from every area will support this evaluation.
+SWP Process-Staff from every area will support this evaluation.
+Licensing Reviews-Licensing staff will lead this evaluation.
+5.6.1.2 Workforce Gaps, Skill Gaps, and Surpluses
+The NRC does not have evaluators with training or experience in regularly performing
+evaluations subject to the standards set by the OMB. These standards require advanced
+education and evaluation experience (e.g., quantitative, qualitative, and mixed-method
+evaluation specializations) to properly plan, implement, manage, and oversee evaluations.
+The NRC will need to build its evaluators' knowledge, skills, and abilities that are required to
+address this gap. The NRC will need to build a competency model and use it to assess
+existing staff, identify skill gaps, and track progress toward closing identified skill gaps.
+32
+The FY 2022 Annual Evaluation Plan is available in ADAMS at Accession No. ML21053A191, and the FY 2023
+Annual Evaluation Plan is available in ADAMS at Accession No. ML21173A247.
+- 43 -
+5.6.2 Quality, Methods, Independence, and Effectiveness
+The NRC will implement its evaluations consistent with the FY 2022 and FY 2023 Annual
+Evaluation Plans and will strive to ensure that these activities meet the attributes of
+evidence-building: (1) the evaluations are of high quality, (2) the evaluations use
+appropriate methods, (3) the evaluations are independent, and (4) the evaluations are
+effective.
+The following gaps should be considered:
+An independent organization is not formally established within the NRC to support
+the performance of evaluation activities to help ensure that any potential bias and
+influence on the approach, process, and results are minimized and that these
+evaluation activities are being performed consistently across the NRC.
+Procedures (e.g., methods) currently being developed should be completed and
+managed to ensure that evaluation activities are performed consistently across
+organizational boundaries at the NRC.
+5.6.3 Findings and Mitigating Strategies
+Below are the findings and associated mitigating strategies to improve the NRC's capacity
+for performing evaluations.
+Finding: The NRC would benefit from institutionalizing program evaluation into agency
+activities similar to the implementation of enterprise risk management and performance
+management. Evaluation is a scientific discipline and, as such, "[c]redible evaluations must
+be managed by qualified evaluators with relevant education, skills, and experience for the
+methods undertaken." 33 An individual or external firm qualified in designing and
+performing program evaluations should be hired to enhance the effectiveness and
+efficiency of the NRC's programs, policies, operations, and organizations. The program
+evaluator would serve as an agencywide resource for designing evaluations consistent with
+the standards in the NRC's "Evidence-Building and Evaluation Policy Statement" and
+applicable guidance from the OMB.
+Mitigating Strategy: The NRC should hire an individual or external firm qualified in
+designing and performing program evaluations to lead and support agencywide
+evaluation efforts, consistent with the evaluation standards in the NRC's Evidence-
+Building and Evaluation Policy Statement.
+Finding: The NRC staff needs to ensure that its future evaluations use appropriate
+methods and are high quality.
+33
+OMB Memorandum M-20-12, "Phase 4 Implementation of the Foundations for Evidence-Based
+Policymaking Act of 2018: Program Evaluation Standards and Practices," dated March 10, 2020, page 4.
+- 44 -
+Mitigating Strategy: The NRC should develop procedures (e.g., methods) to ensure
+that evaluation activities are performed consistently across the agency. The NRC
+staff is currently developing a management directive to establish these procedures.
+Finding: The NRC does not have evaluators with training or experience in regularly
+performing evaluations subject to OMB standards. The NRC will need to build its
+evaluators' knowledge, skills, and abilities that are required to address this gap.
+Mitigating Strategy: The NRC should develop a competency model for the
+"evaluator" role to ensure that the agency has the capability to assess the staff's
+proficiency and capacity to perform evaluation activities. The NRC should define the
+knowledge, skills, and abilities for the evaluator role to address the workforce gap
+by training the staff or hiring qualified personnel.
+5.7
+Crosscutting Items
+The capacity assessment identified findings that crossed into multiple key agency
+functions. These crosscutting items include staffing gaps, knowledge management,
+competency modeling, statistical activities, data, Al, environmental justice, recent
+operational experience, workforce planning process, reduction in support staff, and
+corporate support resource limits.
+5.7.1 Staffing Gaps
+The NRC's workforce is critical to performing evidence-building activities necessary to carry
+out its mission. The NRC's SWP process is used to identify projected workforce gaps over a
+duration of 5 years. The gaps identified by the SWP process were analyzed for each
+functional area to provide a more holistic understanding of agency workforce gaps and
+challenges relative to an office-by-office analysis.
+5.7.1.1 Findings and Mitigating Strategies
+Finding: The SWP results indicate that there are key evidence-building positions with large,
+expected staffing gaps across each agency function analyzed in this capacity assessment
+including licensing, oversight, research, rulemaking, and financial management. In addition,
+there are key evidence-building positions that are potentially susceptible to high attrition.
+The specific positions within each functional area are discussed further in Sections 5.1-5.5.
+Mitigating Strategy: Where appropriate, the NRC should collaborate across
+organizations and develop an agencywide strategy to hire for positions with large
+staffing gaps and those susceptible to high attrition. The NRC should proactively use
+various recruiting, retention, and knowledge management resources to identify
+ways to ensure that qualified staff can perform NRC functions.
+- 45 -
+5.7.2 Knowledge Management
+Survey responses showed that half of surveyed staff (n=218) usually use knowledge
+management tools and processes to capture best practices, but followup discussions
+indicate that these tools could be better utilized. Knowledge management is important for
+all staff at varying levels of NRC experience, however it takes on greater urgency given that
+approximately 26 percent of the NRC's workforce is currently eligible to retire and
+approximately 44 percent will be eligible to retire within the next 5 years. Discussions were
+held with survey participants on the results, and participants commented that knowledge
+management is generally considered lower priority than other work.
+In addition, a focus group discussion and survey were conducted to gain further insights on
+knowledge management with 14 employees recently hired (within approximately 1 year)
+using the same survey methodology discussed in Section 3.2. Many of the recently hired
+employees use internet search engines and the NRC's public website instead of existing
+knowledge management resources as their first source for finding information. The
+recently hired employees indicated that some information is incomplete or does not exist
+within the NRC knowledge management wiki (Nuclepedia), and they found it difficult to
+search across all platforms. In addition, when they did find information on internal
+knowledge management resources, it consisted of background information on the subject
+and additional discussions with senior staff were required to gain key insights and best
+practices. This would leave a gap in critical knowledge once the senior staff retire.
+Knowledge management remains an integral part of the NRC's internal strategic processes
+for capturing and preserving knowledge to assist with employee development and
+performance, both for current and future staff.
+5.7.2.1 Findings and Mitigating Strategies
+Finding: Knowledge management tools are not utilized to their fullest extent to ensure
+successful capture and transfer of knowledge to staff. Survey results for each of the key
+agency functions show that approximately half of surveyed staff and management usually
+use knowledge management resources and processes (internal wiki site, videos,
+publications, etc.) to capture best practices. Knowledge management will influence agency
+performance over the next 5 years, given that approximately 26 percent of the NRC's
+workforce is currently eligible to retire and approximately 44 percent will be eligible to
+retire within the next 5 years. High attrition over the next 5 years could negatively impact
+some positions identified in this assessment and will leave a critical knowledge gap.
+Mitigating Strategy: The NRC should evaluate the NRC's knowledge management
+program to better align the efforts with expected outcomes. The evaluation should
+explore ways to elevate the priority and urgency of capturing critical knowledge and
+best practices. Attention should be focused on the positions with highest projected
+attrition as identified through the SWP. The evaluation should consider methods to
+increase knowledge management engagement with the NRC's senior-level staff. The
+- 46 -
+evaluation should include a cost-effectiveness analysis to better understand the cost
+compared to the expected outcomes. To measure effectiveness, performance
+indicators should be established as a result of the evaluation. In addition, usage
+data for Nuclepedia should be thoroughly tracked and analyzed to find how to
+maximize the usefulness of this resource for the NRC.
+5.7.3 Competency Modeling
+The NRC uses competency models to identify skill gaps across the workforce. Competency
+models and assessments improve workforce agility by (1) providing a means of comparing
+an employee's current skillset to the skills needed now and, in the future, and (2) helping to
+ensure a workforce with the necessary skills to be successful in a dynamic environment
+with the identification of training, mentoring, and rotations to address skill gaps.
+In FY 2020, the agency started competency model assessments on a voluntary basis with
+approximately 44 percent of the staff taking competency model assessments. Far fewer
+used them in FY 2021, with at least a partial completion rate of about 25 percent as of
+August 2021. 34 In addition, manager participation was low in FY 2020 and FY 2021, at about
+20 percent and 2 percent, respectively, having used competency modeling to assess their
+staff by August 2021. This low participation rate by staff and managers has made it difficult
+to identify specific skill gaps.
+Figure 23 illustrates that only 18 of the 91 competency models had sufficient data for this
+process, corresponding to models with at least 10 staff using them and at least a
+70-percent participation rate for all staff assigned to a given model. For the competency
+models with sufficient data, a set of criteria were applied to identify the individual
+competencies with potential skill gaps. Among the competency models with sufficient data,
+46 individual competencies were identified with potential skill gaps warranting further
+analysis. However, the subsequent analysis and discussions showed that none of the 46
+passed the validation process. In many cases, the potential skill gaps were found to apply
+only to a small subset of positions that used the model. In other cases, the apparent skill
+gaps were found to relate to a rarely needed skill or task, such as "prepare Commission
+correspondence." Staff commented that they did not see value in completing a competency
+model assessment if their supervisor did not complete their portion of the assessment.
+Although this capacity assessment does not identify skill gaps, it was useful to more fully
+understand how the competency modeling process needs to be improved to achieve its full
+potential.
+34
+The due date for completing FY 2021 competency modeling assessments changed from August 2021 to
+December 2021.
+- 47 -
+Financial Mgmt
+Licensing
+Oversight
+Research
+Rulemaking
+Other
+70
+73 competency models had
+18 competency models
+60
+insufficient data
+had sufficient data
+50
+40
+30
+20
+10
+0
+.
+0%
+20%
+40%
+60%
+80%
+100%
+Completion Percentage
+Figure 23 - Identification of Competency Models with Sufficient Data
+5.7.3.1 Findings and Mitigating Strategies
+Finding: The NRC competency modeling program requires refinement in order to provide
+insights into agencywide skill gaps. The NRC's competency modeling program has the
+potential to be a powerful tool for identifying agencywide skill gaps that, if addressed,
+would strengthen agency evidence-building capacity. However, the competency model
+assessment data from FY 2020 and FY 2021 were not sufficient to identify critical skill gaps.
+Analysis of FY 2020 and FY 2021 competency model assessment results has enabled a
+better understanding of the ways to improve this tool so that skill gaps may be identified in
+future capacity assessments. Potential improvements to this tool include (1) increasing
+participation rates for both staff and managers, (2) establishing a core set of skills for
+competency models with the same position across offices (e.g., project managers,
+engineers), (3) adding competency models for staff without a model currently assigned,
+(4) refining the existing models to verify that staff are assessed only for competencies that
+apply to them, (5) ensuring a more consistent approach for establishing target ratings, and
+(6) addressing limitations to the current tool to improve reports and the ability to produce
+individual development plans directly from the system.
+Mitigating Strategy: The NRC should develop an updated plan to implement
+competency modeling. The plan should clearly document the program's overall
+objectives and quantitative goals that need to be reached to support meeting the
+overall objectives. An assessment should be performed to fully determine what
+improvements should be made to ensure the longevity and success of the program.
+The quantitative goals should include both staff and manager participation rates, as
+well as consider feedback on the quality and relevance of the competencies
+assigned to each staff.
+- 48 -
+5.7.4 Statistics
+Statistical activities are defined as the collection, compilation, processing, or analysis of
+data for the purpose of describing or making estimates concerning the whole, or relevant
+groups, or components within the economy, society, or the natural environment.35
+The NRC
+has many staff who perform statistical activities as an element of their broader analysis
+activities. For example, statistics is used to plan and analyze surveys, experiments,
+calculations of nuclear power plant accident frequencies and consequences, and many
+other aspects. However, very few staff members perform statistical work as a primary part
+of their job. The NRC is not considered a statistical agency; therefore, this capacity
+assessment does not include a specific assessment of this type of evidence-building
+activity, and any findings that would result from the key agency functions that perform
+analysis (i.e., statistical analysis). If future focus groups, interviews, and discussions reveal
+opportunities to improve the NRC's capacity for statistical activities, a future version of this
+report may identify these changes. In addition, the NRC uses external firms, such as
+national laboratories, when additional statistical capacity is needed.
+5.7.5 Data
+The NRC continues to upgrade systems, consolidate data into a data warehouse, and
+improve desktop technology. These changes have prompted a need to produce higher
+quality reporting of data and an increased need for data analytics skills. One area
+recognized for enhancement is the capability to perform content searches across NRC
+systems and platforms. The recently developed Information Technology Roadmap has
+identified this as an NRC priority. As a result, the agency has been exploring ways to
+enhance search and discovery and has identified a set of actionable initiatives and
+associated resource needs to address this issue.
+In addition, the NRC has developed an Enterprise Data Strategy with a goal of promoting
+the continual data management maturity of agency staff and processes. This goal aims to
+(1) establish roles and responsibilities, (2) provide role-based training, (3) improve data
+management resources, and (4) integrate data into application lifecycle management. The
+implementation of this data strategy will enable the NRC's training and development staff
+to prepare training plans and curricula to support the agency's strategic goals. A data
+management resource pool would ensure that key data roles are staffed in the areas of
+information and records management, data architecture, data science, and data analytics.
+The NRC Enterprise Data Strategy, as drafted, provides key steps in determining the data
+management workforce needs of the agency by establishing roles and responsibilities
+associated with the management of data throughout its life cycle and role-based training.
+35
+44 U.S.C. § 3561(10)
+49 -
+Investing in information technology modernization is key to ensuring that staff have the
+tools and knowledge to perform evidence-building activities effectively. As a result of
+budget constraints, the NRC has invested a smaller percentage of its information
+technology budget toward development, modernization, and enhancement (DME)
+compared to the Federal Government as a whole (Figure 24). This limited DME investment
+has resulted in slower introduction and more limited use of new data technologies than
+desired to support the NRC's data strategy goals. For example, increasing the use of data
+analytics has occurred at a rate slower than needed as a result of underfunding supporting
+technology projects such as the development and expansion of the NRC Enterprise Data
+Warehouse; and purchasing of additional licenses to support increased use of data
+analytics tools. To fully realize the benefits of increased data use at the NRC, the
+information technology DME budget should be more aligned with the Federal Government
+DME percentage.
+21%
+21%
+20%
+NRC DME
+Percent
+Federal
+8%
+Government
+5%
+DME Percent
+4%
+FY 2020
+FY 2021
+FY 2022
+Figure 24 - Information Technology Budget Spent on DME
+NRC and the Federal Government
+5.7.5.1 Findings and Mitigating Strategies
+Finding: A recent agency data literacy survey showed that 75 percent of participants
+scored a 3 or higher on a 5-point scale on the skills related to analyzing data for
+decisionmaking, selecting relevant data sources, and formulating meaningful questions. 36
+Participants scored lower on skills related to accessing data, organizing data collections,
+and maintaining data resources to ensure sufficient data quality. Additionally, the NRC has
+recognized the need to make data more accessible to agency staff. The NRC's DME
+percentage of the overall information technology budget is much smaller compared to the
+Federal Government DME percentage, and this may continue to hamper the introduction
+of new technologies to NRC staff. For example, increasing the use of data analytics has
+occurred at a rate slower than needed as a result of underfunding supporting technology
+36
+The agency survey referred to a score of 3 as "Applied." Staff at this level can complete data-related tasks
+consistently, accurately, and independently. Help from an expert may be required from time to time.
+- 50 -
+projects such as the development and expansion of the NRC Enterprise Data Warehouse;
+and purchasing of additional licenses to support increased use of data analytics tools.
+Additionally, the inability to fund technology modernization activities has delayed efforts to
+improve search capability of NRC's Enterprise Content Management System.
+Mitigating Strategy: The NRC should develop an implementation plan to ensure
+that goals and actions within the Enterprise Data Strategy and the Information
+Technology Roadmap are achieved. Future enhancements to NRC content search
+capability across agency systems and platforms will help the NRC staff identify and
+collate data more effectively and efficiently. The NRC should continue to strive to
+increase the DME percentage of the information technology budget so that
+investments can be made in new technologies.
+5.7.6 Artificial Intelligence
+Al tools can be a powerful and beneficial asset to the NRC. Al can be used to improve
+operations, processes, and procedures; meet strategic goals; reduce costs; increase
+efficiency and mission effectiveness; improve quality of services; improve safety; train the
+workforce; and support decisionmaking. However, Al tools are highly dependent on the
+quantity and quality of the data that support them. To maximize the usefulness of Al tools,
+the NRC needs to identify and develop high-quality datasets spanning the range of
+technical and corporate support fields within the agency. The NRC plans to conduct an
+evaluation to address a priority question from the NRC's Evidence-Building Plan: "What
+data received and maintained would be most beneficial for use in advanced analytical tools
+(e.g., artificial intelligence) to support NRC decisionmaking?"
+In addition, the nuclear power industry is expected to adopt Al tools more widely. The NRC
+is studying how the use of Al technologies in NRC-regulated activities may be applied to
+ensure public health and safety. In spring 2021, the NRC staff conducted an exploratory
+scan to ascertain the scope of existing projects that may fall within the technical area of
+data science and Al. The scan identified projects ranging from using machine learning and
+natural language processing to develop license application resource predictions to
+conducting workshops on the regulatory viability of digital twins. Depending on the
+application, the use of Al technology may be subject to an NRC safety or security
+determination or regulatory oversight.
+The NRC staff currently has limited technical capacity to review and regulate technologies
+relying on AI. The staff needs to be familiar with a range of potential technologies, have
+adequate training support in place, and have a knowledge base available in data science
+and Al. In addition, the transformative and rapidly advancing nature of Al requires that the
+NRC adapt its culture, skills, and approaches. To succeed, the NRC will need an iterative,
+risk-informed approach to Al implementation.
+- 51
+The NRC will need to cultivate the talent of its existing workforce by investing in and
+providing comprehensive Al training, while simultaneously recruiting Al talent. The agency
+currently has four data scientists and is actively developing training and qualification plans
+to increase the skills of existing NRC staff. In addition, three staff members recently
+completed the Federal Data Science Training Program.
+5.7.6.1 Findings and Mitigating Strategies
+Finding: The NRC needs a sufficient knowledge base to effectively regulate nuclear facilities
+which use Al and leverage software that has integrated Al technologies within NRC's
+processes. Al tools can be a powerful and beneficial asset to the NRC. To maximize the
+usefulness of Al tools, the NRC needs to have (1) sufficient staff knowledge and familiarity
+with them, (2) access to the latest programs, software, and libraries, and (3) high-quality
+datasets. The NRC is exploring the potential ways that applicants and licensees can use Al
+and digital twins. However, the NRC staff currently has limited technical capacity to review
+and regulate technologies relying on AI. Technical knowledge and skills should be
+enhanced to improve readiness in the future. The staff needs to be familiar with a range of
+potential technologies, have adequate training support in place, and have a data science
+and Al knowledge base available. The NRC needs to develop a way to track its progress
+toward achieving technical and regulatory readiness to review such applications to ensure
+sufficient licensing and oversight capacity.
+Mitigating Strategy: The NRC should develop an implementation plan to ensure
+that goals and actions within the Data Science and Al Strategic Plan are achieved.
+The NRC needs to complete the development of its Al strategic plan and track its
+progress toward meeting the goals in the plan including (1) building staff Al
+expertise through training and qualification programs, (2) acquiring and deploying
+the necessary software tools to test, evaluate, and develop Al applications, and
+(3) establishing a data science and Al governance structure to coordinate research
+and development activities across the agency. Finalizing these strategies and
+executing their goals will provide a foundation to enhance evidence-building
+capacity.
+5.7.7 Environmental Justice
+Environmental justice involves identifying and addressing, as appropriate,
+disproportionately high and adverse human health or environmental effects of an agency's
+programs, policies, and activities on minority and low-income populations. The NRC issued
+its "Policy Statement on the Treatment of Environmental Justice Matters in NRC Regulatory
+and Licensing Actions" in 2004.37 This policy statement presents a comprehensive
+37
+This is available at the Federal Register at 69 FR 52040.
+52 -
+statement of the Commission's policy on the treatment of environmental justice matters in
+NRC regulatory and licensing actions.
+The NRC is currently systematically reviewing how the agency's programs, policies, and
+activities address environmental justice. The NRC is benchmarking practices of other
+Federal, State, and Tribal agencies and evaluating whether it should incorporate
+environmental justice beyond implementation through the National Environmental Policy
+Act. The agency is reviewing the adequacy of the 2004 Policy Statement. The NRC is also
+considering whether establishing formal mechanisms to gather external stakeholder input
+would benefit future environmental justice efforts. The NRC is soliciting viewpoints from
+internal and external stakeholders representing a broad range of perspectives.
+5.7.7.1 Findings and Mitigating Strategies
+Finding: Prior to 2021, the NRC had not systematically and holistically reviewed the
+effectiveness with which its programs, policies, and activities address environmental
+justice.
+Mitigating Strategy: The NRC should complete its ongoing systematic review of
+how the agency's programs, policies, and activities address environmental justice.
+This has already been identified as a priority question within the NRC's Evidence-
+Building Plan: "To what extent are the NRC's programs, policies, and activities
+addressing environmental justice?" The NRC should take into consideration recent
+Executive Orders like Executive Order 14008, "Tackling the Climate Crisis at Home
+and Abroad," issued on January 27, 2021, in its analysis.
+5.7.8 Recent Operational Experience
+In response to the challenges of the COVID-19 pandemic, the NRC quickly identified
+temporary alternative and risk-informed methods for conducting licensing and oversight
+analyses while continuing to provide reasonable assurance of adequate protection of
+public health and safety. In alignment with the methods attribute for evidence-building, the
+NRC would benefit by identifying lessons learned and documenting temporary changes
+made to the NRC licensing and oversight processes in response to the COVID-19 pandemic.
+To enhance the methods used by the NRC staff, these lessons learned should be further
+analyzed to determine potential benefits and improvements to the agency's licensing and
+oversight processes.
+5.7.8.1 Findings and Mitigating Strategies
+Finding: The NRC's licensing and oversight analyses may be enhanced by lessons learned
+from the COVID-19 pandemic and other recent operating experience.
+Mitigating Strategy: In the NRC's Evidence-Building Plan, Priority Question 1 asks,
+"How can the NRC improve licensing and oversight, based on recent operational
+- 53 -
+experience (including lessons learned from the COVID-19 pandemic)?" Responses to
+the priority question will identify lessons learned and collectively document
+temporary changes made to NRC licensing and oversight processes in response to
+the COVID-19 pandemic. The NRC will further analyze these, and other lessons
+learned to determine potential benefits and improvements to the agency's licensing
+and oversight processes.
+5.7.9 Workforce Planning Process
+From 2017 to 2020, the NRC performed a phased rollout of the SWP process on an annual
+basis to analyze the critical or core positions that perform evidence-building activities. A
+gap analysis, part of the process to compare the current workforce against projected future
+workforce needs in 5 years, identifies positions with the highest attrition (e.g., retirements),
+which may cause a critical loss of knowledge, skills, and abilities. Short- and long-term
+strategies and action plans are developed to enable the NRC to recruit, retain, and develop
+a skilled and diverse workforce with the competencies and agility to address emerging
+needs and workload fluctuations. Action plans to address critical skill gaps and projected
+future vacancies include recruiting, hiring, potentially cross-training, or enhancing the skills
+of the current staff. The NRC also has a program to develop college graduates through
+targeted hiring by using the NRAN program and other hiring programs.
+This capacity assessment took a holistic approach to analyzing the results of the SWP
+process by key agency function versus by office or region. This perspective challenges
+some of the existing SWP strategies to address the gaps for positions that exist across the
+agency. For each key agency function, the staff identified gaps in positions that represent
+an attrition rate of approximately 40 percent or higher over the next 5 years, conducted
+interviews, and discussed the findings with staff and management. Mitigating strategies
+were developed for each key agency function of the capacity assessment to address the
+newly identified gaps.
+5.7.9.1 Findings and Mitigating Strategies
+Finding: At the end of each phase or year, the process is reviewed and improved based on
+lessons learned from participants. Now that the entire agency has participated, it is an
+appropriate time to conduct a comprehensive evaluation of the effectiveness and efficiency
+of the processes, procedures, and technology used to support the process.
+Mitigating Strategy: The NRC's FY 2023 Annual Evaluation Plan includes a priority
+question from the NRC's Evidence-Building Plan that is designed to evaluate
+whether the agency's approach to workforce planning is effective in meeting its
+intended goals and whether it is being implemented efficiently. The results of this
+evaluation should improve the process and give the NRC the ability to effectively
+and efficiently build and maintain a workforce of appropriate size and makeup, with
+the flexibility necessary to adjust for various factors as needed.
+54 -
+5.7.10 Reduction in Support Staff
+The NRC has conducted several agencywide efforts to gain effectiveness and efficiency for
+mission and corporate support functions over the past several years. A main goal of these
+efforts has been to centralize mission and corporate support functions to reduce potential
+duplication of effort. The centralization of these functions resulted in an overall reduction
+in mission and corporate support staff (e.g., licensing assistants, budget analysts).
+However, while the number of mission and corporate support staff were reduced, many of
+their responsibilities were shifted to other mission and corporate support staff in addition
+to the centralized staff (e.g., budget analyst activities shifted to technical assistants and
+licensing assistant activities shifted to project managers). In addition, corporate support
+reductions have continued to achieve compliance with the requirements in NEIMA, which is
+discussed in Section 5.7.10. As shown in Figure 25, in 2021, the number of mission and
+corporate support staff have decreased by 39 percent relative to 2016 staffing. 38 This
+decrease outpaces the reduction in technical staff and managers that perform licensing
+analyses during the same period, which saw a 28-percent decrease.
+Figure 25 provides a snapshot that indicates that NRC is working to ensure that its' mission
+and corporate support functions represent a smaller portion of the budget. What remains
+to be examined is the impact these reductions have produced and whether the intended
+outcomes were achieved.
+0%
+0%
+0%
+-8%
+-10%
+3
+-12%
+-9%
+-20%
+-20%
+-15%
+o
+-26%
+-29%
+-28%
+o
+o
+-30%
+-38%
+-39%
+-40%
+D
+-50%
+FY 2016
+FY 2017
+FY 2018
+FY 2019
+FY 2020
+FY 2021
+-o-% Reduction in Technical Staff
+% Reduction in Mission and Corporate Support Staff
+Figure 25 - Technical and Support Staff Reductions
+5.7.10.1 Findings and Mitigating Strategies
+Finding: The NRC should assess the extent to which past reductions in mission and
+corporate support staff (including NEIMA reductions) have led to efficiency gains in
+program functions. An assessment should be performed to determine if the reduction in
+38
+Figure 25 compares the number of licensing assistants and mission and corporate support staff (e.g.,
+Division of Resource Management and Administration staff, and Division of Program Management, Policy
+Development, and Analysis staff) for the lead offices of the Reactor Safety and Nuclear Materials and Waste
+Programs to the number of technical staff and managers in those lead offices.
+- 55 -
+support staff has led to NRC technical staff performing more non-technical business
+support work. This crosscutting issue may affect the capacity of NRC staff to perform
+licensing, oversight, research, and rulemaking analyses.
+Mitigating Strategy: In the FY 2023 Evaluation Plan, the NRC has a priority question
+planned to evaluate whether the NRC's approach to workforce planning, including
+associated processes and procedures, is effective in meeting its intended goals and
+whether it is being implemented in an efficient manner. The results of this
+evaluation should include an examination as to whether additional work has shifted
+to NRC technical staff due to reductions in support staff.
+5.7.11 Corporate Support Resource Limit
+Section 102(a) of NEIMA places a cap on the NRC's corporate support costs with respect to
+its annual budget justification, to the maximum extent practicable, beginning at 30 percent
+of the annual budget justification in FY 2021 and FY 2022 and stepping down to 28 percent
+in FY 2025 and beyond. On October 4, 2021, the NRC submitted a report to Congress, as
+required by Section 102(e) of NEIMA, which discussed the reductions to comply with NEIMA
+as well as the impacts of the corporate support resource limit. The report noted that "the
+continuation of a reduction to the corporate support cap is expected to negatively impact
+the agency's ability to directly support its safety and security mission."39
+5.7.11.1 Findings and Mitigating Strategies
+Finding: Attempts to meet the NEIMA cap on corporate support costs have caused the NRC
+to reduce or postpone critical investments and services. Continued postponements of
+critical investments and services will negatively impact the NRC's capacity to perform
+evidence-building activities to support the agency mission. These reductions and
+postponements have slowed the rate at which modern data analytics tools may be used
+across the agency to support evidence-building activities. The NRC identified major
+efficiencies and areas for cost savings within corporate support just prior to, and within the
+initial implementation of NEIMA, and has prioritized spending that is integral to the success
+of the agency's mission. Continued reductions to meet the corporate support cap are not
+sustainable, are already negatively impacting the agency, and will have an even greater
+impact as the corporate support cap declines in future years.
+Mitigating Strategy: The NRC should continue to closely monitor the impacts of
+NEIMA's cap on corporate support costs in its annual budget justification. The NRC
+should continue efforts to assess the constraints on corporate support and allow
+the agency to address needed capacity. The NRC will continue to make efforts
+agencywide to meet the cap.
+39
+Letter to the Honorable Thomas R. Carper, Chairman, Committee on Environment and Public Works, dated
+October 4, 2021, available in ADAMS at Accession No. ML21238A132 and ML21237A033.
+- 56 -
+6. LIST OF EVIDENCE-BUILDING ACTIVITIES
+The NRC's evidence-building activities span key agency functions including licensing,
+oversight, rulemaking, research, evaluation, and corporate support (e.g., financial
+management). Information on the agency's evidence-building activities is available to the
+public on the NRC's Agencywide Evidence-Building Activities webpage.40
+40
+The NRC's Agencywide Evidence-Building Activities webpage is available at: https://www.nrc.gov/about-
+hrc/plans-performance/evidence-building-and-evaluation/agencywide-evidence-building-activities.html.
+- 57 -
+Photo Courtesy of
+Idaho National Laboratory
+NRC FORM 335
+U.S. Nuclear Regulatory Commission
+1. REPORT NUMBER
+(12-2010)
+NRCMD 3.7
+NUREG-2251, Volume 1
+BIBLIOGRAPHIC DATA SHEET
+2. TITLE AND SUBTITLE
+3. DATE REPORT PUBLISHED
+Capacity Assessment
+MONTH
+YEAR
+For Statistics, Research, Evaluation, and Other Analysis
+April
+2022
+Fiscal Year 2022
+4. FIN OR GRANT NUMBER
+N/A
+5. AUTHOR(S)
+6. TYPE OF REPORT
+Matthew Meyer, Jonathan Barr, Richard Chang, and Trish Gallalee
+Technical
+7. PERIOD COVERED
+Annual
+8. PERFORMING ORGANIZATION - NAME AND ADDRESS (If NRC, provide Division, Office or Region, U.S. Nuclear Regulatory
+Commission, and mailing address, if contractor, provide name and mailing address.)
+Office of the Executive Director for Operations
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-001
+9. SPONSORING ORGANIZATION - NAME AND ADDRESS (If NRC, type "Same as above", if contractor, provide NRC Division, Office
+or Region, U.S. Nuclear Regulatory Commission, and mailing address.)
+Office of the Executive Director for Operations
+U.S. Nuclear Regulatory Commission
+Washington, DC 20555-001
+10. SUPPLEMENTARY NOTES
+11. ABSTRACT (200 words or less)
+The U.S. Nuclear Regulatory Commission (NRC or the agency) is an independent agency established by the Energy
+Reorganization Act of 1974, which began operations in 1975 as a successor to the Atomic Energy Commission. The NRC is
+required by the Foundations for Evidence-Based Policymaking Act of 2018 to generate a capacity assessment, which is an
+accounting of NRC's capacity to carry out the evidence-building activities needed to meet its functions (i.e., the NRC's
+mission is to license and regulate the Nation's civilian use of radioactive materials, to provide reasonable assurance of
+adequate protection of public health and safety, and to promote the common defense and security and to protect the
+environment) and its capacity to disseminate and use evidence. This capacity assessment uses a structured approach for
+assessing and building the agency's capacity (e.g., staffing, funding, infrastructure, and processes) to carry out evidence-
+building activities (e.g., analysis, research, and evaluation) necessary to support agency functions. This approach identifies
+areas where new or different investments could strengthen or improve the agency's ability to meet its mission and
+strategic goals. The capacity assessment identified 27 findings and associated mitigating strategies that represent
+opportunities to enhance the NRC's capacity.
+12. KEY WORDS/DESCRIPTORS (List words or phrases that will assist researchers in locating
+13. AVAILABILITY STATEMENT
+the report.)
+Unlimited
+14. SECURITY CLASSIFICATION
+Capacity, Capacity Assessment, Evidence, Evidence Act, Evidence-Building,
+Analysis, Research, Evaluation, Coverage, Quality, Methods, Independence,
+(This Page)
+Effectiveness, Licensing, Oversight, Research, Rulemaking, Financial
+Unclassified
+Management
+(This Report)
+Unclassified
+15. NUMBER OF PAGES
+16. PRICE
+NRC FORM 335 (12-2010)
+U.S. Nuclear Regulatory Commission
+NUREG-2251, Vol. 1
+April 2022
+www.nrc.gov
+STAY CONNECTED
+f
+You
+@NRCgov
+Tube
+oo in

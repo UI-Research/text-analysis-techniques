@@ -1,0 +1,1041 @@
+E.O. 13985
+EQUITY ACTION PLAN:
+U.S. ENVIRONMENTAL PROTECTION AGENCY
+APRIL 2022
+2
+E.O. 13985 EQUITY ACTION PLAN:
+U.S. ENVIRONMENTAL PROTECTION AGENCY
+APRIL 2022
+Executive Summary
+Under the leadership of Administrator Michael S. Regan, the U.S. Environmental Protection Agency (EPA)
+has committed to making equity, environmental justice, and civil rights¹ a centerpiece of the agency's
+mission. EPA's strategic plan for FY2022-2026-finalized in February 2022-includes "Take Decisive
+Action to Advance Environmental Justice and Civil Rights" as Strategic Goal 2 and outlines the following
+key objectives:
+Objective 2.1: Promote Environmental Justice and Civil Rights at the Federal, Tribal,
+State, and Local Levels
+Objective 2.2: Embed Environmental Justice and Civil Rights into EPA's Programs,
+Policies, and Activities
+Objective 2.3: Strengthen Civil Rights Enforcement in Communities with Environmental
+Justice Concerns
+EPA discussed Strategic Goal 2 and its underlying objectives with the National Environmental Justice
+Advisory Council (NEJAC) at public meetings on November 10, 2021, and January 5, 2022, where NEJAC
+members and other members of the public provided EPA with advice on how to achieve these objectives
+and hold the agency accountable. EPA officials heard that the agency needs to act quickly and decisively
+on key priorities and provide clear lines of accountability. To drive short term action by the end of
+FY2023, EPA also established the following Agency Priority Goal in its strategic plan:
+Deliver tools and metrics for EPA and its Tribal, state, local, and community partners
+to advance environmental justice and external civil rights compliance. By September
+30, 2023, EPA will develop and implement a cumulative impacts framework, issue
+guidance on external civil rights compliance, establish a set of indicators to track EPA's
+performance in eliminating disparities in environmental and public health conditions, and
+train staff and partners on how to use these resources.
+Executive Order (EO) 13985 directs the EPA and other federal agencies to assess whether underserved
+communities and their members face systemic barriers in accessing benefits and opportunities available
+pursuant to EPA's policies and programs. E.O. 13985 then directs agencies to develop equity action plans
+to overcome these barriers. EPA's Equity Action Plan aligns with its FY2022-2026 Strategic Plan and will
+support accountable and transparent implementation of Strategic Goal 2, the Agency Priority Goal, and
+cross-cutting strategies related to ensuring workplace equity and science-based decision-making. EPA
+has identified six priority actions as the core of its E.O. 13985 Equity Action Plan:
+1
+Civil rights in this context refers to EPA's responsibility to enforce several civil rights laws that prohibit discrimination on the basis of
+race, color, or national origin (including on the basis of limited-English proficiency); sex; disability; age; and retaliation by applicants
+for and recipients of federal financial assistance from EPA. See Title VI of the Civil Rights Act of 1964, Title IX of the Education
+Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, and the Age Discrimination Act of 1975. EPA is also responsible
+for enforcing Section 13 of the Federal Water Pollution Control Act Amendments of 1972, which prohibits discrimination based on sex
+under programs or activities receiving financial assistance under the Clean Water Act.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+3
+Priority Action #1: Develop a comprehensive framework for considering cumulative
+impacts in relevant EPA decisions and operationalize that framework in EPA's programs
+and activities.
+Priority Action #2: Build the capacity of underserved communities to provide their
+experience to EPA and implement community-led projects.
+Priority Action #3: Develop EPA's internal capacity to engage underserved communities
+and implement clear and accountable processes to act based on communities input.
+Priority Action #4: Strengthen EPA's external civil rights compliance program and ensure
+that civil rights compliance is an agency-wide responsibility.
+Priority Action #5: Integrate community science into EPA's research and program
+implementation.
+Priority Action #6: Make EPA's procurement and contracting more equitable.
+EPA's Equity Action Plan is not inclusive of all actions the agency intends to take on equity, environmental
+justice, and civil rights in the coming years. Rather, these six priority actions form a critical foundation
+on which to build meaningful engagement with underserved communities; achieve more equitable and
+just outcomes, including pollution reductions in communities with environmental justice concerns; and
+deliver other tangible benefits to underserved communities, consistent with applicable legal authorities.
+EPA's Six Priority Actions
+E.O. 13985 directed all federal agencies to embed equity into their programs and activities to ensure the
+"consistent and systematic fair, just, and impartial treatment of all individuals." Given EPA's mission to
+protect human health and the environment, the agency's pursuit of equity must include environmental
+justice (EJ). EPA has defined environmental justice as "the fair treatment and meaningful involvement
+of all people regardless of race, color, national origin, or income with respect to the development,
+implementation and enforcement of environmental laws, regulations and policies."2 In practice,
+this means everyone enjoys the same degree of protection from environmental and health hazards
+and equal access to the benefits of environmental resources and the decision-making process. To
+achieve the "same degree of protection" and "equal access," EPA also must consider individuals living
+in communities overburdened by pollution who may be even more vulnerable or marginalized, such
+as persons with disabilities or limited English proficiency (LEP). Scientific research consistently and
+increasingly demonstrates that the disproportionate levels of pollution experienced by communities
+with environmental justice concerns result in adverse health outcome disparities directly associated with
+these exposures.
+EPA has identified six cross-cutting priority actions that are essential to implementing the agency's
+FY2022-2026 Strategic Plan and achieving equity and environmental justice across all agency programs,
+processes, and policies. These six priority actions do not represent all of EPA's planned work on equity,
+environmental justice, and civil rights. As shown in Appendix 1, EPA has released several additional plans
+and strategies to advance equity, environmental justice, and civil rights as part of its core programmatic
+work.
+2
+See https://www.epa.gov/environmentaljustice.
+3
+See, e.g., Morello-Frosch et.al., "Understanding the cumulative impacts of inequalities in environmental health: implications for policy,'
+Health Affairs, May 2011, 30(5):879-87; Steve Lerner, Sacrifice Zones: The Front Lines of Toxic Chemical Exposure in the United
+States, Cambridge, MA: MIT Press, 2010.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+4
+Notably, successful implementation of all six of these priority actions depend on meaningful
+engagement. Members of the White House Environmental Justice Advisory Council (WHEJAC) have
+defined "meaningful participation" as a process wherein "potentially affected populations have an
+opportunity to participate in decisions that will affect their health or environment, that the population's
+contributions can influence the agency's decisions, that the viewpoints of all participants involved
+will be considered in the decision-making process, and that the agency will seek out and facilitate the
+involvement of the population potentially affected, including consultation with Tribal and indigenous
+communities and by providing culturally appropriate information, access for people with disabilities, and
+language access for persons with Limited English Proficiency (LEP), considering issue of access raised
+by location, transportation, and other factors affecting participation, and by making available technical
+assistance to build community-based capacity for participating."4 EPA will strive to achieve this vision
+for meaningful engagement with communities and fulfill the unique Tribal consultation commitments
+laid out in President Biden's Memorandum on Tribal Consultation and Strengthening Nation-to-Nation
+Relationships.5
+Priority Action #1:
+Develop a comprehensive framework for considering cumulative impacts
+in relevant EPA decisions and operationalize that framework in EPA's
+programs and activities.
+Barriers to Equitable Outcomes
+For decades, EPA, state environmental regulators, and local zoning officials have made decisions that
+contributed to the disproportionate pollution burden on people of color and underserved communities
+across the country, such as decisions to site and permit new industrial facilities in ways that concentrate
+them within these communities. Communities overburdened by pollution often raise concerns about
+the cumulative impacts of these individual environmental management decisions on public health and
+quality of life. EPA recognizes that the effect of cumulative impacts is best understood and addressed
+in individual situations to appropriately address public health risk. EPA is now developing a consistent
+and comprehensive framework for assessing and considering cumulative impacts on populations and
+communities in its decision-making. Such a framework needs to incorporate the vulnerabilities and
+susceptibilities related to the accumulation of multiple environmental and social stressors, such as
+persistent poverty and noise pollution, that lead to adverse health and quality of life outcomes.
+Without this framework, EPA programs and the agency's many governmental partners at the federal,
+Tribal, state, territorial, and local levels may continue to make decisions that affect community health
+and well-being without considering and addressing the full context of cumulative impacts, including
+exposures through multiple pathways and from multiple sources. Developing a clear and consistent
+4
+WHEJAC, Final Recommendations: Justice40 Climate and Economic Justice Screening Tool & Executive Order 12898 Revisions, May
+2021,at https://www.epa.gov/sites/default/files/2021-05/documents/whiteh2.pdf.
+5
+The White House, Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships, January 26, 2021, https://
+ www.whitehouse.gov/briefing-room/presidential-actions/2021/01/26/memorandum-on-tribal-consultation-and-strengthening-nation-to-
+nation-relationships/.
+6
+See, for example, Bullard, Mohai, Saha, and Wright, 2008. "Toxic wastes and race at twenty: Why race still matters after all of these
+years." Environ Law 38: 371-411.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+5
+ability to apply cumulative impacts throughout the environmental and public health regulatory
+endeavor is a necessary precondition for fully achieving EPA's mission to protect the human health and
+the environment, including all communities and individuals at all life stages.
+Information from many sources suggests that addressing cumulative impacts is foundational to
+achieving EPA's mission and realizing environmental justice, including:
+Numerous studies have shown a greater burden of environmental exposures, environmentally
+linked disease, and adverse impacts on health and well-being experienced by people of color and
+underserved communities.8
+Given the concentration of polluting facilities in communities with environmental justice concerns,
+and the ways in which non-chemical stressors can compound the effects of pollution, communities,
+EJ leaders, the NEJAC, and scientists have identified cumulative impacts as a central concern and
+issue for EPA to address.9
+EPA hosted a series of listening sessions and research planning workshops in fall 2021, during
+which Tribal, state, and local government agencies, academic experts, and community leaders
+shared with EPA their perspectives on research and policy needs related to cumulative impacts.
+EJ community mapping tools, including EPA's EJSCREEN and various state tools such as California's
+CalEnviroScreen and Washington State's Environmental Health Disparities Map, have documented
+where multiple social and environmental stressors are concentrated and offer models for
+considering the relative impact of chemical and non-chemical stressors in decision-making to
+improve protection of human health. 10
+Exposures and impacts across all life stages, which can manifest over long periods of time and
+across generations, are an essential consideration for cumulative impacts assessment and
+amelioration.11
+Planned Actions to Overcome the Barriers
+EPA will develop a comprehensive framework for considering cumulative impacts in relevant EPA
+decisions and operationalize that framework in EPA's policies, programs, and activities, including
+permit conditions, mitigation, and potential denial of permits. This framework will employ quantitative
+and qualitative analysis of multiple, cumulative, and disproportionate impacts. It will go beyond
+characterizing problems to identifying solutions. It will identify ways to account for vulnerability and
+susceptibility in multiple regulatory contexts. Finally, it will develop and employ fit-for-purpose decision
+tools. EPA will:
+Identify and promote uses of cumulative impacts analysis for multiple decision contexts, such as
+permitting, compliance monitoring and enforcement, cleanups, and rulemaking.
+7
+The Executive Order on Children's Health (EO 13045) directs federal agencies to "make it a high priority to identify and assess
+environmental health risks and safety risks that may disproportionately affect children" and "ensure that its policies, programs, activities,
+and standards address disproportionate risks to children that result from environmental health risks or safety risks."
+8
+See supra note 3.
+9
+See, e.g., NEJAC recommendations to EPA about cumulative impacts, https://www.epa.gov/sites/default/files/2015-02/documents/nejac-
+cum-risk-rpt-122104.pdf (2004); NEJAC recommendations on permitting, , https://www.epa.gov/sites/default/files/2015-02/documents
+ej-in-permitting-report-2011.pdf (2011) and https://www.epa.gov/sites/default/files/2015-02/documents/2013-ej-in-permitting.pdf
+(2013); WHEJAC recommendations focusing on cumulative impacts, https://www.epa.gov/sites/default/files/2021-05/documents.
+whiteh2.pdf((2021)
+10
+See, e.g., EJSCREEN, https://www.epa.gov/ejscreen; Konisky, et.al., Mapping for Environmental Justice: An Analysis of State Level
+Tools, https://eri.iu.edu/documents/ej-mapping-tools-report.pdf (2021)
+11
+See supra note 3.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+6
+Summarize current strategies, available data, and promising practices to account for cumulative
+impacts in analytical and decision-making contexts such as permitting, compliance monitoring and
+enforcement, cleanup, and rulemaking, including existing approaches at the state, Tribal, and local
+levels. Such a summary will provide a comprehensive understanding of progress to date among
+practitioners on which to build.
+Conduct a critical review of existing methods and data for accounting for vulnerabilities and
+susceptibilities associated with cumulative (total) burden from multiple stressors. This review will
+identify opportunities within the various decision contexts to address cumulative impacts and
+appropriate information to support such decisions.
+Develop recommendations on strategies to account for and address vulnerabilities and
+susceptibilities from co-exposure to multiple stressors within EPA decision-making, including the
+permitting, compliance monitoring and enforcement, cleanup, and rulemaking contexts. These
+recommendations will form the basis for policy guidance.
+Produce one or more policy guidance documents on the application of the framework, associated
+tools, and data. These policy guidance documents will be critical to operationalizing the cumulative
+impacts framework and integrating it within environmental decision-making.
+Enhance EJSCREEN to assign cumulative impacts index score(s) to areas facing disproportionate
+environmental burdens.
+The Office of Research and Development (ORD) will work with program and regional offices to
+expand its portfolio of cumulative impacts research a focus on supporting immediate and short-
+term decision needs on top of longer-term needs. ORD is pursuing "solutions-oriented research with
+a bias for action."
+Ensure meaningful community/stakeholder engagement throughout the process and communicate
+how the agency is using new tools to inform decision-making.
+EPA prioritized this action because communities, EJ leaders, and EPA staff have identified addressing
+cumulative impacts as critical to achieving equitable and just outcomes across EPA programs in
+permitting, compliance monitoring and enforcement, cleanup, rulemaking, and other contexts.
+Quantifying such impacts and operationalizing them in decision-making is a shared priority of both
+the EJ movement and EPA. EPA also is committed to the continual development of the science on
+disproportionate impacts. Science substantiates the importance of this issue and will continue to
+underpin decision-making throughout the environmental regulatory endeavor to protect public health
+for all communities.
+Tracking Our Progress
+Over the short and mid-term (2-4 years), EPA's initial focus will be on developing a framework, modeling
+promising practices, and producing guidance that will operationalize this framework. This foundational
+work will enable other specific outcomes and Long-Term Performance Goals (LTPGs) in EPA's FY2022-2026
+Strategic Plan. EPA will:
+Form a team of EPA staff with appropriate legal and technical expertise and experience in
+implementing cumulative impacts analysis and policy to address cumulative impacts (3 months).
+Develop a draft framework to fully understand the decision contexts for considering cumulative
+and disproportionate impacts, legal and technical considerations, and appropriate information for
+supporting policy relevant decisions (1 year).
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+7
+Pilot case studies on considering cumulative impacts and document promising practices (minimum
+of one pilot per year).
+Develop and begin to apply guidance on cumulative impact analyses by EPA programs that
+operationalizes the framework (2 years).
+In its FY2022-2026 Strategic Plan, EPA establishes an Agency Priority Goal that commits to developing
+and implementing a cumulative impacts framework by the end of FY2023.
+In the long-term (5-8 years out), EPA will seek to achieve the following:
+Build cumulative impacts analyses into more decisions at the federal, state, and local levels,
+including permitting decisions made by delegated authorities.
+Continue to refine analytical techniques, based on best available science, for assessing the
+cumulative (total) burden from multiple stressors and their sensitivity to interventions.
+Increase the body of data and knowledge about how vulnerabilities and susceptibilities from
+co-exposures to multiple stressors across time and space influence the relationships between
+exposure, health, and well-being. This includes both negative features that require prevention or
+mitigation as well as positive features that promote health, resilience, and sustainability.
+Provide advanced guidance based upon lessons learned on the integration of cumulative impacts
+analysis for decision-making in major EPA programs.
+Develop systems to track and quantify pollution reduction and other benefits in communities from
+integration of cumulative impacts into the agency's decision-making.
+Over the long-term, EPA will use outcome-based metrics to demonstrate progress, including
+quantifiable pollution reduction benefits in communities that result from decisions that factor in
+cumulative impacts.
+Ensuring Accountability
+EPA will identify a senior leader to spearhead this effort in the Office of Environmental Justice and/
+or the Immediate Office of the Administrator. This senior leader will brief other senior EPA leadership
+on a quarterly basis on progress. The agency also is accountable internally and to Congress and the
+public through reporting on the goals and objectives contained within the FY2022-2026 Strategic Plan.
+In addition, EPA will report on progress to the NEJAC, Science Advisory Board, National Tribal Caucus,
+Children's Health Protection Advisory Committee, and other regular public engagement forums.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+8
+Priority Action #2:
+Build the capacity of underserved communities to provide their experience
+to EPA and implement community-led projects.
+Barriers to Equitable Outcomes
+Communities with environmental justice concerns and other underserved communities are often on
+the frontlines of the outcomes of environmental policymaking. Yet these underserved communities-by
+virtue of being systematically denied a full opportunity to participate in aspects of economic, social,
+and civic life12-can face multiple resource and capacity challenges to engaging with EPA or accessing
+its programs. These communities often have experienced decades of chronic underinvestment in
+infrastructure. They may lack technological, financial, and/or human capital-related capacity to engage
+in decisional processes, prepare competitive proposals, or manage federal awards. EPA and other federal
+partners may fail to coordinate their funding and assistance programs, thereby transferring the burden
+of coordinating complementary programs to the community. These barriers most affect communities
+that are smaller; are economically or otherwise disadvantaged; have limited English proficiency
+or disabilities that prevent full access to meetings and information; and/or lack access to digital
+infrastructure.
+Community members have clearly and consistently raised these concerns across a range of EPA
+engagement forums, including regular EJ national community engagement calls, public testimony
+during NEJAC meetings, and formal NEJAC recommendations to the agency.13
+They also have pointed out underrepresentation of affected communities in rulemaking and permitting
+public comment periods and reported limited success in competing for financial assistance. EPA must
+provide robust support to help communities overcome these challenges and ensure their ability
+to meaningfully engage with EPA and other government agencies, participate in decision-making
+processes, and benefit from federal funding opportunities and investments.
+Planned Actions to Overcome the Barriers
+EPA has prioritized the following actions as those that will produce the greatest possible benefit in the
+near- to mid-term to build the capacity of communities to engage with EPA and manage community-led
+projects to reduce pollution and improve outcomes on the ground.
+Build the technological, financial, and human capital-related capacity of underserved
+communities.
+Consistent with the agency's FY2022-2026 Strategic Plan and dependent on congressional
+appropriations, EPA will:
+Provide more capacity-building grants and technical assistance to more communities.
+Offer more grant trainings to help underserved and under-resourced communities apply for
+12
+E.O. 13985 defines "underserved community" using this language.
+13
+See, e.g., NEJAC's model guidelines for public participation, which discuss the barriers to effective community engagement. Available
+at https://www.epa.gov/sites/default/files/2015-02/documents/recommendations-model-guide-pp-2013.pdi
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+9
+specific competitive grant opportunities.
+Work with EPA's Office of Grants and Debarment to develop submission flexibilities to help
+applicants from underserved communities apply for competitive grant opportunities. These
+flexibilities may include allowing applicants to submit applications through the mail (rather than
+online) and other submission options.
+Establish capacity-building centers across the country to deliver support and resources to build
+the base of underserved communities. This support, which is wholly contingent on congressional
+appropriations, would focus on community-based organizations; minority serving institutions,
+including HBCUs; and local, Tribal, or territorial governments in rural areas.
+Enhance EPA's engagement with disadvantaged and underserved communities with an eye
+toward building their capacity.
+Develop an EPA public engagement guide that uses a consistent set of definitions for "community,"
+"community-based organization,"" "underserved community,"disadvantaged community," and other
+terms crucial to approaching and tracking the agency's work in a consistent manner.
+Ensure all EPA public meetings, stakeholder meetings, and external-facing materials provide
+crucial information in a non-technical, actionable manner and are accessible for communities with
+disabilities and LEP.
+Develop paid fellowships, internships, and clerkships at EPA to offer individuals-including
+representatives from disadvantaged communities and potentially leveraging relationships with
+minority-serving institutions and HBCUs-the opportunity to work inside EPA and build a deeper
+understanding of how the agency operates.
+Implement a community centered approach to protecting health and the environment that
+focuses on coordination and collaboration across both the implementation of EPA programs
+and the deployment of EPA relationships with other federal agencies and state, Tribal, and local
+governmental partners.
+Ensure EPA's investments in infrastructure and pollution remediation benefit disadvantaged and
+underserved communities.
+Implement the Biden Administration's Justice40 initiative to ensure that disadvantaged
+communities receive at least 40% of the benefits of EPA's investments in clean energy, pollution
+cleanup, and infrastructure programs. Justice40's initial pilot includes six EPA programs. The three
+pilot water programs represent more than 30% of the agency's budget: The Clean Water SRF, the
+Drinking Water SRF, and the Reducing Lead in Drinking Water grant program under the WIIN Act.
+Ensure that funds appropriated to EPA through the Infrastructure Investment and Jobs Act, signed
+into law on November 15, 2021, exceed the goals of the Justice40 initiative.
+Ensure early, ongoing, and meaningful community and partner engagement on Justice40
+implementation. EPA will deploy a centralized agency-wide platform for partner and stakeholder
+engagement, organized by the Office of Environmental Justice, and a more targeted outreach
+approach for the Justice40 pilot and covered programs tailored to their unique legal, regulatory,
+and programmatic considerations.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+10
+Tracking Our Progress
+In the near- to mid-term, EPA will track its progress at least quarterly through 2026, consistent with the
+LTPGs in the FY2022-2026 Strategic Plan and other outcome-based metrics, such as:
+EPA programs often request feedback and comment from the public, such as during a rulemaking
+public comment period. EPA has set an LTPG to increase the percentage of programs that provide
+capacity building resources to communities with EJ concerns to ensure they can meaningfully
+engage and provide useful feedback to the agency.
+EPA relies on the input, knowledge, and efforts of community leaders and community-based
+organizations to craft our engagement activities and receive meaningful feedback for consideration
+during policy processes, such as rulemakings. EPA has set an LTPG to ensure that all EPA programs
+that make use of such support provide adequate financial remuneration to those leaders and
+organizations.
+EPA will measure the percentage of EPA programs that work in and with communities with
+environmental justice concerns in ways that are community-driven, coordinated, collaborative, and
+support equitable and resilient community development.
+EPA awards EJ grants to build the capacity of community-based organizations to effectively
+advocate for governments to respond in ways that address community concerns. EPA has set an
+LTPG to increase the percentage of such community grants that result in a governmental response
+related to the objectives of the grants.
+EPA will measure the percentage of EPA infrastructure investments that benefit disadvantaged
+communities, consistent with Justice40, and the number of new grantees that receive funding.
+In the long term, the agency expects to see more durable community capacity built across an expanding
+universe of communities through more concerted and informed agency efforts. Expanding capacity in
+communities should result in an increasing number of communities successfully applying for technical
+assistance and project-specific grants, including but not exclusive to EPA's EJ grants.
+Ensuring Accountability
+This proposed action aligns with EPA's FY2022-2026 Strategic Plan Goal 2, Objective 2.1. The agency is
+accountable internally and to Congress and the public through reporting on the goals and objectives
+contained within the strategic plan. EPA also will report on progress to the NEJAC, National Tribal Caucus,
+and other regular public engagement forums.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+11
+Priority Action #3:
+Develop EPA's internal capacity to engage underserved communities
+and implement clear and accountable processes to act based on
+communities' input.
+Barriers to Equitable Outcomes
+EPA's budget, internal processes, and culture can slow or impede meaningful engagement with
+underserved communities. Fundamentally, EPA lacks adequate staffing to support the wide variety
+and volume of external-facing stakeholder engagement demands, including the important task of
+disseminating stakeholder feedback to the right agency staff to create responsive actions. Some EPA staff
+also may lack awareness of, or appreciation for, non-traditional stakeholder communities (e.g., informal
+EJ or community groups, faith groups, civil rights organizations) and the extra time and care required
+to authentically engage. The NEJAC raised several of these barriers-inadequate staffing, language and
+cultural differences, a lack of cultural competency among those trying to cultivate relationships, and a
+lack of trust between community members, regulatory agencies, and industry-in a 2013 report to EPA
+on model community engagement.14
+In addition, legal and policy deadlines often drive the pace of action at EPA. With tight budgets and even
+tighter timelines, EPA staff may feel pressure to prioritize scientific research, legal review, and economic
+analysis over deep outreach and engagement. Agency processes do not necessarily accommodate the
+timeline needed for robust engagement and may not offer accountability to ensure it occurs and that
+resulting decisions are transparently responsive to the received feedback. Narrow reading of authorizing
+legislation that EPA uses to limit the scope of topics, analysis, and engagement also may impede
+meaningful stakeholder engagement.
+Planned Actions to Overcome the Barriers
+To address these barriers, EPA must increase its internal capacity-measured as FTEs, training, resources,
+and expertise-to engage with underserved communities in a way that is meaningful and accessible
+and works to overcome the communities' barriers to participation. But EPA cannot stop at engagement.
+EPA must build the processes and internal infrastructure to be able to translate the learnings from
+community engagement into actions to address stakeholder concerns.
+Changing the way EPA conducts its core work to be more responsive to community input will require
+a multi-year effort and a sustained commitment from EPA leadership. EPA can take several actions in
+the short-term to assemble the necessary building blocks-new FTEs, new internal processes, new
+accountability mechanisms-for durable success.
+Strengthen EPA's capacity and ability to engage meaningfully with stakeholders in underserved
+communities.
+EPA's efforts to improve its capacity to engage with underserved communities must begin immediately
+but will continue over the short- and long-term. EPA will:
+14
+See, for example, NEJAC's model guidelines for public participation, which discuss the barriers to effective community engagement.
+Available at https://www.epa.gov/sites/default/files/2015-02/documents/recommendations-model-guide-pp-2013.pdf.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+12
+Increase the number of outreach staff in EPA's regional offices, assuming adequate congressional
+appropriations, with a focus on supporting community driven solutions.
+Strengthen EPA's language assistance and other services to improve access for people with LEP or
+disabilities by developing and implementing access plans for each program and region, providing
+EPA-wide training on access, and putting in place a disability access contract to ensure accessibility
+in public engagement.
+Implement a comprehensive and program-tailored training program on equity, environmental
+justice, and civil rights for all relevant EPA staff, as directed by the Agency Priority Goal for the first
+two years in EPA's FY2022-2026 Strategic Plan.
+Improve internal EPA processes to weave equity, environmental justice, and civil rights into the
+fabric of the agency's day-to-day work and provide multiple lines of accountability.
+Launch a new National Program Office, the Office of Environmental Justice and External Civil Rights
+Compliance, contingent on the outcome of FY2022 appropriations decisions.
+Require EPA's programs and regions to develop implementation plans, consistent with national
+program guidance, for achieving the objective of Goal 2 in EPA's FY2022-2026 Strategic Plan.
+Where relevant, ensure EPA rulemakings account for and respond to environmental justice
+concerns and consider disproportionate pollution impacts in underserved communities.
+Integrate equity, environmental justice, and civil rights benchmarks into the annual performance
+plans and reviews for relevant EPA staff, after thorough and transparent discussions with EPA's
+senior career leadership and employee unions, as relevant.
+Include commitments to address disproportionate pollution impacts in all written agreements (e.g.,
+grant work plans) between EPA and states and Tribes implementing their delegated authorities.
+Establish a set of indicators to track EPA's performance in eliminating disparities in environmental
+and public health conditions, as directed by the Agency Priority Goal for the first two years in EPA's
+FY2022-2026 Strategic Plan.
+Investigate opportunities and consider establishing partnerships with organizations such as the
+Government Alliance on Race and Equity (GARE) to integrate the regular use of tools, such as equity
+assessments, to assess the impact of EPA's programs, policies, and activities on underserved and
+disadvantaged communities.
+Tracking Our Progress
+In the short- and medium-term, EPA will focus on output-related measures to mark important
+milestones, such as creation of the new National Program Office of Environmental Justice and External
+Civil Rights Compliance; deployment of more outreach and engagement staff in EPA's regions, consistent
+with appropriations; delivery of trainings to EPA staff; and integration of equity-minded metrics in
+staff performance plans and national program guidance. These proposed actions respond to Goal
+2, Objectives 2.1 and 2.2 in EPA's FY2022-2026 Strategic Plan and align with the following LTPGs for
+completion by September 30, 2026:
+Increasing the percentage of all significant EPA actions with EJ implications that clearly
+demonstrate how the action is responsive to EJ concerns and addresses disproportionate impacts.
+These actions will include significant EPA rulemakings.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+13
+Ensuring EPA programs with direct implementation authority take at least 100 significant actions
+that will result in measurable improvements in Indian country.
+Ensuring all EPA programs and regions identify and implement opportunities to integrate civil
+rights compliance in their planning, guidance, policy directives, monitoring, and review activities.
+Ensuring all EPA programs and regional offices have in place and implement program-and region-
+specific language assistance plans to ensure that every EPA community outreach and engagement
+activity considers the needs of community members with LEP and that they secure the language
+services necessary to provide individuals with LEP meaningful access to EPA programs and
+activities.
+Ensuring all EPA programs and regional offices have in place and implement program-specific
+disability access plans to ensure every EPA community outreach and engagement activity
+considers the needs of persons with disabilities and provides persons with disabilities reasonable
+accommodations and appropriate auxiliary aids and services where necessary so they may
+effectively participate in EPA programs and activities.
+As noted above, EPA's FY2022-2026 Strategic Plan establishes an Agency Priority Goal to establish
+a set of indicators to track EPA's performance in eliminating disparities in environmental and public
+health conditions. These indicators-such as blood lead levels and asthma prevalence in low-income
+communities-wil help measure EPA's long-term success in delivering on promises to imbed equity,
+environmental justice, and civil rights into its work.
+Ensuring Accountability
+This proposed action aligns with EPA's FY2022-2026 Strategic Plan Goal 2, Objectives 2.1 and 2.2.
+The agency is accountable internally and to Congress and the public through reporting on the goals
+and objectives contained within the strategic plan. EPA also will report on progress to the NEJAC,
+National Tribal Caucus, and other regular public engagement forums. Individual EPA employees may
+be held accountable to metrics related to equity, environmental justice, and civil rights in their annual
+performance plans.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+14
+Priority Action #4:
+Strengthen EPA's external civil rights compliance program and ensure that
+civil rights compliance is an agency-wide responsibility.
+Barriers to Equitable Outcomes
+EPA has not fully used its civil rights implementation and enforcement authority to vigorously enforce
+federal civil rights laws. Federal law authorizes EPA and federal agencies generally to enact rules,
+regulations, or orders to achieve the laws' objectives. Specifically, EPA's nondiscrimination regulation
+prohibits recipients of EPA financial assistance from taking actions in their programs or activities that are
+intentionally discriminatory and/or have a discriminatory effect. Robust enforcement of civil rights law
+provides the strongest tool to address disparities on the basis of race, color, national origin (including
+LEP), and disability.
+EPA's External Civil Rights Compliance Office (ECRCO) has been consistently underfunded across
+administrations. As a result, ECRCO has relied primarily on a reactive rather than proactive approach
+to civil rights enforcement. ECRCO also is not fully and meaningfully engaging with internal (all EPA
+program and regional offices) and external (states, overburdened communities, and advocates)
+stakeholders. Moreover, EPA has not integrated civil rights compliance throughout its programs and
+activities and has not elevated it as a strategic goal. Over time, the U.S. Commission on Civil Rights15 and
+NEJAC16 have repeatedly voiced concerns about EPA's external civil rights program and made several
+recommendations for how to improve outcomes.
+The classifications protected by federal civil rights laws encompass many of the underserved
+and overburdened communities that have been exposed to a disproportionate level of harmful
+environmental, quality of life, and health impacts from pollution sources. An effective civil rights
+compliance program creates accountability to ensure that the actions, policies, and practices of
+recipients of federal funds advance equity rather than exacerbate these disparities.
+Planned Actions to Overcome the Barriers
+To strengthen civil rights compliance and enforcement, EPA's external civil rights program will shift from
+being primarily reactive, responding only to complaints, to proactively initiating compliance activities.
+Community representatives reaffirmed these priorities during EPA's first ever public listening session
+about external civil rights compliance on October 27, 2021. With those community perspectives as a
+guide, and with sufficient appropriations, EPA will:
+Initiate proactive pre-award and post-award civil rights compliance activities, including affirmative
+compliance reviews to address the impacts of potentially discriminatory activities on overburdened
+communities.
+15
+U.S. Commission on Civil Rights, Not in My Backyard: Executive Order 12,898 and Title VI as Tools for Achieving Environmental
+Justice U.S. Commission on Civil Rights (October 2003); Environmental Justice: Examining the Environmental Protection Agency's
+Compliance and Enforcement of Title VI and Executive Order 12898 (September 2016); Are Rights a Reality? Evaluating Federal Civil
+Rights Enforcement (November 2019).
+16
+See, e.g., the NEJAC's letter to EPA Administrator Scott Pruitt (July 31, 2017), regarding Title VI of the Civil Rights Act. Available at
+ https://www.epa.gov/sites/default/files/2018-01/documents/nejac-title-vi-letter-8-1-17-final.pdf. NEJAC has been raising concerns about
+Title VI enforcement for decades.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+15
+Develop and implement clear and strong civil rights guidance and corresponding training and
+technical assistance to increase recipients' compliance with civil rights laws, including in the
+permitting context.
+Conduct timely and effective civil rights complaint investigations and resolutions, including
+investigations and informal resolution agreements that effectively address adverse disparate
+impacts.Enhance communication and engagement with environmentally overburdened
+communities to meaningfully inform EPA's civil rights work and to empower and increase their
+participation in critical decision-making.
+Increase transparency by affirmatively providing information to the public.
+Strengthen federal interagency collaboration and coordination on complaints, compliance reviews,
+and policy guidance to enforce federal civil rights laws.
+Furthermore, as civil rights vigilance is an EPA-wide responsibility, EPA will undertake the following
+agency-wide actions:
+Engage all EPA program and regional offices in civil rights compliance activities to identify whether
+recipient programs and activities are consistent with civil rights laws.
+Communicate requirements and expectations to EPA staff through education, training, outreach,
+and technical assistance to enhance civil rights enforcement awareness and strengthen intra-
+agency collaboration.
+Include applicable civil rights requirements in EPA non-civil rights guidance, program strategic
+planning, environmental policy directives, rulemakings, enforcement, and siting and permitting
+decisions by EPA recipients.
+Tracking Our Progress
+EPA will initially focus on output-focused metrics in the short and mid-term, such as:
+Completion, distribution, and implementation of clear guidance on compliance with Title VI and
+other civil rights requirements.
+Number of civil rights post-award affirmative compliance reviews initiated annually.
+Number of civil rights audits initiated annually to ensure compliance with procedural requirements.
+Percentage of state recipients of EPA financial assistance that have foundational civil rights
+programs in place.
+Number of information sharing sessions and outreach and technical assistance events with
+overburdened and underserved communities, community groups, and other partners on civil
+rights and environmental justice issues.
+Number of opportunities identified and implemented by program and regional offices to achieve
+civil rights compliance in their planning, guidance, policy directives, monitoring, and review
+activities.
+In the long-term, EPA will seek to develop outcome-based metrics, including systems to track and
+quantify the pollution reduction benefits in communities that result from integration of civil rights and
+environmental justice into the agency's decision-making.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+16
+Ensuring Accountability
+EPA will hold itself accountable to this action through its direct alignment with agency-wide long-term
+and annual performance goals and objectives in Goal 2 of EPA's FY2022-2026 Strategic Plan. The agency
+is accountable internally and to Congress and the public through reporting on the goals and objectives
+contained within the strategic plan. In addition, EPA made several commitments to the Office of the
+Inspector General in response to its audit titled Improved EPA Oversight of Funding Recipients' Title VI
+Programs
+Could Prevent Discrimination. 17 EPA also will report on progress to the NEJAC and hold listening
+sessions with stakeholders.
+Priority Action #5:
+Integrate community science into EPA's research and program
+implementation.
+Barriers to Equitable Outcomes
+"Community science" is defined as research and science conducted by the community and/or a
+third party on its own behalf to inform decision-making. In contrast to traditional initiatives led by
+government agencies or research scientists, community-led projects are often characterized by use
+of local and traditional ecological knowledge (TEK) and/or locally generated and validated data.
+Communities collect this information to address environmental, public health, social, and economic
+justice issues important for environmental self-determination. Community science can generate fit-for-
+purpose data to inform a range of decisions associated with improved environmental management,
+including resource allocation, screening and fence-line monitoring, network expansion, inclusion of local
+conditions in environmental mapping tools and other analyses, and alerts and regulatory protection.
+Communities may face multiple barriers when attempting to conduct community science. They may
+have insufficient financial and human resources, and government funding for community science
+projects is limited and competitive. Communities also may lack expertise or access to expertise in
+relevant science disciplines and policy contexts; have differing expectations regarding what constitutes
+sufficient information quality for decision-making; lack trust in scientists and government agencies;
+and need more actionable information on how data can influence government decisions and how
+and in what form the data should be delivered. Tribes engaging in community science activities may
+have unique concerns about sharing sacred cultural and TEK with government agencies that may be
+compelled to disclose it publicly.18
+At the same time, EPA and other agencies at all levels of government have historically struggled to
+use data collected by community scientists. Government agencies may have unfamiliarity with or bias
+against using community-led science and TEK rather than traditional peer-reviewed science; insufficient
+clarity on what types and quality of data can be used in different situations (e.g., screening level data vs.
+regulatory data); inadequate processes and procedures for data management and inclusion in decision-
+making; and insufficient staff resources and training.
+17
+See https://www.epa.gov/system/files/documents/2021-10/ epaoig 20-e-0333 agency_response2.pdt
+18
+See, e.g., Kari Hedin, Cynthia Naha and Demi Gary, Tribal Citizen Science: Investigating Current Activities and Future Aspirations,
+February 26, 2021, https://itec.cherokee.org/media/tknc4211/tribal-citizen-science_white-paper_
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+17
+These barriers and opportunities have been described in reports by the National Advisory Council for
+Environmental Policy and Technology,19 the WHEJAC, 20 the NEJAC, 21 and the Biden Administration's
+November 2021 Memorandum on Indigenous Traditional Ecological Knowledge and Federal Decision
+Making.22 In addition, EPA's Board of Scientific Counselors Executive Committee met on July 6, 2021,
+to consult with stakeholders about incorporating equity and environmental justice in research and
+community science. Discussion at that meeting re-affirmed these barriers.23
+Planned Actions to Overcome the Barriers
+EPA's vision is that community science is equitably supported, viewed, and used as an asset in the range
+of decisions associated with environmental management by local, state, and federal programs.24 To
+achieve this, EPA will advance actions to overcome barriers to broad engagement in community science,
+along with policies and procedures that will help the agency overcome barriers to using these data in
+decisions.
+Build capacity for community science and access to community data
+EPA will take several actions to address resource and technical barriers to community science:
+Fund community science grants: EPA will fund community science initiatives through grant programs
+in support of environmental justice and equity priorities, including through American Rescue
+Plan appropriations. EPA will award funds to support community and local efforts to monitor
+environmental quality and to promote partnerships between communities and government
+agencies.
+Expand the availability of data and tools: EPA will continue to expand the availability of data and
+capacity for community environmental monitoring. This will include free, publicly accessible
+tools25 to provide community scientists with environmental and demographic data, mapping
+tools, tutorials, and information to characterize, map, and develop plans to address environmental
+conditions in their communities.
+Increase staff support and training for community science: EPA will assign staff to serve in community
+science liaison positions to support community science activities, including work in Tribal
+communities, and provide outreach and on-line training materials.
+Conduct research to create new community science tools and demonstration projects: EPA, working
+with communities, states, and Tribes, will improve methods for community science to address
+19
+National Advisory Council for Environmental Policy and Technology, Environmental Protection Belongs to the Public: A Vision for
+Citizen Science at EPA (2016), available at https://www.epa.gov/sites/default/files/2020-04/documents/nacept_cs_report_final _508.pd
+Information to Lction-Strengthening EPA Citizen Science Partnerships for Environmental Protection (2018), available at https://www.
+ epa.gov/sites/default/files/2020-04/documents/nacept_2018_citizen_science_publication_eng_final_v3_508.pdf.
+20
+WHEJAC, Final Recommendations: Justice40 Climate and Economic Justice Screening Tool & Executive Order 12898 Revisions, May
+2021, at https://www.epa.gov/sites/default/files/2021-05/documents/whiteh2.pdi
+21
+NEJAC, Recommendations for Integrating Environmental Justice into the EPA's Research Enterprise (2014), https://www.epa.gov/sites/
+roduction/files/2015-02/documents/nejac-research-recommendations-2014.pdf; Ensuring risk reduction in communities with multiple
+stressors: environmental justice and cumulative risks/impacts (2004), https://www.epa.gov/sites/default/files/2015-02/documents/nejac-
+cum-risk-rpt-122104.pdf.
+22
+Executive Office of the President, Memorandum on Indigenous Traditional Ecological Knowledge and Federal Decision Making,
+November 15, 2021, https://www.whitehouse.gov/wp-content/uploads/2021/11/111521-OSTP-CEQ-ITEK-Memo.pdf.This
+memorandum recognizes TEK as "one of the many important bodies of knowledge that contributes to the scientific, technical, social, and
+economic advancements of the United States and to our collective understanding of the natural world."
+23
+BOSC July 2021 Executive Committee Meeting, https://www.epa.gov/bosc/bosc-july-2021-executive-committee-meeting
+24
+See "Citizen Science at EPA: Engaging the Public in Environmental Protection," at https://arcg.is/C8mKe
+25
+See, for example, EJSCREEN, EnviroAtlas, UST (Underground Storage Tank) Finder, Cleanups in my Community, Toxics Release
+Inventory, How's My Waterway, Bloomwatch, EPA Sanitary Survey App for Fresh and Marine Waters, etc.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+18
+environmental concerns of underserved communities and will support research projects that
+demonstrate air, water, and soil pollution monitoring and other data generation using community
+science to inform environmental management.
+Issue policies and guidance documents to support the use of community science
+EPA will issue several policies and guidance documents by the third quarter of 2022 to address
+institutional barriers to the use of community science, including:
+EPA Vision and Strategy for Community/Citizen Science, which will outline EPA principles for
+supporting community science and identifying opportunities to incorporate in EPA actions.
+Multi-Stakeholder Plan for Improved Data Flow to Decision Makers, which will advance community
+science data infrastructure and flow from data-producers to data-users, based on the results of the
+November 2021 EPA/state/Tribal workshop on data management.
+EPA Policy Guidelines for Conducting Community/Citizen Science, which will include guidance on
+project development and quality assurance and an internal checklist to help EPA staff comply
+with legal and administrative requirements when supporting community science projects, such as
+ethical issues that arise in projects, data ownership, and privacy.
+Inclusion of community science data management in the E-Enterprise Leadership Council Digital
+Strategy, where the E-Enterprise Leadership Council (EELC) will continue to advance strategies using
+the data quality handbook, data management standards, and community science networks to
+expand the use of community science in local, state, Tribal, and federal government environmental
+decisions. The EELC includes senior EPA, state, and Tribal leaders.
+EPA will be participating with the Interagency Working Group on Traditional Ecological Knowledge
+to develop guidance on TEK.
+Tracking Our Progress
+In the short-term, EPA will measure its success based on the following outputs:
+Public release of the EPA Strategy and Vision, Data Management Plan, and EPA Internal Policy
+Guidelines by the third quarter of calendar year 2022.
+Percentage and/or number of EPA community grant funds that support science to address
+environmental justice and equity concerns, including Tribal community science projects.
+The long-term objective is that EPA's support for community science policies, methods, and data
+will expand the capacity of communities and local, state, Tribal, and federal governments to share in
+embracing community science as a valued and routine asset in environmental management.
+Ensuring Accountability
+These proposed actions align with EPA's FY2022-2026 Strategic Plan Goal 2, Objective 2.1 and Cross-
+Agency Strategy 1 ("Ensure Scientific Integrity and Science-Based Decision Making"). EPA is accountable
+internally and to Congress and the public through reporting on the goals and objectives contained
+within the agency strategic plan and within the Office of Research and Development's Strategic Research
+Action Plans. EPA also will report on progress through its advisory committees, including the Board of
+Scientific Counselors, the NEJAC, and the National Tribal Caucus, and through other public engagement
+forums.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+19
+Priority Action #6:
+Make EPA's procurement and contracting more equitable
+Barriers to Equitable Outcomes
+EPA has a history of engagement with small and socioeconomically disadvantaged businesses and
+Minority-Serving Institutions (MSI), including Historically Black Colleges and Universities (HBCUs).
+Because of this engagement, the agency is well-aware of several common barriers to procurement
+equity. These include:
+Underserved/underrepresented businesses may lack access to EPA programmatic decisionmakers,
+limiting their opportunity to demonstrate their business capabilities.
+Potential contractors from underserved/underrepresented communities may face unreasonable
+or unnecessary requirements for vendor past performance. Requiring extensive past performance
+and/or narrowly considering qualifying past performance may limit the ability of small and
+socioeconomically disadvantaged businesses and MSIs to compete against large businesses
+with more extensive federal contracting experience. While these businesses and MSIs may have
+innovative approaches, subcontractor experience, and experience with contracting in state,
+local, and private arenas, the evaluation process often places a greater "value" on federal prime
+contracting experience.
+EPA program offices may prefer incumbent vendors because of familiarity and a desire for
+continuity.
+Federal procurement regulations and processes are cumbersome. Small, disadvantaged, and
+underrepresented businesses may lack the resources to successfully navigate the process. Contract
+requirements can be ambiguous and are often task-based instead of performance-based stifling
+competition and innovation. The scope and size of acquisitions also can have a chilling effect
+on small and disadvantaged business participation. Contracting officials may assume that these
+businesses lack capacity to deliver results at the same level as larger businesses. In truth, many have
+the capacity to perform the work but may need support to compete for the work in the federal
+arena.
+Several existing policies can perpetuate these barriers. Members of the underserved and
+underrepresented business community, for example, told EPA that the Federal Acquisition Regulation
+(FAR) is cumbersome, unclear, and difficult and costly to navigate. Also, some of the rules in the FAR
+that are intended to level the playing field for underserved and underrepresented businesses are not
+consistently implemented, and none of the rules include MSIs or LGBTQ+ owned small businesses.
+EPA's internal acquisition guidance implements the FAR at the agency and therefore reflects the same
+concerns. In addition, federal category management policies that require and favor the creation and
+use of large multiple award contracts (that are often consolidations of smaller requirements) can have
+an adverse impact on underserved and underrepresented businesses that may not have the capacity to
+compete for larger contracts.
+The populations most affected by these barriers include small businesses, including socioeconomically
+disadvantaged small businesses; MSIs and HBCUs; and LGBTQ+-owned businesses. During the
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+20
+summer of 2021, EPA conducted two listening sessions with stakeholders from the underserved and
+underrepresented business community to receive feedback on the barriers they have experienced
+in accessing federal procurement opportunities and their ideas for eliminating those barriers. These
+listening sessions confirmed the barriers cited above.
+Planned Actions to Overcome the Barriers
+EPA has identified several actions to overcome these common barriers. EPA will:
+Challenge EPA program offices and regions (including senior leadership) to conduct and participate
+in agency outreach events to provide the underserved and underrepresented business community
+with access to EPA decision makers.
+Develop and implement policies and procedures to promote the utilization of underserved and
+underrepresented businesses and level the playing field between incumbent contractors and new
+firms, such as using "anonymous" technical evaluations; expanding the use of oral presentations;
+broadening the scope of qualifying past performance; and revamping category management
+policies.
+Facilitate programmatic acquisition forecasting, acquisition planning, and requirements
+development to eliminate ambiguity and increase opportunities for underserved and
+underrepresented businesses.
+Provide technical assistance to facilitate productive navigation of the federal contracting process
+internally and externally.
+EPA has prioritized these actions due to their ease of implementation, measurability, and direct impact
+on barrier reduction.
+Tracking Our Progress
+EPA will track progress by establishing measures for the following factors/areas:
+Increased performance against EPA's socioeconomic small business goals. In the FY2022-2026
+Strategic Plan, EPA established an LTPG (through 2026) of awarding 4% of EPA contract spending to
+small businesses located in Historically Underutilized Business Zones (HUBZones) compared with
+the FY2018-FY2020 average annual baseline of 2.2%.
+Increased diversification of EPA's vendor base by tracking its contracts with "new entrants"
+(vendors that have never had a prime contract with EPA), socioeconomic small businesses,
+and MSIs. In FY2022, EPA will develop a mechanism to capture data associated with this measure
+and establish a baseline. In FY2023, EPA will implement annual targets for diversification of its
+vendor base for FY2023-2027. This will measure the agency's progress in addressing the past
+performance and incumbency barriers identified above.
+Increased engagement (including technical assistance) with socioeconomic small businesses
+and MSIs by EPA's program offices and contracting offices. In FY2022, EPA will baseline its
+engagement activities with the populations most affected by this barrier. In FY2023, EPA will define
+and implement annual targets for engagement and technical assistance activities for program
+offices, regions, and contracting offices, including participation by EPA decision-makers for FY2023-
+2027.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+21
+EPA will measure long-term success as institutionalizing these factors and the activities associated with
+achieving them in the agency's business culture.
+Ensuring Accountability
+These proposed actions align with Cross-Agency Strategy 3, "Advance EPA's Organizational Excellence
+and Workforce Equity," in EPA's FY2022-2026 Strategic Plan. This cross-agency strategy seeks to foster
+a diverse, equitable, and inclusive workforce within an effective and mission-driven workplace. EPA is
+accountable internally and to Congress and the public through reporting on the goals and objectives
+contained within the strategic plan.
+To further reinforce accountability for senior managers at the SES and GS levels, EPA intends to include
+standards in their performance plans for hosting or participating in engagement opportunities for
+underserved and underrepresented businesses. EPA will also host "Procurement Equity Forums" to
+provide opportunities for engagement, listening, and business capability sharing and to provide the
+underserved and underrepresented business community with updates on EPA's procurement equity
+progress. Finally, EPA will develop a "Procurement Equity Dashboard" to track our quarterly progress
+against the three measures cited above.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+22
+Summary of Early Accomplishments
+(as of January 20, 2022)
+Although EPA has identified these six priority actions as forward-looking objectives, the agency has
+been working since the beginning of Administrator Regan's tenure to advance equity, environmental
+justice, and external civil rights compliance. Below we highlight some progress made under each of the
+priority actions to date. In addition, Administrator Regan outlined EPA's work on environmental justice
+in response to specific questions from the NEJAC. The Administrator's letter to the NEJAC, dated October
+29, 2021, is available on EPA's website.26
+In November 2021, Administrator Regan embarked on a "Journey to Justice" tour, traveling to
+Mississippi, Louisiana, and Texas to spotlight longstanding environmental justice concerns in historically
+marginalized communities and hear firsthand from residents dealing with the impacts of pollution.
+Throughout the tour, the Administrator highlighted the benefits of President Biden's Bipartisan
+Infrastructure Law and the Build Back Better agenda, focusing on historic investments in water
+infrastructure, Superfund, Brownfields, and in air quality improvements that will lead to lasting public
+health protections in communities that need them most.
+Priority Action #1: Develop a comprehensive framework for considering cumulative
+impacts in relevant EPA decisions and operationalize that framework in EPA's
+programs and activities.
+The framework will recognize that approaches to incorporating cumulative impacts into decision-
+making will be fit for purpose. Toward this end, the External Civil Rights Compliance Office
+has committed to issuing guidance on disparate impact analysis in FY2022, which will include
+incorporation of cumulative impacts analysis under civil rights law.
+In 2021, EPA's Office of Research and Development (ORD) held state and Tribal listening sessions
+on cumulative impacts assessment. These listening sessions served to confirm the importance of
+cumulative impacts assessment to states, Tribes, and communities for addressing environmental
+justice and to identify remaining challenges for incorporating vulnerabilities due to cumulative
+impacts into environmental decision making. The listening sessions echoed the recommendations
+from NEJAC, WHEJAC, and ORD's Board of Scientific Counselors that EPA has begun to implement.
+EPA established a Community of Practice for integration of environmental justice and civil rights in
+permitting.
+Priority Action #2: Build the capacity of underserved communities to provide their
+experience to EPA and implement community-led projects.
+During calendar year 2021, EPA awarded more environmental justice grant funding to community-
+based organizations, Tribal and indigenous organizations, and other partners than it awarded
+altogether in the preceding decade.
+EPA has prioritized significant portions of American Rescue Plan Act funding to provide technical
+assistance and capacity building opportunities directly to communities and their local partners,
+such as additional Brownfields resources, funding for energy communities in Appalachia, and more
+specific assistance programs focused on supporting community resilience to respond to climate
+change issues such as wildfires and extreme heat events.
+26
+See https://www.epa.gov/system/files/documents/2021-11/nejac-100-day-letter-final-signed.pdf.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+23
+EPA has initiated the formation of regional NEJAC working groups for all ten of EPA's regional
+offices to ensure better long-term relationship building and feedback on priority efforts as EPA
+implements its equity, environmental justice, and civil rights activities.
+EPA has initiated biweekly national EJ engagement calls to offer a regular venue for communities
+and their partners to regularly receive information and updates on priority actions, particularly
+efforts to implement Justice40, and to provide feedback directly to EPA leadership and staff. From
+August 31-December 7, 2021, EPA hosted eight such calls with more than 2,700 participants.
+EPA is implementing three key water infrastructure programs as pilots for early action under
+President Biden's Justice40 Initiative. These programs represent more than 30% of the agency's
+budget: The Clean Water SRF, the Drinking Water SRF, and the Reducing Lead in Drinking Water
+grant program under the WIIN Act.
+On December 17, 2021, EPA announced a $1 billion investment from the Bipartisan Infrastructure
+Law to initiate cleanup and clear the backlog of 49 previously unfunded Superfund sites and
+accelerate cleanup at dozens of other sites across the country.
+Priority Action #3: Develop EPA's internal capacity to engage underserved
+communities and implement clear and accountable processes to act based on
+communities' input.
+For the first time, EPA is including equity, environmental justice, and civil rights compliance as a
+distinct and core goal of EPA's multiyear strategic plan. No longer will the agency's work to advance
+justice and live up to its civil rights responsibilities be left outside of the EPA's bedrock planning
+documents.
+In 2021, EPA's Office of Enforcement and Compliance Assurance issued four memoranda directing
+a renewed focus on environmental justice across EPA enforcement activities with a consistent
+direction for enforcement staff to regularly engage with communities with environmental justice
+concerns as a regular part of program implementation. (See Appendix for more detail)
+In December 2021, Deputy Administrator McCabe directed EPA's National Program Managers
+to integrate equity, environmental justice, and civil rights in their national program guidance
+documents for 2022, in accordance with Goal 2 of the FY2022-2026 Strategic Plan.
+In January 2022, EPA's Office of Land and Emergency Management released a draft Environmental
+Justice Action Plan for public comment that addresses how the office will address land cleanup
+issues in overburdened communities across several programs.
+Priority Action #4: Strengthen EPA's external civil rights compliance program and
+ensure that civil rights compliance is an agency-wide responsibility.
+In March and June 2021, EPA issued two Preliminary Findings of Non-Compliance to recipient
+agencies that did not have in place required nondiscrimination programs, such as procedural
+safeguards and programs and policies to ensure meaningful access for persons with LEP and
+persons with disabilities.
+On October 27, 2021, EPA held its first ever public listening session on civil rights enforcement and
+heard input from more than 200 stakeholders.
+On September 20, 2021, EPA sent a detailed response to the EPA Office of Inspector General, which
+had raised concerns about EPA's implementation of Title VI in a 2020 report. In that response, EPA
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+24
+committed to several specific actions to strengthen this program at EPA. EPA's response is available
+in full on its website.27
+Priority Action #5: Integrate community science into EPA's research and program
+implementation.
+On October 2, 2021, EPA announced 47 members to the agency's Science Advisory Board, including
+members of the first-ever Environmental Justice Science Committee.
+On July 6, 2021, EPA's Office of Research and Development (ORD) held a consultation with the
+Board of Scientific Counselors (BOSC) and community stakeholders to discuss potential avenues
+to further integrating community science into EPA's 2023-2026 Strategic Research Action Plan
+and to help ORD set its research and development agenda. Additionally, ORD held a series of
+workshops with other offices within the agency and other key stakeholders to discuss ideas on how
+to develop community science projects in the various national research programs. EPA is renewing
+and structuring the BOSC, including creating a Social and Community Science Subcommittee to
+provide advice on these priorities in research planning and implementation.
+In December 2021, EPA's Office of Air and Radiation launched a $20 million grant competition that
+calls for proposals to conduct monitoring of pollutants of greatest concern in communities with
+health outcome disparities. EPA's objective in issuing these awards is to empower communities to
+monitor their own air quality and promote monitoring partnerships between communities and
+Tribal, state, and local governments.
+Priority Action #6: Make EPA's procurement and contracting more equitable.
+Based on the provisional federal procurement data for FY2021 that will be finalized over the next
+few months:
+EPA awarded more than 44% or $679 million in contract dollars to small businesses, far exceeding
+the agency's negotiated goal of 37% and the government-wide goal of 23%. This goal achievement
+represents an $86 million increase from last fiscal year.
+Also, for the first time in the agency's history, EPA exceeded all five of the established statutory
+socioeconomic goals, including the never before realized goal of 3% for small businesses located in
+Historically Underutilized Business Zones (HUBZones).
+EPA awarded the highest percentage of dollars to 4 of the 5 small business categories in more than
+a decade.
+27ee https://www.epa.gov/system/files/documents/2021-10/_epaoig_20-e-0333_agency_response2.pdi
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+25
+Appendix 1:
+Additional EPA Plans and Strategies to Prioritize Equity, Environmental
+Justice, and External Civil Rights Compliance in its Programs,
+Policies, and Processes
+In addition to the six priority actions detailed in this equity action plan, EPA has released several
+additional plans and strategies to deliver equity and environmental justice in its programs, policies, and
+processes. This is current as of January 20, 2022.
+Environmental Enforcement and Compliance Directives
+Consistent with the mandate in Executive Order 14008, Administrator Regan directed the Office of
+Enforcement and Compliance Assurance (OECA) to "strengthen enforcement of environmental violations
+with disproportionate impact on underserved communities." In response, OECA issued four directives:
+Strengthening Enforcement in Communities with Environmental Justice Concerns (April 30, 2021). 28
+Regarding civil regulatory enforcement, this memo directs an increase in the number of facility
+inspections in overburdened communities, enhancements to remedies, and an increase in
+community engagement.
+Strengthening Environmental Justice through Criminal Enforcement (June 21, 2021.29 This memo
+directs better detection of environmental crimes in overburdened communities through effective
+civil-criminal coordination on investigations and cases, improved assistance to crime victims, and
+enhanced remedies sought in environmental crime cases.
+Strengthening Environmental Justice through Cleanup Enforcement Actions (July 1, 2021). 30 This memo
+directs EPA's cleanup enforcement staff to require responsible parties to take early and prompt
+cleanup actions, press for more robust enforcement instruments, and increase cleanup oversight.
+Using All Appropriate Injunctive Relief Tools in Civil Enforcement Settlements (April 26, 2021). 31
+This memo encourages use of the full array of policy and legal tools to ensure benefits to affected
+individuals and communities, including advanced monitoring, audits, electronic reporting, and posting
+of compliance data.
+Draft Strategy to Reduce Lead Exposures and Disparities in U.S. Communities
+On October 28, 2021, EPA released the draft Strategy to Reduce Lead Exposures and Disparities in U.S.
+Communities to lay out an all-of-EPA plan to strengthen public health protections and address legacy
+lead contamination for communities with the greatest exposures.³2 EPA is seeking public comment
+on this draft strategy through a public docket, hosting listening sessions, and targeting outreach to
+communities that are disproportionately harmed by exposures to lead as well as other key stakeholder
+28
+3Available at https://www.epa.gov/sites/default/files/2021-04/documents/strengtheningenforcementincommunitieswithejconcerns.pdf.
+29
+Available at s://www.epa.gov/system/files/documents/2021-07/strengtheningejthroughcriminal062121.pdf.
+30
+Available at https://www.epa.gov/system/files/documents/2021-07/strengtheningenvirjustice-cleanupenfaction070121.pdf.
+31
+Available at https://www.epa.gov/sites/default/files/2021-04/documents/
+usingallappropriateinjunctiverelieftoolsincivilenforcementsettlement0426.pdf.
+32
+U.S. EPA, Strategy to Reduce Lead Exposures and Disparities in U.S. Communities, October 28, 2021, https://www.epa.gov/lead/draft-
+strategy-reduce-lead-exposures-and-disparities-us-communities
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+26
+groups, including Tribes, states, territories, local governments, non-governmental organizations, and
+industry. To provide access for persons with LEP, EPA translated the draft strategy into 10 different
+languages and posted them on EPA's website.
+PFAS Strategic Roadmap: EPA's Commitments to Action 2021-2024
+On October 18, 2021, EPA Administrator Regan released the agency's PFAS Strategic Roadmap, which
+lays out a whole-of-agency approach to addressing PFAS.³³ The roadmap sets timelines by which EPA
+plans to take specific actions and commits to bolder new policies to safeguard public health, protect
+the environment, and hold polluters accountable. EPA will strive to understand the challenges facing
+individuals and communities grappling with PFAS contamination to understand their lived experiences
+and determine the most effective interventions. As recommended by the NEJAC, EPA will meet with
+affected communities in each EPA Region to hear how PFAS contamination affects their lives and
+livelihoods. EPA will use the knowledge gained from these engagements to inform the implementation
+of the actions described in the roadmap. The PFAS Strategic Roadmap is already available in Spanish and
+is being translated into other languages to provide access for persons with LEP.
+EPA Plan for Implementing the Policies and Directives of E.O. 13175:
+Consultation and Coordination with Indian Tribal Governments
+EPA is committed to honoring Tribal sovereignty and including Tribal voices in policy deliberations,
+as called for in President Biden's January 26, 2021, memorandum on Nation-to-Nation relationships
+with American Indian and Alaska Native Tribal Nations. EPA has a long history of engagement and
+consultation with Tribal governments. In 2011, it was among the first federal agencies to issue a Tribal
+consultation policy, and in the 10 years since the policy was issued EPA has conducted more than 680
+Tribal consultations. Continued implementation of EPA's Consultation Policy remains a top priority for
+the agency as EPA strives to learn from its past consultations and ongoing engagements with federally
+recognized Indian Tribes. This plan, which builds upon EPA's existing policies and practices, identifies
+current and future actions the agency is taking to meet the directives of Executive Order 13175 and to
+build on and strengthen its consultation policies and practices.34
+Office of Water Action Plan: Strengthening the Nation-to-Nation Relationship with
+Tribes to Secure a Sustainable Water Future
+On October 14, 2021, EPA released an action plan to strengthen the agency's partnership with Tribes and
+Alaska Native Villages on water issues. The action plan focuses on promoting robust coordination and
+meaningful consultation with Tribal nations; strengthening and expanding water governance in Indian
+country; increasing infrastructure funding and capacity development; and honoring the federal trust
+responsibility and protecting Tribal reserved rights related to water resources.35
+33
+U.S. EPA, PFAS Strategic Roadmap: EPA's Commitments to Action 2021-2024, October 2021, https://www.epa.gov/pfas/pfas-strategic-
+roadmap-epas-commitments-action-2021-2024
+34
+U.S. EPA, EPA Plan for Implementing the Policies and Directives of E.O. 13175: Consultation & Coordination with Indian Tribal
+Governments, https://www.epa.gov/tribal/epa-plan-implementing-policies-and-directives-eo-13175-consultation-coordination-indian.
+35
+Office of Water,Strengthening the Nation-to-Nation Relationship with Tribes to Secure a Sustainable WaterFuture,October2021,
+ttps://www.epa.gov/system/files/documents/2021-10/2021-ow-tribal-action-plan_508_0.pdf.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+27
+Office of Land and Emergency Management Environmental Justice Action Plan
+On January 5, 2022, EPA's Office of Land and Emergency Management (OLEM) released a draft
+Environmental Justice Action Plan for public comment.36 This draft plan covers projects and activities
+intended to address land cleanup issues in overburdened communities across several programs,
+including Superfund, Brownfields, Emergency Response, Solid Waste Management and Corrective
+Action, and Underground Storage Tanks. The draft plan outlines strategies to enhance nearly two
+dozen projects while addressing the need for stronger compliance, increased environmental justice
+considerations in EPA regulations, and improved community engagement.
+36
+Office of Land and Emergency Management, Draft EJ Action Plan: Building Up Environmental Justice in EPA's Land Protection and
+Cleanup Programs, January 5,2020, https://www.epa.gov/aboutepa/draft-environmental-justice-action-plan-epas-land-protection-and-
+cleanup-programs.
+E.O. 13985 EQUITY ACTION PLAN: U.S. ENVIRONMENTAL PROTECTION AGENCY
+UNTED
+STATES
