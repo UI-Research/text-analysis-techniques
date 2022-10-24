@@ -97,13 +97,13 @@ dict_underserved_tidy <-
   tidy(dict_underserved) |>
   mutate(word = str_flatten(word, ', '))
 
-context_list$underserved_global <-
+underserved_global <-
   kwic(toks, dict_underserved, window = 1000) |>
   tidy_kwic() |>
   left_join(dict_underserved_tidy, by = c('pattern' = 'category'))
 
 
-context_list$underserved_window <-
+underserved_window <-
   tokens_select(toks, 'underserved*|disadvantaged|communities of concern|minority|overburdened|vulnerable|marginalized|underrepresented', window = 1000, selection = 'keep') |>
   kwic(dict_underserved, window = 1000) |>
   tidy_kwic() |>
@@ -116,7 +116,7 @@ context_list$underserved_window <-
 
 
 dict_barriers <- dictionary(list(barriers = c('completion', 'enroll*', 'participat*')))
-context_list$barriers_window <-
+barriers_window <-
   tokens_select(toks, 'barrier*', window = 1000, selection = 'keep') |>
   kwic(dict_barriers, window = 1000) |>
   tidy_kwic() |>
