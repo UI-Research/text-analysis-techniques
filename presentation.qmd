@@ -70,7 +70,6 @@ corpus <-
 toks <- tokens(corpus, remove_punct = FALSE)
 ```
 
-------------------------------------------------------------------------
 
 ```{r}
 
@@ -111,7 +110,6 @@ underserved_window <-
   left_join(dict_underserved_tidy, by = c('pattern' = 'category'))
 ```
 
-------------------------------------------------------------------------
 
 ```{r}
 
@@ -183,7 +181,7 @@ auth <- create_token(
 
 # Pseudorandom sample of tweets that contain this token
 # This function includes RTs
-hotd_tweets <- search_tweets('#HOTD', n=50000, include_rts=FALSE, retryonratelimit = TRUE)
+hotd_tweets <- search_tweets('#HOTD', n=500, include_rts=FALSE, retryonratelimit = TRUE)
 
 
 
