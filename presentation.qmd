@@ -34,12 +34,13 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ```{r}
 #| include : false
-librarian::shelf(tidyverse, tidytext, quanteda, reticulate, glue)
+librarian::shelf(tidyverse, tidytext, quanteda, reticulate, glue, topicmodels, dotenv, rtweet)
 source('scripts/utils.R')
 ```
 
 Load text from 27 Federal agency equity action plans
-```{r}
+
+```{r, include = FALSE}
 # Read agency plans, convert text to a corpus, and tokenize
 plans_txt <- readtext::readtext('data/txt/*', docvarsfrom = "filenames") |> filter(str_ends(doc_id, 'equity-action-plan.txt'))
 
@@ -55,6 +56,7 @@ plans_txt
 ```
 
 Convert to corpus object and split by sentences, words
+
 ```{r}
 corpus <-
   corpus(plans_txt)|>
@@ -68,8 +70,7 @@ corpus <-
 toks <- tokens(corpus, remove_punct = FALSE)
 ```
 
-
----
+------------------------------------------------------------------------
 
 ```{r}
 
@@ -109,7 +110,8 @@ underserved_window <-
   tidy_kwic() |>
   left_join(dict_underserved_tidy, by = c('pattern' = 'category'))
 ```
----
+
+------------------------------------------------------------------------
 
 ```{r}
 
@@ -127,5 +129,75 @@ barriers_window <-
 ```
 
 
+
+
+## Topic Modeling with Latent Dirichlet Allocation
+
+```{r}
+
+# Primer on Latent Dirichlet Allocation (LDA):
+# https://sicss.io/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html
+
+# Setup ----------------------------------------------------------------------------------------------------
+
+data('AssociatedPress')
+
+
+# LDA on AP data with 10 topics specified
+AP_topic_model <- LDA(AssociatedPress, k=10, control = list(seed = 321)) #control for reproducability
+
+
+
+# Here, betas correspond to probs of each word being associated with each topic
+AP_topics <- tidy(AP_topic_model, matrix = "beta") #turn object into tidy tibble (extract beta attribute)
+
+ap_top_terms <-
+  AP_topics %>%
+  group_by(topic) %>%
+  top_n(10, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+
+
+ap_top_terms %>%
+  mutate(term = reorder(term, beta)) %>%
+  ggplot(aes(term, beta, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") + 
+  coord_flip()
+
+
+
+```
+
+## Analyzing Twitter Trends
+```{r}
+
+auth <- create_token(
+  app = 'toxicity_detection',
+  consumer_key = Sys.getenv('api_key'),
+  consumer_secret = Sys.getenv('api_secret_key'),
+  access_token = Sys.getenv('access_token'),
+  access_secret = Sys.getenv('access_secret')
+)
+
+# Pseudorandom sample of tweets that contain this token
+# This function includes RTs
+hotd_tweets <- search_tweets('#HOTD', n=50000, include_rts=FALSE, retryonratelimit = TRUE)
+
+
+
+# Plot results over time
+ts_plot(hotd_tweets, "hours", tz='US/Eastern') +
+  ggplot2::theme_minimal() +
+  ggplot2::theme(plot.title = ggplot2::element_text(face = "bold")) +
+  ggplot2::geom_vline(xintercept=as.POSIXct('2022-10-23 21:00:00', tz='US/Eastern'),
+                      linetype='dashed', color='red') +
+  ggplot2::labs(
+    x = NULL, y = NULL,
+    title = "Frequency of Tweets about House of the Dragon",
+    subtitle = "Tweet counts aggregated by hour",
+    caption = "\nSource: Data collected from Twitter's REST API via rtweet"
+  )
 ```
 
