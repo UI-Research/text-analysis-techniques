@@ -22,26 +22,13 @@ editor_options:
   chunk_output_type: console
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE,
-                      warning = FALSE,
-                      message = FALSE,
-                      include = TRUE,
-                      tidy = TRUE,
-                      cache = FALSE,
-                      out.width = '100%',
-                      out.height = '100%')
-```
 
-```{r}
-#| include : false
-librarian::shelf(tidyverse, tidytext, quanteda, reticulate, gt, glue, topicmodels, dotenv, rtweet, readxl, reshape2)
+## {background-color="black" background-image="images/DOL-eap.png" data-background-size="contain"}
 
-
-```
-
+---
 
 ![](images/communities-dictionary.png)
+
 ---
 
 
@@ -60,4 +47,7 @@ librarian::shelf(tidyverse, tidytext, quanteda, reticulate, gt, glue, topicmodel
 ![](images/ap-top-terms.png)
 
 ## Analyzing Twitter Trends
-![](images/frequency-hotd.png)
+![](images/frequency-potus.png)
+---
+
+![](images/sentiment-biden.png){data-background-size:"contain"}
