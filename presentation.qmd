@@ -1,12 +1,10 @@
 ---
 title: "Text Analysis and NLP Techniques in Practice"
 author: "Manu Alcalá Kovalski and Judah Axelrod"
-format: revealjs
+format: 
+  revealjs:
+    logo: www/images/urban-institute-logo.png
 editor: visual
-title-slide-attributes: 
-  data-background-image: www/images/urban-institute-logo.png
-  data-background-size: 25%
-  data-background-position: 8% 8%
 output:
   html:
     number_sections: FALSE
@@ -17,6 +15,9 @@ output:
     mathjax: null
     df_print: paged    
     css: !expr here::here("www", "web_report.css") 
+    fig-width : 9
+    page-layout: full
+    fig-height : 5
 editor_options:
   chunk_output_type: console
 ---
@@ -34,168 +35,29 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ```{r}
 #| include : false
-librarian::shelf(tidyverse, tidytext, quanteda, reticulate, glue, topicmodels, dotenv, rtweet)
-source('scripts/utils.R')
-```
-
-Load text from 27 Federal agency equity action plans
-
-```{r, include = FALSE}
-# Read agency plans, convert text to a corpus, and tokenize
-plans_txt <- readtext::readtext('data/txt/*', docvarsfrom = "filenames") |> filter(str_ends(doc_id, 'equity-action-plan.txt'))
-
-plans <-
-  fs::dir_ls('data/txt') |>
-  fs::path_file() |>
-  str_extract('^[^.]*') |>
-  str_to_upper() |> 
-  str_subset("EQUITY-ACTION-PLAN")
-
-plans_txt
-
-```
-
-Convert to corpus object and split by sentences, words
-
-```{r}
-corpus <-
-  corpus(plans_txt)|>
-  set_names(plans) |>
-  corpus_reshape(to = 'sentences')
-
- corpus(plans_txt)|>
-  set_names(plans) |>
-  corpus_reshape(to = 'paragraphs')
-
-toks <- tokens(corpus, remove_punct = FALSE)
-```
-
-
-```{r}
-
-dict_underserved <-
-  dictionary(
-    list(
-      native_american = c('tribal*', 'tribes*', 'indigenous*','native*'),
-      alaskan = 'alaskan*',
-      pacific_islander = c('pacific*', 'pacific island*'),
-      asian = c('asian'),
-      aapi = c('aapi', 'asian-pacific'),
-      black = c('black*', 'african-american*'),
-      bipoc = 'BIPOC',
-      poc = c('people of color', 'persons of color',  'students of color', 'Communities of color'),
-      latinx = c('latino*', 'hispanic*', 'latinx*'),
-      women = c('women'),
-      lgbtqplus = c('LGBT*'),
-      disabled = c('disabled*', 'disabilities*', 'disability*'),
-      rural = c('rural*'),
-      immigrant = c('immigrant*', 'newcomer*', 'migrant*')
-    )
-  )
-
-dict_underserved_tidy <-
-  tidy(dict_underserved) |>
-  mutate(word = str_flatten(word, ', '))
-
-underserved_global <-
-  kwic(toks, dict_underserved, window = 1000) |>
-  tidy_kwic() |>
-  left_join(dict_underserved_tidy, by = c('pattern' = 'category'))
-
-
-underserved_window <-
-  tokens_select(toks, 'underserved*|disadvantaged|communities of concern|minority|overburdened|vulnerable|marginalized|underrepresented', window = 1000, selection = 'keep') |>
-  kwic(dict_underserved, window = 1000) |>
-  tidy_kwic() |>
-  left_join(dict_underserved_tidy, by = c('pattern' = 'category'))
-```
-
-
-```{r}
-
-
-
-dict_barriers <- dictionary(list(barriers = c('completion', 'enroll*', 'participat*')))
-barriers_window <-
-  tokens_select(toks, 'barrier*', window = 1000, selection = 'keep') |>
-  kwic(dict_barriers, window = 1000) |>
-  tidy_kwic() |>
-  mutate(search_terms = str_flatten(dict_barriers$barriers, ', ')) |>
-  distinct(agency, plan, sentence_number, .keep_all = TRUE)
+librarian::shelf(tidyverse, tidytext, quanteda, reticulate, gt, glue, topicmodels, dotenv, rtweet, readxl, reshape2)
 
 
 ```
 
 
+![](images/communities-dictionary.png)
+---
 
+
+## Global Search
+
+![](images/communities-frequency-global-eap.png)
+
+## Window Search
+
+![](images/communities-frequency-window-eap.png)
+
+---
 
 ## Topic Modeling with Latent Dirichlet Allocation
 
-```{r}
-
-# Primer on Latent Dirichlet Allocation (LDA):
-# https://sicss.io/2020/materials/day3-text-analysis/topic-modeling/rmarkdown/Topic_Modeling.html
-
-# Setup ----------------------------------------------------------------------------------------------------
-
-data('AssociatedPress')
-
-
-# LDA on AP data with 10 topics specified
-AP_topic_model <- LDA(AssociatedPress, k=10, control = list(seed = 321)) #control for reproducability
-
-
-
-# Here, betas correspond to probs of each word being associated with each topic
-AP_topics <- tidy(AP_topic_model, matrix = "beta") #turn object into tidy tibble (extract beta attribute)
-
-ap_top_terms <-
-  AP_topics %>%
-  group_by(topic) %>%
-  top_n(10, beta) %>%
-  ungroup() %>%
-  arrange(topic, -beta)
-
-
-ap_top_terms %>%
-  mutate(term = reorder(term, beta)) %>%
-  ggplot(aes(term, beta, fill = factor(topic))) +
-  geom_col(show.legend = FALSE) +
-  facet_wrap(~ topic, scales = "free") + 
-  coord_flip()
-
-
-
-```
+![](images/ap-top-terms.png)
 
 ## Analyzing Twitter Trends
-```{r}
-
-auth <- create_token(
-  app = 'toxicity_detection',
-  consumer_key = Sys.getenv('api_key'),
-  consumer_secret = Sys.getenv('api_secret_key'),
-  access_token = Sys.getenv('access_token'),
-  access_secret = Sys.getenv('access_secret')
-)
-
-# Pseudorandom sample of tweets that contain this token
-# This function includes RTs
-hotd_tweets <- search_tweets('#HOTD', n=500, include_rts=FALSE, retryonratelimit = TRUE)
-
-
-
-# Plot results over time
-ts_plot(hotd_tweets, "hours", tz='US/Eastern') +
-  ggplot2::theme_minimal() +
-  ggplot2::theme(plot.title = ggplot2::element_text(face = "bold")) +
-  ggplot2::geom_vline(xintercept=as.POSIXct('2022-10-23 21:00:00', tz='US/Eastern'),
-                      linetype='dashed', color='red') +
-  ggplot2::labs(
-    x = NULL, y = NULL,
-    title = "Frequency of Tweets about House of the Dragon",
-    subtitle = "Tweet counts aggregated by hour",
-    caption = "\nSource: Data collected from Twitter's REST API via rtweet"
-  )
-```
-
+![](images/frequency-hotd.png)
