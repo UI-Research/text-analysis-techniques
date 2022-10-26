@@ -8,6 +8,7 @@
 # Setup ----------------------------------------------------------------------------------------------------
 
 library(topicmodels)
+
 library(tidytext)
 library(dplyr)
 library(ggplot2)
@@ -30,9 +31,17 @@ ap_top_terms <-
   arrange(topic, -beta)
 
 
-ap_top_terms %>%
+topic_labels <- c(`1` = 'Topic 1', `2` = 'Topic 2', `3` = 'Topic 3', `4` = 'Topic 4', `5` = 'Topic 5',
+                  `6` = 'Topic 6', `7` = 'Topic 7', `8` = 'Topic 8', `9` = 'Topic 9', `10` = 'Topic 10')
+ap_top_terms_plot <- ap_top_terms %>%
   mutate(term = reorder(term, beta)) %>%
   ggplot(aes(term, beta, fill = factor(topic))) +
   geom_col(show.legend = FALSE) +
-  facet_wrap(~ topic, scales = "free") + # Not fixed for each separate graph
-  coord_flip()
+  facet_wrap(~ topic, scales = "free", ncol=2,
+             labeller = as_labeller(topic_labels)) + # Not fixed for each separate graph
+  coord_flip() +
+  xlab('') +
+  ylab('Probability that term belongs to topic')
+
+
+ggsave('images/ap-top-terms.png', ap_top_terms_plot)
