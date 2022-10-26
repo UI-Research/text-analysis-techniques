@@ -55,9 +55,16 @@ librarian::shelf(tidyverse, tidytext, quanteda, reticulate, gt, glue, topicmodel
 
 ---
 
-## Topic Modeling with Latent Dirichlet Allocation
+## Topic Modeling
+![](images/topic-models-blei-2012.png)
 
+## Topics for AP News articles
 ![](images/ap-top-terms.png)
 
 ## Analyzing Twitter Trends
-![](images/frequency-hotd.png)
+![](images/biden-tweet-freqs.png)
+---
+
+## Sentiment Analysis
+![](images/sentiment-analysis-trend.png)
+
