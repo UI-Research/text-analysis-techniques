@@ -146,3 +146,10 @@ li {
   font-size: 14px;
   margin: 0 0 8px 0;
 }
+
+.reveal .slide-logo {
+  height: 100px !important;
+  width: 100px!important;
+  max-width: unset !important;
+  max-height: unset !important;
+}

@@ -1,9 +1,12 @@
 ---
 title: "Text Analysis and NLP Techniques in Practice"
 author: "Manu Alcalá Kovalski and Judah Axelrod"
+title-slide-attributes:
+  data-background-color: "#1696d2"
 format: 
   revealjs:
     logo: www/images/urban-institute-logo.png
+    incremental: true
 editor: visual
 output:
   html:
@@ -15,18 +18,42 @@ output:
     mathjax: null
     df_print: paged    
     css: !expr here::here("www", "web_report.css") 
-    fig-width : 9
-    page-layout: full
-    fig-height : 5
 editor_options:
   chunk_output_type: console
 ---
 
-## ![](images/communities-dictionary.png)
+## {background-color="white" background-image="images/DOL-eap.png" data-background-size="contain"}
+
+
+---
+
+## Locate keywords
+:::: {.columns}
+
+::: {.column .incremental width="40%"}
+- Parse corpus of documents
+- Create dictionary of keywords
+- Find keywords across entire corpus or within a context
+:::
+
+
+::: {.column width="50%"}
+
+![](images/DOL-eap.png){fig-align="center"}
+:::
+
+::::
+
+---
+
+## Dictionary 
+
+![](images/communities-dictionary.png){.r-stretch width=90%}
 
 ---
 
 ## Global Search
+
 
 ![](images/communities-frequency-global-eap.png)
 
@@ -34,7 +61,7 @@ editor_options:
 
 ## Window Search
 
-![](images/communities-frequency-window-eap.png)
+![Searched for vulnerable communities within 20 words of mentions of underserved, underrepresented, overburdened, vulnerable, marginalized, disadvantaged, or communities of concern.](images/communities-frequency-window-eap.png)
 
 ------------------------------------------------------------------------
 
@@ -45,8 +72,7 @@ editor_options:
 ---
 
 ## Topics for AP News articles
-
-![](images/ap-top-terms.png)
+![](images/ap-top-terms.png){width=100% fig-align="center"}
 
 ---
 
@@ -58,4 +84,4 @@ editor_options:
 
 ## Sentiment Analysis
 
-![](images/sentiment-analysis-trend.png)
+![](images/sentiment-analysis-trend.png){width=80%  fig-align="center"}
