@@ -54,7 +54,7 @@ librarian::shelf(tidyverse, tidytext, quanteda, reticulate, gt, glue, topicmodel
 
 ## Topic Modeling
 
-![](images/topic-models-blei-2012.png)
+![Figure source: Blei, D.M (2012). Probabilistic topic models. *Communication of the ACM 55*(4), 77-84.](images/topic-models-blei-2012.png)
 
 ## Topics for AP News articles
 
