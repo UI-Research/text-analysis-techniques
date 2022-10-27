@@ -22,66 +22,65 @@ editor_options:
   chunk_output_type: console
 ---
 
-## {background-color="white" background-image="images/DOL-eap.png" data-background-size="contain"}
 
-
----
 
 ## Locate keywords
-:::: {.columns}
 
+::: columns
 ::: {.column .incremental width="40%"}
-- Parse corpus of documents
-- Create dictionary of keywords
-- Find keywords across entire corpus or within a context
+-   Parse corpus of documents
+-   Create dictionary of keywords
+-   Find keywords across entire corpus or within a context
 :::
-
 
 ::: {.column width="50%"}
-
 ![](images/DOL-eap.png){fig-align="center"}
 :::
+:::
 
-::::
+------------------------------------------------------------------------
 
----
+## Dictionary
 
-## Dictionary 
+![](images/communities-dictionary.png){.r-stretch width="90%"}
 
-![](images/communities-dictionary.png){.r-stretch width=90%}
-
----
+------------------------------------------------------------------------
 
 ## Global Search
 
-
 ![](images/communities-frequency-global-eap.png)
 
----
+------------------------------------------------------------------------
 
 ## Window Search
 
-![Searched for vulnerable communities within 20 words of mentions of underserved, underrepresented, overburdened, vulnerable, marginalized, disadvantaged, or communities of concern.](images/communities-frequency-window-eap.png)
+![Searched for vulnerable communities within 20 words of mentions of
+underserved, underrepresented, overburdened, vulnerable, marginalized,
+disadvantaged, or communities of
+concern.](images/communities-frequency-window-eap.png)
 
 ------------------------------------------------------------------------
 
 ## Topic Modeling
 
-![Figure source: Blei, D.M (2012). Probabilistic topic models. *Communication of the ACM 55*(4), 77-84.](images/topic-models-blei-2012.png)
+![Figure source: Blei, D.M (2012). Probabilistic topic models.
+*Communication of the ACM 55*(4),
+77-84.](images/topic-models-blei-2012.png)
 
----
+------------------------------------------------------------------------
 
 ## Topics for AP News articles
-![](images/ap-top-terms.png){width=100% fig-align="center"}
 
----
+![](images/ap-top-terms.png){width="100%" fig-align="center"}
+
+------------------------------------------------------------------------
 
 ## Analyzing Twitter Trends
 
 ![](images/biden-tweet-freqs.png)
 
----
+------------------------------------------------------------------------
 
 ## Sentiment Analysis
 
-![](images/sentiment-analysis-trend.png){width=80%  fig-align="center"}
+![](images/sentiment-analysis-trend.png){width="80%" fig-align="center"}
