@@ -23,7 +23,7 @@ Leverage emerging AI-powered text analysis methods to:
 
 Emerging NLP and AI tools  can **<span style="color:#1696d2;">power up existing research</span>** and **<span style="color:#1696d2;">unlock new research questions</span>**
 
-## The (Horrors) Problems We Can Solve
+## The Problems (Horrors) We Can Solve
 
 - **<span style="color:#1696d2;">Overwhelming data:</span>** From websites, lengthy transcripts, case notes, etc.
 - **<span style="color:#1696d2;">Time-consuming processing</span>**: Manual collection and sifting through information is often unfeasible
