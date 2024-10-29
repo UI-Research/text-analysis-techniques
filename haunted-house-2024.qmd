@@ -1,0 +1,65 @@
+---
+title: "(Unspooky) AI Approaches to Power Your Research"
+author: "Manu Alcalá Kovalski and Judah Axelrod"
+date: "2024-10-31"
+format: 
+  revealjs:
+    menu: false 
+    embed-resources: true
+    theme: urbn.scss    
+    logo: images/urban-institute-logo-2.png
+title-slide-attributes: 
+    data-background-image: images/urban-institute-logo-1.png
+    data-background-size: 25%
+    data-background-position: 3% 85%
+---
+
+## Our (Supernatural) Vision
+We think existing NLP tools and emerging AI tools can **<span style="color:#1696d2;">power up existing research</span>** and **<span style="color:#1696d2;">unlock new research questions that weren't previously possible.</span>**
+
+## The (Haunted) Problem We Are Best Positioned to Solve
+- There are massive amounts of information, either scrapeable from website(s), or already collected in lengthy transcripts, case notes, or other forms, that can be **<span style="color:#1696d2;">synthesized into actionable insights</span>**.
+- Collecting and sifting through this information is **<span style="color:#1696d2;">time-consuming and often unfeasible</span>** for researchers to do manually.
+
+
+## Tricks and Treats For This Bottleneck
+::: {.panel-tabset}
+### Basic Text Analysis
+- Think of as "advanced CTRL+F"
+- Flag key search terms and the windows of text around them
+- Help you make manual review more targeted and efficient
+
+### Advanced Text Analysis
+- Semantic ("smart") search
+- Name-entity tagging to pull out important entities (people, places, organizations)
+- Topic modeling to find latent themes in text
+:::
+
+## Tricks and Treats For This Bottleneck
+::: {.panel-tabset}
+
+### Extractive AI
+- Give Large Language Model (LLM) a prompt to find and pull out specific text or answers from body of documents
+- Can be great for parsing through table data or cases where you may not know all the search terms
+
+### Generative AI
+- Ask AI to generate insights, summaries, or recommendations based on the text
+- This is a place where we still have much to learn ourselves!
+:::
+
+## Your (Eerie) Enquiries
+- How much do I need to know about AI?
+- What kinds of data work well these tools? How about confidential data?
+- I hear AI can hallucinate, so how can we trust and verify it?
+- What if I am concerned about these tools replacing my expertise?
+
+## What are *Our* Eeriest Enquiries?
+- Which specific platforms, models, and cost structures should Urban use in AI for research?
+- What are the exact use cases where we would *always* or *never* want to suggest an AI-based solution?
+- What are our blind spots?
+
+## Demo Time!
+[Not sure if this should go at end or after text analysis sections Manu?]
+
+
+
